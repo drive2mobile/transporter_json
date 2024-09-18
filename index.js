@@ -2,7 +2,7 @@
 import express from "express";
 import cors from "cors"
 import fs from "fs";
-import { downloadRouteList, downloadRouteStops, downloadStops } from "./functions/ctb.js";
+import { downloadRouteList, downloadRouteStops, downloadStops, parseJson } from "./functions/ctb.js";
 
 
 const app = express();
@@ -15,7 +15,8 @@ app.use(cors({
 app.get(('/ctb'), async (req, res) => {
     // await downloadRouteList();
     // await downloadRouteStops();
-    await downloadStops();
+    // await downloadStops();
+    await parseJson('en');
     res.send('done');
 })
 
