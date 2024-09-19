@@ -201,10 +201,10 @@ async function parseJsonCtb(lang)
         }
     }
 
-    const saveFilePath1 = `./download/ctb/output/routeList_${lang}.json`;
+    const saveFilePath1 = `./download/ctb/output/routeList_ctb_${lang}.json`;
     await saveJSONToFile(saveFilePath1, routeList);
 
-    const saveFilePath2 = `./download/ctb/output/routeStopList_${lang}.json`;
+    const saveFilePath2 = `./download/ctb/output/routeStopList_ctb_${lang}.json`;
     await saveJSONToFile(saveFilePath2, routeStopList);
 }
 

@@ -73,7 +73,7 @@ async function saveJSONToFile(filePath, data)
     {
         const jsonData = JSON.stringify(data, null, 2);
         await fs.promises.writeFile(filePath, jsonData, 'utf-8', { flag: 'w' });
-        console.log('JSON file saved successfully.');
+        console.log('JSON file saved successfully: ' + filePath);
     } catch (error)
     {
         console.error('Error saving JSON file:', error);

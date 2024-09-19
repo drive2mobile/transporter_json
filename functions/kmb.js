@@ -93,9 +93,10 @@ async function parseJsonKmb(lang)
             'route': currStop['route'],
             'from': routeListObject[id]['from'],
             'to': routeListObject[id]['to'],
-            'bound': currStop['bound'],
+            'dir': currStop['bound'],
             'seq': currStop['seq'],
             'stop': currStop['stop'],
+            'serviceType': currStop['service_type'],
             'name': stopListObject[currStop['stop']][`name_${lang}`],
             'lat': stopListObject[currStop['stop']]['lat'],
             'long': stopListObject[currStop['stop']]['long'],
@@ -113,10 +114,10 @@ async function parseJsonKmb(lang)
         }
     }
 
-    const saveFilePath1 = `./download/kmb/output/routeList_${lang}.json`;
+    const saveFilePath1 = `./download/kmb/output/routeList_kmb_${lang}.json`;
     await saveJSONToFile(saveFilePath1, routeList);
 
-    const saveFilePath2 = `./download/kmb/output/routeStopList_${lang}.json`;
+    const saveFilePath2 = `./download/kmb/output/routeStopList_kmb_${lang}.json`;
     await saveJSONToFile(saveFilePath2, routeStopList);
 }
 
