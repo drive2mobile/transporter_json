@@ -2,7 +2,9 @@
 import express from "express";
 import cors from "cors"
 import fs from "fs";
-import { downloadRouteList, downloadRouteStops, downloadStops, parseJson } from "./functions/ctb.js";
+import { downloadRouteList, downloadRouteStops, downloadStops, parseJsonCtb } from "./functions/ctb.js";
+import { downloadRouteListKmb, downloadRouteStopListKmb, downloadStopListKmb, parseJsonKmb, } from "./functions/kmb.js";
+import { downloadJSONFile } from "./src/utilities/file_management.js";
 
 
 const app = express();
@@ -12,15 +14,46 @@ app.use(cors({
     credentials: true
 }));
 
-app.get(('/ctb'), async (req, res) => {
-    // await downloadRouteList();
-    // await downloadRouteStops();
-    // await downloadStops();
-    await parseJson('en');
+app.get(('/kmb'), async (req, res) =>
+{
+    // await downloadRouteListKmb();
+    // await downloadRouteStopListKmb();
+    // await new Promise((resolve) => setTimeout(resolve, 5000));
+    // await downloadStopListKmb();
+
+    await parseJsonKmb('en');
+    await parseJsonKmb('tc');
+
     res.send('done');
 })
 
-app.get(('/ctbtest'), async (req, res) => {
+app.get(('/ctb'), async (req, res) =>
+{
+    // await downloadRouteList();
+    // await downloadRouteStops();
+    // await downloadStops();
+
+    await parseJsonCtb('en');
+    await parseJsonCtb('tc');
+
+    res.send('done');
+})
+
+
+app.get(('/kmbctb'), async (req, res) =>
+    {
+        // await downloadRouteList();
+        // await downloadRouteStops();
+        // await downloadStops();
+    
+        await parseJson('en');
+        await parseJson('tc');
+    
+        res.send('done');
+    })
+
+app.get(('/ctbtest'), async (req, res) =>
+{
     await downloadStops();
     res.send('done');
 })
@@ -138,7 +171,8 @@ const options = {
 // });
 
 // ===== LOCALHOST TESTING SERVER =====
-app.listen('8081', () => {
+app.listen('8081', () =>
+{
     console.log('port at 8081');
 });
 
