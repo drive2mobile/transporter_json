@@ -1,0 +1,272 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:26:20.446+08:00",
+  "data": [
+    {
+      "route_id": 2000410,
+      "region": "HKI",
+      "route_code": "69",
+      "description_tc": "正常班次",
+      "description_sc": "正常班次",
+      "description_en": "Normal Schedule",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "數碼港",
+          "orig_sc": "数码港",
+          "orig_en": "Cyberport",
+          "dest_tc": "鰂魚涌(船塢里)(循環線)",
+          "dest_sc": "鲗鱼涌(船坞里)(循环线)",
+          "dest_en": "Quarry Bay (Shipyard Lane) (Circular)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "06:30:00",
+              "end_time": "07:00:00",
+              "frequency": 15,
+              "frequency_upper": 20
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 2,
+              "start_time": "07:00:00",
+              "end_time": "09:00:00",
+              "frequency": 12,
+              "frequency_upper": 15
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 3,
+              "start_time": "09:00:00",
+              "end_time": "16:00:00",
+              "frequency": 20,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 4,
+              "start_time": "16:00:00",
+              "end_time": "19:20:00",
+              "frequency": 12,
+              "frequency_upper": 15
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 5,
+              "start_time": "19:20:00",
+              "end_time": "20:00:00",
+              "frequency": 20,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 6,
+              "start_time": "20:00:00",
+              "end_time": "21:00:00",
+              "frequency": 30,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 7,
+              "start_time": "06:30:00",
+              "end_time": "20:00:00",
+              "frequency": 20,
+              "frequency_upper": 30
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 8,
+              "start_time": "20:00:00",
+              "end_time": "21:00:00",
+              "frequency": 30,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-09-19T14:09:06.805+08:00"
+        }
+      ],
+      "data_timestamp": "2024-09-19T14:09:06.805+08:00"
+    },
+    {
+      "route_id": 2000939,
+      "region": "HKI",
+      "route_code": "69",
+      "description_tc": "北角站起載特別班次",
+      "description_sc": "北角站起载特别班次",
+      "description_en": "Special Departure from North Point Station",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "北角港鐵站",
+          "orig_sc": "北角港铁站",
+          "orig_en": "North Point MTR Station",
+          "dest_tc": "數碼港",
+          "dest_sc": "数码港",
+          "dest_en": "Cyberport",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "07:50:00",
+              "end_time": "07:50:00",
+              "frequency": null,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-09-19T14:09:06.805+08:00"
+        }
+      ],
+      "data_timestamp": "2024-09-19T14:09:06.805+08:00"
+    },
+    {
+      "route_id": 2000963,
+      "region": "HKI",
+      "route_code": "69",
+      "description_tc": "經黃竹坑道天橋",
+      "description_sc": "经黄竹坑道天桥",
+      "description_en": "via Wong Chuk Hang Road Flyover",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "數碼港",
+          "orig_sc": "数码港",
+          "orig_en": "Cyberport",
+          "dest_tc": "鰂魚涌(船塢里)(循環線)",
+          "dest_sc": "鲗鱼涌(船坞里)(循环线)",
+          "dest_en": "Quarry Bay (Shipyard Lane) (Circular)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "07:00:00",
+              "end_time": "09:00:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 2,
+              "start_time": "17:00:00",
+              "end_time": "19:00:00",
+              "frequency": 15,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-09-19T14:09:06.805+08:00"
+        }
+      ],
+      "data_timestamp": "2024-09-19T14:09:06.805+08:00"
+    }
+  ]
+}

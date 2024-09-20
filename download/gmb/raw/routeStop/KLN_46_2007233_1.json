@@ -1,0 +1,143 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:27:08.354+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20015244,
+        "name_tc": "啓仁街, 近聖公會九龍灣基樂小學",
+        "name_sc": "启仁街, 近圣公会九龙湾基乐小学",
+        "name_en": "Kai Yan Street, near SKH Kowloon Bay Kei Lok Primary School"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20012057,
+        "name_tc": "啟禮道, 九龍灣公園外",
+        "name_sc": "启礼道, 九龙湾公园外",
+        "name_en": "Kai Lai Road, outside Kowloon Bay Park"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20000895,
+        "name_tc": "宏照道, 九龍灣運動場外",
+        "name_sc": "宏照道, 九龙湾运动场外",
+        "name_en": "Wang Chiu Road, outside Kowloon Bay Park"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20015245,
+        "name_tc": "太子道東, 近都市綠洲",
+        "name_sc": "太子道东, 近都市绿洲",
+        "name_en": "Prince Edward Road East, near Urban Oasis"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20015246,
+        "name_tc": "太子道東, 近采頤花園第八座",
+        "name_sc": "太子道东, 近采颐花园第八座",
+        "name_en": "Prince Edward Road East, near Rhythm Garden Block 8"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20015252,
+        "name_tc": "太子道東, 近新蒲崗交匯處休憩花園",
+        "name_sc": "太子道东, 近新蒲岗交汇处休憩花园",
+        "name_en": "Prince Edward Road East, near San Po Kong Interchange Rest Garden"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20015248,
+        "name_tc": "太子道西, 近啟德一號污水泵房",
+        "name_sc": "太子道西, 近启德一号污水泵房",
+        "name_en": "Prince Edward Road East, near Kai Tak No.1 Sewage Pumping Station"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20014651,
+        "name_tc": "太子道西, 近蘭苑",
+        "name_sc": "太子道西, 近兰苑",
+        "name_en": "Prince Edward Road West, near Lan Yuen"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20014198,
+        "name_tc": "太子道西, 近聖德肋撒醫院北座",
+        "name_sc": "太子道西, 近圣德肋撒医院北座",
+        "name_en": "Prince Edward Road West, near St. Teresa's Hospital North Wing"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20015158,
+        "name_tc": "太子道西, 近愛華閣（二期）",
+        "name_sc": "太子道西, 近爱华阁（二期）",
+        "name_en": "Prince Edward Road West, near Edwardian Heights (Phase II)"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20014245,
+        "name_tc": "太子道西, 近太和苑",
+        "name_sc": "太子道西, 近太和苑 ",
+        "name_en": "Prince Edward Road West, near Peace Garden"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20004126,
+        "name_tc": "太子道西, 新世紀廣場外",
+        "name_sc": "太子道西, 新世纪广场外",
+        "name_en": "Prince Edward Road East, outside MOKO"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20000628,
+        "name_tc": "太子道西, 別樹一居外",
+        "name_sc": "太子道西, 别树一居外",
+        "name_en": "Prince Edward Road West, outside Bijou Court"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20000629,
+        "name_tc": "通州街",
+        "name_sc": "通州街",
+        "name_en": "Tung Chau Street"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20015249,
+        "name_tc": "大角咀道, 近大角咀道／洋松街休憩處",
+        "name_sc": "大角咀道, 近大角咀道／洋松街休憩处",
+        "name_en": "Tai Kok Tsui Road, near Tai Kok Tsui Road/Larch Street Sitting-out Area"
+      },
+      {
+        "stop_seq": 16,
+        "stop_id": 20000630,
+        "name_tc": "大角咀道埃華街休憩公園外",
+        "name_sc": "大角咀道埃华街休憩公园外",
+        "name_en": "Tai Kok Tsui Road outside Ivy Street Rest Garden"
+      },
+      {
+        "stop_seq": 17,
+        "stop_id": 20000631,
+        "name_tc": "大角咀道38號外",
+        "name_sc": "大角咀道38号外",
+        "name_en": "Tai Kok Tsui Road outside House No. 38"
+      },
+      {
+        "stop_seq": 18,
+        "stop_id": 20015250,
+        "name_tc": "海輝道, 近浪澄灣第六座",
+        "name_sc": "海辉道, 近浪澄湾第六座",
+        "name_en": "Hoi Fai Road, near Long Beach Tower 6, The Long Beach"
+      },
+      {
+        "stop_seq": 19,
+        "stop_id": 20015251,
+        "name_tc": "維港灣",
+        "name_sc": "维港湾",
+        "name_en": "Island Harbourview"
+      }
+    ],
+    "data_timestamp": "2024-09-05T09:58:25.960+08:00"
+  }
+}

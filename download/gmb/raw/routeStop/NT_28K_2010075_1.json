@@ -1,0 +1,101 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:28:29.399+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20001222,
+        "name_tc": "廣福道, 近廣福大廈",
+        "name_sc": "广福道, 近广福大厦",
+        "name_en": "Kwong Fuk Road, near Kwong Fuk Building"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20001224,
+        "name_tc": "廣福道, 近運頭角里",
+        "name_sc": "广福道, 近运头角里",
+        "name_en": "Kwong Fuk Road, Wan Tau Kok Lane"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20001225,
+        "name_tc": "大埔公路, 廣福邨外",
+        "name_sc": "大埔公路, 广福邨外",
+        "name_en": "Tai Po Road, outside Kwong Fuk Estate"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20003192,
+        "name_tc": "美援新村/黃宜坳",
+        "name_sc": "美援新村/黄宜坳",
+        "name_en": "Care Village/Wong Yi Au"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20007576,
+        "name_tc": "荔枝坑, 大埔公路",
+        "name_sc": "荔枝坑, 大埔公路",
+        "name_en": "Lai Chi Hang, Tai Po Road"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20003191,
+        "name_tc": "新翠山莊/蔚海山莊",
+        "name_sc": "新翠山庄/蔚海山庄",
+        "name_en": "Villa Castell / Villa Costa"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20006560,
+        "name_tc": "鹿茵山莊",
+        "name_sc": "鹿茵山庄",
+        "name_en": "Deerhill Bay"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20003188,
+        "name_tc": "樟樹灘",
+        "name_sc": "樟树滩",
+        "name_en": "Cheung Shue Tan"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20007587,
+        "name_tc": "香港中文大學",
+        "name_sc": "香港中文大学",
+        "name_en": "Chinese University of Hong Kong"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20009536,
+        "name_tc": "崇基學院",
+        "name_sc": "崇基学院",
+        "name_en": "Chung Chi College"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20002232,
+        "name_tc": "火炭駿景園",
+        "name_sc": "火炭骏景园",
+        "name_en": "Royal Ascot, Fo Tan"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20001569,
+        "name_tc": "担杆莆街沙田大會堂外",
+        "name_sc": "担杆莆街沙田大会堂外",
+        "name_en": "Tam Kon Po Street, outside Sha Tin Town Hall"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20001570,
+        "name_tc": "白鶴汀街帝都酒店外",
+        "name_sc": "白鹤汀街帝都酒店外",
+        "name_en": "Royal Park Hotel"
+      }
+    ],
+    "data_timestamp": "2024-07-31T16:58:38.766+08:00"
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:27:50.787+08:00",
+  "data": [
+    {
+      "route_id": 2003867,
+      "region": "NT",
+      "route_code": "111",
+      "description_tc": "正常班次",
+      "description_sc": "正常班次",
+      "description_en": "Normal Route",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "寶琳",
+          "orig_sc": "宝琳",
+          "orig_en": "Po Lam",
+          "dest_tc": "新蒲崗",
+          "dest_sc": "新蒲岗",
+          "dest_en": "San Po Kong",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "06:00:00",
+              "end_time": "09:00:00",
+              "frequency": 8,
+              "frequency_upper": 10
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 2,
+              "start_time": "09:00:00",
+              "end_time": "17:00:00",
+              "frequency": 20,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 3,
+              "start_time": "17:00:00",
+              "end_time": "20:10:00",
+              "frequency": 8,
+              "frequency_upper": 10
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 4,
+              "start_time": "20:10:00",
+              "end_time": "22:30:00",
+              "frequency": 20,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 5,
+              "start_time": "22:30:00",
+              "end_time": "00:00:00",
+              "frequency": 30,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-08-07T13:52:30.666+08:00"
+        },
+        {
+          "route_seq": 2,
+          "orig_tc": "新蒲崗",
+          "orig_sc": "新蒲岗",
+          "orig_en": "San Po Kong",
+          "dest_tc": "寶琳",
+          "dest_sc": "宝琳",
+          "dest_en": "Po Lam",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "06:00:00",
+              "end_time": "09:00:00",
+              "frequency": 8,
+              "frequency_upper": 10
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 2,
+              "start_time": "09:00:00",
+              "end_time": "17:00:00",
+              "frequency": 20,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 3,
+              "start_time": "17:00:00",
+              "end_time": "20:10:00",
+              "frequency": 8,
+              "frequency_upper": 10
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 4,
+              "start_time": "20:10:00",
+              "end_time": "22:30:00",
+              "frequency": 20,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 5,
+              "start_time": "22:30:00",
+              "end_time": "00:00:00",
+              "frequency": 30,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-08-07T13:52:30.666+08:00"
+        }
+      ],
+      "data_timestamp": "2024-08-07T13:52:30.666+08:00"
+    }
+  ]
+}

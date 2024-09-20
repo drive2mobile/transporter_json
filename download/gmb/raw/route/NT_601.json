@@ -1,0 +1,235 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:29:33.540+08:00",
+  "data": [
+    {
+      "route_id": 2008685,
+      "region": "NT",
+      "route_code": "601",
+      "description_tc": "正常班次",
+      "description_sc": "正常班次",
+      "description_en": "Normal Route",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "元朗 (鳳翔路)",
+          "orig_sc": "元朗 (凤翔路)",
+          "orig_en": "Yuen Long (Fung Cheung Road)",
+          "dest_tc": "北圍村",
+          "dest_sc": "北围村",
+          "dest_en": "Pak Wai Tsuen",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "05:45:00",
+              "end_time": "07:00:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 2,
+              "start_time": "07:00:00",
+              "end_time": "10:00:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 3,
+              "start_time": "10:00:00",
+              "end_time": "14:30:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 4,
+              "start_time": "14:30:00",
+              "end_time": "19:10:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 5,
+              "start_time": "19:10:00",
+              "end_time": "21:10:00",
+              "frequency": 20,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 6,
+              "start_time": "21:10:00",
+              "end_time": "21:40:00",
+              "frequency": 15,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-05-30T10:48:46.396+08:00"
+        },
+        {
+          "route_seq": 2,
+          "orig_tc": "北圍村",
+          "orig_sc": "北围村",
+          "orig_en": "Pak Wai Tsuen",
+          "dest_tc": "元朗 (鳳翔路)",
+          "dest_sc": "Yuen Long (Fung Cheung Road)",
+          "dest_en": "元朗 (凤翔路)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "05:55:00",
+              "end_time": "07:10:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 2,
+              "start_time": "07:10:00",
+              "end_time": "10:00:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 3,
+              "start_time": "10:00:00",
+              "end_time": "14:30:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 4,
+              "start_time": "14:30:00",
+              "end_time": "19:00:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 5,
+              "start_time": "19:00:00",
+              "end_time": "22:00:00",
+              "frequency": 20,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-05-30T10:48:46.396+08:00"
+        }
+      ],
+      "data_timestamp": "2024-05-30T10:48:46.396+08:00"
+    }
+  ]
+}

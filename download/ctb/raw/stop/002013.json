@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:14:38+08:00",
+  "data": {
+    "stop": "002013",
+    "name_tc": "湖景邨湖翠樓, 湖景路",
+    "name_en": "Wu Tsui House Wu King Estate, Wu King Road",
+    "lat": "22.376449362091",
+    "long": "113.96640318053",
+    "name_sc": "湖景邨湖翠楼, 湖景路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

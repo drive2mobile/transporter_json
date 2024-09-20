@@ -1,0 +1,135 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:28:29.619+08:00",
+  "data": [
+    {
+      "route_id": 2010076,
+      "region": "NT",
+      "route_code": "28S",
+      "description_tc": "正常班次",
+      "description_sc": "正常班次",
+      "description_en": "Normal Route",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "白石角(天賦海灣)",
+          "orig_sc": "白石角(天赋海湾)",
+          "orig_en": "Pak Shek Kok (Providence Bay)",
+          "dest_tc": "沙田(白鶴汀街)(循環線)",
+          "dest_sc": "沙田(白鹤汀街)(循环线)",
+          "dest_en": "Sha Tin (Pak Hok Ting Street)(Circular)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "07:00:00",
+              "end_time": "13:00:00",
+              "frequency": 35,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 2,
+              "start_time": "13:00:00",
+              "end_time": "13:45:00",
+              "frequency": 45,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 3,
+              "start_time": "13:45:00",
+              "end_time": "21:00:00",
+              "frequency": 35,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 4,
+              "start_time": "09:00:00",
+              "end_time": "13:00:00",
+              "frequency": 35,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 5,
+              "start_time": "13:00:00",
+              "end_time": "13:45:00",
+              "frequency": 45,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 6,
+              "start_time": "13:45:00",
+              "end_time": "21:00:00",
+              "frequency": 35,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-07-31T16:58:38.780+08:00"
+        }
+      ],
+      "data_timestamp": "2024-07-31T16:58:38.780+08:00"
+    }
+  ]
+}

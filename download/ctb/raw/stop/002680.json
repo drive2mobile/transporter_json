@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:08:32+08:00",
+  "data": {
+    "stop": "002680",
+    "name_tc": "華翠街, 域多利道",
+    "name_en": "Wah Chui Street, Victoria Road",
+    "lat": "22.255138602091",
+    "long": "114.13607730053",
+    "name_sc": "华翠街, 域多利道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

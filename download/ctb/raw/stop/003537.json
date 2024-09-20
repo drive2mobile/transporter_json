@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:06:54+08:00",
+  "data": {
+    "stop": "003537",
+    "name_tc": "德朗邨, 承啟道",
+    "name_en": "Tak Long Estate, Shing Kai Road",
+    "lat": "22.329424582091",
+    "long": "114.20487963053",
+    "name_sc": "德朗邨, 承启道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

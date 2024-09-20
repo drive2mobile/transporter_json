@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:12:00+08:00",
+  "data": {
+    "stop": "003407",
+    "name_tc": "堅尼地城站, 科士街",
+    "name_en": "Kennedy Town Station, Forbes Street",
+    "lat": "22.281379752091",
+    "long": "114.12784452053",
+    "name_sc": "坚尼地城站, 科士街",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

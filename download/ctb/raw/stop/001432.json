@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:16:55+08:00",
+  "data": {
+    "stop": "001432",
+    "name_tc": "興華街, 長沙灣道",
+    "name_en": "Hing Wah Street, Cheung Sha Wan Road",
+    "lat": "22.338282442091",
+    "long": "114.15226433053",
+    "name_sc": "兴华街, 长沙湾道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

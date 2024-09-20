@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:15:56+08:00",
+  "data": {
+    "stop": "002606",
+    "name_tc": "御海峰, 青山公路",
+    "name_en": "Vista Cove, Castle Peak Road",
+    "lat": "22.357895942091",
+    "long": "114.03588282053",
+    "name_sc": "御海峰, 青山公路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

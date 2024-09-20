@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:16:56+08:00",
+  "data": {
+    "stop": "003304",
+    "name_tc": "香港天際萬豪酒店, 航天城東路",
+    "name_en": "Hong Kong SkyCity Marriott Hotel, Sky City Road East",
+    "lat": "22.318241672091",
+    "long": "113.94319755053",
+    "name_sc": "香港天际万豪酒店, 航天城东路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

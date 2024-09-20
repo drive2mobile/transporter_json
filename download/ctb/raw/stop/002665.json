@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:12:04+08:00",
+  "data": {
+    "stop": "002665",
+    "name_tc": "下碧瑤灣, 域多利道",
+    "name_en": "Lower Baguio Villa, Victoria Road",
+    "lat": "22.263931012091",
+    "long": "114.13152407053",
+    "name_sc": "下碧瑶湾, 域多利道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

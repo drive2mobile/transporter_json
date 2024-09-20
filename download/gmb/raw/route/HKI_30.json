@@ -1,0 +1,184 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:25:45.524+08:00",
+  "data": [
+    {
+      "route_id": 2003472,
+      "region": "HKI",
+      "route_code": "30",
+      "description_tc": "正常班次",
+      "description_sc": "正常班次",
+      "description_en": "Normal Route",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "銅鑼灣(蘭芳道)",
+          "orig_sc": "铜锣湾(兰芳道)",
+          "orig_en": "Causeway Bay (Lan Fong Road)",
+          "dest_tc": "跑馬地(冬青道)",
+          "dest_sc": "跑马地(冬青道)",
+          "dest_en": "Happy Valley (Holly Road)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "06:30:00",
+              "end_time": "08:30:00",
+              "frequency": 8,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 2,
+              "start_time": "08:30:00",
+              "end_time": "09:30:00",
+              "frequency": 7,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 3,
+              "start_time": "09:30:00",
+              "end_time": "23:30:00",
+              "frequency": 8,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 4,
+              "start_time": "06:30:00",
+              "end_time": "23:30:00",
+              "frequency": 10,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-07-11T11:44:58.664+08:00"
+        },
+        {
+          "route_seq": 2,
+          "orig_tc": "跑馬地(冬青道)",
+          "orig_sc": "跑马地(冬青道)",
+          "orig_en": "Happy Valley (Holly Road)",
+          "dest_tc": "銅鑼灣(蘭芳道)",
+          "dest_sc": "铜锣湾(兰芳道)",
+          "dest_en": "Causeway Bay (Lan Fong Road)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "06:40:00",
+              "end_time": "08:30:00",
+              "frequency": 8,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 2,
+              "start_time": "08:30:00",
+              "end_time": "09:30:00",
+              "frequency": 7,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 3,
+              "start_time": "09:30:00",
+              "end_time": "23:40:00",
+              "frequency": 8,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 4,
+              "start_time": "06:40:00",
+              "end_time": "23:40:00",
+              "frequency": 10,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-07-11T11:44:58.664+08:00"
+        }
+      ],
+      "data_timestamp": "2024-07-11T11:44:58.664+08:00"
+    }
+  ]
+}

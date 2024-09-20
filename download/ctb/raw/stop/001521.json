@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:13:01+08:00",
+  "data": {
+    "stop": "001521",
+    "name_tc": "觀塘法院, 鯉魚門道",
+    "name_en": "Kwun Tong Law Courts, Lei Yue Mun Road",
+    "lat": "22.309748242091",
+    "long": "114.22987703053",
+    "name_sc": "观塘法院, 鲤鱼门道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

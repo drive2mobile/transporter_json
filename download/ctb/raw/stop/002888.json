@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:17:32+08:00",
+  "data": {
+    "stop": "002888",
+    "name_tc": "朗豪坊, 上海街",
+    "name_en": "Langham Place, Shanghai Street",
+    "lat": "22.317627242091",
+    "long": "114.16845162053",
+    "name_sc": "朗豪坊, 上海街",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

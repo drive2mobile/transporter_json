@@ -1,0 +1,103 @@
+{
+  "type": "RouteStop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T14:56:12+08:00",
+  "data": [
+    {
+      "co": "CTB",
+      "route": "388",
+      "dir": "O",
+      "seq": 1,
+      "stop": "001294",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "388",
+      "dir": "O",
+      "seq": 2,
+      "stop": "002803",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "388",
+      "dir": "O",
+      "seq": 3,
+      "stop": "002804",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "388",
+      "dir": "O",
+      "seq": 4,
+      "stop": "002805",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "388",
+      "dir": "O",
+      "seq": 5,
+      "stop": "002806",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "388",
+      "dir": "O",
+      "seq": 6,
+      "stop": "002807",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "388",
+      "dir": "O",
+      "seq": 7,
+      "stop": "002787",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "388",
+      "dir": "O",
+      "seq": 8,
+      "stop": "001321",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "388",
+      "dir": "O",
+      "seq": 9,
+      "stop": "001322",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "388",
+      "dir": "O",
+      "seq": 10,
+      "stop": "001219",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "388",
+      "dir": "O",
+      "seq": 11,
+      "stop": "001220",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "388",
+      "dir": "O",
+      "seq": 12,
+      "stop": "001221",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:30:58.388+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20016010,
+        "name_tc": "荃德花園",
+        "name_sc": "荃德花园",
+        "name_en": "Tsuen Tak Gardens"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20016011,
+        "name_tc": "青山公路-荃灣段錦豐園外",
+        "name_sc": "青山公路-荃湾段锦丰园外",
+        "name_en": "Castle Peak Road-Tsuen Wan outside Kam Fung Garden"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20001872,
+        "name_tc": "青山公路-荃灣段中染大廈外",
+        "name_sc": "青山公路-荃湾段中染大厦外",
+        "name_en": "Castle Peak Road-Tsuen Wan outside CDW Building"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20001873,
+        "name_tc": "西樓角路南豐中心對面",
+        "name_sc": "西楼角路南丰中心对面",
+        "name_en": "Sai Lau Kok Road opposite to Nan Fung Centre"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20001877,
+        "name_tc": "青山公路-荃灣段287號外",
+        "name_sc": "青山公路-荃湾段287号外",
+        "name_en": "Castle Peak Road-Tsuen Wan outside House No. 287"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20016003,
+        "name_tc": "青山公路-荃灣段413號外",
+        "name_sc": "青山公路-荃湾段413号外",
+        "name_en": "Castle Peak Road-Tsuen Wan outside House No. 413"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20016012,
+        "name_tc": "青山公路-荃灣段491-501號外",
+        "name_sc": "青山公路-荃湾段491-501号外",
+        "name_en": "Castle Peak Road-Tsuen Wan outside House No. 491-501"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20016010,
+        "name_tc": "荃德花園",
+        "name_sc": "荃德花园",
+        "name_en": "Tsuen Tak Gardens"
+      }
+    ],
+    "data_timestamp": "2022-10-27T00:05:39.596+08:00"
+  }
+}

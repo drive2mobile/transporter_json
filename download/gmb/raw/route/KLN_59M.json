@@ -1,0 +1,67 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:27:15.012+08:00",
+  "data": [
+    {
+      "route_id": 2004398,
+      "region": "KLN",
+      "route_code": "59M",
+      "description_tc": "特別班次",
+      "description_sc": "特別班次",
+      "description_en": "Special Departures",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "翠屏南邨",
+          "orig_sc": "翠屏南邨",
+          "orig_en": "Tsui Ping Estate South",
+          "dest_tc": "福塘道(循環線)",
+          "dest_sc": "福塘道(循环线)",
+          "dest_en": "Fuk Tong Road (Circular)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "07:30:00",
+              "end_time": "09:00:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 2,
+              "start_time": "17:30:00",
+              "end_time": "19:30:00",
+              "frequency": 15,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2023-07-30T00:00:29.420+08:00"
+        }
+      ],
+      "data_timestamp": "2023-07-30T00:00:29.420+08:00"
+    }
+  ]
+}

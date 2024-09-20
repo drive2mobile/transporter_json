@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:15:02+08:00",
+  "data": {
+    "stop": "003097",
+    "name_tc": "美城苑, 美田路",
+    "name_en": "May Shing Court, Mei Tin Road",
+    "lat": "22.379248982091",
+    "long": "114.17373280053",
+    "name_sc": "美城苑, 美田路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

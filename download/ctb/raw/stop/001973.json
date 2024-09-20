@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:16:14+08:00",
+  "data": {
+    "stop": "001973",
+    "name_tc": "大欖隧道收費廣場",
+    "name_en": "Tai Lam Tunnel Toll Plaza",
+    "lat": "22.420811642091",
+    "long": "114.06438367053",
+    "name_sc": "大榄隧道收费广场",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

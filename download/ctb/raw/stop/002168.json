@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:06:29+08:00",
+  "data": {
+    "stop": "002168",
+    "name_tc": "利枝道, 鴨脷洲橋道",
+    "name_en": "Lee Chi Road, Ap Lei Chau Bridge Road",
+    "lat": "22.243012942091",
+    "long": "114.15500259053",
+    "name_sc": "利枝道, 鸭脷洲桥道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

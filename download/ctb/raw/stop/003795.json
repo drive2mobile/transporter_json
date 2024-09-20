@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:06:54+08:00",
+  "data": {
+    "stop": "003795",
+    "name_tc": "東九龍總區警察總部, 協調道",
+    "name_en": "Kowloon East Regional Police Headquarters, Concorde Road",
+    "lat": "22.334509052091",
+    "long": "114.20188119053",
+    "name_sc": "东九龙总区警察总部, 协调道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

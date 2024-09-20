@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:09:32+08:00",
+  "data": {
+    "stop": "002732",
+    "name_tc": "美麗閣, 衛城道",
+    "name_en": "Merry Court, Castle Road",
+    "lat": "22.282176712091",
+    "long": "114.14925129053",
+    "name_sc": "美丽阁, 卫城道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

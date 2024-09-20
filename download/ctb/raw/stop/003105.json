@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:16:38+08:00",
+  "data": {
+    "stop": "003105",
+    "name_tc": "隆亨邨, 田心街",
+    "name_en": "Lung Hang Estate, Tin Sam Street",
+    "lat": "22.368936252091",
+    "long": "114.17893210053",
+    "name_sc": "隆亨邨, 田心街",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:30:11.693+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20007390,
+        "name_tc": "車公廟路, 顯徑體育館外",
+        "name_sc": "车公庙路, 显径体育馆外",
+        "name_en": "Che Kung Miu Road, outside Hin Keng Sports Centre"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20001573,
+        "name_tc": "港鐵大圍站公共運輸交匯處",
+        "name_sc": "港铁大围站公共运输交汇处",
+        "name_en": "Tai Wai Station Bus Terminus"
+      }
+    ],
+    "data_timestamp": "2024-07-31T17:00:41.889+08:00"
+  }
+}

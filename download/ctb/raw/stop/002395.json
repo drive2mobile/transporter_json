@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:12:06+08:00",
+  "data": {
+    "stop": "002395",
+    "name_tc": "大口環道, 域多利道",
+    "name_en": "Sandy Bay Road, Victoria Road",
+    "lat": "22.272764882091",
+    "long": "114.12750132053",
+    "name_sc": "大口环道, 域多利道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

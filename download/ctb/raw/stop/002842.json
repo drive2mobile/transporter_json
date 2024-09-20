@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:14:40+08:00",
+  "data": {
+    "stop": "002842",
+    "name_tc": "長發街, 青山道",
+    "name_en": "Cheung Fat Street, Castle Peak Road",
+    "lat": "22.338304542091",
+    "long": "114.15655635053",
+    "name_sc": "长发街, 青山道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

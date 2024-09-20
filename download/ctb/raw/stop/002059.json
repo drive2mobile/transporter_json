@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:16:11+08:00",
+  "data": {
+    "stop": "002059",
+    "name_tc": "天晴邨晴彩樓, 天華路",
+    "name_en": "Ching Choi House Tin Ching Estate, Tin Wah Road",
+    "lat": "22.462215262091",
+    "long": "114.00287362053",
+    "name_sc": "天晴邨晴彩楼, 天华路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

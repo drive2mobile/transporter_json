@@ -1,0 +1,59 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:29:08.549+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20002178,
+        "name_tc": "荃灣街市街",
+        "name_sc": "荃湾街市街",
+        "name_en": "Tsuen Wan Market Street"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20002180,
+        "name_tc": "大圍道美林邨美楓樓對面",
+        "name_sc": "大围道美林邨美枫楼对面",
+        "name_en": "Tai Wai Road opposite to Mei Fung House, Mei Lam Estate"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20003167,
+        "name_tc": "美田路金禧花園外",
+        "name_sc": "美田路金禧花园外",
+        "name_en": "Mei Tin Road outside Grandeur Garden"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20001573,
+        "name_tc": "大圍站公共運輸交匯處",
+        "name_sc": "大围站公共运输交汇处",
+        "name_en": "Tai Wai Station Public Transport Interchange"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20003166,
+        "name_tc": "美田路北行海福花園外",
+        "name_sc": "美田路北行海福花园外",
+        "name_en": "Mei Tin Road outside Holford Garden"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20007375,
+        "name_tc": "大埔公路-大圍段美林邨美桃樓外",
+        "name_sc": "大埔公路-大围段美林邨美桃楼外",
+        "name_en": "Tai Po Road-Tai Wai outside Mei Tao House, Mei Lam Estate"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20003328,
+        "name_tc": "銅鑼灣山路",
+        "name_sc": "铜锣湾山路",
+        "name_en": "Tung Lo Wan Hill Road"
+      }
+    ],
+    "data_timestamp": "2024-08-07T09:19:47.849+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:16:05+08:00",
+  "data": {
+    "stop": "002038",
+    "name_tc": "悅湖山莊",
+    "name_en": "Yuet Wu Villa",
+    "lat": "22.375033332091",
+    "long": "113.96852853053",
+    "name_sc": "悅湖山庄",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

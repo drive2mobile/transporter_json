@@ -1,0 +1,73 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:26:12.146+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20009733,
+        "name_tc": "堅尼地城站",
+        "name_sc": "坚尼地城站",
+        "name_en": "Kennedy Town Station"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20000334,
+        "name_tc": "域多利道,英基學校協會西港島中學對面",
+        "name_sc": "域多利道,英基学校协会西港岛中学对面",
+        "name_en": "Victoria Road, opposite English School Foundation West Island School"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20009766,
+        "name_tc": "大口環道, 馮堯敬醫院",
+        "name_sc": "大口环道, 冯尧敬医院",
+        "name_en": "Fung Yiu King Hospital, Sandy Bay Road"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20004594,
+        "name_tc": "沙灣徑, 麥理浩復康院外",
+        "name_sc": "沙湾径, 麦理浩复康院外",
+        "name_en": "Sha Wan Drive, outside Maclehose Medical Rehabilitation Centre"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20004186,
+        "name_tc": "數碼港道數碼港商場停車處對面",
+        "name_sc": "数码港道数码港商场停车处对面",
+        "name_en": "The layby at Cyberport Road opposite to The Arcade, Cyberport"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20007719,
+        "name_tc": "數碼港道, 資訊道",
+        "name_sc": "数码港道, 资讯道",
+        "name_en": "Information Crescent, Cyberport Road"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20002491,
+        "name_tc": "數碼港道, 數碼港三座",
+        "name_sc": "数码港道, 数码港三座",
+        "name_en": "Cyberport Three, Cyberport Road"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20002492,
+        "name_tc": "數碼港道, 貝沙灣2期",
+        "name_sc": "数码港道, 贝沙湾2期",
+        "name_en": "Bel-Air Phase 2, Cyperport Road"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20004115,
+        "name_tc": "貝沙灣南灣, 數碼港道",
+        "name_sc": "贝沙湾南湾, 数码港道",
+        "name_en": "Bel-Air on The Peak, Cyberport Road"
+      }
+    ],
+    "data_timestamp": "2024-09-17T10:42:13.921+08:00"
+  }
+}

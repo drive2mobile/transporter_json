@@ -1,0 +1,220 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:44:09.585+08:00",
+  "data": [
+    {
+      "route_id": 2004629,
+      "region": "KLN",
+      "route_code": "16",
+      "description_tc": "正常班次",
+      "description_sc": "正常班次",
+      "description_en": "Normal Departure",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "扎山道(彩雲邨)",
+          "orig_sc": "扎山道(彩云邨)",
+          "orig_en": "Jat's Incline (Choi Wan Estate)",
+          "dest_tc": "坪石邨(循環線)",
+          "dest_sc": "坪石邨(循环线)",
+          "dest_en": "Ping Shek Estate (Circular)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "05:30:00",
+              "end_time": "05:45:00",
+              "frequency": 5,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 2,
+              "start_time": "05:45:00",
+              "end_time": "07:00:00",
+              "frequency": 3,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 3,
+              "start_time": "07:00:00",
+              "end_time": "10:00:00",
+              "frequency": 2,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 4,
+              "start_time": "10:00:00",
+              "end_time": "12:00:00",
+              "frequency": 4,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 5,
+              "start_time": "12:00:00",
+              "end_time": "16:00:00",
+              "frequency": 3,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 6,
+              "start_time": "16:00:00",
+              "end_time": "20:00:00",
+              "frequency": 2,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 7,
+              "start_time": "20:00:00",
+              "end_time": "01:00:00",
+              "frequency": 4,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 8,
+              "start_time": "01:00:00",
+              "end_time": "01:25:00",
+              "frequency": 5,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 9,
+              "start_time": "05:30:00",
+              "end_time": "06:00:00",
+              "frequency": 5,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 10,
+              "start_time": "06:00:00",
+              "end_time": "01:00:00",
+              "frequency": 3,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 11,
+              "start_time": "01:00:00",
+              "end_time": "01:25:00",
+              "frequency": 5,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-07-31T17:28:46.624+08:00"
+        }
+      ],
+      "data_timestamp": "2024-07-31T17:28:46.624+08:00"
+    }
+  ]
+}

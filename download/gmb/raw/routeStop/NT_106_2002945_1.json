@@ -1,0 +1,164 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:44:17.832+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20001149,
+        "name_tc": "寶琳公共運輸交匯處",
+        "name_sc": "宝琳公共运输交汇处",
+        "name_en": "Po Lam Public Transport Interchange"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20001150,
+        "name_tc": "英明苑",
+        "name_sc": "英明苑",
+        "name_en": "Ying Ming Court"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20001151,
+        "name_tc": "寶林邨寶仁樓",
+        "name_sc": "宝林邨宝仁楼",
+        "name_en": "Po Yan House Po Lam Estate"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20002020,
+        "name_tc": "翠林邨",
+        "name_sc": "翠林邨",
+        "name_en": "Tsui Lam Estate"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20002021,
+        "name_tc": "康盛花園",
+        "name_sc": "康盛花园",
+        "name_en": "Hong Sing Garden"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20003377,
+        "name_tc": "寶琳北路,茅湖仔",
+        "name_sc": "宝琳北路,茅湖仔",
+        "name_en": "Mau Wu Tsai, Po Lam Road North"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20009972,
+        "name_tc": "馬游塘",
+        "name_sc": "马游塘",
+        "name_en": "Ma Yau Tong"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20003282,
+        "name_tc": "寶達邨",
+        "name_sc": " 宝达邨",
+        "name_en": "Po Tat Estate"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20007481,
+        "name_tc": "秀茂坪道, 秀程樓外",
+        "name_sc": "秀茂坪道, 秀程楼外",
+        "name_en": "Sau Mau Ping Road, outside Sau Ching House"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20017257,
+        "name_tc": "秀茂坪邨, 秀樂樓外",
+        "name_sc": "秀茂坪村, 秀乐楼外",
+        "name_en": "Sau Mau Ping Road, Outside Sau Lok House"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20001154,
+        "name_tc": "秀茂坪邨, 秀義樓",
+        "name_sc": "秀茂坪村, 秀义楼",
+        "name_en": "Sau Yee House, Sau Mau Ping Estate"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20009974,
+        "name_tc": "寧波第二中學",
+        "name_sc": "宁波第二中学",
+        "name_en": "Ning Po No. 2 College"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20002553,
+        "name_tc": "康寧道, 高雷中學外",
+        "name_sc": "康宁道, 高雷中学外",
+        "name_en": "Hong Ning Road, outside Ko Lui Secondary School"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20009975,
+        "name_tc": "秀茂坪警署",
+        "name_sc": "秀茂坪警署",
+        "name_en": "Sau Mau Ping Police Station"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20009976,
+        "name_tc": "康寧道,康濤閣",
+        "name_sc": "康宁道,康涛阁",
+        "name_en": "Hamden Court, Hong Ning Road"
+      },
+      {
+        "stop_seq": 16,
+        "stop_id": 20009977,
+        "name_tc": "康寧道,康麗園",
+        "name_sc": "康宁道,康丽园",
+        "name_en": "Connie Towers, Hong Ning Road"
+      },
+      {
+        "stop_seq": 17,
+        "stop_id": 20009978,
+        "name_tc": "康寧道遊樂場",
+        "name_sc": "康宁道遊乐场",
+        "name_en": "Hong Ning Road Recreation Ground"
+      },
+      {
+        "stop_seq": 18,
+        "stop_id": 20000814,
+        "name_tc": "牛頭角道, 裕民中心外",
+        "name_sc": "牛头角道, 裕民中心外",
+        "name_en": "Ngau Tau Kok Road, outside Yue Man Centre"
+      },
+      {
+        "stop_seq": 19,
+        "stop_id": 20009979,
+        "name_tc": "牛頭角港鐵站",
+        "name_sc": "牛头角港铁站",
+        "name_en": "Ngau Tau Kok Station"
+      },
+      {
+        "stop_seq": 20,
+        "stop_id": 20000991,
+        "name_tc": "牛頭角道, 觀塘官立小學外",
+        "name_sc": "牛头角道, 观塘官立小学外",
+        "name_en": "Ngau Tau Kok Road, outside Kwun Tong Government Primary School"
+      },
+      {
+        "stop_seq": 21,
+        "stop_id": 20007017,
+        "name_tc": "宏照道, 國際交易中心對面",
+        "name_sc": "宏照道, 国际交易中心对面",
+        "name_en": "Wang Chiu Road, opposite Exchange Tower"
+      },
+      {
+        "stop_seq": 22,
+        "stop_id": 20002027,
+        "name_tc": "九龍灣公共運輸交匯處",
+        "name_sc": "九龙湾公共运输交汇处",
+        "name_en": "Kowloon Bay Public Transport Interchange"
+      }
+    ],
+    "data_timestamp": "2024-09-10T18:35:53.051+08:00"
+  }
+}

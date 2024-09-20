@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:11:42+08:00",
+  "data": {
+    "stop": "002189",
+    "name_tc": "富仁苑, 置富道",
+    "name_en": "Fu Yan Yuen, Chi Fu Road",
+    "lat": "22.257086322091",
+    "long": "114.13985908053",
+    "name_sc": "富仁苑, 置富道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:27:27.020+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20000691,
+        "name_tc": "九龍站專線小巴總站",
+        "name_sc": "九龙站专线小巴总站",
+        "name_en": "Kowloon Station GMB Terminus"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20016267,
+        "name_tc": "博物館道，近西九文化區藝術公園 ",
+        "name_sc": "博物馆道，近西九文化区艺术公园",
+        "name_en": "Museum Drive, near Art Park in West Kowloon Cultural District"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20002816,
+        "name_tc": "廣東道港景峰外",
+        "name_sc": "广东道港景峰外",
+        "name_en": "Canton Road outside Victoria Towers"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20006919,
+        "name_tc": "廣東道中港中心外",
+        "name_sc": "广东道中港中心外",
+        "name_en": "Canton Road outside China Hong Kong Centre"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20006100,
+        "name_tc": "廣東道力寶太陽廣場外",
+        "name_sc": "广东道力宝太阳广场外",
+        "name_en": "Canton Road outside Lippo Sun Plaza"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20000411,
+        "name_tc": "中間道兒童遊樂場",
+        "name_sc": "中间道儿童游乐场",
+        "name_en": "Middle Road Children's Playground"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20012540,
+        "name_tc": "漢口道",
+        "name_sc": "汉口道 ",
+        "name_en": "Hankow Road"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20006918,
+        "name_tc": "九龍公園徑北行外巴士站",
+        "name_sc": "九龙公园径北行外巴士站",
+        "name_en": "Bus stop on Kowloon Park Drive northbound"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20000446,
+        "name_tc": "廣東道中港城外",
+        "name_sc": "广东道中港城外",
+        "name_en": "Canton Road outside China Hong Kong City"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20000691,
+        "name_tc": "九龍站專線小巴總站",
+        "name_sc": "九龙站专线小巴总站",
+        "name_en": "Kowloon Station GMB Terminus"
+      }
+    ],
+    "data_timestamp": "2024-08-13T15:25:56.523+08:00"
+  }
+}

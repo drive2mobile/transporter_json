@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:17:15+08:00",
+  "data": {
+    "stop": "003715",
+    "name_tc": "塘坑, 馬會道",
+    "name_en": "Tong Hang, Jockey Club Road",
+    "lat": "22.491098952091",
+    "long": "114.14544242053",
+    "name_sc": "塘坑, 马会道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

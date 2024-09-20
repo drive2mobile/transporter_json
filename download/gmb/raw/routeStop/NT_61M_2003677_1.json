@@ -1,0 +1,24 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:29:46.367+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20001514,
+        "name_tc": "龍柏街, 世界花園龍柏閣外",
+        "name_sc": "龙柏街, 世界花园龙柏阁外",
+        "name_en": "Lung Pak Street, outside Cypress Court, Worldwide Garden"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20001573,
+        "name_tc": "大圍站公共運輸交匯處",
+        "name_sc": "大围站公共运输交汇处",
+        "name_en": "Tai Wai Station Public Transport Interchange"
+      }
+    ],
+    "data_timestamp": "2024-07-20T00:00:12.079+08:00"
+  }
+}

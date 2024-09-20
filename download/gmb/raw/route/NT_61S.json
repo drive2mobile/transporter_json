@@ -1,0 +1,157 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:29:46.756+08:00",
+  "data": [
+    {
+      "route_id": 2003681,
+      "region": "NT",
+      "route_code": "61S",
+      "description_tc": "正常班次",
+      "description_sc": "正常班次",
+      "description_en": "Normal Route",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "火炭",
+          "orig_sc": "火炭",
+          "orig_en": "FO TAN",
+          "dest_tc": "旺角站",
+          "dest_sc": "旺角站",
+          "dest_en": "MONG KOK STATION",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "01:00:00",
+              "end_time": "02:30:00",
+              "frequency": 30,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-07-31T17:09:14.050+08:00"
+        },
+        {
+          "route_seq": 2,
+          "orig_tc": "旺角站",
+          "orig_sc": "旺角站",
+          "orig_en": "MONG KOK STATION",
+          "dest_tc": "火炭",
+          "dest_sc": "火炭",
+          "dest_en": "FO TAN",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "00:30:00",
+              "end_time": "02:00:00",
+              "frequency": 30,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-07-31T17:09:14.050+08:00"
+        }
+      ],
+      "data_timestamp": "2024-07-31T17:09:14.050+08:00"
+    },
+    {
+      "route_id": 2003683,
+      "region": "NT",
+      "route_code": "61S",
+      "description_tc": "正常班次",
+      "description_sc": "正常班次",
+      "description_en": " Normal Route",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "瀝源∕禾輋",
+          "orig_sc": "沥源∕禾輋",
+          "orig_en": "Lek Yuen / Wo Che",
+          "dest_tc": "旺角站",
+          "dest_sc": "旺角站",
+          "dest_en": "Mong Kok Station",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "02:30:00",
+              "end_time": "06:00:00",
+              "frequency": 15,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-07-31T17:09:14.050+08:00"
+        },
+        {
+          "route_seq": 2,
+          "orig_tc": "旺角站",
+          "orig_sc": "旺角站",
+          "orig_en": "Mong Kok Station",
+          "dest_tc": "瀝源∕禾輋",
+          "dest_sc": "沥源∕禾輋",
+          "dest_en": "Lek Yuen / Wo Che",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "02:30:00",
+              "end_time": "06:00:00",
+              "frequency": 15,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-07-31T17:09:14.050+08:00"
+        }
+      ],
+      "data_timestamp": "2024-07-31T17:09:14.050+08:00"
+    }
+  ]
+}

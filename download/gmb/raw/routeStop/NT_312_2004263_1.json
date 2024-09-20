@@ -1,0 +1,38 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:28:34.497+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20011951,
+        "name_tc": "梨木樹邨公共運輸交匯處",
+        "name_sc": "梨木树邨公共运输交汇处",
+        "name_en": "Lei Muk Shue Estate Public Transport Interchange"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20001445,
+        "name_tc": "青山公路-荃灣段大窩口站外",
+        "name_sc": "青山公路-荃湾段大窝口站外",
+        "name_en": "Castle Peak Road-Kwai Chung outside Tai Wo Hau Station"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20011947,
+        "name_tc": "德士古道東亞花園大發樓對面",
+        "name_sc": "德士古道東亞花園大發樓對面",
+        "name_en": "Texaco Road opposite to Tai Fat House, East Asia Gardens"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20008023,
+        "name_tc": "青衣站專線小巴總站",
+        "name_sc": "青衣站专线小巴总站",
+        "name_en": "Tsing Yi Station GMB Terminus"
+      }
+    ],
+    "data_timestamp": "2024-07-29T13:49:08.715+08:00"
+  }
+}

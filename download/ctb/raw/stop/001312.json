@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:08:12+08:00",
+  "data": {
+    "stop": "001312",
+    "name_tc": "曉翠街, 小西灣道",
+    "name_en": "Hiu Tsui Street, Siu Sai Wan Road",
+    "lat": "22.264667222091",
+    "long": "114.24796685053",
+    "name_sc": "晓翠街, 小西湾道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

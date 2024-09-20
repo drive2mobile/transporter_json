@@ -1,0 +1,38 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:28:45.525+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20015543,
+        "name_tc": "公庵路, 近培康居",
+        "name_sc": "公庵路, 近培康居",
+        "name_en": "Kung Um Road, near Pui Hong Kui"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20015544,
+        "name_tc": "十八鄉路, 近溱柏第十座",
+        "name_sc": "十八乡路, 近溱柏第十座",
+        "name_en": "Shap Pat Heung Road, near Park Signature Tower 10"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20015546,
+        "name_tc": "鳳翔路, 近鳳庭苑華庭閣",
+        "name_sc": "凤翔路, 近凤庭苑华庭阁",
+        "name_en": "Fung Cheung Road, near Wah Ting Court, Fung Ting Court"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20007415,
+        "name_tc": "元朗港鐵站",
+        "name_sc": "元朗港铁站",
+        "name_en": "Yuen Long Station"
+      }
+    ],
+    "data_timestamp": "2024-03-18T14:17:12.436+08:00"
+  }
+}

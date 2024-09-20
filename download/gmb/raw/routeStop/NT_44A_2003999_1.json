@@ -1,0 +1,108 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:29:02.511+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20001311,
+        "name_tc": "屯門站公共運輸交匯處",
+        "name_sc": "屯门站公共运输交汇处",
+        "name_en": "Tuen Mun Station Public Transport Interchange"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20002846,
+        "name_tc": "震寰路, 屯門消防局外",
+        "name_sc": "震寰路, 屯门消防局外",
+        "name_en": "Tsun Wen Road, outside Tuen Mun Fire Station"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20001396,
+        "name_tc": "震寰路, 大興政府合署對面",
+        "name_sc": "震寰路, 大兴政府合署对面",
+        "name_en": "Tsun Wen Road, opposite Tai Hing Government Offices"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20001397,
+        "name_tc": "石排頭路, 翠林花園D座外",
+        "name_sc": "石排头路, 翠林花园D座外",
+        "name_en": "Shek Pai Tau Road, outside Block D of Greenland Garden"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20001398,
+        "name_tc": "石排頭路, 康德花園外",
+        "name_sc": "石排头路, 康德花园外",
+        "name_en": "Shek Pai Tau Road, outside Hong Tak Gardens"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20001399,
+        "name_tc": "石排頭路, 偉昌工業中心外",
+        "name_sc": "石排头路, 伟昌工业中心外",
+        "name_en": "Shek Pai Tau Road, outside Wai Cheung Industrial Centre"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20005044,
+        "name_tc": "鳴琴路, 石排輕鐵站外",
+        "name_sc": "鸣琴路, 石排轻铁站外",
+        "name_en": "Ming Kum Road, outside Shek Pai Light Rail Station"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20005045,
+        "name_tc": "田景路, 新圍輕鐵站外",
+        "name_sc": "田景路, 新围轻铁站外",
+        "name_en": "Tin King Road, outside San Wai Light Rail Station"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20001400,
+        "name_tc": "田景路, 輕鐵田景站外",
+        "name_sc": "田景路, 轻铁田景站外",
+        "name_en": "Tin King Road, outside Tin King Light Rail Station"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20005046,
+        "name_tc": "鳴琴路, 寶田商場外",
+        "name_sc": "鸣琴路, 宝田商场外",
+        "name_en": "Ming Kum Road, outside Po Tin Shopping Centre"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20010690,
+        "name_tc": "震寰路, 大興分區警署外",
+        "name_sc": "震寰路, 大兴分区警署外",
+        "name_en": "Tsun Wen Road, outside Tai Hing Divisional Police Station"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20001342,
+        "name_tc": "青麟路,近輕鐵麒麟站",
+        "name_sc": "青麟路,近轻铁麒麟站",
+        "name_en": "Tsing Lun Road, near LR Kei Lun Stop"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20007762,
+        "name_tc": "青麟路, 兆康苑兆基閣對面",
+        "name_sc": "青麟路, 兆康苑兆基阁对面",
+        "name_en": "Tsing Lun Road, opposite Siu Kei House, Siu Hong Court"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20001384,
+        "name_tc": "上水站小巴總站",
+        "name_sc": "上水站小巴总站",
+        "name_en": "Sheung Shui Station Public Light Bus Terminus"
+      }
+    ],
+    "data_timestamp": "2024-09-20T11:56:38.695+08:00"
+  }
+}

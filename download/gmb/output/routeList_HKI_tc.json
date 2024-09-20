@@ -1,0 +1,182 @@
+[
+  {
+    "company": "gmb",
+    "route": "1",
+    "route_id": 2006408,
+    "region": "HKI",
+    "route_seq": 2,
+    "from": "中環(香港站公共運輸交匯處)",
+    "to": "山頂(公共交通總站)"
+  },
+  {
+    "company": "gmb",
+    "route": "1",
+    "route_id": 2006408,
+    "region": "HKI",
+    "route_seq": 2,
+    "from": "中環(香港站公共運輸交匯處)",
+    "to": "山頂(公共交通總站)"
+  },
+  {
+    "company": "gmb",
+    "route": "10",
+    "route_id": 2006706,
+    "region": "HKI",
+    "route_seq": 2,
+    "from": "數碼港巴士總站",
+    "to": "謝斐道, 近兆安廣場"
+  },
+  {
+    "company": "gmb",
+    "route": "10",
+    "route_id": 2006706,
+    "region": "HKI",
+    "route_seq": 2,
+    "from": "數碼港巴士總站",
+    "to": "謝斐道, 近兆安廣場"
+  },
+  {
+    "company": "gmb",
+    "route": "10P",
+    "route_id": 2006739,
+    "region": "HKI",
+    "route_seq": 2,
+    "from": "數碼港巴士總站",
+    "to": "謝斐道, 近兆安廣場"
+  },
+  {
+    "company": "gmb",
+    "route": "10P",
+    "route_id": 2006739,
+    "region": "HKI",
+    "route_seq": 2,
+    "from": "數碼港巴士總站",
+    "to": "謝斐道, 近兆安廣場"
+  },
+  {
+    "company": "gmb",
+    "route": "12",
+    "route_id": 2002285,
+    "region": "HKI",
+    "route_seq": 1,
+    "from": "觀龍樓",
+    "to": "西營盤(循環線)"
+  },
+  {
+    "company": "gmb",
+    "route": "13",
+    "route_id": 2002286,
+    "region": "HKI",
+    "route_seq": 1,
+    "from": "西環邨",
+    "to": "西營盤(循環線)"
+  },
+  {
+    "company": "gmb",
+    "route": "14M",
+    "route_id": 2000970,
+    "region": "HKI",
+    "route_seq": 1,
+    "from": "蘭芳道",
+    "to": "睦誠道"
+  },
+  {
+    "company": "gmb",
+    "route": "14M",
+    "route_id": 2000971,
+    "region": "HKI",
+    "route_seq": 1,
+    "from": "蘭芳道",
+    "to": "睦誠道"
+  },
+  {
+    "company": "gmb",
+    "route": "14M",
+    "route_id": 2000972,
+    "region": "HKI",
+    "route_seq": 1,
+    "from": "利園山道",
+    "to": "樂陶苑"
+  },
+  {
+    "company": "gmb",
+    "route": "14M",
+    "route_id": 2000973,
+    "region": "HKI",
+    "route_seq": 1,
+    "from": "利園山道",
+    "to": "樂翠台"
+  },
+  {
+    "company": "gmb",
+    "route": "16A",
+    "route_id": 2002287,
+    "region": "HKI",
+    "route_seq": 2,
+    "from": "舂坎角(慈氏護養院)",
+    "to": "柴灣站"
+  },
+  {
+    "company": "gmb",
+    "route": "16A",
+    "route_id": 2002287,
+    "region": "HKI",
+    "route_seq": 2,
+    "from": "舂坎角(慈氏護養院)",
+    "to": "柴灣站"
+  },
+  {
+    "company": "gmb",
+    "route": "16M",
+    "route_id": 2002289,
+    "region": "HKI",
+    "route_seq": 2,
+    "from": "舂坎角",
+    "to": "柴灣站"
+  },
+  {
+    "company": "gmb",
+    "route": "16M",
+    "route_id": 2002289,
+    "region": "HKI",
+    "route_seq": 2,
+    "from": "舂坎角",
+    "to": "柴灣站"
+  },
+  {
+    "company": "gmb",
+    "route": "16X",
+    "route_id": 2002291,
+    "region": "HKI",
+    "route_seq": 2,
+    "from": "赤柱灘道",
+    "to": "柴灣站"
+  },
+  {
+    "company": "gmb",
+    "route": "16X",
+    "route_id": 2002291,
+    "region": "HKI",
+    "route_seq": 2,
+    "from": "赤柱灘道",
+    "to": "柴灣站"
+  },
+  {
+    "company": "gmb",
+    "route": "18M",
+    "route_id": 2002317,
+    "region": "HKI",
+    "route_seq": 2,
+    "from": "歌連臣角(懲教所)",
+    "to": "柴灣站"
+  },
+  {
+    "company": "gmb",
+    "route": "18M",
+    "route_id": 2002317,
+    "region": "HKI",
+    "route_seq": 2,
+    "from": "歌連臣角(懲教所)",
+    "to": "柴灣站"
+  }
+]

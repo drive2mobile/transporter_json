@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:16:06+08:00",
+  "data": {
+    "stop": "003848",
+    "name_tc": "龍逸邨, 皇珠路",
+    "name_en": "Lung Yat Estate, Wong Chu Road",
+    "lat": "22.387122292091",
+    "long": "113.96803305053",
+    "name_sc": "龙逸邨, 皇珠路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

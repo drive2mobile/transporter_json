@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:08:20+08:00",
+  "data": {
+    "stop": "001645",
+    "name_tc": "麗晶花園第 18 座, 宏照道",
+    "name_en": "Block 18 Richland Gardens, Wang Chiu Road",
+    "lat": "22.329777772091",
+    "long": "114.20810420053",
+    "name_sc": "丽晶花园第 18 座, 宏照道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

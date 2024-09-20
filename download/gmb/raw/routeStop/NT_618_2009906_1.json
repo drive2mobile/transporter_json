@@ -1,0 +1,31 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:29:45.604+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20015445,
+        "name_tc": "天恩商場",
+        "name_sc": "天恩商场",
+        "name_en": "Tin Yan Shopping Centre"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20015446,
+        "name_tc": "天瑞路, 近天澤邨",
+        "name_sc": "天瑞路, 近天泽村",
+        "name_en": "Tin Shui Road, near Tin Chak Estate"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20015453,
+        "name_tc": "深圳灣口岸",
+        "name_sc": "深圳湾口岸",
+        "name_en": "Shenzhen Bay Port"
+      }
+    ],
+    "data_timestamp": "2024-08-07T12:07:30.853+08:00"
+  }
+}

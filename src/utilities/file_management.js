@@ -41,6 +41,25 @@ async function downloadJSONFile(url, filePath)
     }
 };
 
+async function saveAndReturnJSONFile(url, filePath)
+{
+    try
+    {
+        const response = await axios.get(url);
+        const jsonData = response.data;
+        const jsonString = JSON.stringify(jsonData, null, 2);
+        await fs.writeFileSync(filePath, jsonString, { flag: 'w' });
+        console.log('Downloaded and saved to:', filePath);
+
+        return jsonData;
+    } 
+    catch (error)
+    {
+        console.error('Error during download or write: ' + filePath);
+        return {};
+    }
+};
+
 async function loadJSONFromFile(filePath)
 {
     return new Promise((resolve, reject) =>
@@ -131,4 +150,4 @@ function toRadians(degrees)
     return degrees * (Math.PI / 180);
 }
 
-export { downloadJSONFile, loadJSONFromFile, saveJSONToFile, deleteFilesInFolder, roundDownLatLong, calculateDistance, downloadCsvAndConvertJson };
+export { downloadJSONFile, loadJSONFromFile, saveJSONToFile, deleteFilesInFolder, roundDownLatLong, saveAndReturnJSONFile, calculateDistance, downloadCsvAndConvertJson };

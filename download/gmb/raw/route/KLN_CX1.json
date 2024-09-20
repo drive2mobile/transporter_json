@@ -1,0 +1,50 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:27:39.226+08:00",
+  "data": [
+    {
+      "route_id": 2009642,
+      "region": "KLN",
+      "route_code": "CX1",
+      "description_tc": "正常班次",
+      "description_sc": "正常班次",
+      "description_en": "Normal Departure",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "柯士甸站",
+          "orig_sc": "柯士甸站",
+          "orig_en": "AUSTIN STATION ",
+          "dest_tc": "香港故宮文化博物館 (循環線)",
+          "dest_sc": "香港故宫文化博物馆 (循环线)",
+          "dest_en": "HONG KONG PALACE MUSEUM",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "09:00:00",
+              "end_time": "20:30:00",
+              "frequency": 10,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-07-31T11:18:56.467+08:00"
+        }
+      ],
+      "data_timestamp": "2024-07-31T11:18:56.467+08:00"
+    }
+  ]
+}

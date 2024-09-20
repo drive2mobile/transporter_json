@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:13:25+08:00",
+  "data": {
+    "stop": "003383",
+    "name_tc": "景盛苑, 百和路",
+    "name_en": "King Shing Court, Pak Wo Road",
+    "lat": "22.487290132091",
+    "long": "114.14060056053",
+    "name_sc": "景盛苑, 百和路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:27:10.729+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20015057,
+        "name_tc": "基督教聯合醫院小巴總站",
+        "name_sc": "基督教联合医院小巴总站",
+        "name_en": "United Christian Hospital Minibus Terminus"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20016597,
+        "name_tc": "秀雅道, 近秀雅道遊樂場",
+        "name_sc": "秀雅道, 近秀雅道遊樂場",
+        "name_en": "Sau Nga Road, Near  Sau Nga Road Playground"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20016598,
+        "name_tc": "協和街, 近華峰園",
+        "name_sc": "協和街, 近華峰園",
+        "name_en": "Hip Wo Street, Near Wah Fung Gardens"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20015580,
+        "name_tc": "協和街, 祥和苑",
+        "name_sc": "协和街, 祥和苑",
+        "name_en": "Hip Wo Street, Near Cheung Wo Court"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20016599,
+        "name_tc": "協和街, 近和樂邨",
+        "name_sc": "協和街, 近和樂邨",
+        "name_en": "Hip Wo Street, Near Wo Lok Estate"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20012087,
+        "name_tc": "協和街, 近月華街遊樂場",
+        "name_sc": "协和街, 近月华街游乐场",
+        "name_en": "Hip Wo Street, Near Yuet Wah Street Playground"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20014072,
+        "name_tc": "裕民坊公共運輸交匯處",
+        "name_sc": "裕民坊公共运输交汇处",
+        "name_en": "Yue Man Square Public Transport Interchange"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20016600,
+        "name_tc": "協和街, 近和樂邨",
+        "name_sc": "协和街, 近和乐邨",
+        "name_en": "Hip Wo Street, Near Wo Lok Estate"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20016601,
+        "name_tc": "協和街, 近祥和苑",
+        "name_sc": "协和街, 近祥和苑",
+        "name_en": "Hip Wo Street, Near Cheung Wo Court"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20016602,
+        "name_tc": "協和街, 近華峰園",
+        "name_sc": "协和街, 近华峰园",
+        "name_en": "Hip Wo Street, Near Wah Fung Gardens"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20015057,
+        "name_tc": "基督教聯合醫院小巴總站",
+        "name_sc": "基督教联合医院小巴总站",
+        "name_en": "United Christian Hospital Minibus Terminus"
+      }
+    ],
+    "data_timestamp": "2024-08-07T13:52:30.675+08:00"
+  }
+}

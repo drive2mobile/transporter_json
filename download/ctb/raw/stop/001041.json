@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:07:41+08:00",
+  "data": {
+    "stop": "001041",
+    "name_tc": "香港公園, 紅棉路",
+    "name_en": "Hong Kong Park, Cotton Tree Drive",
+    "lat": "22.277664742091",
+    "long": "114.16044539053",
+    "name_sc": "香港公园, 红棉路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

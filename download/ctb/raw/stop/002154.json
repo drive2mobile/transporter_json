@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:16:14+08:00",
+  "data": {
+    "stop": "002154",
+    "name_tc": "天水圍站 - 聚星樓, 天福路",
+    "name_en": "Tin Shui Wai Station - Tsui Sing Lau, Tin Fuk Road",
+    "lat": "22.449227892091",
+    "long": "114.00552973053",
+    "name_sc": "天水围站 - 聚星楼, 天福路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

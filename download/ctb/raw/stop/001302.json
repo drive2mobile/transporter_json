@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:07:29+08:00",
+  "data": {
+    "stop": "001302",
+    "name_tc": "海晏街, 筲箕灣道",
+    "name_en": "Hoi An Street, Shau Kei Wan Road",
+    "lat": "22.280716692091",
+    "long": "114.22345551053",
+    "name_sc": "海晏街, 筲箕湾道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

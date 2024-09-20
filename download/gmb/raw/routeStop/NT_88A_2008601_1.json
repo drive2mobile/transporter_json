@@ -1,0 +1,45 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:30:38.919+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20016746,
+        "name_tc": "港鐵青衣站小巴總站",
+        "name_sc": "港铁青衣站小巴总站",
+        "name_en": "Tsing Yi MTR Station Minibus Terminus"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20001730,
+        "name_tc": "長安邨小巴總站",
+        "name_sc": "长安邨小巴总站",
+        "name_en": "Cheung On Estate Minibus Terminus"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20016755,
+        "name_tc": "担杆山路, 近香港船廠有限公司",
+        "name_sc": "担杆山路, 近香港船厂有限公司",
+        "name_en": "Tam Kon Shan Road, Near The Hong Kong Shipyard Ltd"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20014982,
+        "name_tc": "担杆山路, 近中華傳道會呂明才小學",
+        "name_sc": "担杆山路，近中华小学传道会吕明才",
+        "name_en": "Tam Kon Shan Road, Near Cnec Lui Ming Choi Primary School"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20016746,
+        "name_tc": "港鐵青衣站小巴總站",
+        "name_sc": "港铁青衣站小巴总站",
+        "name_en": "Tsing Yi MTR Station Minibus Terminus"
+      }
+    ],
+    "data_timestamp": "2024-08-07T10:24:27.330+08:00"
+  }
+}

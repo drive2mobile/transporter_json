@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:09:07+08:00",
+  "data": {
+    "stop": "003009",
+    "name_tc": "九龍寨城公園, 東頭村道",
+    "name_en": "Kowloon Walled City Park, Tung Tau Tsuen Road",
+    "lat": "22.332321132091",
+    "long": "114.18823587053",
+    "name_sc": "九龙寨城公园, 东头村道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

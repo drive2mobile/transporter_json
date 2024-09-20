@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:17:08+08:00",
+  "data": {
+    "stop": "003208",
+    "name_tc": "深圳灣口岸",
+    "name_en": "Shenzhen Bay Port",
+    "lat": "22.501662252091",
+    "long": "113.94518812053",
+    "name_sc": "深圳湾口岸",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

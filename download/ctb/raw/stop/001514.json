@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:09:23+08:00",
+  "data": {
+    "stop": "001514",
+    "name_tc": "白楊街, 荔枝角道",
+    "name_en": "Poplar Street, Lai Chi Kok Road",
+    "lat": "22.324769252091",
+    "long": "114.16554001053",
+    "name_sc": "白杨街, 荔枝角道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

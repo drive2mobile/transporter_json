@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:10:43+08:00",
+  "data": {
+    "stop": "002875",
+    "name_tc": "九龍醫院主座及西翼大樓, 亞皆老街",
+    "name_en": "Kowloon Hospital Main Building and West Wing, Argyle Street",
+    "lat": "22.322781462091",
+    "long": "114.18052037053",
+    "name_sc": "九龙医院主座及西翼大楼, 亚皆老街",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

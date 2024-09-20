@@ -1,0 +1,129 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:26:49.543+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20000691,
+        "name_tc": "九龍站",
+        "name_sc": "九龙站",
+        "name_en": "Kowloon Station"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20016267,
+        "name_tc": "博物館道, 近西九文化區藝術公園 ",
+        "name_sc": "博物馆道, 近西九文化区艺术公园",
+        "name_en": "Museum Drive, near Art Park in West Kowloon Cultural District"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20000694,
+        "name_tc": "渡船街, 近文英樓",
+        "name_sc": "渡船街, 近文英楼 ",
+        "name_en": "Ferry Street, near Man Ying Building"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20000696,
+        "name_tc": "佐敦道, 近瑞香園大廈",
+        "name_sc": "佐敦道, 近瑞香园大厦",
+        "name_en": "Jordan Road, near Shui Heung Yuen Apartments"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20000697,
+        "name_tc": "佐敦道, 近百誠大廈",
+        "name_sc": "佐敦道, 近百诚大厦",
+        "name_en": "Jordan Road, near Pak Shing Building"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20000698,
+        "name_tc": "佐敦道, 近至秀商業大廈",
+        "name_sc": "佐敦道, 近至秀商业大厦",
+        "name_en": "Jordan Road, near Ultragrace Commercial Building"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20011781,
+        "name_tc": "覺士道, 近九龍草地滾球會",
+        "name_sc": "觉士道, 近九龙草地滚球会",
+        "name_en": "COX'S ROAD, near Kowloon Bowling Green Club"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20000700,
+        "name_tc": "柯士甸道, 近柯士甸道變電站",
+        "name_sc": "柯士甸道, 近柯士甸道变电站",
+        "name_en": "Austin Road, near Austin Road Substation"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20010463,
+        "name_tc": "安運道, 近紅磡站",
+        "name_sc": "安运道, 近红磡站",
+        "name_en": "On Wan Road, near Hung Hom Station"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20000701,
+        "name_tc": "紅磡南道, 近紅磡灣中心鴻康閣",
+        "name_sc": "红磡南道, 近红磡湾中心鸿康阁",
+        "name_en": "Hung Hom South Road, near Hung Hong Court, HUNGHOM BAY CENTRE"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20000702,
+        "name_tc": "紅磡道, 近黃埔新邨樂榮樓",
+        "name_sc": "红磡道, 近黄埔新村乐荣楼",
+        "name_en": "Hung Hom Road, near Lok Wing Building, Whampoa Estate"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20000703,
+        "name_tc": "大環道東, 近海逸豪園海逸坊",
+        "name_sc": "大环道东, 近海逸豪园海逸坊",
+        "name_en": "Tai Wan Road East, near The Laguna Mall, Laguna Verde"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20000681,
+        "name_tc": "海逸豪園巴士總站",
+        "name_sc": "海逸豪园巴士总站",
+        "name_en": "Laguna Verde Bus Terminus"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20002654,
+        "name_tc": "庇利街, 近崇安街",
+        "name_sc": "庇利街, 近崇安街",
+        "name_en": "Bailey Street, near Sung On Street"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20010065,
+        "name_tc": "馬頭圍道, 近石塘街",
+        "name_sc": "马头围道, 近石塘街 ",
+        "name_en": "Ma Tau Wai Road, near Shek Tong Street"
+      },
+      {
+        "stop_seq": 16,
+        "stop_id": 20006060,
+        "name_tc": "落山道, 近長寧街",
+        "name_sc": "落山道, 近长宁街",
+        "name_en": "Lok Shan Road, near Cheung Ning Street"
+      },
+      {
+        "stop_seq": 17,
+        "stop_id": 20000678,
+        "name_tc": "浙江街, 近益豐大廈Ｂ座",
+        "name_sc": "浙江街, 近益丰大厦Ｂ座",
+        "name_en": "Chi Kiang Street, near I-Feng Mansions Block B"
+      }
+    ],
+    "data_timestamp": "2024-08-13T17:57:36.676+08:00"
+  }
+}

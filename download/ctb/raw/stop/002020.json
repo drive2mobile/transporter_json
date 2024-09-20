@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:11:27+08:00",
+  "data": {
+    "stop": "002020",
+    "name_tc": "安祥路",
+    "name_en": "On Cheung Road",
+    "lat": "22.451904962091",
+    "long": "114.16729553053",
+    "name_sc": "安祥路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

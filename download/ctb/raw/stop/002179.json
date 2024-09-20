@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:12:55+08:00",
+  "data": {
+    "stop": "002179",
+    "name_tc": "赤柱觀音寺, 環角道",
+    "name_en": "Kwun Yum Buddhist Monastery, Cape Road",
+    "lat": "22.218833832091",
+    "long": "114.20668864053",
+    "name_sc": "赤柱观音寺, 环角道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

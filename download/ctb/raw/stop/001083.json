@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:06:50+08:00",
+  "data": {
+    "stop": "001083",
+    "name_tc": "山市街, 堅彌地城海旁",
+    "name_en": "Sands Street, Kennedy Town Praya",
+    "lat": "22.284330652091",
+    "long": "114.13037010053",
+    "name_sc": "山市街, 坚弥地城海旁",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

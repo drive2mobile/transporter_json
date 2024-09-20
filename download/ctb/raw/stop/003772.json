@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:17:43+08:00",
+  "data": {
+    "stop": "003772",
+    "name_tc": "西九文化區, 博物館道",
+    "name_en": "West Kowloon Cultural District, Museum Drive",
+    "lat": "22.300980182091",
+    "long": "114.15732594053",
+    "name_sc": "西九文化区, 博物馆道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

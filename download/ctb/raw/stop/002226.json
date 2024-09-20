@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:11:39+08:00",
+  "data": {
+    "stop": "002226",
+    "name_tc": "余振強紀念第二中學, 薄扶林道",
+    "name_en": "Yu Chun Keung Memorial College No.2, Pok Fu Lam Road",
+    "lat": "22.256090272091",
+    "long": "114.13753478053",
+    "name_sc": "余振强纪念第二中学, 薄扶林道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

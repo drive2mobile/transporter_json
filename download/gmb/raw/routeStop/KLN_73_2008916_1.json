@@ -1,0 +1,220 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:27:23.328+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20013966,
+        "name_tc": "又一城",
+        "name_sc": "又一城",
+        "name_en": "Festival Walk"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20013967,
+        "name_tc": "歌和老街, 近畢架山峰 Mount Beacon Tower 1",
+        "name_sc": "歌和老街, 近毕架山峰 Mount Beacon Tower 1 ",
+        "name_en": "Cornwall Street, Near Mount Beacon Tower 1"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20013968,
+        "name_tc": "歌和老街, 近匯山園",
+        "name_sc": "歌和老街, 近汇山园 ",
+        "name_en": "Cornwall Street, Near Hillsea Court"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20013969,
+        "name_tc": "歌和老街, 近歌和台",
+        "name_sc": "歌和老街, 近歌和台 ",
+        "name_en": "Cornwall Street, Near Cornwall Terrace"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20013970,
+        "name_tc": "聯合道, 近金城道遊樂場",
+        "name_sc": "联合道, 近金城道游乐场 ",
+        "name_en": "Junction Road, Near Kam Shing Road Recreation Ground"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20017125,
+        "name_tc": "竹園道, 近嘉強苑嘉匯閣",
+        "name_sc": "竹园道, 近嘉强苑嘉汇阁",
+        "name_en": "Chuk Yuen Road, Near Ka Wui House, Ka Keung Court"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20013971,
+        "name_tc": "竹園道, 近天宏苑循道衛理聯合教會主恩堂暨幼稚園",
+        "name_sc": "竹园道, 近天宏苑循道卫理联合教会主恩堂暨幼稚园 ",
+        "name_en": "Chuk Yuen Road, Near Grace Methodist Church Kindergarten, Tin Wang Court"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20013972,
+        "name_tc": "竹園道, 鵬程苑",
+        "name_sc": "竹园道, 鹏程苑",
+        "name_en": "Chuk Yuen Road, Near Pang Ching Court"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20012376,
+        "name_tc": "竹園道, 近竹園北邨桐園樓",
+        "name_sc": "竹园道, 近竹园北村桐园楼 ",
+        "name_en": "Chuk Yuen Road, Near Tung Yuen House, Chuk Yuen (North) Estate"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20017126,
+        "name_tc": "沙田坳道, 竹園北邨梅園樓",
+        "name_sc": "沙田坳道, 竹园北村梅园楼",
+        "name_en": "Shatin Pass Road,  Near Mui Yuen House, Chuk Yuen (North) Estate"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20000582,
+        "name_tc": "慈雲山道, 沙田坳邨和田樓外",
+        "name_sc": "慈云山道, 沙田坳邨和田楼外",
+        "name_en": "Tsz Wan Shan Road, Outside Wo Tin House, Shatin Pass Estate"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20017127,
+        "name_tc": "慈雲山道, 近沙田坳邨順田樓",
+        "name_sc": "慈云山道, 近沙田坳村顺田楼",
+        "name_en": "Tsz Wan Shan Road, Near Shun Tin House, Shatin Pass Estate"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20017128,
+        "name_tc": "慈雲山道, 近慈雲閣",
+        "name_sc": "慈云山道, 近慈云阁",
+        "name_en": "Tsz Wan Shan Road, Near Tsz Wan Kok"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20017129,
+        "name_tc": "慈雲山道, 近慈愛苑三期愛祥閣",
+        "name_sc": "慈云山道, 近慈爱苑三期爱祥阁",
+        "name_en": "Tsz Wan Shan Road, Near Oi Cheung House, Tsz Oi Court Stage I & II"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20000594,
+        "name_tc": "慈雲山道, 慈正邨正暉樓外",
+        "name_sc": "慈云山道, 慈正邨正晖楼外",
+        "name_en": "Tsz Wan Shan Road, Outside Ching Fai House, Tsz Ching Estate"
+      },
+      {
+        "stop_seq": 16,
+        "stop_id": 20000592,
+        "name_tc": "惠華街, 慈雲山中心外",
+        "name_sc": "惠华街, 慈云山中心外",
+        "name_en": "Wai Wah Street, Outside Tsz Wan Shan Shopping Centre"
+      },
+      {
+        "stop_seq": 17,
+        "stop_id": 20017130,
+        "name_tc": "慈雲山道, 慈雲山邨中央遊樂場外",
+        "name_sc": "慈云山道, 慈云山邨中央游乐场外",
+        "name_en": "Tsz Wan Shan Road, Outside Tsz Wan Shan Estate Central Playground"
+      },
+      {
+        "stop_seq": 18,
+        "stop_id": 20001039,
+        "name_tc": "慈雲山道, 慈愛苑一期愛賢閣外",
+        "name_sc": "慈云山道, 慈爱苑一期爱贤阁外 ",
+        "name_en": "Tsz Wan Shan Road, Outside Oi Yin House, Tsz Oi Court"
+      },
+      {
+        "stop_seq": 19,
+        "stop_id": 20017131,
+        "name_tc": "慈雲山道, 近伊斯蘭鮑伯濤紀念小學",
+        "name_sc": "慈云山道, 近伊斯兰鲍伯涛纪念小学",
+        "name_en": "Tsz Wan Shan Road, Near Islamic Dharwood Pau Memorial Primary School, Islamic Dharwood Pau Memorial School"
+      },
+      {
+        "stop_seq": 20,
+        "stop_id": 20017132,
+        "name_tc": "慈雲山道, 近慈雲山道休憩處",
+        "name_sc": "慈云山道, 近慈云山道休憩处",
+        "name_en": "Tsz Wan Shan Road, Near Tsz Wan Shan Road Sitting-Out Area"
+      },
+      {
+        "stop_seq": 21,
+        "stop_id": 20000583,
+        "name_tc": "沙田坳道, 東華三院黃大仙醫院外",
+        "name_sc": "沙田坳道, 东华三院黄大仙医院外",
+        "name_en": "Shatin Pass Road, Outside Wong Tai Sin Hospital"
+      },
+      {
+        "stop_seq": 22,
+        "stop_id": 20017133,
+        "name_tc": "竹園道, 近民政事務總署竹園社區中心",
+        "name_sc": "竹园道, 近民政事务总署竹园社区中心",
+        "name_en": "Chuk Yuen Road, Near Chuk Yuen Estate Community Centre Home Affairs Department"
+      },
+      {
+        "stop_seq": 23,
+        "stop_id": 20017134,
+        "name_tc": "竹園道, 近竹園南邨榮園樓",
+        "name_sc": "竹园道, 近竹园南村荣园楼",
+        "name_en": "Chuk Yuen Road, Near Wing Yuen House, Chuk Yuen (South) Estate"
+      },
+      {
+        "stop_seq": 24,
+        "stop_id": 20013961,
+        "name_tc": "竹園道, 近天宏苑宏景閣",
+        "name_sc": "竹园道, 近天宏苑宏景阁 ",
+        "name_en": "Chuk Yuen Road, Near Wang King House, Tin Wang Court"
+      },
+      {
+        "stop_seq": 25,
+        "stop_id": 20017135,
+        "name_tc": "竹園道, 近天馬苑駿威閣",
+        "name_sc": "竹园道, 近天马苑骏威阁",
+        "name_en": "Chuk Yuen Road, Near Chun Wai House, Tin Ma Court"
+      },
+      {
+        "stop_seq": 26,
+        "stop_id": 20013963,
+        "name_tc": "聯合道, 近逸夫校園逸夫行政樓",
+        "name_sc": "联合道, 近逸夫校园逸夫行政楼 ",
+        "name_en": "Junction Road, Near Shaw Tower, Shaw Campus"
+      },
+      {
+        "stop_seq": 27,
+        "stop_id": 20000742,
+        "name_tc": "聯合道, 金城道遊樂場對面",
+        "name_sc": "联合道, 金城道游乐场对面",
+        "name_en": "Junction Road, Opposite Kam Shing Road Recreation Ground"
+      },
+      {
+        "stop_seq": 28,
+        "stop_id": 20013964,
+        "name_tc": "歌和老街, 近樂古花園",
+        "name_sc": "歌和老街, 近乐古花园 ",
+        "name_en": "Cornwall Street, Near Lockoo Gardens"
+      },
+      {
+        "stop_seq": 29,
+        "stop_id": 20013965,
+        "name_tc": "歌和老街, 近歌和老街公園歌和老街壁球及乒乓球中心",
+        "name_sc": "歌和老街, 近歌和老街公园歌和老街壁球及乒乓球中心",
+        "name_en": "Cornwall Street, Near Cornwall Street Squash & Table Tennis Centre, Cornwall Street Park"
+      },
+      {
+        "stop_seq": 30,
+        "stop_id": 20013966,
+        "name_tc": "又一城",
+        "name_sc": "又一城",
+        "name_en": "Festival Walk"
+      }
+    ],
+    "data_timestamp": "2024-08-07T13:48:07.408+08:00"
+  }
+}

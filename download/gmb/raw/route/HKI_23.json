@@ -1,0 +1,67 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:25:38.484+08:00",
+  "data": [
+    {
+      "route_id": 2003042,
+      "region": "HKI",
+      "route_code": "23",
+      "description_tc": "正常班次",
+      "description_sc": "正常班次",
+      "description_en": "Normal Route",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "堅尼地城站",
+          "orig_sc": "坚尼地城站",
+          "orig_en": "Kennedy Town Station",
+          "dest_tc": "薄扶林(循環線)",
+          "dest_sc": "薄扶林(循环线)",
+          "dest_en": "Pok Fu Lam (Circular)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "05:45:00",
+              "end_time": "23:25:00",
+              "frequency": 5,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 2,
+              "start_time": "06:00:00",
+              "end_time": "23:25:00",
+              "frequency": 5,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-09-17T10:43:13.002+08:00"
+        }
+      ],
+      "data_timestamp": "2024-09-17T10:43:13.002+08:00"
+    }
+  ]
+}

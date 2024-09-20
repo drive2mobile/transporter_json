@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:06:45+08:00",
+  "data": {
+    "stop": "002552",
+    "name_tc": "養和醫院, 黃泥涌道",
+    "name_en": "Hong Kong Sanatorium and Hospital, Wong Nai Chung Road",
+    "lat": "22.270151022091",
+    "long": "114.18267105053",
+    "name_sc": "养和医院, 黄泥涌道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

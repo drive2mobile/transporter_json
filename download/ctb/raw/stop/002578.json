@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:09:56+08:00",
+  "data": {
+    "stop": "002578",
+    "name_tc": "富豪海灣, 黃麻角道",
+    "name_en": "Regalia Bay, Wong Ma Kok Road",
+    "lat": "22.207885932091",
+    "long": "114.21354160053",
+    "name_sc": "富豪海湾, 黄麻角道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

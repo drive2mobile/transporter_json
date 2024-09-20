@@ -1,0 +1,67 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:26:17.825+08:00",
+  "data": [
+    {
+      "route_id": 2003408,
+      "region": "HKI",
+      "route_code": "63A",
+      "description_tc": "短程班次",
+      "description_sc": "短程班次",
+      "description_en": "Shortworking Trips",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "香港仔(南寧街)",
+          "orig_sc": "香港仔(南宁街)",
+          "orig_en": "Aberdeen (Nam Ning Street)",
+          "dest_tc": "華富邨(循環線)",
+          "dest_sc": "华富邨(循环线)",
+          "dest_en": "Wah Fu Estate (Circular)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "06:30:00",
+              "end_time": "19:30:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 2,
+              "start_time": "19:30:00",
+              "end_time": "23:30:00",
+              "frequency": 10,
+              "frequency_upper": 12
+            }
+          ],
+          "data_timestamp": "2024-07-31T18:02:27.266+08:00"
+        }
+      ],
+      "data_timestamp": "2024-07-31T18:02:27.266+08:00"
+    }
+  ]
+}

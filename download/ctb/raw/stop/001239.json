@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:11:21+08:00",
+  "data": {
+    "stop": "001239",
+    "name_tc": "雲景道配水庫遊樂場, 雲景道",
+    "name_en": "Cloud View Road Service Reservoir Playground, Cloud View Road",
+    "lat": "22.284614152091",
+    "long": "114.19489288053",
+    "name_sc": "云景道配水库游乐场, 云景道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

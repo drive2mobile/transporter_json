@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:17:25+08:00",
+  "data": {
+    "stop": "003452",
+    "name_tc": "昇薈, 迎東路",
+    "name_en": "The Visionary, Ying Tung Road",
+    "lat": "22.295825692091",
+    "long": "113.95194844053",
+    "name_sc": "昇荟, 迎东路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

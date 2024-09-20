@@ -1,0 +1,191 @@
+{
+  "type": "RouteStop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T14:59:27+08:00",
+  "data": [
+    {
+      "co": "CTB",
+      "route": "85A",
+      "dir": "I",
+      "seq": 1,
+      "stop": "001368",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "85A",
+      "dir": "I",
+      "seq": 2,
+      "stop": "001239",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "85A",
+      "dir": "I",
+      "seq": 3,
+      "stop": "001240",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "85A",
+      "dir": "I",
+      "seq": 4,
+      "stop": "001241",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "85A",
+      "dir": "I",
+      "seq": 5,
+      "stop": "001242",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "85A",
+      "dir": "I",
+      "seq": 6,
+      "stop": "001211",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "85A",
+      "dir": "I",
+      "seq": 7,
+      "stop": "001250",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "85A",
+      "dir": "I",
+      "seq": 8,
+      "stop": "001208",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "85A",
+      "dir": "I",
+      "seq": 9,
+      "stop": "001209",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "85A",
+      "dir": "I",
+      "seq": 10,
+      "stop": "001210",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "85A",
+      "dir": "I",
+      "seq": 11,
+      "stop": "001295",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "85A",
+      "dir": "I",
+      "seq": 12,
+      "stop": "001385",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "85A",
+      "dir": "I",
+      "seq": 13,
+      "stop": "001323",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "85A",
+      "dir": "I",
+      "seq": 14,
+      "stop": "001258",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "85A",
+      "dir": "I",
+      "seq": 15,
+      "stop": "001267",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "85A",
+      "dir": "I",
+      "seq": 16,
+      "stop": "001268",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "85A",
+      "dir": "I",
+      "seq": 17,
+      "stop": "001269",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "85A",
+      "dir": "I",
+      "seq": 18,
+      "stop": "001270",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "85A",
+      "dir": "I",
+      "seq": 19,
+      "stop": "001296",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "85A",
+      "dir": "I",
+      "seq": 20,
+      "stop": "001297",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "85A",
+      "dir": "I",
+      "seq": 21,
+      "stop": "001298",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "85A",
+      "dir": "I",
+      "seq": 22,
+      "stop": "001380",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "85A",
+      "dir": "I",
+      "seq": 23,
+      "stop": "001207",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    }
+  ]
+}

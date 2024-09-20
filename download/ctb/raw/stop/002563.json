@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:07:40+08:00",
+  "data": {
+    "stop": "002563",
+    "name_tc": "馬師道, 告士打道",
+    "name_en": "Marsh Road, Gloucester Road",
+    "lat": "22.280426062091",
+    "long": "114.17971701053",
+    "name_sc": "马师道, 告士打道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

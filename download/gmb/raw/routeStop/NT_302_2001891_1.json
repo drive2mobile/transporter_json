@@ -1,0 +1,164 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:28:32.235+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20001894,
+        "name_tc": "碧堤半島",
+        "name_sc": "碧堤半岛",
+        "name_en": "Bellagio"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20002059,
+        "name_tc": "沙咀道163號外",
+        "name_sc": "沙咀道163号外",
+        "name_en": "Sha Tsui Road outside House No. 163"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20001646,
+        "name_tc": "沙咀道戴麟趾夫人分科診療所外",
+        "name_sc": "沙咀道戴麟趾夫人分科诊疗所外",
+        "name_en": "Sha Tsui Road outside Lady Trench Polyclinic"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20002077,
+        "name_tc": "沙咀道271號外",
+        "name_sc": "咀道271号外",
+        "name_en": "Sha Tsui Road outside House No. 271"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20009132,
+        "name_tc": "沙咀道364號對面",
+        "name_sc": "沙咀道364号对面",
+        "name_en": "Sha Tsui Road opposite House No. 364"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20001629,
+        "name_tc": "德士古道64A號外",
+        "name_sc": "德士古道64A号外",
+        "name_en": "Texaco Road outside House No. 64A"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20001445,
+        "name_tc": "青山公路-葵涌段港鐵大窩口站外",
+        "name_sc": "青山公路-葵涌段港铁大窝口站外",
+        "name_en": "Castle Peak Road-Kwai Chung outside Tai Wo Hau MTR Station"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20002079,
+        "name_tc": "青山公路-葵涌段659號對面",
+        "name_sc": "青山公路-葵涌段659号对面",
+        "name_en": "Castle Peak Road-Kwai Chung opposite to House No. 659"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20002080,
+        "name_tc": "青山公路-葵涌段570號外",
+        "name_sc": "青山公路-葵涌段570号外",
+        "name_en": "Castle Peak Road-Kwai Chung outside House No. 570"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20001854,
+        "name_tc": "葵涌道豪華工業大廈外",
+        "name_sc": "葵涌道豪华工业大厦外",
+        "name_en": "Kwai Chung Road outside Hover Industrial Building"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20002081,
+        "name_tc": "葵涌道裕林工業大廈外",
+        "name_sc": "葵涌道裕林工业大厦外",
+        "name_en": "Kwai Chung Road outside Yee Lim Industrial Building"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20002082,
+        "name_tc": "葵富路葵涌廣場外",
+        "name_sc": "葵富路葵涌广场外",
+        "name_en": "Kwai Foo Road outside Kwai Chung Plaza"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20001716,
+        "name_tc": "興芳路188號外",
+        "name_sc": "兴芳路188号外",
+        "name_en": "Hing Fong Road outside House No. 188"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20002145,
+        "name_tc": "葵涌道近禾葵里的交界處",
+        "name_sc": "葵涌道近禾葵里的交界处",
+        "name_en": "Kwai Chung Road near its junction with Wo Kwai Lane"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20002083,
+        "name_tc": "青山公路-葵涌段659號外",
+        "name_sc": "青山公路-葵涌段659号外",
+        "name_en": "Castle Peak Road-Kwai Chung outside House No. 659"
+      },
+      {
+        "stop_seq": 16,
+        "stop_id": 20001687,
+        "name_tc": "青山公路-葵涌段港鐵大窩口站外",
+        "name_sc": "青山公路-葵涌段港铁大窝口站外",
+        "name_en": "Castle Peak Road-Kwai Chung opposite to Tai Wo Hau MTR Station"
+      },
+      {
+        "stop_seq": 17,
+        "stop_id": 20001643,
+        "name_tc": "沙咀道332號外",
+        "name_sc": "沙咀道332号外",
+        "name_en": "Sha Tsui Road outside House No. 332"
+      },
+      {
+        "stop_seq": 18,
+        "stop_id": 20002084,
+        "name_tc": "沙咀道274號外",
+        "name_sc": "沙咀道274号外",
+        "name_en": "Sha Tsui Road outside House No. 274"
+      },
+      {
+        "stop_seq": 19,
+        "stop_id": 20002085,
+        "name_tc": "沙咀道62號外",
+        "name_sc": "沙咀道62号外",
+        "name_en": "Sha Tsui Road outside House No. 62"
+      },
+      {
+        "stop_seq": 20,
+        "stop_id": 20009134,
+        "name_tc": "沙咀道6號外",
+        "name_sc": "沙咀道6号外",
+        "name_en": "Sha Tsui Road outside House No. 6"
+      },
+      {
+        "stop_seq": 21,
+        "stop_id": 20001887,
+        "name_tc": "青山公路-荃灣段麗城薈外",
+        "name_sc": "青山公路-荃湾段丽城荟外",
+        "name_en": "Castle Peak Road-Tsuen Wan outside Belvedere Square"
+      },
+      {
+        "stop_seq": 22,
+        "stop_id": 20001888,
+        "name_tc": "碧堤半島",
+        "name_sc": "碧堤半岛",
+        "name_en": "Bellagio"
+      }
+    ],
+    "data_timestamp": "2024-07-29T13:49:08.729+08:00"
+  }
+}

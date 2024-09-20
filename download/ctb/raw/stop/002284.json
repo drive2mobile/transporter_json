@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:09:54+08:00",
+  "data": {
+    "stop": "002284",
+    "name_tc": "聽濤小築, 大潭道",
+    "name_en": "Pacific Horizon, Tai Tam Road",
+    "lat": "22.225601502091",
+    "long": "114.21584308053",
+    "name_sc": "听涛小筑, 大潭道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

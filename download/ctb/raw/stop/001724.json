@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:12:24+08:00",
+  "data": {
+    "stop": "001724",
+    "name_tc": "五旬節聖潔會永光書院, 龍翔道",
+    "name_en": "P.H.C. Wing Kwong College, Lung Chung Road",
+    "lat": "22.342346632091",
+    "long": "114.18854505053",
+    "name_sc": "五旬节圣洁会永光书院, 龙翔道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

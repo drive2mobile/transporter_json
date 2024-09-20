@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:14:47+08:00",
+  "data": {
+    "stop": "002927",
+    "name_tc": "駿光街",
+    "name_en": "Chun Kwong Street",
+    "lat": "22.286878992091",
+    "long": "114.27346756053",
+    "name_sc": "骏光街",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

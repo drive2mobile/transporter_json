@@ -1,0 +1,59 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:30:19.369+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20002275,
+        "name_tc": "港鐵大學站巴士總站",
+        "name_sc": "港铁大学站巴士总站",
+        "name_en": "University Station Bus Terminus"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20007617,
+        "name_tc": "烏溪沙路, 迎海對面",
+        "name_sc": "乌溪沙路, 迎海对面",
+        "name_en": "Wu Kai Sha Road, opposite Double Cove"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20007618,
+        "name_tc": "耀沙路, 雲海外",
+        "name_sc": "耀沙路, 云海外",
+        "name_en": "Yiu Sha Road, outside St. Barths"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20007619,
+        "name_tc": "耀沙路, 星漣海外",
+        "name_sc": "耀沙路, 星涟海外",
+        "name_en": "Yiu Sha Road, outside Seanorama"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20007620,
+        "name_tc": "烏溪沙路, 迎海外",
+        "name_sc": "乌溪沙路, 迎海外",
+        "name_en": "Wu Kai Sha Road, outside Double Cove"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20008085,
+        "name_tc": "烏溪沙站巴士總站",
+        "name_sc": "乌溪沙站巴士总站",
+        "name_en": "Wu Kai Sha Station Bus Terminus"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20002275,
+        "name_tc": "港鐵大學站巴士總站",
+        "name_sc": "港铁大学站巴士总站",
+        "name_en": "University Station Bus Terminus"
+      }
+    ],
+    "data_timestamp": "2024-06-17T15:49:23.897+08:00"
+  }
+}

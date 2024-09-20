@@ -1,0 +1,45 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:29:42.442+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20002222,
+        "name_tc": "海防道及樂道交界",
+        "name_sc": "海防道及乐道交界",
+        "name_en": "Haiphong Road, Junction With Lock Road"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20007274,
+        "name_tc": "彌敦道,近登打士街",
+        "name_sc": "弥敦道,近登打士街",
+        "name_en": "Nathan Road, near Dundas Street"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20007275,
+        "name_tc": "彌敦道,近山東街",
+        "name_sc": "弥敦道,近山东街",
+        "name_en": "Nathan Road, near Shan Tung Street"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20002223,
+        "name_tc": "天福路, 天耀邨耀富樓對面",
+        "name_sc": "天福路, 天耀邨耀富楼对面",
+        "name_en": "Tin Yiu Estate, opposite Yiu Foo House"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20002221,
+        "name_tc": "天瑞邨巴士總站, 天瑞商場外",
+        "name_sc": "天瑞邨巴士总站, 天瑞商场外",
+        "name_en": "Tin Shui Commercial Complex"
+      }
+    ],
+    "data_timestamp": "2024-08-15T13:18:11.557+08:00"
+  }
+}

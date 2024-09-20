@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:12:51+08:00",
+  "data": {
+    "stop": "002596",
+    "name_tc": "長江集團中心, 皇后大道中",
+    "name_en": "Cheung Kong Center, Queen's Road Central",
+    "lat": "22.279863942091",
+    "long": "114.15992504053",
+    "name_sc": "长江集团中心, 皇后大道中",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:08:49+08:00",
+  "data": {
+    "stop": "002442",
+    "name_tc": "北海中心, 軒尼詩道",
+    "name_en": "CNT Tower, Hennessy Road",
+    "lat": "22.278327962091",
+    "long": "114.17845458053",
+    "name_sc": "北海中心, 轩尼诗道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

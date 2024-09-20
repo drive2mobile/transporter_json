@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:16:07+08:00",
+  "data": {
+    "stop": "003852",
+    "name_tc": "業旺邨, 天后路",
+    "name_en": "Yip Wong Estate, Tin Hau Road",
+    "lat": "22.388118912091",
+    "long": "113.97007174053",
+    "name_sc": "业旺邨, 天后路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

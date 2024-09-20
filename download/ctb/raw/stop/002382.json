@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:17:46+08:00",
+  "data": {
+    "stop": "002382",
+    "name_tc": "華富 (二) 邨商場",
+    "name_en": "Wah Fu (II) Commercial Complex",
+    "lat": "22.253247512091",
+    "long": "114.13593975053",
+    "name_sc": "华富 (二) 邨商场",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

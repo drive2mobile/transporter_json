@@ -1,0 +1,157 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:25:42.226+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20014524,
+        "name_tc": "碧瑤灣(上)小巴總站",
+        "name_sc": "碧瑶湾(上)小巴总站",
+        "name_en": "Baguio Villa (Upper) Minibus Terminus"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20014525,
+        "name_tc": "沙宣道, 近香港大學陳蕉琴樓",
+        "name_sc": "沙宣道, 近香港大學陳蕉琴樓 ",
+        "name_en": "SASSOON ROAD, near Pauline Chan Building, THE UNIVERSITY OF HONG KONG"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20014526,
+        "name_tc": "沙宣道, 近香港大學利銘澤堂",
+        "name_sc": "沙宣道, 近香港大學利銘澤堂 ",
+        "name_en": "SASSOON ROAD, near The University of Hong Kong R.C. Lee Hall"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20000174,
+        "name_tc": "薄扶林道, 蒲飛路",
+        "name_sc": "薄扶林道, 蒲飞路",
+        "name_en": "Pok Fu Lam Road, Pok Field Road"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20000012,
+        "name_tc": "薄扶林道, 近香港大學賽馬會第一舍堂村何東夫人紀念堂",
+        "name_sc": "薄扶林道, 近香港大學賽馬會第一舍堂村何東夫人紀念堂 ",
+        "name_en": "POK FU LAM ROAD, near Lady Ho Tung Hall, THE UNIVERSITY OF HONG KONG JOCKEY CLUB STUDENT VILLAGE 1"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20014527,
+        "name_tc": "般咸道, 近栢苑",
+        "name_sc": "般咸道, 近栢苑 ",
+        "name_en": "BONHAM ROAD, near Park Height"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20014537,
+        "name_tc": "般咸道, 醫院道",
+        "name_sc": "般咸道, 医院道",
+        "name_en": "Bonham Road, Hospital Road"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20000017,
+        "name_tc": "堅道, 樓梯街",
+        "name_sc": "坚道, 楼梯街",
+        "name_en": "Caine Road, Ladder Street"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20000018,
+        "name_tc": "堅道, 城皇街",
+        "name_sc": "坚道, 城皇街",
+        "name_en": "Caine Road, Shing Wong Street"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20000019,
+        "name_tc": "堅道, 卑利街",
+        "name_sc": "坚道, 卑利街",
+        "name_en": "Caine Road, Peel Street"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20014528,
+        "name_tc": "遮打道, 近和平紀念碑",
+        "name_sc": "遮打道, 近和平紀念碑 ",
+        "name_en": "CHATER ROAD, near THE CENOTAPH"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20014529,
+        "name_tc": "遮打道, 近中國建設銀行大廈",
+        "name_sc": "遮打道, 近中國建設銀行大廈 ",
+        "name_en": "CHATER ROAD, near CCB Tower"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20007408,
+        "name_tc": "美利道, 美利道多層停車場大廈外",
+        "name_sc": "美利道, 美利道多层停车场大厦外",
+        "name_en": "Murray Road, outside Murray Road multi-story car park"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20000026,
+        "name_tc": "紅棉路, 香港壁球中心外",
+        "name_sc": "红棉路, 香港壁球中心外",
+        "name_en": "Cotton Tree Drive, outside Hong Kong Squash Centre"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20014530,
+        "name_tc": "堅尼地道, 近帝景閣",
+        "name_sc": "堅尼地道, 近帝景閣 ",
+        "name_en": "KENNEDY ROAD, near The Royal Court"
+      },
+      {
+        "stop_seq": 16,
+        "stop_id": 20014531,
+        "name_tc": "堅尼地道, 近香港公園香港視覺藝術中心",
+        "name_sc": "堅尼地道, 近香港公園香港視覺藝術中心 ",
+        "name_en": "KENNEDY ROAD, near Hong Kong Visual Arts Centre, HONG KONG PARK"
+      },
+      {
+        "stop_seq": 17,
+        "stop_id": 20014532,
+        "name_tc": "堅尼地道, 近香港公園",
+        "name_sc": "堅尼地道, 近香港公園 ",
+        "name_en": "KENNEDY ROAD, near HONG KONG PARK"
+      },
+      {
+        "stop_seq": 18,
+        "stop_id": 20014533,
+        "name_tc": "堅尼地道, 近萬茂公園",
+        "name_sc": "堅尼地道, 近萬茂公園 ",
+        "name_en": "KENNEDY ROAD, near MONMOUTH PARK"
+      },
+      {
+        "stop_seq": 19,
+        "stop_id": 20014534,
+        "name_tc": "堅尼地道, 近嘉諾撒聖方濟各書院",
+        "name_sc": "堅尼地道, 近嘉諾撒聖方濟各書院 ",
+        "name_en": "KENNEDY ROAD, near St. Francis Canossian College"
+      },
+      {
+        "stop_seq": 20,
+        "stop_id": 20014535,
+        "name_tc": "堅尼地道, 近金鑾閣",
+        "name_sc": "堅尼地道, 近金鑾閣 ",
+        "name_en": "KENNEDY ROAD, near Camelot Heights"
+      },
+      {
+        "stop_seq": 21,
+        "stop_id": 20014536,
+        "name_tc": "新會道, 近京城大廈",
+        "name_sc": "新會道, 近京城大廈 ",
+        "name_en": "SUN WUI ROAD, near Capital Building"
+      }
+    ],
+    "data_timestamp": "2024-09-19T14:16:56.623+08:00"
+  }
+}

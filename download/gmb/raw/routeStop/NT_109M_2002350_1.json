@@ -1,0 +1,45 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:27:48.194+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20003178,
+        "name_tc": "蓬萊路, 清水灣半島1期第五座外",
+        "name_sc": "蓬莱路, 清水湾半岛1期第五座外",
+        "name_en": "Pung Loi Road, near Oscar by the Sea Block 5"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20002605,
+        "name_tc": "昭信路, 煜明苑煒明閣外",
+        "name_sc": "昭信路, 煜明苑炜明阁外",
+        "name_en": "Chiu Shun Road, outside Yuk Ming Court"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20001172,
+        "name_tc": "寶寧路, 將軍澳醫院對面",
+        "name_sc": "宝宁路, 将军澳医院对面",
+        "name_en": "Po Ning Road, opposite Tseung Kwan O Hospital"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20001162,
+        "name_tc": "重華路, 東港城第6座對面",
+        "name_sc": "重华路, 东港城第6座对面",
+        "name_en": "Chung Wa Road, opposite Block 6, East Point City"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20003387,
+        "name_tc": "名成街, 東港城對面",
+        "name_sc": "名成街, 东港城对面",
+        "name_en": "Ming Shing Street, opposite East Point City"
+      }
+    ],
+    "data_timestamp": "2024-07-31T17:28:48.365+08:00"
+  }
+}

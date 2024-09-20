@@ -1,0 +1,82 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:26:27.400+08:00",
+  "data": [
+    {
+      "route_id": 2000802,
+      "region": "HKI",
+      "route_code": "N69X",
+      "description_tc": "正常班次",
+      "description_sc": "正常班次",
+      "description_en": "Normal Services",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "數碼港",
+          "orig_sc": "数码港",
+          "orig_en": "Cyberport",
+          "dest_tc": "銅鑼灣(駱克道)",
+          "dest_sc": "铜锣湾(骆克道)",
+          "dest_en": "Causeway Bay (Lockhart Road)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "00:10:00",
+              "end_time": "01:30:00",
+              "frequency": 20,
+              "frequency_upper": 30
+            }
+          ],
+          "data_timestamp": "2024-09-17T10:42:07.460+08:00"
+        },
+        {
+          "route_seq": 2,
+          "orig_tc": "銅鑼灣(駱克道)",
+          "orig_sc": "铜锣湾(骆克道)",
+          "orig_en": "Causeway Bay (Lockhart Road)",
+          "dest_tc": "數碼港",
+          "dest_sc": "数码港",
+          "dest_en": "Cyberport",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "00:00:00",
+              "end_time": "02:00:00",
+              "frequency": 30,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-09-17T10:42:07.460+08:00"
+        }
+      ],
+      "data_timestamp": "2024-09-17T10:42:07.460+08:00"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:27:07.749+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20016993,
+        "name_tc": "明愛醫院小巴總站",
+        "name_sc": "明爱医院小巴总站",
+        "name_en": "Caritas Medical Centre Minibus Terminus"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20016994,
+        "name_tc": "未命名通道, 近明愛醫院賽馬會懷愛樓",
+        "name_sc": "未命名通道, 近明爱医院赛马会怀爱楼",
+        "name_en": "Unnamed Access Road, Near Caritas Medical Centre Jockey Club Wai Oi Block"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20016995,
+        "name_tc": "保安道, 近蘇屋邨社區綜合服務大樓",
+        "name_sc": "保安道, 近苏屋村社区综合服务大楼",
+        "name_en": "Po On Road, Near So Uk Estate Amenity And Community Building"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20013754,
+        "name_tc": "保安道, 近蘇屋邨杜鵑樓",
+        "name_sc": "保安道, 近苏屋村杜鹃楼 ",
+        "name_en": "PO ON ROAD, near Azalea House, SO UK ESTATE"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20013755,
+        "name_tc": "保安道, 近李鄭屋邨和平樓",
+        "name_sc": "保安道, 近李郑屋村和平楼 ",
+        "name_en": "PO ON ROAD, near Wo Ping House, LEI CHENG UK ESTATE"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20016996,
+        "name_tc": "東京街, 近美寧中心",
+        "name_sc": "东京街, 近美宁中心",
+        "name_en": "Tonkin Street, Near Merlin Centre"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20016997,
+        "name_tc": "東京街, 近中華基督教會協和小學（長沙灣）",
+        "name_sc": "东京街, 近中华基督教会协和小学（长沙湾）",
+        "name_en": "Tonkin Street, Near C.C.C. Heep Woh Primary School (Cheung Sha Wan)"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20016998,
+        "name_tc": "長沙灣道, 近九龍工業中學",
+        "name_sc": "长沙湾道, 近九龙工业中学",
+        "name_en": "Cheung Sha Wan Road, Near Kowloon Technical School"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20016999,
+        "name_tc": "德寶大廈",
+        "name_sc": "德宝大厦",
+        "name_en": "Tak Po Building"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20017000,
+        "name_tc": "欽州街,近西九龍中心",
+        "name_sc": "钦州街,近西九龙中心",
+        "name_en": "Yen Chow Street, Near Dragon Centre"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20017001,
+        "name_tc": "基隆街, 近北河街市政大廈",
+        "name_sc": "基隆街, 近北河街市政大厦",
+        "name_en": "Ki Lung Street, Near Pei Ho Street Municipal Service Building"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20017002,
+        "name_tc": "汝州街, 近信邦大廈",
+        "name_sc": "汝州街, 近信邦大厦",
+        "name_en": "Yu Chau Street, Near Shun Pong Building"
+      }
+    ],
+    "data_timestamp": "2024-09-03T16:50:13.150+08:00"
+  }
+}

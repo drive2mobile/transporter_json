@@ -1,0 +1,31 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:30:30.478+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20013891,
+        "name_tc": "荃灣(兆和街)",
+        "name_sc": "荃湾(兆和街)",
+        "name_en": "Tsuen Wan (Shiu Wo Street)"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20013870,
+        "name_tc": "石圍角路石圍角巴士總站外",
+        "name_sc": "石围角路石围角巴士总站外",
+        "name_en": "Shek Wai Kok Road outside Shek Wai Kok Bus Terminus"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20013495,
+        "name_tc": "石圍角邨",
+        "name_sc": "石围角邨",
+        "name_en": "Shek Wai Kok Estate"
+      }
+    ],
+    "data_timestamp": "2024-01-14T00:00:39.007+08:00"
+  }
+}

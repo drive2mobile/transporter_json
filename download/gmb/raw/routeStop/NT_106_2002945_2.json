@@ -1,0 +1,164 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:44:18.234+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20002027,
+        "name_tc": "九龍灣公共運輸交匯處",
+        "name_sc": "九龙湾公共运输交汇处",
+        "name_en": "Kowloon Bay Public Transport Interchange"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20010003,
+        "name_tc": "零碳天地",
+        "name_sc": "零碳天地",
+        "name_en": "Zero Carbon Building"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20000988,
+        "name_tc": "牛頭角道, 花園大廈喜鵲樓外",
+        "name_sc": "牛头角道, 花园大厦喜鹊楼外",
+        "name_en": "Ngau Tau Kok Road, outside Hay Cheuk Lau, Garden Estate"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20000809,
+        "name_tc": "牛頭角道, 玉蓮臺外",
+        "name_sc": "牛头角道, 玉莲台外",
+        "name_en": "Ngau Tau Kok Road, outside Lotus Tower"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20000810,
+        "name_tc": "牛頭角道, 琼林大廈",
+        "name_sc": "牛头角道, 琼林大厦",
+        "name_en": "Kentlum Mansion"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20000633,
+        "name_tc": "康寧道街市",
+        "name_sc": "康宁道街市",
+        "name_en": "Hong Ning Road Market"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20001998,
+        "name_tc": "香港神託會平安醫療中心",
+        "name_sc": "香港神託会平安医疗中心",
+        "name_en": "Peace Medical Centre"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20009967,
+        "name_tc": "秀茂坪警署",
+        "name_sc": "秀茂坪警署",
+        "name_en": "Sau Mau Ping Police Station"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20010007,
+        "name_tc": "高雷中學",
+        "name_sc": "高雷中学",
+        "name_en": "Ko Lui Secondary School"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20000983,
+        "name_tc": "秀茂坪道, 順天邨",
+        "name_sc": "秀茂坪道, 顺天邨",
+        "name_en": "Shun Tin Estate"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20009966,
+        "name_tc": "寧波第二中學",
+        "name_sc": "宁波第二中学",
+        "name_en": "Ning Po No. 2 College"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20007877,
+        "name_tc": "秀茂坪道, 秀雅樓外",
+        "name_sc": "秀茂坪道, 秀雅楼外",
+        "name_en": "Sau Nga House"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20007878,
+        "name_tc": "秀茂坪道, 秀程樓外",
+        "name_sc": "秀茂坪道, 秀程楼外",
+        "name_en": "Sau Ching House"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20003266,
+        "name_tc": "寶達邨",
+        "name_sc": "宝达邨",
+        "name_en": "Po Tat Estate"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20005094,
+        "name_tc": "安達臣道",
+        "name_sc": "安达臣道",
+        "name_en": "Anderson Road"
+      },
+      {
+        "stop_seq": 16,
+        "stop_id": 20002032,
+        "name_tc": "馬游塘",
+        "name_sc": "马游塘",
+        "name_en": "Ma Yau Tong"
+      },
+      {
+        "stop_seq": 17,
+        "stop_id": 20002033,
+        "name_tc": "寶琳北路, 茅湖仔",
+        "name_sc": "宝琳北路, 茅湖仔",
+        "name_en": "Mau Wu Tsai, Po Lam Road North"
+      },
+      {
+        "stop_seq": 18,
+        "stop_id": 20002003,
+        "name_tc": "寶琳北路, 康盛花園外",
+        "name_sc": "宝琳北路, 康盛花园外",
+        "name_en": "Po Lam Road North, outside Hong Sing Garden"
+      },
+      {
+        "stop_seq": 19,
+        "stop_id": 20002020,
+        "name_tc": "翠林邨",
+        "name_sc": "翠林邨",
+        "name_en": "Tsui Lam Estate"
+      },
+      {
+        "stop_seq": 20,
+        "stop_id": 20001169,
+        "name_tc": "寶林消防局",
+        "name_sc": "宝林消防局",
+        "name_en": "Po Lam Fire Station"
+      },
+      {
+        "stop_seq": 21,
+        "stop_id": 20002005,
+        "name_tc": "英明苑",
+        "name_sc": "英明苑",
+        "name_en": "Ying Ming Court"
+      },
+      {
+        "stop_seq": 22,
+        "stop_id": 20001149,
+        "name_tc": "寶琳公共運輸交匯處",
+        "name_sc": "宝琳公共运输交汇处",
+        "name_en": "Po Lam Public Transport Interchange"
+      }
+    ],
+    "data_timestamp": "2024-09-10T18:35:53.051+08:00"
+  }
+}

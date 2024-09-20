@@ -1,0 +1,354 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:26:53.147+08:00",
+  "data": [
+    {
+      "route_id": 2001003,
+      "region": "KLN",
+      "route_code": "28M",
+      "description_tc": "正常班次",
+      "description_sc": "",
+      "description_en": "Normal Route",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "九龍城（偉恒昌新邨）",
+          "orig_sc": "九龙城（伟恒昌新邨）",
+          "orig_en": "Kowloon City (Wyler Gardens)",
+          "dest_tc": "旺角站",
+          "dest_sc": "旺角站",
+          "dest_en": "Mong Kok Station",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "06:40:00",
+              "end_time": "07:30:00",
+              "frequency": 10,
+              "frequency_upper": 10
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 2,
+              "start_time": "07:30:00",
+              "end_time": "09:30:00",
+              "frequency": 5,
+              "frequency_upper": 5
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 3,
+              "start_time": "09:30:00",
+              "end_time": "12:30:00",
+              "frequency": 12,
+              "frequency_upper": 12
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 4,
+              "start_time": "12:30:00",
+              "end_time": "16:30:00",
+              "frequency": 10,
+              "frequency_upper": 10
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 5,
+              "start_time": "16:30:00",
+              "end_time": "19:30:00",
+              "frequency": 5,
+              "frequency_upper": 5
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 6,
+              "start_time": "19:30:00",
+              "end_time": "00:00:00",
+              "frequency": 15,
+              "frequency_upper": 15
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 7,
+              "start_time": "07:30:00",
+              "end_time": "10:30:00",
+              "frequency": 12,
+              "frequency_upper": 12
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 8,
+              "start_time": "10:30:00",
+              "end_time": "19:30:00",
+              "frequency": 10,
+              "frequency_upper": 10
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 9,
+              "start_time": "19:30:00",
+              "end_time": "00:00:00",
+              "frequency": 15,
+              "frequency_upper": 15
+            }
+          ],
+          "data_timestamp": "2024-09-05T09:58:25.953+08:00"
+        },
+        {
+          "route_seq": 2,
+          "orig_tc": "旺角站",
+          "orig_sc": "旺角站",
+          "orig_en": "Mong Kok Station",
+          "dest_tc": "九龍城（偉恒昌新邨）",
+          "dest_sc": "九龙城（伟恒昌新邨）",
+          "dest_en": "Kowloon City (Wyler Gardens)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "06:40:00",
+              "end_time": "07:30:00",
+              "frequency": 10,
+              "frequency_upper": 10
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 2,
+              "start_time": "07:30:00",
+              "end_time": "09:30:00",
+              "frequency": 5,
+              "frequency_upper": 5
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 3,
+              "start_time": "09:30:00",
+              "end_time": "12:30:00",
+              "frequency": 12,
+              "frequency_upper": 12
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 4,
+              "start_time": "12:30:00",
+              "end_time": "16:30:00",
+              "frequency": 10,
+              "frequency_upper": 10
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 5,
+              "start_time": "16:30:00",
+              "end_time": "19:30:00",
+              "frequency": 5,
+              "frequency_upper": 5
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 6,
+              "start_time": "19:30:00",
+              "end_time": "00:00:00",
+              "frequency": 15,
+              "frequency_upper": 15
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 7,
+              "start_time": "07:45:00",
+              "end_time": "10:45:00",
+              "frequency": 12,
+              "frequency_upper": 12
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 8,
+              "start_time": "10:45:00",
+              "end_time": "19:45:00",
+              "frequency": 10,
+              "frequency_upper": 10
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 9,
+              "start_time": "19:45:00",
+              "end_time": "00:00:00",
+              "frequency": 15,
+              "frequency_upper": 15
+            }
+          ],
+          "data_timestamp": "2024-09-05T09:58:25.953+08:00"
+        }
+      ],
+      "data_timestamp": "2024-09-05T09:58:25.953+08:00"
+    }
+  ]
+}

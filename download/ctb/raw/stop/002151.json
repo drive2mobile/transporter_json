@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:14:31+08:00",
+  "data": {
+    "stop": "002151",
+    "name_tc": "半見村, 坑口道",
+    "name_en": "Boon Kin Village, Hang Hau Road",
+    "lat": "22.316904372091",
+    "long": "114.27069797053",
+    "name_sc": "半见村, 坑口道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

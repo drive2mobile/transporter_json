@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:14:28+08:00",
+  "data": {
+    "stop": "001913",
+    "name_tc": "置樂花園",
+    "name_en": "Chi Lok Fa Yuen",
+    "lat": "22.386980222091",
+    "long": "113.97907948053",
+    "name_sc": "置乐花园",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

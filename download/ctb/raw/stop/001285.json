@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:10:25+08:00",
+  "data": {
+    "stop": "001285",
+    "name_tc": "清風街天橋, 英皇道",
+    "name_en": "Tsing Fung Street flyover, King's Road",
+    "lat": "22.286174722091",
+    "long": "114.19303544053",
+    "name_sc": "清风街天桥, 英皇道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

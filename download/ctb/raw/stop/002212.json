@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:10:00+08:00",
+  "data": {
+    "stop": "002212",
+    "name_tc": "漁安苑, 利東邨道",
+    "name_en": "Yue On Court, Lei Tung Estate Road",
+    "lat": "22.243031932091",
+    "long": "114.15782740053",
+    "name_sc": "渔安苑, 利东邨道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

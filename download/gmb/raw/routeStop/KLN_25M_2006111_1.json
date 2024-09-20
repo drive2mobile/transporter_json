@@ -1,0 +1,31 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:26:48.599+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20003363,
+        "name_tc": "九龍塘(沙福道)公共運輸交匯處",
+        "name_sc": "九龙塘（沙福道）公共运输交汇处",
+        "name_en": "Kowloon Tong (Suffolk Road) Public Transport Interchange"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20014162,
+        "name_tc": "喇沙利道, 近對衡道",
+        "name_sc": "喇沙利道, 近对衡道 ",
+        "name_en": "LA SALLE ROAD, near Durham Road"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20014164,
+        "name_tc": "喇沙利道, 近碧華花園第六座",
+        "name_sc": "喇沙利道, 近碧华花园第六座 ",
+        "name_en": "LA SALLE ROAD, near Beverly Villas Block 6"
+      }
+    ],
+    "data_timestamp": "2024-07-28T00:03:50.946+08:00"
+  }
+}

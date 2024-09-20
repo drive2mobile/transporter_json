@@ -1,0 +1,136 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:25:47.450+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20014355,
+        "name_tc": "望隆街,近峻峰花園Ｄ座",
+        "name_sc": "望隆街,近峻峰花园Ｄ座",
+        "name_en": "MONG LUNG STREET, near Perfect Mount Gardens Block D"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20013765,
+        "name_tc": "望隆街,近銀河廣場",
+        "name_sc": "望隆街,近银河广场",
+        "name_en": "MONG LUNG STREET, near Galaxy Plaza"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20013766,
+        "name_tc": "筲箕灣道,近逢源大廈",
+        "name_sc": "筲箕湾道,近逢源大厦",
+        "name_en": "SHAU KEI WAN ROAD, near Fung Yuen Building"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20013767,
+        "name_tc": "筲箕灣道,近寶福大廈",
+        "name_sc": "筲箕湾道,近宝福大厦",
+        "name_en": "SHAU KEI WAN ROAD, near Po Fuk Building"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20013768,
+        "name_tc": "筲箕灣道,近延齡大廈",
+        "name_sc": "筲箕湾道,近延龄大厦",
+        "name_en": "SHAU KEI WAN ROAD, near Ellen Building"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20013769,
+        "name_tc": "筲箕灣道,近富裕中心",
+        "name_sc": "筲箕湾道,近富裕中心",
+        "name_en": "SHAU KEI WAN ROAD, near Wealthy Plaza"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20013770,
+        "name_tc": "筲箕灣道,近業寧大廈",
+        "name_sc": "筲箕湾道,近业宁大厦",
+        "name_en": "SHAU KEI WAN ROAD, near Yip Ning Building"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20011279,
+        "name_tc": "筲箕灣道,近陽安大廈",
+        "name_sc": "筲箕湾道,近阳安大厦",
+        "name_en": "SHAU KEI WAN ROAD, near Yeung On Building"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20013771,
+        "name_tc": "康山道,近逸意居",
+        "name_sc": "康山道,近逸意居",
+        "name_en": "KORNHILL ROAD, near The Floridian"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20011624,
+        "name_tc": "康山道,近康山花園第９座",
+        "name_sc": "康山道,近康山花园第９座",
+        "name_en": "KORNHILL ROAD, near Kornhill Gardens Block 9"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20018744,
+        "name_tc": "英皇道,近太古小學",
+        "name_sc": "英皇道,近太古小学",
+        "name_en": "KING'S ROAD, near Taikoo Primary School"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20013772,
+        "name_tc": "英皇道,近基利路休憩處",
+        "name_sc": "英皇道,近基利路休憩处",
+        "name_en": "KING'S ROAD, near GREIG ROAD SITTING-OUT AREA"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20013714,
+        "name_tc": "基利路,近基利路休憩處",
+        "name_sc": "基利路,近基利路休憩处",
+        "name_en": "GREIG ROAD, near GREIG ROAD SITTING-OUT AREA"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20013773,
+        "name_tc": "基利路,近南豐新邨第３座",
+        "name_sc": "基利路,近南丰新邨第３座",
+        "name_en": "GREIG ROAD, near Nam Fung Sun Chuen Block 3"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20013774,
+        "name_tc": "基利路,近南豐新邨第５座",
+        "name_sc": "基利路,近南丰新邨第５座",
+        "name_en": "GREIG ROAD, near Nam Fung Sun Chuen Block 5"
+      },
+      {
+        "stop_seq": 16,
+        "stop_id": 20013717,
+        "name_tc": "康愉街,近康怡花園Ｊ座",
+        "name_sc": "康愉街,近康怡花园Ｊ座",
+        "name_en": "HONG YUE STREET, near Kornhill Block J"
+      },
+      {
+        "stop_seq": 17,
+        "stop_id": 20013718,
+        "name_tc": "康盛街,近康怡花園Ｆ座",
+        "name_sc": "康盛街,近康怡花园Ｆ座",
+        "name_en": "HONG SHING STREET, near Kornhill Block F"
+      },
+      {
+        "stop_seq": 18,
+        "stop_id": 20013702,
+        "name_tc": "康盛街,近康怡花園俱樂部",
+        "name_sc": "康盛街,近康怡花园俱乐部",
+        "name_en": "HONG SHING STREET, near Kornhill Recreation Club"
+      }
+    ],
+    "data_timestamp": "2024-06-20T10:32:37.493+08:00"
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:25:54.291+08:00",
+  "data": [
+    {
+      "route_id": 2005291,
+      "region": "HKI",
+      "route_code": "45A",
+      "description_tc": "正常班次",
+      "description_sc": "正常班次",
+      "description_en": "Normal Departure",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "西區(第一街)",
+          "orig_sc": "西区(第一街)",
+          "orig_en": "Western District (First Street)",
+          "dest_tc": "干德道 (循環線)",
+          "dest_sc": "干德道 (循环线)",
+          "dest_en": "Conduit Road (Circular)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "06:25:00",
+              "end_time": "09:00:00",
+              "frequency": 8,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 2,
+              "start_time": "09:00:00",
+              "end_time": "17:00:00",
+              "frequency": 12,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 3,
+              "start_time": "17:00:00",
+              "end_time": "20:00:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 4,
+              "start_time": "20:00:00",
+              "end_time": "22:30:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 5,
+              "start_time": "08:00:00",
+              "end_time": "18:00:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 6,
+              "start_time": "18:00:00",
+              "end_time": "22:30:00",
+              "frequency": 15,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-09-19T14:22:12.729+08:00"
+        }
+      ],
+      "data_timestamp": "2024-09-19T14:22:12.729+08:00"
+    }
+  ]
+}

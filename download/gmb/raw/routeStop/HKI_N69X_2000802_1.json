@@ -1,0 +1,115 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:26:27.500+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20003337,
+        "name_tc": "數碼港公共運輸交匯處",
+        "name_sc": "数码港公共运输交汇处",
+        "name_en": "Cyberport Public Transport Interchange"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20007719,
+        "name_tc": "數碼港道, 資訊道",
+        "name_sc": "数码港道, 资讯道",
+        "name_en": "Information Crescent, Cyberport Road"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20002491,
+        "name_tc": "數碼港道,數碼港3座對面",
+        "name_sc": "数码港道,数码港3座对面",
+        "name_en": "Cyberport Road, opposite Cyberport 3"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20002492,
+        "name_tc": "數碼港道,貝沙灣1期對面",
+        "name_sc": "数码港道,贝沙湾1期对面",
+        "name_en": "Cyperport Road, opposite Bel-air Phase 1"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20004115,
+        "name_tc": "數碼港道,貝沙灣南灣",
+        "name_sc": "数码港道,贝沙湾南湾",
+        "name_en": "Bel-Air on the Peak, Cyberport Road"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20000177,
+        "name_tc": "華景街,華翠樓外巴士總站",
+        "name_sc": "华景街,华翠楼外巴士总站",
+        "name_en": "Wah King Street, Bus Terminus Outside Wah Chui House"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20000369,
+        "name_tc": "石排灣道, 萬景樓外",
+        "name_sc": "石排湾道, 万景楼外",
+        "name_en": "Shek Pai Wan Road, outside Man King Building"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20007449,
+        "name_tc": "石排灣道, 田灣街",
+        "name_sc": "石排湾道, 田湾街",
+        "name_en": "Shek Pai Wan Road, Tin Wan Street"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20002494,
+        "name_tc": "香港仔海傍道,香港仔巴士總站外",
+        "name_sc": "香港仔海傍道,香港仔巴士总站外",
+        "name_en": "Aberdeen Praya Road, outside Aberdeen Bus Terminus"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20002391,
+        "name_tc": "香港仔大道48-50號, 業漁大樓外",
+        "name_sc": "香港仔大道48-50号, 业渔大楼外",
+        "name_en": "48-50 Aberdeen Main Road, outside Yip Yee Mansion"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20002495,
+        "name_tc": "香港仔隧道收費廣場",
+        "name_sc": "香港仔隧道收费广场",
+        "name_en": "Aberdeen Tunnel Toll Plaza"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20000048,
+        "name_tc": "崇正大廈, 摩理臣山道",
+        "name_sc": "崇正大厦, 摩理臣山道",
+        "name_en": "Tsung Tsin Building, Morrison Hill Road"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20000049,
+        "name_tc": "摩理臣山道32號",
+        "name_sc": "摩理臣山道32号",
+        "name_en": "32 Morrison Hill Road"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20000021,
+        "name_tc": "駱克道, 馬師道以東",
+        "name_sc": "骆克道, 马师道以东",
+        "name_en": "Lockhart Road, East Of Marsh Road"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20006944,
+        "name_tc": "駱克道, 近景隆街",
+        "name_sc": "骆克道, 近景隆街",
+        "name_en": "Lockhart Road, near Cannon Street"
+      }
+    ],
+    "data_timestamp": "2024-09-17T10:42:07.460+08:00"
+  }
+}

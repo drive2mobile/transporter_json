@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:07:28+08:00",
+  "data": {
+    "stop": "002590",
+    "name_tc": "加多近街",
+    "name_en": "Cadogan Street",
+    "lat": "22.282790252091",
+    "long": "114.12590822053",
+    "name_sc": "加多近街",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

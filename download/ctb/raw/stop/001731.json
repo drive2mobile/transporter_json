@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:17:49+08:00",
+  "data": {
+    "stop": "001731",
+    "name_tc": "竹園南邨趣園樓, 雅竹街",
+    "name_en": "Tsui Yuen House Chuk Yuen South Estate, Nga Chuk Street",
+    "lat": "22.344345902091",
+    "long": "114.19405191053",
+    "name_sc": "竹园南邨趣园楼, 雅竹街",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

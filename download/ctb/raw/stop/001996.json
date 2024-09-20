@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:16:17+08:00",
+  "data": {
+    "stop": "001996",
+    "name_tc": "嘉湖山莊翠湖居, 天榮路",
+    "name_en": "Chestwood Court Kingswood Villas, Tin Wing Road",
+    "lat": "22.459509232091",
+    "long": "113.99984302053",
+    "name_sc": "嘉湖山庄翠湖居, 天荣路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

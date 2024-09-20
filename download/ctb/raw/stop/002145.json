@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:14:29+08:00",
+  "data": {
+    "stop": "002145",
+    "name_tc": "窩美, 西貢公路",
+    "name_en": "Wo Mei, Hiram's Highway",
+    "lat": "22.351207622091",
+    "long": "114.25243351053",
+    "name_sc": "窝美, 西贡公路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

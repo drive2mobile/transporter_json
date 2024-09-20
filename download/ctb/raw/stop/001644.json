@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:07:14+08:00",
+  "data": {
+    "stop": "001644",
+    "name_tc": "北拱街, 漆咸道北",
+    "name_en": "Pak Kung Street, Chatham Road North",
+    "lat": "22.311833242091",
+    "long": "114.18612626053",
+    "name_sc": "北拱街, 漆咸道北",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

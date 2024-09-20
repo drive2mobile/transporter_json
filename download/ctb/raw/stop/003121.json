@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:15:46+08:00",
+  "data": {
+    "stop": "003121",
+    "name_tc": "長青邨, 青康路",
+    "name_en": "Cheung Ching Estate, Ching Hong Road",
+    "lat": "22.348183272091",
+    "long": "114.10580045053",
+    "name_sc": "长青邨, 青康路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

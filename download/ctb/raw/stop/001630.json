@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:09:24+08:00",
+  "data": {
+    "stop": "001630",
+    "name_tc": "大南街, 黃竹街",
+    "name_en": "Tai Nan Street, Wong Chuk Street",
+    "lat": "22.326990272091",
+    "long": "114.16387675053",
+    "name_sc": "大南街, 黄竹街",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

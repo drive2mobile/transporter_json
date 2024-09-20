@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:08:54+08:00",
+  "data": {
+    "stop": "001248",
+    "name_tc": "歌頓道",
+    "name_en": "Gordon Road",
+    "lat": "22.285721352091",
+    "long": "114.19103465053",
+    "name_sc": "歌顿道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

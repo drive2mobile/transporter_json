@@ -1,0 +1,115 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:30:21.817+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20012392,
+        "name_tc": "沙田站(排頭街)",
+        "name_sc": "沙田站(排头街)",
+        "name_en": "Sha Tin Station (Pai Tau Street)"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20001556,
+        "name_tc": "大涌橋路麗豪酒店對面的巴士停車灣",
+        "name_sc": "大涌桥路丽豪酒店对面的巴士停车湾",
+        "name_en": "Bus lay-by on Tai Chung Kiu Road opposite Regal Riverside Hotel"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20012393,
+        "name_tc": "圓洲角路, 近崗背街",
+        "name_sc": "圆洲角路, 近岗背街",
+        "name_en": "Yuen Chau Kok Road, near Kong Pui Street"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20012394,
+        "name_tc": "崗背街花園城雅仕苑外",
+        "name_sc": "岗背街花园城雅仕苑外",
+        "name_en": "Kong Pui Street outside Escort Garden, Shatin Park"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20012395,
+        "name_tc": "逸泰街, 近沙田圍站",
+        "name_sc": "逸泰街, 近沙田围站 ",
+        "name_en": "Shui Chuen Au Street, outside Sha Tin Wai Playground"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20012396,
+        "name_tc": "水泉坳街, 謝屋村外",
+        "name_sc": "水泉坳街, 谢屋村外",
+        "name_en": "Shui Chuen Au Street, outside Tse Uk Village"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20012397,
+        "name_tc": "灰窰下新村",
+        "name_sc": "灰窰下新村",
+        "name_en": "Fui Yiu Ha New Village"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20012398,
+        "name_tc": "水泉坳街, 作壆坑村",
+        "name_sc": "水泉坳街, 作壆坑村",
+        "name_en": "Shui Chuen Au Street, Tsok Pok Hang Village"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20012399,
+        "name_tc": "水泉坳街, 保良局朱正賢小學",
+        "name_sc": "水泉坳街, 保良局朱正贤小学",
+        "name_en": "Shui Chuen Au Street, Po Leung Kuk Chee Jing Yin Primary School"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20012400,
+        "name_tc": "水泉坳街, 沙田圍遊樂場對面",
+        "name_sc": "水泉坳街, 沙田围游乐场对面",
+        "name_en": "Shui Chuen Au Street, opposite Sha Tin Wai Playground"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20002307,
+        "name_tc": "沙角街, 沙角邨金鶯樓外",
+        "name_sc": "沙角街, 沙角邨金莺楼外",
+        "name_en": "Sha Kok Street, outside Oriole House, Sha Kok Estate"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20012401,
+        "name_tc": "崗背街, 花園城第三期",
+        "name_sc": "岗背街, 花园城第三期",
+        "name_en": "Kong Pui Street, Artland Garden"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20012402,
+        "name_tc": "圓洲角路, 近崗背街",
+        "name_sc": "圆洲角路, 近岗背街",
+        "name_en": "Yuen Chau Kok Road, near Kong Pui Street"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20001554,
+        "name_tc": "大涌橋路麗豪酒店外的巴士停車灣",
+        "name_sc": "大涌桥路丽豪酒店外的巴士停车湾",
+        "name_en": "Bus lay-by on Tai Chung Kiu Road outside Regal Riverside Hotel"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20012392,
+        "name_tc": "沙田站(排頭街)",
+        "name_sc": "沙田站(排头街)",
+        "name_en": "Sha Tin Station (Pai Tau Street)"
+      }
+    ],
+    "data_timestamp": "2024-07-31T17:10:12.266+08:00"
+  }
+}

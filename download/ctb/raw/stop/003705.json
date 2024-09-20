@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:06:54+08:00",
+  "data": {
+    "stop": "003705",
+    "name_tc": "德朗邨停車場, 承啟道",
+    "name_en": "Tak Long Estate Carpark, Shing Kai Road",
+    "lat": "22.327858522091",
+    "long": "114.20443849053",
+    "name_sc": "德朗邨停车场, 承启道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

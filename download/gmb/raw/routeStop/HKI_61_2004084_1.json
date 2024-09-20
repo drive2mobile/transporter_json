@@ -1,0 +1,129 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:26:15.970+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20011277,
+        "name_tc": "小西灣道, 藍灣半島第3座外",
+        "name_sc": "小西湾道, 蓝湾半岛第3座外",
+        "name_en": "Siu Sai Wan Road, outside Tower 3, Island Resort"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20011278,
+        "name_tc": "小西灣道, 瑞隆樓外",
+        "name_sc": "小西湾道, 瑞隆楼外",
+        "name_en": "Siu Sai Wan Road, outside Sui Lung House"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20003454,
+        "name_tc": "小西灣道, 香港學術及職業資歷評審局外",
+        "name_sc": "小西湾道， 香港学术及职业资历评审局外",
+        "name_en": "Siu Sai Wan Road, HKCAAVQ"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20003430,
+        "name_tc": "柴灣道, 樂軒臺外",
+        "name_sc": "柴湾道, 乐轩台外",
+        "name_en": "Chai Wan Road, outside Lok Hin Terrace"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20000396,
+        "name_tc": "柴灣道, 興華邨裕興樓外",
+        "name_sc": "柴湾道, 兴华邨裕兴楼外",
+        "name_en": "Chai Wan Road, outside Hing Wah Estate Yu Hing House"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20003450,
+        "name_tc": "柴灣道, 興民邨",
+        "name_sc": "柴湾道, 兴民邨",
+        "name_en": "Chai Wan Road, Hing Man Estate"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20000106,
+        "name_tc": "筲箕灣道426號",
+        "name_sc": "筲箕湾道426号",
+        "name_en": "No.426 Shau Kei Wan Road"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20000108,
+        "name_tc": "筲箕灣道326號",
+        "name_sc": "筲箕湾道326号",
+        "name_en": "No.326 Shau Kei Wan Road"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20000111,
+        "name_tc": "筲箕灣道200號",
+        "name_sc": "筲箕湾道200号",
+        "name_en": "No.200 Shau Kei Wan Road"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20011279,
+        "name_tc": "筲箕灣道, 太富街以西",
+        "name_sc": "筲箕湾道, 太富街以西",
+        "name_en": "Shau Kei Wan Road, west of Tai Foo Street"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20011624,
+        "name_tc": "康山道, 港鐵太古站C出口外",
+        "name_sc": "康山道, 港铁太古站C出口外",
+        "name_en": "Kornhill Road, outside Taikoo MTR Station C"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20011289,
+        "name_tc": "英皇道898號",
+        "name_sc": "英皇道898号",
+        "name_en": "No. 898 King's Road"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20003457,
+        "name_tc": "英皇道健康村外",
+        "name_sc": "英皇道健康村外",
+        "name_en": "King's Road, outside Healthy Village"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20000662,
+        "name_tc": "鯉魚門道港鐵藍田站",
+        "name_sc": "鲤鱼门道港铁蓝田站",
+        "name_en": "Lei Yue Mun Road, Lam Tin Station"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20011305,
+        "name_tc": "亞皆老街216號",
+        "name_sc": "亚皆老街216号",
+        "name_en": "No. 216 Argyle Street"
+      },
+      {
+        "stop_seq": 16,
+        "stop_id": 20011308,
+        "name_tc": "亞皆老街180號",
+        "name_sc": "亚皆老街180号",
+        "name_en": "House No. 180 Arygle Street"
+      },
+      {
+        "stop_seq": 17,
+        "stop_id": 20000720,
+        "name_tc": "快富街, 友誠大廈外",
+        "name_sc": "快富街, 友诚大厦外",
+        "name_en": "Fife Street, outside Yau Shing Building"
+      }
+    ],
+    "data_timestamp": "2024-09-05T09:58:25.961+08:00"
+  }
+}

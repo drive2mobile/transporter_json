@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:08:28+08:00",
+  "data": {
+    "stop": "002347",
+    "name_tc": "香港仔隧道巴士轉乘站",
+    "name_en": "Aberdeen Tunnel Bus-Bus Interchange",
+    "lat": "22.249960892091",
+    "long": "114.17585543053",
+    "name_sc": "香港仔隧道巴士转乘站",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

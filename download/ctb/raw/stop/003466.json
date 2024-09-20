@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:15:40+08:00",
+  "data": {
+    "stop": "003466",
+    "name_tc": "葵盛邨盛安樓, 葵盛圍",
+    "name_en": "Shing On House Kwai Shing Estate, Kwai Shing Circuit",
+    "lat": "22.365502042091",
+    "long": "114.12618223053",
+    "name_sc": "葵盛邨盛安楼, 葵盛围",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

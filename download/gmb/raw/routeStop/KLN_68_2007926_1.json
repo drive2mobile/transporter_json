@@ -1,0 +1,136 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:27:18.178+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20012361,
+        "name_tc": "豐盛街, 近彩雲(一)邨觀日樓",
+        "name_sc": "丰盛街, 近彩云(一)村观日楼",
+        "name_en": "Fung Shing Street, Near Koon Yat House, Choi Wan (I) Estate"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20015904,
+        "name_tc": "彩雲巴士總站",
+        "name_sc": "彩云巴士总站",
+        "name_en": "Choi Wan Bus Terminus"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20001117,
+        "name_tc": "清水灣道, 近坪石邨鑽石樓",
+        "name_sc": "清水湾道, 近坪石村钻石楼",
+        "name_en": "Clear Water Bay Road, near Tsuen Shek House, Ping Shek Estate"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20001060,
+        "name_tc": "觀塘道, 近牛頭角下邨貴亮樓",
+        "name_sc": "观塘道, 近牛头角下村贵亮楼",
+        "name_en": "Kwun Tong Road, Near Kwai Leung House, Lower Ngau Tau Kok Estate"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20000988,
+        "name_tc": "牛頭角道, 花園大廈喜鵲樓外",
+        "name_sc": "牛头角道, 花园大厦喜鹊楼外",
+        "name_en": "Ngau Tau Kok Road, outside Hay Cheuk Lau, Garden Estate"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20015905,
+        "name_tc": "勵業街, 近翠華集團中心",
+        "name_sc": "励业街, 近翠华集团中心",
+        "name_en": "Lai Yip Street, Near Tsui Wah Group Centre"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20013838,
+        "name_tc": "海濱道, 香港綠景NEO對面",
+        "name_sc": "海滨道, 香港绿景NEO对面",
+        "name_en": "Hoi Bun Road, Opposite to Hong Kong LVGEM NEO"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20015906,
+        "name_tc": "啓興道, 近太平洋貿易中心",
+        "name_sc": "启兴道, 近太平洋贸易中心",
+        "name_en": "Kai Hing Road, Near Pacific Trade Centre"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20015907,
+        "name_tc": "企業廣場第五期MegaBox",
+        "name_sc": "企业广场第五期MegaBox",
+        "name_en": "MegaBox, Enterprise Square Five"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20015908,
+        "name_tc": "企業廣場",
+        "name_sc": "企业广场",
+        "name_en": "Enterprise Square"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20015909,
+        "name_tc": "海濱道, 近海濱匯",
+        "name_sc": "海滨道, 近海滨汇",
+        "name_en": "Hoi Bun Road, Near The Quayside"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20000991,
+        "name_tc": "牛頭角道, 觀塘官立小學外",
+        "name_sc": "牛头角道, 观塘官立小学外",
+        "name_en": "Ngau Tau Kok Road, outside Kwun Tong Government Primary School"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20000992,
+        "name_tc": "牛頭角道, 安德大廈外",
+        "name_sc": "牛头角道, 安德大厦外",
+        "name_en": "Ngau Tau Kok Road, outside On Tak Building"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20015910,
+        "name_tc": "牛頭角道, 近牛頭角下邨貴顯樓",
+        "name_sc": "牛头角道, 近牛头角下村贵显楼",
+        "name_en": "Ngau Tau Kok Road Near Kwai Hin House, Lower Ngau Tau Kok Estate"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20015911,
+        "name_tc": "清水灣道, 近牛池灣市政大廈",
+        "name_sc": "清水湾道, 近牛池湾市政大厦",
+        "name_en": "Clear Water Bay Road, Near Ngau Chi Wan Municipal Services Building"
+      },
+      {
+        "stop_seq": 16,
+        "stop_id": 20015912,
+        "name_tc": "清水灣道, 近彩雲(一)邨白鳳樓",
+        "name_sc": "清水湾道, 近彩云(一)村白凤楼",
+        "name_en": "Clear Water Bay Road, Near Pak Fung House, Choi Wan (I) Estate"
+      },
+      {
+        "stop_seq": 17,
+        "stop_id": 20015913,
+        "name_tc": "新清水灣道, 近彩雲(一)邨伴月樓",
+        "name_sc": "新清水湾道, 近彩云(一)村伴月楼",
+        "name_en": "New Clear Water Bay Road, Near Boon Yuet House, Choi Wan (I) Estate"
+      },
+      {
+        "stop_seq": 18,
+        "stop_id": 20012361,
+        "name_tc": "豐盛街, 近彩雲(一)邨觀日樓",
+        "name_sc": "丰盛街, 近彩云(一)村观日楼",
+        "name_en": "Fung Shing Street, near Koon Yat House, Choi Wan (I) Estate"
+      }
+    ],
+    "data_timestamp": "2024-09-11T15:05:31.229+08:00"
+  }
+}

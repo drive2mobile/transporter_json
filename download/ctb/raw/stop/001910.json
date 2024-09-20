@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:10:17+08:00",
+  "data": {
+    "stop": "001910",
+    "name_tc": "秦石邨, 車公廟路",
+    "name_en": "Chun Shek Estate, Che Kung Miu Road",
+    "lat": "22.374475262091",
+    "long": "114.18663344053",
+    "name_sc": "秦石邨, 车公庙路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

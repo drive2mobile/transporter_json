@@ -1,0 +1,125 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:26:34.753+08:00",
+  "data": [
+    {
+      "route_id": 2002087,
+      "region": "KLN",
+      "route_code": "19",
+      "description_tc": "正常班次",
+      "description_sc": "正常班次",
+      "description_en": "Normal Route",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "新蒲崗",
+          "orig_sc": "新蒲崗",
+          "orig_en": "San Po Kong",
+          "dest_tc": "慈雲山道(沙田坳邨)",
+          "dest_sc": "慈云山道(沙田坳邨)",
+          "dest_en": "Tsz Wan Shan Road(Shatin Pass Estate)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "10:00:00",
+              "end_time": "19:45:00",
+              "frequency": 28,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-07-31T15:33:52.334+08:00"
+        },
+        {
+          "route_seq": 2,
+          "orig_tc": "慈雲山道(沙田坳邨)",
+          "orig_sc": "慈云山道(沙田坳邨)",
+          "orig_en": "Tsz Wan Shan Road (Shatin Pass Estate)",
+          "dest_tc": "新蒲崗",
+          "dest_sc": "新蒲岗",
+          "dest_en": "San Po Kong",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "09:45:00",
+              "end_time": "19:45:00",
+              "frequency": 28,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-07-31T15:33:52.334+08:00"
+        }
+      ],
+      "data_timestamp": "2024-07-31T15:33:52.334+08:00"
+    },
+    {
+      "route_id": 2002151,
+      "region": "KLN",
+      "route_code": "19",
+      "description_tc": "特別班次",
+      "description_sc": "特別班次",
+      "description_en": "Special Service",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "富山公共交通總站",
+          "orig_sc": "富山公共交通总站",
+          "orig_en": "Fu Shan Public Transport Interchange",
+          "dest_tc": "鑽石山站公共交通交匯處",
+          "dest_sc": "钻石山站公共交通交汇处",
+          "dest_en": "Diamond Hill Station Public Transport Interchange",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "06:45:00",
+              "end_time": "09:45:00",
+              "frequency": 4,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-07-31T18:11:44.270+08:00"
+        }
+      ],
+      "data_timestamp": "2024-07-31T18:11:44.270+08:00"
+    }
+  ]
+}

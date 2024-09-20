@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:12:22+08:00",
+  "data": {
+    "stop": "003217",
+    "name_tc": "屯門消防局, 杯渡路",
+    "name_en": "Tuen Mun Fire Station, Pui To Road",
+    "lat": "22.394995922091",
+    "long": "113.97002599053",
+    "name_sc": "屯门消防局, 杯渡路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

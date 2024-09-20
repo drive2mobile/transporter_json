@@ -1,0 +1,171 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:44:00.241+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20014859,
+        "name_tc": "謝斐道, 近兆安廣場",
+        "name_sc": "谢斐道, 近兆安广场 ",
+        "name_en": "JAFFE ROAD, near Siu On Plaza"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20014860,
+        "name_tc": "駱克道, 近COMO COMO",
+        "name_sc": "骆克道, 近COMO COMO ",
+        "name_en": "LOCKHART ROAD, near COMO COMO"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20014865,
+        "name_tc": "駱克道, 338號",
+        "name_sc": "骆克道, 338号",
+        "name_en": "Lockhart Road, house no. 338"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20014866,
+        "name_tc": "軒尼詩道, 近The Hennessy",
+        "name_sc": "轩尼诗道, 近The Hennessy",
+        "name_en": "HENNESSY ROAD, near The Hennessy"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20014867,
+        "name_tc": "軒尼詩道, 近永昌大廈",
+        "name_sc": " 轩尼诗道, 近永昌大厦",
+        "name_en": "HENNESSY ROAD, near Wing Cheong Building"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20000324,
+        "name_tc": "金鐘道, 太古廣場外",
+        "name_sc": "金钟道, 太古广场外",
+        "name_en": "Queensway, outside Pacific Place"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20004545,
+        "name_tc": "堅道, 明愛中心",
+        "name_sc": "坚道, 明爱中心",
+        "name_en": "Caritas Centre, Caine Road"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20004544,
+        "name_tc": "堅道, 些利街",
+        "name_sc": "坚道, 些利街",
+        "name_en": "Caine Road, Shelly Street"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20004106,
+        "name_tc": "堅道, 近安峰大廈",
+        "name_sc": "坚道, 近安峰大厦",
+        "name_en": "CAINE ROAD, near On Fung Building"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20004542,
+        "name_tc": "般咸道, 豫苑",
+        "name_sc": "般咸道, 豫苑",
+        "name_en": "Euston Court, Bonham Road"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20004541,
+        "name_tc": "般咸道, 東邊街",
+        "name_sc": "般咸道, 东边街",
+        "name_en": "Bonham Road, Eastern Street"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20014868,
+        "name_tc": "般咸道, 近金鳳閣",
+        "name_sc": "般咸道, 近金凤阁",
+        "name_en": "BONHAM ROAD, near Golden Phoenix Court"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20014869,
+        "name_tc": "般咸道, 香港大學東閘",
+        "name_sc": "般咸道, 香港大学东闸",
+        "name_en": "Bonham Road, East Gate of The University of Hong Kong"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20000008,
+        "name_tc": "薄扶林道, 香港大學西閘",
+        "name_sc": "薄扶林道, 香港大学西闸",
+        "name_en": "Pok Fu Lam Road, West Gate of The University of Hong Kong"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20000009,
+        "name_tc": "薄扶林道, 寶翠園對面",
+        "name_sc": "薄扶林道, 宝翠园对面",
+        "name_en": "Pok Fu Lam Road, opposite The Belcher's"
+      },
+      {
+        "stop_seq": 16,
+        "stop_id": 20014870,
+        "name_tc": "薄扶林道, 近蒲飛路",
+        "name_sc": " 薄扶林道, 近蒲飞路",
+        "name_en": "Pokfulam Road near Pokfield Road"
+      },
+      {
+        "stop_seq": 17,
+        "stop_id": 20014871,
+        "name_tc": "薄扶林道, 近摩星嶺道",
+        "name_sc": "薄扶林道, 近摩星岭道",
+        "name_en": "Pokfulam Road near Mount Davis Road"
+      },
+      {
+        "stop_seq": 18,
+        "stop_id": 20004547,
+        "name_tc": "薄扶林道, 瑪麗醫院",
+        "name_sc": "薄扶林道, 玛丽医院",
+        "name_en": "Queen Mary Hospital, Pok Fu Lam Road"
+      },
+      {
+        "stop_seq": 19,
+        "stop_id": 20014872,
+        "name_tc": "碧荔道, 近Bisney Cove",
+        "name_sc": "碧荔道, 近Bisney Cove",
+        "name_en": "BISNEY ROAD, near Bisney Cove"
+      },
+      {
+        "stop_seq": 20,
+        "stop_id": 20000348,
+        "name_tc": "大口環道, 大口環根德公爵夫人兒童醫院",
+        "name_sc": "大口环道, 大口环根德公爵夫人儿童医院",
+        "name_en": "Sandy Bay Road, The Duchess of Kent Children’s Hospital"
+      },
+      {
+        "stop_seq": 21,
+        "stop_id": 20004594,
+        "name_tc": "沙灣徑, 麥理浩復康院外",
+        "name_sc": "沙湾径, 麦理浩复康院外",
+        "name_en": "Sha Wan Drive, outside Maclehose Medical Rehabilitation Centre"
+      },
+      {
+        "stop_seq": 22,
+        "stop_id": 20014873,
+        "name_tc": "沙灣徑, 近譚亦衡樓第５座",
+        "name_sc": "沙湾径, 近谭亦衡楼第５座",
+        "name_en": "SHA WAN DRIVE, near Tam Gardens Block 5"
+      },
+      {
+        "stop_seq": 23,
+        "stop_id": 20014874,
+        "name_tc": "數碼港巴士總站",
+        "name_sc": "数码港巴士总站",
+        "name_en": "Cyberport Bus Terminus"
+      }
+    ],
+    "data_timestamp": "2024-09-19T14:16:56.622+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:08:24+08:00",
+  "data": {
+    "stop": "002298",
+    "name_tc": "明愛張奧偉國際賓館, 田灣街",
+    "name_en": "Caritas Oswald Cheung International House, Tin Wan Street",
+    "lat": "22.249830462091",
+    "long": "114.14933794053",
+    "name_sc": "明爱张奥伟国际宾馆, 田湾街",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

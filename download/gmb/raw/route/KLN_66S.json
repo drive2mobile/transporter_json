@@ -1,0 +1,82 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:27:17.369+08:00",
+  "data": [
+    {
+      "route_id": 2007433,
+      "region": "KLN",
+      "route_code": "66S",
+      "description_tc": "通宵服務班次",
+      "description_sc": "通宵服务班次",
+      "description_en": "Overnight Service",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "斧山道",
+          "orig_sc": "斧山道",
+          "orig_en": "Hammer Hill Road",
+          "dest_tc": "旺角",
+          "dest_sc": "旺角",
+          "dest_en": "Mong Kok",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "00:00:00",
+              "end_time": "06:00:00",
+              "frequency": 30,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-09-05T09:58:25.937+08:00"
+        },
+        {
+          "route_seq": 2,
+          "orig_tc": "旺角",
+          "orig_sc": "旺角",
+          "orig_en": "Mong Kok",
+          "dest_tc": "斧山道",
+          "dest_sc": "斧山道",
+          "dest_en": "Hammer Hill Road",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "00:00:00",
+              "end_time": "06:00:00",
+              "frequency": 30,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-09-05T09:58:25.937+08:00"
+        }
+      ],
+      "data_timestamp": "2024-09-05T09:58:25.937+08:00"
+    }
+  ]
+}

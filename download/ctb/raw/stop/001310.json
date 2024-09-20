@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:07:10+08:00",
+  "data": {
+    "stop": "001310",
+    "name_tc": "新光戲院, 書局街",
+    "name_en": "Sunbeam Theatre, Shu Kuk Street",
+    "lat": "22.291615512091",
+    "long": "114.20012532053",
+    "name_sc": "新光戏院, 书局街",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

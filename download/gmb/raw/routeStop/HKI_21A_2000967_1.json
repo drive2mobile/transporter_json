@@ -1,0 +1,59 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:25:34.836+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20000093,
+        "name_tc": "蘭芳道, 近利園宏利保險大廈",
+        "name_sc": "兰芳道, 近利园宏利保险大厦",
+        "name_en": "Near The Lee Gardens Manulife Plaza, Lan Fong Road"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20000311,
+        "name_tc": "邊寧頓街利園二期外",
+        "name_sc": "边宁顿街利园二期外",
+        "name_en": "Pennington Street outside Lee Gardens Two"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20000121,
+        "name_tc": "大坑道9號",
+        "name_sc": "大坑道9号",
+        "name_en": "9 Tai Hang Road"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20000124,
+        "name_tc": "勵德邨",
+        "name_sc": "励德村",
+        "name_en": "Lai Tak Tsuen"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20000123,
+        "name_tc": "勵德邨道, 怡景道及大坑道之間勵德邨道, 怡景道及大坑道之間",
+        "name_sc": "Lì dé cūn dào, yí jǐng dào jí dà kēngdào zhī jiān lì dé cūn dào, yí jǐng dào jí dà kēngdào zhī jiān 30 / 5,000 励德村道, 怡景道及大坑道之间励德村道, 怡景道及大坑道之间",
+        "name_en": "Lai Tak Tsuen Road Between Yee King Road And Tai Hang Road"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20000122,
+        "name_tc": "大坑道, 帝后臺外",
+        "name_sc": "大坑道, 帝后台外",
+        "name_en": "Outside Grand Deco Tower, 9 Tai Hung Road"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20000093,
+        "name_tc": "蘭芳道, 近利園宏利保險大廈",
+        "name_sc": "兰芳道, 近利园宏利保险大厦",
+        "name_en": "Near The Lee Gardens Manulife Plaza, Lan Fong Road"
+      }
+    ],
+    "data_timestamp": "2024-07-31T10:09:08.212+08:00"
+  }
+}

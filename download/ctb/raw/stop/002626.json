@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:10:23+08:00",
+  "data": {
+    "stop": "002626",
+    "name_tc": "中港城, 九龍公園徑",
+    "name_en": "China Hong Kong City, Kowloon Park Drive",
+    "lat": "22.299863552091",
+    "long": "114.16890645053",
+    "name_sc": "中港城, 九龙公园径",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:15:17+08:00",
+  "data": {
+    "stop": "002949",
+    "name_tc": "石澳道 1 號, 石澳道",
+    "name_en": "1 Shek O Road, Shek O Road",
+    "lat": "22.232897422091",
+    "long": "114.24740221053",
+    "name_sc": "石澳道 1 号, 石澳道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

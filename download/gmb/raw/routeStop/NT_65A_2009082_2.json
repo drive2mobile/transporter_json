@@ -1,0 +1,73 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:29:53.472+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20017328,
+        "name_tc": "源禾路, 近沙田大會堂",
+        "name_sc": "源禾路, 近沙田大会堂",
+        "name_en": "Yuen Wo Road, Near Sha Tin Town Hall"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20001556,
+        "name_tc": "大涌橋路, 近河畔花園",
+        "name_sc": "大涌桥路, 近河畔花园",
+        "name_en": "Tai Chung Kiu Road, Near Garden Rivera"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20001557,
+        "name_tc": "大涌橋路, 富豪花園對面",
+        "name_sc": "大涌桥路, 富豪花园对面",
+        "name_en": "Tai Chung Kiu Road, Opposite Belair Gardens"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20006610,
+        "name_tc": "小瀝源路, 小瀝源路遊樂場外",
+        "name_sc": "小沥源路, 小沥源路游乐场外",
+        "name_en": "Siu Lek Yuen Road, outside Siu Lek Yuen Road Playground"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20017329,
+        "name_tc": "小瀝源路, 近小瀝源路遊樂場",
+        "name_sc": "小沥源路, 近小沥源路游乐场",
+        "name_en": "Siu Lek Yuen Road, Near Siu Lek Yuen Road Playground"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20017330,
+        "name_tc": "插桅杆街, 近沙田工業中心Ａ－Ｂ座",
+        "name_sc": "插桅杆街, 近沙田工业中心Ａ－Ｂ座",
+        "name_en": "Chap Wai Kon Street, Near Shatin Industrial Centre Block A-B"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20001550,
+        "name_tc": "牛皮沙街, 愉翠苑對面",
+        "name_sc": "牛皮沙街, 愉翠苑对面",
+        "name_en": "Ngau Pei Sha Street, opposite Yu Chui Court"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20001551,
+        "name_tc": "小瀝源路, 帝堡城外",
+        "name_sc": "小沥源路, 帝堡城外",
+        "name_en": "Siu Lei Yuen Road, Outside Castello"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20001544,
+        "name_tc": "黃泥頭巴士總站",
+        "name_sc": "黄泥头巴士总站",
+        "name_en": "Wong Nai Tau Bus Terminus"
+      }
+    ],
+    "data_timestamp": "2024-08-07T10:19:36.299+08:00"
+  }
+}

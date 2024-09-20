@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:10:12+08:00",
+  "data": {
+    "stop": "001926",
+    "name_tc": "新翠邨, 紅梅谷路",
+    "name_en": "Sun Chui Estate, Hung Mui Kuk Road",
+    "lat": "22.370602292091",
+    "long": "114.17966726053",
+    "name_sc": "新翠邨, 红梅谷路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

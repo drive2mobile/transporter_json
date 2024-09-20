@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:09:17+08:00",
+  "data": {
+    "stop": "001702",
+    "name_tc": "慈正邨正康樓, 慈雲山道",
+    "name_en": "Ching Hong House Tsz Ching Estate, Tsz Wan Shan Road",
+    "lat": "22.348658942091",
+    "long": "114.20301440053",
+    "name_sc": "慈正邨正康楼, 慈云山道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

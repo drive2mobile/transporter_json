@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:09:37+08:00",
+  "data": {
+    "stop": "001084",
+    "name_tc": "擺花街",
+    "name_en": "Lyndhurst Terrace",
+    "lat": "22.282471302091",
+    "long": "114.15429220053",
+    "name_sc": "摆花街",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

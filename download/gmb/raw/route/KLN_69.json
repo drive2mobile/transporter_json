@@ -1,0 +1,302 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:27:18.461+08:00",
+  "data": [
+    {
+      "route_id": 2006936,
+      "region": "KLN",
+      "route_code": "69",
+      "description_tc": "正常班次",
+      "description_sc": "正常班次",
+      "description_en": "Normal Route",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "麗港城",
+          "orig_sc": "丽港城",
+          "orig_en": "Laguna City",
+          "dest_tc": "九龍城(獅子石道)",
+          "dest_sc": "九龙城(狮子石道)",
+          "dest_en": "Kowloon City (Lion Rock Road)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "10:00:00",
+              "end_time": "22:30:00",
+              "frequency": 30,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 2,
+              "start_time": "10:00:00",
+              "end_time": "22:30:00",
+              "frequency": 30,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-09-02T12:44:07.239+08:00"
+        },
+        {
+          "route_seq": 2,
+          "orig_tc": "九龍城(獅子石道)",
+          "orig_sc": "九龙城(狮子石道)",
+          "orig_en": "Kowloon City (Lion Rock Road)",
+          "dest_tc": "麗港城",
+          "dest_sc": "丽港城",
+          "dest_en": "Laguna City",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "07:30:00",
+              "end_time": "09:30:00",
+              "frequency": 20,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 2,
+              "start_time": "09:30:00",
+              "end_time": "22:30:00",
+              "frequency": 30,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 3,
+              "start_time": "07:30:00",
+              "end_time": "09:30:00",
+              "frequency": 30,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 4,
+              "start_time": "09:30:00",
+              "end_time": "22:30:00",
+              "frequency": 30,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-09-02T12:44:07.239+08:00"
+        }
+      ],
+      "data_timestamp": "2024-09-02T12:44:07.239+08:00"
+    },
+    {
+      "route_id": 2007035,
+      "region": "KLN",
+      "route_code": "69",
+      "description_tc": "正常班次(早上時10前班次)",
+      "description_sc": "正常班次 (早上10时前班次)",
+      "description_en": "Normal Route (Departure before 10:00 am)",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "麗港城",
+          "orig_sc": "丽港城",
+          "orig_en": "Laguna City",
+          "dest_tc": "九龍城(獅子石道)",
+          "dest_sc": "九龙城(狮子石道)",
+          "dest_en": "Kowloon City (Lion Rock Road)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "07:00:00",
+              "end_time": "09:00:00",
+              "frequency": 20,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 2,
+              "start_time": "09:00:00",
+              "end_time": "10:00:00",
+              "frequency": 30,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 3,
+              "start_time": "07:00:00",
+              "end_time": "10:00:00",
+              "frequency": 30,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-09-02T12:44:07.239+08:00"
+        }
+      ],
+      "data_timestamp": "2024-09-02T12:44:07.239+08:00"
+    },
+    {
+      "route_id": 2007169,
+      "region": "KLN",
+      "route_code": "69",
+      "description_tc": "特别班次",
+      "description_sc": "特别班次",
+      "description_en": "Special Service Route",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "麗港城",
+          "orig_sc": "丽港城",
+          "orig_en": "Laguna City",
+          "dest_tc": "九龍灣 (零碳天地)",
+          "dest_sc": "九龙湾 (零碳天地)",
+          "dest_en": "Kowloon Bay (Zero Carbon Building)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "09:00:00",
+              "end_time": "21:00:00",
+              "frequency": 15,
+              "frequency_upper": 15
+            }
+          ],
+          "data_timestamp": "2024-09-02T12:44:07.239+08:00"
+        },
+        {
+          "route_seq": 2,
+          "orig_tc": "九龍灣 (零碳天地)",
+          "orig_sc": "九龙湾 (零碳天地)",
+          "orig_en": "Kowloon Bay (Zero Carbon Building)",
+          "dest_tc": "麗港城",
+          "dest_sc": "丽港城",
+          "dest_en": "Laguna City",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "09:15:00",
+              "end_time": "21:15:00",
+              "frequency": 15,
+              "frequency_upper": 15
+            }
+          ],
+          "data_timestamp": "2024-09-02T12:44:07.239+08:00"
+        }
+      ],
+      "data_timestamp": "2024-09-02T12:44:07.239+08:00"
+    }
+  ]
+}

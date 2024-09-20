@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:09:22+08:00",
+  "data": {
+    "stop": "001511",
+    "name_tc": "麗閣邨麗蘿樓, 荔枝角道",
+    "name_en": "Lai Lo House Lai Kok Estate, Lai Chi Kok Road",
+    "lat": "22.331533522091",
+    "long": "114.15686616053",
+    "name_sc": "丽阁邨丽萝楼, 荔枝角道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

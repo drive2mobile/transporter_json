@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:16:27+08:00",
+  "data": {
+    "stop": "003624",
+    "name_tc": "朗廈, 新潭路",
+    "name_en": "Long Ha, San Tam Road",
+    "lat": "22.469465062091",
+    "long": "114.05547991053",
+    "name_sc": "朗厦, 新潭路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

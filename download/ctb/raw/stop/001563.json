@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:17:48+08:00",
+  "data": {
+    "stop": "001563",
+    "name_tc": "碧街, 彌敦道",
+    "name_en": "Pitt Street, Nathan Road",
+    "lat": "22.313323072091",
+    "long": "114.17065206053",
+    "name_sc": "碧街, 弥敦道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

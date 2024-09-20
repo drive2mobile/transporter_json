@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:07:42+08:00",
+  "data": {
+    "stop": "001078",
+    "name_tc": "堅麗閣, 堅尼地道",
+    "name_en": "Kennedy Heights, Kennedy Road",
+    "lat": "22.276481502091",
+    "long": "114.15748729053",
+    "name_sc": "坚丽阁, 坚尼地道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

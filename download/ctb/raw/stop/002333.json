@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:10:00+08:00",
+  "data": {
+    "stop": "002333",
+    "name_tc": "華富邨華樂樓, 華富道",
+    "name_en": "Wah Lok House Wah Fu Estate, Wah Fu Road",
+    "lat": "22.251701562091",
+    "long": "114.13854444053",
+    "name_sc": "华富邨华乐楼, 华富道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

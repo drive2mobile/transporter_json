@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:17:04+08:00",
+  "data": {
+    "stop": "001653",
+    "name_tc": "牛池灣街市, 清水灣道",
+    "name_en": "Ngau Chi Wan Market, Clear Water Bay Road",
+    "lat": "22.334264972091",
+    "long": "114.20935387053",
+    "name_sc": "牛池湾街市, 清水湾道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

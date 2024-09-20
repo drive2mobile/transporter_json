@@ -1,0 +1,50 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:44:01.666+08:00",
+  "data": [
+    {
+      "route_id": 2002286,
+      "region": "HKI",
+      "route_code": "13",
+      "description_tc": "正常班次",
+      "description_sc": "正常班次",
+      "description_en": "Normal Route",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "西環邨",
+          "orig_sc": "西环邨",
+          "orig_en": "Sai Wan Estate",
+          "dest_tc": "西營盤(循環線)",
+          "dest_sc": "西营盘(循环线)",
+          "dest_en": "Sai Ying Pun (Circular)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "06:30:00",
+              "end_time": "22:30:00",
+              "frequency": 20,
+              "frequency_upper": 30
+            }
+          ],
+          "data_timestamp": "2024-09-17T10:42:05.055+08:00"
+        }
+      ],
+      "data_timestamp": "2024-09-17T10:42:05.055+08:00"
+    }
+  ]
+}

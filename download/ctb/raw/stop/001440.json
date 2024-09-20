@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:07:21+08:00",
+  "data": {
+    "stop": "001440",
+    "name_tc": "長沙灣站, 長沙灣道",
+    "name_en": "Cheung Sha Wan Station, Cheung Sha Wan Road",
+    "lat": "22.336700112091",
+    "long": "114.15486415053",
+    "name_sc": "长沙湾站, 长沙湾道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

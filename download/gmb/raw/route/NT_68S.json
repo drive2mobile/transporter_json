@@ -1,0 +1,252 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:29:59.149+08:00",
+  "data": [
+    {
+      "route_id": 2007764,
+      "region": "NT",
+      "route_code": "68S",
+      "description_tc": "額外班次",
+      "description_sc": "額外班次",
+      "description_en": "Supplementary Service",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "瑞峰花園",
+          "orig_sc": "瑞峰花园",
+          "orig_en": "Julimount Garden",
+          "dest_tc": "顯徑站",
+          "dest_sc": "显径站",
+          "dest_en": "Hin Keng Station",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "06:30:00",
+              "end_time": "09:00:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 2,
+              "start_time": "09:00:00",
+              "end_time": "17:00:00",
+              "frequency": 20,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 3,
+              "start_time": "17:00:00",
+              "end_time": "19:00:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 4,
+              "start_time": "19:00:00",
+              "end_time": "11:00:00",
+              "frequency": 20,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 5,
+              "start_time": "06:30:00",
+              "end_time": "22:10:00",
+              "frequency": 20,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 6,
+              "start_time": "22:10:00",
+              "end_time": "23:00:00",
+              "frequency": 25,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-07-21T00:00:39.401+08:00"
+        },
+        {
+          "route_seq": 2,
+          "orig_tc": "顯徑站",
+          "orig_sc": "显径站",
+          "orig_en": "Hin Keng Station",
+          "dest_tc": "瑞峰花園",
+          "dest_sc": "瑞峰花园",
+          "dest_en": "Julimount Garden",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "06:30:00",
+              "end_time": "09:00:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 2,
+              "start_time": "09:00:00",
+              "end_time": "17:00:00",
+              "frequency": 20,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 3,
+              "start_time": "17:00:00",
+              "end_time": "19:00:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 4,
+              "start_time": "19:00:00",
+              "end_time": "23:00:00",
+              "frequency": 20,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 5,
+              "start_time": "06:30:00",
+              "end_time": "22:10:00",
+              "frequency": 20,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 6,
+              "start_time": "22:10:00",
+              "end_time": "23:00:00",
+              "frequency": 25,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-07-21T00:00:39.401+08:00"
+        }
+      ],
+      "data_timestamp": "2024-07-21T00:00:39.401+08:00"
+    }
+  ]
+}

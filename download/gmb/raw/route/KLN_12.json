@@ -1,0 +1,116 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:44:05.358+08:00",
+  "data": [
+    {
+      "route_id": 2002329,
+      "region": "KLN",
+      "route_code": "12",
+      "description_tc": "正常班次",
+      "description_sc": "正常班次",
+      "description_en": "Normal Route",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "白田",
+          "orig_sc": "白田",
+          "orig_en": "Pak Tin",
+          "dest_tc": "旺角東站",
+          "dest_sc": "旺角东站",
+          "dest_en": "Mong Kok East Station",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "06:00:00",
+              "end_time": "20:00:00",
+              "frequency": 60,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 2,
+              "start_time": "11:00:00",
+              "end_time": "20:00:00",
+              "frequency": 60,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-09-03T16:13:10.287+08:00"
+        },
+        {
+          "route_seq": 2,
+          "orig_tc": "旺角東站",
+          "orig_sc": "旺角东站",
+          "orig_en": "Mong Kok East Station",
+          "dest_tc": "白田",
+          "dest_sc": "白田",
+          "dest_en": "Pak Tin",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "06:30:00",
+              "end_time": "20:30:00",
+              "frequency": 60,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 2,
+              "start_time": "11:30:00",
+              "end_time": "20:30:00",
+              "frequency": 60,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-09-03T16:13:10.287+08:00"
+        }
+      ],
+      "data_timestamp": "2024-09-03T16:13:10.287+08:00"
+    }
+  ]
+}

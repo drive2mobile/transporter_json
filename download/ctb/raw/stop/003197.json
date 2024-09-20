@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:17:10+08:00",
+  "data": {
+    "stop": "003197",
+    "name_tc": "翠寧花園, 海珠路",
+    "name_en": "Tsui Ning Garden, Hoi Chu Road",
+    "lat": "22.383850262091",
+    "long": "113.97413765053",
+    "name_sc": "翠宁花园, 海珠路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

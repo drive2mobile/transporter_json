@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:14:28+08:00",
+  "data": {
+    "stop": "002617",
+    "name_tc": "深井村, 青山公路",
+    "name_en": "Sham Tseng Village, Castle Peak Road",
+    "lat": "22.366901972091",
+    "long": "114.05919759053",
+    "name_sc": "深井村, 青山公路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

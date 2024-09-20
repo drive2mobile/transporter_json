@@ -1,0 +1,84 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:27:47.218+08:00",
+  "data": [
+    {
+      "route_id": 2002910,
+      "region": "NT",
+      "route_code": "107",
+      "description_tc": "正常班次",
+      "description_sc": "正常班次",
+      "description_en": "Normal Route",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "靈實醫院",
+          "orig_sc": "灵实医院",
+          "orig_en": "Haven Of Hope Hospital",
+          "dest_tc": "寶琳公共運輸交匯處",
+          "dest_sc": "宝琳公共运输交汇处",
+          "dest_en": "Po Lam Public Transport Interchange (Circular)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "06:20:00",
+              "end_time": "17:00:00",
+              "frequency": 25,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 2,
+              "start_time": "17:00:00",
+              "end_time": "18:30:00",
+              "frequency": 20,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 3,
+              "start_time": "18:30:00",
+              "end_time": "20:45:00",
+              "frequency": 25,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-08-07T09:42:12.849+08:00"
+        }
+      ],
+      "data_timestamp": "2024-08-07T09:42:12.849+08:00"
+    }
+  ]
+}

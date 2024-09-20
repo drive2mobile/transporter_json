@@ -1,0 +1,278 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:28:24.464+08:00",
+  "data": [
+    {
+      "route_id": 2005253,
+      "region": "NT",
+      "route_code": "26",
+      "description_tc": "正常班次 ",
+      "description_sc": "正常班次 ",
+      "description_en": "Normal Route",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "香港教育大學",
+          "orig_sc": "香港教育大学",
+          "orig_en": "THE EDUCATION UNIVERSITY OF HONG KONG",
+          "dest_tc": "馬鞍山海栢花園",
+          "dest_sc": "马鞍山海栢花园",
+          "dest_en": "Bayshore Towers, Ma On Shan",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "06:40:00",
+              "end_time": "07:01:00",
+              "frequency": 7,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 2,
+              "start_time": "07:01:00",
+              "end_time": "09:01:00",
+              "frequency": 6,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 3,
+              "start_time": "09:01:00",
+              "end_time": "17:00:00",
+              "frequency": 8,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 4,
+              "start_time": "17:00:00",
+              "end_time": "21:00:00",
+              "frequency": 6,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 5,
+              "start_time": "21:00:00",
+              "end_time": "23:36:00",
+              "frequency": 9,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-08-07T13:55:12.867+08:00"
+        },
+        {
+          "route_seq": 2,
+          "orig_tc": "馬鞍山海栢花園",
+          "orig_sc": "马鞍山海栢花园",
+          "orig_en": "Bayshore Towers, Ma On Shan",
+          "dest_tc": "香港教育大學",
+          "dest_sc": "香港教育大学",
+          "dest_en": "THE EDUCATION UNIVERSITY OF HONG KONG",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "06:00:00",
+              "end_time": "06:56:00",
+              "frequency": 7,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 2,
+              "start_time": "06:56:00",
+              "end_time": "09:02:00",
+              "frequency": 6,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 3,
+              "start_time": "09:02:00",
+              "end_time": "17:00:00",
+              "frequency": 8,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 4,
+              "start_time": "17:00:00",
+              "end_time": "21:00:00",
+              "frequency": 6,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 5,
+              "start_time": "21:00:00",
+              "end_time": "23:00:00",
+              "frequency": 9,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-08-07T13:55:12.867+08:00"
+        }
+      ],
+      "data_timestamp": "2024-08-07T13:55:12.867+08:00"
+    },
+    {
+      "route_id": 2005254,
+      "region": "NT",
+      "route_code": "26",
+      "description_tc": "特別班次 ",
+      "description_sc": "特别班次",
+      "description_en": "Special Departures",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "頌安邨",
+          "orig_sc": "颂安邨",
+          "orig_en": "Chung On Estate ",
+          "dest_tc": "香港教育大學",
+          "dest_sc": "香港教育大学",
+          "dest_en": "THE EDUCATION UNIVERSITY OF HONG KONG",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "07:45:00",
+              "end_time": "07:45:00",
+              "frequency": null,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 2,
+              "start_time": "08:15:00",
+              "end_time": "08:15:00",
+              "frequency": null,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-07-31T16:55:10.836+08:00"
+        }
+      ],
+      "data_timestamp": "2024-07-31T16:55:10.836+08:00"
+    }
+  ]
+}

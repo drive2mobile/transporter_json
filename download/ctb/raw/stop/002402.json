@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:06:44+08:00",
+  "data": {
+    "stop": "002402",
+    "name_tc": "箕璉坊, 藍塘道",
+    "name_en": "Green Lane, Blue Pool Road",
+    "lat": "22.265580672091",
+    "long": "114.18873205053",
+    "name_sc": "箕琏坊, 蓝塘道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

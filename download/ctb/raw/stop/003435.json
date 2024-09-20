@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:17:57+08:00",
+  "data": {
+    "stop": "003435",
+    "name_tc": "亦園村, 青山公路",
+    "name_en": "Yick Yuen Tsuen, Castle Peak Road",
+    "lat": "22.426862912091",
+    "long": "113.98953381053",
+    "name_sc": "亦园村, 青山公路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

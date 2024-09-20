@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:12:24+08:00",
+  "data": {
+    "stop": "001734",
+    "name_tc": "天馬苑, 龍翔道",
+    "name_en": "Tin Ma Court, Lung Cheung Road",
+    "lat": "22.342635352091",
+    "long": "114.18641726053",
+    "name_sc": "天马苑, 龙翔道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

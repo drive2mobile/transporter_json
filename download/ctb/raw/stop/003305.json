@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:15:11+08:00",
+  "data": {
+    "stop": "003305",
+    "name_tc": "香港東樹木組, 東喜道",
+    "name_en": "Hong Kong East Tree Team, Tung Hei Road",
+    "lat": "22.281346692091",
+    "long": "114.23008649053",
+    "name_sc": "香港东树木组, 东喜道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

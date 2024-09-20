@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:09:01+08:00",
+  "data": {
+    "stop": "003290",
+    "name_tc": "彩德邨彩賢樓, 彩榮路",
+    "name_en": "Choi Yin House Choi Tak Estate, Choi Wing Road",
+    "lat": "22.329728742091",
+    "long": "114.21511606053",
+    "name_sc": "彩德邨彩贤楼, 彩荣路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

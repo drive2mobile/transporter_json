@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:16:40+08:00",
+  "data": {
+    "stop": "001837",
+    "name_tc": "機場 (地面運輸中心)",
+    "name_en": "Airport (Ground Transportation Centre)",
+    "lat": "22.314155382091",
+    "long": "113.93690708053",
+    "name_sc": "机场 (地面运输中心)",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

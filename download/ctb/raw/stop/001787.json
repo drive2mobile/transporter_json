@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:17:03+08:00",
+  "data": {
+    "stop": "001787",
+    "name_tc": "順利邨利業樓, 利安道",
+    "name_en": "Lee Yip House Shun Lee Estate, Lee On Road",
+    "lat": "22.331876202091",
+    "long": "114.22579345053",
+    "name_sc": "顺利邨利业楼, 利安道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

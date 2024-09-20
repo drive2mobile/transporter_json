@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:13:55+08:00",
+  "data": {
+    "stop": "002917",
+    "name_tc": "調景嶺站",
+    "name_en": "Tiu Keng Leng Station",
+    "lat": "22.304894682091",
+    "long": "114.25161911053",
+    "name_sc": "调景岭站",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

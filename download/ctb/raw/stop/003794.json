@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:10:39+08:00",
+  "data": {
+    "stop": "003794",
+    "name_tc": "海達邨",
+    "name_en": "Hoi Tat Estate",
+    "lat": "22.328930562091",
+    "long": "114.15182105053",
+    "name_sc": "海达邨",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

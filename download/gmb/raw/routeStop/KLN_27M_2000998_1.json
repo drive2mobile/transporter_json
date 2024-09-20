@@ -1,0 +1,122 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:26:51.776+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20000704,
+        "name_tc": "美善同道, 落山道以北",
+        "name_sc": "美善同道, 落山道以北",
+        "name_en": "Maidstaone Road, North Of Lok Shan Road"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20007535,
+        "name_tc": "樂民新邨, 樂基樓對面",
+        "name_sc": "乐民新邨, 乐基楼对面 ",
+        "name_en": "Lok Man Sun Chuen, oppsite to Lok Kei House"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20000706,
+        "name_tc": "高山道, 近聖公會牧愛堂",
+        "name_sc": "高山道, 近圣公会牧爱堂",
+        "name_en": "Ko Shan Road, near Church Of Good Shepherd"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20000707,
+        "name_tc": "高山道, 高山劇場對面",
+        "name_sc": "高山道, 高山剧场对面",
+        "name_en": "Ko Shan Road, opposite Ko Shan Theatre"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20000709,
+        "name_tc": "信用街, 長豐園外",
+        "name_sc": "信用街, 长丰园外",
+        "name_en": "Shun Yung Street, outside The Evergreen"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20000710,
+        "name_tc": "佛光街, 山谷道邨重建居屋項目外",
+        "name_sc": "佛光街, 山谷道邨重建居屋项目外",
+        "name_en": "Fat Kwong Street, outside Valley Road Estate Redevelopment Hos Project"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20007352,
+        "name_tc": " 佛光街, 房署大樓",
+        "name_sc": "佛光街, 房署大楼",
+        "name_en": "Fat Kwong Street, Housing Authority Headquarters"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20000714,
+        "name_tc": "佛光街, 香港都會大學外",
+        "name_sc": "佛光街, 香港都会大学外",
+        "name_en": "Fat Kwong Street, outside Hong Kong Metropolitan University"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20000467,
+        "name_tc": "培正道巴士站, 培正學校外",
+        "name_sc": "培正道巴士站, 培正学校外",
+        "name_en": "Pui Ching Road At Bus Bay Outside Pui Ching School"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20000468,
+        "name_tc": "梭椏道19A號",
+        "name_sc": "梭桠道19A号",
+        "name_en": "No.19a Soares Avenue"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20000716,
+        "name_tc": "洗衣街, Skypark外",
+        "name_sc": "洗衣街, Skypark外",
+        "name_en": "Sai Yee Street, outside Skypark"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20000717,
+        "name_tc": "洗衣街, 建煌華廈外",
+        "name_sc": "洗衣街, 建煌华厦外",
+        "name_en": "Sai Yee Street, outside Kin Wong Mansion"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20000718,
+        "name_tc": "洗衣街, 鴻德大廈外",
+        "name_sc": "洗衣街, 鸿德大厦外",
+        "name_en": "Sai Yee Street, outside Hung Tak Building"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20000719,
+        "name_tc": "洗衣街, 蕙逸居外",
+        "name_sc": "洗衣街, 蕙逸居外",
+        "name_en": "Sai Yee Street, outside Sunningdale"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20000628,
+        "name_tc": "太子道西, 別樹一居外",
+        "name_sc": "太子道西, 别树一居外",
+        "name_en": "Prince Edward Road West, outside Bijou Court"
+      },
+      {
+        "stop_seq": 16,
+        "stop_id": 20000720,
+        "name_tc": "快富街, 友誠大廈外",
+        "name_sc": "快富街, 友诚大厦外",
+        "name_en": "Fife Street, outside Yau Shing Building"
+      }
+    ],
+    "data_timestamp": "2024-09-05T09:58:25.961+08:00"
+  }
+}

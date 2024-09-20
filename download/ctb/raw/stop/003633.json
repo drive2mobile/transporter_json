@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:14:17+08:00",
+  "data": {
+    "stop": "003633",
+    "name_tc": "大圍站",
+    "name_en": "Tai Wai Station",
+    "lat": "22.373308812091",
+    "long": "114.18015964053",
+    "name_sc": "大围站",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

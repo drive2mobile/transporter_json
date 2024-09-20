@@ -1,0 +1,186 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:27:11.903+08:00",
+  "data": [
+    {
+      "route_id": 2008001,
+      "region": "KLN",
+      "route_code": "53M",
+      "description_tc": "正常班次",
+      "description_sc": "正常班次",
+      "description_en": "Normal Departure",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "樂富站",
+          "orig_sc": "乐富站",
+          "orig_en": "Lok Fu Station",
+          "dest_tc": "天馬苑(金竹里)(循環線)",
+          "dest_sc": "天马苑(金竹里)(循环线)",
+          "dest_en": "Tin Ma Court (Kam Chuk Lane)  (Circular)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "06:30:00",
+              "end_time": "07:00:00",
+              "frequency": 7,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 2,
+              "start_time": "07:00:00",
+              "end_time": "10:00:00",
+              "frequency": 5,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 3,
+              "start_time": "10:00:00",
+              "end_time": "16:00:00",
+              "frequency": 8,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 4,
+              "start_time": "16:00:00",
+              "end_time": "20:00:00",
+              "frequency": 5,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 5,
+              "start_time": "20:00:00",
+              "end_time": "21:00:00",
+              "frequency": 8,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 6,
+              "start_time": "21:00:00",
+              "end_time": "00:10:00",
+              "frequency": 12,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 7,
+              "start_time": "07:00:00",
+              "end_time": "09:00:00",
+              "frequency": 12,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 8,
+              "start_time": "09:00:00",
+              "end_time": "21:00:00",
+              "frequency": 8,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 9,
+              "start_time": "21:00:00",
+              "end_time": "00:10:00",
+              "frequency": 12,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2022-06-28T00:01:58.027+08:00"
+        }
+      ],
+      "data_timestamp": "2022-06-28T00:01:58.027+08:00"
+    }
+  ]
+}

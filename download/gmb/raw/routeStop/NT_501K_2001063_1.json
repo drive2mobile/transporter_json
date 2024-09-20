@@ -1,0 +1,115 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:29:12.812+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20002183,
+        "name_tc": "偉明街, 花都廣場對面",
+        "name_sc": "伟明街, 花都广场对面",
+        "name_en": "Wai Ming Road, opposite Flora Plaza"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20002184,
+        "name_tc": "百和路, 欣盛苑外",
+        "name_sc": "百和路, 欣盛苑外",
+        "name_en": "Pak Wo Road, outside Yan Shing Court"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20002185,
+        "name_tc": "一鳴路, 百福田心遊樂場外",
+        "name_sc": "一鸣路, 百福田心游乐场外",
+        "name_en": "Yat Ming Road, outside Pak Fuk Tin Sum Playground"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20002187,
+        "name_tc": "一鳴路, 牽晴間外",
+        "name_sc": "一鸣路, 牵晴间外",
+        "name_en": "Yat Ming Road, Dawning Views "
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20004532,
+        "name_tc": "和合石新村",
+        "name_sc": "和合石新村",
+        "name_en": "Wo Hop Shek San Tsuen"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20004530,
+        "name_tc": "馬會道西行近油站的巴士站",
+        "name_sc": "马会道西行近油站的巴士站",
+        "name_en": "Bus stop at Jockey Club Road westbound near Petrol Station"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20001457,
+        "name_tc": "粉嶺站專綫小巴總站",
+        "name_sc": "粉岭站专綫小巴总站",
+        "name_en": "Public Light Bus (Scheduled) Service Terminus at Fanling Station"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20001460,
+        "name_tc": "聯興街",
+        "name_sc": "联兴街",
+        "name_en": "Luen Hing Street"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20004529,
+        "name_tc": "聯發街,燈柱EA8498外",
+        "name_sc": "联发街,灯柱EA8498外",
+        "name_en": "Luen Fat Street (Lamp Post EA8498)"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20001455,
+        "name_tc": "和滿街小巴總站 (和滿街公共小型巴士(專線)停車處)",
+        "name_sc": "和满街小巴总站 (和满街公共小型巴士(专线)停车处)",
+        "name_en": "Wo Mun Street Public Light Bus Terminus (Wo Mun Street Public Light Bus (Scheduled) Service Terminus)"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20003322,
+        "name_tc": "樂業路",
+        "name_sc": "乐业路",
+        "name_en": "Lok Yip Road"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20007951,
+        "name_tc": "和興路, 和興村對面",
+        "name_sc": "和兴路, 和兴村对面",
+        "name_en": "Wo Hing Road, opposite Wo Hing Tsuen"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20002181,
+        "name_tc": "一鳴路, 碧湖花園對面",
+        "name_sc": "一鸣路, 碧湖花园对面",
+        "name_en": "Yat Min Road, opposite Avon Park"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20002182,
+        "name_tc": "華明路, 欣盛苑欣暉閣外",
+        "name_sc": "华明路, 欣盛苑欣晖阁外",
+        "name_en": "Wah Ming Road, outside Yan Fai House, Yan Shing Court"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20002183,
+        "name_tc": "偉明街, 花都廣場對面",
+        "name_sc": "伟明街, 花都广场对面",
+        "name_en": "Wai Ming Road, opposite Flora Plaza"
+      }
+    ],
+    "data_timestamp": "2024-08-07T10:11:49.364+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:12:35+08:00",
+  "data": {
+    "stop": "003829",
+    "name_tc": "輋下, 西沙路",
+    "name_en": "Che Ha, Sai Sha Road",
+    "lat": "22.428951372091",
+    "long": "114.26078435053",
+    "name_sc": "輋下, 西沙路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

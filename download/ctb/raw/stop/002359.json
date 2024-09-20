@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:09:55+08:00",
+  "data": {
+    "stop": "002359",
+    "name_tc": "黃麻角道公立醫局, 黃麻角道",
+    "name_en": "Wong Ma Kok Road Public Dispensary, Wong Ma Kok Road",
+    "lat": "22.218017182091",
+    "long": "114.21352325053",
+    "name_sc": "黄麻角道公立医局, 黄麻角道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

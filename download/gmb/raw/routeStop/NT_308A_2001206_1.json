@@ -1,0 +1,31 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:28:32.528+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20002606,
+        "name_tc": "碧堤半島",
+        "name_sc": "碧堤半岛",
+        "name_en": "Bellagio"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20008024,
+        "name_tc": "青敬路牙鷹洲花園外的停車灣",
+        "name_sc": "青敬路牙鹰洲花园外的停车湾",
+        "name_en": "Tsing King Road at the lay-by outside Nga Ying Chau Garden"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20008023,
+        "name_tc": "青衣站",
+        "name_sc": "青衣站",
+        "name_en": "Tsing Yi Station"
+      }
+    ],
+    "data_timestamp": "2024-03-28T15:14:17.586+08:00"
+  }
+}

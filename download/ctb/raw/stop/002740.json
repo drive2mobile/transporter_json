@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:09:58+08:00",
+  "data": {
+    "stop": "002740",
+    "name_tc": "僑福閣, 僑福道",
+    "name_en": "Guildford Court, Guildford Road",
+    "lat": "22.267290232091",
+    "long": "114.16262618053",
+    "name_sc": "侨福阁, 侨福道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

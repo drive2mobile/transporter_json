@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:08:48+08:00",
+  "data": {
+    "stop": "002465",
+    "name_tc": "香港中央圖書館, 摩頓台",
+    "name_en": "Hong Kong Central Library, Moreton Terrace",
+    "lat": "22.279536862091",
+    "long": "114.18897018053",
+    "name_sc": "香港中央图书馆, 摩顿台",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

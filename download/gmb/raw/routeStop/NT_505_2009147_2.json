@@ -1,0 +1,136 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:29:17.370+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20017587,
+        "name_tc": "牛皮沙街小巴總站",
+        "name_sc": "牛皮沙街小巴总站",
+        "name_en": "Ngau Pei Sha Street Minibus Terminus"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20016370,
+        "name_tc": "銀城街, 聖羅撒書院外",
+        "name_sc": "银城街, 圣罗撒书院外",
+        "name_en": "Ngan Shing Street outside St. Rose of Lima's College"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20017395,
+        "name_tc": "插桅杆街, 近威爾斯親王醫院急症室",
+        "name_sc": "插桅杆街, 近威尔斯亲王医院急症室",
+        "name_en": "Chap Wai Kon Street, Near Prince of Wales Hospital A&E"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20002274,
+        "name_tc": "插桅杆街, 第一城站外",
+        "name_sc": "插桅杆街, 第一城站外",
+        "name_en": "Chap Wai Kon Street, outside City One Station"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20017422,
+        "name_tc": "插桅杆街, 近沙田工業中心",
+        "name_sc": "插桅杆街, 近沙田工业中心",
+        "name_en": "Chap Wai Kon Street, Near Shatin Industrial Building "
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20017331,
+        "name_tc": "安明街, 近碩門邨健碩樓",
+        "name_sc": "安明街, 近硕门邨健硕楼",
+        "name_en": "On Ming Street, Near Kin Shek House, Shek Mun Estate"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20017423,
+        "name_tc": "馬會道, 近塘坑",
+        "name_sc": "马会道, 近塘坑",
+        "name_en": "Jockey Club Road, Near Tong Hang"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20017424,
+        "name_tc": "新運路,近粉嶺中心",
+        "name_sc": "新运路,近粉岭中心",
+        "name_en": "San Wan Road, Near Fanling Centre"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20017425,
+        "name_tc": "沙頭角道, 近粉嶺消防局",
+        "name_sc": "沙头角道, 近粉岭消防局",
+        "name_en": "Sha Tau Kok Road, Near Fanling Fire Station"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20014618,
+        "name_tc": "沙頭角公路, 近聯和墟遊樂場",
+        "name_sc": "沙头角公路, 近联和墟游乐场",
+        "name_en": "Sha Tau Kok Road, Near Luen Wo Hui Playground"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20017426,
+        "name_tc": "沙頭角公路, 近逸峯",
+        "name_sc": "沙头角公路, 近逸峰",
+        "name_en": "Sha Tau Kok Road, Near Green Code"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20017455,
+        "name_tc": "粉嶺和睦路西行海聯廣聯廣場巴士站",
+        "name_sc": "粉岭和睦路西行海联广联广场巴士站",
+        "name_en": "Bus stop on Wo Muk Road westbound at Union Plaza in Fanling"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20014455,
+        "name_tc": "和睦路,近海聯廣場",
+        "name_sc": "和睦路,近海联广场",
+        "name_en": "WO MUK ROAD, near Union Plaza"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20017427,
+        "name_tc": "粉嶺樓路",
+        "name_sc": "粉岭楼路",
+        "name_en": "Fan Leng Lau Road"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20017428,
+        "name_tc": "馬適路, 近皇府山",
+        "name_sc": "马适路, 近皇府山",
+        "name_en": "Ma Sik Road Near Noble Hill"
+      },
+      {
+        "stop_seq": 16,
+        "stop_id": 20001480,
+        "name_tc": "馬會道, 順欣花園外",
+        "name_sc": "马会道, 顺欣花园外",
+        "name_en": "Jockey Club Road, outside Sunningdale Garden"
+      },
+      {
+        "stop_seq": 17,
+        "stop_id": 20017429,
+        "name_tc": "符興街",
+        "name_sc": "符兴街",
+        "name_en": "Fun Hing Street"
+      },
+      {
+        "stop_seq": 18,
+        "stop_id": 20017389,
+        "name_tc": "新發街小巴總站",
+        "name_sc": "新发街小巴总站",
+        "name_en": "San Fat Street MiniBus Terminus "
+      }
+    ],
+    "data_timestamp": "2024-08-07T10:23:06.937+08:00"
+  }
+}

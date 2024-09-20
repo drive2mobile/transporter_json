@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:11:45+08:00",
+  "data": {
+    "stop": "001124",
+    "name_tc": "中環中心, 皇后大道中",
+    "name_en": "The Center, Queen's Road Central",
+    "lat": "22.284328902091",
+    "long": "114.15390976053",
+    "name_sc": "中环中心, 皇后大道中",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

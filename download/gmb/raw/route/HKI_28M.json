@@ -1,0 +1,101 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:25:42.952+08:00",
+  "data": [
+    {
+      "route_id": 2006509,
+      "region": "HKI",
+      "route_code": "28M",
+      "description_tc": "短程班次",
+      "description_sc": "短程班次 ",
+      "description_en": "Short Working Service ",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "碧瑤灣(上)",
+          "orig_sc": "碧瑶湾(上)",
+          "orig_en": "Baguio Villa (upper)",
+          "dest_tc": "香港大學站(循環線)",
+          "dest_sc": "香港大学站(循环线)",
+          "dest_en": "HKU Station (Circular)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "07:12:00",
+              "end_time": "08:45:00",
+              "frequency": 12,
+              "frequency_upper": 15
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 2,
+              "start_time": "08:45:00",
+              "end_time": "15:45:00",
+              "frequency": 30,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 3,
+              "start_time": "15:45:00",
+              "end_time": "20:30:00",
+              "frequency": 12,
+              "frequency_upper": 15
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 4,
+              "start_time": "09:30:00",
+              "end_time": "16:00:00",
+              "frequency": 30,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-09-17T10:26:00.979+08:00"
+        }
+      ],
+      "data_timestamp": "2024-09-17T10:26:00.979+08:00"
+    }
+  ]
+}

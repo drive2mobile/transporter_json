@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:08:45+08:00",
+  "data": {
+    "stop": "002527",
+    "name_tc": "白建時道, 大坑道",
+    "name_en": "Perkins Road, Tai Hang Road",
+    "lat": "22.271106362091",
+    "long": "114.19148188053",
+    "name_sc": "白建时道, 大坑道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

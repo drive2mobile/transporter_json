@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:17:55+08:00",
+  "data": {
+    "stop": "003148",
+    "name_tc": "半島酒店, 彌敦道",
+    "name_en": "Peninsula Hotel, Nathan Road",
+    "lat": "22.295490462091",
+    "long": "114.17220764053",
+    "name_sc": "半岛酒店, 弥敦道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

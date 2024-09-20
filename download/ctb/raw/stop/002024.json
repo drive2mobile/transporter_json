@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:11:28+08:00",
+  "data": {
+    "stop": "002024",
+    "name_tc": "運頭角里, 廣福道",
+    "name_en": "Wan Tau Kok Lane, Kwong Fuk Road",
+    "lat": "22.447237712091",
+    "long": "114.17006507053",
+    "name_sc": "运头角里, 广福道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

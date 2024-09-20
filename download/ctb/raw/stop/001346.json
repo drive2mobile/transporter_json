@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:10:59+08:00",
+  "data": {
+    "stop": "001346",
+    "name_tc": "怡景道",
+    "name_en": "Yee King Road",
+    "lat": "22.281825632091",
+    "long": "114.19399404053",
+    "name_sc": "怡景道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

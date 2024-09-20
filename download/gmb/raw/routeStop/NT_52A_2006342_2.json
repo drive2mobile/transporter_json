@@ -1,0 +1,38 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:29:21.482+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20001455,
+        "name_tc": "和滿街小巴總站",
+        "name_sc": "和满街小巴总站",
+        "name_en": "Wo Mun Street Public Light Bus Terminus"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20014455,
+        "name_tc": "和睦路, 近海聯廣場",
+        "name_sc": "和睦路, 近海联广场",
+        "name_en": "WO MUK ROAD, near Union Plaza"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20014456,
+        "name_tc": "新運路, 近祥華邨祥頌樓",
+        "name_sc": "新运路, 近祥华邨祥颂楼",
+        "name_en": "SAN WAN ROAD, near Cheung Chung House, CHEUNG WAH ESTATE"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20001453,
+        "name_tc": "粉嶺車站路, 粉嶺站外",
+        "name_sc": "粉岭车站路, 粉岭站外",
+        "name_en": "Fanling Station Road, outside Fanling Station"
+      }
+    ],
+    "data_timestamp": "2024-08-07T10:23:06.937+08:00"
+  }
+}

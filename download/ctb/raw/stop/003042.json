@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:13:01+08:00",
+  "data": {
+    "stop": "003042",
+    "name_tc": "秀雅道遊樂場, 曉光街",
+    "name_en": "Sau Nga Road Playground, Hiu Kwong Street",
+    "lat": "22.320338022091",
+    "long": "114.22812130053",
+    "name_sc": "秀雅道游乐场, 晓光街",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

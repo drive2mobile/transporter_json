@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:08:47+08:00",
+  "data": {
+    "stop": "002533",
+    "name_tc": "利群道, 大坑道",
+    "name_en": "Li Kwan Avenue, Tai Hang Road",
+    "lat": "22.276757522091",
+    "long": "114.19422681053",
+    "name_sc": "利群道, 大坑道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

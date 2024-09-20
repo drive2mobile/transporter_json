@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:10:33+08:00",
+  "data": {
+    "stop": "002959",
+    "name_tc": "千葉居, 藍塘道",
+    "name_en": "Billion Terrace, Blue Pool Road",
+    "lat": "22.263235322091",
+    "long": "114.18948828053",
+    "name_sc": "千叶居, 蓝塘道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

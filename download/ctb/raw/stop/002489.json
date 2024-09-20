@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:07:03+08:00",
+  "data": {
+    "stop": "002489",
+    "name_tc": "太古廣場三座, 皇后大道東",
+    "name_en": "Three Pacific Place, Queen's Road East",
+    "lat": "22.277274142091",
+    "long": "114.16820458053",
+    "name_sc": "太古广场三座, 皇后大道东",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:15:10+08:00",
+  "data": {
+    "stop": "001295",
+    "name_tc": "寶馬臺, 百福道",
+    "name_en": "Braemar Terrace, Pak Fuk Road",
+    "lat": "22.289538932091",
+    "long": "114.20767182053",
+    "name_sc": "宝马台, 百福道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

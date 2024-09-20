@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:06:51+08:00",
+  "data": {
+    "stop": "001166",
+    "name_tc": "港島西廢物轉運站, 域多利道",
+    "name_en": "Island West Transfer Station, Victoria Road",
+    "lat": "22.280253272091",
+    "long": "114.11868249053",
+    "name_sc": "港岛西废物转运站, 域多利道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

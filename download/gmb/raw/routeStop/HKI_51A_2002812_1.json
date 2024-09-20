@@ -1,0 +1,80 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:26:03.703+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20000272,
+        "name_tc": "華貴邨巴士總站",
+        "name_sc": "华贵邨巴士总站",
+        "name_en": "Wah Kwai Estate Bus Terminus"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20000273,
+        "name_tc": "石排灣道 53 號",
+        "name_sc": "石排湾道 53 号",
+        "name_en": "No. 53 Shek Pai Wan Road"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20003273,
+        "name_tc": "田灣街, 近嘉和街",
+        "name_sc": "田湾街, 近嘉和街",
+        "name_en": "Tin Wan Street, near Ka Wo Street"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20009931,
+        "name_tc": "田灣邨道, 田康樓外",
+        "name_sc": "田湾村道, 田康楼外",
+        "name_en": "Tin Wan Estate Road, outside Tin Hong House"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20000275,
+        "name_tc": "田灣邨道, 田澤樓外",
+        "name_sc": "田湾邨道, 田泽楼外",
+        "name_en": "Tin Wan Estate Road, outside Tin Chak House"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20000274,
+        "name_tc": "田灣邨道, 田康樓對面",
+        "name_sc": "田湾邨道, 田康楼对面",
+        "name_en": "Tin Wan Estate Road Opposite Tin Hong House"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20000276,
+        "name_tc": "田灣邨道, 鴻澤閣外",
+        "name_sc": "田湾邨道, 鸿泽阁外",
+        "name_en": "Tin Wan Estate Road, outside Hung Chak House"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20009865,
+        "name_tc": "田灣街, 田灣商場外",
+        "name_sc": "田湾街, 田湾商场外",
+        "name_en": "Tin Wan Street, outside Tin Wan Shopping Centre"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20006901,
+        "name_tc": "田灣海旁道7號, 興偉中心外",
+        "name_sc": "田湾海旁道7号, 兴伟中心外",
+        "name_en": "Tin Wan Praya Road outside Hing Wai Centre"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20000272,
+        "name_tc": "華貴邨巴士總站",
+        "name_sc": "华贵邨巴士总站",
+        "name_en": "Wah Kwai Estate Bus Terminus"
+      }
+    ],
+    "data_timestamp": "2024-06-23T00:00:22.885+08:00"
+  }
+}

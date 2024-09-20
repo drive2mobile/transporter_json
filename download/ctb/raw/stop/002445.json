@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:08:59+08:00",
+  "data": {
+    "stop": "002445",
+    "name_tc": "菲林明道, 軒尼詩道",
+    "name_en": "Fleming Road, Hennessy Road",
+    "lat": "22.277602072091",
+    "long": "114.17407242053",
+    "name_sc": "菲林明道, 轩尼诗道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:28:12.804+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20002567,
+        "name_tc": "大美督公共運輸交匯處",
+        "name_sc": "大美督公共运输交汇处",
+        "name_en": "Tai Mei Tuk Public Transport Interchange"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20008317,
+        "name_tc": "汀角路, 山寮",
+        "name_sc": "汀角路, 山寮",
+        "name_en": "Ting Kok Road, Shan Liu"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20007654,
+        "name_tc": "汀角路, 近洞梓路",
+        "name_sc": "汀角路, 近洞梓路",
+        "name_en": "Ting Kok Road, near Tung Tsz Road"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20003421,
+        "name_tc": "汀角路, 近三門仔路",
+        "name_sc": "汀角路, 近三门仔路",
+        "name_en": "Ting Kok Road, near Sam Mun Tsai Road"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20001468,
+        "name_tc": "汀角路, 近露輝路",
+        "name_sc": "汀角路, 近露辉路",
+        "name_en": "Ting Kok Road, near Lo Fai Road"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20006555,
+        "name_tc": "汀角路, 近大埔工業邨",
+        "name_sc": "汀角路, 近大埔工业邨",
+        "name_en": "Ting Kok Road, near Tai Po Industrial Estate"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20001203,
+        "name_tc": "安祥路,近大埔文娛中心",
+        "name_sc": "安祥路,近大埔文娱中心",
+        "name_en": "On Cheung Road, near Tai Po Civic Centre"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20001209,
+        "name_tc": "寶鄉橋, 前六鄉新村公立學校對面",
+        "name_sc": "宝乡桥, 前六乡新村公立学校对面",
+        "name_en": "Po Heung Bridge southbound opposite Former Luk Heung San Tsuen Public School"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20006553,
+        "name_tc": "廣福道73號",
+        "name_sc": "广福道73号",
+        "name_en": "No. 73 Kwong Fuk Road"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20006554,
+        "name_tc": "運頭街, 運頭坊",
+        "name_sc": "运头街, 运头坊",
+        "name_en": "Wan Tau Street, Wan Tau Square"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20001193,
+        "name_tc": "大埔墟站專線小巴總站",
+        "name_sc": "大埔墟站专线小巴总站",
+        "name_en": "Tai Po Market Station Minibus Terminus"
+      }
+    ],
+    "data_timestamp": "2024-07-31T16:28:25.193+08:00"
+  }
+}

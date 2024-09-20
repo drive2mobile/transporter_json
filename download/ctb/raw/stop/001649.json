@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:07:19+08:00",
+  "data": {
+    "stop": "001649",
+    "name_tc": "常悅道, 宏照道",
+    "name_en": "Sheung Yuet Road, Wang Chiu Road",
+    "lat": "22.321241952091",
+    "long": "114.20897841053",
+    "name_sc": "常悅道, 宏照道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

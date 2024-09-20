@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:08:13+08:00",
+  "data": {
+    "stop": "001228",
+    "name_tc": "環翠商場, 柴灣道",
+    "name_en": "Wan Tsui Shopping Centre, Chai Wan Road",
+    "lat": "22.263138192091",
+    "long": "114.23878619053",
+    "name_sc": "环翠商场, 柴湾道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

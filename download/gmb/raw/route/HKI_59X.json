@@ -1,0 +1,67 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:26:15.027+08:00",
+  "data": [
+    {
+      "route_id": 2002745,
+      "region": "HKI",
+      "route_code": "59X",
+      "description_tc": "特別班次",
+      "description_sc": "特別班次",
+      "description_en": "Special Departures",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "堅尼地城站",
+          "orig_sc": "坚尼地城站",
+          "orig_en": "Kennedy Town Station",
+          "dest_tc": "葛量洪醫院",
+          "dest_sc": "葛量洪医院",
+          "dest_en": "Grantham Hospital",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "08:20:00",
+              "end_time": "08:20:00",
+              "frequency": null,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 2,
+              "start_time": "08:35:00",
+              "end_time": "08:35:00",
+              "frequency": null,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-09-17T10:42:13.921+08:00"
+        }
+      ],
+      "data_timestamp": "2024-09-17T10:42:13.921+08:00"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:11:54+08:00",
+  "data": {
+    "stop": "002688",
+    "name_tc": "翠海別墅, 摩星嶺道",
+    "name_en": "Cape Mansions, Mount Davis Road",
+    "lat": "22.273379362091",
+    "long": "114.12005622053",
+    "name_sc": "翠海別墅, 摩星岭道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

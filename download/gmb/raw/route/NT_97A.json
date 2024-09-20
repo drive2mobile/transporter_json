@@ -1,0 +1,507 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:31:02.177+08:00",
+  "data": [
+    {
+      "route_id": 2005055,
+      "region": "NT",
+      "route_code": "97A",
+      "description_tc": "正常班次",
+      "description_sc": "正常班次",
+      "description_en": "Normal Departure",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "華景山莊",
+          "orig_sc": "华景山庄",
+          "orig_en": "Wonderland Villas",
+          "dest_tc": "長沙灣(長發街)",
+          "dest_sc": "长沙湾(长发街)",
+          "dest_en": "Cheung Sha Wan (Cheung Fat Street)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "06:00:00",
+              "end_time": "07:00:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 2,
+              "start_time": "07:00:00",
+              "end_time": "09:00:00",
+              "frequency": 6,
+              "frequency_upper": 8
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 3,
+              "start_time": "09:00:00",
+              "end_time": "15:00:00",
+              "frequency": 12,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 4,
+              "start_time": "15:00:00",
+              "end_time": "17:00:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 5,
+              "start_time": "17:00:00",
+              "end_time": "19:00:00",
+              "frequency": 6,
+              "frequency_upper": 8
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 6,
+              "start_time": "19:00:00",
+              "end_time": "20:00:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 7,
+              "start_time": "20:00:00",
+              "end_time": "21:00:00",
+              "frequency": 12,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 8,
+              "start_time": "21:00:00",
+              "end_time": "23:45:00",
+              "frequency": 15,
+              "frequency_upper": 20
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 9,
+              "start_time": "06:00:00",
+              "end_time": "08:30:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 10,
+              "start_time": "08:30:00",
+              "end_time": "12:00:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 11,
+              "start_time": "12:00:00",
+              "end_time": "17:00:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 12,
+              "start_time": "17:00:00",
+              "end_time": "20:00:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 13,
+              "start_time": "20:00:00",
+              "end_time": "23:45:00",
+              "frequency": 15,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2023-09-06T17:09:12.360+08:00"
+        },
+        {
+          "route_seq": 2,
+          "orig_tc": "長沙灣(長發街)",
+          "orig_sc": "长沙湾(长发街)",
+          "orig_en": "Cheung Sha Wan (Cheung Fat Street)",
+          "dest_tc": "華景山莊",
+          "dest_sc": "华景山庄",
+          "dest_en": "Wonderland Villas",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "05:45:00",
+              "end_time": "06:00:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 2,
+              "start_time": "06:00:00",
+              "end_time": "07:00:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 3,
+              "start_time": "07:00:00",
+              "end_time": "09:00:00",
+              "frequency": 6,
+              "frequency_upper": 8
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 4,
+              "start_time": "09:00:00",
+              "end_time": "15:00:00",
+              "frequency": 12,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 5,
+              "start_time": "15:00:00",
+              "end_time": "17:00:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 6,
+              "start_time": "17:00:00",
+              "end_time": "19:00:00",
+              "frequency": 6,
+              "frequency_upper": 8
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 7,
+              "start_time": "19:00:00",
+              "end_time": "20:00:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 8,
+              "start_time": "20:00:00",
+              "end_time": "21:00:00",
+              "frequency": 12,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 9,
+              "start_time": "21:00:00",
+              "end_time": "00:00:00",
+              "frequency": 15,
+              "frequency_upper": 20
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 10,
+              "start_time": "05:45:00",
+              "end_time": "08:30:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 11,
+              "start_time": "08:30:00",
+              "end_time": "12:00:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 12,
+              "start_time": "12:00:00",
+              "end_time": "17:00:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 13,
+              "start_time": "17:00:00",
+              "end_time": "20:00:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 14,
+              "start_time": "20:00:00",
+              "end_time": "00:00:00",
+              "frequency": 15,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2023-09-06T17:09:12.360+08:00"
+        }
+      ],
+      "data_timestamp": "2023-09-06T17:09:12.360+08:00"
+    }
+  ]
+}

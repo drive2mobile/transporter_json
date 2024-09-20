@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:07:15+08:00",
+  "data": {
+    "stop": "002444",
+    "name_tc": "軒尼詩道官立小學, 軒尼詩道",
+    "name_en": "Hennessy Road Government Primary School, Hennessy Road",
+    "lat": "22.277744552091",
+    "long": "114.17543474053",
+    "name_sc": "轩尼诗道官立小学, 轩尼诗道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

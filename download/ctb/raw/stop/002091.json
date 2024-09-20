@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:14:35+08:00",
+  "data": {
+    "stop": "002091",
+    "name_tc": "水邊村, 坑口道",
+    "name_en": "Shui Bin Tsuen, Hang Hau Road",
+    "lat": "22.321353292091",
+    "long": "114.26894683053",
+    "name_sc": "水边村, 坑口道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:15:13+08:00",
+  "data": {
+    "stop": "001205",
+    "name_tc": "阿公岩村道",
+    "name_en": "A Kung Ngam Village Road",
+    "lat": "22.282040992091",
+    "long": "114.23202080053",
+    "name_sc": "阿公岩村道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:08:05+08:00",
+  "data": {
+    "stop": "001813",
+    "name_tc": "落山道, 土瓜灣道",
+    "name_en": "Lok Shan Road, To Kwa Wan Road",
+    "lat": "22.317070972091",
+    "long": "114.19047281053",
+    "name_sc": "落山道, 土瓜湾道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:27:32.260+08:00",
+  "data": [
+    {
+      "route_id": 2008817,
+      "region": "KLN",
+      "route_code": "83M",
+      "description_tc": "正常班次",
+      "description_sc": "正常班次",
+      "description_en": "Normal Departure",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "牛頭角(安華街)",
+          "orig_sc": "牛头角(安华街)",
+          "orig_en": "Ngau Tau Kok (On Wah Street)",
+          "dest_tc": "坪石",
+          "dest_sc": "坪石",
+          "dest_en": "Ping Shek",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "06:45:00",
+              "end_time": "23:00:00",
+              "frequency": 12,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-07-31T11:32:18.339+08:00"
+        },
+        {
+          "route_seq": 2,
+          "orig_tc": "坪石",
+          "orig_sc": "坪石",
+          "orig_en": "Ping Shek",
+          "dest_tc": "牛頭角(安華街)",
+          "dest_sc": "牛头角(安华街)",
+          "dest_en": "Ngau Tau Kok (On Wah Street)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "06:45:00",
+              "end_time": "23:00:00",
+              "frequency": 12,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-07-31T11:32:18.339+08:00"
+        }
+      ],
+      "data_timestamp": "2024-07-31T11:32:18.339+08:00"
+    }
+  ]
+}

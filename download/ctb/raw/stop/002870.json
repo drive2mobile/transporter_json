@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:14:10+08:00",
+  "data": {
+    "stop": "002870",
+    "name_tc": "營盤街, 元州街",
+    "name_en": "Camp Street, Un Chau Street",
+    "lat": "22.334071792091",
+    "long": "114.16090783053",
+    "name_sc": "营盘街, 元州街",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

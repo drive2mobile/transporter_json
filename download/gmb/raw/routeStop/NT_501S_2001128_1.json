@@ -1,0 +1,108 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:29:13.219+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20003205,
+        "name_tc": "新豐路,近石湖墟郵政局",
+        "name_sc": "新丰路,近石湖墟邮政局",
+        "name_en": "San Fung Avenue, near Shek Wu Hui Post Office"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20007809,
+        "name_tc": "聯和道, 聯和墟街市外",
+        "name_sc": "联和道, 联和墟街市外",
+        "name_en": "Luen Wo Road, outside Luen Wo Hui Market"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20004533,
+        "name_tc": "華明路,近雍盛苑雍盛商場",
+        "name_sc": "华明路,近雍盛苑雍盛商场",
+        "name_en": "Wan Ming Road, near Yung Shing Commerical Centre, Yung Shin Court"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20002183,
+        "name_tc": "偉明街, 花都廣場對面",
+        "name_sc": "伟明街, 花都广场对面",
+        "name_en": "Wai Ming Road, opposite Flora Plaza"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20002187,
+        "name_tc": "一鳴路, 牽晴間外",
+        "name_sc": "一鸣路, 牵晴间外",
+        "name_en": "Yat Ming Road, Dawning Views "
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20001203,
+        "name_tc": "安祥路,近大埔文娛中心",
+        "name_sc": "安祥路,近大埔文娱中心",
+        "name_en": "On Cheung Road, near Tai Po Civic Centre"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20001513,
+        "name_tc": "源禾路,近沙田運動場",
+        "name_sc": "源禾路,近沙田运动场",
+        "name_en": "Yuen Wo Road, ear Sha Tin Sports Ground"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20003318,
+        "name_tc": "龍翔道,近天馬苑停車場",
+        "name_sc": "龙翔道,近天马苑停车场",
+        "name_en": "LUNG CHEUNG ROAD, near Tin Ma Court Carpark"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20000785,
+        "name_tc": "龍翔道,近黃大仙上邨溢善樓",
+        "name_sc": "龙翔道,近黄大仙上村溢善楼",
+        "name_en": "LUNG CHEUNG ROAD, near Yat Sin House, UPPER WONG TAI SIN ESTATE"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20002188,
+        "name_tc": "龍翔道,近黃大仙廣場",
+        "name_sc": "龙翔道,近黄大仙广场",
+        "name_en": "LUNG CHEUNG ROAD, near Wong Tai Sin Square"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20002189,
+        "name_tc": "牛頭角道,近淘大花園Ｂ座",
+        "name_sc": "牛头角道,近淘大花园Ｂ座",
+        "name_en": "NGAU TAU KOK ROAD, near Amoy Gardens Block B"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20002190,
+        "name_tc": "牛頭角道,近牛頭角上邨商場",
+        "name_sc": "牛头角道,近牛头角上村商场",
+        "name_en": "NGAU TAU KOK ROAD, UPPER NGAU TAU KOK ESTATE"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20000809,
+        "name_tc": "牛頭角道,近玉蓮臺第二座",
+        "name_sc": "牛头角道,近玉莲台第二座",
+        "name_en": "NGAU TAU KOK ROAD, near Lotus Tower Block 2"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20002191,
+        "name_tc": "裕民坊,近裕民大廈",
+        "name_sc": "裕民坊,近裕民大厦",
+        "name_en": "YUE MAN SQUARE, near Yue Man Building"
+      }
+    ],
+    "data_timestamp": "2024-09-20T11:53:25.957+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:10:54+08:00",
+  "data": {
+    "stop": "003691",
+    "name_tc": "拔萃男書院, 太子道西",
+    "name_en": "Diocesan Boys' School, Prince Edward Road West",
+    "lat": "22.324977272091",
+    "long": "114.17433747053",
+    "name_sc": "拔萃男书院, 太子道西",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

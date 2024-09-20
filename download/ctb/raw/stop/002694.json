@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:07:27+08:00",
+  "data": {
+    "stop": "002694",
+    "name_tc": "愛賢街, 愛秩序灣道",
+    "name_en": "Oi Yin Street, Aldrich Bay Road",
+    "lat": "22.279807302091",
+    "long": "114.22720635053",
+    "name_sc": "爱贤街, 爱秩序湾道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:26:11.583+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20003279,
+        "name_tc": "堅尼地城站",
+        "name_sc": "坚尼地城站",
+        "name_en": "Kennedy Town Station"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20000334,
+        "name_tc": "域多利道,英基學校協會西港島中學對面",
+        "name_sc": "域多利道,英基学校协会西港岛中学对面",
+        "name_en": "Victoria Road, opposite English School Foundation West Island School"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20000348,
+        "name_tc": "大口環道",
+        "name_sc": "大口环道",
+        "name_en": "Sandy Bay Road"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20004594,
+        "name_tc": "沙灣徑, 麥理浩復康院外",
+        "name_sc": "沙湾径, 麦理浩复康院外",
+        "name_en": "Sha Wan Drive, outside Maclehose Medical Rehabilitation Centre"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20000335,
+        "name_tc": "域多利道,碧瑤灣第十九座外",
+        "name_sc": "域多利道,碧瑶湾第十九座外",
+        "name_en": "Victoria Road, outside Block 19, Baguio Villa"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20000336,
+        "name_tc": "域多利道,碧瑤灣網球場外",
+        "name_sc": "域多利道,碧瑶湾网球场外",
+        "name_en": "Victoria Road, outside Baguio Villa Tennis Court"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20002493,
+        "name_tc": "域多利道, 近華翠街",
+        "name_sc": "域多利道, 近华翠街",
+        "name_en": "Victoria Road, near Wah Tsui Street"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20000273,
+        "name_tc": "石排灣道 53 號",
+        "name_sc": "石排湾道 53 号",
+        "name_en": "No. 53 Shek Pai Wan Road"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20000370,
+        "name_tc": "石排灣道, 田灣街",
+        "name_sc": "石排湾道, 田湾街",
+        "name_en": "Tin Wan Street, Shek Pai Wan Road"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20000326,
+        "name_tc": "湖南街, 安泰大廈外",
+        "name_sc": "湖南街, 安泰大厦外",
+        "name_en": "Wu Nam Street, outside On Tai Building"
+      }
+    ],
+    "data_timestamp": "2024-09-17T10:42:13.921+08:00"
+  }
+}

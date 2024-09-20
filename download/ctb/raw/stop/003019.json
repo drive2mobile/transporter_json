@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:06:54+08:00",
+  "data": {
+    "stop": "003019",
+    "name_tc": "聖德肋撒醫院, 界限街",
+    "name_en": "St. Teresa's Hospital, Boundary Street",
+    "lat": "22.327312562091",
+    "long": "114.18559238053",
+    "name_sc": "圣德肋撒医院, 界限街",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

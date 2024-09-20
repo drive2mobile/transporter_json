@@ -1,0 +1,164 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:26:05.737+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20000284,
+        "name_tc": "中環碼頭",
+        "name_sc": "中环码头 ",
+        "name_en": "Central Ferry Piers"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20003083,
+        "name_tc": "干諾道中25號",
+        "name_sc": "干诺道中25号",
+        "name_en": "Connaught Road Central, No.25"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20003475,
+        "name_tc": "皇后大道西, 石塘咀市政大廈外",
+        "name_sc": "皇后大道西, 石塘咀市政大厦",
+        "name_en": "Queen's Road West, Shek Tong Tsui Complex"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20000289,
+        "name_tc": "卑路乍街68號",
+        "name_sc": "卑路乍街68号",
+        "name_en": "No.68 Belcher's Street"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20000290,
+        "name_tc": "卑路乍街142號",
+        "name_sc": "卑路乍街142号",
+        "name_en": "No.142 Belcher's Street"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20003508,
+        "name_tc": "域多利道, 西寧閣對面",
+        "name_sc": "域多利道, 西宁阁对面",
+        "name_en": "Victoria Road, opposite Serene Court"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20002799,
+        "name_tc": "摩星嶺道與域多利道交界",
+        "name_sc": "摩星岭道与域多利道交界",
+        "name_en": "Junction of Mt. Davis Road and Victoria Road"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20003509,
+        "name_tc": "摩星嶺道, 聖加勒女書院外",
+        "name_sc": "摩星岭道坚加勒女书院外",
+        "name_en": "Mt. Davis Road outside St Clare's Girls' College"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20003510,
+        "name_tc": "摩星嶺道, 怡林閣外",
+        "name_sc": "摩星岭道, 怡林阁外",
+        "name_en": "Mt. Davis Road outside Greenery Garden"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20019072,
+        "name_tc": "瑪麗醫院",
+        "name_sc": "玛丽医院",
+        "name_en": "Queen Mary Hospital"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20002719,
+        "name_tc": "摩星嶺道, 怡林閣對面",
+        "name_sc": "摩星岭道, 怡林阁对面",
+        "name_en": "Mount Davis Road opposite Greenery Garden"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20003511,
+        "name_tc": "摩星嶺道聖加勒女書院對面",
+        "name_sc": "摩星岭道圣加勒女书院对面",
+        "name_en": "Mt. Davis Road opposite St Clare's Girls' College"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20003513,
+        "name_tc": "域多利道, 麗景大廈外",
+        "name_sc": "域多利道, 丽景大厦外",
+        "name_en": "Victoria Road, outside Regent Height"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20006972,
+        "name_tc": "域多利道堅尼地城總站外",
+        "name_sc": "域多利道坚尼地城总站外",
+        "name_en": "Victoria Road outside Kennedy Town Terminus"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20007022,
+        "name_tc": "吉席街近泓都",
+        "name_sc": "吉席街近泓都",
+        "name_en": "Catchick Street near the Merton"
+      },
+      {
+        "stop_seq": 16,
+        "stop_id": 20002839,
+        "name_tc": "堅尼地城海旁, 近西祥街",
+        "name_sc": "坚尼地城海旁, 近西祥街",
+        "name_en": "Kennedy Town Praya, near Sai Cheung Street"
+      },
+      {
+        "stop_seq": 17,
+        "stop_id": 20003469,
+        "name_tc": "德輔道西, 均益大廈一期對面",
+        "name_sc": "德辅道西, 均益大厦一期对面",
+        "name_en": "Des Voeux Road West opposite Kwan Yick Building Phase 1"
+      },
+      {
+        "stop_seq": 18,
+        "stop_id": 20007057,
+        "name_tc": "干諾道西, 中山紀念公園外",
+        "name_sc": "干诺道西, 中山纪念公园外",
+        "name_en": "Connaught Road West, outside Sun Yat Sen Memorial Park"
+      },
+      {
+        "stop_seq": 19,
+        "stop_id": 20000294,
+        "name_tc": "干諾道中, 信德中心外",
+        "name_sc": "干诺道中, 信德中心外",
+        "name_en": "Connaught Road Central outside Shun Tak Centre"
+      },
+      {
+        "stop_seq": 20,
+        "stop_id": 20003514,
+        "name_tc": "統一碼頭道 , 海港政府大樓對面",
+        "name_sc": "统一码头道 , 海港政府大楼对面",
+        "name_en": "Pier Road opposite to Harbour Building"
+      },
+      {
+        "stop_seq": 21,
+        "stop_id": 20003515,
+        "name_tc": "民耀街, 國際金融中心二期外",
+        "name_sc": "民耀街, 国际金融中心二期外",
+        "name_en": "Man Yiu Street outside Two IFC"
+      },
+      {
+        "stop_seq": 22,
+        "stop_id": 20000284,
+        "name_tc": "中環碼頭",
+        "name_sc": "中环码头 ",
+        "name_en": "Central Ferry Piers"
+      }
+    ],
+    "data_timestamp": "2024-09-17T10:26:00.990+08:00"
+  }
+}

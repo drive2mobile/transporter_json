@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:09:13+08:00",
+  "data": {
+    "stop": "003026",
+    "name_tc": "九龍城碼頭",
+    "name_en": "Kowloon City Ferry Pier",
+    "lat": "22.318316762091",
+    "long": "114.19361951053",
+    "name_sc": "九龙城码头",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

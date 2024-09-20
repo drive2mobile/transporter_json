@@ -1,0 +1,82 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:44:04.214+08:00",
+  "data": [
+    {
+      "route_id": 2002291,
+      "region": "HKI",
+      "route_code": "16X",
+      "description_tc": "短程班次",
+      "description_sc": "短程班次",
+      "description_en": "Short Working Service",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "柴灣站",
+          "orig_sc": "柴湾站",
+          "orig_en": "Chai Wan Station",
+          "dest_tc": "赤柱灘道",
+          "dest_sc": "赤柱滩道",
+          "dest_en": "Stanley Beach Road",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "05:30:00",
+              "end_time": "19:00:00",
+              "frequency": 15,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-09-19T16:32:41.202+08:00"
+        },
+        {
+          "route_seq": 2,
+          "orig_tc": "赤柱灘道",
+          "orig_sc": "赤柱滩道",
+          "orig_en": "Stanley Beach Road",
+          "dest_tc": "柴灣站",
+          "dest_sc": "柴湾站",
+          "dest_en": "Chai Wan Station",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "07:50:00",
+              "end_time": "23:35:00",
+              "frequency": 15,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-09-19T16:32:41.202+08:00"
+        }
+      ],
+      "data_timestamp": "2024-09-19T16:32:41.202+08:00"
+    }
+  ]
+}

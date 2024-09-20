@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:11:46+08:00",
+  "data": {
+    "stop": "002228",
+    "name_tc": "薄扶林水塘道, 薄扶林道",
+    "name_en": "Pok Fu Lam Reservoir Road, Pok Fu Lam Road",
+    "lat": "22.262870012091",
+    "long": "114.13490606053",
+    "name_sc": "薄扶林水塘道, 薄扶林道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

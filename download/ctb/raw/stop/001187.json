@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:06:55+08:00",
+  "data": {
+    "stop": "001187",
+    "name_tc": "永安中心, 德輔道中",
+    "name_en": "Wing On Centre, Des Voeux Road Central",
+    "lat": "22.286401352091",
+    "long": "114.15288294053",
+    "name_sc": "永安中心, 德辅道中",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

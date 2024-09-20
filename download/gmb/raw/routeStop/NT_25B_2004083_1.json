@@ -1,0 +1,87 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:28:23.646+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20011683,
+        "name_tc": "大埔墟 (寶鄕街大埔社區中心外) 總站",
+        "name_sc": "大埔墟 (宝乡街大埔社区中心外) 总站",
+        "name_en": "Tai Po Market (Po Heung Street outside Tai Po Community Centre) Terminus"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20002523,
+        "name_tc": "寶鄉街, 近寶鄉橋",
+        "name_sc": "宝乡街, 近宝乡桥",
+        "name_en": "Po Heung Street, near Po Heung Bridge"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20001205,
+        "name_tc": "大埔太和路, 林村河畔",
+        "name_sc": "大埔太和路, 林村河畔",
+        "name_en": "Tai Po Tai Wo Road, Lam Tsuen River side"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20011680,
+        "name_tc": "寶雅路, 近太和購物中心",
+        "name_sc": "宝雅路, 近太和购物中心",
+        "name_en": "Po Nga Road, near Tai Wo Shopping Centre"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20001207,
+        "name_tc": "大窩西支路, 圍頭",
+        "name_sc": "大窝西支路, 围头",
+        "name_en": "Tai Wo Service Road West, Wai Tau"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20011200,
+        "name_tc": "大窩西支路, 泰亨",
+        "name_sc": "Tai Wo Service Road West, Tai Hang",
+        "name_en": "Tai Wo Service Road West, Tai Hang"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20011210,
+        "name_tc": "九龍坑",
+        "name_sc": "九龙坑",
+        "name_en": "Kau Lung Hang"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20001214,
+        "name_tc": "寶雅路南行線, 近港鐵太和站",
+        "name_sc": "宝雅路南行线, 近港铁太和站",
+        "name_en": "Po Nga Road Southbound, near Tai Wo MTR Station"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20003424,
+        "name_tc": "大埔太和路, 大埔舊墟遊樂場外",
+        "name_sc": "大埔太和路, 大埔旧墟游乐场外",
+        "name_en": "Tai Po Tai Wo Road, outside Tai Po Old Market Playground"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20002571,
+        "name_tc": "寶鄉街, 近寶鄉橋",
+        "name_sc": "宝乡街, 近宝乡桥",
+        "name_en": "Po Heung Street, near Po Heung Bridge"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20011197,
+        "name_tc": "大埔墟 (寶鄕街大埔社區中心外) 總站",
+        "name_sc": "大埔墟 (宝乡街大埔社区中心外) 总站",
+        "name_en": "Tai Po Market (Po Heung Street outside Tai Po Community Centre) Terminus"
+      }
+    ],
+    "data_timestamp": "2024-07-31T16:25:27.898+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:06:29+08:00",
+  "data": {
+    "stop": "001134",
+    "name_tc": "帝后華庭, 皇后大道西",
+    "name_en": "Queen's Terrace, Queen's Road West",
+    "lat": "22.286525342091",
+    "long": "114.14736012053",
+    "name_sc": "帝后华庭, 皇后大道西",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

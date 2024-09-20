@@ -1,0 +1,59 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:25:56.146+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20000255,
+        "name_tc": "柴灣站公共運輸交匯處",
+        "name_sc": "柴湾站公共运输交汇处",
+        "name_en": "Chai Wan Station Public Transport Interchange"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20000256,
+        "name_tc": "柴灣道, 永利中心外",
+        "name_sc": "柴湾道, 永利中心外",
+        "name_en": "Chai Wan Road, outside Winner Centre"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20011688,
+        "name_tc": "寶血女子中學 ",
+        "name_sc": "宝血女子中学 ",
+        "name_en": "Precious Blood Secondary School "
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20011064,
+        "name_tc": "新廈街近柴灣邨",
+        "name_sc": "新厦街近柴湾邨",
+        "name_en": "Sun Ha Street, near Chai Wan Estate"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20011065,
+        "name_tc": "新廈街, 樂軒臺外",
+        "name_sc": "新厦街, 乐轩台外",
+        "name_en": "Sun Ha Street, outside Lok Hin Terrace"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20011066,
+        "name_tc": "新廈街近柴灣市政大廈",
+        "name_sc": "新厦街近柴湾市政大厦",
+        "name_en": "San Ha Street near Chai Wan Municipal Services Building"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20000255,
+        "name_tc": "柴灣站公共運輸交匯處",
+        "name_sc": "柴湾站公共运输交汇处",
+        "name_en": "Chai Wan Station Public Transport Interchange"
+      }
+    ],
+    "data_timestamp": "2022-12-25T00:00:39.794+08:00"
+  }
+}

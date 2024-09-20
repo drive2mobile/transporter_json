@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:05:13+08:00",
+  "data": {
+    "stop": "001350",
+    "name_tc": "東熹苑, 耀興道",
+    "name_en": "Tung Hei Court, Yiu Hing Road",
+    "lat": "22.280367472091",
+    "long": "114.21968477053",
+    "name_sc": "东熹苑, 耀兴道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

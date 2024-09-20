@@ -1,0 +1,45 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:29:38.271+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20019897,
+        "name_tc": "七星薈小巴總站",
+        "name_sc": "七星荟小巴总站",
+        "name_en": "CONCORDIA Tsat Sing Kong Public Light Bus Terminus"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20007542,
+        "name_tc": "錦田公路, 石崗軍營",
+        "name_sc": "锦田公路, 石岗军营",
+        "name_en": "Kam Tin Road, Shek Kong Barracks"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20016894,
+        "name_tc": "錦上路站公共運輸交匯處",
+        "name_sc": "锦上路站公共运输交汇处",
+        "name_en": "Kam Sheung Road Station Public Transport Interchange"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20007543,
+        "name_tc": "錦田公路, 石崗軍營",
+        "name_sc": "锦田公路, 石岗军营",
+        "name_en": "Kam Tin Road, Shek Kong Barracks"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20019897,
+        "name_tc": "七星薈小巴總站",
+        "name_sc": "七星荟小巴总站",
+        "name_en": "CONCORDIA Tsat Sing Kong Public Light Bus Terminus"
+      }
+    ],
+    "data_timestamp": "2024-08-31T00:00:12.846+08:00"
+  }
+}

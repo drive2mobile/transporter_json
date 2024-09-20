@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:09:25+08:00",
+  "data": {
+    "stop": "001639",
+    "name_tc": "通州街公園, 欽州街",
+    "name_en": "Tung Chau Street Park, Yen Chow Street",
+    "lat": "22.327888652091",
+    "long": "114.15764465053",
+    "name_sc": "通州街公园, 钦州街",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

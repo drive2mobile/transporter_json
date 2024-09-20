@@ -1,0 +1,82 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:29:04.222+08:00",
+  "data": [
+    {
+      "route_id": 2004197,
+      "region": "NT",
+      "route_code": "44B1",
+      "description_tc": "正常班次",
+      "description_sc": "正常班次",
+      "description_en": "Normal Departure",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "落馬洲(新田)公共交通交匯處",
+          "orig_sc": "落马洲(新田)公共交通交汇处",
+          "orig_en": "Lok Ma Chau (San Tin) Public Transport Interchange",
+          "dest_tc": "屯門碼頭",
+          "dest_sc": "屯门码头",
+          "dest_en": "Tuen Mun Ferry Pier",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "06:30:00",
+              "end_time": "22:59:00",
+              "frequency": 45,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-09-16T13:54:09.310+08:00"
+        },
+        {
+          "route_seq": 2,
+          "orig_tc": "屯門碼頭",
+          "orig_sc": "屯门码头",
+          "orig_en": "Tuen Mun Ferry Pier",
+          "dest_tc": "落馬洲(新田)公共交通交匯處",
+          "dest_sc": "落马洲(新田)公共交通交汇处",
+          "dest_en": "Lok Ma Chau (San Tin) Public Transport Interchange",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "05:45:00",
+              "end_time": "22:00:00",
+              "frequency": 45,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-09-16T13:54:09.310+08:00"
+        }
+      ],
+      "data_timestamp": "2024-09-16T13:54:09.310+08:00"
+    }
+  ]
+}

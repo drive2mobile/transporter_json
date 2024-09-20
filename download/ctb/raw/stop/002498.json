@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:10:05+08:00",
+  "data": {
+    "stop": "002498",
+    "name_tc": "松柏新邨, 司徒拔道",
+    "name_en": "Evergreen Villa, Stubbs Road",
+    "lat": "22.266050922091",
+    "long": "114.18189884053",
+    "name_sc": "松柏新邨, 司徒拔道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:27:00.107+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20019006,
+        "name_tc": "黃大仙公共小型巴士(專線)服務總站",
+        "name_sc": "黄大仙公共小型巴士(专线)服务总站",
+        "name_en": "Wong Tai Sin Public Light Bus (Scheduled) Service Terminus"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20000819,
+        "name_tc": "鳴鳳街, 伯德大廈對面",
+        "name_sc": "鸣凤街, 伯德大厦对面",
+        "name_en": "Ming Fung Street, opposite Peter's House"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20000603,
+        "name_tc": "鳴鳳街, 鳳凰大樓外",
+        "name_sc": "鸣凤街, 凤凰大楼外",
+        "name_en": "Ming Fung Street, outside Fung Wong Building"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20000820,
+        "name_tc": "雙鳳街, 聖文德書院外",
+        "name_sc": "双凤街, 圣文德书院外",
+        "name_en": "Sheung Fung Street, outside St. Bonaventure College"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20000821,
+        "name_tc": "雙鳳街, 慈樂邨樂誠樓對面",
+        "name_sc": "双凤街, 慈乐邨乐诚楼对面",
+        "name_en": "Sheung Fung Street, opposite Lok Shing House, Tsz Lok Estate"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20000604,
+        "name_tc": "雙鳳街, 慈樂邨樂祥樓外",
+        "name_sc": "双凤街, 慈乐邨乐祥楼外",
+        "name_en": "Sheung Fung Street, outside Lok Cheung House, Tsz Lok Estate"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20003365,
+        "name_tc": "慈雲山 (北) (巴士站)",
+        "name_sc": "慈云山 (北) (巴士站)",
+        "name_en": "Tsz Wan Shan (North) (Bus Stop)"
+      }
+    ],
+    "data_timestamp": "2024-07-31T15:33:17.638+08:00"
+  }
+}

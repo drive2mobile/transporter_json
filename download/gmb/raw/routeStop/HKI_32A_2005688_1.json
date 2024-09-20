@@ -1,0 +1,94 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:25:47.815+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20013736,
+        "name_tc": "康柏徑,近康景花園Ａ座",
+        "name_sc": "康柏径,近康景花园Ａ座",
+        "name_en": "HONG PAK PATH, near Mt Parker Lodge Block A"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20013703,
+        "name_tc": "基利路,近南豐新邨第５座",
+        "name_sc": "基利路,近南丰新邨第５座",
+        "name_en": "GREIG ROAD, near Nam Fung Sun Chuen Block 5"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20018742,
+        "name_tc": "基利路,近南豐新邨第 3 座",
+        "name_sc": "基利路,近南丰新村第 3 座",
+        "name_en": "GREIG ROAD, near Nam Fung Sun Chuen Block 3"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20016089,
+        "name_tc": "英皇道,近惠安苑",
+        "name_sc": "英皇道,近惠安苑",
+        "name_en": "KING'S ROAD, near Westlands Gardens"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20018743,
+        "name_tc": "英皇道,近仁孚工業大廈",
+        "name_sc": "英皇道,近仁孚工业大厦",
+        "name_en": "KING'S ROAD, near Zung Fu Industrial Building"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20014356,
+        "name_tc": "英皇道,近高山臺太古城中心",
+        "name_sc": "英皇道,近高山台太古城中心",
+        "name_en": "KING'S ROAD, near Cityplaza, KAO SHAN TERRACE, TAIKOO SHING"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20018745,
+        "name_tc": "康安街,近康怡花園 Q 座",
+        "name_sc": "康安街,近康怡花園 Q 座",
+        "name_en": "HONG ON STREET, near Kornhill Block Q"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20012989,
+        "name_tc": "英皇道,近寶峰園Ｃ座",
+        "name_sc": "英皇道,近宝峰园Ｃ座",
+        "name_en": "KING'S ROAD, near Bo Fung Gardens Block C"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20013714,
+        "name_tc": "基利路,近基利路休憩處",
+        "name_sc": "基利路,近基利路休憩处",
+        "name_en": "GREIG ROAD, near GREIG ROAD SITTING-OUT AREA"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20013715,
+        "name_tc": "基利路,近南豐新邨第３座",
+        "name_sc": "基利路,近南丰新邨第３座",
+        "name_en": "GREIG ROAD, near Nam Fung Sun Chuen Block 3"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20013716,
+        "name_tc": "基利路,近南豐新邨第５座",
+        "name_sc": "基利路,近南丰新邨第５座",
+        "name_en": "GREIG ROAD, near Nam Fung Sun Chuen Block 5"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20013736,
+        "name_tc": "康柏徑,近康景花園Ａ座",
+        "name_sc": "康柏径,近康景花园Ａ座",
+        "name_en": "HONG PAK PATH, near Mt Parker Lodge Block A"
+      }
+    ],
+    "data_timestamp": "2023-08-21T09:57:51.138+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:07:14+08:00",
+  "data": {
+    "stop": "001643",
+    "name_tc": "浙江街遊樂場, 漆咸道北",
+    "name_en": "Chi Kiang Street Playground, Chatham Road North",
+    "lat": "22.313753452091",
+    "long": "114.18730143053",
+    "name_sc": "浙江街游乐场, 漆咸道北",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

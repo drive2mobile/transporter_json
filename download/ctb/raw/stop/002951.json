@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:15:18+08:00",
+  "data": {
+    "stop": "002951",
+    "name_tc": "石礦場, 石澳道",
+    "name_en": "Quarry, Shek O Road",
+    "lat": "22.225075352091",
+    "long": "114.24103205053",
+    "name_sc": "石矿场, 石澳道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

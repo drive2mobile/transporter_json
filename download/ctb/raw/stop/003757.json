@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:12:17+08:00",
+  "data": {
+    "stop": "003757",
+    "name_tc": "輕鐵鳴琴站, 鳴琴路",
+    "name_en": "LR Ming Kum Stop, Ming Kum Road",
+    "lat": "22.396762602091",
+    "long": "113.96740609053",
+    "name_sc": "轻铁鸣琴站, 鸣琴路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

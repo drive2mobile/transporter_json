@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:10:35+08:00",
+  "data": {
+    "stop": "002961",
+    "name_tc": "安慧苑, 藍塘道",
+    "name_en": "Envoy Garden, Blue Pool Road",
+    "lat": "22.264590142091",
+    "long": "114.18874770053",
+    "name_sc": "安慧苑, 蓝塘道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

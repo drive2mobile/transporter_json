@@ -1,0 +1,191 @@
+{
+  "type": "RouteStop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T14:57:35+08:00",
+  "data": [
+    {
+      "co": "CTB",
+      "route": "680X",
+      "dir": "O",
+      "seq": 1,
+      "stop": "001027",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "680X",
+      "dir": "O",
+      "seq": 2,
+      "stop": "001029",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "680X",
+      "dir": "O",
+      "seq": 3,
+      "stop": "001030",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "680X",
+      "dir": "O",
+      "seq": 4,
+      "stop": "001031",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "680X",
+      "dir": "O",
+      "seq": 5,
+      "stop": "001137",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "680X",
+      "dir": "O",
+      "seq": 6,
+      "stop": "002427",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "680X",
+      "dir": "O",
+      "seq": 7,
+      "stop": "002431",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "680X",
+      "dir": "O",
+      "seq": 8,
+      "stop": "002572",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "680X",
+      "dir": "O",
+      "seq": 9,
+      "stop": "002437",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "680X",
+      "dir": "O",
+      "seq": 10,
+      "stop": "002555",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "680X",
+      "dir": "O",
+      "seq": 11,
+      "stop": "001213",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "680X",
+      "dir": "O",
+      "seq": 12,
+      "stop": "001251",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "680X",
+      "dir": "O",
+      "seq": 13,
+      "stop": "001464",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "680X",
+      "dir": "O",
+      "seq": 14,
+      "stop": "001985",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "680X",
+      "dir": "O",
+      "seq": 15,
+      "stop": "001916",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "680X",
+      "dir": "O",
+      "seq": 16,
+      "stop": "001917",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "680X",
+      "dir": "O",
+      "seq": 17,
+      "stop": "001949",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "680X",
+      "dir": "O",
+      "seq": 18,
+      "stop": "003087",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "680X",
+      "dir": "O",
+      "seq": 19,
+      "stop": "003088",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "680X",
+      "dir": "O",
+      "seq": 20,
+      "stop": "003089",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "680X",
+      "dir": "O",
+      "seq": 21,
+      "stop": "003091",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "680X",
+      "dir": "O",
+      "seq": 22,
+      "stop": "003344",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "680X",
+      "dir": "O",
+      "seq": 23,
+      "stop": "003345",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    }
+  ]
+}

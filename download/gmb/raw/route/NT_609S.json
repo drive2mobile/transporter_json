@@ -1,0 +1,93 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:29:39.404+08:00",
+  "data": [
+    {
+      "route_id": 2001208,
+      "region": "NT",
+      "route_code": "609S",
+      "description_tc": "正常班次",
+      "description_sc": "正常班次",
+      "description_en": "Normal Route",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "朗善邨",
+          "orig_sc": "朗善邨",
+          "orig_en": "Long Shin Estate",
+          "dest_tc": "元朗站(北)公共運輸交匯處",
+          "dest_sc": "元朗站(北)公共运输交汇处",
+          "dest_en": "Yuen Long Station (North) Public Transport Interchange",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "05:50:00",
+              "end_time": "22:30:00",
+              "frequency": 10,
+              "frequency_upper": 10
+            }
+          ],
+          "data_timestamp": "2024-05-30T10:48:46.387+08:00"
+        }
+      ],
+      "data_timestamp": "2024-05-30T10:48:46.387+08:00"
+    },
+    {
+      "route_id": 2001209,
+      "region": "NT",
+      "route_code": "609S",
+      "description_tc": "特別班次(至博愛醫院)",
+      "description_sc": "特別班次(至博爱医院)",
+      "description_en": "Special Service (to Pok Oi Hosptial)",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "朗善邨",
+          "orig_sc": "朗善邨",
+          "orig_en": "Long Shin Estate",
+          "dest_tc": "元朗站(北)公共運輸交匯處",
+          "dest_sc": "元朗站(北)公共运输交汇处",
+          "dest_en": "Yuen Long Station (North) Public Transport Interchange",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "12:30:00",
+              "end_time": "13:30:00",
+              "frequency": 10,
+              "frequency_upper": 10
+            }
+          ],
+          "data_timestamp": "2024-05-30T10:48:46.390+08:00"
+        }
+      ],
+      "data_timestamp": "2024-05-30T10:48:46.390+08:00"
+    }
+  ]
+}

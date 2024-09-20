@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:12:38+08:00",
+  "data": {
+    "stop": "001753",
+    "name_tc": "景林邨, 寶琳北路",
+    "name_en": "King Lam Estate, Po Lam Road North",
+    "lat": "22.322157142091",
+    "long": "114.26110043053",
+    "name_sc": "景林邨, 宝琳北路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

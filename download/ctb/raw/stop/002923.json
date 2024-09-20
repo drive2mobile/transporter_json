@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:14:43+08:00",
+  "data": {
+    "stop": "002923",
+    "name_tc": "將軍澳工業邨",
+    "name_en": "Tseung Kwan O Industrial Estate",
+    "lat": "22.283150002091",
+    "long": "114.27018992053",
+    "name_sc": "将军澳工业邨",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

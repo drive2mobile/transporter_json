@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:13:24+08:00",
+  "data": {
+    "stop": "003381",
+    "name_tc": "基新中學, 百和路",
+    "name_en": "Kei San Secondary School, Pak Wo Road",
+    "lat": "22.491198062091",
+    "long": "114.13540078053",
+    "name_sc": "基新中学, 百和路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:11:42+08:00",
+  "data": {
+    "stop": "002190",
+    "name_tc": "雅緻洋房, 置富道",
+    "name_en": "Yar Chee Villas, Chi Fu Road",
+    "lat": "22.255219652091",
+    "long": "114.13987808053",
+    "name_sc": "雅致洋房, 置富道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

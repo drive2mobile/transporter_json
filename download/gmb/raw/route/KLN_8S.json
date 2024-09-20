@@ -1,0 +1,329 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:27:36.729+08:00",
+  "data": [
+    {
+      "route_id": 2006315,
+      "region": "KLN",
+      "route_code": "8S",
+      "description_tc": "正常班次",
+      "description_sc": "正常班次",
+      "description_en": "Normal Trips",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "尖沙咀(漢口道)",
+          "orig_sc": "何尖沙咀(汉口道)",
+          "orig_en": "Tsim Sha Tsui (Hankow Road)",
+          "dest_tc": "何文田(常富街)",
+          "dest_sc": "何文田(常富街)",
+          "dest_en": "Ho Man Tin (Sheung Foo Street)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "06:00:00",
+              "end_time": "08:00:00",
+              "frequency": 8,
+              "frequency_upper": 8
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 2,
+              "start_time": "08:00:00",
+              "end_time": "10:00:00",
+              "frequency": 5,
+              "frequency_upper": 10
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 3,
+              "start_time": "10:00:00",
+              "end_time": "16:00:00",
+              "frequency": 11,
+              "frequency_upper": 11
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 4,
+              "start_time": "16:00:00",
+              "end_time": "20:00:00",
+              "frequency": 8,
+              "frequency_upper": 8
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 5,
+              "start_time": "20:00:00",
+              "end_time": "23:30:00",
+              "frequency": 11,
+              "frequency_upper": 11
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 6,
+              "start_time": "06:00:00",
+              "end_time": "23:30:00",
+              "frequency": 10,
+              "frequency_upper": 10
+            }
+          ],
+          "data_timestamp": "2024-09-05T09:58:25.942+08:00"
+        },
+        {
+          "route_seq": 2,
+          "orig_tc": "何文田(常富街)",
+          "orig_sc": "何文田(常富街)",
+          "orig_en": "Ho Man Tin (Sheung Foo Street)",
+          "dest_tc": "尖沙咀(漢口道)",
+          "dest_sc": "何尖沙咀(汉口道)",
+          "dest_en": "Tsim Sha Tsui (Hankow Road)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "06:00:00",
+              "end_time": "08:30:00",
+              "frequency": 8,
+              "frequency_upper": 8
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 2,
+              "start_time": "08:30:00",
+              "end_time": "10:00:00",
+              "frequency": 5,
+              "frequency_upper": 10
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 3,
+              "start_time": "10:00:00",
+              "end_time": "16:00:00",
+              "frequency": 11,
+              "frequency_upper": 11
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 4,
+              "start_time": "16:00:00",
+              "end_time": "20:00:00",
+              "frequency": 8,
+              "frequency_upper": 8
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 5,
+              "start_time": "20:00:00",
+              "end_time": "23:30:00",
+              "frequency": 11,
+              "frequency_upper": 11
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 6,
+              "start_time": "06:00:00",
+              "end_time": "06:30:00",
+              "frequency": 6,
+              "frequency_upper": 8
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 7,
+              "start_time": "06:30:00",
+              "end_time": "23:30:00",
+              "frequency": 10,
+              "frequency_upper": 10
+            }
+          ],
+          "data_timestamp": "2024-09-05T09:58:25.942+08:00"
+        }
+      ],
+      "data_timestamp": "2024-09-05T09:58:25.942+08:00"
+    },
+    {
+      "route_id": 2006317,
+      "region": "KLN",
+      "route_code": "8S",
+      "description_tc": "繁忙時段班次(經紅磡繞道)",
+      "description_sc": "繁忙时段班次(经红磡绕道)",
+      "description_en": "Special Trips (via Hung Hom Bypass)",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "尖沙咀(漢口道)",
+          "orig_sc": "尖沙咀(汉口道)",
+          "orig_en": "Tsim Sha Tsui (Hankow Road)",
+          "dest_tc": "何文田(常富街)",
+          "dest_sc": "何文田(常富街)",
+          "dest_en": "Ho Man Tin (Sheung Foo Street)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "07:00:00",
+              "end_time": "10:00:00",
+              "frequency": 30,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 2,
+              "start_time": "16:00:00",
+              "end_time": "19:00:00",
+              "frequency": 30,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-09-05T09:58:25.942+08:00"
+        }
+      ],
+      "data_timestamp": "2024-09-05T09:58:25.942+08:00"
+    }
+  ]
+}

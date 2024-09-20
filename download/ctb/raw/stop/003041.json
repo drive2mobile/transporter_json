@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:13:01+08:00",
+  "data": {
+    "stop": "003041",
+    "name_tc": "和樂邨, 協和街",
+    "name_en": "Wo Lok Estate, Hip Wo Street",
+    "lat": "22.316059982091",
+    "long": "114.22609520053",
+    "name_sc": "和乐邨, 协和街",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

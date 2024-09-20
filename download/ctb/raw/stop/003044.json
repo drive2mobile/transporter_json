@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:13:02+08:00",
+  "data": {
+    "stop": "003044",
+    "name_tc": "曉光街遊樂場, 曉光街",
+    "name_en": "Hiu Kwong Street Recreation Ground, Hiu Kwong Street",
+    "lat": "22.316994862091",
+    "long": "114.23157810053",
+    "name_sc": "晓光街游乐场, 晓光街",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

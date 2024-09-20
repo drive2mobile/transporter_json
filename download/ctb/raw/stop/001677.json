@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:13:45+08:00",
+  "data": {
+    "stop": "001677",
+    "name_tc": "康盛花園, 寶琳北路",
+    "name_en": "Hong Sing Garden, Po Lam Road North",
+    "lat": "22.319789002091",
+    "long": "114.25412188053",
+    "name_sc": "康盛花园, 宝琳北路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

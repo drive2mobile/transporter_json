@@ -1,0 +1,24 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:44:07.008+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20002608,
+        "name_tc": "港灣豪庭",
+        "name_sc": "港湾豪庭",
+        "name_en": "Metro Harbourview"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20007225,
+        "name_tc": "西洋菜南街152號",
+        "name_sc": "西洋菜南街152号",
+        "name_en": "152 Sai Yeung Choi Street South"
+      }
+    ],
+    "data_timestamp": "2024-02-16T09:23:11.672+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:16:41+08:00",
+  "data": {
+    "stop": "002714",
+    "name_tc": "機場 (1 號客運大樓)",
+    "name_en": "Airport (Terminal One)",
+    "lat": "22.315439732091",
+    "long": "113.93622731053",
+    "name_sc": "机场 (1 号客运大楼)",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

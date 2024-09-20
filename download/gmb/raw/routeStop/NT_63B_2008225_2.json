@@ -1,0 +1,38 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:29:50.992+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20014224,
+        "name_tc": "村南道, 近大圍站",
+        "name_sc": "村南道, 近大围站 ",
+        "name_en": "TSUEN NAM ROAD, near Tai Wai Station"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20014225,
+        "name_tc": "大圍道, 近金禧花園第６座",
+        "name_sc": "大围道, 近金禧花园第６座 ",
+        "name_en": "TAI WAI ROAD, near Grandeur Garden Block 6"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20014226,
+        "name_tc": "美田路, 近美田路休憩處",
+        "name_sc": "美田路, 近美田路休憩处 ",
+        "name_en": "MEI TIN ROAD, near Mei Tin Road Sitting-out Area"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20014235,
+        "name_tc": "碧田街, 近恒峰花園第３座",
+        "name_sc": "碧田街, 近恒峰花园第３座 ",
+        "name_en": "PIK TIN STREET, near Granville Garden Tower 3"
+      }
+    ],
+    "data_timestamp": "2024-06-20T00:00:10.984+08:00"
+  }
+}

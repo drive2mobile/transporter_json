@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:08:43+08:00",
+  "data": {
+    "stop": "002407",
+    "name_tc": "慧景園, 春暉道",
+    "name_en": "Flora Garden, Chun Fai Road",
+    "lat": "22.273448522091",
+    "long": "114.19415009053",
+    "name_sc": "慧景园, 春晖道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

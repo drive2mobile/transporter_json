@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:10:57+08:00",
+  "data": {
+    "stop": "003526",
+    "name_tc": "多實街",
+    "name_en": "Dorset Crescent",
+    "lat": "22.338919462091",
+    "long": "114.17762036053",
+    "name_sc": "多实街",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

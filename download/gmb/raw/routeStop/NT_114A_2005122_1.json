@@ -1,0 +1,73 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:27:53.480+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20012812,
+        "name_tc": "港鐵將軍澳站小巴總站",
+        "name_sc": "港铁将军澳站小巴总站",
+        "name_en": "Tseung Kwan O MTR Station Minibus Terminus"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20003174,
+        "name_tc": "寶邑路, 近將軍澳廣場會所",
+        "name_sc": "宝邑路, 近将军澳广场会所 ",
+        "name_en": "PO YAP ROAD, near Tseung Kwan O Plaza Club House"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20012813,
+        "name_tc": "至善街, 近怡明邨怡悅樓",
+        "name_sc": "至善街, 近怡明村怡悦楼 ",
+        "name_en": "CHI SHIN STREET, near Yee Yuet House, Yee Ming Estate"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20012814,
+        "name_tc": "至善街, 近Savannah 雍明苑澤明閣",
+        "name_sc": "至善街, 近Savannah 雍明苑泽明阁 ",
+        "name_en": "CHI SHIN STREET, near Savannah  Yung Ming Court Chak Ming House"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20012815,
+        "name_tc": "至善街, 近播道書院",
+        "name_sc": "至善街, 近播道书院 ",
+        "name_en": "CHI SHIN STREET, near EVANGEL COLLEGE"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20012816,
+        "name_tc": "唐俊街, 近翩匯坊",
+        "name_sc": "唐俊街, 近翩汇坊 ",
+        "name_en": "TONG CHUN STREET, near Papillons Square"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20012817,
+        "name_tc": "唐俊街, 近Monterey",
+        "name_sc": "唐俊街, 近Monterey ",
+        "name_en": "TONG CHUN STREET, near Monterey Place"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20012818,
+        "name_tc": "唐俊街, 近海天晉第８座",
+        "name_sc": "唐俊街, 近海天晋第８座 ",
+        "name_en": "TONG CHUN STREET, near Ocean Wings Tower 8"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20012819,
+        "name_tc": "港鐵將軍澳站小巴總站",
+        "name_sc": "港铁将军澳站小巴总站",
+        "name_en": "Tseung Kwan O MTR Station Minibus Terminus"
+      }
+    ],
+    "data_timestamp": "2022-04-20T12:59:11.713+08:00"
+  }
+}

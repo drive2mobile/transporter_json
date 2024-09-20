@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:09:19+08:00",
+  "data": {
+    "stop": "003030",
+    "name_tc": "馬頭角道, 馬頭涌道",
+    "name_en": "Ma Tau Kok Road, Ma Tau Chung Road",
+    "lat": "22.322379282091",
+    "long": "114.18776440053",
+    "name_sc": "马头角道, 马头涌道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

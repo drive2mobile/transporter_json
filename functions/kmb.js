@@ -57,9 +57,9 @@ async function parseJsonKmb(lang)
         var company = '';
 
         if (currRoute['route'] in coopRoutes)
-            company = 'KMBCTB';
+            company = 'kmbctb';
         else
-            company = 'KMB';
+            company = 'kmb';
 
         const id = `${company}_${currRoute['route']}_${currRoute['bound']}_${currRoute['service_type']}`;
         const newRoute = {
@@ -82,9 +82,9 @@ async function parseJsonKmb(lang)
         var company = '';
 
         if (currStop['route'] in coopRoutes)
-            company = 'KMBCTB';
+            company = 'kmbctb';
         else
-            company = 'KMB';
+            company = 'kmb';
 
         const id = `${company}_${currStop['route']}_${currStop['bound']}_${currStop['service_type']}`;
 

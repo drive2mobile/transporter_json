@@ -1,0 +1,59 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:26:10.853+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20000331,
+        "name_tc": "沙灣徑, 麥理浩復康院對面",
+        "name_sc": "沙湾径, 麦理浩复康院对面",
+        "name_en": "Sha Wan Drive, opposite Maclehose Medical Rehabilitation Centre"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20000349,
+        "name_tc": "大口環道, 大口環根德公爵夫人兒童醫院",
+        "name_sc": "大口环道, 大口环根德公爵夫人儿童医院",
+        "name_en": "The Duchess of Kent Childrens Hospital, Sandy Bay Road"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20009766,
+        "name_tc": "大口環道, 馮堯敬醫院",
+        "name_sc": "大口环道, 冯尧敬医院",
+        "name_en": "Fung Yiu King Hospital, Sandy Bay Road"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20000332,
+        "name_tc": "域多利道,英基學校協會西港島中學外",
+        "name_sc": "域多利道,英基学校协会西港岛中学外",
+        "name_en": "Victoria Road, outside English School Foundation West Island School"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20006905,
+        "name_tc": "域多利道, 近摩星嶺道",
+        "name_sc": "域多利道, 近摩星岭道",
+        "name_en": "Victoria Road near Mount Davis Road"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20007022,
+        "name_tc": "吉席街近泓都",
+        "name_sc": "吉席街近泓都",
+        "name_en": "Catchick Street near the Merton"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20009733,
+        "name_tc": "堅尼地城站",
+        "name_sc": "坚尼地城站",
+        "name_en": "Kennedy Town Station"
+      }
+    ],
+    "data_timestamp": "2024-09-17T10:42:13.921+08:00"
+  }
+}

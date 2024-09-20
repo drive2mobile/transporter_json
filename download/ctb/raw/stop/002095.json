@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:14:36+08:00",
+  "data": {
+    "stop": "002095",
+    "name_tc": "大埔仔坳, 清水灣道",
+    "name_en": "Tai Po Tsai Kau, Clear Water Bay Road",
+    "lat": "22.340075192091",
+    "long": "114.25857876053",
+    "name_sc": "大埔仔坳, 清水湾道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:29:03.789+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20001406,
+        "name_tc": "落馬洲(新田)公共運輸交匯處",
+        "name_sc": "落马洲(新田)公共运输交汇处",
+        "name_en": "Lok Ma Chau (San Tin) Public Transport Interchange"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20005036,
+        "name_tc": "青麟路, 兆康苑兆麗閣外",
+        "name_sc": "青麟路, 兆康苑兆丽阁外",
+        "name_en": "Tsing Lun Road, outside Siu Lai House, Siu Hong Court"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20001332,
+        "name_tc": "青麟路,兆康苑兆賢閣外",
+        "name_sc": "青麟路,兆康苑兆贤阁外",
+        "name_en": "Tsing Lun Road, outside Siu Yin House Siu Hong Court"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20001326,
+        "name_tc": "震寰路, 寳怡花園第2座外",
+        "name_sc": "震寰路, 寳怡花园第2座外",
+        "name_en": "Tsun Wen Road, outside Block 2 of Blossom Garden"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20005039,
+        "name_tc": "鳴琴路, 盈豐園外",
+        "name_sc": "鸣琴路, 盈丰园外",
+        "name_en": "Ming Kum Road, outside Goodrich Garden"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20011691,
+        "name_tc": "田景路, 田景邨田樂樓外",
+        "name_sc": "田景路, 田景邨田乐楼外",
+        "name_en": "Tin King Road, outside Tin Lok House, Tin King Estate"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20011693,
+        "name_tc": "田景路, 良景巴士總站外",
+        "name_sc": "田景路, 良景巴士总站外",
+        "name_en": "Tin King Road outside Leung King Bus Terminus"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20001402,
+        "name_tc": "田景路, 田景邨田裕樓外",
+        "name_sc": "田景路, 田景邨田裕楼外",
+        "name_en": "Tin King Road, outside Tin Yue House, Tin King Estate"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20001403,
+        "name_tc": "鳴琴路, 輕鐵石排站對面鳴琴路, 石排輕鐵對面",
+        "name_sc": "鸣琴路, 石排轻铁对面",
+        "name_en": "Ming Kum Road, opposite Shek Pai Light Rail Station"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20001404,
+        "name_tc": "石排頭路, 德雅工業中心對面",
+        "name_sc": "石排头路, 德雅工业中心对面",
+        "name_en": "Shek Pai Tau Road, opposite Delya Industrial Centre"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20001405,
+        "name_tc": "石排頭路, 保良局莊啟程第二小學外",
+        "name_sc": "石排头路, 保良局庄启程第二小学外",
+        "name_en": "Shek Pai Tau Road, outside Po Leung Kuk Vicwood K.T.Chong No.2 Primary School"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20001308,
+        "name_tc": "震寰路,大興政府合署外",
+        "name_sc": "震寰路,大兴政府合署外",
+        "name_en": "Tsun Wen Road, outside Tai Hing Government Offices"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20001309,
+        "name_tc": "震寰路, 巴士廠對面",
+        "name_sc": "震寰路, 巴士厂对面",
+        "name_en": "Tsun Wen Road, opposite Bus Depot"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20007761,
+        "name_tc": "震寰路, 屯門區總部及分區警署外",
+        "name_sc": "震寰路, 屯门区总部及分区警署外",
+        "name_en": "Tsun Wen Road, outside Tuen Mun District Headquarters & Division Police Station"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20001311,
+        "name_tc": "屯門站公共運輸交匯處",
+        "name_sc": "屯门站公共运输交汇处",
+        "name_en": "Tuen Mun Station Public Transport Interchange"
+      }
+    ],
+    "data_timestamp": "2024-09-01T00:00:36.348+08:00"
+  }
+}

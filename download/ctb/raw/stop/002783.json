@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:15:20+08:00",
+  "data": {
+    "stop": "002783",
+    "name_tc": "歌連臣角, 石澳道",
+    "name_en": "Cape Collinson, Shek O Road",
+    "lat": "22.256280742091",
+    "long": "114.23019457053",
+    "name_sc": "歌连臣角, 石澳道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

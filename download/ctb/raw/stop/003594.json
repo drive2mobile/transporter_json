@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:12:26+08:00",
+  "data": {
+    "stop": "003594",
+    "name_tc": "巧明街, 偉業街",
+    "name_en": "How Ming Street, Wai Yip Street",
+    "lat": "22.311967172091",
+    "long": "114.21956168053",
+    "name_sc": "巧明街, 伟业街",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

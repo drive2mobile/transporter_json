@@ -1,0 +1,122 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:27:10.036+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20000953,
+        "name_tc": "順安道, 近順天邨天榮樓",
+        "name_sc": "顺安道, 近顺天村天荣楼",
+        "name_en": "Shun On Road, near Tin Wing House, Shun Tin Estate"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20000952,
+        "name_tc": "利安道, 近順利邨利恒樓",
+        "name_sc": "利安道, 近顺利村利恒楼",
+        "name_en": "Lee On Road, near Lee Hang House, Shun Lee Estate"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20000954,
+        "name_tc": "新清水灣道, 近聖言中學",
+        "name_sc": "新清水湾道, 近圣言中学",
+        "name_en": "New Clear Water Bay Road, near Sing Yin Secondary School"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20001117,
+        "name_tc": "清水灣道, 近坪石邨鑽石樓",
+        "name_sc": "清水湾道, 近坪石村钻石楼",
+        "name_en": "Clear Water Bay Road, near Tsuen Shek House, Ping Shek Estate"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20015302,
+        "name_tc": "太子道東, 近新蒲崗交匯處休憩花園",
+        "name_sc": "太子道东, 近新蒲岗交汇处休憩花园",
+        "name_en": "Prince Edward Road East, near San Po Kong Interchange Rest Garden"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20015296,
+        "name_tc": "太子道西, 近九龍城二號污水泵房",
+        "name_sc": "太子道西, 近九龙城二号污水泵房",
+        "name_en": "Prince Edward Road West, near Kowloon City No.2 Sewage Pumping Station"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20015297,
+        "name_tc": "明倫街, 近翔龍灣第一座",
+        "name_sc": "明伦街, 近翔龙湾第一座",
+        "name_en": "Ming Lun Street, near Grand Waterfront Tower 1"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20015298,
+        "name_tc": "新碼頭街, 近九龍城碼頭",
+        "name_sc": "新码头街, 近九龙城码头",
+        "name_en": "San Ma Tau Street, near Kowloon City Ferry Pier"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20008189,
+        "name_tc": "馬頭角道, 近香港中華煤氣有限公司馬頭角控制中心",
+        "name_sc": "马头角道, 近香港中华煤气有限公司马头角控制中心",
+        "name_en": "Ma Tau Kok Road, near The Hong Kong & China Gas Company Limited Ma Tau Kok Control Centre"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20015299,
+        "name_tc": "馬頭涌道, 近香港家庭計劃指導會",
+        "name_sc": "马头涌道, 近香港家庭计划指导会",
+        "name_en": "Ma Tau Chung Road, near The Family Planning Association Of Hong Kong"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20014204,
+        "name_tc": "太子道東, 近永勝樓",
+        "name_sc": "太子道东, 近永胜楼 ",
+        "name_en": "Prince Edward Road East, near Wing Shing House"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20001964,
+        "name_tc": "太子道東, 近泰景工業大樓",
+        "name_sc": "太子道东, 近泰景工业大楼",
+        "name_en": "Prince Edward Road East, near Tai King Industrial Building"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20015300,
+        "name_tc": "太子道東, 近采頤花園",
+        "name_sc": "太子道东, 近采颐花园",
+        "name_en": "Prince Edward Road East, near Rhythm Garden"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20006002,
+        "name_tc": "清水灣道, 近清水灣道8號",
+        "name_sc": "清水湾道, 近清水湾道8号",
+        "name_en": "Clear Water Bay Road, near 8 Clear Water Bay Road"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20015301,
+        "name_tc": "新清水灣道, 近彩雲(一)邨白虹樓",
+        "name_sc": "新清水湾道, 近彩云(一)村白虹楼",
+        "name_en": "New Clear Water Bay Road, near Pak Hung House, Choi Wan (I) Estate"
+      },
+      {
+        "stop_seq": 16,
+        "stop_id": 20000953,
+        "name_tc": "順安道, 近順天邨天榮樓",
+        "name_sc": "顺安道, 近顺天邨天荣楼",
+        "name_en": "Shun On Road, near Tin Wing House, Shun Tin Estate"
+      }
+    ],
+    "data_timestamp": "2024-09-10T18:26:28.076+08:00"
+  }
+}

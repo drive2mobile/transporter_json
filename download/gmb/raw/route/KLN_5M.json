@@ -1,0 +1,238 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:27:15.384+08:00",
+  "data": [
+    {
+      "route_id": 2003537,
+      "region": "KLN",
+      "route_code": "5M",
+      "description_tc": "正常班次  ",
+      "description_sc": "正常班次  ",
+      "description_en": "Normal Route",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "窩打老道山(學餘里)",
+          "orig_sc": "窝打老道山(学余里)",
+          "orig_en": "Waterloo Hill (Hok Yu Lane)",
+          "dest_tc": "旺角站(循環線)",
+          "dest_sc": "旺角站(循环线)",
+          "dest_en": "Mong Kok Station(Circular)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "06:30:00",
+              "end_time": "07:00:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 2,
+              "start_time": "09:30:00",
+              "end_time": "10:00:00",
+              "frequency": 15,
+              "frequency_upper": 20
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 3,
+              "start_time": "16:00:00",
+              "end_time": "17:10:00",
+              "frequency": 15,
+              "frequency_upper": 20
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 4,
+              "start_time": "17:10:00",
+              "end_time": "19:10:00",
+              "frequency": 12,
+              "frequency_upper": 15
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 5,
+              "start_time": "19:10:00",
+              "end_time": "22:55:00",
+              "frequency": 15,
+              "frequency_upper": 20
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 6,
+              "start_time": "07:00:00",
+              "end_time": "10:00:00",
+              "frequency": 15,
+              "frequency_upper": 20
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 7,
+              "start_time": "16:00:00",
+              "end_time": "23:00:00",
+              "frequency": 15,
+              "frequency_upper": 20
+            }
+          ],
+          "data_timestamp": "2024-09-05T09:58:25.953+08:00"
+        }
+      ],
+      "data_timestamp": "2024-09-05T09:58:25.953+08:00"
+    },
+    {
+      "route_id": 2003538,
+      "region": "KLN",
+      "route_code": "5M",
+      "description_tc": "特別班次",
+      "description_sc": "特別班次",
+      "description_en": "Special Departures",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "窩打老道山(學餘里)",
+          "orig_sc": "窝打老道山(学余里)",
+          "orig_en": "Waterloo Hill (Hok Yu Lane)",
+          "dest_tc": "旺角站(循環線)(經花園街)",
+          "dest_sc": "旺角站(循环线)(经花园街)",
+          "dest_en": "Mong Kok Station(Circular)(via Fa Yuen Street)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "07:00:00",
+              "end_time": "09:30:00",
+              "frequency": 10,
+              "frequency_upper": 20
+            }
+          ],
+          "data_timestamp": "2024-09-05T09:58:25.953+08:00"
+        }
+      ],
+      "data_timestamp": "2024-09-05T09:58:25.953+08:00"
+    },
+    {
+      "route_id": 2003570,
+      "region": "KLN",
+      "route_code": "5M",
+      "description_tc": "特別班次 ",
+      "description_sc": "特別班次 ",
+      "description_en": "Special Departures",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "窩打老道山(學餘里)",
+          "orig_sc": "窝打老道山(学余里)",
+          "orig_en": "Waterloo Hill (Hok Yu Lane)",
+          "dest_tc": "旺角站(循環線)(經亞皆老街)",
+          "dest_sc": "旺角站(循环线)(经亚皆老街)",
+          "dest_en": "Mong Kok Station(Circular)(via Argyle Street)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "10:00:00",
+              "end_time": "16:00:00",
+              "frequency": 15,
+              "frequency_upper": 20
+            }
+          ],
+          "data_timestamp": "2024-09-05T09:58:25.953+08:00"
+        }
+      ],
+      "data_timestamp": "2024-09-05T09:58:25.953+08:00"
+    }
+  ]
+}

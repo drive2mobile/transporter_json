@@ -1,0 +1,73 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:29:47.166+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20006602,
+        "name_tc": "快富街, 工業貿易署大樓外",
+        "name_sc": "快富街, 工业贸易署大楼外",
+        "name_en": "Fife Street, outside Trade And Industry Department Tower"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20002198,
+        "name_tc": "獅子山隧道公路新田圍邨外的巴士停車灣",
+        "name_sc": "狮子山隧道公路新田围邨外的巴士停车湾",
+        "name_en": "Bus lay-by at Lion Rock Tunnel Road outside Sun Tin Wai Estate"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20002120,
+        "name_tc": "沙角街, 沙角邨外",
+        "name_sc": "沙角街, 沙角邨外",
+        "name_en": "Sha Kok Street, outside Sha Kok Estate"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20002307,
+        "name_tc": "沙角街, 沙角邨金鶯樓外",
+        "name_sc": "沙角街, 沙角邨金莺楼外",
+        "name_en": "Sha Kok Street, outside Oriole House, Sha Kok Estate"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20001549,
+        "name_tc": "橫壆街, 好運中心外",
+        "name_sc": "横壆街, 好运中心外",
+        "name_en": "Wang Pok Street, outside Lucky Plaza"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20001515,
+        "name_tc": "德厚街, 禾輋邨德和樓外",
+        "name_sc": "德厚街, 禾輋邨德和楼外",
+        "name_en": "Tak Hau Street, outside Tak Wo House, Wo Che Estate"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20002229,
+        "name_tc": "樂景街, 火炭站外",
+        "name_sc": "乐景街, 火炭站外",
+        "name_en": "Lok King Street, outside Fo Tan Station"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20002230,
+        "name_tc": "樂景街, 銀禧花園對面",
+        "name_sc": "乐景街, 银禧花园对面",
+        "name_en": "Lok King Street, opposite Jubilee Garden"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20010669,
+        "name_tc": "樂信徑駿景園外的巴士停車灣",
+        "name_sc": "乐信径骏景园外的巴士停车湾",
+        "name_en": "Bus lay-by at Lok Shun Path outside Royal Ascot"
+      }
+    ],
+    "data_timestamp": "2024-07-31T17:09:14.050+08:00"
+  }
+}

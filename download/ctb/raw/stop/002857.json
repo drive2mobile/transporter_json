@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:15:26+08:00",
+  "data": {
+    "stop": "002857",
+    "name_tc": "醫局街, 南昌街",
+    "name_en": "Yee Kuk Street, Nam Cheong Street",
+    "lat": "22.326769622091",
+    "long": "114.16126679053",
+    "name_sc": "医局街, 南昌街",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:14:02+08:00",
+  "data": {
+    "stop": "002890",
+    "name_tc": "泓景臺, 深盛路",
+    "name_en": "Banyan Garden, Sham Shing Road",
+    "lat": "22.333776402091",
+    "long": "114.14831424053",
+    "name_sc": "泓景台, 深盛路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

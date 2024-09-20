@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:16:23+08:00",
+  "data": {
+    "stop": "001585",
+    "name_tc": "快富街, 新填地街",
+    "name_en": "Fife Street, Reclamation Street",
+    "lat": "22.319756552091",
+    "long": "114.16747074053",
+    "name_sc": "快富街, 新填地街",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

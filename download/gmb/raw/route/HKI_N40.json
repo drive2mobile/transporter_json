@@ -1,0 +1,82 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:26:24.814+08:00",
+  "data": [
+    {
+      "route_id": 2001264,
+      "region": "HKI",
+      "route_code": "N40",
+      "description_tc": "凌晨班次",
+      "description_sc": "凌晨班次",
+      "description_en": "Overnight Service",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "赤柱村",
+          "orig_sc": "赤柱村",
+          "orig_en": "Stanley Village",
+          "dest_tc": "渣甸街",
+          "dest_sc": "渣甸街",
+          "dest_en": "Jardine's Bazaar",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "00:00:00",
+              "end_time": "06:00:00",
+              "frequency": 20,
+              "frequency_upper": 20
+            }
+          ],
+          "data_timestamp": "2024-09-19T16:32:41.168+08:00"
+        },
+        {
+          "route_seq": 2,
+          "orig_tc": "渣甸街",
+          "orig_sc": "渣甸街",
+          "orig_en": "Jardine's Bazaar",
+          "dest_tc": "赤柱村",
+          "dest_sc": "赤柱村",
+          "dest_en": "Stanley Village",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "00:00:00",
+              "end_time": "06:00:00",
+              "frequency": 20,
+              "frequency_upper": 20
+            }
+          ],
+          "data_timestamp": "2024-09-19T16:32:41.168+08:00"
+        }
+      ],
+      "data_timestamp": "2024-09-19T16:32:41.168+08:00"
+    }
+  ]
+}

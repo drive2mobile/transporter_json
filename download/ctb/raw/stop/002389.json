@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:11:20+08:00",
+  "data": {
+    "stop": "002389",
+    "name_tc": "深灣",
+    "name_en": "Sham Wan",
+    "lat": "22.243326112091",
+    "long": "114.16413796053",
+    "name_sc": "深湾",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

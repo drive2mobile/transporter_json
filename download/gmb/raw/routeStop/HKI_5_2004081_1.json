@@ -1,0 +1,122 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:26:02.491+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20011237,
+        "name_tc": "南寧街,海晶閣外",
+        "name_sc": "南宁街,海晶阁外",
+        "name_en": "Nam Ning Street, outside Hoi Tsing Court"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20009832,
+        "name_tc": "香港仔大道178號",
+        "name_sc": "香港仔大道178号",
+        "name_en": "No.178 Aberdeen Main Road"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20011613,
+        "name_tc": "黃竹坑道23號",
+        "name_sc": "黄竹坑道23号",
+        "name_en": "Wong Chuk Hang Road, house no. 23"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20000240,
+        "name_tc": "黃竹坑道49號",
+        "name_sc": "黄竹坑道49号",
+        "name_en": "Wong Chuk Hang Road, house no. 49"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20007038,
+        "name_tc": "黃竹坑道, 黃竹坑新圍外",
+        "name_sc": "黄竹坑道, 黄竹坑新围外",
+        "name_en": "Wong Chuk Hang Road, outside Wong Chuk Hang San Wai"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20011238,
+        "name_tc": "壽山村道3A號",
+        "name_sc": "寿山村道3A号",
+        "name_en": "Shouson Hill Road, house no. 3A"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20011239,
+        "name_tc": "壽山村道, 近壽臣山道西",
+        "name_sc": "寿山村道, 近寿臣山道西",
+        "name_en": "Shouson Hill Road, near Shouson Hill Road West"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20011240,
+        "name_tc": "壽臣山道東1號",
+        "name_sc": "寿臣山道东1号",
+        "name_en": "Shouson Hill Road East, house no. 1"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20011241,
+        "name_tc": "深水灣道, 文禮苑外",
+        "name_sc": "深水湾道, 文礼苑外",
+        "name_en": "Deep Water Bay Road, outside Manderly Garden"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20011242,
+        "name_tc": "深水灣道, 近Rockybank",
+        "name_sc": "深水湾道, 近Rockybank",
+        "name_en": "Deep Water Bay Road, near Rockybank"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20011243,
+        "name_tc": "黃泥涌峽道, 香港木球會對面",
+        "name_sc": "黄泥涌峡道, 香港木球会对面",
+        "name_en": "Wong Nai Chung Gap Road, opposite Hong Kong Cricket Club"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20011244,
+        "name_tc": "藍塘道, 近箕璉坊",
+        "name_sc": "蓝塘道, 近箕琏坊",
+        "name_en": "Blue Pool Road, near Green Lane"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20011245,
+        "name_tc": "黃泥涌道11-11A號",
+        "name_sc": "黄泥涌道11-11A号",
+        "name_en": "Wong Nai Chung Road, house no. 11-11A"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20000048,
+        "name_tc": "摩理臣山道 80-82 號",
+        "name_sc": "摩理臣山道 80-82 号",
+        "name_en": "No. 80-82 Morrison Hill Road"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20011246,
+        "name_tc": "駱克道,銅鑼灣廣場一期外",
+        "name_sc": "骆克道,铜锣湾广场一期外",
+        "name_en": "Lockhart Road, outside Causeway Bay Plaza Phase 1"
+      },
+      {
+        "stop_seq": 16,
+        "stop_id": 20011247,
+        "name_tc": "謝斐道, 波斯富街",
+        "name_sc": "谢斐道, 波斯富街",
+        "name_en": "Jaffe Road,Percival Street"
+      }
+    ],
+    "data_timestamp": "2024-08-22T09:21:06.181+08:00"
+  }
+}

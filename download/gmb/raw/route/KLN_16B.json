@@ -1,0 +1,218 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:44:10.320+08:00",
+  "data": [
+    {
+      "route_id": 2004632,
+      "region": "KLN",
+      "route_code": "16B",
+      "description_tc": "特別班次",
+      "description_sc": "特别班次 ",
+      "description_en": "Supplementary Service Route ",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "曉暉花園",
+          "orig_sc": "晓晖花园",
+          "orig_en": "Scenic View",
+          "dest_tc": "坪石公共運輸交匯處",
+          "dest_sc": "坪石公共运输交汇处",
+          "dest_en": "Ping Shek Public Transport Interchange",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "06:00:00",
+              "end_time": "10:00:00",
+              "frequency": 6,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 2,
+              "start_time": "10:00:00",
+              "end_time": "16:00:00",
+              "frequency": 12,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 3,
+              "start_time": "16:00:00",
+              "end_time": "18:00:00",
+              "frequency": 6,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 4,
+              "start_time": "18:00:00",
+              "end_time": "21:00:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 5,
+              "start_time": "21:00:00",
+              "end_time": "23:00:00",
+              "frequency": 12,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-09-10T18:26:28.098+08:00"
+        },
+        {
+          "route_seq": 2,
+          "orig_tc": "坪石公共運輸交匯處",
+          "orig_sc": "坪石公共运输交汇处",
+          "orig_en": "Ping Shek Public Transport Interchange",
+          "dest_tc": "曉暉花園",
+          "dest_sc": "曉暉花園",
+          "dest_en": "Scenic View",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "06:00:00",
+              "end_time": "10:00:00",
+              "frequency": 6,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 2,
+              "start_time": "10:00:00",
+              "end_time": "16:00:00",
+              "frequency": 12,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 3,
+              "start_time": "16:00:00",
+              "end_time": "18:00:00",
+              "frequency": 6,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 4,
+              "start_time": "18:00:00",
+              "end_time": "21:00:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 5,
+              "start_time": "21:00:00",
+              "end_time": "23:00:00",
+              "frequency": 12,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-09-10T18:26:28.098+08:00"
+        }
+      ],
+      "data_timestamp": "2024-09-10T18:26:28.098+08:00"
+    }
+  ]
+}

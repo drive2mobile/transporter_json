@@ -1,0 +1,218 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:27:36.157+08:00",
+  "data": [
+    {
+      "route_id": 2006318,
+      "region": "KLN",
+      "route_code": "8M",
+      "description_tc": "正常班次",
+      "description_sc": "正常班次",
+      "description_en": "Normal Trips",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "何文田(常和街)",
+          "orig_sc": "何文田(常和街)",
+          "orig_en": "Ho Man Tin (Sheung Wo Street)",
+          "dest_tc": "何文田站",
+          "dest_sc": "何文田站",
+          "dest_en": "Ho Man Tin Station",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "06:00:00",
+              "end_time": "07:00:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 2,
+              "start_time": "07:00:00",
+              "end_time": "10:00:00",
+              "frequency": 8,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 3,
+              "start_time": "10:00:00",
+              "end_time": "17:00:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 4,
+              "start_time": "17:00:00",
+              "end_time": "20:00:00",
+              "frequency": 8,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 5,
+              "start_time": "20:00:00",
+              "end_time": "23:15:00",
+              "frequency": 15,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-09-05T09:58:25.949+08:00"
+        },
+        {
+          "route_seq": 2,
+          "orig_tc": "何文田站",
+          "orig_sc": "何文田站",
+          "orig_en": "Ho Man Tin Station",
+          "dest_tc": "何文田(常和街)",
+          "dest_sc": "何文田(常和街)",
+          "dest_en": "Ho Man Tin (Sheung Wo Street)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "06:15:00",
+              "end_time": "07:00:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 2,
+              "start_time": "07:00:00",
+              "end_time": "10:00:00",
+              "frequency": 8,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 3,
+              "start_time": "10:00:00",
+              "end_time": "17:00:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 4,
+              "start_time": "17:00:00",
+              "end_time": "20:00:00",
+              "frequency": 8,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 5,
+              "start_time": "20:00:00",
+              "end_time": "23:30:00",
+              "frequency": 15,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-09-05T09:58:25.949+08:00"
+        }
+      ],
+      "data_timestamp": "2024-09-05T09:58:25.949+08:00"
+    }
+  ]
+}

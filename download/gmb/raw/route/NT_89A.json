@@ -1,0 +1,219 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:30:46.163+08:00",
+  "data": [
+    {
+      "route_id": 2007992,
+      "region": "NT",
+      "route_code": "89A",
+      "description_tc": "額外班次",
+      "description_sc": "額外班次",
+      "description_en": "Supplementary Service",
+      "effective_date": "2024-09-29T00:00:00.000+08:00",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "荃灣(河背街)",
+          "orig_sc": "荃湾(河背街)",
+          "orig_en": "Tsuen Wan (Ho Pui Street)",
+          "dest_tc": "葵興站",
+          "dest_sc": "葵兴站",
+          "dest_en": "Kwai Hing Station",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "06:35:00",
+              "end_time": "10:00:00",
+              "frequency": 8,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 2,
+              "start_time": "10:00:00",
+              "end_time": "16:00:00",
+              "frequency": 12,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 3,
+              "start_time": "16:00:00",
+              "end_time": "20:00:00",
+              "frequency": 8,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 4,
+              "start_time": "20:00:00",
+              "end_time": "22:00:00",
+              "frequency": 12,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 5,
+              "start_time": "22:00:00",
+              "end_time": "23:20:00",
+              "frequency": 18,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2022-11-14T15:37:10.825+08:00"
+        },
+        {
+          "route_seq": 2,
+          "orig_tc": "葵興站",
+          "orig_sc": "葵兴站",
+          "orig_en": "Kwai Hing Station",
+          "dest_tc": "荃灣(河背街)",
+          "dest_sc": "荃湾(河背街)",
+          "dest_en": "Tsuen Wan (Ho Pui Street)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "06:50:00",
+              "end_time": "10:00:00",
+              "frequency": 8,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 2,
+              "start_time": "10:00:00",
+              "end_time": "16:00:00",
+              "frequency": 12,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 3,
+              "start_time": "16:00:00",
+              "end_time": "20:00:00",
+              "frequency": 8,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 4,
+              "start_time": "20:00:00",
+              "end_time": "22:00:00",
+              "frequency": 12,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 5,
+              "start_time": "22:00:00",
+              "end_time": "23:00:00",
+              "frequency": 18,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2022-11-14T15:37:10.825+08:00"
+        }
+      ],
+      "data_timestamp": "2022-11-14T15:37:10.825+08:00"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:07:48+08:00",
+  "data": {
+    "stop": "001158",
+    "name_tc": "香港禮賓府, 上亞厘畢道",
+    "name_en": "Government House, Upper Albert Road",
+    "lat": "22.278848112091",
+    "long": "114.15636631053",
+    "name_sc": "香港礼宾府, 上亚厘毕道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

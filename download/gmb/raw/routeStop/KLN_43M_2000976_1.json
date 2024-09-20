@@ -1,0 +1,87 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:27:03.355+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20000620,
+        "name_tc": "櫻桃街, 奧海城第二期外小巴總站",
+        "name_sc": "樱桃街, 奥海城第二期外小巴总站",
+        "name_en": "Cherry Street, Public Light Bus Terminus Outside Olympian City Phase Ii"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20000866,
+        "name_tc": "海景街, 匯豐中心1座外",
+        "name_sc": "海景街, 汇丰中心1座外",
+        "name_en": "Hoi King Street, outside Hkbc Centre Tower 1"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20000867,
+        "name_tc": "海景街,匯豐中心第3座外",
+        "name_sc": "海景街,汇丰中心第3座外",
+        "name_en": "Hoi King Street, outside Hkbc Centre Tower 3"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20006101,
+        "name_tc": "海泓道海富苑",
+        "name_sc": "海泓道海富苑",
+        "name_en": "Hoi Fu Court, Hoi Wang Road"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20000868,
+        "name_tc": "海泓道, 富榮花園第10座外",
+        "name_sc": "海泓道, 富荣花园第10座外",
+        "name_en": "Hoi Wang Road, outside Block 10, Charming Garden"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20008380,
+        "name_tc": "砵蘭街近油麻地鐵路站",
+        "name_sc": "砵兰街近油麻地铁路站",
+        "name_en": "Portland Street near Yau Ma Tei Station"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20000870,
+        "name_tc": "上海街312號",
+        "name_sc": "上海街312号",
+        "name_en": "No.312 Shanghai Street"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20007073,
+        "name_tc": "欣翔道, 近渡船街",
+        "name_sc": "欣翔道, 近渡船街",
+        "name_en": "Yan Cheung Road near Ferry Street"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20000872,
+        "name_tc": "海泓道, 富榮花園第3座外",
+        "name_sc": "海泓道, 富荣花园第3座外",
+        "name_en": "Hoi Wang Road, outside Block 3 Charming Garden"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20006102,
+        "name_tc": "海泓道柏景灣",
+        "name_sc": "海泓道柏景湾",
+        "name_en": "Park Avenue, Hoi Wang Road"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20000620,
+        "name_tc": "櫻桃街, 奧海城第二期外小巴總站",
+        "name_sc": "樱桃街, 奥海城第二期外小巴总站",
+        "name_en": "Cherry Street, Public Light Bus Terminus Outside Olympian City Phase Ii"
+      }
+    ],
+    "data_timestamp": "2024-08-13T15:25:58.009+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:16:58+08:00",
+  "data": {
+    "stop": "001815",
+    "name_tc": "德田邨德樂樓, 碧雲道",
+    "name_en": "Tak Lok House Tak Tin Estate, Pik Wan Road",
+    "lat": "22.309306852091",
+    "long": "114.23903345053",
+    "name_sc": "德田邨德乐楼, 碧云道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

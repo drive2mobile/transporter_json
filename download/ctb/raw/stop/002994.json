@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:08:37+08:00",
+  "data": {
+    "stop": "002994",
+    "name_tc": "何文田邨",
+    "name_en": "Ho Man Tin Estate",
+    "lat": "22.317451822091",
+    "long": "114.18142469053",
+    "name_sc": "何文田邨",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

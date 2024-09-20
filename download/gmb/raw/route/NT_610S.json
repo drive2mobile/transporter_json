@@ -1,0 +1,133 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:29:42.029+08:00",
+  "data": [
+    {
+      "route_id": 2001161,
+      "region": "NT",
+      "route_code": "610S",
+      "description_tc": "正常班次",
+      "description_sc": "正常班次",
+      "description_en": "Normal Route",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "天水圍天瑞邨",
+          "orig_sc": "天水围天瑞村",
+          "orig_en": "Tin Shui Wai (Tin Shui Estate)",
+          "dest_tc": "尖沙咀海防道",
+          "dest_sc": "尖沙咀海防道",
+          "dest_en": "Tsim Sha Tsui (Haipong Road)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "00:00:00",
+              "end_time": "03:00:00",
+              "frequency": 12,
+              "frequency_upper": 12
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 2,
+              "start_time": "03:00:00",
+              "end_time": "05:00:00",
+              "frequency": 15,
+              "frequency_upper": 15
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 3,
+              "start_time": "23:40:00",
+              "end_time": "23:59:00",
+              "frequency": 12,
+              "frequency_upper": 12
+            }
+          ],
+          "data_timestamp": "2024-08-15T13:18:11.557+08:00"
+        },
+        {
+          "route_seq": 2,
+          "orig_tc": "尖沙咀海防道",
+          "orig_sc": "尖沙咀海防道",
+          "orig_en": "Tsim Sha Tsui (Haiphong Road)",
+          "dest_tc": "天水圍天瑞邨",
+          "dest_sc": "天水围天瑞村",
+          "dest_en": "Tin Shui Wai (Tin Shui Estate)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "00:00:00",
+              "end_time": "03:00:00",
+              "frequency": 12,
+              "frequency_upper": 12
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 2,
+              "start_time": "03:00:00",
+              "end_time": "06:05:00",
+              "frequency": 15,
+              "frequency_upper": 15
+            }
+          ],
+          "data_timestamp": "2024-08-15T13:18:11.557+08:00"
+        }
+      ],
+      "data_timestamp": "2024-08-15T13:18:11.557+08:00"
+    }
+  ]
+}

@@ -1,0 +1,270 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:27:06.406+08:00",
+  "data": [
+    {
+      "route_id": 2004593,
+      "region": "KLN",
+      "route_code": "44M",
+      "description_tc": "正常班次",
+      "description_sc": "正常班次",
+      "description_en": "Normal Departure",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "昂船洲",
+          "orig_sc": "昂船洲",
+          "orig_en": "Stonecutters Island",
+          "dest_tc": "長沙灣(長順街)",
+          "dest_sc": "长沙湾(长顺街)",
+          "dest_en": "Cheung Sha Wan (Cheung Shun Street)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "06:50:00",
+              "end_time": "08:50:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 2,
+              "start_time": "09:15:00",
+              "end_time": "16:15:00",
+              "frequency": 30,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 3,
+              "start_time": "06:50:00",
+              "end_time": "18:50:00",
+              "frequency": 30,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 4,
+              "start_time": "19:10:00",
+              "end_time": "19:10:00",
+              "frequency": null,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-08-07T17:33:18.060+08:00"
+        },
+        {
+          "route_seq": 2,
+          "orig_tc": "長沙灣(長順街)",
+          "orig_sc": "长沙湾(长顺街)",
+          "orig_en": "Cheung Sha Wan (Cheung Shun Street)",
+          "dest_tc": "昂船洲",
+          "dest_sc": "昂船洲",
+          "dest_en": "Stonecutters Island",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "06:30:00",
+              "end_time": "09:00:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 2,
+              "start_time": "09:00:00",
+              "end_time": "16:00:00",
+              "frequency": 30,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 3,
+              "start_time": "06:30:00",
+              "end_time": "19:00:00",
+              "frequency": 30,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-08-07T17:33:18.060+08:00"
+        }
+      ],
+      "data_timestamp": "2024-08-07T17:33:18.060+08:00"
+    },
+    {
+      "route_id": 2004595,
+      "region": "KLN",
+      "route_code": "44M",
+      "description_tc": "特別班次 (不經長茂街班次)",
+      "description_sc": "特别班次 (不经长茂街班次)",
+      "description_en": "Special Departure (Departures omit Cheung Mou Street)",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "昂船洲",
+          "orig_sc": "昂船洲",
+          "orig_en": "Stonecutters Island",
+          "dest_tc": "長沙灣(長順街)",
+          "dest_sc": "长沙湾(长顺街)",
+          "dest_en": "Cheung Sha Wan (Cheung Shun Street)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "16:15:00",
+              "end_time": "18:50:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 2,
+              "start_time": "19:10:00",
+              "end_time": "19:10:00",
+              "frequency": null,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-08-07T17:33:18.058+08:00"
+        }
+      ],
+      "data_timestamp": "2024-08-07T17:33:18.058+08:00"
+    },
+    {
+      "route_id": 2005022,
+      "region": "KLN",
+      "route_code": "44M",
+      "description_tc": "特別班次 (不經長裕街班次)",
+      "description_sc": "特别班次 (不经长裕街班次)",
+      "description_en": "Special Departure (Departures omit Cheung Yue Street)",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "長沙灣(長順街)",
+          "orig_sc": "长沙湾(长顺街)",
+          "orig_en": "Cheung Sha Wan (Cheung Shun Street)",
+          "dest_tc": "昂船洲",
+          "dest_sc": "昂船洲",
+          "dest_en": "Stonecutters Island",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "16:00:00",
+              "end_time": "19:00:00",
+              "frequency": 15,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-08-07T17:33:18.060+08:00"
+        }
+      ],
+      "data_timestamp": "2024-08-07T17:33:18.060+08:00"
+    }
+  ]
+}

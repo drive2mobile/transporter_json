@@ -1,0 +1,38 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:28:03.236+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20001149,
+        "name_tc": "寶琳公共運輸交匯處",
+        "name_sc": "宝琳公共运输交汇处",
+        "name_en": "Po Lam Public Transport Interchange"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20014683,
+        "name_tc": "寶琳北路, 景林邨景棉樓對面",
+        "name_sc": "宝琳北路, 景林邨景棉楼对面",
+        "name_en": "Po Lam Road North, opposite King Min House, King Lam Estate"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20001171,
+        "name_tc": "寶寧路, 厚德邨對面",
+        "name_sc": "宝宁路, 厚德邨对面",
+        "name_en": "Po Ning Road, opposite Hau Tak Estate"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20014679,
+        "name_tc": "寶寧里, 近將軍澳醫院",
+        "name_sc": "宝宁里, 近将军澳医院",
+        "name_en": "Po Ning Lane, near Tseung Kwan O Hospital"
+      }
+    ],
+    "data_timestamp": "2024-07-31T17:47:24.291+08:00"
+  }
+}

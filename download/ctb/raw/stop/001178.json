@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:13:16+08:00",
+  "data": {
+    "stop": "001178",
+    "name_tc": "香港站, 民祥街",
+    "name_en": "Hong Kong Station, Man Cheung Street",
+    "lat": "22.285205812091",
+    "long": "114.15761230053",
+    "name_sc": "香港站, 民祥街",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

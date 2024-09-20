@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:07:15+08:00",
+  "data": {
+    "stop": "001415",
+    "name_tc": "平治街, 漆咸道北",
+    "name_en": "Ping Chi Street, Chatham Road North",
+    "lat": "22.309564142091",
+    "long": "114.18459248053",
+    "name_sc": "平治街, 漆咸道北",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

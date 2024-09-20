@@ -1,0 +1,45 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:31:00.989+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20016007,
+        "name_tc": "荃灣站",
+        "name_sc": "荃湾站",
+        "name_en": "Tsuen Wan Station"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20001877,
+        "name_tc": "青山公路荃灣段287號",
+        "name_sc": "青山公路荃湾段287号",
+        "name_en": "No.287 Castle Peak Road-Tsuen Wan"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20016003,
+        "name_tc": "青山公路-荃灣段413號外",
+        "name_sc": "青山公路-荃湾段413号外",
+        "name_en": "Castle Peak Road-Tsuen Wan outside House No. 413"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20016012,
+        "name_tc": "青山公路-荃灣段491-501號外",
+        "name_sc": "青山公路-荃湾段491-501号外",
+        "name_en": "Castle Peak Road-Tsuen Wan outside House No. 491-501"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20002606,
+        "name_tc": "碧堤半島",
+        "name_sc": "碧堤半岛",
+        "name_en": "Bellagio"
+      }
+    ],
+    "data_timestamp": "2022-10-27T00:05:39.899+08:00"
+  }
+}

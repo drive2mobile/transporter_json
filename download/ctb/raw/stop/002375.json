@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:12:48+08:00",
+  "data": {
+    "stop": "002375",
+    "name_tc": "舂坎角海灘, 舂磡角道",
+    "name_en": "Chung Hom Kok Beach, Chung Hom Kok Road",
+    "lat": "22.216125122091",
+    "long": "114.20500513053",
+    "name_sc": "舂坎角海滩, 舂磡角道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

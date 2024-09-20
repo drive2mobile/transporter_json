@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:13:53+08:00",
+  "data": {
+    "stop": "002928",
+    "name_tc": "日出康城領都, 環保大道",
+    "name_en": "Le Prestige LOHAS Park, Wan Po Road",
+    "lat": "22.294212732091",
+    "long": "114.27339453053",
+    "name_sc": "日出康城领都, 环保大道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

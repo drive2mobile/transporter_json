@@ -1,0 +1,108 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:27:02.062+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20013722,
+        "name_tc": "又一城",
+        "name_sc": "又一城",
+        "name_en": "Festival Walk"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20013721,
+        "name_tc": "達之路, 近又一村花園 Sherborne",
+        "name_sc": "达之路, 近又一村花园 Sherborne ",
+        "name_en": "TAT CHEE AVENUE, near Sherborne, VILLAGE GARDENS"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20013723,
+        "name_tc": "達之路, 近又一村花園 Lyndhurst",
+        "name_sc": "达之路, 近又一村花园 Lyndhurst ",
+        "name_en": "TAT CHEE AVENUE, near Lyndhurst, VILLAGE GARDENS"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20013739,
+        "name_tc": "瑰麗路, 近瑰麗新村第２座",
+        "name_sc": "瑰丽路, 近瑰丽新村第２座 ",
+        "name_en": "GRANDEUR ROAD, near Grandeur Villa Block 2"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20013740,
+        "name_tc": "龍珠街, 近大坑東邨二號遊樂場",
+        "name_sc": "龙珠街, 近大坑东村二号游乐场 ",
+        "name_en": "LUNG CHU STREET, near TAI HANG TUNG ESTATE PLAYGROUND NO. 2"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20013741,
+        "name_tc": "大坑東道, 近大坑東邨東海樓",
+        "name_sc": "大坑东道, 近大坑东村东海楼 ",
+        "name_en": "TAI HANG TUNG ROAD, near Tung Hoi House, TAI HANG TUNG ESTATE"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20013727,
+        "name_tc": "窩仔街, 近大坑西新邨民樂樓",
+        "name_sc": "窝仔街, 近大坑西新村民乐楼 ",
+        "name_en": "WOH CHAI STREET, near Man Lok House, TAI HANG SAI ESTATE"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20013728,
+        "name_tc": "窩仔街, 近中華基督教會銘賢書院",
+        "name_sc": "窝仔街, 近中华基督教会铭贤书院 ",
+        "name_en": "WOH CHAI STREET, near The Church of Christ in China Ming Yin College"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20006915,
+        "name_tc": "巴域街, 石硤尾街市外",
+        "name_sc": "巴域街, 石硖尾街市外",
+        "name_en": "Nam Cheong Street, outside Public Health Laboratory Centre"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20000519,
+        "name_tc": "窩仔街, 銘賢書院外",
+        "name_sc": "窝仔街, 铭贤书院外",
+        "name_en": "Woh Chai Street, outside Ming Yin College"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20013742,
+        "name_tc": "大坑東道, 近南山邨南安樓",
+        "name_sc": "大坑东道, 近南山村南安楼 ",
+        "name_en": "TAI HANG TUNG ROAD, near Nam On House, NAM SHAN ESTATE"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20013743,
+        "name_tc": "瑰麗路, 近又一居第７座",
+        "name_sc": "瑰丽路, 近又一居第７座 ",
+        "name_en": "GRANDEUR ROAD, near Parc Oasis Tower 7"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20013734,
+        "name_tc": "達之路, 近賽馬會環保樓",
+        "name_sc": "达之路, 近赛马会环保楼 ",
+        "name_en": "TAT CHEE AVENUE, near The Jockey Club Environmental Building"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20013735,
+        "name_tc": "又一城",
+        "name_sc": "又一城",
+        "name_en": "Festival Walk"
+      }
+    ],
+    "data_timestamp": "2022-09-15T12:06:27.786+08:00"
+  }
+}

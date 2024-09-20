@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:14:30+08:00",
+  "data": {
+    "stop": "003130",
+    "name_tc": "香港科技大學, 大學道",
+    "name_en": "HK University of Science and Technology, University Road",
+    "lat": "22.338591932091",
+    "long": "114.26202701053",
+    "name_sc": "香港科技大学, 大学道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:07:49+08:00",
+  "data": {
+    "stop": "002435",
+    "name_tc": "杜老誌道, 軒尼詩道",
+    "name_en": "Tonnochy Road, Hennessy Road",
+    "lat": "22.278720922091",
+    "long": "114.17909682053",
+    "name_sc": "杜老志道, 轩尼诗道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

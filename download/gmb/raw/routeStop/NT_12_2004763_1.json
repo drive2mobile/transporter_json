@@ -1,0 +1,192 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:27:59.663+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20001149,
+        "name_tc": "寶琳公共運輸交匯處",
+        "name_sc": "宝琳公共运输交汇处",
+        "name_en": "Po Lam Public Transport Interchange"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20001150,
+        "name_tc": "寶琳北路, 樂善堂劉德小學外",
+        "name_sc": "宝琳北路, 乐善堂刘德小学外",
+        "name_en": "Po Lam Road North, outside Lok Sin Tong Lau Tak Primary School"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20001151,
+        "name_tc": "寶琳北路, 寶琳邨寶仁樓外",
+        "name_sc": "宝琳北路, 宝琳邨宝仁楼外",
+        "name_en": "Po Lam Road North, outside Po Yan House, Po Lam Estate"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20010616,
+        "name_tc": "寶琳北路, 翠林邨對面",
+        "name_sc": "宝琳北路, 翠林邨对面",
+        "name_en": "Po Lam Road North, near Tsui Lam Estate"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20002021,
+        "name_tc": "寶琳北路, 康盛花園對面",
+        "name_sc": "宝琳北路, 康盛花园对面",
+        "name_en": "Po Lam Road North, opposite Hong Sing Garden"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20001152,
+        "name_tc": "寶琳路, 近馬游塘",
+        "name_sc": "宝琳路, 近马游塘",
+        "name_en": "Po Lam Road, near Ma Yau Tong"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20003282,
+        "name_tc": "寶琳路, 寶達邨外",
+        "name_sc": "宝琳路, 宝达邨外",
+        "name_en": "Po Lam Road, outside Po Tat Estate"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20017257,
+        "name_tc": "秀茂坪邨, 秀樂樓外",
+        "name_sc": "秀茂坪村, 秀乐楼外",
+        "name_en": "Sau Mau Ping Road, Outside Sau Lok House"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20001154,
+        "name_tc": "秀茂坪道, 秀義樓外",
+        "name_sc": "秀茂坪道, 秀义楼外",
+        "name_en": "Sau Mau Ping Road, outside Sau Yee House"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20012436,
+        "name_tc": "順安道, 寧波第二中學外",
+        "name_sc": "顺安道, 宁波第二中学外",
+        "name_en": "Shun On Road, Outisde Ning Po No.2 College"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20000953,
+        "name_tc": "順天邨",
+        "name_sc": "顺天邨",
+        "name_en": "Shun Tin Estate"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20012437,
+        "name_tc": "利安道順利巴士總站外",
+        "name_sc": "利安道顺利巴士总站外",
+        "name_en": "Shun Lee Bus Terminus"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20012438,
+        "name_tc": "順利消防局, 利安道",
+        "name_sc": "顺利消防局, 利安道",
+        "name_en": "Shun Lee Fire Station, Lee On Road"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20012439,
+        "name_tc": "順利邨道, 順利邨利康樓外",
+        "name_sc": "顺利邨道, 顺利邨利康楼外",
+        "name_en": "Shun Lee Tsuen Road, outside Lee Hong House, Shun Lee Estate"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20012440,
+        "name_tc": "順利邨道, 順安邨安頌樓外",
+        "name_sc": "顺利邨道, 顺安邨安颂楼外",
+        "name_en": "Shun Lee Tsuen Road, outside On Chung House, Shun On Estate"
+      },
+      {
+        "stop_seq": 16,
+        "stop_id": 20012441,
+        "name_tc": "順利邨道, 迦密梁省德學校外",
+        "name_sc": "顺利邨道, 迦密梁省德学校外",
+        "name_en": "Shun Lee Tsuen Road, outside Carmel Leung Sing Tak School"
+      },
+      {
+        "stop_seq": 17,
+        "stop_id": 20000983,
+        "name_tc": "秀茂坪道, 聯合醫院對面",
+        "name_sc": "秀茂坪道, 联合医院对面",
+        "name_en": "Sau Mau Ping Road, opposite United Christian Hospital"
+      },
+      {
+        "stop_seq": 18,
+        "stop_id": 20002030,
+        "name_tc": "秀茂坪道, 寧波第二中學外",
+        "name_sc": "秀茂坪道, 宁波第二中学外",
+        "name_en": "Sau Mau Ping Road, outside Ning Po No.2 College"
+      },
+      {
+        "stop_seq": 19,
+        "stop_id": 20007878,
+        "name_tc": "秀茂坪道, 秀程樓對面",
+        "name_sc": "秀茂坪道, 秀程楼对面",
+        "name_en": "Sau Mau Ping Road, opposite Sau Ching House"
+      },
+      {
+        "stop_seq": 20,
+        "stop_id": 20003266,
+        "name_tc": "寶琳路, 寶達邨對面",
+        "name_sc": "宝琳路, 宝达邨对面",
+        "name_en": "Po Lam Road, opposite Po Tat Estate"
+      },
+      {
+        "stop_seq": 21,
+        "stop_id": 20002032,
+        "name_tc": "寶琳路, 近馬游塘",
+        "name_sc": "宝琳路, 近马游塘",
+        "name_en": "Po Lam Road near Ma Yau Tong"
+      },
+      {
+        "stop_seq": 22,
+        "stop_id": 20002033,
+        "name_tc": "寶琳北路, 康盛花園外",
+        "name_sc": "宝琳北路, 康盛花园外",
+        "name_en": "Po Lam Road North, outside Hong Sing Garden"
+      },
+      {
+        "stop_seq": 23,
+        "stop_id": 20002020,
+        "name_tc": "寶琳北路, 翠林邨外",
+        "name_sc": "宝琳北路, 翠林邨外",
+        "name_en": "Po Lam Road North, near Tsui Lam Estate"
+      },
+      {
+        "stop_seq": 24,
+        "stop_id": 20001169,
+        "name_tc": "寶琳北路, 寶仁樓對面",
+        "name_sc": "宝琳北路, 宝仁楼对面",
+        "name_en": "Po Lam Road North, opposite Po Yan House"
+      },
+      {
+        "stop_seq": 25,
+        "stop_id": 20002005,
+        "name_tc": "寶琳北路, 英明苑對面",
+        "name_sc": "宝琳北路, 英明苑对面",
+        "name_en": "Po Lam Road North, opposite Ying Ming Court"
+      },
+      {
+        "stop_seq": 26,
+        "stop_id": 20001149,
+        "name_tc": "寶琳公共運輸交匯處",
+        "name_sc": "宝琳公共运输交汇处",
+        "name_en": "Po Lam Public Transport Interchange"
+      }
+    ],
+    "data_timestamp": "2024-09-10T18:35:53.055+08:00"
+  }
+}

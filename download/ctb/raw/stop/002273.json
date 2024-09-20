@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:11:13+08:00",
+  "data": {
+    "stop": "002273",
+    "name_tc": "赤柱峽道交匯處, 赤柱峽道",
+    "name_en": "Stanley Gap Road Interchange, Stanley Gap Road",
+    "lat": "22.224874892091",
+    "long": "114.21427843053",
+    "name_sc": "赤柱峡道交汇处, 赤柱峡道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

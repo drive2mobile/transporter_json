@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:15:44+08:00",
+  "data": {
+    "stop": "003417",
+    "name_tc": "馬頭壩道",
+    "name_en": "Ma Tau Pa Road",
+    "lat": "22.366612592091",
+    "long": "114.11531645053",
+    "name_sc": "马头坝道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

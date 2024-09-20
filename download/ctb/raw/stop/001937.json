@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:16:03+08:00",
+  "data": {
+    "stop": "001937",
+    "name_tc": "兆山苑, 龍門路",
+    "name_en": "Siu Shan Court, Lung Mun Road",
+    "lat": "22.377683392091",
+    "long": "113.96164627053",
+    "name_sc": "兆山苑, 龙门路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:12:43+08:00",
+  "data": {
+    "stop": "002365",
+    "name_tc": "漁光村海鷗樓, 漁光道",
+    "name_en": "Hoy Au Lau Yue Kwong Chuen, Yue Kwong Road",
+    "lat": "22.251929752091",
+    "long": "114.15786263053",
+    "name_sc": "渔光村海鸥楼, 渔光道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

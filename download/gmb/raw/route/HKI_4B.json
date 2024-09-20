@@ -1,0 +1,186 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:25:58.161+08:00",
+  "data": [
+    {
+      "route_id": 2004096,
+      "region": "HKI",
+      "route_code": "4B",
+      "description_tc": "正常班次",
+      "description_sc": "正常班次",
+      "description_en": "Normal Departure",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "香港仔(石排灣)",
+          "orig_sc": "香港仔(石排湾)",
+          "orig_en": "Aberdeen (Shek Pai Wan)",
+          "dest_tc": "灣仔(循環線)",
+          "dest_sc": "湾仔(循环线)",
+          "dest_en": "Wan Chai (Circular)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "09:00:00",
+              "end_time": "17:00:00",
+              "frequency": 7,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 2,
+              "start_time": "17:00:00",
+              "end_time": "19:00:00",
+              "frequency": 5,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 3,
+              "start_time": "19:00:00",
+              "end_time": "20:00:00",
+              "frequency": 7,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 4,
+              "start_time": "20:00:00",
+              "end_time": "23:30:00",
+              "frequency": 8,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 5,
+              "start_time": "06:00:00",
+              "end_time": "07:00:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 6,
+              "start_time": "07:00:00",
+              "end_time": "09:00:00",
+              "frequency": 8,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 7,
+              "start_time": "09:00:00",
+              "end_time": "17:00:00",
+              "frequency": 7,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 8,
+              "start_time": "17:00:00",
+              "end_time": "19:00:00",
+              "frequency": 6,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 9,
+              "start_time": "19:00:00",
+              "end_time": "23:30:00",
+              "frequency": 8,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-08-22T09:21:06.173+08:00"
+        }
+      ],
+      "data_timestamp": "2024-08-22T09:21:06.173+08:00"
+    }
+  ]
+}

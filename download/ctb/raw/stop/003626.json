@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:16:28+08:00",
+  "data": {
+    "stop": "003626",
+    "name_tc": "模範鄉, 新潭路",
+    "name_en": "Mo Fan Heung, San Tam Road",
+    "lat": "22.461706202091",
+    "long": "114.05328358053",
+    "name_sc": "模范乡, 新潭路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

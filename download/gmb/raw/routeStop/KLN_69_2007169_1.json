@@ -1,0 +1,45 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:27:19.328+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20015118,
+        "name_tc": "麗港城小巴總站",
+        "name_sc": "丽港城小巴总站",
+        "name_en": "Laguna City Minibus Terminus"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20015014,
+        "name_tc": "茶果嶺道, 近麗港城管理服務中心",
+        "name_sc": "茶果岭道, 近丽港城管理服务中心",
+        "name_en": "Cha Kwo Ling Road, near Management Services Centre, Laguna City"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20015015,
+        "name_tc": "偉業街, 近麗港城第十二座",
+        "name_sc": "伟业街, 近丽港城第十二座",
+        "name_en": "Wai Yip Street, near Laguna City Block 12"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20007017,
+        "name_tc": "宏照道, 國際交易中心對面",
+        "name_sc": "宏照道, 国际交易中心对面",
+        "name_en": "Wang Chiu Road, opposite Exchange Tower"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20015225,
+        "name_tc": "常怡道, 近零碳天地組裝合成建築法展現中心",
+        "name_sc": "常怡道, 近零碳天地组装合成建筑法展现中心",
+        "name_en": "Sheung Yee Road, near Modular Integrated Construction Display Centre, Zero Carbon Building"
+      }
+    ],
+    "data_timestamp": "2024-09-02T12:44:07.239+08:00"
+  }
+}

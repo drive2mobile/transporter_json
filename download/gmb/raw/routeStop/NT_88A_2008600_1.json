@@ -1,0 +1,66 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:30:38.715+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20014127,
+        "name_tc": "青康路, 近美景花園第七座",
+        "name_sc": "青康路, 近美景花园第七座 ",
+        "name_en": "Ching Hong Road, Near Mayfair Gardens Block 7"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20012808,
+        "name_tc": "青衣鄉事會路, 近青衣已婚警察宿舍Ａ座",
+        "name_sc": "青衣乡事会路, 近青衣已婚警察宿舍Ａ座 ",
+        "name_en": "Tsing Yi Heung Sze Wui Road, Near Tsing Yi Police Married Quarters Block A"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20016752,
+        "name_tc": "青綠街, 近青綠街花園",
+        "name_sc": "青绿街, 近青绿街花园",
+        "name_en": "Tsing Luk Street, Near Tsing Luk Street Garden"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20016753,
+        "name_tc": "港鐵青衣站小巴總站",
+        "name_sc": "港铁青衣站小巴总站",
+        "name_en": "Tsing Yi MTR Station Minibus Terminus"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20001730,
+        "name_tc": "長安邨小巴總站",
+        "name_sc": "长安邨小巴总站",
+        "name_en": "Cheung On Estate Minibus Terminus"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20016748,
+        "name_tc": "青綠街, 近青綠街花園",
+        "name_sc": "青绿街, 近青绿街花园",
+        "name_en": "Tsing Luk Street, Near Tsing Luk Street Garden"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20012810,
+        "name_tc": "青衣鄉事會路, 近翠怡花園第三座",
+        "name_sc": "青衣乡事会路, 近翠怡花园第三座 ",
+        "name_en": "Tsing Yi Heung Sze Wui Road, Near Greenfield Garden Block 3"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20014127,
+        "name_tc": "青康路, 近美景花園第七座",
+        "name_sc": "青康路, 近美景花园第七座 ",
+        "name_en": "Ching Hong Road, Near Mayfair Gardens Block 7"
+      }
+    ],
+    "data_timestamp": "2024-06-03T15:39:49.367+08:00"
+  }
+}

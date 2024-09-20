@@ -1,0 +1,66 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:29:53.869+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20010695,
+        "name_tc": "沙田站",
+        "name_sc": "沙田站",
+        "name_en": "Sha Tin Station"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20001556,
+        "name_tc": "大涌橋路, 近河畔花園",
+        "name_sc": "大涌桥路, 近河畔花园",
+        "name_en": "Tai Chung Kiu Road, Near Garden Rivera"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20001557,
+        "name_tc": "大涌橋路, 富豪花園對面",
+        "name_sc": "大涌桥路, 富豪花园对面",
+        "name_en": "Tai Chung Kiu Road, opposite Belair Gardens"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20006610,
+        "name_tc": "小瀝源路, 小瀝源路遊樂場外",
+        "name_sc": "小沥源路, 小沥源路游乐场外",
+        "name_en": "Siu Lek Yuen Road, outside Siu Lek Yuen Road Playground"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20017329,
+        "name_tc": "小瀝源路, 近小瀝源路遊樂場",
+        "name_sc": "小沥源路, 近小沥源路游乐场",
+        "name_en": "Siu Lek Yuen Road, Near Siu Lek Yuen Road Playground"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20007465,
+        "name_tc": "安明街, 石門站外",
+        "name_sc": "安明街, 石门站外",
+        "name_en": "On Ming Street, Outside Shek Mun Station"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20001551,
+        "name_tc": "小瀝源路, 帝堡城外",
+        "name_sc": "小沥源路, 帝堡城外",
+        "name_en": "Siu Lei Yuen Road, Outside Castello"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20001544,
+        "name_tc": "黃泥頭巴士總站",
+        "name_sc": "黄泥头巴士总站",
+        "name_en": "Wong Nai Tau Bus Terminus"
+      }
+    ],
+    "data_timestamp": "2024-07-31T17:09:14.054+08:00"
+  }
+}

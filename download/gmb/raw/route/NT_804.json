@@ -1,0 +1,278 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:30:12.398+08:00",
+  "data": [
+    {
+      "route_id": 2002194,
+      "region": "NT",
+      "route_code": "804",
+      "description_tc": "正常班次",
+      "description_sc": "正常班次",
+      "description_en": "Normal Route",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "廣源",
+          "orig_sc": "广源",
+          "orig_en": "Kwong Yuen",
+          "dest_tc": "顯徑",
+          "dest_sc": "显径",
+          "dest_en": "Hin Keng",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "06:00:00",
+              "end_time": "10:30:00",
+              "frequency": 5,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 2,
+              "start_time": "10:30:00",
+              "end_time": "15:30:00",
+              "frequency": 6,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 3,
+              "start_time": "15:30:00",
+              "end_time": "19:30:00",
+              "frequency": 5,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 4,
+              "start_time": "19:30:00",
+              "end_time": "23:00:00",
+              "frequency": 6,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-08-20T17:28:58.181+08:00"
+        },
+        {
+          "route_seq": 2,
+          "orig_tc": "顯徑",
+          "orig_sc": "显径",
+          "orig_en": "Hin Keng",
+          "dest_tc": "廣源",
+          "dest_sc": "广源",
+          "dest_en": "Kwong Yuen",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "06:00:00",
+              "end_time": "10:30:00",
+              "frequency": 5,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 2,
+              "start_time": "10:30:00",
+              "end_time": "15:30:00",
+              "frequency": 6,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 3,
+              "start_time": "15:30:00",
+              "end_time": "19:30:00",
+              "frequency": 5,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 4,
+              "start_time": "19:30:00",
+              "end_time": "23:00:00",
+              "frequency": 6,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-08-20T17:28:58.181+08:00"
+        }
+      ],
+      "data_timestamp": "2024-08-20T17:28:58.181+08:00"
+    },
+    {
+      "route_id": 2002196,
+      "region": "NT",
+      "route_code": "804",
+      "description_tc": "特別班次",
+      "description_sc": "特別班次",
+      "description_en": "Special Departure",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "廣源",
+          "orig_sc": "广源",
+          "orig_en": "Kwong Yuen",
+          "dest_tc": "顯徑",
+          "dest_sc": "显径",
+          "dest_en": "Hin Keng",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "06:00:00",
+              "end_time": "07:00:00",
+              "frequency": 20,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 2,
+              "start_time": "07:18:00",
+              "end_time": "08:12:00",
+              "frequency": 18,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 3,
+              "start_time": "08:31:00",
+              "end_time": "08:50:00",
+              "frequency": 19,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 4,
+              "start_time": "09:10:00",
+              "end_time": "09:30:00",
+              "frequency": 20,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-08-07T13:55:13.817+08:00"
+        }
+      ],
+      "data_timestamp": "2024-08-07T13:55:13.817+08:00"
+    }
+  ]
+}

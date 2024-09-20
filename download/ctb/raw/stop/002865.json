@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:15:27+08:00",
+  "data": {
+    "stop": "002865",
+    "name_tc": "大同新村, 大角咀道",
+    "name_en": "Tai Tung Sun Chuen, Tai Kok Tsui Road",
+    "lat": "22.321746272091",
+    "long": "114.16187722053",
+    "name_sc": "大同新村, 大角咀道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

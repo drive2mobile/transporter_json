@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:08:48+08:00",
+  "data": {
+    "stop": "001375",
+    "name_tc": "太寧街, 惠亨街",
+    "name_en": "Tai Ning Street, Wai Hang Street",
+    "lat": "22.281800712091",
+    "long": "114.22049840053",
+    "name_sc": "太宁街, 惠亨街",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

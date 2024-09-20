@@ -1,0 +1,108 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:44:04.009+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20000101,
+        "name_tc": "舂磡角道, 海暉花園外",
+        "name_sc": "舂磡角道, 海晖花园外",
+        "name_en": "Chung Hom Kok Road, outside Pacific View"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20009505,
+        "name_tc": "環角道, 馬坑邨觀馬樓對面",
+        "name_sc": "环角道, 马坑邨观马楼对面",
+        "name_en": "Cape Road, opposite Koon Ma House, Ma Hang Estate"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20009506,
+        "name_tc": "環角道, 龍欣苑龍駿閣對面",
+        "name_sc": "环角道, 龙欣苑龙骏阁对面 ",
+        "name_en": "Cape Road, opposite Lung Chun House, Lung Yan Court"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20000246,
+        "name_tc": "赤柱廣場（馬坑）",
+        "name_sc": "赤柱广场（马坑） ",
+        "name_en": "Carmel Road, Stanley Plaza"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20000099,
+        "name_tc": "赤柱灘道大潭村外",
+        "name_sc": "赤柱滩道大潭村外",
+        "name_en": "Stanley Beach Road, outside Tai Tam Village"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20003129,
+        "name_tc": "赤柱村道",
+        "name_sc": "赤柱村道",
+        "name_en": "Stanley Village Road"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20003065,
+        "name_tc": "大潭道",
+        "name_sc": "大潭道",
+        "name_en": "Tai Tam Road"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20003441,
+        "name_tc": "大潭道, 紅山半島對面",
+        "name_sc": "大潭道, 红山半岛对面",
+        "name_en": "Tai Tam Road, opposite The Red Hill Peninisula"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20003442,
+        "name_tc": "大潭道, 近大潭水塘道",
+        "name_sc": "大潭道, 近大潭水塘道",
+        "name_en": "Tai Tam Road, near Tai Tam Reservoir Road"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20004002,
+        "name_tc": "大潭道, 大潭水塘大霸北面",
+        "name_sc": "大潭道, 大潭水塘大霸北面",
+        "name_en": "Tai Tam Road, Tai Tam Dam (North)"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20003351,
+        "name_tc": "大潭峽",
+        "name_sc": "大潭峽",
+        "name_en": "Tai Tam Gap"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20003467,
+        "name_tc": "山翠苑",
+        "name_sc": "山翠苑",
+        "name_en": "Shan Tsui Court"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20003464,
+        "name_tc": "柴灣道, 循道衛理聯合教會興華村服務中心對面",
+        "name_sc": "柴湾道, 循道卫理联合教会兴华村服务中心对面",
+        "name_en": "Chai Wan Road, opposite The Methodist Church Epworth Village Community Centre"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20000102,
+        "name_tc": "港鐵柴灣站巴士總站",
+        "name_sc": "港铁柴湾站巴士总站",
+        "name_en": "Chai Wan Station Bus Terminus"
+      }
+    ],
+    "data_timestamp": "2024-09-19T16:33:10.056+08:00"
+  }
+}

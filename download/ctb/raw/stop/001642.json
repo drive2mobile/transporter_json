@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:03:33+08:00",
+  "data": {
+    "stop": "001642",
+    "name_tc": "天主教伍華中學, 彩虹道",
+    "name_en": "Ng Wah Catholic Secondary School, Choi Hung Road",
+    "lat": "22.333238172091",
+    "long": "114.19538309053",
+    "name_sc": "天主教伍华中学, 彩虹道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

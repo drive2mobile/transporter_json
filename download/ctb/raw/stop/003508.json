@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:10:47+08:00",
+  "data": {
+    "stop": "003508",
+    "name_tc": "廣華醫院, 窩打老道",
+    "name_en": "Kwong Wah Hospital, Waterloo Road",
+    "lat": "22.315324522091",
+    "long": "114.17320536053",
+    "name_sc": "广华医院, 窝打老道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

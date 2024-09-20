@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:14:41+08:00",
+  "data": {
+    "stop": "002873",
+    "name_tc": "石硤尾街, 大埔道",
+    "name_en": "Shek Kip Mei Street, Tai Po Road",
+    "lat": "22.330996832091",
+    "long": "114.16547736053",
+    "name_sc": "石硖尾街, 大埔道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,402 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:27:03.262+08:00",
+  "data": [
+    {
+      "route_id": 2000976,
+      "region": "KLN",
+      "route_code": "43M",
+      "description_tc": "正常班次",
+      "description_sc": "正常班次",
+      "description_en": "Normal Route",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "大角咀(櫻桃街)",
+          "orig_sc": "大角咀(樱桃街)",
+          "orig_en": "Tai Kok Tsui (Cherry Street)",
+          "dest_tc": "油麻地港鐵站(循環線)",
+          "dest_sc": "油麻地港铁站(循环线)",
+          "dest_en": "Yau Ma Tei MTR Station (Circular)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "06:00:00",
+              "end_time": "23:00:00",
+              "frequency": 5,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-08-13T15:25:58.009+08:00"
+        }
+      ],
+      "data_timestamp": "2024-08-13T15:25:58.009+08:00"
+    },
+    {
+      "route_id": 2000977,
+      "region": "KLN",
+      "route_code": "43M",
+      "description_tc": "晚間服務",
+      "description_sc": "晚间服务",
+      "description_en": "Night Service",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "旺角(柏景灣)巴士總站",
+          "orig_sc": "旺角(柏景湾)巴士总站",
+          "orig_en": "Mong Kok (Park Avenue) Bus Terminus",
+          "dest_tc": "油麻地港鐵站(循環線)",
+          "dest_sc": "油麻地港铁站(循环线)",
+          "dest_en": "Yau Ma Tei MTR Station (Circular)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "23:00:00",
+              "end_time": "00:00:00",
+              "frequency": 15,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-08-13T15:25:58.009+08:00"
+        }
+      ],
+      "data_timestamp": "2024-08-13T15:25:58.009+08:00"
+    },
+    {
+      "route_id": 2000978,
+      "region": "KLN",
+      "route_code": "43M",
+      "description_tc": "短程服務路線2.0",
+      "description_sc": "短程服务路线2.0 ",
+      "description_en": "Short-working Service 2.0",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "旺角(柏景灣)巴士總站",
+          "orig_sc": "旺角(柏景湾)巴士总站",
+          "orig_en": "Mong Kok (Park Avenue) Bus Terminus",
+          "dest_tc": "油麻地港鐵站(循環線)",
+          "dest_sc": "油麻地港铁站(循环线)",
+          "dest_en": "Yau Ma Tei MTR Station (Circular)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "07:00:00",
+              "end_time": "08:00:00",
+              "frequency": 5,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 2,
+              "start_time": "09:00:00",
+              "end_time": "10:30:00",
+              "frequency": 5,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-08-13T15:25:58.009+08:00"
+        }
+      ],
+      "data_timestamp": "2024-08-13T15:25:58.009+08:00"
+    },
+    {
+      "route_id": 2000981,
+      "region": "KLN",
+      "route_code": "43M",
+      "description_tc": "短程服務路線2.1",
+      "description_sc": "短程服务路线2.1",
+      "description_en": "Short-working Service 2.1",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "旺角(柏景灣)巴士總站",
+          "orig_sc": "旺角(柏景湾)巴士总站",
+          "orig_en": "Mong Kok (Park Avenue) Bus Terminus",
+          "dest_tc": "油麻地港鐵站(循環線)",
+          "dest_sc": "油麻地港铁站(循环线)",
+          "dest_en": "Yau Ma Tei MTR Station (Circular)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "08:00:00",
+              "end_time": "09:00:00",
+              "frequency": 5,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-08-13T15:25:58.009+08:00"
+        }
+      ],
+      "data_timestamp": "2024-08-13T15:25:58.009+08:00"
+    },
+    {
+      "route_id": 2000982,
+      "region": "KLN",
+      "route_code": "43M",
+      "description_tc": "短程服務路線2.2",
+      "description_sc": "短程服务路线2.2",
+      "description_en": "Short-working Service 2.2",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "旺角(柏景灣)巴士總站",
+          "orig_sc": "旺角(柏景湾)巴士总站",
+          "orig_en": "Mong Kok (Park Avenue) Bus Terminus",
+          "dest_tc": "油麻地港鐵站(循環線)",
+          "dest_sc": "油麻地港铁站(循环线)",
+          "dest_en": "Yau Ma Tei MTR Station (Circular)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "10:30:00",
+              "end_time": "23:30:00",
+              "frequency": 10,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-08-13T15:25:58.009+08:00"
+        }
+      ],
+      "data_timestamp": "2024-08-13T15:25:58.009+08:00"
+    },
+    {
+      "route_id": 2000983,
+      "region": "KLN",
+      "route_code": "43M",
+      "description_tc": "早上特別服務路線",
+      "description_sc": "早上特别服务路线",
+      "description_en": "Special Morning Service",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "欣翔道(御金國峯)",
+          "orig_sc": "欣翔道(御金国峰)",
+          "orig_en": "Yan Cheung Road (The Coronation)",
+          "dest_tc": "油麻地港鐵站(循環線)",
+          "dest_sc": "油麻地港铁站(循环线)",
+          "dest_en": "Yau Ma Tei MTR Station(Circular)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "07:00:00",
+              "end_time": "10:30:00",
+              "frequency": 15,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2023-05-28T00:00:11.233+08:00"
+        }
+      ],
+      "data_timestamp": "2023-05-28T00:00:11.233+08:00"
+    },
+    {
+      "route_id": 2000985,
+      "region": "KLN",
+      "route_code": "43M",
+      "description_tc": "特別班次",
+      "description_sc": "特別班次",
+      "description_en": "Special Departure",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "油麻地港鐵站",
+          "orig_sc": "油麻地港铁站",
+          "orig_en": "Yau Ma Tei MTR Station",
+          "dest_tc": "海庭道(西九龍政府合署)",
+          "dest_sc": "海庭道(西九龙政府合署)",
+          "dest_en": "Hoi Ting Road (West Kowloon Government Offices)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "08:15:00",
+              "end_time": "09:00:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 2,
+              "start_time": "09:05:00",
+              "end_time": "09:20:00",
+              "frequency": 5,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 3,
+              "start_time": "09:20:00",
+              "end_time": "09:30:00",
+              "frequency": 10,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-07-31T11:27:54.280+08:00"
+        }
+      ],
+      "data_timestamp": "2024-07-31T11:27:54.280+08:00"
+    },
+    {
+      "route_id": 2000986,
+      "region": "KLN",
+      "route_code": "43M",
+      "description_tc": "特別班次",
+      "description_sc": "特別班次",
+      "description_en": "Special Departure",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "海庭道(西九龍政府合署)",
+          "orig_sc": "海庭道(西九龙政府合署)",
+          "orig_en": "Hoi Ting Road (West Kowloon Government Offices)",
+          "dest_tc": "油麻地港鐵站",
+          "dest_sc": "油麻地港铁站",
+          "dest_en": "Yau Ma Tei MTR Station",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "17:15:00",
+              "end_time": "18:15:00",
+              "frequency": 15,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-08-13T15:25:58.009+08:00"
+        }
+      ],
+      "data_timestamp": "2024-08-13T15:25:58.009+08:00"
+    }
+  ]
+}

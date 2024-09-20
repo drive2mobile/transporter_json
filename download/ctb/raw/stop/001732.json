@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:17:49+08:00",
+  "data": {
+    "stop": "001732",
+    "name_tc": "竹園街市, 竹園道",
+    "name_en": "Chuk Yuen Market, Chuk Yuen Road",
+    "lat": "22.345124952091",
+    "long": "114.19268061053",
+    "name_sc": "竹园街市, 竹园道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

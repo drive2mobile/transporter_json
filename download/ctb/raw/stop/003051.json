@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:14:53+08:00",
+  "data": {
+    "stop": "003051",
+    "name_tc": "家維邨, 馬頭圍道",
+    "name_en": "Ka Wai Chuen, Ma Tau Wai Road",
+    "lat": "22.307461912091",
+    "long": "114.18698397053",
+    "name_sc": "家维邨, 马头围道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

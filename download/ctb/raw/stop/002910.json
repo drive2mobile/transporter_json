@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:13:51+08:00",
+  "data": {
+    "stop": "002910",
+    "name_tc": "明德邨, 寶寧路",
+    "name_en": "Ming Tak Estate, Po Ning Road",
+    "lat": "22.317519292091",
+    "long": "114.26881290053",
+    "name_sc": "明德邨, 宝宁路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:08:56+08:00",
+  "data": {
+    "stop": "002792",
+    "name_tc": "太古城太湖閣, 太古城道",
+    "name_en": "Tai Woo Mansion Taikoo Shing, Taikoo Shing Road",
+    "lat": "22.284671572091",
+    "long": "114.22038694053",
+    "name_sc": "太古城太湖阁, 太古城道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

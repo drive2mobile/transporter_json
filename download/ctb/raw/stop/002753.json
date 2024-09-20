@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:09:58+08:00",
+  "data": {
+    "stop": "002753",
+    "name_tc": "文輝道 6 號, 文輝道",
+    "name_en": "6 Mansfield Road, Mansfield Road",
+    "lat": "22.265465032091",
+    "long": "114.16282940053",
+    "name_sc": "文辉道 6 号, 文辉道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

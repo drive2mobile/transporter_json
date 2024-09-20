@@ -1,0 +1,38 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:30:26.934+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20013022,
+        "name_tc": "樂信徑, 駿景園外",
+        "name_sc": "乐信径, 骏景园外",
+        "name_en": "Lok Shun Path, outside Royal Ascot"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20015711,
+        "name_tc": "樂景街, 銀禧花園外",
+        "name_sc": "乐景街, 银禧花园外",
+        "name_en": "Lok King Street, outside Jubilee Garden"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20015712,
+        "name_tc": "樂景街, 港鐵火炭站對面",
+        "name_sc": "乐景街, 港铁火炭站对面",
+        "name_en": "Lok King Street, opposite Fo Tan Station"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20002259,
+        "name_tc": "銀城街, 沙田第一城外",
+        "name_sc": "银城街, 沙田第一城外",
+        "name_en": "Ngan Shing Street, outside City One Shatin"
+      }
+    ],
+    "data_timestamp": "2024-08-20T17:28:58.175+08:00"
+  }
+}

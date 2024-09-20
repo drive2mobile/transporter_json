@@ -1,0 +1,184 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:29:26.318+08:00",
+  "data": [
+    {
+      "route_id": 2010005,
+      "region": "NT",
+      "route_code": "55S",
+      "description_tc": "輔助路線",
+      "description_sc": "辅助路线",
+      "description_en": "Supplementary Service",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "沙頭角公共運輸交匯處",
+          "orig_sc": "沙头角公共运输交汇处",
+          "orig_en": "Sha Tau Kok Public Transport Interchange",
+          "dest_tc": "打鼓嶺(松園下)",
+          "dest_sc": "打鼓岭(松园下)",
+          "dest_en": "Ta Kwu Ling (Tsung Yuen Ha)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "07:10:00",
+              "end_time": "07:10:00",
+              "frequency": 1,
+              "frequency_upper": 1
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 2,
+              "start_time": "17:00:00",
+              "end_time": "17:00:00",
+              "frequency": 1,
+              "frequency_upper": 1
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 3,
+              "start_time": "09:00:00",
+              "end_time": "09:00:00",
+              "frequency": 1,
+              "frequency_upper": 1
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 4,
+              "start_time": "17:35:00",
+              "end_time": "17:35:00",
+              "frequency": 1,
+              "frequency_upper": 1
+            }
+          ],
+          "data_timestamp": "2024-07-02T10:42:06.619+08:00"
+        },
+        {
+          "route_seq": 2,
+          "orig_tc": "打鼓嶺(松園下)",
+          "orig_sc": "打鼓岭(松园下)",
+          "orig_en": "Ta Kwu Ling (Tsung Yuen Ha)",
+          "dest_tc": "沙頭角公共運輸交匯處",
+          "dest_sc": "沙头角公共运输交汇处",
+          "dest_en": "Sha Tau Kok Public Transport Interchange",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "07:35:00",
+              "end_time": "07:35:00",
+              "frequency": 1,
+              "frequency_upper": 1
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 2,
+              "start_time": "17:25:00",
+              "end_time": "17:25:00",
+              "frequency": 1,
+              "frequency_upper": 1
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 3,
+              "start_time": "09:25:00",
+              "end_time": "09:25:00",
+              "frequency": 1,
+              "frequency_upper": 1
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 4,
+              "start_time": "18:00:00",
+              "end_time": "18:00:00",
+              "frequency": 1,
+              "frequency_upper": 1
+            }
+          ],
+          "data_timestamp": "2024-07-02T10:42:06.619+08:00"
+        }
+      ],
+      "data_timestamp": "2024-07-02T10:42:06.619+08:00"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:09:47+08:00",
+  "data": {
+    "stop": "002387",
+    "name_tc": "馬坑邨駿馬樓, 環角道",
+    "name_en": "Chun Ma House Ma Hang Estate, Cape Road",
+    "lat": "22.222205242091",
+    "long": "114.20584898053",
+    "name_sc": "马坑邨骏马楼, 环角道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

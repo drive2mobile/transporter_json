@@ -1,0 +1,38 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:25:59.254+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20011318,
+        "name_tc": "石排灣邨公共運輸交匯處",
+        "name_sc": "石排湾邨公共运输交汇处",
+        "name_en": "Shek Pai Wan Estate Public Transport Interchange"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20011237,
+        "name_tc": "南寧街,海晶閣外",
+        "name_sc": "南宁街,海晶阁外",
+        "name_en": "Nam Ning Street, outside Hoi Tsing Court"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20011613,
+        "name_tc": "黃竹坑道23號",
+        "name_sc": "黄竹坑道23号",
+        "name_en": "Wong Chuk Hang Road, house no. 23"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20011235,
+        "name_tc": "黃竹坑站",
+        "name_sc": "黄竹坑站",
+        "name_en": "Wong Chuk Hang Station"
+      }
+    ],
+    "data_timestamp": "2024-08-22T09:19:50.134+08:00"
+  }
+}

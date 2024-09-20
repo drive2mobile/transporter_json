@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:11:51+08:00",
+  "data": {
+    "stop": "002684",
+    "name_tc": "怡林閣, 摩星嶺道",
+    "name_en": "Greenery Garden, Mount Davis Road",
+    "lat": "22.274853452091",
+    "long": "114.12835904053",
+    "name_sc": "怡林阁, 摩星岭道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

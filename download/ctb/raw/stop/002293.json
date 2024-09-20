@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:09:50+08:00",
+  "data": {
+    "stop": "002293",
+    "name_tc": "大潭水塘 (北), 大潭道",
+    "name_en": "Tai Tam Reservoir (North), Tai Tam Road",
+    "lat": "22.246572512091",
+    "long": "114.22116928053",
+    "name_sc": "大潭水塘 (北), 大潭道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

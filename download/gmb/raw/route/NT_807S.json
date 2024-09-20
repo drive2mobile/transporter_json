@@ -1,0 +1,82 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:30:18.767+08:00",
+  "data": [
+    {
+      "route_id": 2001234,
+      "region": "NT",
+      "route_code": "807S",
+      "description_tc": "額外班次",
+      "description_sc": "  额外班次",
+      "description_en": "Supplementary Service",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "港鐵大學站巴士總站",
+          "orig_sc": "港铁大学站巴士总站",
+          "orig_en": "University Station Bus Terminus",
+          "dest_tc": "井頭村外",
+          "dest_sc": "井头村外",
+          "dest_en": "Tseng Tau Tsuen",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "06:45:00",
+              "end_time": "08:45:00",
+              "frequency": 15,
+              "frequency_upper": 15
+            }
+          ],
+          "data_timestamp": "2024-06-17T15:49:23.897+08:00"
+        },
+        {
+          "route_seq": 2,
+          "orig_tc": "井頭村",
+          "orig_sc": "井头村",
+          "orig_en": "Tseng Tau Tsuen",
+          "dest_tc": "港鐵大學站巴士總站",
+          "dest_sc": "港铁大学站巴士总站",
+          "dest_en": "University Station Bus Terminus",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "07:00:00",
+              "end_time": "09:30:00",
+              "frequency": 15,
+              "frequency_upper": 15
+            }
+          ],
+          "data_timestamp": "2024-06-17T15:49:23.897+08:00"
+        }
+      ],
+      "data_timestamp": "2024-06-17T15:49:23.897+08:00"
+    }
+  ]
+}

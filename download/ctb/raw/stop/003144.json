@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:14:09+08:00",
+  "data": {
+    "stop": "003144",
+    "name_tc": "石硤尾邨美盛樓, 南昌街",
+    "name_en": "Mei Shing House Shek Kip Mei Estate, Nam Cheong Street",
+    "lat": "22.333106772091",
+    "long": "114.16671601053",
+    "name_sc": "石硖尾邨美盛楼, 南昌街",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

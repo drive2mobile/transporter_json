@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:10:06+08:00",
+  "data": {
+    "stop": "002500",
+    "name_tc": "聶歌信山道, 司徒拔道",
+    "name_en": "Mount Nicholson Road, Stubbs Road",
+    "lat": "22.268599772091",
+    "long": "114.17634956053",
+    "name_sc": "聂歌信山道, 司徒拔道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

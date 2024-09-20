@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:10:18+08:00",
+  "data": {
+    "stop": "002213",
+    "name_tc": "香港真光書院, 利東邨道",
+    "name_en": "Hong Kong True Light College, Lei Tung Estate Road",
+    "lat": "22.241680522091",
+    "long": "114.15792123053",
+    "name_sc": "香港真光书院, 利东邨道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

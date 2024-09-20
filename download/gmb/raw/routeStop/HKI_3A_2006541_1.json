@@ -1,0 +1,73 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:25:51.884+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20014492,
+        "name_tc": "香港站小巴總站",
+        "name_sc": "香港站小巴总站",
+        "name_en": "Hong Kong Station Minibus Terminus"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20000026,
+        "name_tc": "紅棉路, 香港壁球中心外",
+        "name_sc": "红棉路, 香港壁球中心外",
+        "name_en": "Cotton Tree Drive, outside Hong Kong Squash Centre"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20014584,
+        "name_tc": "干德道, 近芝蘭台Ａ座",
+        "name_sc": "干德道, 近芝兰台Ａ座 ",
+        "name_en": "CONDUIT ROAD, near Botanic Terrace Block A"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20014543,
+        "name_tc": "干德道, 近Conduit 18",
+        "name_sc": "干德道, 近Conduit 18",
+        "name_en": "CONDUIT ROAD, near Conduit 18"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20014544,
+        "name_tc": "干德道, 近全景大廈第１座",
+        "name_sc": "干德道, 近全景大廈第１座 ",
+        "name_en": "CONDUIT ROAD, near Panorama Block 1"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20014545,
+        "name_tc": "干德道, 近敦皓",
+        "name_sc": "干德道, 近敦皓 ",
+        "name_en": "CONDUIT ROAD, near THE MORGAN"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20014546,
+        "name_tc": "干德道, 近年豐園二座",
+        "name_sc": "干德道, 近年丰园二座 ",
+        "name_en": "CONDUIT ROAD, near Skyline Mansion Block 2"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20014548,
+        "name_tc": "克頓道, 近慧苑Ａ座",
+        "name_sc": "克顿道, 近慧苑Ａ座 ",
+        "name_en": "HATTON ROAD, near Wisdom Court Block A"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20014549,
+        "name_tc": "旭龢道, 近赫頓大廈",
+        "name_sc": "旭和道, 近赫顿大厦 ",
+        "name_en": "KOTEWALL ROAD, near Hatton House"
+      }
+    ],
+    "data_timestamp": "2024-09-19T14:16:56.623+08:00"
+  }
+}

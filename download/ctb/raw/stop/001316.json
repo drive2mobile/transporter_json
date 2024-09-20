@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:05:13+08:00",
+  "data": {
+    "stop": "001316",
+    "name_tc": "西灣河站, 太安街",
+    "name_en": "Sai Wan Ho Station, Tai On Street",
+    "lat": "22.282354632091",
+    "long": "114.22239868053",
+    "name_sc": "西湾河站, 太安街",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

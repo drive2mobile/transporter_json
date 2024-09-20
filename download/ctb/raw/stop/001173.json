@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:06:55+08:00",
+  "data": {
+    "stop": "001173",
+    "name_tc": "恒生銀行總行大廈, 德輔道中",
+    "name_en": "Hang Seng Bank Headquarters, Des Voeux Road Central",
+    "lat": "22.284360062091",
+    "long": "114.15596819053",
+    "name_sc": "恒生银行总行大厦, 德辅道中",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

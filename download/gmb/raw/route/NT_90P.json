@@ -1,0 +1,184 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:30:51.883+08:00",
+  "data": [
+    {
+      "route_id": 2005649,
+      "region": "NT",
+      "route_code": "90P",
+      "description_tc": "正常班次",
+      "description_sc": "正常班次",
+      "description_en": "Normal Route",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "美孚",
+          "orig_sc": "美孚",
+          "orig_en": "Mei Foo",
+          "dest_tc": "瑪嘉烈醫院",
+          "dest_sc": "玛嘉烈医院",
+          "dest_en": "Princess Margaret Hospital",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "06:00:00",
+              "end_time": "07:00:00",
+              "frequency": 8,
+              "frequency_upper": 10
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 2,
+              "start_time": "07:00:00",
+              "end_time": "19:00:00",
+              "frequency": 6,
+              "frequency_upper": 8
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 3,
+              "start_time": "19:00:00",
+              "end_time": "22:00:00",
+              "frequency": 8,
+              "frequency_upper": 10
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 4,
+              "start_time": "22:00:00",
+              "end_time": "23:00:00",
+              "frequency": 15,
+              "frequency_upper": 20
+            }
+          ],
+          "data_timestamp": "2024-06-16T00:00:13.624+08:00"
+        },
+        {
+          "route_seq": 2,
+          "orig_tc": "瑪嘉烈醫院",
+          "orig_sc": "玛嘉烈医院",
+          "orig_en": "Princess Margaret Hospital",
+          "dest_tc": "美孚",
+          "dest_sc": "美孚",
+          "dest_en": "Mei Foo",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "06:00:00",
+              "end_time": "07:00:00",
+              "frequency": 8,
+              "frequency_upper": 10
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 2,
+              "start_time": "07:00:00",
+              "end_time": "19:00:00",
+              "frequency": 6,
+              "frequency_upper": 8
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 3,
+              "start_time": "19:00:00",
+              "end_time": "22:00:00",
+              "frequency": 8,
+              "frequency_upper": 10
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 4,
+              "start_time": "22:00:00",
+              "end_time": "23:15:00",
+              "frequency": 15,
+              "frequency_upper": 20
+            }
+          ],
+          "data_timestamp": "2024-06-16T00:00:13.624+08:00"
+        }
+      ],
+      "data_timestamp": "2024-06-16T00:00:13.624+08:00"
+    }
+  ]
+}

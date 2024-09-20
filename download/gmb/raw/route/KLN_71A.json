@@ -1,0 +1,118 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:27:21.798+08:00",
+  "data": [
+    {
+      "route_id": 2008289,
+      "region": "KLN",
+      "route_code": "71A",
+      "description_tc": "正常班次",
+      "description_sc": "正常班次",
+      "description_en": "Normal Departure",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "寶達邨",
+          "orig_sc": "宝达邨",
+          "orig_en": "Po Tat Estate",
+          "dest_tc": "藍田站 (循環線)",
+          "dest_sc": "蓝田站 (循环线)",
+          "dest_en": "Lam Tin Station (Circular)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "06:00:00",
+              "end_time": "07:00:00",
+              "frequency": 8,
+              "frequency_upper": 9
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 2,
+              "start_time": "07:00:00",
+              "end_time": "10:00:00",
+              "frequency": 4,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 3,
+              "start_time": "10:00:00",
+              "end_time": "16:00:00",
+              "frequency": 8,
+              "frequency_upper": 9
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 4,
+              "start_time": "16:00:00",
+              "end_time": "19:00:00",
+              "frequency": 4,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 5,
+              "start_time": "19:00:00",
+              "end_time": "00:30:00",
+              "frequency": 8,
+              "frequency_upper": 9
+            }
+          ],
+          "data_timestamp": "2024-08-23T17:58:12.008+08:00"
+        }
+      ],
+      "data_timestamp": "2024-08-23T17:58:12.008+08:00"
+    }
+  ]
+}

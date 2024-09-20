@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:08:25+08:00",
+  "data": {
+    "stop": "002294",
+    "name_tc": "耀中幼教學院, 田灣山道",
+    "name_en": "Yew Chung College of Early Childhood Education, Tin Wan Hill Road",
+    "lat": "22.250298772091",
+    "long": "114.14756291053",
+    "name_sc": "耀中幼教学院, 田湾山道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

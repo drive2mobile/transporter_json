@@ -1,0 +1,82 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:26:43.163+08:00",
+  "data": [
+    {
+      "route_id": 2008322,
+      "region": "KLN",
+      "route_code": "23",
+      "description_tc": "正常班次",
+      "description_sc": "正常班次",
+      "description_en": "Normal Departure",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "觀塘 (雲漢街)",
+          "orig_sc": "观塘 (云汉街)",
+          "orig_en": "Kwun Tong (Wan Hon Street)",
+          "dest_tc": "裕民坊公共運輸交匯處",
+          "dest_sc": "裕民坊公共运输交汇处",
+          "dest_en": "Yue Man Square Public Transport Interchange",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "07:15:00",
+              "end_time": "08:45:00",
+              "frequency": 30,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-03-14T11:34:12.534+08:00"
+        },
+        {
+          "route_seq": 2,
+          "orig_tc": "裕民坊公共運輸交匯處",
+          "orig_sc": "裕民坊公共运输交汇处",
+          "orig_en": "Yue Man Square Public Transport Interchange",
+          "dest_tc": "觀塘 (雲漢街)",
+          "dest_sc": "观塘 (云汉街)",
+          "dest_en": "Kwun Tong (Wan Hon Street)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "07:00:00",
+              "end_time": "09:00:00",
+              "frequency": 30,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-03-14T11:34:12.534+08:00"
+        }
+      ],
+      "data_timestamp": "2024-03-14T11:34:12.534+08:00"
+    }
+  ]
+}

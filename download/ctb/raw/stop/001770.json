@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:16:43+08:00",
+  "data": {
+    "stop": "001770",
+    "name_tc": "旺角警署, 彌敦道",
+    "name_en": "Mong Kok Police Station, Nathan Road",
+    "lat": "22.324568192091",
+    "long": "114.16836400053",
+    "name_sc": "旺角警署, 弥敦道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

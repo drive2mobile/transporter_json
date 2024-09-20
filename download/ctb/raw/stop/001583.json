@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:07:53+08:00",
+  "data": {
+    "stop": "001583",
+    "name_tc": "天保民學校, 聯福道",
+    "name_en": "Mary Rose School, Renfrew Road",
+    "lat": "22.335157402091",
+    "long": "114.18131365053",
+    "name_sc": "天保民学校, 联福道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

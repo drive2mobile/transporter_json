@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:16:52+08:00",
+  "data": {
+    "stop": "001758",
+    "name_tc": "慈愛苑愛富閣, 慈雲山道",
+    "name_en": "Oi Fu House Tsz Oi Court, Tsz Wan Shan Road",
+    "lat": "22.350659022091",
+    "long": "114.19929515053",
+    "name_sc": "慈爱苑爱富阁, 慈云山道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

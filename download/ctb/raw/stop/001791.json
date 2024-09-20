@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:17:00+08:00",
+  "data": {
+    "stop": "001791",
+    "name_tc": "油塘中心, 欣榮街",
+    "name_en": "Yau Tong Centre, Yan Wing Street",
+    "lat": "22.294496092091",
+    "long": "114.23922780053",
+    "name_sc": "油塘中心, 欣荣街",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

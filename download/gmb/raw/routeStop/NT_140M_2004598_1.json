@@ -1,0 +1,115 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:28:01.347+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20001372,
+        "name_tc": "三聖巴士總站",
+        "name_sc": "三圣巴士总站",
+        "name_en": "Sam Shing Bus Terminus"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20001349,
+        "name_tc": "青山公路青山灣段, 三聖邨進漁樓對面",
+        "name_sc": "青山公路青山湾段, 三圣邨进渔楼对面",
+        "name_en": "Castle Peak Road-Castle Peak Bay, opposite Chun Yu House Sam Shing Estate"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20002034,
+        "name_tc": "青山公路青山灣段, 青山灣花園外",
+        "name_sc": "青山公路青山湾段, 青山湾花园外",
+        "name_en": "Castle Peal Road-outside Castle Peak Bay Garden"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20008711,
+        "name_tc": "青山公路－青山灣段, 近海景花園８座",
+        "name_sc": "青山公路－青山湾段, 近海景花园８座",
+        "name_en": "Castle Peak Road - Castle Peak Bay, near Seaview Garden Block 8"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20002036,
+        "name_tc": "青山公路青山灣段, 咖啡灣",
+        "name_sc": "青山公路青山湾段, 咖啡湾",
+        "name_en": "Castle Peak Road-Castle Peak Bay, Cafeteria Beach"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20002037,
+        "name_tc": "青山公路青山灣段, 黃金泳灘",
+        "name_sc": "青山公路青山湾段, 黄金泳滩",
+        "name_en": "Castle Peak Road-Castle Peak Bay, Golden Beach"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20006914,
+        "name_tc": "青山公路-掃管笏段, 黃金海岸商場",
+        "name_sc": "青山公路-扫管笏段, 黄金海岸商场",
+        "name_en": "Castle Peak Road- So Kwun Wat, HK Gold Coast Marina Magic Shopping Mall"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20002057,
+        "name_tc": "青山公路－掃管笏段, 近香港黃金海岸二期第６座",
+        "name_sc": "青山公路－扫管笏段, 近香港黄金海岸二期第６座",
+        "name_en": "Castle Peak Road - So Kwun Wat, near Hong Kong Gold Coast Phase Ii Tower 6"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20002040,
+        "name_tc": "青山公路－大欖段, 近The Carmel",
+        "name_sc": "青山公路－大榄段, 近The Carmel",
+        "name_en": "Castle Peak Road - Tai Lam, near The Carmel"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20002058,
+        "name_tc": "青山公路大欖段,文豪別墅對面",
+        "name_sc": "青山公路大榄段,文豪别墅对面",
+        "name_en": "Castle Peak Road-Tai Lam, opposite Ivanhoe Villa"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20002043,
+        "name_tc": "青山公路大欖段, 懲教署已婚宿舍對面",
+        "name_sc": "青山公路大榄段, 惩教署已婚宿舍对面",
+        "name_en": "Castle Peak Road-Tai Lam, opposite CSD Married Staff Quarters"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20002044,
+        "name_tc": "青衣西路青華遊樂場對面",
+        "name_sc": "青衣西路, 青华游乐场对面",
+        "name_en": "Tsing Yi Road West opposite to Tsing Wah Playground"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20012319,
+        "name_tc": "青衣西路, 近長亨邨亨翠樓",
+        "name_sc": "青衣西路, 近长亨邨亨翠楼",
+        "name_en": "Tsing Yi Road West, near Hang Chui House, Cheung Hang Estate"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20008024,
+        "name_tc": "青敬路牙鷹洲花園外的停車灣",
+        "name_sc": "青敬路牙鹰洲花园外的停车湾",
+        "name_en": "Tsing King Road at the lay-by outside Nga Ying Chau Garden"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20008023,
+        "name_tc": "青衣站專線小巴總站",
+        "name_sc": "青衣站专线小巴总站",
+        "name_en": "Tsing Yi Station GMB Terminus"
+      }
+    ],
+    "data_timestamp": "2024-06-04T16:22:08.495+08:00"
+  }
+}

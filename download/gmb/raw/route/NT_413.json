@@ -1,0 +1,235 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:28:58.031+08:00",
+  "data": [
+    {
+      "route_id": 2001788,
+      "region": "NT",
+      "route_code": "413",
+      "description_tc": "正常班次",
+      "description_sc": "正常班次",
+      "description_en": "Normal Route",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "青衣公眾碼頭",
+          "orig_sc": "青衣公众码头 ",
+          "orig_en": "Tsing Yi Public Pier",
+          "dest_tc": "瑪嘉烈醫院",
+          "dest_sc": "玛嘉烈医院 ",
+          "dest_en": "Princess Margaret Hospital",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "07:00:00",
+              "end_time": "20:00:00",
+              "frequency": 20,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 2,
+              "start_time": "07:00:00",
+              "end_time": "20:00:00",
+              "frequency": 30,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 3,
+              "start_time": "07:00:00",
+              "end_time": "19:00:00",
+              "frequency": 40,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 4,
+              "start_time": "19:00:00",
+              "end_time": "20:00:00",
+              "frequency": 30,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-08-07T10:47:21.326+08:00"
+        },
+        {
+          "route_seq": 2,
+          "orig_tc": "瑪嘉烈醫院",
+          "orig_sc": "玛嘉烈医院 ",
+          "orig_en": "Princess Margaret Hosptil",
+          "dest_tc": "青衣公眾碼頭",
+          "dest_sc": "青衣公众码头",
+          "dest_en": "Tsing Yi Public Pier",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "07:30:00",
+              "end_time": "20:10:00",
+              "frequency": 20,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 2,
+              "start_time": "20:10:00",
+              "end_time": "20:20:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 3,
+              "start_time": "07:30:00",
+              "end_time": "20:00:00",
+              "frequency": 30,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 4,
+              "start_time": "20:00:00",
+              "end_time": "20:20:00",
+              "frequency": 20,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 5,
+              "start_time": "07:30:00",
+              "end_time": "19:30:00",
+              "frequency": 40,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 6,
+              "start_time": "19:30:00",
+              "end_time": "20:00:00",
+              "frequency": 30,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 7,
+              "start_time": "20:00:00",
+              "end_time": "20:20:00",
+              "frequency": 20,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-08-07T10:47:21.326+08:00"
+        }
+      ],
+      "data_timestamp": "2024-08-07T10:47:21.326+08:00"
+    }
+  ]
+}

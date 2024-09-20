@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:09:39+08:00",
+  "data": {
+    "stop": "001088",
+    "name_tc": "龍景樓, 麥當勞道",
+    "name_en": "Dragon View, MacDonnell Road",
+    "lat": "22.275341822091",
+    "long": "114.15902156053",
+    "name_sc": "龙景楼, 麦当劳道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

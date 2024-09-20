@@ -1,0 +1,67 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:25:43.317+08:00",
+  "data": [
+    {
+      "route_id": 2006508,
+      "region": "HKI",
+      "route_code": "28S",
+      "description_tc": "短程班次",
+      "description_sc": "短程班次 ",
+      "description_en": "Short Working Service ",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "碧瑤灣(上)",
+          "orig_sc": "碧瑶湾(上)",
+          "orig_en": "Baguio Villa (upper)",
+          "dest_tc": "銅鑼灣(新會道)",
+          "dest_sc": "铜锣湾(新会道)",
+          "dest_en": "Causeway Bay (Sun Wui Road)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "06:20:00",
+              "end_time": "22:25:00",
+              "frequency": 15,
+              "frequency_upper": 20
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 2,
+              "start_time": "07:00:00",
+              "end_time": "22:15:00",
+              "frequency": 15,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-09-17T10:26:00.979+08:00"
+        }
+      ],
+      "data_timestamp": "2024-09-17T10:26:00.979+08:00"
+    }
+  ]
+}

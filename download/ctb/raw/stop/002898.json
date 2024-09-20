@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:17:31+08:00",
+  "data": {
+    "stop": "002898",
+    "name_tc": "亞皆老街, 上海街",
+    "name_en": "Argyle Street, Shanghai Street",
+    "lat": "22.319652762091",
+    "long": "114.16804316053",
+    "name_sc": "亚皆老街, 上海街",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:09:21+08:00",
+  "data": {
+    "stop": "001711",
+    "name_tc": "慈民邨, 慈雲山道",
+    "name_en": "Tsz Man Estate, Tsz Wan Shan Road",
+    "lat": "22.348680882091",
+    "long": "114.20245965053",
+    "name_sc": "慈民邨, 慈云山道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

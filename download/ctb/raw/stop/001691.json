@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:14:23+08:00",
+  "data": {
+    "stop": "001691",
+    "name_tc": "衛理道, 加士居道",
+    "name_en": "Wylie Road, Gascoigne Road",
+    "lat": "22.306771802091",
+    "long": "114.17585079053",
+    "name_sc": "卫理道, 加士居道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

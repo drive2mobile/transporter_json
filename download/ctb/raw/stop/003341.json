@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:15:33+08:00",
+  "data": {
+    "stop": "003341",
+    "name_tc": "祈德尊新邨, 大涌道",
+    "name_en": "Clague Garden Estate, Tai Chung Road",
+    "lat": "22.371589252091",
+    "long": "114.10992319053",
+    "name_sc": "祈德尊新邨, 大涌道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

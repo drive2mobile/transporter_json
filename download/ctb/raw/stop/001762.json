@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:14:02+08:00",
+  "data": {
+    "stop": "001762",
+    "name_tc": "凱德苑, 深旺道",
+    "name_en": "Hoi Tak Court, Sham Mong Road",
+    "lat": "22.330126002091",
+    "long": "114.15124965053",
+    "name_sc": "凯德苑, 深旺道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

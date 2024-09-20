@@ -1,0 +1,101 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:30:21.212+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20012432,
+        "name_tc": "恆安邨巴士總站",
+        "name_sc": "恒安邨巴士总站",
+        "name_en": "Heng On Estate Bus Terminus"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20001238,
+        "name_tc": "恒康街, 耀安邨耀平樓外",
+        "name_sc": "恒康街, 耀安邨耀平楼外",
+        "name_en": "Hang Hong Street, outside Yiu On Estate Bus Terminus"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20019666,
+        "name_tc": "馬鞍山路近錦駿苑 ",
+        "name_sc": "马鞍山路近锦骏苑",
+        "name_en": "Ma On Shan Road near Kam Chun Court "
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20002226,
+        "name_tc": "恆德街南行線, 近大水坑站",
+        "name_sc": "恒德街南行线, 近大水坑站",
+        "name_en": "Hang Tak Street Southbound, near Tai Shui Hang Station"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20002288,
+        "name_tc": "亞公角街, 漁民新村外",
+        "name_sc": "亚公角街, 渔民新村外",
+        "name_en": "A Kung Kok Street, outside Fishermen Village"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20002228,
+        "name_tc": "亞公角街, 沙田醫院外",
+        "name_sc": "亚公角街, 沙田医院外",
+        "name_en": "A Kung Kok Street, outside Shatin Hospital"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20012418,
+        "name_tc": "小瀝源路小瀝源村對面",
+        "name_sc": "小沥源路小沥源村对面",
+        "name_en": "Siu Lek Yuen Road opposite Siu Lek Yuen Chuen"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20002289,
+        "name_tc": "廣善街, 廣源邨廣榕樓外",
+        "name_sc": "广善街, 广源邨广榕楼外",
+        "name_en": "Kwong Sin Street, outside Banyan House, Kwong Yuen Estate"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20002290,
+        "name_tc": "廣善街, 近香港恒生大學",
+        "name_sc": "广善街, 近香港恒生大学",
+        "name_en": "Kwong Sin Street, near The Hang Seng University of Hong Kong"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20012419,
+        "name_tc": "牛皮沙街, 牛皮沙新村外",
+        "name_sc": "牛皮沙街, 牛皮沙新村外",
+        "name_en": "Ngau Pei Sha Street, outside Ngau Pei Sha New Village"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20012420,
+        "name_tc": "牛皮沙街, 愉翠苑巴士站",
+        "name_sc": "牛皮沙街, 愉翠苑巴士站",
+        "name_en": "Ngau Pei Sha Street, Yu Chui Court Bus Terminus"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20002293,
+        "name_tc": "插桅杆街, 第一城站對面",
+        "name_sc": "插桅杆街, 第一城站对面",
+        "name_en": "Chap Wai Kon Street, opposite City One Station"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20002257,
+        "name_tc": "威爾斯親王醫院",
+        "name_sc": "威尔斯亲王医院",
+        "name_en": "Prince of Wales Hospital"
+      }
+    ],
+    "data_timestamp": "2024-08-07T13:55:15.353+08:00"
+  }
+}

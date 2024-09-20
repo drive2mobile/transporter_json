@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:09:07+08:00",
+  "data": {
+    "stop": "003014",
+    "name_tc": "東頭邨盈東樓, 東頭村道",
+    "name_en": "Ying Tung House Tung Tau Estate, Tung Tau Tsuen Road",
+    "lat": "22.334102832091",
+    "long": "114.19102897053",
+    "name_sc": "东头邨盈东楼, 东头村道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

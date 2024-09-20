@@ -1,0 +1,635 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:27:08.203+08:00",
+  "data": [
+    {
+      "route_id": 2007233,
+      "region": "KLN",
+      "route_code": "46",
+      "description_tc": "正常班次",
+      "description_sc": "正常班次",
+      "description_en": "Normal Departure",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "麗晶花園",
+          "orig_sc": "丽晶花园",
+          "orig_en": "Richland Gardens",
+          "dest_tc": "大角咀( 奧運站)",
+          "dest_sc": "大角咀( 奥运站)",
+          "dest_en": "Tai Kok Tsui (Olympic Station)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "05:55:00",
+              "end_time": "06:45:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 2,
+              "start_time": "06:45:00",
+              "end_time": "07:40:00",
+              "frequency": 5,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 3,
+              "start_time": "07:40:00",
+              "end_time": "07:55:00",
+              "frequency": 3,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 4,
+              "start_time": "07:55:00",
+              "end_time": "09:03:00",
+              "frequency": 4,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 5,
+              "start_time": "09:03:00",
+              "end_time": "10:45:00",
+              "frequency": 6,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 6,
+              "start_time": "10:45:00",
+              "end_time": "17:00:00",
+              "frequency": 5,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 7,
+              "start_time": "17:00:00",
+              "end_time": "18:00:00",
+              "frequency": 4,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 8,
+              "start_time": "18:00:00",
+              "end_time": "18:15:00",
+              "frequency": 3,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 9,
+              "start_time": "18:15:00",
+              "end_time": "20:03:00",
+              "frequency": 4,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 10,
+              "start_time": "20:03:00",
+              "end_time": "23:21:00",
+              "frequency": 6,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 11,
+              "start_time": "23:21:00",
+              "end_time": "23:30:00",
+              "frequency": 9,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 12,
+              "start_time": "05:55:00",
+              "end_time": "06:40:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 13,
+              "start_time": "06:40:00",
+              "end_time": "07:00:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 14,
+              "start_time": "07:00:00",
+              "end_time": "10:30:00",
+              "frequency": 7,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 15,
+              "start_time": "10:30:00",
+              "end_time": "21:30:00",
+              "frequency": 6,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 16,
+              "start_time": "21:30:00",
+              "end_time": "23:30:00",
+              "frequency": 8,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-09-05T09:58:25.960+08:00"
+        },
+        {
+          "route_seq": 2,
+          "orig_tc": "大角咀( 奧運站)",
+          "orig_sc": "大角咀( 奥运站)",
+          "orig_en": "Tai Kok Tsui (Olympic Station)",
+          "dest_tc": "麗晶花園",
+          "dest_sc": "丽晶花园",
+          "dest_en": "Richland Gardens",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "06:20:00",
+              "end_time": "07:20:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 2,
+              "start_time": "07:20:00",
+              "end_time": "07:50:00",
+              "frequency": 5,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 3,
+              "start_time": "07:50:00",
+              "end_time": "08:05:00",
+              "frequency": 3,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 4,
+              "start_time": "08:05:00",
+              "end_time": "09:53:00",
+              "frequency": 4,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 5,
+              "start_time": "09:53:00",
+              "end_time": "12:05:00",
+              "frequency": 6,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 6,
+              "start_time": "12:05:00",
+              "end_time": "17:30:00",
+              "frequency": 5,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 7,
+              "start_time": "17:30:00",
+              "end_time": "18:30:00",
+              "frequency": 4,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 8,
+              "start_time": "18:30:00",
+              "end_time": "18:45:00",
+              "frequency": 3,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 9,
+              "start_time": "18:45:00",
+              "end_time": "20:33:00",
+              "frequency": 4,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 10,
+              "start_time": "20:33:00",
+              "end_time": "23:51:00",
+              "frequency": 6,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 11,
+              "start_time": "23:51:00",
+              "end_time": "00:00:00",
+              "frequency": 9,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 12,
+              "start_time": "06:20:00",
+              "end_time": "07:20:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 13,
+              "start_time": "07:20:00",
+              "end_time": "07:50:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 14,
+              "start_time": "07:50:00",
+              "end_time": "10:52:00",
+              "frequency": 7,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 15,
+              "start_time": "10:52:00",
+              "end_time": "21:52:00",
+              "frequency": 6,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 16,
+              "start_time": "21:52:00",
+              "end_time": "00:00:00",
+              "frequency": 8,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-09-05T09:58:25.960+08:00"
+        }
+      ],
+      "data_timestamp": "2024-09-05T09:58:25.960+08:00"
+    },
+    {
+      "route_id": 2007234,
+      "region": "KLN",
+      "route_code": "46",
+      "description_tc": "早上特別班次",
+      "description_sc": "早上特别班次",
+      "description_en": "Morning Special Departure",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "深旺道",
+          "orig_sc": "深旺道",
+          "orig_en": "Sham Mong Road",
+          "dest_tc": "麗晶花園",
+          "dest_sc": "丽晶花园",
+          "dest_en": "Richland Gardens",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "08:00:00",
+              "end_time": "08:45:00",
+              "frequency": 15,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-09-05T09:58:25.937+08:00"
+        }
+      ],
+      "data_timestamp": "2024-09-05T09:58:25.937+08:00"
+    }
+  ]
+}

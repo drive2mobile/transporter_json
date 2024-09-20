@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:13:59+08:00",
+  "data": {
+    "stop": "001863",
+    "name_tc": "香港空運貨站, 駿運路",
+    "name_en": "HACTL, Chun Wan Road",
+    "lat": "22.297087112091",
+    "long": "113.92984635053",
+    "name_sc": "香港空运货站, 骏运路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

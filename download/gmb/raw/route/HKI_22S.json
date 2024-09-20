@@ -1,0 +1,432 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:25:36.388+08:00",
+  "data": [
+    {
+      "route_id": 2000999,
+      "region": "HKI",
+      "route_code": "22S",
+      "description_tc": "特別班次(不經雅緻洋房)",
+      "description_sc": "特别班次(不经雅致洋房)",
+      "description_en": "Special Service (Omit Yat Chee Villas)",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "薄扶林花園",
+          "orig_sc": "薄扶林花园",
+          "orig_en": "Pok Fu Lam Gardens",
+          "dest_tc": "中環(中環碼頭)",
+          "dest_sc": "中环(中环码头)",
+          "dest_en": "Central (Central Ferry Piers)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "09:00:00",
+              "end_time": "09:15:00",
+              "frequency": 25,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-09-19T14:16:56.623+08:00"
+        },
+        {
+          "route_seq": 2,
+          "orig_tc": "中環(中環碼頭)",
+          "orig_sc": "中环(中环码头)",
+          "orig_en": "Central (Central Ferry Piers)",
+          "dest_tc": "薄扶林花園",
+          "dest_sc": "薄扶林花园",
+          "dest_en": "Pok Fu Lam Gardens",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "06:45:00",
+              "end_time": "08:30:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 2,
+              "start_time": "08:31:00",
+              "end_time": "09:15:00",
+              "frequency": 25,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-09-19T14:16:56.623+08:00"
+        }
+      ],
+      "data_timestamp": "2024-09-19T14:16:56.623+08:00"
+    },
+    {
+      "route_id": 2001004,
+      "region": "HKI",
+      "route_code": "22S",
+      "description_tc": "特別班次(經港景街)",
+      "description_sc": "特别班次(经港景街) ",
+      "description_en": "Special Service (Via Harbour View Street)",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "中環(中環碼頭)",
+          "orig_sc": "中环(中环码头)",
+          "orig_en": "Central (Central Ferry Piers)",
+          "dest_tc": "薄扶林花園",
+          "dest_sc": "薄扶林花园",
+          "dest_en": "Pok Fu Lam Gardens",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "20:30:00",
+              "end_time": "23:50:00",
+              "frequency": 15,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-09-19T14:16:56.623+08:00"
+        }
+      ],
+      "data_timestamp": "2024-09-19T14:16:56.623+08:00"
+    },
+    {
+      "route_id": 2003050,
+      "region": "HKI",
+      "route_code": "22S",
+      "description_tc": "特別班次",
+      "description_sc": "特別班次",
+      "description_en": "Special Departure",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "薄扶林花園",
+          "orig_sc": "薄扶林花园",
+          "orig_en": "Pok Fu Lam Gardens",
+          "dest_tc": "中環(中環碼頭)",
+          "dest_sc": "中环(中环码头)",
+          "dest_en": "Central (Central Ferry Piers)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "09:15:00",
+              "end_time": "09:45:00",
+              "frequency": 25,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 2,
+              "start_time": "09:46:00",
+              "end_time": "20:30:00",
+              "frequency": 25,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 3,
+              "start_time": "20:30:00",
+              "end_time": "23:30:00",
+              "frequency": 25,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 4,
+              "start_time": "09:00:00",
+              "end_time": "09:45:00",
+              "frequency": 25,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 5,
+              "start_time": "09:46:00",
+              "end_time": "20:30:00",
+              "frequency": 25,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 6,
+              "start_time": "20:30:00",
+              "end_time": "23:30:00",
+              "frequency": 25,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 7,
+              "start_time": "07:00:00",
+              "end_time": "20:30:00",
+              "frequency": 25,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 8,
+              "start_time": "20:30:00",
+              "end_time": "23:30:00",
+              "frequency": 25,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-09-17T10:42:13.961+08:00"
+        }
+      ],
+      "data_timestamp": "2024-09-17T10:42:13.961+08:00"
+    },
+    {
+      "route_id": 2003051,
+      "region": "HKI",
+      "route_code": "22S",
+      "description_tc": "特别班次",
+      "description_sc": "特别班次",
+      "description_en": "Special Departure",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "中環(中環碼頭)",
+          "orig_sc": "中环(中环码头)",
+          "orig_en": "Central (Central Ferry Piers)",
+          "dest_tc": "薄扶林花園",
+          "dest_sc": "薄扶林花园",
+          "dest_en": "Pok Fu Lam Gardens",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "09:15:00",
+              "end_time": "09:45:00",
+              "frequency": 25,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 2,
+              "start_time": "09:46:00",
+              "end_time": "20:30:00",
+              "frequency": 25,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 3,
+              "start_time": "06:45:00",
+              "end_time": "08:30:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 4,
+              "start_time": "08:31:00",
+              "end_time": "09:45:00",
+              "frequency": 25,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 5,
+              "start_time": "09:46:00",
+              "end_time": "20:30:00",
+              "frequency": 25,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 6,
+              "start_time": "07:30:00",
+              "end_time": "20:30:00",
+              "frequency": 25,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-09-19T14:16:56.623+08:00"
+        }
+      ],
+      "data_timestamp": "2024-09-19T14:16:56.623+08:00"
+    }
+  ]
+}

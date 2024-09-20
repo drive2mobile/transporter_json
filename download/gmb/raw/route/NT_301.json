@@ -1,0 +1,50 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:28:31.131+08:00",
+  "data": [
+    {
+      "route_id": 2001689,
+      "region": "NT",
+      "route_code": "301",
+      "description_tc": "正常班次",
+      "description_sc": "正常班次",
+      "description_en": "Normal Route",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "祈德尊新邨",
+          "orig_sc": "祈德尊新村",
+          "orig_en": "Clague Garden Estate",
+          "dest_tc": "荃灣站(循環線)",
+          "dest_sc": "荃湾站(循环线) ",
+          "dest_en": "Tsuen Wan Station(Circular)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "06:30:00",
+              "end_time": "23:15:00",
+              "frequency": 15,
+              "frequency_upper": 20
+            }
+          ],
+          "data_timestamp": "2022-10-06T10:50:25.168+08:00"
+        }
+      ],
+      "data_timestamp": "2022-10-06T10:50:25.168+08:00"
+    }
+  ]
+}

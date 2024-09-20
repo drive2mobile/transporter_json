@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:07:41+08:00",
+  "data": {
+    "stop": "002420",
+    "name_tc": "分域街, 告士打道",
+    "name_en": "Fenwick Street, Gloucester Road",
+    "lat": "22.279104112091",
+    "long": "114.17085514053",
+    "name_sc": "分域街, 告士打道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

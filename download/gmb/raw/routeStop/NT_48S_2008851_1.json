@@ -1,0 +1,59 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:29:10.193+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20017026,
+        "name_tc": "良景邨 良景廣場",
+        "name_sc": "良景村 良景广场",
+        "name_en": "Leung King Plaza, Leung King Estate"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20002419,
+        "name_tc": "龍門路, 近富健花園",
+        "name_sc": "龙门路, 近富健花园",
+        "name_en": "Lung Mun Road, Near Glorious Garden"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20001389,
+        "name_tc": "龍門路, 近港鐵屯門車廠屯門巴士維修中心",
+        "name_sc": "龙门路, 近港铁屯门车厂屯门巴士维修中心",
+        "name_en": "Lung Mun Road, Near Tuen Mun Bus Maintenance Centre, MTR Tuen Mun Depot"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20001390,
+        "name_tc": "龍門路, 近蝴蝶邨蝶影樓",
+        "name_sc": "龙门路, 近蝴蝶村蝶影楼",
+        "name_en": "Lung Mun Road, Near Tip Ying House, Butterfly Estate"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20017027,
+        "name_tc": "湖翠路, 近蝴蝶邨民政事務總署蝴蝶灣社區中心",
+        "name_sc": "湖翠路, 近蝴蝶村民政事务总署蝴蝶湾社区中心",
+        "name_en": "Wu Chui Road, Near 民政事務總署蝴蝶灣社區中心, Butterfly Estate"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20017028,
+        "name_tc": "湖景路, 近湖景邨湖畔樓",
+        "name_sc": "湖景路, 近湖景村湖畔楼",
+        "name_en": "Wu King Road, Near Wu Boon House, Wu King Estate"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20017029,
+        "name_tc": "弼街, 近旺角機樓",
+        "name_sc": "弼街, 近旺角机楼",
+        "name_en": "Bute Street, Near Mongkok Exchange"
+      }
+    ],
+    "data_timestamp": "2024-09-16T13:54:09.310+08:00"
+  }
+}

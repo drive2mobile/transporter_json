@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:16:44+08:00",
+  "data": {
+    "stop": "002720",
+    "name_tc": "何文田廣場, 佛光街",
+    "name_en": "Homantin Plaza, Fat Kwong Street",
+    "lat": "22.315553692091",
+    "long": "114.18151944053",
+    "name_sc": "何文田广场, 佛光街",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

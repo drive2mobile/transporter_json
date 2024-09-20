@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:10:26+08:00",
+  "data": {
+    "stop": "002965",
+    "name_tc": "瑞安中心, 港灣道",
+    "name_en": "Shui On Centre, Harbour Road",
+    "lat": "22.280427602091",
+    "long": "114.17131058053",
+    "name_sc": "瑞安中心, 港湾道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

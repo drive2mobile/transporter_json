@@ -1,0 +1,116 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:30:08.446+08:00",
+  "data": [
+    {
+      "route_id": 2003704,
+      "region": "NT",
+      "route_code": "78A",
+      "description_tc": "正常班次 ",
+      "description_sc": "正常班次 ",
+      "description_en": " Normal Route",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "錦上路站",
+          "orig_sc": "锦上路站",
+          "orig_en": "Kam Sheung Road Station",
+          "dest_tc": "八鄉路(近大欖隧道轉車站)",
+          "dest_sc": "八乡路(近大榄隧道转车站)",
+          "dest_en": "Pat Heung Road (near Tai Lam Bus-Bus Interchange)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "07:19:00",
+              "end_time": "09:08:00",
+              "frequency": 15,
+              "frequency_upper": 17
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 2,
+              "start_time": "17:36:00",
+              "end_time": "19:23:00",
+              "frequency": 15,
+              "frequency_upper": 17
+            }
+          ],
+          "data_timestamp": "2024-08-23T14:21:36.497+08:00"
+        },
+        {
+          "route_seq": 2,
+          "orig_tc": "八鄉路(近大欖隧道轉車站)",
+          "orig_sc": "八乡路(近大榄隧道转车站)",
+          "orig_en": "Pat Heung Road (near Tai Lam Bus-Bus Interchange)",
+          "dest_tc": "錦上路站",
+          "dest_sc": "锦上路站",
+          "dest_en": "Kam Sheung Road Station",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "07:11:00",
+              "end_time": "09:00:00",
+              "frequency": 15,
+              "frequency_upper": 17
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 2,
+              "start_time": "17:28:00",
+              "end_time": "19:15:00",
+              "frequency": 15,
+              "frequency_upper": 17
+            }
+          ],
+          "data_timestamp": "2024-08-23T14:21:36.497+08:00"
+        }
+      ],
+      "data_timestamp": "2024-08-23T14:21:36.497+08:00"
+    }
+  ]
+}

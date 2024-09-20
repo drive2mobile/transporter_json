@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:12:44+08:00",
+  "data": {
+    "stop": "002934",
+    "name_tc": "香港仔中心, 成都道",
+    "name_en": "Aberdeen Centre, Chengtu Road",
+    "lat": "22.248354212091",
+    "long": "114.15481280053",
+    "name_sc": "香港仔中心, 成都道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

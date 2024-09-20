@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:10:06+08:00",
+  "data": {
+    "stop": "001273",
+    "name_tc": "太古坊, 英皇道",
+    "name_en": "Taikoo Place, King's Road",
+    "lat": "22.286667942091",
+    "long": "114.21039739053",
+    "name_sc": "太古坊, 英皇道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

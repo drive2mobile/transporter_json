@@ -1,0 +1,116 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:44:05.887+08:00",
+  "data": [
+    {
+      "route_id": 2002331,
+      "region": "KLN",
+      "route_code": "12A",
+      "description_tc": "短程班次",
+      "description_sc": "短程班次",
+      "description_en": "Short Working Service",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "旺角東站",
+          "orig_sc": "旺角东站",
+          "orig_en": "Mong Kok East Station",
+          "dest_tc": "大同新邨",
+          "dest_sc": "大同新邨",
+          "dest_en": "Cosmopolitan Estates",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "06:00:00",
+              "end_time": "23:30:00",
+              "frequency": 9,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 2,
+              "start_time": "06:00:00",
+              "end_time": "23:30:00",
+              "frequency": 9,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-08-07T09:25:26.357+08:00"
+        },
+        {
+          "route_seq": 2,
+          "orig_tc": "大同新邨",
+          "orig_sc": "大同新邨",
+          "orig_en": "Cosmopolitan Estates",
+          "dest_tc": "旺角東站",
+          "dest_sc": "旺角东站",
+          "dest_en": "Mong Kok East Station",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "06:00:00",
+              "end_time": "23:00:00",
+              "frequency": 9,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 2,
+              "start_time": "06:00:00",
+              "end_time": "23:00:00",
+              "frequency": 9,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-08-07T09:25:26.357+08:00"
+        }
+      ],
+      "data_timestamp": "2024-08-07T09:25:26.357+08:00"
+    }
+  ]
+}

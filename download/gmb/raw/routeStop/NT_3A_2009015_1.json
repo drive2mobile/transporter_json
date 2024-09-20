@@ -1,0 +1,31 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:28:46.416+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20017224,
+        "name_tc": "宜春街, 近西貢街市",
+        "name_sc": "宜春街, 近西贡街市",
+        "name_en": "Yi Chun Street, near Sai Kung Market"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20017225,
+        "name_tc": "北港㘭路, 近紅花村",
+        "name_sc": "北港㘭路, 近红花村",
+        "name_en": "Pak Kong Au Road, near Hung Fa Tsuen"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20017226,
+        "name_tc": "南山新村路, 近南山村公所",
+        "name_sc": "南山新村路, 近南山村公所",
+        "name_en": "Nam Shan San Tsuen Road, Near 南山村公所"
+      }
+    ],
+    "data_timestamp": "2024-04-21T00:00:46.420+08:00"
+  }
+}

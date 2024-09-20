@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:10:01+08:00",
+  "data": {
+    "stop": "002571",
+    "name_tc": "玫瑰新邨, 司徒拔道",
+    "name_en": "Villa Monte Rosa, Stubbs Road",
+    "lat": "22.265899632091",
+    "long": "114.18387527053",
+    "name_sc": "玫瑰新邨, 司徒拔道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

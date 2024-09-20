@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:10:54+08:00",
+  "data": {
+    "stop": "001561",
+    "name_tc": "信和中心, 彌敦道",
+    "name_en": "Sino Centre, Nathan Road",
+    "lat": "22.316006342091",
+    "long": "114.17011761053",
+    "name_sc": "信和中心, 弥敦道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

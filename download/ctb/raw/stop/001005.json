@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:06:50+08:00",
+  "data": {
+    "stop": "001005",
+    "name_tc": "聯邦新樓, 卑路乍街",
+    "name_en": "Luen Bong Apartment, Belcher's Street",
+    "lat": "22.282463392091",
+    "long": "114.12760792053",
+    "name_sc": "联邦新楼, 卑路乍街",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

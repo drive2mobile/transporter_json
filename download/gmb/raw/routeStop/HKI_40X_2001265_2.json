@@ -1,0 +1,143 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:25:53.401+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20007313,
+        "name_tc": "渣甸街",
+        "name_sc": "渣甸街",
+        "name_en": "Jardine's Bazaar"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20008116,
+        "name_tc": "軒尼詩道, 近登龍街",
+        "name_sc": "轩尼诗道, 近登龙街",
+        "name_en": "Hennessy Road, near Tang Lung Street"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20006937,
+        "name_tc": "摩理臣山道, 跑馬地馬場",
+        "name_sc": "摩理臣山道, 跑马地马场",
+        "name_en": "Morrison Hill Road, Happy Valley Racecourse"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20007038,
+        "name_tc": "黃竹坑道, 黃竹坑新圍",
+        "name_sc": "黄竹坑道, 黄竹坑新围",
+        "name_en": "Wong Chuk Hang Road, Wong Chuk Hang San Wai"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20004605,
+        "name_tc": "香島道, 鄉村俱樂部",
+        "name_sc": "香岛道, 乡村俱乐部",
+        "name_en": "Island Road, The Hong Kong Country Club"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20003145,
+        "name_tc": "香島道, 深水灣泳灘",
+        "name_sc": "香岛道, 深水湾泳滩",
+        "name_en": "Island Road, Deep Water Bay Beach"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20008144,
+        "name_tc": "香島道, 香島小築",
+        "name_sc": "香岛道, 香岛小筑",
+        "name_en": "Island Road, Island Club"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20008149,
+        "name_tc": "淺水灣道, 近麗景道",
+        "name_sc": "浅水湾道, 近丽景道",
+        "name_en": "Repulse Bay Road near Belleview Drive"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20004576,
+        "name_tc": "淺水灣道, 淺水灣海灘",
+        "name_sc": "浅水湾道, 浅水湾海滩",
+        "name_en": "Repulse Bay Beach, Repulse Bay Road"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20008118,
+        "name_tc": "淺水灣道, 近南灣道",
+        "name_sc": "浅水湾道, 近南湾道",
+        "name_en": "Repulse Bay Road, near South Bay Road"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20003314,
+        "name_tc": "舂墈角道, 舂墈角消防局",
+        "name_sc": "舂墈角道, 舂墈角消防局",
+        "name_en": "Chung Hom Kok Road, Chung Hom Kok Fire Station"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20004578,
+        "name_tc": "環角道, 近環角徑",
+        "name_sc": "环角道, 近环角径",
+        "name_en": "Cape Road, near Cape Drive"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20000281,
+        "name_tc": "環角道, 觀馬樓對面",
+        "name_sc": "环角道, 观马楼对面",
+        "name_en": "Cape Road, opposite to Koon Ma House"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20000282,
+        "name_tc": "環角道, 龍騰閣對面",
+        "name_sc": "环角道, 良马楼对面",
+        "name_en": "Cape Road, opposite to Lung Tan Court"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20000283,
+        "name_tc": "環角道, 駿馬樓對面",
+        "name_sc": "环角道, 骏马楼对面 ",
+        "name_en": "Cape Road, opposite Chun Ma House"
+      },
+      {
+        "stop_seq": 16,
+        "stop_id": 20000246,
+        "name_tc": "佳美道, 赤柱廣場",
+        "name_sc": "佳美道, 赤柱广场",
+        "name_en": "Carmel Road, Stanley Plaza"
+      },
+      {
+        "stop_seq": 17,
+        "stop_id": 20007314,
+        "name_tc": "赤柱村道，赤柱市集",
+        "name_sc": "赤柱村道，赤柱市集",
+        "name_en": "Stanley Village Road, Stanley Market"
+      },
+      {
+        "stop_seq": 18,
+        "stop_id": 20004609,
+        "name_tc": "東頭灣道, 聖士堤反書院",
+        "name_sc": "东头湾道, 圣士堤反书院",
+        "name_en": "Tung Tau Wan Road, St. Stephen's College"
+      },
+      {
+        "stop_seq": 19,
+        "stop_id": 20000253,
+        "name_tc": "東頭灣道, 赤柱監獄",
+        "name_sc": "东头湾道, 赤柱监狱",
+        "name_en": "Tung Tau Wan Road, Stanley Prison"
+      }
+    ],
+    "data_timestamp": "2024-09-19T16:32:41.163+08:00"
+  }
+}

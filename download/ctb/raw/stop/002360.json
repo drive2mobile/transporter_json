@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:09:45+08:00",
+  "data": {
+    "stop": "002360",
+    "name_tc": "鄧肇堅運動場, 黃麻角道",
+    "name_en": "Tang Shiu Kin Sports Field, Wong Ma Kok Road",
+    "lat": "22.216834092091",
+    "long": "114.21384755053",
+    "name_sc": "邓肇坚运动场, 黄麻角道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:08:12+08:00",
+  "data": {
+    "stop": "001382",
+    "name_tc": "小西灣 (藍灣半島)",
+    "name_en": "Siu Sai Wan (Island Resort)",
+    "lat": "22.266350942091",
+    "long": "114.25095264053",
+    "name_sc": "小西湾 (蓝湾半岛)",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:11:09+08:00",
+  "data": {
+    "stop": "002741",
+    "name_tc": "普仁街, 荷李活道",
+    "name_en": "Po Yan Street, Hollywood Road",
+    "lat": "22.285704722091",
+    "long": "114.14764043053",
+    "name_sc": "普仁街, 荷李活道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

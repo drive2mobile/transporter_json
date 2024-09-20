@@ -1,0 +1,616 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:25:39.676+08:00",
+  "data": [
+    {
+      "route_id": 2002052,
+      "region": "HKI",
+      "route_code": "24M",
+      "description_tc": "正常班次",
+      "description_sc": "正常班次",
+      "description_en": "Normal Route",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "畢拉山",
+          "orig_sc": "毕拉山",
+          "orig_en": "Mount Butler",
+          "dest_tc": "金鐘站(德立街)",
+          "dest_sc": "金钟站(德立街)",
+          "dest_en": "Admiralty Station (Drake Street)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "06:30:00",
+              "end_time": "07:00:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 3,
+              "start_time": "10:00:00",
+              "end_time": "11:00:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 4,
+              "start_time": "11:00:00",
+              "end_time": "12:30:00",
+              "frequency": 20,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 5,
+              "start_time": "12:30:00",
+              "end_time": "15:30:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 6,
+              "start_time": "15:30:00",
+              "end_time": "16:00:00",
+              "frequency": 18,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 8,
+              "start_time": "19:00:00",
+              "end_time": "19:30:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 9,
+              "start_time": "19:30:00",
+              "end_time": "21:30:00",
+              "frequency": 20,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 10,
+              "start_time": "21:30:00",
+              "end_time": "22:30:00",
+              "frequency": 20,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 2,
+              "start_time": "07:00:00",
+              "end_time": "10:00:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 7,
+              "start_time": "16:00:00",
+              "end_time": "19:00:00",
+              "frequency": 18,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-09-19T14:16:56.618+08:00"
+        },
+        {
+          "route_seq": 2,
+          "orig_tc": "金鐘站(德立街)",
+          "orig_sc": "金钟站(德立街)",
+          "orig_en": "Admiralty Station (Drake Street)",
+          "dest_tc": "畢拉山",
+          "dest_sc": "毕拉山",
+          "dest_en": "Mount Butler ",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "06:50:00",
+              "end_time": "07:00:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 2,
+              "start_time": "10:00:00",
+              "end_time": "12:30:00",
+              "frequency": 20,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 3,
+              "start_time": "12:30:00",
+              "end_time": "15:30:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 4,
+              "start_time": "15:30:00",
+              "end_time": "16:00:00",
+              "frequency": 18,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 5,
+              "start_time": "19:00:00",
+              "end_time": "19:30:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 6,
+              "start_time": "19:30:00",
+              "end_time": "21:30:00",
+              "frequency": 20,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 7,
+              "start_time": "21:30:00",
+              "end_time": "23:00:00",
+              "frequency": 20,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 8,
+              "start_time": "06:35:00",
+              "end_time": "06:50:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 9,
+              "start_time": "06:50:00",
+              "end_time": "11:00:00",
+              "frequency": 12,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 10,
+              "start_time": "11:00:00",
+              "end_time": "12:30:00",
+              "frequency": 15,
+              "frequency_upper": 20
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 11,
+              "start_time": "12:30:00",
+              "end_time": "15:30:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 12,
+              "start_time": "15:30:00",
+              "end_time": "18:30:00",
+              "frequency": 18,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 13,
+              "start_time": "18:30:00",
+              "end_time": "19:30:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 14,
+              "start_time": "19:30:00",
+              "end_time": "21:30:00",
+              "frequency": 15,
+              "frequency_upper": 20
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 15,
+              "start_time": "21:30:00",
+              "end_time": "23:00:00",
+              "frequency": 20,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-09-19T14:16:56.618+08:00"
+        }
+      ],
+      "data_timestamp": "2024-09-19T14:16:56.618+08:00"
+    },
+    {
+      "route_id": 2002053,
+      "region": "HKI",
+      "route_code": "24M",
+      "description_tc": "特別班次(不經肇輝台)",
+      "description_sc": "特别班次(不经肇辉台)",
+      "description_en": "Special Service (Omit Shiu Fai Terrace)",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "畢拉山",
+          "orig_sc": "毕拉山",
+          "orig_en": "Mount Butler",
+          "dest_tc": "金鐘站(德立街)",
+          "dest_sc": "金钟站(德立街)",
+          "dest_en": "Admiralty Station (Drake Street)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "07:00:00",
+              "end_time": "10:00:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 2,
+              "start_time": "16:00:00",
+              "end_time": "18:30:00",
+              "frequency": 18,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 3,
+              "start_time": "18:30:00",
+              "end_time": "19:00:00",
+              "frequency": 15,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-09-19T14:16:56.618+08:00"
+        },
+        {
+          "route_seq": 2,
+          "orig_tc": "金鐘站(德立街)",
+          "orig_sc": "金钟站(德立街)",
+          "orig_en": "Admiralty Station (Drake Street)",
+          "dest_tc": "畢拉山",
+          "dest_sc": "毕拉山",
+          "dest_en": "Mount Butler",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "07:00:00",
+              "end_time": "10:00:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 2,
+              "start_time": "16:00:00",
+              "end_time": "18:30:00",
+              "frequency": 18,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 3,
+              "start_time": "18:30:00",
+              "end_time": "19:00:00",
+              "frequency": 15,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-09-19T14:16:56.618+08:00"
+        }
+      ],
+      "data_timestamp": "2024-09-19T14:16:56.618+08:00"
+    }
+  ]
+}

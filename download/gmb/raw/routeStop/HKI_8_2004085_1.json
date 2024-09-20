@@ -1,0 +1,73 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:26:22.863+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20011281,
+        "name_tc": "薄扶林,碧瑤灣(下)第17座外(總站)",
+        "name_sc": "薄扶林,碧瑶湾(下)第17座外(总站)",
+        "name_en": "Near Baguio Villa Block 17"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20011282,
+        "name_tc": "沙宣道21號對面",
+        "name_sc": "沙宣道21号对面",
+        "name_en": "Sassoon Road, opposite house no. 21"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20000072,
+        "name_tc": "薄扶林道79號",
+        "name_sc": "薄扶林道79号",
+        "name_en": "No.79 Pok Fu Lam Road"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20000015,
+        "name_tc": "般咸道53號",
+        "name_sc": "般咸道53号",
+        "name_en": "Bonham Road, house no. 53"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20000016,
+        "name_tc": "般咸道, 近西營盤站 C 出口",
+        "name_sc": "般咸道, 近西营盘站 C 出口",
+        "name_en": "Bonham Road, near Sai Ying Pun Station Exit C"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20000173,
+        "name_tc": "般咸道, 醫院道",
+        "name_sc": "般咸道, 医院道",
+        "name_en": "Bonham Road, Hospital Road"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20000019,
+        "name_tc": "堅道, 卑利街",
+        "name_sc": "坚道, 卑利街",
+        "name_en": "Caine Road, Peel Street"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20000024,
+        "name_tc": "畢打街, 近中環站 D1 出口",
+        "name_sc": "毕打街, 近中环站 D1 出口",
+        "name_en": "Pedder Street, near Central Station Exit D1"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20006979,
+        "name_tc": "中環(交易廣場)",
+        "name_sc": "中环(交易广场)",
+        "name_en": "Central (Exchange Square)"
+      }
+    ],
+    "data_timestamp": "2024-09-17T10:26:00.980+08:00"
+  }
+}

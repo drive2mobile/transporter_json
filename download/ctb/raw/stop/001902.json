@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:14:28+08:00",
+  "data": {
+    "stop": "001902",
+    "name_tc": "香港黃金海岸, 青山公路",
+    "name_en": "Hong Kong Gold Coast, Castle Peak Road",
+    "lat": "22.371389032091",
+    "long": "113.99379682053",
+    "name_sc": "香港黄金海岸, 青山公路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

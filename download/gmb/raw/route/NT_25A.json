@@ -1,0 +1,195 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:28:22.260+08:00",
+  "data": [
+    {
+      "route_id": 2004070,
+      "region": "NT",
+      "route_code": "25A",
+      "description_tc": "正常班次",
+      "description_sc": "正常班次",
+      "description_en": "Normal Service",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "大埔墟",
+          "orig_sc": "大埔墟",
+          "orig_en": "Tai Po Market",
+          "dest_tc": "南華莆(循環線)",
+          "dest_sc": "南华莆(循环线)",
+          "dest_en": "Nam Wa Po(Circular)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "05:30:00",
+              "end_time": "09:30:00",
+              "frequency": 5,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 2,
+              "start_time": "09:30:00",
+              "end_time": "11:30:00",
+              "frequency": 8,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 3,
+              "start_time": "11:30:00",
+              "end_time": "15:00:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 4,
+              "start_time": "15:00:00",
+              "end_time": "17:32:00",
+              "frequency": 8,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 5,
+              "start_time": "17:32:00",
+              "end_time": "20:55:00",
+              "frequency": 7,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 6,
+              "start_time": "20:55:00",
+              "end_time": "22:15:00",
+              "frequency": 8,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 7,
+              "start_time": "22:15:00",
+              "end_time": "00:15:00",
+              "frequency": 10,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-07-31T16:28:25.126+08:00"
+        }
+      ],
+      "data_timestamp": "2024-07-31T16:28:25.126+08:00"
+    },
+    {
+      "route_id": 2004075,
+      "region": "NT",
+      "route_code": "25A",
+      "description_tc": "特別班次",
+      "description_sc": "特别班次",
+      "description_en": "Special Departure",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "泰亨鄉公所",
+          "orig_sc": "泰亨乡公所",
+          "orig_en": "Tai Hang Village Office ",
+          "dest_tc": "大埔墟 (靖遠街) 總站",
+          "dest_sc": "大埔墟 (靖远街) 总站",
+          "dest_en": "Tai Po Market (Tsing Yuen Market) Terminus",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "07:30:00",
+              "end_time": "07:30:00",
+              "frequency": null,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-07-31T16:28:25.126+08:00"
+        }
+      ],
+      "data_timestamp": "2024-07-31T16:28:25.126+08:00"
+    }
+  ]
+}

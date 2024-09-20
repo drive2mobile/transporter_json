@@ -1,0 +1,55 @@
+{
+  "type": "RouteStop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:03:51+08:00",
+  "data": [
+    {
+      "co": "CTB",
+      "route": "X15",
+      "dir": "O",
+      "seq": 1,
+      "stop": "001171",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "X15",
+      "dir": "O",
+      "seq": 2,
+      "stop": "003339",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "X15",
+      "dir": "O",
+      "seq": 3,
+      "stop": "001032",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "X15",
+      "dir": "O",
+      "seq": 4,
+      "stop": "001136",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "X15",
+      "dir": "O",
+      "seq": 5,
+      "stop": "002568",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "X15",
+      "dir": "O",
+      "seq": 6,
+      "stop": "001096",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    }
+  ]
+}

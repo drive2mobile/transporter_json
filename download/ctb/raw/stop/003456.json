@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:13:40+08:00",
+  "data": {
+    "stop": "003456",
+    "name_tc": "泥涌",
+    "name_en": "Nai Chung",
+    "lat": "22.431360412091",
+    "long": "114.25536983053",
+    "name_sc": "泥涌",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

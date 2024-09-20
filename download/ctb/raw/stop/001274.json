@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:03:52+08:00",
+  "data": {
+    "stop": "001274",
+    "name_tc": "民新街, 英皇道",
+    "name_en": "Mansion Street, King's Road",
+    "lat": "22.289926312091",
+    "long": "114.20930325053",
+    "name_sc": "民新街, 英皇道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

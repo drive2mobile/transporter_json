@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:02:30+08:00",
+  "data": {
+    "stop": "001040",
+    "name_tc": "西港城, 干諾道西",
+    "name_en": "Western Market, Connaught Road West",
+    "lat": "22.287710712091",
+    "long": "114.14980124053",
+    "name_sc": "西港城, 干诺道西",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

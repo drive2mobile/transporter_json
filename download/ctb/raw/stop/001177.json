@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:07:28+08:00",
+  "data": {
+    "stop": "001177",
+    "name_tc": "卑路乍灣",
+    "name_en": "Belcher Bay",
+    "lat": "22.284611882091",
+    "long": "114.12845352053",
+    "name_sc": "卑路乍湾",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

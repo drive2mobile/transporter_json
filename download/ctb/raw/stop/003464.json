@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:15:40+08:00",
+  "data": {
+    "stop": "003464",
+    "name_tc": "盧光輝紀念學校, 葵盛圍",
+    "name_en": "Lu Kwong Fai Memorial School, Kwai Shing Circuit",
+    "lat": "22.363726942091",
+    "long": "114.12274552053",
+    "name_sc": "卢光辉纪念学校, 葵盛围",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

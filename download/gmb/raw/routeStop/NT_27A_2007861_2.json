@@ -1,0 +1,87 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:28:26.537+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20015839,
+        "name_tc": "沙田中, 排頭街, 港鐵沙田站外",
+        "name_sc": "沙田中, 排头街, 港铁沙田站外",
+        "name_en": "Pai Tau Street, outside Sha Tin Station"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20002981,
+        "name_tc": "科學園路, 近香港生物科技研究院",
+        "name_sc": "科学园路, 近香港生物科技研究院",
+        "name_en": "Science Park Road, near Research Institute of Biotechnology"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20007046,
+        "name_tc": "創新路, 近科學園第一期",
+        "name_sc": "创新路, 近科学园第一期",
+        "name_en": "Chong San Road, near Science Park Phase 1"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20007048,
+        "name_tc": "創新路, 近科學園第三期",
+        "name_sc": "创新路, 近科学园第三期",
+        "name_en": "Chong San Road, near Science Park Phase 3"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20007050,
+        "name_tc": "科研路, 逸瓏灣8外",
+        "name_sc": "科研路, 逸珑湾8外",
+        "name_en": "Fo Yin Road, outside Mayfair by the Sea 8"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20015842,
+        "name_tc": "科研路東行近GE2327燈柱",
+        "name_sc": "科研路东行近GE2327灯柱",
+        "name_en": "Fo Yin Road eastbound near L/P GE2327"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20007095,
+        "name_tc": "創新路, 近雲滙",
+        "name_sc": "创新路, 近云滙",
+        "name_en": "Chong San Road, near St. Martin"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20007310,
+        "name_tc": "科進路停車灣近DC2431燈柱",
+        "name_sc": "科进路停车湾近DC2431灯柱",
+        "name_en": "Fo Chun Road lay-by near Lamp Post DE2431"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20007097,
+        "name_tc": "科進路天賦海灣(第二期)外",
+        "name_sc": "科进路天赋海湾(第二期)外",
+        "name_en": "Fo Chun Road outside Providence Bay Phase 2"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20009112,
+        "name_tc": "創新路, 近溋玥．天賦海灣第二期",
+        "name_sc": "创新路, 近溋玥．天赋海湾第二期",
+        "name_en": "Chong San Road, near Providence Peak Phase 2"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20015841,
+        "name_tc": "白石角(科城路)公共運輸交匯處",
+        "name_sc": "白石角(科城路)公共运输交汇处",
+        "name_en": "Pak Shek Kok (Fo Shing Road) Public Transport Interchange"
+      }
+    ],
+    "data_timestamp": "2024-07-31T16:25:27.913+08:00"
+  }
+}

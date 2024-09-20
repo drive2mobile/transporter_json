@@ -1,0 +1,122 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:27:27.360+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20004190,
+        "name_tc": "大角咀(維港灣)公共運輸交匯處",
+        "name_sc": "大角咀(维港湾)公共运输交汇处",
+        "name_en": "Tai Kok Tsui (Island Harbourview) Public Transport Interchange"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20000905,
+        "name_tc": "海輝道小巴總站",
+        "name_sc": "海辉道小巴总站",
+        "name_en": "Hoi Fai Road GMB Terminus"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20015253,
+        "name_tc": "深旺道, 近中耀樓",
+        "name_sc": "深旺道, 近中耀楼",
+        "name_en": "Sham Mong Road, near Chung Yew Building"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20000907,
+        "name_tc": "深旺道匯豐中心外巴士灣",
+        "name_sc": "深旺道汇丰中心外巴士湾",
+        "name_en": "Sham Mong Road bus layby outside HSBC Centre"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20006101,
+        "name_tc": "海泓道(南行巴士灣)",
+        "name_sc": "海泓道(南行巴士湾)",
+        "name_en": "Hoi Wang Road (southbound bus lay-bys)"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20004189,
+        "name_tc": "渡船街28號",
+        "name_sc": "渡船街28号",
+        "name_en": "Ferry Street House No. 28"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20006099,
+        "name_tc": "廣東道佐治五世紀念公園外",
+        "name_sc": "广东道佐治五世纪念公园外",
+        "name_en": "Canton Road outside Geroge V Memorial Park"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20002816,
+        "name_tc": "廣東道港景峰外",
+        "name_sc": "广东道港景峰外",
+        "name_en": "Canton Road outside The Victoria Towers"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20006919,
+        "name_tc": "廣東道中港中心外",
+        "name_sc": "广东道中港中心外",
+        "name_en": "Canton Road outside China Hong Kong Centre"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20006105,
+        "name_tc": "北京道誠信大廈外",
+        "name_sc": "北京道诚信大厦外",
+        "name_en": "Peking Road outside Mary Building"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20000446,
+        "name_tc": "廣東道中港城外",
+        "name_sc": "广东道中港城外",
+        "name_en": "Canton Road outside China Hong Kong City"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20006095,
+        "name_tc": "廣東道佐治五世紀念公園對面",
+        "name_sc": "广东道佐治五世纪念公园对面",
+        "name_en": "Canton Road o/p Geroge V Memorial Park"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20000694,
+        "name_tc": "渡船街21號對面",
+        "name_sc": "渡船街,近文英楼",
+        "name_en": "Ferry Street, near Man Ying Building"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20007073,
+        "name_tc": "欣翔道, 御金·國峯對面",
+        "name_sc": "欣翔道, 御金·国峰对面",
+        "name_en": "Yan Cheung Road, opposite The Coronation"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20000872,
+        "name_tc": "海泓道, 富榮花園第3座外",
+        "name_sc": "海泓道, 富荣花园第3座外",
+        "name_en": "Hoi Wang Road, outside Block 3 Charming Garden"
+      },
+      {
+        "stop_seq": 16,
+        "stop_id": 20004190,
+        "name_tc": "大角咀(維港灣)公共運輸交匯處",
+        "name_sc": "大角咀(维港湾)公共运输交汇处",
+        "name_en": "Tai Kok Tsui (Island Harbourview) Public Transport Interchange"
+      }
+    ],
+    "data_timestamp": "2024-08-13T15:26:10.183+08:00"
+  }
+}

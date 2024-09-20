@@ -1,0 +1,94 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:27:54.344+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20001149,
+        "name_tc": "寶琳公共運輸交匯處",
+        "name_sc": "宝琳公共运输交汇处",
+        "name_en": "Po Lam Public Transport Interchange"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20005032,
+        "name_tc": "寶豐路, 新都城二期外",
+        "name_sc": "宝丰路, 新都城二期外",
+        "name_en": "Metro City Phase 2"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20001174,
+        "name_tc": "貿業路, 寶琳港鐵站外",
+        "name_sc": "贸业路, 宝琳港铁站外",
+        "name_en": "Po Lam Station"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20001133,
+        "name_tc": "運隆路, 將軍澳圖書館",
+        "name_sc": "运隆路, 将军澳图书馆",
+        "name_en": "Wan Lung Road, near Tseung Kwun O Library"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20007712,
+        "name_tc": "寶康路, 香港單車館外",
+        "name_sc": "宝康路, 香港单车馆外",
+        "name_en": "Hong Kong Velodrome"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20007713,
+        "name_tc": "寶康路, 將軍澳運動場外",
+        "name_sc": "宝康路, 将军澳运动场外",
+        "name_en": "Po Hong Road, outside Tseung Kwan O Sports Ground"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20002648,
+        "name_tc": "環保大道, 清水灣半島對面",
+        "name_sc": "环保大道, 清水湾半岛对面",
+        "name_en": "Wan Po Road, opposite Oscar by the Sea"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20002649,
+        "name_tc": "環保大道, 邵氏影城外",
+        "name_sc": "环保大道, 邵氏影城外",
+        "name_en": "Wan Po Road, outside Shaw Studios"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20002633,
+        "name_tc": "環保大道, 首都對面",
+        "name_sc": "环保大道, 首都对面",
+        "name_en": "Wan Po Road, opposite The Capitol"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20002634,
+        "name_tc": "環保大道, 領都對面",
+        "name_sc": "环保大道, 领都对面",
+        "name_en": "Wan Po Road, opposite Le Prestige"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20007714,
+        "name_tc": "駿日街, 大赤沙消防局對面",
+        "name_sc": "骏日街, 大赤沙消防局对面",
+        "name_en": "Chun Yat Street, opposite Tai Chik Sha Fire Station"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20007715,
+        "name_tc": "將軍澳工業邨 (駿昌街) 總站",
+        "name_sc": "将军澳工业邨 (骏昌街) 总站",
+        "name_en": "Tseung Kwan O Industrial Estate (Chun Cheong Street) Terminus"
+      }
+    ],
+    "data_timestamp": "2024-08-07T13:50:04.983+08:00"
+  }
+}

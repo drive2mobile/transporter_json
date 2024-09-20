@@ -1,0 +1,218 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:29:01.497+08:00",
+  "data": [
+    {
+      "route_id": 2003966,
+      "region": "NT",
+      "route_code": "44",
+      "description_tc": "正常班次 ",
+      "description_sc": "正常班次 ",
+      "description_en": "Normal Route",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "屯門碼頭",
+          "orig_sc": "屯门码头",
+          "orig_en": "Tuen Mun Ferry Pier",
+          "dest_tc": "上水站",
+          "dest_sc": "上水站",
+          "dest_en": "Sheung Shui Station",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "05:00:00",
+              "end_time": "07:00:00",
+              "frequency": 4,
+              "frequency_upper": 8
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 2,
+              "start_time": "07:01:00",
+              "end_time": "09:00:00",
+              "frequency": 2,
+              "frequency_upper": 6
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 3,
+              "start_time": "09:01:00",
+              "end_time": "18:00:00",
+              "frequency": 4,
+              "frequency_upper": 8
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 4,
+              "start_time": "18:01:00",
+              "end_time": "20:00:00",
+              "frequency": 2,
+              "frequency_upper": 6
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 5,
+              "start_time": "20:01:00",
+              "end_time": "00:00:00",
+              "frequency": 4,
+              "frequency_upper": 8
+            }
+          ],
+          "data_timestamp": "2024-09-20T11:56:38.695+08:00"
+        },
+        {
+          "route_seq": 2,
+          "orig_tc": "上水站",
+          "orig_sc": "上水站",
+          "orig_en": "Sheung Shui Station",
+          "dest_tc": "屯門碼頭",
+          "dest_sc": "屯门码头",
+          "dest_en": "Tuen Mun Ferry Pier",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "05:40:00",
+              "end_time": "07:00:00",
+              "frequency": 4,
+              "frequency_upper": 8
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 2,
+              "start_time": "07:01:00",
+              "end_time": "09:00:00",
+              "frequency": 2,
+              "frequency_upper": 6
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 3,
+              "start_time": "09:01:00",
+              "end_time": "18:00:00",
+              "frequency": 4,
+              "frequency_upper": 8
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 4,
+              "start_time": "18:01:00",
+              "end_time": "20:00:00",
+              "frequency": 2,
+              "frequency_upper": 6
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 5,
+              "start_time": "20:01:00",
+              "end_time": "01:00:00",
+              "frequency": 4,
+              "frequency_upper": 8
+            }
+          ],
+          "data_timestamp": "2024-09-20T11:56:38.695+08:00"
+        }
+      ],
+      "data_timestamp": "2024-09-20T11:56:38.695+08:00"
+    }
+  ]
+}

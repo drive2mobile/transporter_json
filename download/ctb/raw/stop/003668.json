@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:13:30+08:00",
+  "data": {
+    "stop": "003668",
+    "name_tc": "馬尾下, 沙頭角公路",
+    "name_en": "Ma Mei Ha, Sha Tau Kok Road",
+    "lat": "22.517398562091",
+    "long": "114.17302628053",
+    "name_sc": "马尾下, 沙头角公路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

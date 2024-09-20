@@ -1,0 +1,99 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:29:34.684+08:00",
+  "data": [
+    {
+      "route_id": 2008751,
+      "region": "NT",
+      "route_code": "602",
+      "description_tc": "正常班次",
+      "description_sc": "正常班次",
+      "description_en": "Normal Route",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "元朗 (鳳翔路)",
+          "orig_sc": "元朗 (凤翔路)",
+          "orig_en": "Yuen Long (Fung Cheung Road)",
+          "dest_tc": "大江埔",
+          "dest_sc": "大江埔",
+          "dest_en": "Tai Kong Po",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "05:45:00",
+              "end_time": "21:00:00",
+              "frequency": 15,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-05-30T10:48:46.396+08:00"
+        },
+        {
+          "route_seq": 2,
+          "orig_tc": "大江埔",
+          "orig_sc": "大江埔",
+          "orig_en": "Tai Kong Po",
+          "dest_tc": "元朗 (鳳翔路)",
+          "dest_sc": "元朗 (凤翔路)",
+          "dest_en": "Yuen Long (Fung Cheung Road)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "06:00:00",
+              "end_time": "21:00:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 2,
+              "start_time": "21:00:00",
+              "end_time": "21:20:00",
+              "frequency": 20,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-05-30T10:48:46.396+08:00"
+        }
+      ],
+      "data_timestamp": "2024-05-30T10:48:46.396+08:00"
+    }
+  ]
+}

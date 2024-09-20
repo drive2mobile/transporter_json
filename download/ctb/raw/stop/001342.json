@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:12:46+08:00",
+  "data": {
+    "stop": "001342",
+    "name_tc": "銅鑼灣 (威非路道)",
+    "name_en": "Causeway Bay (Whitfield Road)",
+    "lat": "22.286037612091",
+    "long": "114.19055883053",
+    "name_sc": "铜锣湾 (威非路道)",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

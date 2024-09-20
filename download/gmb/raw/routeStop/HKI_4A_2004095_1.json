@@ -1,0 +1,108 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:25:57.756+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20011318,
+        "name_tc": "石排灣邨公共運輸交匯處",
+        "name_sc": "石排湾邨公共运输交汇处",
+        "name_en": "Shek Pai Wan Estate Public Transport Interchange"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20011237,
+        "name_tc": "南寧街,海晶閣外",
+        "name_sc": "南宁街,海晶阁外",
+        "name_en": "Nam Ning Street, outside Hoi Tsing Court"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20009832,
+        "name_tc": "香港仔大道178號",
+        "name_sc": "香港仔大道178号",
+        "name_en": "No.178 Aberdeen Main Road"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20011613,
+        "name_tc": "黃竹坑道23號",
+        "name_sc": "黄竹坑道23号",
+        "name_en": "Wong Chuk Hang Road, house no. 23"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20000240,
+        "name_tc": "黃竹坑道49號",
+        "name_sc": "黄竹坑道49号",
+        "name_en": "Wong Chuk Hang Road, house no. 49"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20011344,
+        "name_tc": "黃竹坑道,近香港仔隧道東行巴士站",
+        "name_sc": "黄竹坑道,近香港仔隧道东行巴士站",
+        "name_en": "Wong Chuk Hang Road, Eastbound Bus Bay Near Aberdeen Tunnel"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20011345,
+        "name_tc": "摩理臣山道 80-82 號",
+        "name_sc": "摩理臣山道 80-82 号",
+        "name_en": "No. 80-82 Morrison Hill Road"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20011343,
+        "name_tc": "灣仔道221號",
+        "name_sc": "湾仔道221号",
+        "name_en": "No.221 Wan Chai Road"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20011347,
+        "name_tc": "灣仔道187號",
+        "name_sc": "湾仔道187号",
+        "name_en": "No.187 Wan Chai Road"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20011348,
+        "name_tc": "灣仔道151號",
+        "name_sc": "湾仔道151号",
+        "name_en": "No.151 Wan Chai Road"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20011349,
+        "name_tc": "菲林明道,大有大廈外",
+        "name_sc": "菲林明道,大有大厦外",
+        "name_en": "Fleming Road, outside Tai Yau Building"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20018148,
+        "name_tc": "軒尼詩道231號",
+        "name_sc": "轩尼诗道231号",
+        "name_en": "No.231 Hennessy Road"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20011246,
+        "name_tc": "駱克道,銅鑼灣廣場一期外",
+        "name_sc": "骆克道,铜锣湾广场一期外",
+        "name_en": "Lockhart Road, outside Causeway Bay Plaza Phase 1"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20011350,
+        "name_tc": "景隆街,近總統戲院",
+        "name_sc": "景隆街,近总统戏院",
+        "name_en": "Near President Theatre, Cannon Street"
+      }
+    ],
+    "data_timestamp": "2024-08-22T09:21:06.184+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:16:37+08:00",
+  "data": {
+    "stop": "003102",
+    "name_tc": "顯徑商場, 車公廟路",
+    "name_en": "Hin Keng Shopping Centre, Che Kung Miu Road",
+    "lat": "22.364082002091",
+    "long": "114.17187323053",
+    "name_sc": "显径商场, 车公庙路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

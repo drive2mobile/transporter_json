@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:11:14+08:00",
+  "data": {
+    "stop": "002380",
+    "name_tc": "淺水灣道 102 號, 淺水灣道",
+    "name_en": "102 Repulse Bay Road, Repulse Bay Road",
+    "lat": "22.233938732091",
+    "long": "114.20093324053",
+    "name_sc": "浅水湾道 102 号, 浅水湾道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

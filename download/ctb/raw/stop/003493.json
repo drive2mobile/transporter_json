@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:16:32+08:00",
+  "data": {
+    "stop": "003493",
+    "name_tc": "多石, 沙田圍路",
+    "name_en": "To Shek, Sha Tin Wai Road",
+    "lat": "22.378146832091",
+    "long": "114.20368505053",
+    "name_sc": "多石, 沙田围路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

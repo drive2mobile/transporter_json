@@ -1,0 +1,31 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:30:43.050+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20016753,
+        "name_tc": "港鐵青衣站小巴總站",
+        "name_sc": "港铁青衣站小巴总站",
+        "name_en": "Tsing Yi MTR Station Minibus Terminus"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20012810,
+        "name_tc": "青衣鄉事會路, 近翠怡花園第三座",
+        "name_sc": "青衣乡事会路, 近翠怡花园第三座 ",
+        "name_en": "Tsing Yi Heung Sze Wui Road, Near Greenfield Garden Block 3"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20016768,
+        "name_tc": "藍澄灣第三座",
+        "name_sc": "蓝澄湾第三座",
+        "name_en": "Rambler Crest Tower 3"
+      }
+    ],
+    "data_timestamp": "2024-06-03T15:39:49.367+08:00"
+  }
+}

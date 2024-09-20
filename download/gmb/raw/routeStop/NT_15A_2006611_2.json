@@ -1,0 +1,45 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:28:02.822+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20014677,
+        "name_tc": "貿泰路, 茵怡花園第2座外",
+        "name_sc": "贸泰路, 茵怡花园第2座外",
+        "name_en": "Mau Tai Road, outside Block 2, Verbena Heights"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20001175,
+        "name_tc": "寶豐路, 寶琳邨外",
+        "name_sc": "宝丰路, 宝琳邨外",
+        "name_en": "Po Fung Road, outside Po Lam Estate"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20001162,
+        "name_tc": "重華路, 東港城第6座對面",
+        "name_sc": "重华路, 东港城第6座对面",
+        "name_en": "Chung Wa Road, opposite Block 6, East Point City"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20001163,
+        "name_tc": "培成路, 保良局馮晴紀念小學外",
+        "name_sc": "培成路, 保良局冯晴纪念小学外",
+        "name_en": "Pui Shing Road, outside Po Leung Kuk Fung Ching Memorial Primary School"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20001161,
+        "name_tc": "坑口(北)公共運輸交匯處",
+        "name_sc": "坑口(北)公共运输交汇处",
+        "name_en": "Hang Hau (North) Public Transport Interchange"
+      }
+    ],
+    "data_timestamp": "2024-08-07T09:42:12.849+08:00"
+  }
+}

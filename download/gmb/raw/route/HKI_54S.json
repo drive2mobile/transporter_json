@@ -1,0 +1,127 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:26:07.151+08:00",
+  "data": [
+    {
+      "route_id": 2003735,
+      "region": "HKI",
+      "route_code": "54S",
+      "description_tc": "早晨特別班次",
+      "description_sc": "早晨特别班次",
+      "description_en": "Supplementary Service Route (Morning)",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "摩星嶺道, 怡林閣對面",
+          "orig_sc": "摩星岭道, 怡林阁对面",
+          "orig_en": "Mt. Davis Road opposite Greenery Garden",
+          "dest_tc": "堅尼地城站",
+          "dest_sc": "坚尼地城站",
+          "dest_en": "Kennedy Town Station",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "07:30:00",
+              "end_time": "08:00:00",
+              "frequency": 30,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 2,
+              "start_time": "08:00:00",
+              "end_time": "09:00:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 3,
+              "start_time": "09:00:00",
+              "end_time": "17:00:00",
+              "frequency": 30,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-09-17T10:42:13.921+08:00"
+        }
+      ],
+      "data_timestamp": "2024-09-17T10:42:13.921+08:00"
+    },
+    {
+      "route_id": 2003768,
+      "region": "HKI",
+      "route_code": "54S",
+      "description_tc": "黃昏特別班次 ",
+      "description_sc": "黄昏特别班次",
+      "description_en": "Supplementary Service Route ",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "堅尼地城站",
+          "orig_sc": "坚尼地城站",
+          "orig_en": "Kennedy Town Station",
+          "dest_tc": "瑪麗醫院",
+          "dest_sc": "玛丽医院",
+          "dest_en": "Queen Mary Hospital",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "17:00:00",
+              "end_time": "19:00:00",
+              "frequency": 30,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-09-17T10:42:13.921+08:00"
+        }
+      ],
+      "data_timestamp": "2024-09-17T10:42:13.921+08:00"
+    }
+  ]
+}

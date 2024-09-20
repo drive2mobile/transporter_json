@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:12:31+08:00",
+  "data": {
+    "stop": "003718",
+    "name_tc": "北區公園北門, 馬會道",
+    "name_en": "North District Park North Gate, Jockey Club Road",
+    "lat": "22.499635992091",
+    "long": "114.13498851053",
+    "name_sc": "北区公园北门, 马会道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

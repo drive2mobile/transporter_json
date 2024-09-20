@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:17:28+08:00",
+  "data": {
+    "stop": "001427",
+    "name_tc": "黃竹街, 長沙灣道",
+    "name_en": "Wong Chuk Street, Cheung Sha Wan Road",
+    "lat": "22.328596142091",
+    "long": "114.16483148053",
+    "name_sc": "黄竹街, 长沙湾道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

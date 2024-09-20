@@ -1,0 +1,45 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:26:48.886+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20003363,
+        "name_tc": "九龍塘(沙福道)公共運輸交匯處",
+        "name_sc": "九龙塘（沙福道）公共运输交汇处",
+        "name_en": "Kowloon Tong (Suffolk Road) Public Transport Interchange"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20014157,
+        "name_tc": "禧福道, 近浸會大學傳理視藝大樓",
+        "name_sc": "禧福道, 近浸会大学传理视艺大楼 ",
+        "name_en": "HEREFORD ROAD, near Baptist University Communication and Visual Arts Building"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20014158,
+        "name_tc": "浸會大學道, 近香港浸會大學學生舍堂",
+        "name_sc": "浸会大学道, 近香港浸会大学学生舍堂 ",
+        "name_en": "BAPTIST UNIVERSITY ROAD, near HONG KONG BAPTIST UNIVERSITY STUDENT RESIDENCE HALLS"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20014160,
+        "name_tc": "聯福道, 近香港高等教育科技學院 ",
+        "name_sc": "联福道, 近香港高等教育科技学院",
+        "name_en": "RENFREW ROAD, near Technological and Higher Education Institute of Hong Kong"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20014215,
+        "name_tc": "九龍塘(沙福道)公共運輸交匯處",
+        "name_sc": "九龙塘（沙福道）公共运输交汇处",
+        "name_en": "Kowloon Tong (Suffolk Road) Public Transport Interchange"
+      }
+    ],
+    "data_timestamp": "2024-07-28T00:04:00.472+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:12:41+08:00",
+  "data": {
+    "stop": "003742",
+    "name_tc": "馬料水公眾碼頭, 科學園路",
+    "name_en": "Ma Liu Shui Public Pier, Science Park Road",
+    "lat": "22.416020842091",
+    "long": "114.21394174053",
+    "name_sc": "马料水公众码头, 科学园路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

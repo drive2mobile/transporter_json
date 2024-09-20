@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:16:14+08:00",
+  "data": {
+    "stop": "002000",
+    "name_tc": "天盛苑, 天耀路",
+    "name_en": "Tin Shing Court, Tin Yiu Road",
+    "lat": "22.449489822091",
+    "long": "114.00291812053",
+    "name_sc": "天盛苑, 天耀路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

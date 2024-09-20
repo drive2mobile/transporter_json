@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:15:59+08:00",
+  "data": {
+    "stop": "003488",
+    "name_tc": "愛琴海岸, 掃管笏路",
+    "name_en": "Aegean Coast, So Kwun Wat Road",
+    "lat": "22.371503192091",
+    "long": "113.99532767053",
+    "name_sc": "爱琴海岸, 扫管笏路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

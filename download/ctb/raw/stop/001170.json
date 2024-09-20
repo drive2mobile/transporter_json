@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:09:35+08:00",
+  "data": {
+    "stop": "001170",
+    "name_tc": "中環 3 號碼頭, 民光街",
+    "name_en": "Central Pier 3, Man Kwong Street",
+    "lat": "22.287492242091",
+    "long": "114.15733493053",
+    "name_sc": "中环 3 号码头, 民光街",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,397 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:28:01.811+08:00",
+  "data": [
+    {
+      "route_id": 2006609,
+      "region": "NT",
+      "route_code": "15",
+      "description_tc": "正常班次",
+      "description_sc": "正常班次",
+      "description_en": "Normal Departure",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "坑口",
+          "orig_sc": "坑口",
+          "orig_en": "Hang Hau",
+          "dest_tc": "康盛",
+          "dest_sc": "康盛",
+          "dest_en": "Hong Sing",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "06:00:00",
+              "end_time": "07:00:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 2,
+              "start_time": "07:00:00",
+              "end_time": "09:00:00",
+              "frequency": 5,
+              "frequency_upper": 6
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 3,
+              "start_time": "09:00:00",
+              "end_time": "17:00:00",
+              "frequency": 10,
+              "frequency_upper": 12
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 4,
+              "start_time": "17:00:00",
+              "end_time": "19:00:00",
+              "frequency": 5,
+              "frequency_upper": 10
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 5,
+              "start_time": "19:00:00",
+              "end_time": "23:00:00",
+              "frequency": 15,
+              "frequency_upper": 20
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 6,
+              "start_time": "06:00:00",
+              "end_time": "21:00:00",
+              "frequency": 12,
+              "frequency_upper": 20
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 7,
+              "start_time": "21:00:00",
+              "end_time": "23:00:00",
+              "frequency": 20,
+              "frequency_upper": 30
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 8,
+              "start_time": "06:30:00",
+              "end_time": "21:00:00",
+              "frequency": 12,
+              "frequency_upper": 20
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 9,
+              "start_time": "21:00:00",
+              "end_time": "23:00:00",
+              "frequency": 20,
+              "frequency_upper": 30
+            }
+          ],
+          "data_timestamp": "2024-08-07T13:52:30.575+08:00"
+        },
+        {
+          "route_seq": 2,
+          "orig_tc": "康盛",
+          "orig_sc": "康盛",
+          "orig_en": "Hong Sing",
+          "dest_tc": "坑口",
+          "dest_sc": "坑口",
+          "dest_en": "Hang Hau",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "06:00:00",
+              "end_time": "07:00:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 2,
+              "start_time": "07:00:00",
+              "end_time": "09:00:00",
+              "frequency": 5,
+              "frequency_upper": 6
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 3,
+              "start_time": "09:00:00",
+              "end_time": "17:00:00",
+              "frequency": 10,
+              "frequency_upper": 12
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 4,
+              "start_time": "17:00:00",
+              "end_time": "19:00:00",
+              "frequency": 5,
+              "frequency_upper": 10
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 5,
+              "start_time": "19:00:00",
+              "end_time": "23:15:00",
+              "frequency": 15,
+              "frequency_upper": 20
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 6,
+              "start_time": "06:00:00",
+              "end_time": "21:00:00",
+              "frequency": 12,
+              "frequency_upper": 20
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 7,
+              "start_time": "21:00:00",
+              "end_time": "23:00:00",
+              "frequency": 20,
+              "frequency_upper": 30
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 8,
+              "start_time": "06:30:00",
+              "end_time": "21:00:00",
+              "frequency": 12,
+              "frequency_upper": 20
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 9,
+              "start_time": "21:00:00",
+              "end_time": "23:00:00",
+              "frequency": 20,
+              "frequency_upper": 30
+            }
+          ],
+          "data_timestamp": "2024-08-07T13:52:30.575+08:00"
+        }
+      ],
+      "data_timestamp": "2024-08-07T13:52:30.575+08:00"
+    },
+    {
+      "route_id": 2006610,
+      "region": "NT",
+      "route_code": "15",
+      "description_tc": "特別黃昏短程班次",
+      "description_sc": "特别黄昏短程班次 ",
+      "description_en": "Special Evening Short-Working Departure",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "翠林",
+          "orig_sc": "翠林",
+          "orig_en": "Tsui Lam",
+          "dest_tc": "坑口（重華路）（循環線）",
+          "dest_sc": "坑口（重华路）（循环线）",
+          "dest_en": "Hang Hau(Chung Wa Road) （Circular Route）",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "17:30:00",
+              "end_time": "19:00:00",
+              "frequency": 12,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-08-07T09:42:12.852+08:00"
+        }
+      ],
+      "data_timestamp": "2024-08-07T09:42:12.852+08:00"
+    }
+  ]
+}

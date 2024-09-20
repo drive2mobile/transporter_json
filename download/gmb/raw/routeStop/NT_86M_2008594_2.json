@@ -1,0 +1,80 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:30:35.025+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20016724,
+        "name_tc": "石籬(梨貝街)",
+        "name_sc": "石篱(梨贝街)",
+        "name_en": "Shek Lei (Lei Pui Street)"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20016702,
+        "name_tc": "和宜合道雍雅軒外",
+        "name_sc": "和宜合道雍雅轩外",
+        "name_en": "Wo Yi Hop Road outside The Apex"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20011989,
+        "name_tc": "和宜合道97-107號外",
+        "name_sc": "和宜合道97-107号外",
+        "name_en": "Wo Yi Hop Road outside House No. 97-107"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20001679,
+        "name_tc": "和宜合道143號",
+        "name_sc": "和宜合道143号",
+        "name_en": "No.143 Wo Yi Hop Road"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20016710,
+        "name_tc": "和宜合道159-163號外",
+        "name_sc": "和宜合道159-163号外",
+        "name_en": "Wo Yi Hop Road outside House No. 159-163"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20001660,
+        "name_tc": "昌榮路1-7號外",
+        "name_sc": "昌荣路1-7号外",
+        "name_en": "Cheung Wing Road outside House No. 1-7"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20016739,
+        "name_tc": "青山公路-葵涌段近耀榮里的停車灣",
+        "name_sc": "青山公路-葵涌段近耀荣里的停车湾",
+        "name_en": "Castle Peak Road-Kwai Chung at the lay-by near Yiu Wing Lane"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20001687,
+        "name_tc": "青山公路-葵涌段港鐵大窩口站外",
+        "name_sc": "青山公路-葵涌段港铁大窝口站外",
+        "name_en": "Castle Peak Road-Kwai Chung opposite to Tai Wo Hau MTR Station"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20015993,
+        "name_tc": "青山公路-荃灣段近金門口花園",
+        "name_sc": "青山公路-荃湾段近金门口花园",
+        "name_en": "Castle Peak Road-Tsuen Wan near Kam Mun Hau Garden"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20016725,
+        "name_tc": "荃灣(川龍街)",
+        "name_sc": "荃湾(川龙街)",
+        "name_en": "Tsuen Wan (Chuen Lung Street)"
+      }
+    ],
+    "data_timestamp": "2024-07-29T13:49:08.724+08:00"
+  }
+}

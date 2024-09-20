@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:15:09+08:00",
+  "data": {
+    "stop": "002775",
+    "name_tc": "峰華邨曉峰樓, 峰霞道",
+    "name_en": "Hiu Fung House Fung Wah Estate, Fung Ha Road",
+    "lat": "22.260252882091",
+    "long": "114.23106291053",
+    "name_sc": "峰华邨晓峰楼, 峰霞道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

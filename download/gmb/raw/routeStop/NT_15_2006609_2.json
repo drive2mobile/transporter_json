@@ -1,0 +1,73 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:28:02.112+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20014659,
+        "name_tc": "康盛花園巴士總站, 景嶺書院外",
+        "name_sc": "康盛花园巴士总站, 景岭书院外",
+        "name_en": "Hong Sing Garden Bus Terminus, outside King Ling College"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20014675,
+        "name_tc": "翠林體育館外",
+        "name_sc": "翠林体育馆外",
+        "name_en": "Tsui Lam Indoor Creation Centre"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20001169,
+        "name_tc": "寶琳北路, 寶琳邨寶仁樓對面",
+        "name_sc": "宝琳北路, 宝琳邨宝仁楼对面",
+        "name_en": "Po Lam Road North, opposite Po Yan House, Po Lam Estate"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20001170,
+        "name_tc": "欣景路, 欣明苑外",
+        "name_sc": "欣景路, 欣明苑外",
+        "name_en": "Yan King Road, outside Yan Ming Court"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20001171,
+        "name_tc": "寶寧路, 厚德邨對面",
+        "name_sc": "宝宁路, 厚德邨对面",
+        "name_en": "Po Ning Road, opposite Hau Tak Estate"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20001162,
+        "name_tc": "重華路, 東港城第6座對面",
+        "name_sc": "重华路, 东港城第6座对面",
+        "name_en": "Chung Wa Road, opposite Block 6, East Point City"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20001163,
+        "name_tc": "培成路, 保良局馮晴紀念小學外",
+        "name_sc": "培成路, 保良局冯晴纪念小学外",
+        "name_en": "Pui Shing Road, outside Po Leung Kuk Fung Ching Memorial Primary School"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20003054,
+        "name_tc": "寶寧路, 富寧花園外",
+        "name_sc": "宝宁路, 富宁花园外",
+        "name_en": "Po Ning Road, outside Fu Ning Garden"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20001161,
+        "name_tc": "坑口(北)公共運輸交匯處",
+        "name_sc": "坑口(北)公共运输交汇处",
+        "name_en": "Hang Hau (North) Public Transport Interchange"
+      }
+    ],
+    "data_timestamp": "2024-08-07T13:52:30.575+08:00"
+  }
+}

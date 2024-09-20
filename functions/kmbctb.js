@@ -28,11 +28,11 @@ async function parseJsonKmbCtb(lang)
                 if (currStop['route'] in reverseDir)
                 {
                     const dir = currStop['dir'] == 'I' ? 'O' : 'I';
-                    ctbRouteStopList = routeStopListCtb[`KMBCTB_${currStop['route']}_${dir}`];
+                    ctbRouteStopList = routeStopListCtb[`kmbctb_${currStop['route']}_${dir}`];
                 }
                 else
                 {
-                    ctbRouteStopList = routeStopListCtb[`KMBCTB_${currStop['route']}_${currStop['dir']}`];
+                    ctbRouteStopList = routeStopListCtb[`kmbctb_${currStop['route']}_${currStop['dir']}`];
                 }
                     
                 const closestStop = await findNearestCoopStop(currStop['lat'], currStop['long'], ctbRouteStopList);

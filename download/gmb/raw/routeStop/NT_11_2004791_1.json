@@ -1,0 +1,136 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:27:49.266+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20012484,
+        "name_tc": "庭和里, 近坑口村",
+        "name_sc": "庭和里, 近坑口村",
+        "name_en": "Ting Wo Lane, near Hang Hau Village"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20002563,
+        "name_tc": "重華路, 東港城第6座對面",
+        "name_sc": "重华路, 东港城第6座对面",
+        "name_en": "Chung Wa Road, opposite Block 6, East Point City"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20002597,
+        "name_tc": "坑口站公共運輸交匯處",
+        "name_sc": "坑口站公共运输交汇处",
+        "name_en": "Hang Hau Station Public Transport Interchange"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20003054,
+        "name_tc": "寶寧路, 富寧花園外",
+        "name_sc": "宝宁路, 富宁花园外",
+        "name_en": "Po Ning Road, outside Fu Ning Garden"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20001140,
+        "name_tc": "寶寧路, 將軍澳醫院外",
+        "name_sc": "宝宁路, 将军澳医院外",
+        "name_en": "Po Ning Road, outside Tseung Kwan O Hospital"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20012485,
+        "name_tc": "坑口道, 近雅景別墅",
+        "name_sc": "坑口道, 近雅景别墅",
+        "name_en": "Hang Hau Road, near Junk Bay Villa"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20013010,
+        "name_tc": "香港科技大學(南站)",
+        "name_sc": "香港科技大学(南站)",
+        "name_en": "Hong Kong University of Science and Technology (South Station)"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20001142,
+        "name_tc": "清水灣道, 大埔仔村外",
+        "name_sc": "清水湾道, 大埔仔村外",
+        "name_en": "Clear Water Bay Road, outside Tai Po Tsai Tsuen"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20012487,
+        "name_tc": "清水灣道, 大埔仔坳",
+        "name_sc": "清水湾道, 大埔仔坳 ",
+        "name_en": "Clear Water Bay Road,Tai Po Tsai Kau"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20012488,
+        "name_tc": "清水灣道, 打鼓嶺新村對面",
+        "name_sc": "清水湾道, 打鼓岭新村对面",
+        "name_en": "Clear Water Bay Road, opposite Ta Ku Ling San Tsuen"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20001145,
+        "name_tc": "清水灣道, 壁屋懲教署對面",
+        "name_sc": "清水湾道, 壁屋惩教署对面",
+        "name_en": "Clear Water Bay Road, opposite Pik Uk Correctional Institute"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20012489,
+        "name_tc": "清水灣道, 白石窩",
+        "name_sc": "清水湾道, 白石窝",
+        "name_en": " Clear Water Bay Road,Pak Shek Wo"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20001146,
+        "name_tc": "清水灣道, 近井欄樹",
+        "name_sc": "清水湾道, 近井栏树",
+        "name_en": " Clear Water Bay Road, near Tseng Lan Shue"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20012490,
+        "name_tc": "清水灣道, 近龍窩村",
+        "name_sc": "清水灣道, 近龙窝村",
+        "name_en": " Clear Water Bay Road,near Lung Wo Village"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20012491,
+        "name_tc": "清水灣道, 德望學校對面",
+        "name_sc": "清水湾道, 德望学校对面",
+        "name_en": " Clear Water Bay Road,opposite Good Hope School"
+      },
+      {
+        "stop_seq": 16,
+        "stop_id": 20000566,
+        "name_tc": "彩雲邨",
+        "name_sc": "彩云村",
+        "name_en": "Choi Wan Estate"
+      },
+      {
+        "stop_seq": 17,
+        "stop_id": 20001117,
+        "name_tc": "清水灣道(西行線), 坪石邨紅石樓外小巴停車坑\t",
+        "name_sc": "清水湾道(西行线), 坪石村红石楼外小巴停车坑\t",
+        "name_en": "Clear Water Bay Road (westbound), at the lay-by outside Hung Shek House, Ping Shek Estate\t"
+      },
+      {
+        "stop_seq": 18,
+        "stop_id": 20012492,
+        "name_tc": "龍翔道, 彩虹邨紅萼樓外",
+        "name_sc": "龙翔道, 彩虹村红萼楼外",
+        "name_en": "Lung Cheung Road, outside Hung Ngok House, Choi Hung Estate "
+      }
+    ],
+    "data_timestamp": "2024-09-10T18:26:28.076+08:00"
+  }
+}

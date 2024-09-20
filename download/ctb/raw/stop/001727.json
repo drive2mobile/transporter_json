@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:08:59+08:00",
+  "data": {
+    "stop": "001727",
+    "name_tc": "重華路",
+    "name_en": "Chung Wa Road",
+    "lat": "22.316936322091",
+    "long": "114.26586361053",
+    "name_sc": "重华路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:27:02.356+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20013722,
+        "name_tc": "又一城",
+        "name_sc": "又一城",
+        "name_en": "Festival Walk"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20013721,
+        "name_tc": "達之路, 近又一村花園 Sherborne",
+        "name_sc": "达之路, 近又一村花园 Sherborne ",
+        "name_en": "TAT CHEE AVENUE, near Sherborne, VILLAGE GARDENS"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20013723,
+        "name_tc": "達之路, 近又一村花園 Lyndhurst",
+        "name_sc": "达之路, 近又一村花园 Lyndhurst ",
+        "name_en": "TAT CHEE AVENUE, near Lyndhurst, VILLAGE GARDENS"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20013724,
+        "name_tc": "達之路, 近又一樓",
+        "name_sc": "达之路, 近又一楼 ",
+        "name_en": "TAT CHEE AVENUE, near Yau Yat Lau"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20013725,
+        "name_tc": "達之路, 近禮賢會堂",
+        "name_sc": "达之路, 近礼贤会堂 ",
+        "name_en": "TAT CHEE AVENUE, near 禮賢會堂"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20013726,
+        "name_tc": "大坑東道, 近大坑東邨東滿樓",
+        "name_sc": "大坑东道, 近大坑东村东满楼 ",
+        "name_en": "TAI HANG TUNG ROAD, near Tung Moon House, TAI HANG TUNG ESTATE"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20013727,
+        "name_tc": "窩仔街, 近大坑西新邨民樂樓",
+        "name_sc": "窝仔街, 近大坑西新村民乐楼 ",
+        "name_en": "WOH CHAI STREET, near Man Lok House, TAI HANG SAI ESTATE"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20013728,
+        "name_tc": "窩仔街, 近中華基督教會銘賢書院",
+        "name_sc": "窝仔街, 近中华基督教会铭贤书院 ",
+        "name_en": "WOH CHAI STREET, near The Church of Christ in China Ming Yin College"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20006915,
+        "name_tc": "巴域街, 石硤尾街市外",
+        "name_sc": "巴域街, 石硖尾街市外",
+        "name_en": "Nam Cheong Street, outside Public Health Laboratory Centre"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20000519,
+        "name_tc": "窩仔街, 銘賢書院外",
+        "name_sc": "窝仔街, 铭贤书院外",
+        "name_en": "Woh Chai Street, outside Ming Yin College"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20013729,
+        "name_tc": "大坑東道, 近路德會協同中學",
+        "name_sc": "大坑东道, 近路德会协同中学 ",
+        "name_en": "TAI HANG TUNG ROAD, near Concordia Lutheran School"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20000433,
+        "name_tc": "大坑東道,大坑東遊樂場外",
+        "name_sc": "大坑东道,大坑东游乐场外",
+        "name_en": "Tau Hang Tung Road, outside Tai Hang Tung Recreation Ground"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20013730,
+        "name_tc": "達之路, 近花墟公園",
+        "name_sc": "达之路, 近花墟公园 ",
+        "name_en": "TAT CHEE AVENUE, near FA HUI PARK"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20013731,
+        "name_tc": "達之路, 近富豪苑",
+        "name_sc": "达之路, 近富豪苑 ",
+        "name_en": "TAT CHEE AVENUE, near Peony Garden"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20013732,
+        "name_tc": "達之路, 近碧麗苑",
+        "name_sc": "达之路, 近碧丽苑 ",
+        "name_en": "TAT CHEE AVENUE, near Bisney Court"
+      },
+      {
+        "stop_seq": 16,
+        "stop_id": 20013733,
+        "name_tc": "達之路, 近又一居第２座",
+        "name_sc": "达之路, 近又一居第２座 ",
+        "name_en": "TAT CHEE AVENUE, near Parc Oasis Tower 2"
+      },
+      {
+        "stop_seq": 17,
+        "stop_id": 20013734,
+        "name_tc": "達之路, 近賽馬會環保樓",
+        "name_sc": "达之路, 近赛马会环保楼 ",
+        "name_en": "TAT CHEE AVENUE, near The Jockey Club Environmental Building"
+      },
+      {
+        "stop_seq": 18,
+        "stop_id": 20013735,
+        "name_tc": "又一城",
+        "name_sc": "又一城",
+        "name_en": "Festival Walk"
+      }
+    ],
+    "data_timestamp": "2024-08-07T09:17:59.998+08:00"
+  }
+}

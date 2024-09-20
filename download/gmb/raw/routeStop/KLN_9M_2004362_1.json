@@ -1,0 +1,73 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:27:38.960+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20012176,
+        "name_tc": "白雲街",
+        "name_sc": "白云街",
+        "name_en": "Pak Wan Street "
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20012010,
+        "name_tc": "白雲街, 白田邨第9座對面",
+        "name_sc": "白云街, 白田村第9座对面 ",
+        "name_en": "Pak Wan Street, opposite to Block 9, Pak Tin Estate"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20012011,
+        "name_tc": "白田街, 賽馬會創意藝術中心外",
+        "name_sc": "白田街, 赛马会创意艺术中心外 ",
+        "name_en": "Pak Tin Street, outside Jockey Club Creative Arts Centre"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20012012,
+        "name_tc": "巴域街, 石硤尾邨第22座外",
+        "name_sc": "巴域街, 石硖尾村第22座外 ",
+        "name_en": "Berwick Street, outside Block 22, Shek Kip Mei Estate"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20006915,
+        "name_tc": "巴域街, 石硤尾街市外",
+        "name_sc": "巴域街, 石硖尾街市外",
+        "name_en": "Nam Cheong Street, outside Public Health Laboratory Centre"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20000519,
+        "name_tc": "窩仔街, 銘賢書院外",
+        "name_sc": "窝仔街, 铭贤书院外",
+        "name_en": "Woh Chai Street, outside Ming Yin College"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20012013,
+        "name_tc": "南昌街, 名都廣場外",
+        "name_sc": "南昌街, 名都广场外 ",
+        "name_en": "Nam Cheong Street, outside Main Town Plaza"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20012014,
+        "name_tc": "白雲街, 白田邨昌田樓外",
+        "name_sc": "白云街, 白田邨昌田楼外",
+        "name_en": "Pak Wan Street, outside Cheung Tin House, Pak Tin Estate"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20012015,
+        "name_tc": "白雲街",
+        "name_sc": "白云街",
+        "name_en": "Pak Wan Street "
+      }
+    ],
+    "data_timestamp": "2023-12-03T00:00:12.537+08:00"
+  }
+}

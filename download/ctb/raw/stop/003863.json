@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:11:35+08:00",
+  "data": {
+    "stop": "003863",
+    "name_tc": "太平工業中心, 汀角路",
+    "name_en": "Tai Ping Industrial Centre, Ting Kok Road",
+    "lat": "22.456931582091",
+    "long": "114.16797998053",
+    "name_sc": "太平工业中心, 汀角路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

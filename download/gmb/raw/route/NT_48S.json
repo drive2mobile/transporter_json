@@ -1,0 +1,82 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:29:10.054+08:00",
+  "data": [
+    {
+      "route_id": 2008851,
+      "region": "NT",
+      "route_code": "48S",
+      "description_tc": "正常班次",
+      "description_sc": "正常班次",
+      "description_en": "Normal Route",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "良景邨",
+          "orig_sc": "良景邨",
+          "orig_en": "Leung King Estate",
+          "dest_tc": "旺角",
+          "dest_sc": "旺角",
+          "dest_en": "Mong Kok",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "23:30:00",
+              "end_time": "04:30:00",
+              "frequency": 15,
+              "frequency_upper": 20
+            }
+          ],
+          "data_timestamp": "2024-09-16T13:54:09.310+08:00"
+        },
+        {
+          "route_seq": 2,
+          "orig_tc": "旺角",
+          "orig_sc": "旺角",
+          "orig_en": "Mong Kok",
+          "dest_tc": "良景邨",
+          "dest_sc": "良景邨",
+          "dest_en": "Leung King Estate",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "00:00:00",
+              "end_time": "05:20:00",
+              "frequency": 15,
+              "frequency_upper": 20
+            }
+          ],
+          "data_timestamp": "2024-09-16T13:54:09.310+08:00"
+        }
+      ],
+      "data_timestamp": "2024-09-16T13:54:09.310+08:00"
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:30:34.145+08:00",
+  "data": [
+    {
+      "route_id": 2008593,
+      "region": "NT",
+      "route_code": "86A",
+      "description_tc": "正常班次",
+      "description_sc": "正常班次",
+      "description_en": "Normal Departure",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "荃灣(川龍街)",
+          "orig_sc": "荃湾(川龙街)",
+          "orig_en": "Tsuen Wan (Chuen Lung Street)",
+          "dest_tc": "石籬(梨貝街)",
+          "dest_sc": "石篱(梨贝街)",
+          "dest_en": "Shek Lei (Lei Pui Street)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "00:00:00",
+              "end_time": "00:55:00",
+              "frequency": 15,
+              "frequency_upper": 20
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 2,
+              "start_time": "00:55:00",
+              "end_time": "01:40:00",
+              "frequency": 20,
+              "frequency_upper": 25
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 3,
+              "start_time": "01:40:00",
+              "end_time": "03:00:00",
+              "frequency": 25,
+              "frequency_upper": 30
+            }
+          ],
+          "data_timestamp": "2024-07-29T13:49:08.726+08:00"
+        },
+        {
+          "route_seq": 2,
+          "orig_tc": "石籬(梨貝街)",
+          "orig_sc": "石篱(梨贝街)",
+          "orig_en": "Shek Lei (Lei Pui Street)",
+          "dest_tc": "荃灣(川龍街)",
+          "dest_sc": "荃湾(川龙街)",
+          "dest_en": "Tsuen Wan (Chuen Lung Street)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "00:00:00",
+              "end_time": "00:55:00",
+              "frequency": 15,
+              "frequency_upper": 20
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 2,
+              "start_time": "00:55:00",
+              "end_time": "01:40:00",
+              "frequency": 20,
+              "frequency_upper": 25
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 3,
+              "start_time": "01:40:00",
+              "end_time": "03:00:00",
+              "frequency": 25,
+              "frequency_upper": 30
+            }
+          ],
+          "data_timestamp": "2024-07-29T13:49:08.726+08:00"
+        }
+      ],
+      "data_timestamp": "2024-07-29T13:49:08.726+08:00"
+    }
+  ]
+}

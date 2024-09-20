@@ -1,0 +1,52 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:26:23.407+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20006979,
+        "name_tc": "中環(交易廣場)",
+        "name_sc": "中环(交易广场)",
+        "name_en": "Central (Exchange Square)"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20000008,
+        "name_tc": "薄扶林道, 香港大學西閘",
+        "name_sc": "薄扶林道, 香港大学西闸",
+        "name_en": "Pok Fu Lam Road, West Gate of The University of Hong Kong"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20000009,
+        "name_tc": "薄扶林道, 寶翠園對面",
+        "name_sc": "薄扶林道, 宝翠园对面",
+        "name_en": "Pok Fu Lam Road, opposite The Belcher's"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20011351,
+        "name_tc": "沙宣道21號",
+        "name_sc": "沙宣道21号",
+        "name_en": "Sassoon Road, house no. 21"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20011352,
+        "name_tc": "碧瑤灣(上)第24座對面",
+        "name_sc": "碧瑶湾(上)第24座对面",
+        "name_en": "Opposite Baguio Villa Block 24"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20011281,
+        "name_tc": "薄扶林,碧瑤灣(下)第17座外(總站)",
+        "name_sc": "薄扶林,碧瑶湾(下)第17座外(总站)",
+        "name_en": "Near Baguio Villa Block 17"
+      }
+    ],
+    "data_timestamp": "2024-07-09T10:14:56.008+08:00"
+  }
+}

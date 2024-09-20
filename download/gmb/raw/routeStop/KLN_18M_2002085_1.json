@@ -1,0 +1,38 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:26:34.217+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20019006,
+        "name_tc": "黃大仙公共小型巴士(專線)服務總站",
+        "name_sc": "黄大仙公共小型巴士(专线)服务总站",
+        "name_en": "Wong Tai Sin Public Light Bus (Scheduled) Service Terminus"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20000580,
+        "name_tc": "雅竹街, 竹園南邨雅園樓外",
+        "name_sc": "雅竹街, 竹园南邨雅园楼外",
+        "name_en": "Nga Chuk Street, outside Nga Yuen House, Chuk Yuen South Estate"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20000581,
+        "name_tc": "沙田坳道, 鑽石山廣蔭老人院對面",
+        "name_sc": "沙田坳道, 钻石山广荫老人院对面",
+        "name_en": "Shatin Pass Road, opposite Diamond Hill Kwong Yum Home For The Aged"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20000582,
+        "name_tc": "慈雲山道, 沙田坳邨和田樓外",
+        "name_sc": "慈云山道, 沙田坳邨和田楼外",
+        "name_en": "Tsz Wan Shan Road, outside Wo Tin House, Shatin Pass Estate"
+      }
+    ],
+    "data_timestamp": "2024-07-31T18:11:44.274+08:00"
+  }
+}

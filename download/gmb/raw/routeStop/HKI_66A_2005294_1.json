@@ -1,0 +1,101 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:26:19.916+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20012971,
+        "name_tc": "愛賢街, 愛東商場外",
+        "name_sc": "爱贤街, 爱东商场外",
+        "name_en": "Oi Yin Street, outside Oi Tung Shopping Centre"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20012972,
+        "name_tc": "愛賢街, 愛蝶灣多層停車場外",
+        "name_sc": "爱贤街, 爱蝶湾多层停车场外",
+        "name_en": "Oi Yin Street. Outside Aldrich Garden Multi-storey Car Park"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20012973,
+        "name_tc": "望隆街, 景輝大廈外",
+        "name_sc": "望隆街, 景辉大厦外",
+        "name_en": "Mong Lung Street, outside King Fai Building"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20012974,
+        "name_tc": "望隆街, 金威樓外",
+        "name_sc": "望隆街, 金威楼外",
+        "name_en": "Mong Lung Street, outside Kam Wai Building"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20012975,
+        "name_tc": "柴灣道, 香島外",
+        "name_sc": "柴湾道, 柏架电力站对面",
+        "name_en": "Chai Wan Road, outside Island Garden"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20012976,
+        "name_tc": "柴灣道, 筲箕灣東官立中學對面",
+        "name_sc": "柴湾道, 筲箕湾东官立中学对面",
+        "name_en": "Chai Wan Road, opposite Shau Kei Wan East Government Secondary School"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20012977,
+        "name_tc": "柴灣道, 筲箕灣官立中學對面",
+        "name_sc": "柴湾道, 筲箕湾官立中学对面",
+        "name_en": "Chai Wan Road, opposite Shau Kei Wan Government Secondary School"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20012978,
+        "name_tc": "東區尤德夫人那打素醫院, 主座大樓對面",
+        "name_sc": "东区尤德夫人那打素医院, 主座大楼外",
+        "name_en": "Pamela Youde Nethersole Eastern Hospital, opposite Main Block"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20012983,
+        "name_tc": "柴灣道, 山翠苑外",
+        "name_sc": "柴湾道, 山翠苑",
+        "name_en": "Chai Wan Road, outside Shan Tsui Court"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20000398,
+        "name_tc": "柴灣道, 筲箕灣官立中學",
+        "name_sc": "柴湾道, 筲箕湾官立中学",
+        "name_en": "Chai Wan Road, Shau Kei Wan Primary School"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20012984,
+        "name_tc": "寶文街, 峻峰花園B座外",
+        "name_sc": "宝文街, 峻峰花园B座外",
+        "name_en": "Po Man Road, outside Block B, Perfect Mount Gardens"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20012985,
+        "name_tc": "愛蝶灣第10座外",
+        "name_sc": "爱蝶湾第10座外",
+        "name_en": "Aldrich Garden, outside Block 10"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20012971,
+        "name_tc": "愛賢街, 愛蝶灣第8座外",
+        "name_sc": "爱贤街, 爱东商场外",
+        "name_en": "Oi Yin Street, outside Block 8, Aldrich Garden"
+      }
+    ],
+    "data_timestamp": "2024-09-04T11:35:10.424+08:00"
+  }
+}

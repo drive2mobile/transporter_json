@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:03:28+08:00",
+  "data": {
+    "stop": "001506",
+    "name_tc": "牛頭角下邨, 觀塘道",
+    "name_en": "Lower Ngau Tau Kok Estate, Kwun Tong Road",
+    "lat": "22.321454812091",
+    "long": "114.21463179053",
+    "name_sc": "牛头角下邨, 观塘道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

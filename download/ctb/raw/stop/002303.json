@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:09:45+08:00",
+  "data": {
+    "stop": "002303",
+    "name_tc": "香港航海學校, 東頭灣道",
+    "name_en": "Hong Kong Sea School, Tung Tau Wan Road",
+    "lat": "22.218215302091",
+    "long": "114.21414073053",
+    "name_sc": "香港航海学校, 东头湾道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

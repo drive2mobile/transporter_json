@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:08:15+08:00",
+  "data": {
+    "stop": "001300",
+    "name_tc": "南安里, 筲箕灣道",
+    "name_en": "Nam On Lane, Shau Kei Wan Road",
+    "lat": "22.277420312091",
+    "long": "114.22717089053",
+    "name_sc": "南安里, 筲箕湾道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

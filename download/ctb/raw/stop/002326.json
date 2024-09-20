@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:12:07+08:00",
+  "data": {
+    "stop": "002326",
+    "name_tc": "碧苑, 域多利道",
+    "name_en": "Blarney Stone Villas, Victoria Road",
+    "lat": "22.272249972091",
+    "long": "114.12078745053",
+    "name_sc": "碧苑, 域多利道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

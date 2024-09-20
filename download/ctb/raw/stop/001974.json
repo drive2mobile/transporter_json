@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:15:29+08:00",
+  "data": {
+    "stop": "001974",
+    "name_tc": "葵康苑, 大窩口道",
+    "name_en": "Kwai Hong Court, Tai Wo Hau Road",
+    "lat": "22.363199112091",
+    "long": "114.13051902053",
+    "name_sc": "葵康苑, 大窝口道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

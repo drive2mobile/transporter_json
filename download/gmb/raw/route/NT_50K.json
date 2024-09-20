@@ -1,0 +1,3329 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:29:18.809+08:00",
+  "data": [
+    {
+      "route_id": 2005323,
+      "region": "NT",
+      "route_code": "50K",
+      "description_tc": "正常班次 ",
+      "description_sc": "正常班次 ",
+      "description_en": "Normal Route",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "上水站",
+          "orig_sc": "上水站",
+          "orig_en": "Sheung Shui Station",
+          "dest_tc": "坑頭",
+          "dest_sc": "坑头",
+          "dest_en": "Hang Tau",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "04:45:00",
+              "end_time": "05:10:00",
+              "frequency": 25,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 2,
+              "start_time": "05:10:00",
+              "end_time": "05:30:00",
+              "frequency": 20,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 3,
+              "start_time": "05:30:00",
+              "end_time": "05:55:00",
+              "frequency": 25,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 4,
+              "start_time": "05:55:00",
+              "end_time": "07:00:00",
+              "frequency": 5,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 5,
+              "start_time": "07:00:00",
+              "end_time": "08:00:00",
+              "frequency": 4,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 6,
+              "start_time": "08:00:00",
+              "end_time": "09:00:00",
+              "frequency": 5,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 7,
+              "start_time": "09:00:00",
+              "end_time": "17:00:00",
+              "frequency": 8,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 8,
+              "start_time": "17:00:00",
+              "end_time": "20:00:00",
+              "frequency": 5,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 9,
+              "start_time": "20:00:00",
+              "end_time": "21:28:00",
+              "frequency": 8,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 10,
+              "start_time": "21:28:00",
+              "end_time": "21:40:00",
+              "frequency": 12,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 11,
+              "start_time": "21:40:00",
+              "end_time": "21:55:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 12,
+              "start_time": "21:55:00",
+              "end_time": "22:05:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 13,
+              "start_time": "22:05:00",
+              "end_time": "22:20:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 14,
+              "start_time": "22:20:00",
+              "end_time": "22:30:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 15,
+              "start_time": "22:30:00",
+              "end_time": "22:45:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 16,
+              "start_time": "22:45:00",
+              "end_time": "22:55:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 17,
+              "start_time": "22:55:00",
+              "end_time": "23:10:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 18,
+              "start_time": "23:10:00",
+              "end_time": "23:20:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 19,
+              "start_time": "23:20:00",
+              "end_time": "23:35:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 20,
+              "start_time": "23:35:00",
+              "end_time": "23:45:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 21,
+              "start_time": "23:45:00",
+              "end_time": "00:30:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 22,
+              "start_time": "04:45:00",
+              "end_time": "05:05:00",
+              "frequency": 20,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 23,
+              "start_time": "05:05:00",
+              "end_time": "05:30:00",
+              "frequency": 25,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 24,
+              "start_time": "05:30:00",
+              "end_time": "05:50:00",
+              "frequency": 20,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 25,
+              "start_time": "05:50:00",
+              "end_time": "06:00:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 26,
+              "start_time": "06:00:00",
+              "end_time": "06:06:00",
+              "frequency": 6,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 27,
+              "start_time": "06:06:00",
+              "end_time": "06:14:00",
+              "frequency": 8,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 28,
+              "start_time": "06:14:00",
+              "end_time": "06:20:00",
+              "frequency": 6,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 29,
+              "start_time": "06:20:00",
+              "end_time": "06:28:00",
+              "frequency": 8,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 30,
+              "start_time": "06:28:00",
+              "end_time": "06:34:00",
+              "frequency": 6,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 31,
+              "start_time": "06:34:00",
+              "end_time": "06:42:00",
+              "frequency": 8,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 32,
+              "start_time": "06:42:00",
+              "end_time": "06:48:00",
+              "frequency": 6,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 33,
+              "start_time": "06:48:00",
+              "end_time": "06:56:00",
+              "frequency": 8,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 34,
+              "start_time": "06:56:00",
+              "end_time": "07:02:00",
+              "frequency": 6,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 35,
+              "start_time": "07:02:00",
+              "end_time": "07:10:00",
+              "frequency": 8,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 36,
+              "start_time": "07:10:00",
+              "end_time": "07:16:00",
+              "frequency": 6,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 37,
+              "start_time": "07:16:00",
+              "end_time": "07:24:00",
+              "frequency": 8,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 38,
+              "start_time": "07:24:00",
+              "end_time": "07:30:00",
+              "frequency": 6,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 39,
+              "start_time": "07:30:00",
+              "end_time": "07:38:00",
+              "frequency": 8,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 40,
+              "start_time": "07:38:00",
+              "end_time": "07:44:00",
+              "frequency": 6,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 41,
+              "start_time": "07:44:00",
+              "end_time": "08:00:00",
+              "frequency": 8,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 42,
+              "start_time": "08:00:00",
+              "end_time": "09:00:00",
+              "frequency": 5,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 43,
+              "start_time": "09:00:00",
+              "end_time": "20:00:00",
+              "frequency": 6,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 44,
+              "start_time": "20:00:00",
+              "end_time": "21:28:00",
+              "frequency": 8,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 45,
+              "start_time": "21:28:00",
+              "end_time": "21:40:00",
+              "frequency": 12,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 46,
+              "start_time": "21:40:00",
+              "end_time": "21:55:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 47,
+              "start_time": "21:55:00",
+              "end_time": "22:05:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 48,
+              "start_time": "22:05:00",
+              "end_time": "22:20:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 49,
+              "start_time": "22:20:00",
+              "end_time": "22:30:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 50,
+              "start_time": "22:30:00",
+              "end_time": "22:45:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 51,
+              "start_time": "22:45:00",
+              "end_time": "22:55:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 52,
+              "start_time": "22:55:00",
+              "end_time": "23:10:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 53,
+              "start_time": "23:10:00",
+              "end_time": "23:20:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 54,
+              "start_time": "23:20:00",
+              "end_time": "23:35:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 55,
+              "start_time": "23:35:00",
+              "end_time": "23:45:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 56,
+              "start_time": "23:45:00",
+              "end_time": "00:30:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 57,
+              "start_time": "04:45:00",
+              "end_time": "05:05:00",
+              "frequency": 20,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 58,
+              "start_time": "05:05:00",
+              "end_time": "05:30:00",
+              "frequency": 25,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 59,
+              "start_time": "05:30:00",
+              "end_time": "05:50:00",
+              "frequency": 20,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 60,
+              "start_time": "05:50:00",
+              "end_time": "06:00:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 61,
+              "start_time": "06:00:00",
+              "end_time": "08:00:00",
+              "frequency": 8,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 62,
+              "start_time": "08:00:00",
+              "end_time": "20:00:00",
+              "frequency": 6,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 63,
+              "start_time": "20:00:00",
+              "end_time": "21:28:00",
+              "frequency": 8,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 64,
+              "start_time": "21:28:00",
+              "end_time": "21:40:00",
+              "frequency": 12,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 65,
+              "start_time": "21:40:00",
+              "end_time": "21:50:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 66,
+              "start_time": "21:50:00",
+              "end_time": "22:05:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 67,
+              "start_time": "22:05:00",
+              "end_time": "22:15:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 68,
+              "start_time": "22:15:00",
+              "end_time": "22:30:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 69,
+              "start_time": "22:30:00",
+              "end_time": "22:40:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 70,
+              "start_time": "22:40:00",
+              "end_time": "22:55:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 71,
+              "start_time": "22:55:00",
+              "end_time": "23:05:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 72,
+              "start_time": "23:05:00",
+              "end_time": "23:20:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 73,
+              "start_time": "23:20:00",
+              "end_time": "23:30:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 74,
+              "start_time": "23:30:00",
+              "end_time": "23:45:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 75,
+              "start_time": "23:45:00",
+              "end_time": "00:15:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 76,
+              "start_time": "00:15:00",
+              "end_time": "00:30:00",
+              "frequency": 15,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-09-20T11:56:38.695+08:00"
+        },
+        {
+          "route_seq": 2,
+          "orig_tc": "坑頭",
+          "orig_sc": "坑头",
+          "orig_en": "Hang Tau",
+          "dest_tc": "上水站",
+          "dest_sc": "上水站",
+          "dest_en": "Sheung Shui Station",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "04:55:00",
+              "end_time": "05:15:00",
+              "frequency": 20,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 2,
+              "start_time": "05:15:00",
+              "end_time": "05:40:00",
+              "frequency": 25,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 3,
+              "start_time": "05:40:00",
+              "end_time": "06:00:00",
+              "frequency": 20,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 4,
+              "start_time": "06:00:00",
+              "end_time": "06:30:00",
+              "frequency": 5,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 5,
+              "start_time": "06:30:00",
+              "end_time": "06:33:00",
+              "frequency": 3,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 6,
+              "start_time": "06:33:00",
+              "end_time": "06:37:00",
+              "frequency": 4,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 7,
+              "start_time": "06:37:00",
+              "end_time": "06:40:00",
+              "frequency": 3,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 8,
+              "start_time": "06:40:00",
+              "end_time": "06:44:00",
+              "frequency": 4,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 9,
+              "start_time": "06:44:00",
+              "end_time": "06:47:00",
+              "frequency": 3,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 10,
+              "start_time": "06:47:00",
+              "end_time": "06:51:00",
+              "frequency": 4,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 11,
+              "start_time": "06:51:00",
+              "end_time": "06:54:00",
+              "frequency": 3,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 12,
+              "start_time": "06:54:00",
+              "end_time": "06:58:00",
+              "frequency": 4,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 13,
+              "start_time": "06:58:00",
+              "end_time": "07:01:00",
+              "frequency": 3,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 14,
+              "start_time": "07:01:00",
+              "end_time": "07:05:00",
+              "frequency": 4,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 15,
+              "start_time": "07:05:00",
+              "end_time": "07:08:00",
+              "frequency": 3,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 16,
+              "start_time": "07:08:00",
+              "end_time": "07:12:00",
+              "frequency": 4,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 17,
+              "start_time": "07:12:00",
+              "end_time": "07:15:00",
+              "frequency": 3,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 18,
+              "start_time": "07:15:00",
+              "end_time": "07:19:00",
+              "frequency": 4,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 19,
+              "start_time": "07:19:00",
+              "end_time": "07:22:00",
+              "frequency": 3,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 20,
+              "start_time": "07:22:00",
+              "end_time": "07:26:00",
+              "frequency": 4,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 21,
+              "start_time": "07:26:00",
+              "end_time": "07:29:00",
+              "frequency": 3,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 22,
+              "start_time": "07:29:00",
+              "end_time": "07:33:00",
+              "frequency": 4,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 23,
+              "start_time": "07:33:00",
+              "end_time": "07:36:00",
+              "frequency": 3,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 24,
+              "start_time": "07:36:00",
+              "end_time": "07:40:00",
+              "frequency": 4,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 25,
+              "start_time": "07:40:00",
+              "end_time": "07:43:00",
+              "frequency": 3,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 26,
+              "start_time": "07:43:00",
+              "end_time": "07:47:00",
+              "frequency": 4,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 27,
+              "start_time": "07:47:00",
+              "end_time": "07:50:00",
+              "frequency": 3,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 28,
+              "start_time": "07:50:00",
+              "end_time": "07:54:00",
+              "frequency": 4,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 29,
+              "start_time": "07:54:00",
+              "end_time": "07:57:00",
+              "frequency": 3,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 30,
+              "start_time": "07:57:00",
+              "end_time": "08:00:00",
+              "frequency": 3,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 31,
+              "start_time": "08:00:00",
+              "end_time": "08:04:00",
+              "frequency": 4,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 32,
+              "start_time": "08:04:00",
+              "end_time": "08:29:00",
+              "frequency": 5,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 33,
+              "start_time": "08:29:00",
+              "end_time": "08:33:00",
+              "frequency": 4,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 34,
+              "start_time": "08:33:00",
+              "end_time": "08:38:00",
+              "frequency": 5,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 35,
+              "start_time": "08:38:00",
+              "end_time": "08:42:00",
+              "frequency": 4,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 36,
+              "start_time": "08:42:00",
+              "end_time": "08:47:00",
+              "frequency": 5,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 37,
+              "start_time": "08:47:00",
+              "end_time": "08:51:00",
+              "frequency": 4,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 38,
+              "start_time": "08:51:00",
+              "end_time": "08:56:00",
+              "frequency": 5,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 39,
+              "start_time": "08:56:00",
+              "end_time": "09:00:00",
+              "frequency": 4,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 40,
+              "start_time": "09:00:00",
+              "end_time": "17:00:00",
+              "frequency": 8,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 41,
+              "start_time": "17:00:00",
+              "end_time": "20:00:00",
+              "frequency": 5,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 42,
+              "start_time": "20:00:00",
+              "end_time": "21:28:00",
+              "frequency": 8,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 43,
+              "start_time": "21:28:00",
+              "end_time": "21:40:00",
+              "frequency": 12,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 44,
+              "start_time": "21:40:00",
+              "end_time": "21:50:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 45,
+              "start_time": "21:50:00",
+              "end_time": "22:05:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 46,
+              "start_time": "22:05:00",
+              "end_time": "22:15:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 47,
+              "start_time": "22:15:00",
+              "end_time": "22:30:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 48,
+              "start_time": "22:30:00",
+              "end_time": "22:40:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 49,
+              "start_time": "22:40:00",
+              "end_time": "22:55:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 50,
+              "start_time": "22:55:00",
+              "end_time": "23:05:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 51,
+              "start_time": "23:05:00",
+              "end_time": "23:20:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 52,
+              "start_time": "23:20:00",
+              "end_time": "23:30:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 53,
+              "start_time": "23:30:00",
+              "end_time": "23:45:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 54,
+              "start_time": "23:45:00",
+              "end_time": "23:55:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 55,
+              "start_time": "23:55:00",
+              "end_time": "00:10:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 56,
+              "start_time": "00:10:00",
+              "end_time": "00:20:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 57,
+              "start_time": "00:20:00",
+              "end_time": "00:35:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 58,
+              "start_time": "00:35:00",
+              "end_time": "00:45:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 59,
+              "start_time": "04:55:00",
+              "end_time": "05:15:00",
+              "frequency": 20,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 60,
+              "start_time": "05:15:00",
+              "end_time": "05:40:00",
+              "frequency": 25,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 61,
+              "start_time": "05:40:00",
+              "end_time": "06:00:00",
+              "frequency": 20,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 62,
+              "start_time": "06:00:00",
+              "end_time": "06:06:00",
+              "frequency": 6,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 63,
+              "start_time": "06:06:00",
+              "end_time": "06:14:00",
+              "frequency": 8,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 64,
+              "start_time": "06:14:00",
+              "end_time": "06:20:00",
+              "frequency": 6,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 65,
+              "start_time": "06:20:00",
+              "end_time": "06:28:00",
+              "frequency": 8,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 66,
+              "start_time": "06:28:00",
+              "end_time": "06:34:00",
+              "frequency": 6,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 67,
+              "start_time": "06:34:00",
+              "end_time": "06:42:00",
+              "frequency": 8,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 68,
+              "start_time": "06:42:00",
+              "end_time": "06:48:00",
+              "frequency": 6,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 69,
+              "start_time": "06:48:00",
+              "end_time": "06:56:00",
+              "frequency": 8,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 70,
+              "start_time": "06:56:00",
+              "end_time": "07:02:00",
+              "frequency": 6,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 71,
+              "start_time": "07:02:00",
+              "end_time": "07:10:00",
+              "frequency": 8,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 72,
+              "start_time": "07:10:00",
+              "end_time": "07:16:00",
+              "frequency": 6,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 73,
+              "start_time": "07:16:00",
+              "end_time": "07:24:00",
+              "frequency": 8,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 74,
+              "start_time": "07:24:00",
+              "end_time": "07:30:00",
+              "frequency": 6,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 75,
+              "start_time": "07:30:00",
+              "end_time": "07:38:00",
+              "frequency": 8,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 76,
+              "start_time": "07:38:00",
+              "end_time": "07:44:00",
+              "frequency": 6,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 77,
+              "start_time": "07:44:00",
+              "end_time": "08:00:00",
+              "frequency": 8,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 78,
+              "start_time": "08:00:00",
+              "end_time": "09:00:00",
+              "frequency": 5,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 79,
+              "start_time": "09:00:00",
+              "end_time": "20:00:00",
+              "frequency": 6,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 80,
+              "start_time": "20:00:00",
+              "end_time": "21:28:00",
+              "frequency": 8,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 81,
+              "start_time": "21:28:00",
+              "end_time": "21:40:00",
+              "frequency": 12,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 82,
+              "start_time": "21:40:00",
+              "end_time": "21:50:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 83,
+              "start_time": "21:50:00",
+              "end_time": "22:05:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 84,
+              "start_time": "22:05:00",
+              "end_time": "22:15:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 85,
+              "start_time": "22:15:00",
+              "end_time": "22:30:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 86,
+              "start_time": "22:30:00",
+              "end_time": "22:40:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 87,
+              "start_time": "22:40:00",
+              "end_time": "22:55:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 88,
+              "start_time": "22:55:00",
+              "end_time": "23:05:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 89,
+              "start_time": "23:05:00",
+              "end_time": "23:20:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 90,
+              "start_time": "23:20:00",
+              "end_time": "23:30:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 91,
+              "start_time": "23:30:00",
+              "end_time": "23:45:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 92,
+              "start_time": "23:45:00",
+              "end_time": "23:55:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 93,
+              "start_time": "23:55:00",
+              "end_time": "00:10:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 94,
+              "start_time": "00:10:00",
+              "end_time": "00:20:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 95,
+              "start_time": "00:20:00",
+              "end_time": "00:35:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 96,
+              "start_time": "00:35:00",
+              "end_time": "00:45:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 97,
+              "start_time": "04:55:00",
+              "end_time": "05:15:00",
+              "frequency": 20,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 98,
+              "start_time": "05:15:00",
+              "end_time": "05:40:00",
+              "frequency": 25,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 99,
+              "start_time": "05:40:00",
+              "end_time": "06:00:00",
+              "frequency": 20,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 100,
+              "start_time": "06:00:00",
+              "end_time": "08:00:00",
+              "frequency": 8,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 101,
+              "start_time": "08:00:00",
+              "end_time": "20:00:00",
+              "frequency": 6,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 102,
+              "start_time": "20:00:00",
+              "end_time": "21:28:00",
+              "frequency": 8,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 103,
+              "start_time": "21:28:00",
+              "end_time": "21:40:00",
+              "frequency": 12,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 104,
+              "start_time": "21:40:00",
+              "end_time": "21:50:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 105,
+              "start_time": "21:50:00",
+              "end_time": "22:05:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 106,
+              "start_time": "22:05:00",
+              "end_time": "22:15:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 107,
+              "start_time": "22:15:00",
+              "end_time": "22:30:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 108,
+              "start_time": "22:30:00",
+              "end_time": "22:40:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 109,
+              "start_time": "22:40:00",
+              "end_time": "22:55:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 110,
+              "start_time": "22:55:00",
+              "end_time": "23:05:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 111,
+              "start_time": "23:05:00",
+              "end_time": "23:20:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 112,
+              "start_time": "23:20:00",
+              "end_time": "23:30:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 113,
+              "start_time": "23:30:00",
+              "end_time": "23:45:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 114,
+              "start_time": "23:45:00",
+              "end_time": "23:55:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 115,
+              "start_time": "23:55:00",
+              "end_time": "00:10:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 116,
+              "start_time": "00:10:00",
+              "end_time": "00:30:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 117,
+              "start_time": "00:30:00",
+              "end_time": "00:45:00",
+              "frequency": 15,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-09-20T11:56:38.695+08:00"
+        }
+      ],
+      "data_timestamp": "2024-09-20T11:56:38.695+08:00"
+    }
+  ]
+}

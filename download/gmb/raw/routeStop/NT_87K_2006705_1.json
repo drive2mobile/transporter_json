@@ -1,0 +1,87 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:30:36.449+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20014848,
+        "name_tc": "興寧路,　近　新都會廣場",
+        "name_sc": "兴宁路,　近　新都会广场",
+        "name_en": "HING NING ROAD, near Metroplaza"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20014849,
+        "name_tc": "葵富路,　近　新葵芳花園",
+        "name_sc": "葵富路,　近　新葵芳花园",
+        "name_en": "KWAI FOO ROAD, near New Kwai Fong Gardens"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20001716,
+        "name_tc": "興芳路京寶大廈外",
+        "name_sc": "兴芳路京宝大厦外",
+        "name_en": "Hing Fong Road outside King Po Mansion"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20016551,
+        "name_tc": "大窩口道葵康苑葵明閣外",
+        "name_sc": "大窝口道葵康苑葵明阁外",
+        "name_en": "Tai Wo Hau Road outside Kwai Ming House, Kwai Hong Court "
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20011986,
+        "name_tc": "葵盛圍南葵涌賽馬會分科診療所外",
+        "name_sc": "葵盛围南葵涌赛马会分科诊疗所外",
+        "name_en": "Kwai Shing Circuit outside South Kwai Shing Jockey Club Polyclinic"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20019600,
+        "name_tc": "葵盛圍, 近 葵盛圍花園",
+        "name_sc": "葵盛围, 近 葵盛围花园",
+        "name_en": "KWAI SHING CIRCUIT, near Kwai Shing Circuit Garden"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20001696,
+        "name_tc": "葵福路, 晉昇工廠大廈外",
+        "name_sc": "葵福路, 晋昇工厂大厦外",
+        "name_en": "Kwai Fuk Road, outside Chun Shing Factory Estate"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20014791,
+        "name_tc": "楊屋道,　近　樂悠居",
+        "name_sc": "杨屋道,　近　乐悠居",
+        "name_en": "Yeung Uk Road, near Plaza 88"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20014851,
+        "name_tc": "楊屋道,　近　荃灣88",
+        "name_sc": "杨屋道,　近　荃湾88",
+        "name_en": "Yeung Uk Road, near Plaza 88"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20014852,
+        "name_tc": "楊屋道,　近　荃灣公園",
+        "name_sc": "杨屋道,　近　荃湾公园",
+        "name_en": "YEUNG UK ROAD, near TSUEN WAN PARK"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20012208,
+        "name_tc": "海貴路公共運輸交匯處",
+        "name_sc": "海贵路公共运输交汇处",
+        "name_en": "Hoi Kwai Road Public Transport Interchange"
+      }
+    ],
+    "data_timestamp": "2024-08-07T10:47:21.567+08:00"
+  }
+}

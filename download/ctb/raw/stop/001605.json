@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:14:15+08:00",
+  "data": {
+    "stop": "001605",
+    "name_tc": "容鳳書紀念中心, 偉發道",
+    "name_en": "Yung Fung Shee Memorial Centre, Wai Fat Road",
+    "lat": "22.308845832091",
+    "long": "114.22968249053",
+    "name_sc": "容凤书纪念中心, 伟发道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

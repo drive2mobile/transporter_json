@@ -1,0 +1,66 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:29:18.953+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20001384,
+        "name_tc": "上水站小巴總站",
+        "name_sc": "上水站小巴总站",
+        "name_en": "Sheung Shui Station Public Light Bus Terminus"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20003205,
+        "name_tc": "新豐路,近石湖墟郵政局",
+        "name_sc": "新丰路,近石湖墟邮政局",
+        "name_en": "San Fung Avenue, near Shek Wu Hui Post Office"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20012274,
+        "name_tc": "寶石湖路,近彩蒲苑彩顏閣",
+        "name_sc": "宝石湖路,近彩蒲苑彩颜阁",
+        "name_en": "Po Shek Wu Road, near Choi Ngan House, Choi Po Court"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20013004,
+        "name_tc": "青山公路　－　古洞段,　近　香港哥爾夫球會場地部",
+        "name_sc": "青山公路　－　古洞段,　近　香港哥尔夫球会场地部",
+        "name_en": "CASTLE PEAK ROAD - KWU TUNG, near HONG KONG GOLF CLUB COURSE DEPARTMENT"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20013005,
+        "name_tc": "青山公路　－　古洞段,　近　沙爾德聖保祿女修會聖保祿樂靜院",
+        "name_sc": "青山公路　－　古洞段,　近　沙尔德圣保禄女修会圣保禄乐静院",
+        "name_en": "CASTLE PEAK ROAD - KWU TUNG, near ST PAUL'S HOUSE OF PRAYER"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20013006,
+        "name_tc": "古洞路,　近　天巒",
+        "name_sc": "古洞路,　近　天峦",
+        "name_en": "KWU TUNG ROAD, near VALAIS"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20013014,
+        "name_tc": "坑頭路,　近　香港女童軍總會賽馬會碧溪莊",
+        "name_sc": "坑头路,　近　香港女童军总会赛马会碧溪庄",
+        "name_en": "HANG TAU ROAD, near THE HONG KONG GIRL GUIDES ASSOCIATION JOCKEY CLUB BEAS RIVER LODGE"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20013015,
+        "name_tc": "坑頭小巴總站",
+        "name_sc": "坑头小巴总站",
+        "name_en": "Hang Tau Minibus Terminus"
+      }
+    ],
+    "data_timestamp": "2024-09-20T11:56:38.695+08:00"
+  }
+}

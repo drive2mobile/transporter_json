@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:11:05+08:00",
+  "data": {
+    "stop": "002794",
+    "name_tc": "維景臺, 天后廟道",
+    "name_en": "Victoria Tower, Tin Hau Temple Road",
+    "lat": "22.283826892091",
+    "long": "114.19324272053",
+    "name_sc": "维景台, 天后庙道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

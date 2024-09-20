@@ -1,0 +1,84 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:25:43.648+08:00",
+  "data": [
+    {
+      "route_id": 2007499,
+      "region": "HKI",
+      "route_code": "29",
+      "description_tc": "正常班次",
+      "description_sc": "正常班次",
+      "description_en": "Normal Departure",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "鴨脷洲邨",
+          "orig_sc": "鸭脷洲邨",
+          "orig_en": "Ap Lei Chau Estate",
+          "dest_tc": "深灣道公共交通總站(循環線)",
+          "dest_sc": "深湾道公共交通总站(循环线)",
+          "dest_en": "Shum Wan Road Public Transport Terminus (Circular)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "06:00:00",
+              "end_time": "06:50:00",
+              "frequency": 25,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 2,
+              "start_time": "06:50:00",
+              "end_time": "10:00:00",
+              "frequency": 10,
+              "frequency_upper": 15
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 3,
+              "start_time": "10:00:00",
+              "end_time": "23:45:00",
+              "frequency": 25,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-08-22T09:21:06.166+08:00"
+        }
+      ],
+      "data_timestamp": "2024-08-22T09:21:06.166+08:00"
+    }
+  ]
+}

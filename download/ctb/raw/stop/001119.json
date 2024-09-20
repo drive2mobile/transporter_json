@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:11:37+08:00",
+  "data": {
+    "stop": "001119",
+    "name_tc": "李陞小學, 薄扶林道",
+    "name_en": "Li Sing Primary School, Pok Fu Lam Road",
+    "lat": "22.285487302091",
+    "long": "114.13994098053",
+    "name_sc": "李陞小学, 薄扶林道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

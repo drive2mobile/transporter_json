@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:14:28+08:00",
+  "data": {
+    "stop": "003364",
+    "name_tc": "屯門公路巴士轉乘站, 青山公路",
+    "name_en": "Tuen Mun Road Bus-Bus Interchange, Castle Peak Road",
+    "lat": "22.358447832091",
+    "long": "114.01852119053",
+    "name_sc": "屯门公路巴士转乘站, 青山公路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

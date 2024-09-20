@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:09:12+08:00",
+  "data": {
+    "stop": "003024",
+    "name_tc": "摩士公園露天劇場, 東頭村道",
+    "name_en": "Morse Park Open-Air Theatre, Tung Tau Tsuen Road",
+    "lat": "22.336213802091",
+    "long": "114.19155837053",
+    "name_sc": "摩士公园露天剧场, 东头村道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

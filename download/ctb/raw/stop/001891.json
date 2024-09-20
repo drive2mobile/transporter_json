@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:15:53+08:00",
+  "data": {
+    "stop": "001891",
+    "name_tc": "嘉和里村, 青山公路",
+    "name_en": "Kar Wo Lei Tsuen, Castle Peak Road",
+    "lat": "22.369464482091",
+    "long": "113.99535738053",
+    "name_sc": "嘉和里村, 青山公路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

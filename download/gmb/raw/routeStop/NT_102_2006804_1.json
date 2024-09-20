@@ -1,0 +1,115 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:44:14.198+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20002597,
+        "name_tc": "坑口站公共運輸交匯處",
+        "name_sc": "坑口站公共运输交汇处",
+        "name_en": "Hang Hau Station Public Transport Interchange"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20001974,
+        "name_tc": "銀澳路, 近煜明苑熹明閣",
+        "name_sc": "银澳路, 近煜明苑熹明阁",
+        "name_en": "NGAN O ROAD, near Hei Ming House, YUK MING COURT"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20007736,
+        "name_tc": "寶寧路, 近明德邨明道樓\t",
+        "name_sc": "宝宁路, 近明德村明道楼\t",
+        "name_en": "PO NING ROAD, near Ming Toa House, MING TAK ESTATE\t"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20001164,
+        "name_tc": "寶寧路, 近厚德邨德富樓\t",
+        "name_sc": "宝宁路, 近厚德村德富楼\t",
+        "name_en": "PO NING ROAD, near Tak Fu House, HAU TAK ESTATE\t"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20001951,
+        "name_tc": "寶順道, 近頌明苑輝明閣",
+        "name_sc": "宝顺道, 近颂明苑辉明阁",
+        "name_en": "PO SHUN ROAD, near Fai Ming House, CHUNG MING COURT"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20007034,
+        "name_tc": "觀塘道, 近嘉域大廈",
+        "name_sc": "观塘道, 近嘉域大厦",
+        "name_en": "KWUN TONG ROAD, near The Grande Building"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20010526,
+        "name_tc": "觀塘道, 近創紀之城三期",
+        "name_sc": "观塘道, 近创纪之城三期",
+        "name_en": "KWUN TONG ROAD, near Millennium City 3"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20001955,
+        "name_tc": "觀塘道, 近志聯工廠大廈",
+        "name_sc": "观塘道, 近志联工厂大厦",
+        "name_en": "KWUN TONG ROAD, near Gee Luen Factory Building"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20014914,
+        "name_tc": "觀塘道近, 牛頭角下邨貴輝樓",
+        "name_sc": "观塘道, 近牛头角下村贵辉楼",
+        "name_en": "KWUN TONG ROAD, near Kwai Fai House, LOWER NGAU TAU KOK ESTATE"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20001957,
+        "name_tc": "觀塘道, 近德福花園T2座",
+        "name_sc": "观塘道, 近德福花园Ｔ２座",
+        "name_en": "KWUN TONG ROAD, near Telford Gardens Block T2"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20010530,
+        "name_tc": "彩霞道, 近啓泰苑啓勳閣",
+        "name_sc": "彩霞道, 近启泰苑启勋阁",
+        "name_en": "CHOI HA ROAD, near Kai Fan House, KAI TAI COURT"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20000985,
+        "name_tc": "龍翔道, 近彩虹邨紅萼樓",
+        "name_sc": "龙翔道, 近彩虹邨红萼楼",
+        "name_en": "Lung Cheung Road, near Hung Ngok House, Choi Hung Estate"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20001961,
+        "name_tc": "彩虹道, 近緯綸工業大廈",
+        "name_sc": "彩虹道, 近纬纶工业大厦",
+        "name_en": "CHOI HUNG ROAD, near The William Industrial Building"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20000969,
+        "name_tc": "大有街, 近善美工業大廈",
+        "name_sc": "大有街, 近善美工业大厦",
+        "name_en": "TAI YAU STREET, near Perfect Industrial Building"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20001963,
+        "name_tc": "康強街, 近康強大樓",
+        "name_sc": "康强街, 近康强大楼",
+        "name_en": "HONG KEUNG STREET, near Hong Keung House"
+      }
+    ],
+    "data_timestamp": "2024-07-31T17:47:24.268+08:00"
+  }
+}

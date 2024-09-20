@@ -1,0 +1,236 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:30:37.478+08:00",
+  "data": [
+    {
+      "route_id": 2005088,
+      "region": "NT",
+      "route_code": "88",
+      "description_tc": "正常班次",
+      "description_sc": "正常班次",
+      "description_en": "Normal Departure",
+      "effective_date": "2024-09-29T00:00:00.000+08:00",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "青衣邨",
+          "orig_sc": "青衣邨",
+          "orig_en": "Tsing Yi Estate",
+          "dest_tc": "葵芳站",
+          "dest_sc": "葵芳站",
+          "dest_en": "Kwai Fong Station",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "05:45:00",
+              "end_time": "10:00:00",
+              "frequency": 6,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 2,
+              "start_time": "10:00:00",
+              "end_time": "16:00:00",
+              "frequency": 8,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 3,
+              "start_time": "16:00:00",
+              "end_time": "20:00:00",
+              "frequency": 6,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 4,
+              "start_time": "20:00:00",
+              "end_time": "23:00:00",
+              "frequency": 7,
+              "frequency_upper": 8
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 5,
+              "start_time": "23:00:00",
+              "end_time": "00:00:00",
+              "frequency": 12,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-06-03T15:39:49.375+08:00"
+        },
+        {
+          "route_seq": 2,
+          "orig_tc": "葵芳站",
+          "orig_sc": "葵芳站",
+          "orig_en": "Kwai Fong Station",
+          "dest_tc": "青衣邨",
+          "dest_sc": "青衣邨",
+          "dest_en": "Tsing Yi Estate",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "06:00:00",
+              "end_time": "10:00:00",
+              "frequency": 6,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 2,
+              "start_time": "10:00:00",
+              "end_time": "16:00:00",
+              "frequency": 8,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 3,
+              "start_time": "16:00:00",
+              "end_time": "20:00:00",
+              "frequency": 6,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 4,
+              "start_time": "20:00:00",
+              "end_time": "23:00:00",
+              "frequency": 7,
+              "frequency_upper": 8
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 5,
+              "start_time": "23:00:00",
+              "end_time": "00:00:00",
+              "frequency": 12,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 6,
+              "start_time": "00:00:00",
+              "end_time": "00:30:00",
+              "frequency": 15,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-06-03T15:39:49.375+08:00"
+        }
+      ],
+      "data_timestamp": "2024-06-03T15:39:49.375+08:00"
+    }
+  ]
+}

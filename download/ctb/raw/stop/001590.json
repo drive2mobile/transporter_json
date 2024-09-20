@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:14:48+08:00",
+  "data": {
+    "stop": "001590",
+    "name_tc": "尖沙咀東",
+    "name_en": "Tsim Sha Tsui East",
+    "lat": "22.302060272091",
+    "long": "114.17827904053",
+    "name_sc": "尖沙咀东",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

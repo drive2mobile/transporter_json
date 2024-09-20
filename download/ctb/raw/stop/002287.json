@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:09:49+08:00",
+  "data": {
+    "stop": "002287",
+    "name_tc": "大潭郊野公園, 大潭道",
+    "name_en": "Tai Tam Country Park, Tai Tam Road",
+    "lat": "22.240152462091",
+    "long": "114.22134076053",
+    "name_sc": "大潭郊野公园, 大潭道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

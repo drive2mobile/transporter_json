@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:17:44+08:00",
+  "data": {
+    "stop": "002839",
+    "name_tc": "大南西街, 青山道",
+    "name_en": "Tai Nan West Street, Castle Peak Road",
+    "lat": "22.338485202091",
+    "long": "114.14841048053",
+    "name_sc": "大南西街, 青山道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

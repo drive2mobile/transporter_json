@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:09:13+08:00",
+  "data": {
+    "stop": "001596",
+    "name_tc": "黃埔花園",
+    "name_en": "Whampoa Garden",
+    "lat": "22.305003232091",
+    "long": "114.19077968053",
+    "name_sc": "黄埔花园",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

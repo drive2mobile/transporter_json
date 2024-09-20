@@ -1,0 +1,45 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:30:18.864+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20002275,
+        "name_tc": "港鐵大學站巴士總站",
+        "name_sc": "港铁大学站巴士总站",
+        "name_en": "University Station Bus Terminus"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20002283,
+        "name_tc": "西沙路, 帝琴灣凱弦居外",
+        "name_sc": "西沙路, 帝琴湾凯弦居外",
+        "name_en": "Sai Sha Road, outside Symphony Bay Villa Concerto"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20007062,
+        "name_tc": "西沙路, 香港浸信會神學院",
+        "name_sc": "西沙路, 香港浸信会神学院",
+        "name_en": "Sai Sha Road, Hk Baptist Theological Seminary"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20003420,
+        "name_tc": "西沙路近大洞",
+        "name_sc": "西沙路近大洞",
+        "name_en": "Sai Sha Road, near Tai Tung"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20002284,
+        "name_tc": "十四鄉, 井頭村外",
+        "name_sc": "十四乡, 井头村外",
+        "name_en": "Tseng Tau Tsuen"
+      }
+    ],
+    "data_timestamp": "2024-06-17T15:49:23.897+08:00"
+  }
+}

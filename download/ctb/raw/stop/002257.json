@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:11:15+08:00",
+  "data": {
+    "stop": "002257",
+    "name_tc": "淺水灣別墅, 淺水灣道",
+    "name_en": "Repulse Bay Villas, Repulse Bay Road",
+    "lat": "22.238098772091",
+    "long": "114.19806596053",
+    "name_sc": "浅水湾別墅, 浅水湾道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

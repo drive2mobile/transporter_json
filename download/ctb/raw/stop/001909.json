@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:10:16+08:00",
+  "data": {
+    "stop": "001909",
+    "name_tc": "車公廟, 車公廟路",
+    "name_en": "Che Kung Temple, Che Kung Miu Road",
+    "lat": "22.374610892091",
+    "long": "114.18401355053",
+    "name_sc": "车公庙, 车公庙路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

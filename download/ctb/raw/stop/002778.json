@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:15:08+08:00",
+  "data": {
+    "stop": "002778",
+    "name_tc": "灣景園, 康民街",
+    "name_en": "Bayview Park, Hong Man Street",
+    "lat": "22.265591142091",
+    "long": "114.23446563053",
+    "name_sc": "湾景园, 康民街",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

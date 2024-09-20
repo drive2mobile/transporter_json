@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:15:25+08:00",
+  "data": {
+    "stop": "002054",
+    "name_tc": "運頭塘",
+    "name_en": "Wan Tau Tong",
+    "lat": "22.442110482091",
+    "long": "114.16651466053",
+    "name_sc": "运头塘",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

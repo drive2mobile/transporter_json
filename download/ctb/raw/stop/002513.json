@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:08:52+08:00",
+  "data": {
+    "stop": "002513",
+    "name_tc": "光明臺, 大坑道",
+    "name_en": "Illumination Terrace, Tai Hang Road",
+    "lat": "22.277046402091",
+    "long": "114.19359621053",
+    "name_sc": "光明台, 大坑道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

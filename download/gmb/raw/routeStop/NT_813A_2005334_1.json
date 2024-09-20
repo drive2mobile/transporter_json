@@ -1,0 +1,108 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:30:29.675+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20013035,
+        "name_tc": "博泉街,欣泉樓外",
+        "name_sc": "博泉街,欣泉楼外",
+        "name_en": "Pok Chuen Street, outside Yan Chuen House"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20013036,
+        "name_tc": "博泉街,朗泉樓外",
+        "name_sc": "博泉街,朗泉楼外",
+        "name_en": "Pok Chuen Street, outside Long Chuen House"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20013051,
+        "name_tc": "多石街,近多石徑",
+        "name_sc": "多石街,近多石径",
+        "name_en": "To Shek Street, near To Shek Path"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20013052,
+        "name_tc": "銀城街,近威爾斯親王醫院",
+        "name_sc": "银城街,近威尔斯亲王医院",
+        "name_en": "Ngan Shing Street, near Prince of Wales Hospital"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20002258,
+        "name_tc": "銀城街,愉田苑對面",
+        "name_sc": "银城街,愉田苑对面",
+        "name_en": "Ngan Shing Street, opposite Yue Tin Court"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20002327,
+        "name_tc": "銀城街,沙田第一城外",
+        "name_sc": "银城街,沙田第一城外",
+        "name_en": "Ngan Shing Street, outside City One Shatin"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20013060,
+        "name_tc": "沙田醫院",
+        "name_sc": "沙田医院",
+        "name_en": "Shatin Hospital"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20002261,
+        "name_tc": "銀城街, 沙田第一城外",
+        "name_sc": "银城街, 沙田第一城外",
+        "name_en": "Ngan Shing Street, outside City One Shatin"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20002273,
+        "name_tc": "銀城街, 近愉田苑",
+        "name_sc": "银城街, 近愉田苑",
+        "name_en": "Ngan Shing Street, near Yue Tin Court"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20002257,
+        "name_tc": "威爾斯親王醫院",
+        "name_sc": "威尔斯亲王医院",
+        "name_en": "Prince of Wales Hospital"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20013056,
+        "name_tc": "多石街,近多石徑",
+        "name_sc": "多石街,近多石径",
+        "name_en": "To Shek Street, near To Shek Path"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20013044,
+        "name_tc": "水泉澳公共運輸交匯處",
+        "name_sc": "水泉澳公共运输交汇处",
+        "name_en": "Shui Chuen O Public Transport Interchange"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20013057,
+        "name_tc": "博泉街,朗泉樓對面",
+        "name_sc": "博泉街,朗泉楼对面",
+        "name_en": "Pok Chuen Street, outside Long Chuen House"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20013046,
+        "name_tc": "博泉街,欣泉樓外",
+        "name_sc": "博泉街,欣泉楼外",
+        "name_en": "Pok Chuen Street, outside Yan Chuen House"
+      }
+    ],
+    "data_timestamp": "2024-08-20T17:28:58.187+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:07:06+08:00",
+  "data": {
+    "stop": "001152",
+    "name_tc": "堅尼地城",
+    "name_en": "Kennedy Town",
+    "lat": "22.282034062091",
+    "long": "114.12264943053",
+    "name_sc": "坚尼地城",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

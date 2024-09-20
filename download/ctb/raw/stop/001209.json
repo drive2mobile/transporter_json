@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:11:21+08:00",
+  "data": {
+    "stop": "001209",
+    "name_tc": "蘇浙公學, 寶馬山道",
+    "name_en": "Kiangsu-Chekiang College, Braemar Hill Road",
+    "lat": "22.287079392091",
+    "long": "114.20121196053",
+    "name_sc": "苏浙公学, 宝马山道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

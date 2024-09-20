@@ -1,0 +1,150 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:25:41.059+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20012241,
+        "name_tc": "利園山道, 鳳鳴大廈外",
+        "name_sc": "利园山道, 凤鸣大厦外",
+        "name_en": "Lee Garden Road, outside Phoenix Apartments"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20012242,
+        "name_tc": "開平道, 利園三期外",
+        "name_sc": "开平道, 利园三期外",
+        "name_en": "Hoi Ping Road, outside Lee Garden Phase 3"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20000322,
+        "name_tc": "禮頓道, 紀利華木球會對開巴士站",
+        "name_sc": "礼顿道, 纪利华木球会对开巴士站",
+        "name_en": "Leighton Road, outside Craigengower Cricket Club"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20012606,
+        "name_tc": "黃泥涌道,近跑馬地馬場巴士站",
+        "name_sc": "黄泥涌道,近跑马地马场巴士站",
+        "name_en": "Wong Nai Chung Road near Happy Valley Racecourse Bus stop"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20012259,
+        "name_tc": "肇輝台",
+        "name_sc": "肇辉台",
+        "name_en": "Shiu Fai Terrace"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20012244,
+        "name_tc": "嶺南小學",
+        "name_sc": "岭南小学",
+        "name_en": "Lingnan Primary School"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20012245,
+        "name_tc": "東山臺",
+        "name_sc": "东山台",
+        "name_en": "Tung Shan Terrace"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20012246,
+        "name_tc": "香港港安醫院",
+        "name_sc": "香港港安医院",
+        "name_en": "Hong Kong Adventist Hospital"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20012247,
+        "name_tc": "司徒拔道, 近松柏新邨",
+        "name_sc": "司徒拔道, 近松柏新邨",
+        "name_en": "Stubbs Road, near Evergreen Villa"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20012248,
+        "name_tc": "司徒拔道, 近威利閣",
+        "name_sc": "司徒拔道, 近威利阁",
+        "name_en": "Stubbs Road, near Victoria Heights"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20012249,
+        "name_tc": "英基白普理小學",
+        "name_sc": "英基白普理小学",
+        "name_en": "Bradbury Junior School"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20012250,
+        "name_tc": "司徒拔道, 近玫瑰新邨",
+        "name_sc": "司徒拔道, 近玫瑰新邨",
+        "name_en": "Stubbs Road, near Villa Monte Rosa"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20012251,
+        "name_tc": "寶雲道",
+        "name_sc": "宝云道",
+        "name_en": "Bowen Road"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20012252,
+        "name_tc": "紀園",
+        "name_sc": "纪园",
+        "name_en": "Craigmount"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20012253,
+        "name_tc": "東山臺",
+        "name_sc": "东山台",
+        "name_en": "Tung Shan Terrace"
+      },
+      {
+        "stop_seq": 16,
+        "stop_id": 20012257,
+        "name_tc": "嶺南小學",
+        "name_sc": "岭南小学",
+        "name_en": "Lingnan Primary School"
+      },
+      {
+        "stop_seq": 17,
+        "stop_id": 20000135,
+        "name_tc": "肇輝台",
+        "name_sc": "肇辉台",
+        "name_en": "Shiu Fai Terrace"
+      },
+      {
+        "stop_seq": 18,
+        "stop_id": 20012255,
+        "name_tc": "摩利臣山道,近巴士站",
+        "name_sc": "摩利臣山道,近巴士站",
+        "name_en": "Morrison Hill Road, near Bus Stop"
+      },
+      {
+        "stop_seq": 19,
+        "stop_id": 20012258,
+        "name_tc": "禮頓道, 禮頓中心外",
+        "name_sc": "礼顿道, 礼顿中心外",
+        "name_en": "Leighton Road, outside Leighton Centre"
+      },
+      {
+        "stop_seq": 20,
+        "stop_id": 20012241,
+        "name_tc": "利園山道, 鳳鳴大廈外",
+        "name_sc": "利园山道, 凤鸣大厦外",
+        "name_en": "Lee Garden Road, outside Phoenix Apartments"
+      }
+    ],
+    "data_timestamp": "2024-07-31T09:45:46.244+08:00"
+  }
+}

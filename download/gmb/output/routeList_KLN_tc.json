@@ -1,0 +1,173 @@
+[
+  {
+    "company": "gmb",
+    "route": "12",
+    "route_id": 2002329,
+    "region": "KLN",
+    "route_seq": 2,
+    "from": "旺角東站",
+    "to": "白田"
+  },
+  {
+    "company": "gmb",
+    "route": "12",
+    "route_id": 2002329,
+    "region": "KLN",
+    "route_seq": 2,
+    "from": "旺角東站",
+    "to": "白田"
+  },
+  {
+    "company": "gmb",
+    "route": "12A",
+    "route_id": 2002331,
+    "region": "KLN",
+    "route_seq": 2,
+    "from": "大同新邨",
+    "to": "旺角東站"
+  },
+  {
+    "company": "gmb",
+    "route": "12A",
+    "route_id": 2002331,
+    "region": "KLN",
+    "route_seq": 2,
+    "from": "大同新邨",
+    "to": "旺角東站"
+  },
+  {
+    "company": "gmb",
+    "route": "12B",
+    "route_id": 2002333,
+    "region": "KLN",
+    "route_seq": 2,
+    "from": "港灣豪庭",
+    "to": "旺角東站"
+  },
+  {
+    "company": "gmb",
+    "route": "12B",
+    "route_id": 2002333,
+    "region": "KLN",
+    "route_seq": 2,
+    "from": "港灣豪庭",
+    "to": "旺角東站"
+  },
+  {
+    "company": "gmb",
+    "route": "12B",
+    "route_id": 2002335,
+    "region": "KLN",
+    "route_seq": 1,
+    "from": "港灣豪庭",
+    "to": "西洋菜南街"
+  },
+  {
+    "company": "gmb",
+    "route": "12S",
+    "route_id": 2002336,
+    "region": "KLN",
+    "route_seq": 1,
+    "from": "大角咀(櫻桃街)",
+    "to": "旺角東站(循環線)"
+  },
+  {
+    "company": "gmb",
+    "route": "13",
+    "route_id": 2003571,
+    "region": "KLN",
+    "route_seq": 2,
+    "from": "紅磡(紅鸞道)",
+    "to": "九龍塘(廣播道)"
+  },
+  {
+    "company": "gmb",
+    "route": "13",
+    "route_id": 2003571,
+    "region": "KLN",
+    "route_seq": 2,
+    "from": "紅磡(紅鸞道)",
+    "to": "九龍塘(廣播道)"
+  },
+  {
+    "company": "gmb",
+    "route": "13A",
+    "route_id": 2003604,
+    "region": "KLN",
+    "route_seq": 2,
+    "from": "樂富",
+    "to": "九龍塘(廣播道)"
+  },
+  {
+    "company": "gmb",
+    "route": "13A",
+    "route_id": 2003604,
+    "region": "KLN",
+    "route_seq": 2,
+    "from": "樂富",
+    "to": "九龍塘(廣播道)"
+  },
+  {
+    "company": "gmb",
+    "route": "13A",
+    "route_id": 2003606,
+    "region": "KLN",
+    "route_seq": 2,
+    "from": "九龍塘(廣播道)",
+    "to": "樂富"
+  },
+  {
+    "company": "gmb",
+    "route": "13A",
+    "route_id": 2003606,
+    "region": "KLN",
+    "route_seq": 2,
+    "from": "九龍塘(廣播道)",
+    "to": "樂富"
+  },
+  {
+    "company": "gmb",
+    "route": "13M",
+    "route_id": 2003603,
+    "region": "KLN",
+    "route_seq": 1,
+    "from": "紅磡(紅鸞道)",
+    "to": "紅磡站(循環線)"
+  },
+  {
+    "company": "gmb",
+    "route": "16",
+    "route_id": 2004629,
+    "region": "KLN",
+    "route_seq": 1,
+    "from": "扎山道(彩雲邨)",
+    "to": "坪石邨(循環線)"
+  },
+  {
+    "company": "gmb",
+    "route": "16A",
+    "route_id": 2004630,
+    "region": "KLN",
+    "route_seq": 1,
+    "from": "豐盛街",
+    "to": "坪石邨(循環線)"
+  },
+  {
+    "company": "gmb",
+    "route": "16B",
+    "route_id": 2004632,
+    "region": "KLN",
+    "route_seq": 2,
+    "from": "坪石公共運輸交匯處",
+    "to": "曉暉花園"
+  },
+  {
+    "company": "gmb",
+    "route": "16B",
+    "route_id": 2004632,
+    "region": "KLN",
+    "route_seq": 2,
+    "from": "坪石公共運輸交匯處",
+    "to": "曉暉花園"
+  }
+]

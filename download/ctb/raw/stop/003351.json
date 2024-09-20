@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:12:11+08:00",
+  "data": {
+    "stop": "003351",
+    "name_tc": "五柳路, 青麟路",
+    "name_en": "Ng Lau Road, Tsing Lun Road",
+    "lat": "22.415444592091",
+    "long": "113.97967649053",
+    "name_sc": "五柳路, 青麟路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

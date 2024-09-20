@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:15:24+08:00",
+  "data": {
+    "stop": "003412",
+    "name_tc": "廣福球場, 南運路",
+    "name_en": "Kwong Fuk Football Ground, Nam Wan Road",
+    "lat": "22.447610112091",
+    "long": "114.17208086053",
+    "name_sc": "广福球场, 南运路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

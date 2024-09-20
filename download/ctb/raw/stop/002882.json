@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:09:28+08:00",
+  "data": {
+    "stop": "002882",
+    "name_tc": "海達邨, 深旺道",
+    "name_en": "Hoi Tat Estate, Sham Mong Road",
+    "lat": "22.329508852091",
+    "long": "114.15174904053",
+    "name_sc": "海达邨, 深旺道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

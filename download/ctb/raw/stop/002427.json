@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:06:49+08:00",
+  "data": {
+    "stop": "002427",
+    "name_tc": "軍器廠街, 軒尼詩道",
+    "name_en": "Arsenal Street, Hennessy Road",
+    "lat": "22.277848662091",
+    "long": "114.16894462053",
+    "name_sc": "军器厂街, 轩尼诗道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

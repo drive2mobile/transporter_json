@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:08:19+08:00",
+  "data": {
+    "stop": "002991",
+    "name_tc": "王仲銘中學, 彩虹道",
+    "name_en": "Wong Chung Ming Secondary School, Choi Hung Road",
+    "lat": "22.334210062091",
+    "long": "114.19447847053",
+    "name_sc": "王仲铭中学, 彩虹道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

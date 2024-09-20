@@ -1,0 +1,80 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:25:40.460+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20000066,
+        "name_tc": "德立街, 近港鐵站入口",
+        "name_sc": "德立街, 近港铁站入口",
+        "name_en": "Drake Street, near MTR exit"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20000307,
+        "name_tc": "皇后大道東, 太古廣場三座外 ",
+        "name_sc": "皇后大道東, 太古廣場三座外 ",
+        "name_en": "Queen's Road East, outside Three Pacific Place"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20000308,
+        "name_tc": "皇后大道東, 近廈門街",
+        "name_sc": "皇后大道东, 近厦门街",
+        "name_en": "Queen's Road East, near Amoy Street"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20000309,
+        "name_tc": "皇后大道東, 灣仔街市外",
+        "name_sc": "皇后大道东, 湾仔街市外 ",
+        "name_en": "Queen's Road East, outside Wan Chai Market"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20000134,
+        "name_tc": "司徒拔道, 近友邦大廈入口",
+        "name_sc": "司徒拔道, 近友邦大厦入口",
+        "name_en": "Stubbs Road, near Aia Building Access Road"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20003526,
+        "name_tc": "司徒拔道, 近嶺南小學",
+        "name_sc": "司徒拔道, 近岭南小学",
+        "name_en": "Stubbs Road, near Ling Nan Primary School"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20003527,
+        "name_tc": "司徒拔道, 港安醫院對面",
+        "name_sc": "司徒拔道, 港安医院对面",
+        "name_en": "Stubbs Road, opposite HK Adventist Hospital"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20003528,
+        "name_tc": "大坑道, 近藍塘道",
+        "name_sc": "大坑道, 近蓝塘道",
+        "name_en": "Tai Hang Road near Blue Pool Road"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20003529,
+        "name_tc": "畢拉山道, 渣甸園對面",
+        "name_sc": "毕拉山道, 渣甸园对面",
+        "name_en": "Mount Bulter Road, opposite Jardine Court"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20000140,
+        "name_tc": "畢拉山道111號M座對面",
+        "name_sc": "毕拉山道111号M座对面",
+        "name_en": "No.111 Mount Bulter Road, opposite Block M"
+      }
+    ],
+    "data_timestamp": "2024-09-19T14:16:56.618+08:00"
+  }
+}

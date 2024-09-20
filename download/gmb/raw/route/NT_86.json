@@ -1,0 +1,320 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:30:33.644+08:00",
+  "data": [
+    {
+      "route_id": 2008591,
+      "region": "NT",
+      "route_code": "86",
+      "description_tc": "正常班次",
+      "description_sc": "正常班次",
+      "description_en": "Normal Departure",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "荃灣(海貴路)",
+          "orig_sc": "荃湾(海贵路)",
+          "orig_en": "Tsuen Wan (Hoi Kwai Road)",
+          "dest_tc": "石籬(梨貝街)",
+          "dest_sc": "石篱(梨贝街)",
+          "dest_en": "Shek Lei (Lei Pui Street)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "06:15:00",
+              "end_time": "07:45:00",
+              "frequency": 15,
+              "frequency_upper": 20
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 2,
+              "start_time": "07:45:00",
+              "end_time": "11:55:00",
+              "frequency": 10,
+              "frequency_upper": 15
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 3,
+              "start_time": "11:55:00",
+              "end_time": "16:50:00",
+              "frequency": 15,
+              "frequency_upper": 20
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 4,
+              "start_time": "16:50:00",
+              "end_time": "20:40:00",
+              "frequency": 10,
+              "frequency_upper": 12
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 5,
+              "start_time": "20:40:00",
+              "end_time": "23:55:00",
+              "frequency": 15,
+              "frequency_upper": 20
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 6,
+              "start_time": "06:15:00",
+              "end_time": "11:30:00",
+              "frequency": 15,
+              "frequency_upper": 20
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 7,
+              "start_time": "11:30:00",
+              "end_time": "13:10:00",
+              "frequency": 10,
+              "frequency_upper": 15
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 8,
+              "start_time": "13:10:00",
+              "end_time": "23:55:00",
+              "frequency": 15,
+              "frequency_upper": 20
+            }
+          ],
+          "data_timestamp": "2024-08-07T10:27:55.095+08:00"
+        },
+        {
+          "route_seq": 2,
+          "orig_tc": "石籬(梨貝街)",
+          "orig_sc": "石篱(梨贝街)",
+          "orig_en": "Shek Lei (Lei Pui Street)",
+          "dest_tc": "荃灣(海貴路)",
+          "dest_sc": "荃湾(海贵路)",
+          "dest_en": "Tsuen Wan (Hoi Kwai Road)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "05:50:00",
+              "end_time": "07:35:00",
+              "frequency": 15,
+              "frequency_upper": 20
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 2,
+              "start_time": "07:35:00",
+              "end_time": "11:05:00",
+              "frequency": 10,
+              "frequency_upper": 15
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 3,
+              "start_time": "11:05:00",
+              "end_time": "16:55:00",
+              "frequency": 15,
+              "frequency_upper": 20
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 4,
+              "start_time": "16:55:00",
+              "end_time": "20:35:00",
+              "frequency": 10,
+              "frequency_upper": 12
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 5,
+              "start_time": "20:35:00",
+              "end_time": "23:50:00",
+              "frequency": 15,
+              "frequency_upper": 20
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 6,
+              "start_time": "05:50:00",
+              "end_time": "11:25:00",
+              "frequency": 15,
+              "frequency_upper": 20
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 7,
+              "start_time": "11:25:00",
+              "end_time": "13:05:00",
+              "frequency": 10,
+              "frequency_upper": 15
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 8,
+              "start_time": "13:05:00",
+              "end_time": "23:50:00",
+              "frequency": 15,
+              "frequency_upper": 20
+            }
+          ],
+          "data_timestamp": "2024-08-07T10:27:55.095+08:00"
+        }
+      ],
+      "data_timestamp": "2024-08-07T10:27:55.095+08:00"
+    }
+  ]
+}

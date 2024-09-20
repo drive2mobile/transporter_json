@@ -1,0 +1,82 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:29:10.709+08:00",
+  "data": [
+    {
+      "route_id": 2004033,
+      "region": "NT",
+      "route_code": "49S",
+      "description_tc": "通宵路線",
+      "description_sc": "通宵路线",
+      "description_en": "Overnight Service",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "屯門兆康苑",
+          "orig_sc": "屯门兆康苑",
+          "orig_en": "Tuen Mun Siu Hong Court",
+          "dest_tc": "灣仔",
+          "dest_sc": "湾仔",
+          "dest_en": "Wan Chai",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "23:00:00",
+              "end_time": "05:00:00",
+              "frequency": 30,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-09-01T00:00:55.005+08:00"
+        },
+        {
+          "route_seq": 2,
+          "orig_tc": "灣仔",
+          "orig_sc": "湾仔",
+          "orig_en": "Wan Chai",
+          "dest_tc": "屯門兆康苑",
+          "dest_sc": "屯门兆康苑",
+          "dest_en": "Tuen Mun Siu Hong Court",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "00:00:00",
+              "end_time": "06:00:00",
+              "frequency": 30,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-09-01T00:00:55.005+08:00"
+        }
+      ],
+      "data_timestamp": "2024-09-01T00:00:55.005+08:00"
+    }
+  ]
+}

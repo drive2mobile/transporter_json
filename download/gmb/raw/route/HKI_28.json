@@ -1,0 +1,159 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:25:42.119+08:00",
+  "data": [
+    {
+      "route_id": 2006476,
+      "region": "HKI",
+      "route_code": "28",
+      "description_tc": "正常班次",
+      "description_sc": "正常班次",
+      "description_en": "Normal Departure",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "碧瑤灣(上)",
+          "orig_sc": "碧瑶湾(上)",
+          "orig_en": "Baguio Villa (upper)",
+          "dest_tc": "銅鑼灣(新會道)",
+          "dest_sc": "铜锣湾(新会道)",
+          "dest_en": "Causeway Bay (Sun Wui Road)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "08:30:00",
+              "end_time": "09:00:00",
+              "frequency": 15,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-09-19T14:16:56.623+08:00"
+        },
+        {
+          "route_seq": 2,
+          "orig_tc": "銅鑼灣(新會道)",
+          "orig_sc": "铜锣湾(新会道)",
+          "orig_en": "Causeway Bay (Sun Wui Road)",
+          "dest_tc": "碧瑤灣(上)",
+          "dest_sc": "碧瑶湾(上)",
+          "dest_en": "Baguio Villa (upper)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "07:10:00",
+              "end_time": "23:30:00",
+              "frequency": 20,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 2,
+              "start_time": "07:45:00",
+              "end_time": "23:00:00",
+              "frequency": 15,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-09-19T14:16:56.623+08:00"
+        }
+      ],
+      "data_timestamp": "2024-09-19T14:16:56.623+08:00"
+    },
+    {
+      "route_id": 2006507,
+      "region": "HKI",
+      "route_code": "28",
+      "description_tc": "特快班次(不經般咸道)",
+      "description_sc": "特快班次(不經般咸道) ",
+      "description_en": "Express Departures (omits Bonham Road)",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "碧瑤灣(上)",
+          "orig_sc": "碧瑶湾(上)",
+          "orig_en": "Baguio Villa (upper)",
+          "dest_tc": "銅鑼灣(新會道)",
+          "dest_sc": "铜锣湾(新会道)",
+          "dest_en": "Causeway Bay (Sun Wui Road)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "07:20:00",
+              "end_time": "07:20:00",
+              "frequency": null,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 2,
+              "start_time": "07:30:00",
+              "end_time": "08:15:00",
+              "frequency": 15,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-09-19T14:16:56.623+08:00"
+        }
+      ],
+      "data_timestamp": "2024-09-19T14:16:56.623+08:00"
+    }
+  ]
+}

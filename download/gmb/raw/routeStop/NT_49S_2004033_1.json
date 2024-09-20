@@ -1,0 +1,115 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:29:10.934+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20010773,
+        "name_tc": "兆康路，近兆康苑",
+        "name_sc": "兆康路，近兆康苑",
+        "name_en": "Siu Hong Road, near Siu Hong Court"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20001305,
+        "name_tc": "震寰路, 屯門天主教中學對面",
+        "name_sc": "震寰路, 屯门天主教中学对面",
+        "name_en": "Tsun Wen Road, opposite Tuen Mun Catholic Secondary School"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20001308,
+        "name_tc": "震寰路, 屯門學童牙科診所外",
+        "name_sc": "震寰路, 屯门学童牙科诊所外",
+        "name_en": "Tsun Wen Road, outside Tuen Mun School Dental Clinic"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20001310,
+        "name_tc": "震寰路, 屯門區總部及分區警署外",
+        "name_sc": "震寰路, 屯门区总部及分区警署外",
+        "name_en": "Tsun Wen Road, outside Tuen Mun District Headquarters & Division Police Station"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20001311,
+        "name_tc": "屯門站公共運輸交匯處",
+        "name_sc": "屯门站公共运输交汇处",
+        "name_en": "Tuen Mun Station Public Transport Interchange"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20001314,
+        "name_tc": "屯門鄉事會路, 屯門市中心巴士總站外",
+        "name_sc": "屯门乡事会路, 屯门市中心巴士总站外",
+        "name_en": "Tuen Mun Heung Sze Wui Road, outside Tuen Mun Central Bus Terminus"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20001385,
+        "name_tc": "屯門鄉事會路, 近安定邨",
+        "name_sc": "屯门乡事会路, 近安定邨",
+        "name_en": "Tuen Mun Heung Sze Wui Road, near On Ting Estate"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20001387,
+        "name_tc": "海珠路, 豐景園對面",
+        "name_sc": "海珠路, 丰景园对面",
+        "name_en": "Hoi Chu Road, opposite Goodview Garden"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20007539,
+        "name_tc": "南豐中心",
+        "name_sc": "南丰中心",
+        "name_en": "Nan Fung Centre"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20002210,
+        "name_tc": "長沙灣道, 美孚新邨第六期外",
+        "name_sc": "长沙湾道, 美孚新邨第六期外",
+        "name_en": "Cheung Sha Wan Road, outside Mei Foo Sun Chuen Phase 6"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20007263,
+        "name_tc": "彌敦道,荷李活商業中心外",
+        "name_sc": "弥敦道,荷李活商业中心外",
+        "name_en": "Nathan Road, outside Hollywood Plaza"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20004572,
+        "name_tc": "告士打道, 中糧大廈",
+        "name_sc": "告士打道, 中粮大厦",
+        "name_en": "Gloucester Road, COFCO Tower"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20000003,
+        "name_tc": "駱克道, 馬師道以東",
+        "name_sc": "骆克道, 马师道以东",
+        "name_en": "Lockhart Road, East of Marsh Road"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20000004,
+        "name_tc": "駱克道, 兆安中心",
+        "name_sc": "骆克道, 兆安中心",
+        "name_en": "Lockhart Road, Siu On Centre"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20005056,
+        "name_tc": "駱克道, 博匯大廈外",
+        "name_sc": "骆克道, 博汇大厦外",
+        "name_en": "Lockhart Road, outside The Broadway"
+      }
+    ],
+    "data_timestamp": "2024-09-01T00:00:55.005+08:00"
+  }
+}

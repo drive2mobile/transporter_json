@@ -1,0 +1,110 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:26:58.482+08:00",
+  "data": [
+    {
+      "route_id": 2005947,
+      "region": "KLN",
+      "route_code": "34S",
+      "description_tc": "特別班次",
+      "description_sc": "特别班次 ",
+      "description_en": "Special Service Route ",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "秀茂坪(上)巴士總站",
+          "orig_sc": "秀茂坪(上)巴士总站",
+          "orig_en": "Sau Mau Ping (Upper) Bus Terminus",
+          "dest_tc": "裕民坊公共運輸交匯處",
+          "dest_sc": "裕民坊公共运输交汇处",
+          "dest_en": "Yue Man Square Public Transport Interchange",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "06:15:00",
+              "end_time": "23:45:00",
+              "frequency": 8,
+              "frequency_upper": 10
+            }
+          ],
+          "data_timestamp": "2024-02-01T16:42:52.543+08:00"
+        }
+      ],
+      "data_timestamp": "2024-02-01T16:42:52.543+08:00"
+    },
+    {
+      "route_id": 2005949,
+      "region": "KLN",
+      "route_code": "34S",
+      "description_tc": "短程班次",
+      "description_sc": "短程班次 ",
+      "description_en": "Short-working services Departure",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "曉光街",
+          "orig_sc": "曉光街",
+          "orig_en": "Hiu Kwong Street",
+          "dest_tc": "裕民坊公共運輸交匯處",
+          "dest_sc": "裕民坊公共运输交汇处",
+          "dest_en": "Yue Man Square Public Transport Interchange",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "07:30:00",
+              "end_time": "08:00:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 2,
+              "start_time": "08:00:00",
+              "end_time": "13:00:00",
+              "frequency": 60,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-02-01T16:42:52.543+08:00"
+        }
+      ],
+      "data_timestamp": "2024-02-01T16:42:52.543+08:00"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:10:10+08:00",
+  "data": {
+    "stop": "003414",
+    "name_tc": "會議道, 博覽道東",
+    "name_en": "Convention Avenue, Expo Drive East",
+    "lat": "22.282747892091",
+    "long": "114.17429514053",
+    "name_sc": "会议道, 博览道东",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

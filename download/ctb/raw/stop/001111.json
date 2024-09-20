@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:07:45+08:00",
+  "data": {
+    "stop": "001111",
+    "name_tc": "蒲飛路, 薄扶林道",
+    "name_en": "Pokfield Road, Pok Fu Lam Road",
+    "lat": "22.282022522091",
+    "long": "114.13223321053",
+    "name_sc": "蒲飞路, 薄扶林道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

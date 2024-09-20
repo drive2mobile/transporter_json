@@ -1,0 +1,115 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:28:22.365+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20011123,
+        "name_tc": "大埔墟 (靖遠街) 總站",
+        "name_sc": "大埔墟 (靖远街) 总站",
+        "name_en": "Tai Po Market (Tsing Yuen Market) Terminus"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20011124,
+        "name_tc": "普益街,近美德大廈",
+        "name_sc": "普益街,近美德大厦",
+        "name_en": "Near Mei Tak Building, Po Yick Street"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20002523,
+        "name_tc": "寶鄉街, 近寶鄉橋",
+        "name_sc": "宝乡街, 近宝乡桥",
+        "name_en": "Po Heung Street, near Po Heung Bridge"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20001205,
+        "name_tc": "大埔太和路, 林村河畔",
+        "name_sc": "大埔太和路, 林村河畔",
+        "name_en": "Tai Po Tai Wo Road, Lam Tsuen River side"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20011680,
+        "name_tc": "寶雅路, 近太和購物中心",
+        "name_sc": "宝雅路, 近太和购物中心",
+        "name_en": "Po Nga Road, near Tai Wo Shopping Centre"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20011133,
+        "name_tc": "大窩西支路, 圍頭",
+        "name_sc": "大窝西支路, 围头",
+        "name_en": "Tai Wo Service Road West, Wai Tau"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20011139,
+        "name_tc": "泰亨鄉公所",
+        "name_sc": "泰亨乡公所",
+        "name_en": "Tai Hang Village Office "
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20011681,
+        "name_tc": "南華莆遊樂場",
+        "name_sc": "南华莆游乐场",
+        "name_en": "Nam Wah Po Playground"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20004179,
+        "name_tc": "大窩西支路, 圍頭",
+        "name_sc": "大窝西支路, 围头",
+        "name_en": "Tai Wo Service Road West, Wai Tau"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20001214,
+        "name_tc": "寶雅路南行線, 近港鐵太和站",
+        "name_sc": "宝雅路南行线, 近港铁太和站",
+        "name_en": "Po Nga Road Southbound, near Tai Wo MTR Station"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20001208,
+        "name_tc": "汀角路北行線, 大埔政府合署外",
+        "name_sc": "汀角路北行線, 大埔政府合署外",
+        "name_en": "Ting Kok Road Northbound, outside Tai Po Government Offices Building"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20003424,
+        "name_tc": "大埔太和路, 大埔舊墟遊樂場外",
+        "name_sc": "大埔太和路, 大埔旧墟游乐场外",
+        "name_en": "Tai Po Tai Wo Road, outside Tai Po Old Market Playground"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20001209,
+        "name_tc": "寶鄉橋, 前六鄉新村公立學校對面",
+        "name_sc": "宝乡桥, 前六乡新村公立学校对面",
+        "name_en": "Po Heung Bridge southbound opposite Former Luk Heung San Tsuen Public School"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20001200,
+        "name_tc": "南盛街鴻運大樓外",
+        "name_sc": "南盛街鸿运大楼外",
+        "name_en": "Nam Shing Street outside Hung Wan Building"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20011123,
+        "name_tc": "大埔墟 (靖遠街) 總站",
+        "name_sc": "大埔墟 (靖远街) 总站",
+        "name_en": "Tai Po Market (Tsing Yuen Market) Terminus"
+      }
+    ],
+    "data_timestamp": "2024-07-31T16:28:25.126+08:00"
+  }
+}

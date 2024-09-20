@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:10:55+08:00",
+  "data": {
+    "stop": "001588",
+    "name_tc": "尖沙咀 (天星碼頭)",
+    "name_en": "Tsim Sha Tsui (Star Ferry)",
+    "lat": "22.294426412091",
+    "long": "114.16919361053",
+    "name_sc": "尖沙咀 (天星码头)",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:13:48+08:00",
+  "data": {
+    "stop": "001759",
+    "name_tc": "寶康公園, 寶康路",
+    "name_en": "Po Hong Park, Po Hong Road",
+    "lat": "22.318971602091",
+    "long": "114.25648629053",
+    "name_sc": "宝康公园, 宝康路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

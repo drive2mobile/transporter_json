@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:06:44+08:00",
+  "data": {
+    "stop": "002493",
+    "name_tc": "山村道, 成和道",
+    "name_en": "Village Road, Sing Woo Road",
+    "lat": "22.268295142091",
+    "long": "114.18647527053",
+    "name_sc": "山村道, 成和道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:14:37+08:00",
+  "data": {
+    "stop": "002010",
+    "name_tc": "美樂花園, 湖翠路",
+    "name_en": "Melody Garden, Wu Chui Road",
+    "lat": "22.375683882091",
+    "long": "113.96071665053",
+    "name_sc": "美乐花园, 湖翠路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

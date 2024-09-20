@@ -1,0 +1,66 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:30:47.711+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20015941,
+        "name_tc": "石頭街, 近大窩口邨富泰樓",
+        "name_sc": "石头街, 近大窝口邨富泰楼",
+        "name_en": "Shek Tau Street, near Fu Tai House, Tai Wo Hau Estate"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20015973,
+        "name_tc": "禾塘咀街, 近葵涌街坊福利會",
+        "name_sc": "禾塘咀街, 近葵涌街坊福利会",
+        "name_en": "Wo Tong Tsui Street, near Kai Fong Association"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20015974,
+        "name_tc": "禾塘咀街, 近飛亞工業中心",
+        "name_sc": "禾塘咀街, 近飞亚工业中心",
+        "name_en": "Wo Tong Tsui Street, near Favour Industrial Centre"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20015975,
+        "name_tc": "禾塘咀街, 近美葵大廈",
+        "name_sc": "禾塘咀街, 近美葵大厦",
+        "name_en": "Wo Tong Tsui Street, near Mai Kwai Mansion"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20015983,
+        "name_tc": "葵富路, 近新葵芳花園Ｅ座",
+        "name_sc": "葵富路, 近新葵芳花园Ｅ座",
+        "name_en": "Kwai Foo Road, near New Kwai Fong Gardens Block E"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20001716,
+        "name_tc": "興芳路, 京寶大廈外",
+        "name_sc": "兴芳路, 京宝大厦外",
+        "name_en": "Hing Fong Road, outside King Po Mansion"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20015984,
+        "name_tc": "興芳路, 近林士德體育館",
+        "name_sc": "兴芳路, 近林士德体育馆",
+        "name_en": "Hing Fong Road, near Osman Ramju Sadick Memorial Sports Centre"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20015941,
+        "name_tc": "石頭街, 近大窩口邨富泰樓",
+        "name_sc": "石头街, 近大窝口邨富泰楼",
+        "name_en": "Shek Tau Street, near Fu Tai House, Tai Wo Hau Estate"
+      }
+    ],
+    "data_timestamp": "2024-07-29T13:49:08.722+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:06:47+08:00",
+  "data": {
+    "stop": "002449",
+    "name_tc": "晏頓街, 軒尼詩道",
+    "name_en": "Anton Street, Hennessy Road",
+    "lat": "22.277666072091",
+    "long": "114.16883945053",
+    "name_sc": "晏顿街, 轩尼诗道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

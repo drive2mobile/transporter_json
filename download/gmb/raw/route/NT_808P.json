@@ -1,0 +1,83 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:30:21.035+08:00",
+  "data": [
+    {
+      "route_id": 2004761,
+      "region": "NT",
+      "route_code": "808P",
+      "description_tc": "額外班次 ",
+      "description_sc": "额外班次",
+      "description_en": "Supplementary Service Route",
+      "effective_date": "2024-10-06T00:00:00.000+08:00",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "恆安巴士總站",
+          "orig_sc": "恒安巴士总站",
+          "orig_en": "Heng On Bus Terminus",
+          "dest_tc": "威爾斯親王醫院",
+          "dest_sc": "威尔斯亲王医院",
+          "dest_en": "Prince of Wales Hospital",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "06:30:00",
+              "end_time": "10:00:00",
+              "frequency": 30,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-08-07T13:55:15.353+08:00"
+        },
+        {
+          "route_seq": 2,
+          "orig_tc": "威爾斯親王醫院",
+          "orig_sc": "威尔斯亲王医院",
+          "orig_en": "Prince of Wales Hospital",
+          "dest_tc": "恆安巴士總站",
+          "dest_sc": "恒安巴士总站",
+          "dest_en": "Heng On Bus Terminus",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "06:50:00",
+              "end_time": "10:00:00",
+              "frequency": 30,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-08-07T13:55:15.353+08:00"
+        }
+      ],
+      "data_timestamp": "2024-08-07T13:55:15.353+08:00"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:14:46+08:00",
+  "data": {
+    "stop": "002925",
+    "name_tc": "駿才街",
+    "name_en": "Chun Choi Street",
+    "lat": "22.283543702091",
+    "long": "114.27379288053",
+    "name_sc": "骏才街",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

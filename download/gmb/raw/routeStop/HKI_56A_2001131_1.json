@@ -1,0 +1,115 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:26:09.148+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20000302,
+        "name_tc": "羅便臣道, 秀麗閣對面",
+        "name_sc": "罗便臣道, 秀丽阁对面",
+        "name_en": "Robinson Road, opposite Serene Court"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20003559,
+        "name_tc": "屋蘭士里",
+        "name_sc": "屋兰士里",
+        "name_en": "Oaklands Avenue"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20003278,
+        "name_tc": "列堤頓道, 近聖士提反女子中學",
+        "name_sc": "列堤顿道, 近圣士提反女子中学",
+        "name_en": "Lyttelton Road, near St Stephen's Girls' College"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20003568,
+        "name_tc": "羅便臣道76號",
+        "name_sc": "罗便臣道76号",
+        "name_en": "No. 76 Robinson Road"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20003569,
+        "name_tc": "羅便臣道60號",
+        "name_sc": "罗便臣道60号",
+        "name_en": "No. 60 Robinson Road"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20003571,
+        "name_tc": "花園道",
+        "name_sc": "花园道",
+        "name_en": "Garden Road"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20000020,
+        "name_tc": "金鐘道, 金鐘廊外",
+        "name_sc": "金钟道, 金钟廊外",
+        "name_en": "Queensway, outside Golden Bell Gallery"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20000307,
+        "name_tc": "皇后大道東及金鐘道交界",
+        "name_sc": "皇后大道东及金钟道交界",
+        "name_en": "Queen's Road East Junction With Queensway"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20000308,
+        "name_tc": "皇后大道東, 合和中心對面",
+        "name_sc": "皇后大道东, 合和中心对面",
+        "name_en": "Queen's Road East, opposite Hopewell Centre"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20000309,
+        "name_tc": "皇后大道東, 近灣仔道",
+        "name_sc": "皇后大道东, 近湾仔道",
+        "name_en": "Queen's Road East, near Wan Chai Road"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20000310,
+        "name_tc": "皇后大道東, 聖若瑟小學外",
+        "name_sc": "皇后大道东, 圣若瑟小学外",
+        "name_en": "Queen's Road East, outside St Joseph's Primary School"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20000152,
+        "name_tc": "皇后大道東, 伊利沙伯體育館外",
+        "name_sc": "皇后大道东, 伊利沙伯体育馆外",
+        "name_en": "Queen's Road East, outside Queen Elizabeth Stadium"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20002497,
+        "name_tc": "禮頓道, 禮頓中心外",
+        "name_sc": "礼顿道, 礼顿中心外",
+        "name_en": "Leighton Road, outside Leighton Centre"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20000025,
+        "name_tc": "禮頓道, 近新寧道",
+        "name_sc": "礼顿道, 近新宁道",
+        "name_en": "Leighton Road, near Sunning Road"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20000311,
+        "name_tc": "邊寧頓街利園二期外",
+        "name_sc": "边宁顿街利园二期外",
+        "name_en": "Pennington Street outside Lee Gardens Two"
+      }
+    ],
+    "data_timestamp": "2024-09-19T14:22:12.707+08:00"
+  }
+}

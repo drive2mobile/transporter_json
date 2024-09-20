@@ -1,0 +1,31 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:30:52.174+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20013695,
+        "name_tc": "瑪嘉烈醫院路,近瑪嘉烈醫院G座",
+        "name_sc": "玛嘉烈医院路,近玛嘉烈医院G座",
+        "name_en": "PRINCESS MARGARET HOSPITAL ROAD, near Princess Margaret Hospital Block G"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20013663,
+        "name_tc": "美荔道,近美孚新邨第五期",
+        "name_sc": "美荔道,近美孚新邨第五期",
+        "name_en": "MEI LAI ROAD, near Mei Foo Sun Chuen Stage 5"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20014386,
+        "name_tc": "美荔道,近美孚巴士總站",
+        "name_sc": "美荔道,近美孚巴士总站",
+        "name_en": "MEI LAI ROAD, near Mei Foo Bus Terminus"
+      }
+    ],
+    "data_timestamp": "2024-06-16T00:00:13.624+08:00"
+  }
+}

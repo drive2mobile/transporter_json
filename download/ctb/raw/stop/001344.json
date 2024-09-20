@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:09:30+08:00",
+  "data": {
+    "stop": "001344",
+    "name_tc": "翠灣邨, 永泰道",
+    "name_en": "Tsui Wan Estate, Wing Tai Road",
+    "lat": "22.268492732091",
+    "long": "114.24100291053",
+    "name_sc": "翠湾邨, 永泰道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

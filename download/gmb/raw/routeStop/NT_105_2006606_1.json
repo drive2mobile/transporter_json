@@ -1,0 +1,108 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:44:17.261+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20014652,
+        "name_tc": "高山道, 高山劇場外",
+        "name_sc": "高山道, 高山剧场外",
+        "name_en": "Ko Shan Road, outside Ko Shan Theatre"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20014653,
+        "name_tc": "馬頭圍道232號",
+        "name_sc": "马头围道232号",
+        "name_en": "232 Ma Tau Wai Road"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20014654,
+        "name_tc": "馬頭圍道416號, 樂意居外",
+        "name_sc": "马头围道416号, 乐意居外",
+        "name_en": "416 Ma Tau Wai Road"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20014655,
+        "name_tc": "馬頭圍道, 馬頭圍道遊樂外",
+        "name_sc": "马头围道, 马头围道游乐外",
+        "name_en": "Ma Tau Wai Road, outside Ma Tau Wai Road Playground"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20014656,
+        "name_tc": "馬頭涌道65號",
+        "name_sc": "马头涌道65号",
+        "name_en": "No.65 Ma Tau Chung Road"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20014657,
+        "name_tc": "馬頭涌道, 亞皆老街兒童遊樂場外",
+        "name_sc": "马头涌道, 亚皆老街儿童游乐场外",
+        "name_en": "Ma Tau Chung Road, outside Argyle Street Playground"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20014204,
+        "name_tc": "太子道東, 富豪東方酒店外",
+        "name_sc": "太子道东, 富豪东方酒店外",
+        "name_en": "Prince Edward Road East, outside Regal Oriental Hotel Hong Kong"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20014205,
+        "name_tc": "太子道東, 譽.港灣外",
+        "name_sc": "太子道东, 誉.港湾外",
+        "name_en": "Prince Edward Road East, outside the Latitude"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20014658,
+        "name_tc": "寶康路, 油站外",
+        "name_sc": "宝康路, 油站外",
+        "name_en": "Po Hong Road near Mobil Petrol Station"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20001175,
+        "name_tc": "寶豐路, 寶琳邨外",
+        "name_sc": "宝丰路, 宝琳邨外",
+        "name_en": "Po Fung Road, outside Po Lam Estate"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20001150,
+        "name_tc": "寶琳北路, 樂善堂劉德小學外",
+        "name_sc": "宝琳北路, 乐善堂刘德小学外",
+        "name_en": "Po Lam Road North, outside Lok Sin Tong Lau Tak Primary School"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20001151,
+        "name_tc": "寶琳北路, 寶琳邨寶仁樓外",
+        "name_sc": "宝琳北路, 宝琳邨宝仁楼外",
+        "name_en": "Po Lam Road North, outside Po Yan House, Po Lam Estate"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20010616,
+        "name_tc": "寶琳北路, 景明苑旭景閣對面",
+        "name_sc": "宝琳北路, 景明苑旭景阁对面",
+        "name_en": "Po Lam Road North, opposite King Min House, King Lam Estate"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20014659,
+        "name_tc": "康盛花園巴士總站, 景嶺書院外",
+        "name_sc": "康盛花园巴士总站, 景岭书院外",
+        "name_en": "Hong Sing Garden Bus Terminus, outside King Ling College"
+      }
+    ],
+    "data_timestamp": "2024-08-07T13:52:30.575+08:00"
+  }
+}

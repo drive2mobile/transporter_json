@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:06:58+08:00",
+  "data": {
+    "stop": "002549",
+    "name_tc": "雅谷大廈, 黃泥涌道",
+    "name_en": "Amigo Mansion, Wong Nai Chung Road",
+    "lat": "22.272085332091",
+    "long": "114.18455363053",
+    "name_sc": "雅谷大厦, 黄泥涌道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

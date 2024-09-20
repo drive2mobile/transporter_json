@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:08:08+08:00",
+  "data": {
+    "stop": "001218",
+    "name_tc": "大潭道, 柴灣道",
+    "name_en": "Tai Tam Road, Chai Wan Road",
+    "lat": "22.271469842091",
+    "long": "114.23323635053",
+    "name_sc": "大潭道, 柴湾道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

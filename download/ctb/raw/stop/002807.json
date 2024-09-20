@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:11:50+08:00",
+  "data": {
+    "stop": "002807",
+    "name_tc": "歌連臣角火葬場, 歌連臣角道",
+    "name_en": "Cape Collinson Crematorium, Cape Collinson Road",
+    "lat": "22.256624432091",
+    "long": "114.23034783053",
+    "name_sc": "歌连臣角火葬场, 歌连臣角道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

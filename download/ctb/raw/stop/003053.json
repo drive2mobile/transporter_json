@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:14:54+08:00",
+  "data": {
+    "stop": "003053",
+    "name_tc": "宋皇臺公園, 馬頭涌道",
+    "name_en": "Sung Wong Toi Park, Ma Tau Chung Road",
+    "lat": "22.326346262091",
+    "long": "114.18983998053",
+    "name_sc": "宋皇台公园, 马头涌道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

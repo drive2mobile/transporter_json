@@ -1,0 +1,38 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:29:06.587+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20012769,
+        "name_tc": "華景山路, 近華景山莊華景商場",
+        "name_sc": "华景山路, 近华景山庄华景商场 ",
+        "name_en": "Wah King Hill Road, near Wonderland Villas Commercial Complex"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20001427,
+        "name_tc": "荔景山路, 和景樓對面",
+        "name_sc": "荔景山路, 和景楼对面",
+        "name_en": "Lai King Hill Road, opposite Wo King House"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20001428,
+        "name_tc": "荔景山路, 賢麗苑購物中心對面",
+        "name_sc": "荔景山路, 贤丽苑购物中心对面",
+        "name_en": "Lai King Hill Road, opposite Yin Lai Court Shopping Centre"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20012769,
+        "name_tc": "華景山路, 近華景山莊華景商場",
+        "name_sc": "华景山路, 近华景山庄华景商场 ",
+        "name_en": "Wah King Hill Road, near Wonderland Villas Commercial Complex"
+      }
+    ],
+    "data_timestamp": "2024-08-07T10:44:17.944+08:00"
+  }
+}

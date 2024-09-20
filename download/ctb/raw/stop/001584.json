@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:07:53+08:00",
+  "data": {
+    "stop": "001584",
+    "name_tc": "浸會大學逸夫校園, 聯福道",
+    "name_en": "HKBU Shaw Campus, Renfrew Road",
+    "lat": "22.337967112091",
+    "long": "114.18157592053",
+    "name_sc": "浸会大学逸夫校园, 联福道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

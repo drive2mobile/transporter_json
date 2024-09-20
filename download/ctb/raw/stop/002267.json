@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:11:19+08:00",
+  "data": {
+    "stop": "002267",
+    "name_tc": "赫蘭道, 淺水灣道",
+    "name_en": "Headland Road, Repulse Bay Road",
+    "lat": "22.226806772091",
+    "long": "114.20286464053",
+    "name_sc": "赫兰道, 浅水湾道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

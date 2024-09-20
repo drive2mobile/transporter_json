@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:08:04+08:00",
+  "data": {
+    "stop": "001810",
+    "name_tc": "香港盲人輔導會, 木廠街",
+    "name_en": "The HK Society for the Blind, Mok Cheong Street",
+    "lat": "22.321440002091",
+    "long": "114.19356059053",
+    "name_sc": "香港盲人辅导会, 木厂街",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

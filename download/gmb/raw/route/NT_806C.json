@@ -1,0 +1,133 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:30:15.299+08:00",
+  "data": [
+    {
+      "route_id": 2001825,
+      "region": "NT",
+      "route_code": "806C",
+      "description_tc": "短程班次",
+      "description_sc": "短程班次",
+      "description_en": "Short Working Service",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "香港科學園",
+          "orig_sc": "香港科学园",
+          "orig_en": "Hong Kong Science Park",
+          "dest_tc": "運頭塘",
+          "dest_sc": "运头塘",
+          "dest_en": "Wan Tau Tong",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "10:00:00",
+              "end_time": "16:30:00",
+              "frequency": 30,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 2,
+              "start_time": "10:30:00",
+              "end_time": "20:00:00",
+              "frequency": 30,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-07-31T16:30:32.486+08:00"
+        },
+        {
+          "route_seq": 2,
+          "orig_tc": "運頭塘",
+          "orig_sc": "运头塘",
+          "orig_en": "Wan Tau Tong",
+          "dest_tc": "香港科學園",
+          "dest_sc": "香港科学园",
+          "dest_en": "Hong Kong Science Park",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "08:15:00",
+              "end_time": "08:45:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 2,
+              "start_time": "09:30:00",
+              "end_time": "16:00:00",
+              "frequency": 30,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 3,
+              "start_time": "10:00:00",
+              "end_time": "19:30:00",
+              "frequency": 30,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-07-31T16:30:32.486+08:00"
+        }
+      ],
+      "data_timestamp": "2024-07-31T16:30:32.486+08:00"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:29:37.262+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20015764,
+        "name_tc": "鳳翔路小巴總站",
+        "name_sc": "凤翔路小巴总站",
+        "name_en": "Fung Cheung Road Minibus Terminus"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20016916,
+        "name_tc": "青山公路－藍地段, 近怡廬第２座",
+        "name_sc": "青山公路－蓝地段, 近怡庐第２座",
+        "name_en": "Castle Peak Road - Lam Tei, Near E Lu Block 2"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20016917,
+        "name_tc": "屯門公路, 近井財街垃圾收集站(4B區)",
+        "name_sc": "屯门公路, 近井财街垃圾收集站(4B区)",
+        "name_en": "Tuen Mun Road, Near Tseng Choi Street Refuse Collection Point (Area 4B)"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20016919,
+        "name_tc": "長沙灣道, 近荔枝角花園",
+        "name_sc": "长沙湾道, 近荔枝角花园",
+        "name_en": "Cheung Sha Wan Road, Near Lai Chi Kok Garden"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20016920,
+        "name_tc": "彌敦道, 近永僑大廈",
+        "name_sc": "弥敦道, 近永侨大厦",
+        "name_en": "Nathan Road, Near Wing Kiu Building"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20016921,
+        "name_tc": "麼地道, 近麼地道花園",
+        "name_sc": "么地道, 近么地道花园",
+        "name_en": "Mody Road, Near Mody Road Garden"
+      }
+    ],
+    "data_timestamp": "2024-07-31T16:37:01.299+08:00"
+  }
+}

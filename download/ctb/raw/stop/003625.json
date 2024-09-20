@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:16:28+08:00",
+  "data": {
+    "stop": "003625",
+    "name_tc": "壆圍, 新潭路",
+    "name_en": "Pok Wai, San Tam Road",
+    "lat": "22.464765622091",
+    "long": "114.05402660053",
+    "name_sc": "壆围, 新潭路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

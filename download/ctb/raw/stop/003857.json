@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:16:39+08:00",
+  "data": {
+    "stop": "003857",
+    "name_tc": "顯耀邨, 田心街",
+    "name_en": "Hin Yiu Estate, Tin Sam Street",
+    "lat": "22.367266092091",
+    "long": "114.17530222053",
+    "name_sc": "显耀邨, 田心街",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

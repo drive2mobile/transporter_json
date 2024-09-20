@@ -1,0 +1,108 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:28:35.139+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20011952,
+        "name_tc": "曹公街公共小型巴士（專線）服務總站",
+        "name_sc": "曹公街公共小型巴士（专线）服务总站",
+        "name_en": "Tso Kung Street Public Light Bus (Scheduled) Service Terminus"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20012209,
+        "name_tc": "海壩街福來邨永隆樓外",
+        "name_sc": "海坝街福来村永隆楼外 ",
+        "name_en": "Hoi Pa Street outside Wing Lung House, Fuk Loi Estate"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20018676,
+        "name_tc": "大河道36號外",
+        "name_sc": "大河道36号外",
+        "name_en": "Tai Ho Road outside House No. 36"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20018709,
+        "name_tc": "大河道大河道一號休憩處外",
+        "name_sc": "大河道大河道一号休憩处外",
+        "name_en": "Tai Ho Road outside Tai Ho Road Sitting-out Area No.1"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20011954,
+        "name_tc": "沙咀道301-309號外",
+        "name_sc": "沙咀道301-309号外",
+        "name_en": "Sha Tsui Road  outside House No. 301-309"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20011955,
+        "name_tc": "沙咀道391-407號外",
+        "name_sc": "沙咀道391-407号外",
+        "name_en": "Sha Tsui Road outside House No. 391-407"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20011956,
+        "name_tc": "大窩口邨第一商場",
+        "name_sc": "大窝口邨第一商场",
+        "name_en": "Tai Wo Hau Estate Commercial Centre 1"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20011957,
+        "name_tc": "大窩口邨富安樓",
+        "name_sc": "大窝口邨富安楼",
+        "name_en": "Tai Wo Hau Estate, Fu On House"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20011958,
+        "name_tc": "禾塘咀街109-115號",
+        "name_sc": "禾塘咀街109-115号",
+        "name_en": "No.109-115 Wo Tong Tsui Street"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20001854,
+        "name_tc": "葵涌道葵昌中心外",
+        "name_sc": "葵涌道葵昌中心外",
+        "name_en": "Kwai Chung Road outside Kwai Cheong Centre"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20011959,
+        "name_tc": "葵涌道富都工業大廈外",
+        "name_sc": "葵涌道富都工业大厦外",
+        "name_en": "Kwai Chung Road outside Fabrico Industrial Building"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20002081,
+        "name_tc": "葵涌道裕林工業大廈外",
+        "name_sc": "葵涌道裕林工业大厦外",
+        "name_en": "Kwai Chung Road outside Yee Lim Industrial Building"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20001427,
+        "name_tc": "荔景山路荔景邨和景樓對面",
+        "name_sc": "荔景山路荔景邨和景楼对面",
+        "name_en": "Lai King Hill Road opposite Wo King House Lai King Estate"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20018643,
+        "name_tc": "瑪嘉列醫院",
+        "name_sc": "玛嘉列医院",
+        "name_en": "Princess Magaret Hospital"
+      }
+    ],
+    "data_timestamp": "2024-07-29T13:49:08.726+08:00"
+  }
+}

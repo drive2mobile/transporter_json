@@ -1,0 +1,50 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:27:10.619+08:00",
+  "data": [
+    {
+      "route_id": 2008487,
+      "region": "KLN",
+      "route_code": "50",
+      "description_tc": "正常班次",
+      "description_sc": "正常班次",
+      "description_en": "Normal Route",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "基督教聯合醫院",
+          "orig_sc": "基督教联合医院",
+          "orig_en": "United Christian Hospital",
+          "dest_tc": "裕民坊公共運輸交匯處 (循環線)",
+          "dest_sc": "裕民坊公共运输交汇处 (循环线)",
+          "dest_en": "Yue Man Square Public Transport Interchange (Circular)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "06:00:00",
+              "end_time": "00:00:00",
+              "frequency": 8,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-08-07T13:52:30.675+08:00"
+        }
+      ],
+      "data_timestamp": "2024-08-07T13:52:30.675+08:00"
+    }
+  ]
+}

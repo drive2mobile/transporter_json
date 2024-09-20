@@ -1,0 +1,38 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:29:54.527+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20001544,
+        "name_tc": "黃泥頭巴士總站",
+        "name_sc": "黄泥头巴士总站",
+        "name_en": "Wong Nai Tau Bus Terminus"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20001545,
+        "name_tc": "小瀝源路, 廣源邨停車場外",
+        "name_sc": "小沥源路, 广源邨停车场外",
+        "name_en": "Siu Lek Yuen Road, outside Kwong Yuen Estate Carpark"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20007465,
+        "name_tc": "安明街, 石門站外",
+        "name_sc": "安明街, 石门站外",
+        "name_en": "On Ming Street, Outside Shek Mun Station"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20017331,
+        "name_tc": "安明街, 近碩門邨健碩樓",
+        "name_sc": "安明街, 近硕门邨健硕楼",
+        "name_en": "On Ming Street, Near Kin Shek House, Shek Mun Estate"
+      }
+    ],
+    "data_timestamp": "2024-08-07T10:19:36.298+08:00"
+  }
+}

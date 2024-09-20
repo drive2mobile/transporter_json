@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:14:56+08:00",
+  "data": {
+    "stop": "003710",
+    "name_tc": "彩虹邨紅萼樓, 龍翔道",
+    "name_en": "Hung Ngok House Choi Hung Estate, Lung Cheung Road",
+    "lat": "22.336943232091",
+    "long": "114.20627815053",
+    "name_sc": "彩虹邨红萼楼, 龙翔道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

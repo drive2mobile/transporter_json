@@ -1,0 +1,178 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:27:09.389+08:00",
+  "data": [
+    {
+      "route_id": 2007267,
+      "region": "KLN",
+      "route_code": "48",
+      "description_tc": "正常班次",
+      "description_sc": "正常班次",
+      "description_en": "Normal Departure",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "順利",
+          "orig_sc": "顺利",
+          "orig_en": "Shun Lee",
+          "dest_tc": "九龍灣(循環線)",
+          "dest_sc": "九龙湾(循环线)",
+          "dest_en": "Kowloon Bay(Circular)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "06:00:00",
+              "end_time": "07:00:00",
+              "frequency": 5,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 2,
+              "start_time": "07:00:00",
+              "end_time": "09:40:00",
+              "frequency": 4,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 3,
+              "start_time": "09:40:00",
+              "end_time": "17:00:00",
+              "frequency": 8,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 4,
+              "start_time": "17:00:00",
+              "end_time": "20:20:00",
+              "frequency": 4,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 5,
+              "start_time": "20:20:00",
+              "end_time": "21:25:00",
+              "frequency": 5,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 6,
+              "start_time": "21:25:00",
+              "end_time": "22:45:00",
+              "frequency": 8,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-09-10T18:30:05.582+08:00"
+        }
+      ],
+      "data_timestamp": "2024-09-10T18:30:05.582+08:00"
+    },
+    {
+      "route_id": 2007332,
+      "region": "KLN",
+      "route_code": "48",
+      "description_tc": "晚間服務",
+      "description_sc": "晚间服务",
+      "description_en": "Night Service",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "順利",
+          "orig_sc": "顺利",
+          "orig_en": "Shun Lee",
+          "dest_tc": "九龍灣(循環線)",
+          "dest_sc": "九龙湾(循环线)",
+          "dest_en": "Kowloon Bay(Circular)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "22:45:00",
+              "end_time": "23:45:00",
+              "frequency": 8,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-09-10T18:30:05.582+08:00"
+        }
+      ],
+      "data_timestamp": "2024-09-10T18:30:05.582+08:00"
+    }
+  ]
+}

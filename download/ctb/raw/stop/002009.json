@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:16:03+08:00",
+  "data": {
+    "stop": "002009",
+    "name_tc": "湖景邨湖碧樓, 湖翠路",
+    "name_en": "Wu Pik House Wu King Estate, Wu Chui Road",
+    "lat": "22.373490332091",
+    "long": "113.96447831053",
+    "name_sc": "湖景邨湖碧楼, 湖翠路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

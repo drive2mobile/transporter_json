@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:16:54+08:00",
+  "data": {
+    "stop": "003805",
+    "name_tc": "白田邨瑞田樓, 南昌街",
+    "name_en": "Shui Tin House Pak Tin Estate, Nam Cheong Street",
+    "lat": "22.335850882091",
+    "long": "114.16905806053",
+    "name_sc": "白田邨瑞田楼, 南昌街",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

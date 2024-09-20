@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:07:24+08:00",
+  "data": {
+    "stop": "001411",
+    "name_tc": "香港理工大學第八期, 漆咸道北",
+    "name_en": "Hong Kong Polytechnic University Phase 8, Chatham Road North",
+    "lat": "22.306388992091",
+    "long": "114.17999535053",
+    "name_sc": "香港理工大学第八期, 漆咸道北",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

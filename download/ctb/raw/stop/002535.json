@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:08:51+08:00",
+  "data": {
+    "stop": "002535",
+    "name_tc": "聖保祿醫院, 銅鑼灣道",
+    "name_en": "St. Paul's Hospital, Tung Lo Wan Road",
+    "lat": "22.278919992091",
+    "long": "114.18806171053",
+    "name_sc": "圣保禄医院, 铜锣湾道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

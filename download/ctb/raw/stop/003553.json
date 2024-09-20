@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:16:35+08:00",
+  "data": {
+    "stop": "003553",
+    "name_tc": "顯田村, 顯徑街",
+    "name_en": "Hin Tin Village, Hin Keng Street",
+    "lat": "22.362876362091",
+    "long": "114.17245847053",
+    "name_sc": "显田村, 显径街",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

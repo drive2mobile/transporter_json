@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:15:31+08:00",
+  "data": {
+    "stop": "001977",
+    "name_tc": "葵涌邨茵葵樓, 大窩口道",
+    "name_en": "Yan Kwai House Kwai Chung Estate, Tai Wo Hau Road",
+    "lat": "22.366949612091",
+    "long": "114.12708648053",
+    "name_sc": "葵涌邨茵葵楼, 大窝口道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:12:40+08:00",
+  "data": {
+    "stop": "003739",
+    "name_tc": "香港科學園第一期, 創新路",
+    "name_en": "Hong Kong Science Park Phase 1, Chong San Road",
+    "lat": "22.424194992091",
+    "long": "114.21169735053",
+    "name_sc": "香港科学园第一期, 创新路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

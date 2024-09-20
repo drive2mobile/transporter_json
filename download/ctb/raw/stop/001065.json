@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:03:28+08:00",
+  "data": {
+    "stop": "001065",
+    "name_tc": "修打蘭街, 德輔道西",
+    "name_en": "Sutherland Street, Des Voeux Road West",
+    "lat": "22.287779782091",
+    "long": "114.14637128053",
+    "name_sc": "修打兰街, 德辅道西",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

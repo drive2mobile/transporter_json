@@ -1,0 +1,115 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:27:33.760+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20012109,
+        "name_tc": "承啟道,近保良局何壽南小學",
+        "name_sc": "承启道,近保良局何寿南小学",
+        "name_en": "SHING KAI ROAD, near Po Leung Kuk Stanley Ho Sau Nan Primary School"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20012120,
+        "name_tc": "協調道, 近工業貿易大樓",
+        "name_sc": "协调道, 近工业贸易大楼",
+        "name_en": "CONCORDE ROAD, near Trade And Industry Tower"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20012110,
+        "name_tc": "太子道東, 富豪東方酒店對面",
+        "name_sc": "太子道东, 富豪东方酒店对面",
+        "name_en": "Prince Edward Road East, opposite Regal Oriental Hotel"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20012121,
+        "name_tc": "衙前圍道, 龍崗道",
+        "name_sc": "衙前围道, 龙岗道",
+        "name_en": "Nga Tsin Wai Road, Lung Kong Road"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20012112,
+        "name_tc": "樂善道, 獻主會溥仁小學外",
+        "name_sc": "乐善道, 献主会溥仁小学外",
+        "name_en": "Lok Sin Road, outside Po Yan Oblate Primary School"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20012113,
+        "name_tc": "樂善道,近東頭（二）邨　祥東樓",
+        "name_sc": "乐善道,近东头（二）邨　祥东楼",
+        "name_en": "LOK SIN ROAD, near Cheung Tung House, TUNG TAU (II) ESTATE"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20012114,
+        "name_tc": "彩虹道,近樂善堂王仲銘中學",
+        "name_sc": "彩虹道,近乐善堂王仲铭中学彩虹道,近乐善堂王仲铭中学",
+        "name_en": "CHOI HUNG ROAD, near Lok Sin Tong Wong Chung Ming Secondary School"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20012115,
+        "name_tc": "大成街街市,近黃大仙文化公園",
+        "name_sc": "大成街街市, 黄大仙文化公园外",
+        "name_en": "TAI SHING Market, near WONG TAI SIN CULTURAL GARDEN"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20012116,
+        "name_tc": "黃大仙港鐵站 東頭邨道近龍慧樓",
+        "name_sc": "黄大仙港铁站 东头村道近龙慧楼",
+        "name_en": "Wong Tai Sin MTR station, TUNG TAU TSUEN ROAD, nesr Lung Wai House"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20000802,
+        "name_tc": "沙田坳道, 黃大仙紀律部隊宿舍外",
+        "name_sc": "沙田坳道, 黄大仙纪律部队宿舍外",
+        "name_en": "Shatin Pass Road, outside Wong Tai Sin Police R. & F. Quarters"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20002394,
+        "name_tc": "彩虹道啟鑽苑,鑽石山港鐵站",
+        "name_sc": "彩虹道启钻苑钻石山港铁站",
+        "name_en": "Choi Hung Road,Kai Chuen Court,Diamond Hill MTR station"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20012117,
+        "name_tc": "采頤花園,嘉諾撒小學(新蒲崗)",
+        "name_sc": "采颐花园,嘉诺撒小学(新蒲岗)",
+        "name_en": "Rhythm Garden, Canossa Primary School( San Po Kong)"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20009238,
+        "name_tc": "協調道, 近工業貿易大樓",
+        "name_sc": "协调道,近工业贸易大楼",
+        "name_en": "CONCORDE ROAD, near Trade And Industry Tower"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20012118,
+        "name_tc": "沐虹街,近聖公會聖十架小學",
+        "name_sc": "沐虹街, 近圣公会圣十架小学",
+        "name_en": "MUK HUNG STREET, near SKH Holy Cross Primary School"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20012119,
+        "name_tc": "承啟道,近保良局何壽南小學",
+        "name_sc": "承启道,近保良局何寿南小学",
+        "name_en": "SHING KAI ROAD, near Po Leung Kuk Stanley Ho Sau Nan Primary School"
+      }
+    ],
+    "data_timestamp": "2024-07-31T17:47:24.273+08:00"
+  }
+}

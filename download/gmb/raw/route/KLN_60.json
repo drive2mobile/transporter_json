@@ -1,0 +1,135 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:27:16.108+08:00",
+  "data": [
+    {
+      "route_id": 2006012,
+      "region": "KLN",
+      "route_code": "60",
+      "description_tc": "正常班次",
+      "description_sc": "正常班次",
+      "description_en": "Normal Departure",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "藍田",
+          "orig_sc": "蓝田",
+          "orig_en": "Lam Tin",
+          "dest_tc": "順利邨(循環線)",
+          "dest_sc": "顺利邨(循环线)",
+          "dest_en": "Shun Lee Estate (Circular)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "06:30:00",
+              "end_time": "08:30:00",
+              "frequency": 3,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 2,
+              "start_time": "08:30:00",
+              "end_time": "12:00:00",
+              "frequency": 4,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 3,
+              "start_time": "12:00:00",
+              "end_time": "14:00:00",
+              "frequency": 3,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 4,
+              "start_time": "14:00:00",
+              "end_time": "15:30:00",
+              "frequency": 4,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 5,
+              "start_time": "15:30:00",
+              "end_time": "19:30:00",
+              "frequency": 3,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 6,
+              "start_time": "19:30:00",
+              "end_time": "23:00:00",
+              "frequency": 4,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-07-31T17:44:17.038+08:00"
+        }
+      ],
+      "data_timestamp": "2024-07-31T17:44:17.038+08:00"
+    }
+  ]
+}

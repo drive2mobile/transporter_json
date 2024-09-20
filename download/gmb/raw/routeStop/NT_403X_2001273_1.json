@@ -1,0 +1,94 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:28:51.748+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20001573,
+        "name_tc": "港鐵大圍站公共運輸交匯處",
+        "name_sc": "港铁大围站公共运输交汇处",
+        "name_en": "Tai Wai Station Bus Terminus"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20003166,
+        "name_tc": "美田路北行海福花園外的巴士停車灣",
+        "name_sc": "美田路北行海福花园外的巴士停车湾",
+        "name_en": "Bus Bay on Mei Tin Road northbound outside Holford Garden"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20007375,
+        "name_tc": "大圍道, 美林邨美楓樓外",
+        "name_sc": "大围道, 美林邨美枫楼外",
+        "name_en": "Tai Wai Road outside Mei Fung House of Mei Lam Estate"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20001848,
+        "name_tc": "和宜合道, 嗇色園可風中學外",
+        "name_sc": "和宜合道, 啬色园可风中学外",
+        "name_en": "Wo Yi Hop Road, outside Ho Fung College Sponsored By Sik Sik Yuen"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20001851,
+        "name_tc": "和宜合道, 北葵涌賽馬會公眾泳池外",
+        "name_sc": "和宜合道, 北葵涌赛马会公众泳池外",
+        "name_en": "Wo Yi Hop Road, outside North Kwai Chung Jockey Club Public Swimming Pool"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20003233,
+        "name_tc": "和宜合道華寶工業大廈對面",
+        "name_sc": "和宜合道华宝工业大厦对面",
+        "name_en": "near Lei Muk Road, opposite Grand Industrial Building"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20002663,
+        "name_tc": "梨木道寧峰苑對出的停車灣",
+        "name_sc": "梨木道宁峰苑对出的停车湾",
+        "name_en": "Layby on Lei Muk Road outside Ning Fung Court"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20002125,
+        "name_tc": "安蔭邨巴士總站",
+        "name_sc": "安荫邨巴士总站",
+        "name_en": "On Yam Estate Bus Terminus"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20001675,
+        "name_tc": "梨貝街巴士總站",
+        "name_sc": "梨贝街巴士总站",
+        "name_en": "Lei Pui Street Bus Terminus"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20001676,
+        "name_tc": "梨貝街近石籬(二)邨石佳樓",
+        "name_sc": "梨贝街近石篱(二)邨石佳楼",
+        "name_en": "Lei Pui Street near Shek Kai House of Shek Lei (II) Estate"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20002116,
+        "name_tc": "大隴街, 石籬商場外",
+        "name_sc": "大陇街, 石篱商场外",
+        "name_en": "Tai Loong Street, outside Shek Lei Shopping Centre"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20001655,
+        "name_tc": "和宜合道33號",
+        "name_sc": "和宜合道33号",
+        "name_en": "No. 33 Wo Yi Hop Road"
+      }
+    ],
+    "data_timestamp": "2024-02-19T12:16:44.914+08:00"
+  }
+}

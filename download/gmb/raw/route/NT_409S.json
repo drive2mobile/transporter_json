@@ -1,0 +1,118 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:28:56.197+08:00",
+  "data": [
+    {
+      "route_id": 2008655,
+      "region": "NT",
+      "route_code": "409S",
+      "description_tc": "額外服務班次",
+      "description_sc": "额外服务班次",
+      "description_en": "Supplementary Service Departure",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "青衣(長亨)",
+          "orig_sc": "青衣(长亨)",
+          "orig_en": "Tsing Yi (Cheung Hang)",
+          "dest_tc": "荃灣(荃灣街市街)經德海街(循環線)",
+          "dest_sc": "荃灣(荃灣街市街)經德海街(循環線)",
+          "dest_en": "Tsuen Wan (Tsuen Wan Market Street) via Tak Hoi Street(Circular)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "06:15:00",
+              "end_time": "07:00:00",
+              "frequency": 5,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 2,
+              "start_time": "07:00:00",
+              "end_time": "10:00:00",
+              "frequency": 3,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 3,
+              "start_time": "10:00:00",
+              "end_time": "16:00:00",
+              "frequency": 5,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 4,
+              "start_time": "16:00:00",
+              "end_time": "20:00:00",
+              "frequency": 3,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 5,
+              "start_time": "20:00:00",
+              "end_time": "23:15:00",
+              "frequency": 5,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-08-07T10:22:08.052+08:00"
+        }
+      ],
+      "data_timestamp": "2024-08-07T10:22:08.052+08:00"
+    }
+  ]
+}

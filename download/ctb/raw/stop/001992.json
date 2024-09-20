@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:16:18+08:00",
+  "data": {
+    "stop": "001992",
+    "name_tc": "天水圍公園, 天瑞路",
+    "name_en": "Tin Shui Wai Park, Tin Shui Road",
+    "lat": "22.454526502091",
+    "long": "114.00295133053",
+    "name_sc": "天水围公园, 天瑞路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

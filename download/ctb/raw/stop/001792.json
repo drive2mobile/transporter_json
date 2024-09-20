@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:17:00+08:00",
+  "data": {
+    "stop": "001792",
+    "name_tc": "油塘",
+    "name_en": "Yau Tong",
+    "lat": "22.295703062091",
+    "long": "114.23850195053",
+    "name_sc": "油塘",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

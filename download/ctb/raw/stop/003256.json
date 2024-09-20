@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:12:20+08:00",
+  "data": {
+    "stop": "003256",
+    "name_tc": "保良局莊啟程第二小學, 青田路",
+    "name_en": "PLK Vicwood K.T. Chong No.2 Primary School, Tsing Tin Road",
+    "lat": "22.404895512091",
+    "long": "113.96886186053",
+    "name_sc": "保良局庄启程第二小学, 青田路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

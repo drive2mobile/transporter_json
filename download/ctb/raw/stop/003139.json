@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:15:45+08:00",
+  "data": {
+    "stop": "003139",
+    "name_tc": "長青邨青桃樓, 青衣路",
+    "name_en": "Ching Tao House Cheung Ching Estate, Tsing Yi Road",
+    "lat": "22.344901932091",
+    "long": "114.10986737053",
+    "name_sc": "长青邨青桃楼, 青衣路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

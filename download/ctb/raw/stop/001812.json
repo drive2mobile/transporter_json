@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:08:05+08:00",
+  "data": {
+    "stop": "001812",
+    "name_tc": "貴州街, 土瓜灣道",
+    "name_en": "Kwei Chow Street, To Kwa Wan Road",
+    "lat": "22.318293832091",
+    "long": "114.19163321053",
+    "name_sc": "贵州街, 土瓜湾道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

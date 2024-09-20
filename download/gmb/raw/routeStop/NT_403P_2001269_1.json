@@ -1,0 +1,122 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:28:51.178+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20001655,
+        "name_tc": "和宜合道33號",
+        "name_sc": "和宜合道33号",
+        "name_en": "No. 33 Wo Yi Hop Road"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20001860,
+        "name_tc": "和宜合道75-87號",
+        "name_sc": "和宜合道75-87号",
+        "name_en": "No.75-87 Wo Yi Hop Road"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20008050,
+        "name_tc": "和宜合道109-115號",
+        "name_sc": "和宜合道109-115号",
+        "name_en": "No. 109-115 Wo Yi Hop Road"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20001679,
+        "name_tc": "和宜合道143號",
+        "name_sc": "和宜合道143号",
+        "name_en": "No.143 Wo Yi Hop Road"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20001680,
+        "name_tc": "和宜合道157號, 勝利工業大廈外",
+        "name_sc": "和宜合道157号, 胜利工业大厦外",
+        "name_en": "Wo Yi Hop Road No. 157, outside Victory Industrial Building"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20001861,
+        "name_tc": "和宜合道, 和宜合道運動場對面",
+        "name_sc": "和宜合道, 和宜合道运动场对面",
+        "name_en": "Wo Yi Hop Road, opposite Wo Yi Hop Road Sports Ground"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20001862,
+        "name_tc": "和宜合道近梨樹路的巴士停車灣",
+        "name_sc": "和宜合道近梨树路的巴士停车湾",
+        "name_en": "Bus bay on Wo Yi Hop Road near Lei Shu Road"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20001864,
+        "name_tc": "和宜合道, 梨木樹邨竹樹樓外",
+        "name_sc": "和宜合道, 梨木树邨竹树楼外",
+        "name_en": "Wo Yip Hop Road outside Chuk Shue House of Lei Muk Shue Estate"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20001569,
+        "name_tc": "担杆莆街沙田大會堂外",
+        "name_sc": "担杆莆街沙田大会堂外",
+        "name_en": "Tam Kon Po Street, outside Sha Tin Town Hall"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20001848,
+        "name_tc": "和宜合道, 嗇色園可風中學外",
+        "name_sc": "和宜合道, 啬色园可风中学外",
+        "name_en": "Wo Yi Hop Road, outside Ho Fung College Sponsored By Sik Sik Yuen"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20008089,
+        "name_tc": "和宜合道,梨木樹邨楓樹樓對面",
+        "name_sc": "和宜合道,梨木树村枫树楼对面",
+        "name_en": "Wo Yi Hop Road, opposite Fung Shue House of Lei Muk Shue Estate"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20001851,
+        "name_tc": "和宜合道, 北葵涌賽馬會公眾泳池外",
+        "name_sc": "和宜合道, 北葵涌赛马会公众泳池外",
+        "name_en": "Wo Yi Hop Road, outside North Kwai Chung Jockey Club Public Swimming Pool"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20008051,
+        "name_tc": "和宜合道130號",
+        "name_sc": "和宜合道130号",
+        "name_en": "No.130 Wo Yi Hop Road"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20002123,
+        "name_tc": "和宜和道78號",
+        "name_sc": "和宜和道78号",
+        "name_en": "No.78 Wo Yi Hop Road"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20002124,
+        "name_tc": "大隴街, 石籬商場(第2期)外",
+        "name_sc": "大陇街, 石篱商场(第2期)外",
+        "name_en": "Tai Loong Street, outside Shek Lei Shopping Centre (Phase 2)"
+      },
+      {
+        "stop_seq": 16,
+        "stop_id": 20001675,
+        "name_tc": "梨貝街巴士總站",
+        "name_sc": "梨贝街巴士总站",
+        "name_en": "Lei Pui Street Bus Terminus"
+      }
+    ],
+    "data_timestamp": "2024-07-31T16:58:38.764+08:00"
+  }
+}

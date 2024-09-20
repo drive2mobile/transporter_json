@@ -1,0 +1,80 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:27:56.263+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20001116,
+        "name_tc": "龍翔道, 近牛池灣消防局",
+        "name_sc": "龙翔道, 近牛池湾消防局",
+        "name_en": "Lung Cheung Road, near Ngau Chi Wan Fire Station"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20000568,
+        "name_tc": "清水灣道, 彩雲邨飛鳳樓外",
+        "name_sc": "清水湾道, 彩云邨飞凤楼外",
+        "name_en": "Fei Fung House, Choi Wan Estate"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20012493,
+        "name_tc": "清水灣道, 德望學校外",
+        "name_sc": "清水湾道, 德望学校外",
+        "name_en": "Clear Water Bay Road,outside Good Hope School"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20012494,
+        "name_tc": "騰龍台",
+        "name_sc": "腾龙台",
+        "name_en": "Denon Terrace"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20001999,
+        "name_tc": "清水灣道, 井欄樹",
+        "name_sc": "清水湾道, 井栏树",
+        "name_en": " Clear Water Bay Road, Tseng Lan Shue"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20002000,
+        "name_tc": "清水灣道, 白石窩",
+        "name_sc": "清水湾道, 白石窝",
+        "name_en": "Clear Water Bay Road,Pak Shek Wo"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20002001,
+        "name_tc": "清水灣道, 壁屋懲教所外",
+        "name_sc": "清水湾道, 壁屋惩教所外",
+        "name_en": "Clear Water Bay Road, outside Pik Uk Correctional Institute"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20002002,
+        "name_tc": "清水灣道, 打鼓嶺新村",
+        "name_sc": "清水湾道, 打鼓岭新村",
+        "name_en": "Clear Water Bay Road,Ta Ku Ling San Tsuen"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20012479,
+        "name_tc": "清水灣道, 大埔仔坳",
+        "name_sc": "清水湾道, 大埔仔坳",
+        "name_en": "Clear Water Bay Road,Tai Po Tsai Kau"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20012474,
+        "name_tc": "香港科技大學(北站)",
+        "name_sc": "香港科技大学(北站)",
+        "name_en": "Hong Kong University of Science and Technology (North Station)"
+      }
+    ],
+    "data_timestamp": "2024-09-10T18:26:28.076+08:00"
+  }
+}

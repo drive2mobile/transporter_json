@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:17:47+08:00",
+  "data": {
+    "stop": "002083",
+    "name_tc": "廣源邨",
+    "name_en": "Kwong Yuen Estate",
+    "lat": "22.381252352091",
+    "long": "114.21616939053",
+    "name_sc": "广源邨",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

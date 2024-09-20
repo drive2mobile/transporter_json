@@ -1,0 +1,116 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:25:48.038+08:00",
+  "data": [
+    {
+      "route_id": 2005685,
+      "region": "HKI",
+      "route_code": "33",
+      "description_tc": "正常班次 ",
+      "description_sc": "正常班次 ",
+      "description_en": "Normal Route",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "康山",
+          "orig_sc": "康山",
+          "orig_en": "Kornhill",
+          "dest_tc": "北角(馬寶道)",
+          "dest_sc": "北角(马宝道)",
+          "dest_en": "North Point (Marble Road)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "06:20:00",
+              "end_time": "22:35:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 2,
+              "start_time": "22:35:00",
+              "end_time": "23:35:00",
+              "frequency": 20,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-09-19T14:09:06.801+08:00"
+        },
+        {
+          "route_seq": 2,
+          "orig_tc": "北角(馬寶道)",
+          "orig_sc": "北角(马宝道)",
+          "orig_en": "North Point (Marble Road)",
+          "dest_tc": "康山",
+          "dest_sc": "康山",
+          "dest_en": "Kornhill",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "06:35:00",
+              "end_time": "22:35:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 2,
+              "start_time": "22:35:00",
+              "end_time": "23:55:00",
+              "frequency": 20,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-09-19T14:09:06.801+08:00"
+        }
+      ],
+      "data_timestamp": "2024-09-19T14:09:06.801+08:00"
+    }
+  ]
+}

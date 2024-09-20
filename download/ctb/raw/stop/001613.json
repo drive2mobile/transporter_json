@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:08:21+08:00",
+  "data": {
+    "stop": "001613",
+    "name_tc": "麗晶商場, 宏光道",
+    "name_en": "Richland Gardens Shopping Centre, Wang Kwong Road",
+    "lat": "22.329698152091",
+    "long": "114.20559575053",
+    "name_sc": "丽晶商场, 宏光道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

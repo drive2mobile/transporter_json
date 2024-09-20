@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:07:10+08:00",
+  "data": {
+    "stop": "001260",
+    "name_tc": "七海商業中心, 英皇道",
+    "name_en": "7 Seas Shopping Centre, King's Road",
+    "lat": "22.287742812091",
+    "long": "114.19296558053",
+    "name_sc": "七海商业中心, 英皇道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

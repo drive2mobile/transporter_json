@@ -1,0 +1,135 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:26:50.112+08:00",
+  "data": [
+    {
+      "route_id": 2002849,
+      "region": "KLN",
+      "route_code": "26H",
+      "description_tc": "額外班次",
+      "description_sc": "额外班次",
+      "description_en": "Supplementary Service",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "伊利沙伯醫院",
+          "orig_sc": "伊利沙伯医院",
+          "orig_en": "Queen Elizabeth Hospital",
+          "dest_tc": "紅磡站(循環線)",
+          "dest_sc": "红磡站（循环线）",
+          "dest_en": "Hung Hom Station (Circular)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "06:15:00",
+              "end_time": "09:00:00",
+              "frequency": 10,
+              "frequency_upper": 15
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 2,
+              "start_time": "09:00:00",
+              "end_time": "17:00:00",
+              "frequency": 30,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 3,
+              "start_time": "17:00:00",
+              "end_time": "19:00:00",
+              "frequency": 10,
+              "frequency_upper": 15
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 4,
+              "start_time": "19:00:00",
+              "end_time": "20:30:00",
+              "frequency": 30,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 5,
+              "start_time": "06:30:00",
+              "end_time": "20:30:00",
+              "frequency": 30,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 6,
+              "start_time": "12:00:00",
+              "end_time": "20:00:00",
+              "frequency": 30,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-08-13T17:58:10.658+08:00"
+        }
+      ],
+      "data_timestamp": "2024-08-13T17:58:10.658+08:00"
+    }
+  ]
+}

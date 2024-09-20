@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:06:59+08:00",
+  "data": {
+    "stop": "001249",
+    "name_tc": "北角碼頭",
+    "name_en": "North Point Ferry Pier",
+    "lat": "22.293287872091",
+    "long": "114.20149753053",
+    "name_sc": "北角码头",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

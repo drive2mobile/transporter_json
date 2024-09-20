@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:08:52+08:00",
+  "data": {
+    "stop": "002515",
+    "name_tc": "昍逵閣, 大坑道",
+    "name_en": "Morengo Court, Tai Hang Road",
+    "lat": "22.275631802091",
+    "long": "114.19332040053",
+    "name_sc": "昍逵阁, 大坑道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

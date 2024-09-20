@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:15:18+08:00",
+  "data": {
+    "stop": "002955",
+    "name_tc": "鶴咀, 鶴咀道",
+    "name_en": "Cape D'Aguilar, Cape D'Aguilar Road",
+    "lat": "22.221425802091",
+    "long": "114.24354178053",
+    "name_sc": "鹤咀, 鹤咀道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

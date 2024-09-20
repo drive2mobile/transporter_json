@@ -1,0 +1,38 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:30:45.968+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20015941,
+        "name_tc": "石頭街, 近大窩口邨富泰樓",
+        "name_sc": "石头街, 近大窝口邨富泰楼",
+        "name_en": "Shek Tau Street, Near Fu Tai House, Tai Wo Hau Estate"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20015942,
+        "name_tc": "德士古道, 近聖公會荊冕堂暨士德幼稚園",
+        "name_sc": "德士古道, 近圣公会荆冕堂暨士德幼稚园",
+        "name_en": "Texaco Road, Near S.K.H. Crown Of Thorns Church & Sadick Kindergarten"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20015943,
+        "name_tc": "沙咀道, 近尚翠苑翠湖閣",
+        "name_sc": "沙咀道, 近尚翠苑翠湖阁",
+        "name_en": "Sha Tsui Road, Near Chui Wu House, Sheung Chui Court"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20015937,
+        "name_tc": "河背街, 近天佑小學",
+        "name_sc": "河背街, 近天佑小学",
+        "name_en": "Ho Pui Street, Near Mary Of Providence Primary School"
+      }
+    ],
+    "data_timestamp": "2022-11-14T15:06:11.528+08:00"
+  }
+}

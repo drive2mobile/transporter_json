@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:14:36+08:00",
+  "data": {
+    "stop": "002097",
+    "name_tc": "南邊圍, 西貢公路",
+    "name_en": "Nam Pin Wai, Hiram's Highway",
+    "lat": "22.352872672091",
+    "long": "114.24970968053",
+    "name_sc": "南边围, 西贡公路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

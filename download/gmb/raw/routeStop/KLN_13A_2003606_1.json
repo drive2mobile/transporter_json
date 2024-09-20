@@ -1,0 +1,52 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:44:08.832+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20000831,
+        "name_tc": "港鐵樂富站小巴總站",
+        "name_sc": "港铁乐富站小巴总站",
+        "name_en": "'Lok Fu MTR Station Minibus Terminus "
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20010431,
+        "name_tc": "廣播道, 逸瓏外",
+        "name_sc": "广播道, 逸珑外",
+        "name_en": "Broadcast Drive, outside One Mayfair"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20000737,
+        "name_tc": "廣播道, 香港電台電視大廈外",
+        "name_sc": "广播道, 香港电台电视大厦外",
+        "name_en": "Broadcast Drive, outside Radio Television Hong Kong Television House"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20010446,
+        "name_tc": "廣播道9號",
+        "name_sc": "广播道9号",
+        "name_en": "No.9 Broadcast Drive"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20000739,
+        "name_tc": "廣播道, 香港電台廣播大廈對面",
+        "name_sc": "广播道, 香港电台广播大厦对面",
+        "name_en": "Broadcast Drive, opposite Radio Hong Kong Broadcasting House"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20010393,
+        "name_tc": "廣播道, 珍寶閣外",
+        "name_sc": "广播道, 珍宝阁外",
+        "name_en": "Broadcast Drive, outside Jumbo Court"
+      }
+    ],
+    "data_timestamp": "2024-07-31T11:26:10.209+08:00"
+  }
+}

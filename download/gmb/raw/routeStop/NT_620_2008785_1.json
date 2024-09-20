@@ -1,0 +1,31 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:29:47.937+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20016915,
+        "name_tc": "峻巒交通總匯",
+        "name_sc": "峻峦交通总汇",
+        "name_en": "Park YOHO Transport Interchange"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20007464,
+        "name_tc": "錦田公路, 近下高埔村",
+        "name_sc": "锦田公路, 近下高埔村",
+        "name_en": "Kam Tin Road, Near Ha Ko Po Tsuen"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20017687,
+        "name_tc": "錦上路站公共運輸交匯處",
+        "name_sc": "锦上路站公共运输交汇处",
+        "name_en": "Kam Sheung Road Station Public Transport Interchange"
+      }
+    ],
+    "data_timestamp": "2024-05-30T10:48:46.398+08:00"
+  }
+}

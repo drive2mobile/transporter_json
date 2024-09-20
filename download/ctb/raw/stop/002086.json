@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:13:40+08:00",
+  "data": {
+    "stop": "002086",
+    "name_tc": "香港恒生大學, 廣善街",
+    "name_en": "The Hang Seng University of Hong Kong, Kwong Sin Street",
+    "lat": "22.380676162091",
+    "long": "114.21168117053",
+    "name_sc": "香港恒生大学, 广善街",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

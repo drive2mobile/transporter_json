@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:14:37+08:00",
+  "data": {
+    "stop": "002100",
+    "name_tc": "漁民新村, 西貢公路",
+    "name_en": "Fisherman Village, Hiram's Highway",
+    "lat": "22.361887962091",
+    "long": "114.25692227053",
+    "name_sc": "渔民新村, 西贡公路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

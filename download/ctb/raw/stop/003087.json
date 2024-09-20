@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:13:34+08:00",
+  "data": {
+    "stop": "003087",
+    "name_tc": "海柏花園, 西沙路",
+    "name_en": "Bayshore Towers, Sai Sha Road",
+    "lat": "22.424953592091",
+    "long": "114.23139580053",
+    "name_sc": "海柏花园, 西沙路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

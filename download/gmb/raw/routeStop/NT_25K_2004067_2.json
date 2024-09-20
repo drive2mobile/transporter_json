@@ -1,0 +1,122 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:28:24.170+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20010993,
+        "name_tc": "林錦公路, 近白牛石",
+        "name_sc": "林锦公路, 近白牛石",
+        "name_en": "Lam Kam Road, near Pak Hgau Shek"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20011017,
+        "name_tc": "林錦公路, 近寨乪",
+        "name_sc": "林锦公路, 近寨乪",
+        "name_en": "Lam Kam Road, near Chai Kek"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20011020,
+        "name_tc": "林錦公路, 近水窩",
+        "name_sc": "林锦公路, 近水窝",
+        "name_en": "Lam Kam Road, near Shui Wo"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20011333,
+        "name_tc": "林錦公路, 近大庵",
+        "name_sc": "林锦公路, 近大庵",
+        "name_en": "Lam Kam Road, near Tai Om"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20011622,
+        "name_tc": "林錦公路, 近坪朗",
+        "name_sc": "林锦公路, 近坪朗",
+        "name_en": "Lam Kam Road, near Ping Long"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20011623,
+        "name_tc": "林錦公路, 近新塘",
+        "name_sc": "林锦公路, 近新塘",
+        "name_en": "Lam Kam Road, near San Tong"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20011048,
+        "name_tc": "林錦公路, 近新村",
+        "name_sc": "林锦公路, 近新村",
+        "name_en": "Lam Kam Road, near San Tsuen"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20011068,
+        "name_tc": "林錦公路, 近鍾屋村",
+        "name_sc": "林锦公路, 近锺屋村",
+        "name_en": "Lam Kam Road, near Chung Uk Tsuen"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20011082,
+        "name_tc": "林錦公路, 近放馬莆(林村許願樹)",
+        "name_sc": "林锦公路, 近放马莆(林村许愿树)",
+        "name_en": "Lam Kam Road, near Fong Ma Po (Lam Tsuen Wishing Tree)"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20011097,
+        "name_tc": "林錦公路, 近坑下甫",
+        "name_sc": "林锦公路, 近坑下甫",
+        "name_en": "Lam Kam Road, near Hang Ha Po"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20001214,
+        "name_tc": "寶雅路南行線, 近港鐵太和站",
+        "name_sc": "宝雅路南行线, 近港铁太和站",
+        "name_en": "Po Nga Road Southbound, near Tai Wo MTR Station"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20001208,
+        "name_tc": "汀角路北行線, 大埔政府合署外",
+        "name_sc": "汀角路北行線, 大埔政府合署外",
+        "name_en": "Ting Kok Road Northbound, outside Tai Po Government Offices Building"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20003424,
+        "name_tc": "大埔太和路, 大埔舊墟遊樂場外",
+        "name_sc": "大埔太和路, 大埔旧墟游乐场外",
+        "name_en": "Tai Po Tai Wo Road, outside Tai Po Old Market Playground"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20002571,
+        "name_tc": "寶鄉橋, 前六鄉新村公立學校對面",
+        "name_sc": "宝乡桥, 前六乡新村公立学校对面",
+        "name_en": "Po Heung Bridge southbound opposite Former Luk Heung San Tsuen Public School"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20001200,
+        "name_tc": "南盛街鴻運大樓外",
+        "name_sc": "南盛街鸿运大楼外",
+        "name_en": "Nam Shing Street outside Hung Wan Building"
+      },
+      {
+        "stop_seq": 16,
+        "stop_id": 20011684,
+        "name_tc": "大埔墟 (懷仁街) 總站",
+        "name_sc": "大埔墟 (怀仁街) 总站",
+        "name_en": "Tai Po Market (Wai Yan Street) Terminus"
+      }
+    ],
+    "data_timestamp": "2024-07-31T16:28:25.126+08:00"
+  }
+}

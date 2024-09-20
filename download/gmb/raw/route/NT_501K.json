@@ -1,0 +1,50 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:29:12.719+08:00",
+  "data": [
+    {
+      "route_id": 2001063,
+      "region": "NT",
+      "route_code": "501K",
+      "description_tc": "正常班次",
+      "description_sc": "正常班次",
+      "description_en": "Normal Route",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "欣盛苑",
+          "orig_sc": "欣盛苑",
+          "orig_en": "Yan Shing Court",
+          "dest_tc": "聯和墟 (循環線)",
+          "dest_sc": "联和墟 (循环线)",
+          "dest_en": "Luen Wo Hui (Circular)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "06:30:00",
+              "end_time": "10:00:00",
+              "frequency": 10,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-08-07T10:11:49.364+08:00"
+        }
+      ],
+      "data_timestamp": "2024-08-07T10:11:49.364+08:00"
+    }
+  ]
+}

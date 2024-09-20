@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:11:28+08:00",
+  "data": {
+    "stop": "002022",
+    "name_tc": "大埔文娛中心, 安祥路",
+    "name_en": "Tai Po Civic Centre, On Cheung Road",
+    "lat": "22.451689612091",
+    "long": "114.16740195053",
+    "name_sc": "大埔文娱中心, 安祥路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

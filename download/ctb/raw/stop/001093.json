@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:09:57+08:00",
+  "data": {
+    "stop": "001093",
+    "name_tc": "忌利文道, 山頂道",
+    "name_en": "Craigmin Road, Peak Road",
+    "lat": "22.266594622091",
+    "long": "114.15989290053",
+    "name_sc": "忌利文道, 山顶道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

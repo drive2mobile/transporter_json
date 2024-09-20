@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:15:04+08:00",
+  "data": {
+    "stop": "003639",
+    "name_tc": "帝都酒店, 白鶴汀街",
+    "name_en": "Royal Park Hotel, Pak Hok Ting Street",
+    "lat": "22.379798002091",
+    "long": "114.18807395053",
+    "name_sc": "帝都酒店, 白鹤汀街",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:10:53+08:00",
+  "data": {
+    "stop": "003612",
+    "name_tc": "機電工程署總部, 承啟道",
+    "name_en": "EMSD Headquarters, Shing Kai Road",
+    "lat": "22.326253402091",
+    "long": "114.20237693053",
+    "name_sc": "机电工程署总部, 承启道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

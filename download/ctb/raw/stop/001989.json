@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:16:13+08:00",
+  "data": {
+    "stop": "001989",
+    "name_tc": "嘉湖山莊美湖居, 天葵路",
+    "name_en": "Maywood Court Kingswood Villas, Tin Kwai Road",
+    "lat": "22.459617252091",
+    "long": "114.00542070053",
+    "name_sc": "嘉湖山庄美湖居, 天葵路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

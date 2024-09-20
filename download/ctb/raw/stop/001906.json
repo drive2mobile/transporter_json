@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:14:28+08:00",
+  "data": {
+    "stop": "001906",
+    "name_tc": "三聖邨, 青山公路",
+    "name_en": "Sam Shing Estate, Castle Peak Road",
+    "lat": "22.381359722091",
+    "long": "113.97896845053",
+    "name_sc": "三圣邨, 青山公路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

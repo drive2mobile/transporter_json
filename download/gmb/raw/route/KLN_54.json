@@ -1,0 +1,184 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:27:12.203+08:00",
+  "data": [
+    {
+      "route_id": 2003174,
+      "region": "KLN",
+      "route_code": "54",
+      "description_tc": "正常班次",
+      "description_sc": "正常班次",
+      "description_en": " Normal Route",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "順天",
+          "orig_sc": "顺天",
+          "orig_en": "Shun Tin",
+          "dest_tc": "樂富",
+          "dest_sc": "乐富",
+          "dest_en": "Lok Fu",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "05:40:00",
+              "end_time": "09:04:00",
+              "frequency": 6,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 2,
+              "start_time": "09:04:00",
+              "end_time": "16:04:00",
+              "frequency": 12,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 3,
+              "start_time": "16:04:00",
+              "end_time": "19:04:00",
+              "frequency": 6,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 4,
+              "start_time": "19:04:00",
+              "end_time": "23:28:00",
+              "frequency": 12,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-09-10T18:26:28.076+08:00"
+        },
+        {
+          "route_seq": 2,
+          "orig_tc": "樂富",
+          "orig_sc": "乐富",
+          "orig_en": "Lok Fu",
+          "dest_tc": "順天",
+          "dest_sc": "顺天",
+          "dest_en": "Shun Tin",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "05:40:00",
+              "end_time": "09:04:00",
+              "frequency": 6,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 2,
+              "start_time": "09:04:00",
+              "end_time": "16:04:00",
+              "frequency": 12,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 3,
+              "start_time": "16:04:00",
+              "end_time": "19:04:00",
+              "frequency": 6,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 4,
+              "start_time": "19:04:00",
+              "end_time": "23:28:00",
+              "frequency": 12,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-09-10T18:26:28.076+08:00"
+        }
+      ],
+      "data_timestamp": "2024-09-10T18:26:28.076+08:00"
+    }
+  ]
+}

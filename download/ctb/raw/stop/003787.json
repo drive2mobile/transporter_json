@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:14:24+08:00",
+  "data": {
+    "stop": "003787",
+    "name_tc": "藍田交匯處",
+    "name_en": "Lam Tin Interchange",
+    "lat": "22.300510082091",
+    "long": "114.23114021053",
+    "name_sc": "蓝田交汇处",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

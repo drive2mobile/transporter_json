@@ -6,7 +6,8 @@ import { downloadRouteList, downloadRouteStops, downloadStops, parseJsonCtb } fr
 import { downloadRouteListKmb, downloadRouteStopListKmb, downloadStopListKmb, parseJsonKmb, } from "./functions/kmb.js";
 import { downloadJSONFile } from "./src/utilities/file_management.js";
 import { deleteNonCoop, parseJsonKmbCtb } from "./functions/kmbctb.js";
-import { downloadRouteStopListMtrBus } from "./functions/mtrbus.js";
+import { downloadRouteStopListMtrBus, parseJsonMtrBus } from "./functions/mtrbus.js";
+import { downloadRouteListGmb } from "./functions/gmb.js";
 
 const app = express();
 app.use(cors({
@@ -54,7 +55,16 @@ app.get(('/kmbctb'), async (req, res) =>
 })
 
 app.get(('/mtrbus'), async (req, res) => {
-    await downloadRouteStopListMtrBus();
+    // await downloadRouteStopListMtrBus();
+
+    await parseJsonMtrBus('tc');
+    await parseJsonMtrBus('en');
+
+    res.send('done');
+})
+
+app.get(('/gmb'), async (req, res) => {
+    await downloadRouteListGmb('tc');
 
     res.send('done');
 })

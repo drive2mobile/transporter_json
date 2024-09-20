@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:06:50+08:00",
+  "data": {
+    "stop": "001082",
+    "name_tc": "堅尼地城游泳池, 堅彌地城海旁",
+    "name_en": "Kennedy Town Swimming Pool, Kennedy Town Praya",
+    "lat": "22.285471952091",
+    "long": "114.13174101053",
+    "name_sc": "坚尼地城游泳池, 坚弥地城海旁",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

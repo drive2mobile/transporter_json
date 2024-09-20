@@ -1,0 +1,101 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:27:26.643+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20015079,
+        "name_tc": "大本型",
+        "name_sc": "大本型",
+        "name_en": "Domain"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20015080,
+        "name_tc": "鯉魚門道, 近油美苑淮美閣",
+        "name_sc": "鲤鱼门道, 近油美苑淮美阁",
+        "name_en": "LEI YUE MUN ROAD, near Wai Mei House, YAU MEI COURT"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20015081,
+        "name_tc": "鯉魚門道, 近油美苑灝美閣",
+        "name_sc": "鲤鱼门道, 近油美苑灏美阁",
+        "name_en": "LEI YUE MUN ROAD, near Ho Mei House, YAU MEI COURT"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20016333,
+        "name_tc": "鯉魚門道, 近油翠苑 ",
+        "name_sc": "鲤鱼门道, 近油翠苑",
+        "name_en": "LEI YUE MUN ROAD, near YAU CHUI COURT"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20015082,
+        "name_tc": "啟田道, 近康田苑祈康閣",
+        "name_sc": "启田道, 近康田苑祈康阁",
+        "name_en": "KAI TIN ROAD, near Kei Hong House, HONG TIN COURT"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20015083,
+        "name_tc": "啟田道, 近啓田大廈Ｂ座",
+        "name_sc": "启田道, 近启田大厦Ｂ座",
+        "name_en": "KAI TIN ROAD, near Kai Tin Tower Block B"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20015052,
+        "name_tc": "連德道, 近興田邨彩田樓",
+        "name_sc": "连德道, 近兴田邨彩田楼",
+        "name_en": "LIN TAK ROAD, near Choi Tin House, HING TIN ESTATE"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20014133,
+        "name_tc": "曉光街上秀茂坪巴士總站",
+        "name_sc": "晓光街上秀茂坪巴士总站",
+        "name_en": "Hiu Kwong Street Sau Mau Ping (Upper) Bus Terminus"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20015085,
+        "name_tc": "曉光街, 近曉光街草坪公園",
+        "name_sc": "晓光街, 近晓光街草坪公园",
+        "name_en": "HIU KWONG STREET, near HIU KWONG STREET PARK STRIP"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20015086,
+        "name_tc": "曉光街, 近曉光閣",
+        "name_sc": "晓光街, 近晓光阁",
+        "name_en": "HIU KWONG STREET, near Hiu Kwong Court"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20015087,
+        "name_tc": "曉光街, 近曉麗苑曉和閣",
+        "name_sc": "晓光街, 近晓丽苑晓和阁",
+        "name_en": "HIU KWONG STREET, near Hiu Wo House, Hiu Lai Court"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20015088,
+        "name_tc": "協和街, 近康寧道公園（第二期）",
+        "name_sc": "协和街, 近康宁道公园（第二期）",
+        "name_en": "HIP WO STREET, near HONG NING ROAD PARK (PHASE 2)"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20019204,
+        "name_tc": "基督教聯合醫院小巴總站",
+        "name_sc": "基督教联合医院小巴总站",
+        "name_en": "United Christian Hospital Minibus Terminus"
+      }
+    ],
+    "data_timestamp": "2024-09-10T18:39:17.031+08:00"
+  }
+}

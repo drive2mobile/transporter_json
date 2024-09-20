@@ -1,0 +1,116 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:25:41.266+08:00",
+  "data": [
+    {
+      "route_id": 2007498,
+      "region": "HKI",
+      "route_code": "27",
+      "description_tc": "正常班次",
+      "description_sc": "正常班次",
+      "description_en": "Normal Departure",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "鴨脷洲 (惠風街)",
+          "orig_sc": "鸭脷洲 (惠风街)",
+          "orig_en": "Ap Lei Chau (Wai Fung Street)",
+          "dest_tc": "香港仔 (西安街)",
+          "dest_sc": "香港仔 (西安街)",
+          "dest_en": "Aberdeen (Sai On Street)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "06:15:00",
+              "end_time": "20:00:00",
+              "frequency": 5,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 2,
+              "start_time": "20:00:00",
+              "end_time": "23:50:00",
+              "frequency": 10,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2023-08-11T12:12:10.048+08:00"
+        },
+        {
+          "route_seq": 2,
+          "orig_tc": "香港仔 (西安街)",
+          "orig_sc": "香港仔 (西安街)",
+          "orig_en": "Aberdeen (Sai On Street)",
+          "dest_tc": "鴨脷洲 (惠風街)",
+          "dest_sc": "鸭脷洲 (惠风街)",
+          "dest_en": "Ap Lei Chau (Wai Fung Street)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "06:05:00",
+              "end_time": "20:00:00",
+              "frequency": 5,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 2,
+              "start_time": "20:00:00",
+              "end_time": "23:50:00",
+              "frequency": 10,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2023-08-11T12:12:10.048+08:00"
+        }
+      ],
+      "data_timestamp": "2023-08-11T12:12:10.048+08:00"
+    }
+  ]
+}

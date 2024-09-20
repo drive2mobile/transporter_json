@@ -1,0 +1,101 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:44:00.844+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20014859,
+        "name_tc": "謝斐道, 近兆安廣場",
+        "name_sc": "谢斐道, 近兆安广场 ",
+        "name_en": "JAFFE ROAD, near Siu On Plaza"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20014860,
+        "name_tc": "駱克道, 近COMO COMO",
+        "name_sc": "骆克道, 近COMO COMO ",
+        "name_en": "LOCKHART ROAD, near COMO COMO"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20014890,
+        "name_tc": "駱克道, 338號",
+        "name_sc": "骆克道, 338号",
+        "name_en": "Lockhart Road, house no. 338"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20000008,
+        "name_tc": "薄扶林道, 香港大學西閘",
+        "name_sc": "薄扶林道, 香港大学西闸",
+        "name_en": "Pok Fu Lam Road, West Gate of The University of Hong Kong"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20000009,
+        "name_tc": "薄扶林道, 寶翠園對面",
+        "name_sc": "薄扶林道, 宝翠园对面",
+        "name_en": "Pok Fu Lam Road, opposite The Belcher's"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20014870,
+        "name_tc": "薄扶林道, 近蒲飛路",
+        "name_sc": " 薄扶林道, 近蒲飞路",
+        "name_en": "Pokfulam Road near Pokfield Road"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20014871,
+        "name_tc": "薄扶林道, 近摩星嶺道",
+        "name_sc": "薄扶林道, 近摩星岭道",
+        "name_en": "Pokfulam Road near Mount Davis Road"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20004547,
+        "name_tc": "薄扶林道, 瑪麗醫院",
+        "name_sc": "薄扶林道, 玛丽医院",
+        "name_en": "Queen Mary Hospital, Pok Fu Lam Road"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20014872,
+        "name_tc": "碧荔道, 近Bisney Cove",
+        "name_sc": "碧荔道, 近Bisney Cove",
+        "name_en": "BISNEY ROAD, near Bisney Cove"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20000348,
+        "name_tc": "大口環道, 大口環根德公爵夫人兒童醫院",
+        "name_sc": "大口环道, 大口环根德公爵夫人儿童医院",
+        "name_en": "Sandy Bay Road, The Duchess of Kent Children’s Hospital"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20004594,
+        "name_tc": "沙灣徑, 麥理浩復康院外",
+        "name_sc": "沙湾径, 麦理浩复康院外",
+        "name_en": "Sha Wan Drive, outside Maclehose Medical Rehabilitation Centre"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20014873,
+        "name_tc": "沙灣徑, 近譚亦衡樓第５座",
+        "name_sc": "沙湾径, 近谭亦衡楼第５座",
+        "name_en": "SHA WAN DRIVE, near Tam Gardens Block 5"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20014874,
+        "name_tc": "數碼港巴士總站",
+        "name_sc": "数码港巴士总站",
+        "name_en": "Cyberport Bus Terminus"
+      }
+    ],
+    "data_timestamp": "2024-09-19T14:14:54.600+08:00"
+  }
+}

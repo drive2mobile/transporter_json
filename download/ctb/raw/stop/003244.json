@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:11:35+08:00",
+  "data": {
+    "stop": "003244",
+    "name_tc": "太和廣場, 寶雅路",
+    "name_en": "Tai Wo Plaza, Po Nga Road",
+    "lat": "22.450459542091",
+    "long": "114.16094631053",
+    "name_sc": "太和广场, 宝雅路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

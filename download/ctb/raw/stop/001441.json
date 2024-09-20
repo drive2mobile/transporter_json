@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:07:21+08:00",
+  "data": {
+    "stop": "001441",
+    "name_tc": "東京街, 長沙灣道",
+    "name_en": "Tonkin Street, Cheung Sha Wan Road",
+    "lat": "22.335144032091",
+    "long": "114.15680913053",
+    "name_sc": "东京街, 长沙湾道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

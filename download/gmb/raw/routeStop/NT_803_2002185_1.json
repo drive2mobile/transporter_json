@@ -1,0 +1,164 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:30:10.208+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20002241,
+        "name_tc": "顯田街, 近梁文燕紀念中學",
+        "name_sc": "显田街, 近梁文燕纪念中学",
+        "name_en": "Hin Tin Street, near Helen Liang Memorial Secondary School (Shatin)"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20002242,
+        "name_tc": "顯徑街, 顯徑邨顯慶樓外",
+        "name_sc": "显径街, 显径邨显庆楼外",
+        "name_en": "Hin Keng Street, outside Hin Hing House, Hin Keng Estate"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20002243,
+        "name_tc": "顯徑街, 田心救護站外",
+        "name_sc": "显径街, 田心救护站外",
+        "name_en": "Hin Keng Street, outside Tin Sum Ambulance Depot"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20001580,
+        "name_tc": "田心街, 隆亨邨榮心樓對面",
+        "name_sc": "田心街, 隆亨邨荣心楼对面",
+        "name_en": "Tin Sam Street, opposite Wing Sam House, Lung Hang Estate"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20001582,
+        "name_tc": "車公廟路, 五育中學對面",
+        "name_sc": "车公庙路, 五育中学对面",
+        "name_en": "Che Kung Miu Road, opposite Ng Yuk Secondary School"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20002244,
+        "name_tc": "車公廟路, 李屋村對面",
+        "name_sc": "车公庙路, 李屋村对面",
+        "name_en": "Che Kung Miu Road, opposite Lei Uk Tsuen"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20001581,
+        "name_tc": "車公廟路, 車公廟站外",
+        "name_sc": "车公庙路, 车公庙站外",
+        "name_en": "Che Kung Miu Road, outside Che Kung Miu Station"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20002245,
+        "name_tc": "大涌橋路, 曾大屋遊樂場對面",
+        "name_sc": "大涌桥路, 曾大屋游乐场对面",
+        "name_en": "Tai Chung Kiu Road, opposite Tsang Tai Uk Recreation Ground"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20002246,
+        "name_tc": "大涌橋路, 愉城苑對面",
+        "name_sc": "大涌桥路, 愉城苑对面",
+        "name_en": "Tai Chung Kiu Road, opposite Yue Shing Court"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20001556,
+        "name_tc": "大涌橋路, 近河畔花園",
+        "name_sc": "大涌桥路, 近河畔花园",
+        "name_en": "Tai Chung Kiu Road, near Garden Rivera"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20001557,
+        "name_tc": "大涌橋路, 富豪花園對面",
+        "name_sc": "大涌桥路, 富豪花园对面",
+        "name_en": "Tai Chung Kiu Road, opposite Belair Gardens"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20002235,
+        "name_tc": "大涌橋路, 沙田第一城對面",
+        "name_sc": "大涌桥路, 沙田第一城对面",
+        "name_en": "Tai Chung Kiu Road, opposite City One Shatin"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20001567,
+        "name_tc": "大涌橋路, 濱景花園外",
+        "name_sc": "大涌桥路, 滨景花园外",
+        "name_en": "Tai Chung Kiu Road, outside Ravana Garden"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20002236,
+        "name_tc": "亞公角街北行線, 沙田醫院對面",
+        "name_sc": "亚公角街北行线, 沙田医院对面",
+        "name_en": "A Kung Kok Street Northbound, opposite Shatin Hospital"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20002238,
+        "name_tc": "亞公角街, 近富安花園",
+        "name_sc": "亚公角街, 近富安花园",
+        "name_en": "A Kung Kok Street, near Chevalier Garden"
+      },
+      {
+        "stop_seq": 16,
+        "stop_id": 20019633,
+        "name_tc": "馬鞍山路錦駿苑對面 ",
+        "name_sc": "马鞍山路锦骏苑对面",
+        "name_en": "Ma On Shan Road opposite Kam Chun Court "
+      },
+      {
+        "stop_seq": 17,
+        "stop_id": 20001226,
+        "name_tc": "恒康街, 耀安邨耀謙樓對面",
+        "name_sc": "恒康街, 耀安邨耀谦楼对面",
+        "name_en": "Hang Hong Street, opposite Yiu Him House, Yiu On Estate"
+      },
+      {
+        "stop_seq": 18,
+        "stop_id": 20001228,
+        "name_tc": "恒康街, 曾璧山中學對面",
+        "name_sc": "恒康街, 曾璧山中学对面",
+        "name_en": "Hang Hong Street, opposite Tsang Pik Shan Secondary School"
+      },
+      {
+        "stop_seq": 19,
+        "stop_id": 20001230,
+        "name_tc": "西沙路, 馬鞍山廣場外",
+        "name_sc": "西沙路, 马鞍山广场外",
+        "name_en": "Sai Sha Road, outside Ma On Shan Plaza"
+      },
+      {
+        "stop_seq": 20,
+        "stop_id": 20002247,
+        "name_tc": "馬鞍山路, 馬鞍山分區警署外",
+        "name_sc": "马鞍山路, 马鞍山分区警署外",
+        "name_en": "Ma On Shan Road, outside Ma On Shan Division Police Station"
+      },
+      {
+        "stop_seq": 21,
+        "stop_id": 20002287,
+        "name_tc": "錦英路, 富寶花園外",
+        "name_sc": "锦英路, 富宝花园外",
+        "name_en": "Kam Ying Road, outside Saddle Ridge Garden"
+      },
+      {
+        "stop_seq": 22,
+        "stop_id": 20002248,
+        "name_tc": "利安邨巴士總站",
+        "name_sc": "利安邨巴士总站",
+        "name_en": "Lee On Estate Bus Terminus"
+      }
+    ],
+    "data_timestamp": "2024-08-20T17:28:58.180+08:00"
+  }
+}

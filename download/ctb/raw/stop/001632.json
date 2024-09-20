@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:07:50+08:00",
+  "data": {
+    "stop": "001632",
+    "name_tc": "伊利沙伯醫院, 衛理道",
+    "name_en": "Queen Elizabeth Hospital, Wylie Road",
+    "lat": "22.309611312091",
+    "long": "114.17610512053",
+    "name_sc": "伊利沙伯医院, 卫理道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

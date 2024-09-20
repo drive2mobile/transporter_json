@@ -1,0 +1,31 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:30:48.651+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20001130,
+        "name_tc": "麥理浩夫人度假村",
+        "name_sc": "麦理浩夫人度假村",
+        "name_en": "Lady MacLehose Holiday Village"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20003162,
+        "name_tc": "大網仔",
+        "name_sc": "大网仔",
+        "name_en": "Tai Mong Tsai"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20001112,
+        "name_tc": "福民路小巴總站, 經華樓外",
+        "name_sc": "福民路小巴总站, 经华楼外",
+        "name_en": "Fuk Man Road Public Light Bus Terminus, outside King Wah Building"
+      }
+    ],
+    "data_timestamp": "2024-07-31T17:27:36.949+08:00"
+  }
+}

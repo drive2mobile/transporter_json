@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:09:42+08:00",
+  "data": {
+    "stop": "002765",
+    "name_tc": "中環 (大會堂)",
+    "name_en": "Central (City Hall)",
+    "lat": "22.282499962091",
+    "long": "114.16074536053",
+    "name_sc": "中环 (大会堂)",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

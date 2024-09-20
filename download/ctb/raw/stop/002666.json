@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:16:10+08:00",
+  "data": {
+    "stop": "002666",
+    "name_tc": "天恩邨",
+    "name_en": "Tin Yan Estate",
+    "lat": "22.462359052091",
+    "long": "113.99635121053",
+    "name_sc": "天恩邨",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

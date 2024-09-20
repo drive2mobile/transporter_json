@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:12:42+08:00",
+  "data": {
+    "stop": "002164",
+    "name_tc": "崇文街, 香港仔水塘道",
+    "name_en": "Tsung Man Street, Aberdeen Reservoir Road",
+    "lat": "22.249666202091",
+    "long": "114.15592867053",
+    "name_sc": "崇文街, 香港仔水塘道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

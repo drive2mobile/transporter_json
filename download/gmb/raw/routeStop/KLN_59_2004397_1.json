@@ -1,0 +1,171 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:27:14.609+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20012075,
+        "name_tc": "翠屏南邨翠松樓外",
+        "name_sc": "翠屏南邨翠松楼外",
+        "name_en": "Tsui Ping (South) Estate, outside Tsui Chung House"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20012076,
+        "name_tc": "翠屏南邨翠桐樓外",
+        "name_sc": "翠屏南邨翠桐楼外",
+        "name_en": "Tsui Ping (South) Estate, outside Tsui Tung House"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20012077,
+        "name_tc": "翠屏南邨翠榮樓外",
+        "name_sc": "翠屏南邨翠荣楼外",
+        "name_en": "Tsui Ping (South) Estate, outside Tsui Wing House"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20012078,
+        "name_tc": "翠屏南邨翠杏樓外",
+        "name_sc": "翠屏南邨翠杏楼外",
+        "name_en": "Tsui Ping (South) Estate, outside Tsui Heng House"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20012079,
+        "name_tc": "翠屏南邨翠杭樓外",
+        "name_sc": "翠屏南邨翠杭楼外",
+        "name_en": "Tsui Ping (South) Estate, outside Tsui Hon House"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20012080,
+        "name_tc": "翠屏南邨翠樂樓外",
+        "name_sc": "翠屏南邨翠乐楼外",
+        "name_en": "Tsui Ping (South) Estate, outside Tsui Lok House"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20012081,
+        "name_tc": "佳廉道, 翠屏南邨翠櫻樓外",
+        "name_sc": "佳廉道, 翠屏南邨翠樱楼外",
+        "name_en": "Kai Lim Road, outside Tsui Ying House, Tsui Ping (North)"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20012082,
+        "name_tc": "佳廉道, 翠屏南邨翠樂樓外",
+        "name_sc": "佳廉道, 翠屏南邨翠乐楼外",
+        "name_en": "Kai Lim Road, outside Tsui Lok House, Tsui Ping (South)"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20012083,
+        "name_tc": "翠屏道, 翠屏北邨翠柏樓外",
+        "name_sc": "翠屏道, 翠屏北邨翠柏楼外",
+        "name_en": "Tsui Ping Road, outside Tsui Pak House, Tsui Ping (North)"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20012084,
+        "name_tc": "翠屏道, 翠屏北邨翠桉樓外",
+        "name_sc": "翠屏道, 翠屏北邨翠桉楼外",
+        "name_en": "Tsui Ping Road, outside Tsui On House, Tsui Ping (North)"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20012085,
+        "name_tc": "翠屏道, 翠屏商場對面",
+        "name_sc": "翠屏道, 翠屏商场对面",
+        "name_en": "Tsui Ping Road, opposite Tsui Ping Commercial Complex"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20012086,
+        "name_tc": "翠屏道, 寶珮苑外",
+        "name_sc": "翠屏道, 宝佩苑外",
+        "name_en": "Tsui Ping Road, outside Po Pui Court"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20012087,
+        "name_tc": "協和街, 月華街遊樂場外",
+        "name_sc": "协和街, 月华街游乐场外",
+        "name_en": "Hip Wo Street, outside Yuet Wah Street Playground"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20012571,
+        "name_tc": "協和街, 觀景閣外",
+        "name_sc": "协和街, 观景阁外",
+        "name_en": "Hip Wo Street, outside Good View Court"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20012089,
+        "name_tc": "福塘道, 港鐵站",
+        "name_sc": "福塘道, 港铁站",
+        "name_en": "Fuk Tong Road, MTR Station"
+      },
+      {
+        "stop_seq": 16,
+        "stop_id": 20012090,
+        "name_tc": "翠屏道, 基督教家庭服務中心賽馬會大樓外",
+        "name_sc": "翠屏道, 基督教家庭服务中心赛马会大楼外",
+        "name_en": "Tsui Ping Road, outside Christian Family Services Centre Jockey Club Building"
+      },
+      {
+        "stop_seq": 17,
+        "stop_id": 20012091,
+        "name_tc": "翠屏北邨翠梓樓外",
+        "name_sc": "翠屏北邨翠梓楼外",
+        "name_en": "Tsui Ping (North) Estate, outside Tsui Tsz House"
+      },
+      {
+        "stop_seq": 18,
+        "stop_id": 20012092,
+        "name_tc": "翠屏南邨翠樂樓對面",
+        "name_sc": "翠屏南邨翠乐楼对面",
+        "name_en": "Tsui Ping (South) Estate, opposite Tsui Lok House"
+      },
+      {
+        "stop_seq": 19,
+        "stop_id": 20012093,
+        "name_tc": "翠屏南邨翠杭樓對面",
+        "name_sc": "翠屏南邨翠杭楼对面",
+        "name_en": "Tsui Ping (South Estate, opposite Tsui Hon House"
+      },
+      {
+        "stop_seq": 20,
+        "stop_id": 20012094,
+        "name_tc": "翠屏南邨翠杏樓對面",
+        "name_sc": "翠屏南邨翠杏楼对面",
+        "name_en": "Tsui Ping (South) Estate, opposite Tsui Heng House"
+      },
+      {
+        "stop_seq": 21,
+        "stop_id": 20012095,
+        "name_tc": "翠屏南邨翠榮樓對面",
+        "name_sc": "翠屏南邨翠荣楼对面",
+        "name_en": "Tsui Ping (South) Estate, opposite Tsui Wing House"
+      },
+      {
+        "stop_seq": 22,
+        "stop_id": 20012096,
+        "name_tc": "翠屏南邨翠桐樓對面",
+        "name_sc": "翠屏南邨翠桐楼对面",
+        "name_en": "Tsui Ping (South) Estate, opposite Tsui Tung House"
+      },
+      {
+        "stop_seq": 23,
+        "stop_id": 20012075,
+        "name_tc": "翠屏南邨翠松樓外",
+        "name_sc": "翠屏南邨翠松楼外",
+        "name_en": "Tsui Ping (South) Estate, outside Tsui Chung House"
+      }
+    ],
+    "data_timestamp": "2024-02-01T16:42:52.534+08:00"
+  }
+}

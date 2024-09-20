@@ -1,0 +1,82 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:29:41.522+08:00",
+  "data": [
+    {
+      "route_id": 2003673,
+      "region": "NT",
+      "route_code": "60R",
+      "description_tc": " 額外班次 ",
+      "description_sc": "额外班次",
+      "description_en": "Supplementary Service Route ",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "沙田站",
+          "orig_sc": "沙田站",
+          "orig_en": "Sha Tin Station",
+          "dest_tc": "沙田馬場(彭福公園)",
+          "dest_sc": "沙田马场(彭福公园)",
+          "dest_en": "Sha Tin Racecourse (Penfold Park)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "10:00:00",
+              "end_time": "17:40:00",
+              "frequency": 20,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-06-17T15:12:43.703+08:00"
+        },
+        {
+          "route_seq": 2,
+          "orig_tc": "沙田馬場(彭福公園)",
+          "orig_sc": "沙田马场(彭福公园)",
+          "orig_en": "Sha Tin Racecourse (Penfold Park)",
+          "dest_tc": "沙田站",
+          "dest_sc": "沙田站",
+          "dest_en": "Sha Tin Station",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "10:30:00",
+              "end_time": "18:00:00",
+              "frequency": 20,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-06-17T15:12:43.703+08:00"
+        }
+      ],
+      "data_timestamp": "2024-06-17T15:12:43.703+08:00"
+    }
+  ]
+}

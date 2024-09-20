@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:16:42+08:00",
+  "data": {
+    "stop": "001442",
+    "name_tc": "怡閣苑, 長沙灣道",
+    "name_en": "Yee Kok Court, Cheung Sha Wan Road",
+    "lat": "22.332844652091",
+    "long": "114.15969853053",
+    "name_sc": "怡阁苑, 长沙湾道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

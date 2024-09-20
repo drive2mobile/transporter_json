@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:06:42+08:00",
+  "data": {
+    "stop": "002554",
+    "name_tc": "怡和街",
+    "name_en": "Yee Wo Street",
+    "lat": "22.279929702091",
+    "long": "114.18500787053",
+    "name_sc": "怡和街",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

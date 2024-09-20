@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:14:14+08:00",
+  "data": {
+    "stop": "001371",
+    "name_tc": "張振興伉儷書院, 東區走廊",
+    "name_en": "Chong Gene Hang College, Island Eastern Corridor",
+    "lat": "22.267284472091",
+    "long": "114.23771063053",
+    "name_sc": "张振兴伉俪书院, 东区走廊",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

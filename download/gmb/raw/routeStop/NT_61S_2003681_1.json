@@ -1,0 +1,38 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:29:46.863+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20006627,
+        "name_tc": "樂信徑駿景園外的巴士停車灣",
+        "name_sc": "乐信径骏景园外的巴士停车湾",
+        "name_en": "Bus lay-by at Lok Shun Path outside Royal Ascot"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20006624,
+        "name_tc": "沙角街,沙田圍鐵路站外",
+        "name_sc": "沙角街,沙田围铁路站外",
+        "name_en": "Sha Kok Street, outside Sha Tin Wai Station"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20001516,
+        "name_tc": "獅子山隧道公路新田圍邨對面的巴士停車灣",
+        "name_sc": "狮子山隧道公路新田围邨对面的巴士停车湾",
+        "name_en": "Bus lay-by at Lion Rock Tunnel Road opposite Sun Tin Wai Estate."
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20006602,
+        "name_tc": "快富街,工業貿易署大樓外",
+        "name_sc": "快富街,工业贸易署大楼外",
+        "name_en": "Fife Street, outside Trade And Industry Department Tower"
+      }
+    ],
+    "data_timestamp": "2024-07-31T17:09:14.050+08:00"
+  }
+}

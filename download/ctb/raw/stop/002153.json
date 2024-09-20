@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:16:18+08:00",
+  "data": {
+    "stop": "002153",
+    "name_tc": "天祐苑, 天福路",
+    "name_en": "Tin Yau Court, Tin Fuk Road",
+    "lat": "22.450265462091",
+    "long": "114.00608368053",
+    "name_sc": "天祐苑, 天福路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:16:19+08:00",
+  "data": {
+    "stop": "002621",
+    "name_tc": "天恩邨, 天瑞路",
+    "name_en": "Tin Yan Estate, Tin Shui Road",
+    "lat": "22.464563622091",
+    "long": "113.99733895053",
+    "name_sc": "天恩邨, 天瑞路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

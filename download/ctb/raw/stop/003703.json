@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:15:42+08:00",
+  "data": {
+    "stop": "003703",
+    "name_tc": "葵涌邨芷葵樓, 上角街",
+    "name_en": "Tsz Kwai House Kwai Chung Estate, Sheung Kok Street",
+    "lat": "22.368113422091",
+    "long": "114.12691415053",
+    "name_sc": "葵涌邨芷葵楼, 上角街",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:16:16+08:00",
+  "data": {
+    "stop": "002060",
+    "name_tc": "天耀邨",
+    "name_en": "Tin Yiu Estate",
+    "lat": "22.450369342091",
+    "long": "114.00300100053",
+    "name_sc": "天耀邨",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

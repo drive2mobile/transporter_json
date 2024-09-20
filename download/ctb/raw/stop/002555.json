@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:07:50+08:00",
+  "data": {
+    "stop": "002555",
+    "name_tc": "百德新街, 怡和街",
+    "name_en": "Paterson Street, Yee Wo Street",
+    "lat": "22.279935442091",
+    "long": "114.18558549053",
+    "name_sc": "百德新街, 怡和街",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

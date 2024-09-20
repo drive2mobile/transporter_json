@@ -1,0 +1,320 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:28:23.873+08:00",
+  "data": [
+    {
+      "route_id": 2004067,
+      "region": "NT",
+      "route_code": "25K",
+      "description_tc": "正常路線",
+      "description_sc": "正常路线",
+      "description_en": "Normal Route",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "大埔墟",
+          "orig_sc": "大埔墟",
+          "orig_en": "Tai Po Market",
+          "dest_tc": "林村 (白牛石)",
+          "dest_sc": "林村 (白牛石)",
+          "dest_en": "Lam Tsuen (Pak Ngau Shek)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "04:45:00",
+              "end_time": "06:09:00",
+              "frequency": 12,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 2,
+              "start_time": "06:09:00",
+              "end_time": "06:30:00",
+              "frequency": 7,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 3,
+              "start_time": "06:30:00",
+              "end_time": "09:30:00",
+              "frequency": 5,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 4,
+              "start_time": "09:30:00",
+              "end_time": "18:29:00",
+              "frequency": 7,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 5,
+              "start_time": "18:29:00",
+              "end_time": "20:29:00",
+              "frequency": 5,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 6,
+              "start_time": "20:29:00",
+              "end_time": "23:24:00",
+              "frequency": 7,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 7,
+              "start_time": "23:24:00",
+              "end_time": "00:54:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 8,
+              "start_time": "00:54:00",
+              "end_time": "01:00:00",
+              "frequency": 6,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-07-31T16:28:25.126+08:00"
+        },
+        {
+          "route_seq": 2,
+          "orig_tc": "林村 (白牛石)",
+          "orig_sc": "林村 (白牛石)",
+          "orig_en": "Lam Tsuen (Pak Ngau Shek)",
+          "dest_tc": "大埔墟",
+          "dest_sc": "大埔墟",
+          "dest_en": "Tai Po Market",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "05:00:00",
+              "end_time": "05:48:00",
+              "frequency": 12,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 2,
+              "start_time": "05:48:00",
+              "end_time": "06:30:00",
+              "frequency": 7,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 3,
+              "start_time": "06:30:00",
+              "end_time": "09:30:00",
+              "frequency": 5,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 4,
+              "start_time": "09:30:00",
+              "end_time": "18:29:00",
+              "frequency": 7,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 5,
+              "start_time": "18:29:00",
+              "end_time": "20:29:00",
+              "frequency": 5,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 6,
+              "start_time": "20:29:00",
+              "end_time": "23:24:00",
+              "frequency": 7,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 7,
+              "start_time": "23:24:00",
+              "end_time": "01:04:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 8,
+              "start_time": "01:04:00",
+              "end_time": "01:15:00",
+              "frequency": 11,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-07-31T16:28:25.126+08:00"
+        }
+      ],
+      "data_timestamp": "2024-07-31T16:28:25.126+08:00"
+    }
+  ]
+}

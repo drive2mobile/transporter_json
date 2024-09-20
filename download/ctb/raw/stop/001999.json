@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:16:15+08:00",
+  "data": {
+    "stop": "001999",
+    "name_tc": "嘉湖山莊賞湖居, 天湖路",
+    "name_en": "Sherwood Court Kingswood Villas, Tin Wu Road",
+    "lat": "22.452590032091",
+    "long": "114.00237240053",
+    "name_sc": "嘉湖山庄赏湖居, 天湖路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

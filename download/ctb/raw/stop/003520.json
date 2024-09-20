@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:10:52+08:00",
+  "data": {
+    "stop": "003520",
+    "name_tc": "承豐道",
+    "name_en": "Shing Fung Road",
+    "lat": "22.311739462091",
+    "long": "114.20778315053",
+    "name_sc": "承丰道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

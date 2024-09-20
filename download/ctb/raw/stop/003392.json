@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:13:43+08:00",
+  "data": {
+    "stop": "003392",
+    "name_tc": "小瀝源消防局, 插桅杆街",
+    "name_en": "Siu Lek Yuen Fire Station, Chap Wai Kon Street",
+    "lat": "22.384068602091",
+    "long": "114.20528038053",
+    "name_sc": "小沥源消防局, 插桅杆街",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

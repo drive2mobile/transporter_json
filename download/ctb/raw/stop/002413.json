@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:03:28+08:00",
+  "data": {
+    "stop": "002413",
+    "name_tc": "大有廣場, 菲林明道",
+    "name_en": "Tai Yau Plaza, Fleming Road",
+    "lat": "22.276992282091",
+    "long": "114.17491050053",
+    "name_sc": "大有广场, 菲林明道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

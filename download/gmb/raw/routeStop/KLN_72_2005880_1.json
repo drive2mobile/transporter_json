@@ -1,0 +1,122 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:27:22.709+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20001099,
+        "name_tc": "斧山道, 宏景花園綜合大樓及停車場外",
+        "name_sc": "斧山道, 宏景花园综合大楼及停车场外",
+        "name_en": "Hammer Hill Road, outside Grand View Garden Commercial And Car Park Block"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20000599,
+        "name_tc": "斧山道, 東九龍胸肺科診所外",
+        "name_sc": "斧山道, 东九龙胸肺科诊所外",
+        "name_en": "Hammer Hill Road, outside East Kowloon Chest Clinic"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20013957,
+        "name_tc": "鳳德道, 近星河明居Ａ座",
+        "name_sc": "凤德道, 近星河明居Ａ座",
+        "name_en": "FUNG TAK ROAD, near Galaxia Tower A"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20000600,
+        "name_tc": "鳳德道, 鳳德邨對面",
+        "name_sc": "凤德道, 凤德邨对面",
+        "name_en": "Fung Tak Road, opposite Fung Tak Estate"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20013958,
+        "name_tc": "鳳德道, 近鳳德公園",
+        "name_sc": "凤德道, 近凤德公园",
+        "name_en": "FUNG TAK ROAD, near FUNG TAK PARK"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20013959,
+        "name_tc": "黃大仙道, 近黃大仙祠意密堂",
+        "name_sc": "黄大仙道, 近黄大仙祠意密堂",
+        "name_en": "WONG TAI SIN ROAD, near 黃大仙祠意密堂, WONG TAI SIN TEMPLE"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20000580,
+        "name_tc": "雅竹街, 竹園南邨雅園樓外",
+        "name_sc": "雅竹街, 竹园南邨雅园楼外",
+        "name_en": "Nga Chuk Street, outside Nga Yuen House, Chuk Yuen South Estate"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20012378,
+        "name_tc": "竹園道, 近民政事務總署竹園社區中心",
+        "name_sc": "竹园道, 近民政事务总署竹园社区中心 ",
+        "name_en": "CHUK YUEN ROAD, near Chuk Yuen Estate Community Centre Home Affairs Department"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20013960,
+        "name_tc": "竹園道, 近竹園南邨榮園樓",
+        "name_sc": "竹园道, 近竹园南村荣园楼 ",
+        "name_en": "CHUK YUEN ROAD, near Wing Yuen House, CHUK YUEN (SOUTH) ESTATE"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20013961,
+        "name_tc": "竹園道, 近天宏苑宏景閣",
+        "name_sc": "竹园道, 近天宏苑宏景阁 ",
+        "name_en": "CHUK YUEN ROAD, near Wang King House, TIN WANG COURT"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20013962,
+        "name_tc": "竹園道, 近天馬苑駿威閣",
+        "name_sc": "竹园道, 近天马苑骏威阁 ",
+        "name_en": "CHUK YUEN ROAD, near Chun Wai House, TIN MA COURT"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20013963,
+        "name_tc": "聯合道, 近逸夫校園逸夫行政樓",
+        "name_sc": "联合道, 近逸夫校园逸夫行政楼 ",
+        "name_en": "JUNCTION ROAD, near Shaw Tower, Shaw Campus"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20000742,
+        "name_tc": "聯合道, 金城道遊樂場對面",
+        "name_sc": "联合道, 金城道游乐场对面",
+        "name_en": "Junction Road, opposite Kam Shing Road Recreation Ground"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20013964,
+        "name_tc": "歌和老街, 近樂古花園",
+        "name_sc": "歌和老街, 近乐古花园 ",
+        "name_en": "CORNWALL STREET, near Lockoo Gardens"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20013965,
+        "name_tc": "歌和老街, 近歌和老街公園歌和老街壁球及乒乓球中心",
+        "name_sc": "歌和老街, 近歌和老街公园歌和老街壁球及乒乓球中心 ",
+        "name_en": "CORNWALL STREET, near Cornwall Street Squash & Table Tennis Centre, CORNWALL STREET PARK"
+      },
+      {
+        "stop_seq": 16,
+        "stop_id": 20013966,
+        "name_tc": "又一城",
+        "name_sc": "又一城",
+        "name_en": "Festival Walk"
+      }
+    ],
+    "data_timestamp": "2024-08-07T13:48:07.408+08:00"
+  }
+}

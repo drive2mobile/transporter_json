@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:16:48+08:00",
+  "data": {
+    "stop": "001499",
+    "name_tc": "德福花園, 觀塘道",
+    "name_en": "Telford Gardens, Kwun Tong Road",
+    "lat": "22.322004582091",
+    "long": "114.21431732053",
+    "name_sc": "德福花园, 观塘道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

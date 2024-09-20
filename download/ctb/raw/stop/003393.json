@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:10:39+08:00",
+  "data": {
+    "stop": "003393",
+    "name_tc": "港灣豪庭, 深旺道",
+    "name_en": "Metro Harbour View, Sham Mong Road",
+    "lat": "22.323940312091",
+    "long": "114.15885597053",
+    "name_sc": "港湾豪庭, 深旺道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

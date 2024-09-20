@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:14:45+08:00",
+  "data": {
+    "stop": "003700",
+    "name_tc": "泓景臺, 荔枝角道",
+    "name_en": "Banyan Garden, Lai Chi Kok Road",
+    "lat": "22.335048102091",
+    "long": "114.14760387053",
+    "name_sc": "泓景台, 荔枝角道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

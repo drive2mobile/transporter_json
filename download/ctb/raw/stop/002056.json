@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:15:36+08:00",
+  "data": {
+    "stop": "002056",
+    "name_tc": "葵涌邨曉葵樓, 上角街",
+    "name_en": "Hiu Kwai House Kwai Chung Estate, Sheung Kok Street",
+    "lat": "22.368211622091",
+    "long": "114.12738775053",
+    "name_sc": "葵涌邨晓葵楼, 上角街",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

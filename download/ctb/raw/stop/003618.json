@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:16:26+08:00",
+  "data": {
+    "stop": "003618",
+    "name_tc": "沙埔村, 青山公路",
+    "name_en": "Sha Po Tsuen, Castle Peak Road",
+    "lat": "22.451613822091",
+    "long": "114.04972432053",
+    "name_sc": "沙埔村, 青山公路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:09:48+08:00",
+  "data": {
+    "stop": "002282",
+    "name_tc": "輝百苑, 大潭道",
+    "name_en": "Faber Villa, Tai Tam Road",
+    "lat": "22.225645112091",
+    "long": "114.21572025053",
+    "name_sc": "辉百苑, 大潭道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

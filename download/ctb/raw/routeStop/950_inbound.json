@@ -1,0 +1,159 @@
+{
+  "type": "RouteStop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:00:16+08:00",
+  "data": [
+    {
+      "co": "CTB",
+      "route": "950",
+      "dir": "I",
+      "seq": 1,
+      "stop": "003415",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "950",
+      "dir": "I",
+      "seq": 2,
+      "stop": "002445",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "950",
+      "dir": "I",
+      "seq": 3,
+      "stop": "002447",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "950",
+      "dir": "I",
+      "seq": 4,
+      "stop": "001140",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "950",
+      "dir": "I",
+      "seq": 5,
+      "stop": "001142",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "950",
+      "dir": "I",
+      "seq": 6,
+      "stop": "001055",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "950",
+      "dir": "I",
+      "seq": 7,
+      "stop": "001057",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "950",
+      "dir": "I",
+      "seq": 8,
+      "stop": "001058",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "950",
+      "dir": "I",
+      "seq": 9,
+      "stop": "001193",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "950",
+      "dir": "I",
+      "seq": 10,
+      "stop": "001628",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "950",
+      "dir": "I",
+      "seq": 11,
+      "stop": "003359",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "950",
+      "dir": "I",
+      "seq": 12,
+      "stop": "003153",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "950",
+      "dir": "I",
+      "seq": 13,
+      "stop": "003192",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "950",
+      "dir": "I",
+      "seq": 14,
+      "stop": "003431",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "950",
+      "dir": "I",
+      "seq": 15,
+      "stop": "003351",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "950",
+      "dir": "I",
+      "seq": 16,
+      "stop": "003209",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "950",
+      "dir": "I",
+      "seq": 17,
+      "stop": "003760",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "950",
+      "dir": "I",
+      "seq": 18,
+      "stop": "003767",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "950",
+      "dir": "I",
+      "seq": 19,
+      "stop": "003752",
+      "data_timestamp": "2024-09-19T05:00:04+08:00"
+    }
+  ]
+}

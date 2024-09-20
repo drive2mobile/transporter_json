@@ -1,0 +1,80 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:28:05.810+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20014769,
+        "name_tc": "藍田站公共運輸交匯處",
+        "name_sc": "蓝田站公共运输交汇处",
+        "name_en": "Lam Tin Station Public Transport Interchange"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20014770,
+        "name_tc": "啟田道, 近康田苑",
+        "name_sc": "启田道, 近康田苑",
+        "name_en": "Kai Tin Road near Hong Tin Court"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20014130,
+        "name_tc": "連德道, 康逸苑外",
+        "name_sc": "连德道, 康逸苑外",
+        "name_en": "Lin Tak Road, outside Hong Yat Court"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20012066,
+        "name_tc": "連德道, 興田邨彩田樓外",
+        "name_sc": "连德道, 兴田邨彩田楼外",
+        "name_en": "Lin Tak Road, outside Choi Tin House, Hing Tin Estate"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20014771,
+        "name_tc": "秀茂坪道, 近曉光街",
+        "name_sc": "秀茂坪道, 近晓光街",
+        "name_en": "Sau Mau Ping Road near Hiu Kwong Street"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20002551,
+        "name_tc": "秀茂坪道, 秀茂坪邨秀暉樓外",
+        "name_sc": "秀茂坪道, 秀茂坪邨秀晖楼外",
+        "name_en": "Sau Mau Ping Road, outside Sau Mau Ping Estate Sau Fai House"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20014772,
+        "name_tc": "寶琳路, 寶達邨對面",
+        "name_sc": "宝琳路, 宝达邨对面",
+        "name_en": "Po Lam Road, opposite Po Tat Estate"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20002032,
+        "name_tc": "寶琳路, 馬游塘鄉事委員會對面",
+        "name_sc": "宝琳路, 马游塘乡事委员会对面",
+        "name_en": "Po Lam Road, opposite Ma Yau Tong Rural Committee"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20002003,
+        "name_tc": "寶琳北路, 康盛花園外",
+        "name_sc": "宝琳北路, 康盛花园外",
+        "name_en": "Po Lam Road North, outside Hong Sing Garden"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20014766,
+        "name_tc": "翠琳巴士總站",
+        "name_sc": "翠琳巴士总站",
+        "name_en": "Tsui Lam Bus Terminus"
+      }
+    ],
+    "data_timestamp": "2024-08-07T13:52:30.666+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:07:40+08:00",
+  "data": {
+    "stop": "002416",
+    "name_tc": "史釗域道, 告士打道",
+    "name_en": "Stewart Road, Gloucester Road",
+    "lat": "22.279560092091",
+    "long": "114.17698751053",
+    "name_sc": "史钊域道, 告士打道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

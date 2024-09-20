@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:07:31+08:00",
+  "data": {
+    "stop": "001251",
+    "name_tc": "興發街",
+    "name_en": "Hing Fat Street",
+    "lat": "22.283573922091",
+    "long": "114.19109346053",
+    "name_sc": "兴发街",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

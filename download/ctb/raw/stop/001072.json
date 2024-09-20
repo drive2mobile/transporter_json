@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:09:34+08:00",
+  "data": {
+    "stop": "001072",
+    "name_tc": "香港動植物公園, 花園道",
+    "name_en": "HK Zoological & Botanical Garden, Garden Road",
+    "lat": "22.277527002091",
+    "long": "114.15772013053",
+    "name_sc": "香港动植物公园, 花园道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

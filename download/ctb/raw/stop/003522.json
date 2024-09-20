@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:10:53+08:00",
+  "data": {
+    "stop": "003522",
+    "name_tc": "侯王道, 太子道西",
+    "name_en": "Hau Wong Road, Prince Edward Road West",
+    "lat": "22.327374722091",
+    "long": "114.18856947053",
+    "name_sc": "侯王道, 太子道西",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:12:09+08:00",
+  "data": {
+    "stop": "003150",
+    "name_tc": "栢麗購物大道, 彌敦道",
+    "name_en": "Park Lane Shopper's Boulevard, Nathan Road",
+    "lat": "22.301699802091",
+    "long": "114.17180373053",
+    "name_sc": "栢丽购物大道, 弥敦道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

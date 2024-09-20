@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:10:01+08:00",
+  "data": {
+    "stop": "002507",
+    "name_tc": "紀園, 司徒拔道",
+    "name_en": "Craigmount, Stubbs Road",
+    "lat": "22.267170202091",
+    "long": "114.18190378053",
+    "name_sc": "纪园, 司徒拔道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

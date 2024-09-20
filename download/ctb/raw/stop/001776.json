@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:13:04+08:00",
+  "data": {
+    "stop": "001776",
+    "name_tc": "彩雲邨, 清水灣道",
+    "name_en": "Choi Wan Estate, Clear Water Bay Road",
+    "lat": "22.333499332091",
+    "long": "114.21476078053",
+    "name_sc": "彩云邨, 清水湾道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

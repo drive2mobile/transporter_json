@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:09:39+08:00",
+  "data": {
+    "stop": "002592",
+    "name_tc": "香港公園, 堅尼地道",
+    "name_en": "Hong Kong Park, Kennedy Road",
+    "lat": "22.276056952091",
+    "long": "114.16054945053",
+    "name_sc": "香港公园, 坚尼地道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

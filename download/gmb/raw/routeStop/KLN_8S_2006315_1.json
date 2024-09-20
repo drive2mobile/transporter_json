@@ -1,0 +1,129 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:27:36.826+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20014320,
+        "name_tc": "漢口道, 近騏生商業中心",
+        "name_sc": "汉口道, 近骐生商业中心",
+        "name_en": "HANKOW ROAD, near Kai Seng Commercial Centre"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20000411,
+        "name_tc": "梳士巴利道, 近中間道兒童遊樂場",
+        "name_sc": "梳士巴利道, 近中间道儿童游乐场",
+        "name_en": "SALISBURY ROAD, near MIDDLE ROAD CHILDREN'S PLAYGROUND"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20014321,
+        "name_tc": "漆咸道南, 近溫莎大廈",
+        "name_sc": "漆咸道南, 近温莎大厦",
+        "name_en": "CHATHAM ROAD SOUTH, near Windsor Mansion"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20014322,
+        "name_tc": "漆咸道南, 近百樂酒店",
+        "name_sc": "漆咸道南, 近百乐酒店",
+        "name_en": "CHATHAM ROAD SOUTH, near Park Hotel"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20014323,
+        "name_tc": "漆咸道南, 近中國五礦大廈",
+        "name_sc": "漆咸道南, 近中国五矿大厦",
+        "name_en": "CHATHAM ROAD SOUTH, near China Minmetals Tower"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20010463,
+        "name_tc": "安運道, 近紅磡站",
+        "name_sc": "安运道, 近红磡站",
+        "name_en": "On Wan Road, near Hung Hom Station"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20014324,
+        "name_tc": "機利士南路, 近機利士大廈",
+        "name_sc": "机利士南路, 近机利士大厦",
+        "name_en": "GILLIES AVENUE SOUTH, near Gillies Mansion"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20014325,
+        "name_tc": "馬頭圍道, 近家維邨家廉樓",
+        "name_sc": "马头围道, 近家维邨家廉楼",
+        "name_en": "MA TAU WAI ROAD, near Ka Lim Lau, KA WAI CHUEN"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20014326,
+        "name_tc": "佛光街, 近家維邨家邦樓",
+        "name_sc": "佛光街, 近家维邨家邦楼",
+        "name_en": "FAT KWONG STREET, near Ka Bong Lau, KA WAI CHUEN"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20014327,
+        "name_tc": "忠孝街, 近何文田站",
+        "name_sc": "忠孝街, 近何文田站",
+        "name_en": "CHUNG HAU STREET, near Ho Man Tin Station"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20014328,
+        "name_tc": "忠孝街, 近愛民邨信民樓",
+        "name_sc": "忠孝街, 近爱民邨信民楼",
+        "name_en": "CHUNG HAU STREET, near Shun Man House, OI MAN ESTATE"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20014329,
+        "name_tc": "忠孝街, 近愛民邨德民樓",
+        "name_sc": "忠孝街, 近爱民邨德民楼",
+        "name_en": "CHUNG HAU STREET, near Tak Man House, OI MAN ESTATE"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20014330,
+        "name_tc": "忠孝街, 近愛民邨昭民樓",
+        "name_sc": "忠孝街, 近爱民邨昭民楼",
+        "name_en": "CHUNG HAU STREET, near Chiu Man House, OI MAN ESTATE"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20014331,
+        "name_tc": "忠孝街, 近土木工程拓展署大樓",
+        "name_sc": "忠孝街, 近土木工程拓展署大楼",
+        "name_en": "CHUNG HAU STREET, near Civil Engineering and Development Building"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20014332,
+        "name_tc": "忠孝街, 近欣圖軒第二座",
+        "name_sc": "忠孝街, 近欣图轩第二座",
+        "name_en": "CHUNG HAU STREET, near Cascades Block 2"
+      },
+      {
+        "stop_seq": 16,
+        "stop_id": 20014346,
+        "name_tc": "常富街, 近One Homantin Tower 1",
+        "name_sc": "常富街, 近One Homantin Tower 1",
+        "name_en": "SHEUNG FOO STREET, near One Homantin Tower 1"
+      },
+      {
+        "stop_seq": 17,
+        "stop_id": 20007008,
+        "name_tc": " 何文田邨公共運輸交匯處",
+        "name_sc": "何文田邨公共运输交汇处",
+        "name_en": "Ho Man Tin Estate Public Transport Interchange"
+      }
+    ],
+    "data_timestamp": "2024-09-05T09:58:25.942+08:00"
+  }
+}

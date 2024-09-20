@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:03:28+08:00",
+  "data": {
+    "stop": "001059",
+    "name_tc": "堅尼地城游泳池休憩處, 德輔道西",
+    "name_en": "Kennedy Town Swimming Pool Sitting-out Area, Des Voeux Road West",
+    "lat": "22.287202282091",
+    "long": "114.13257171053",
+    "name_sc": "坚尼地城游泳池休憩处, 德辅道西",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,501 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:44:11.487+08:00",
+  "data": [
+    {
+      "route_id": 2003240,
+      "region": "NT",
+      "route_code": "101M",
+      "description_tc": "正常班次",
+      "description_sc": "正常班次",
+      "description_en": "Normal Route",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "坑口站",
+          "orig_sc": "坑口站",
+          "orig_en": "Hang Hau Station",
+          "dest_tc": "西貢",
+          "dest_sc": "西贡",
+          "dest_en": "Sai Kung",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "05:30:00",
+              "end_time": "06:30:00",
+              "frequency": 4,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 2,
+              "start_time": "06:30:00",
+              "end_time": "10:00:00",
+              "frequency": 3,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 3,
+              "start_time": "10:00:00",
+              "end_time": "17:00:00",
+              "frequency": 4,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 4,
+              "start_time": "17:00:00",
+              "end_time": "20:30:00",
+              "frequency": 3,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 5,
+              "start_time": "20:30:00",
+              "end_time": "00:00:00",
+              "frequency": 4,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 6,
+              "start_time": "00:00:00",
+              "end_time": "00:25:00",
+              "frequency": 25,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 7,
+              "start_time": "00:25:00",
+              "end_time": "00:55:00",
+              "frequency": 30,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-09-18T02:32:16.102+08:00"
+        },
+        {
+          "route_seq": 2,
+          "orig_tc": "西貢",
+          "orig_sc": "西贡",
+          "orig_en": "Sai Kung",
+          "dest_tc": "坑口站",
+          "dest_sc": "坑口站",
+          "dest_en": "Hang Hau Station",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "05:30:00",
+              "end_time": "06:30:00",
+              "frequency": 4,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 2,
+              "start_time": "06:30:00",
+              "end_time": "10:00:00",
+              "frequency": 3,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 3,
+              "start_time": "10:00:00",
+              "end_time": "17:00:00",
+              "frequency": 4,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 4,
+              "start_time": "17:00:00",
+              "end_time": "20:30:00",
+              "frequency": 3,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 5,
+              "start_time": "20:30:00",
+              "end_time": "00:00:00",
+              "frequency": 4,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 6,
+              "start_time": "00:00:00",
+              "end_time": "01:15:00",
+              "frequency": 15,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-09-18T02:32:16.102+08:00"
+        }
+      ],
+      "data_timestamp": "2024-09-18T02:32:16.102+08:00"
+    },
+    {
+      "route_id": 2003242,
+      "region": "NT",
+      "route_code": "101M",
+      "description_tc": "特別班次",
+      "description_sc": "特別班次",
+      "description_en": "Special Departure",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "經西貢北公共運輸交匯處 (西貢)",
+          "orig_sc": "西贡北公共运输交汇处 (西贡)",
+          "orig_en": "Sai Kung North Public Transport Interchange (Sai Kung)",
+          "dest_tc": "坑口站",
+          "dest_sc": "坑口站",
+          "dest_en": "Hang Hau Station",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "07:00:00",
+              "end_time": "09:30:00",
+              "frequency": 10,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 2,
+              "start_time": "16:00:00",
+              "end_time": "18:30:00",
+              "frequency": 10,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-07-31T17:28:48.481+08:00"
+        }
+      ],
+      "data_timestamp": "2024-07-31T17:28:48.481+08:00"
+    },
+    {
+      "route_id": 2003243,
+      "region": "NT",
+      "route_code": "101M",
+      "description_tc": "短程班次",
+      "description_sc": "短程班次",
+      "description_en": "Shortworking Service",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "白沙灣",
+          "orig_sc": "白沙湾",
+          "orig_en": "Pak Sha Wan",
+          "dest_tc": "坑口",
+          "dest_sc": "坑口",
+          "dest_en": "Hang Hau",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "07:30:00",
+              "end_time": "09:30:00",
+              "frequency": 30,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-07-31T17:28:48.481+08:00"
+        }
+      ],
+      "data_timestamp": "2024-07-31T17:28:48.481+08:00"
+    },
+    {
+      "route_id": 2005451,
+      "region": "NT",
+      "route_code": "101M",
+      "description_tc": "短程班次",
+      "description_sc": "短程班次",
+      "description_en": "Shortworking Service",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "翠塘花園",
+          "orig_sc": "翠塘花园 ",
+          "orig_en": "Lakeside Garden",
+          "dest_tc": "坑口",
+          "dest_sc": "坑口",
+          "dest_en": "Hang Hau",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "07:50:00",
+              "end_time": "08:20:00",
+              "frequency": 15,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-07-31T17:28:48.481+08:00"
+        }
+      ],
+      "data_timestamp": "2024-07-31T17:28:48.481+08:00"
+    },
+    {
+      "route_id": 2005452,
+      "region": "NT",
+      "route_code": "101M",
+      "description_tc": "短程班次",
+      "description_sc": "短程班次",
+      "description_en": "Shortworking Service",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "菠蘿輋",
+          "orig_sc": "菠萝輋 ",
+          "orig_en": "Po Lo Che",
+          "dest_tc": "坑口",
+          "dest_sc": "坑口",
+          "dest_en": "Hang Hau",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "07:45:00",
+              "end_time": "08:05:00",
+              "frequency": 20,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-07-31T17:28:48.481+08:00"
+        }
+      ],
+      "data_timestamp": "2024-07-31T17:28:48.481+08:00"
+    },
+    {
+      "route_id": 2005453,
+      "region": "NT",
+      "route_code": "101M",
+      "description_tc": "短程班次",
+      "description_sc": "短程班次",
+      "description_en": "Shortworking Service",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "匡湖居",
+          "orig_sc": "匡湖居 ",
+          "orig_en": "Marina Cove",
+          "dest_tc": "坑口",
+          "dest_sc": "坑口",
+          "dest_en": "Hang Hau",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "07:10:00",
+              "end_time": "07:20:00",
+              "frequency": 10,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-07-31T17:28:48.481+08:00"
+        }
+      ],
+      "data_timestamp": "2024-07-31T17:28:48.481+08:00"
+    }
+  ]
+}

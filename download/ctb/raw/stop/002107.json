@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:14:39+08:00",
+  "data": {
+    "stop": "002107",
+    "name_tc": "西貢大會堂, 普通道",
+    "name_en": "Sai Kung Town Hall, Po Tung Road",
+    "lat": "22.382076842091",
+    "long": "114.27085957053",
+    "name_sc": "西贡大会堂, 普通道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:11:34+08:00",
+  "data": {
+    "stop": "003243",
+    "name_tc": "安慈路, 汀角路",
+    "name_en": "On Chee Road, Ting Kok Road",
+    "lat": "22.452233162091",
+    "long": "114.16553520053",
+    "name_sc": "安慈路, 汀角路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

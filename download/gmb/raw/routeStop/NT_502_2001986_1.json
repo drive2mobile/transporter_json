@@ -1,0 +1,157 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:29:14.568+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20004166,
+        "name_tc": "清河邨公共運輸交匯處",
+        "name_sc": "清河邨公共运输交汇处",
+        "name_en": "Ching Ho Estate Public Transport Interchange"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20004169,
+        "name_tc": "百和路, 欣翠花園外",
+        "name_sc": "百和路, 欣翠花园外",
+        "name_en": "Pak Wo Road, outside Cheerful Park"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20004170,
+        "name_tc": "百和路, 嘉盛苑外",
+        "name_sc": "百和路, 嘉盛苑外",
+        "name_en": "Pak Wo Road, outside Ka Shing Court"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20004171,
+        "name_tc": "百和路, 基新中學對面",
+        "name_sc": "百和路, 基新中学对面",
+        "name_en": "Pak Wo Road, opposite Kei San Secondary School"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20004172,
+        "name_tc": "百和路, 近粉嶺站",
+        "name_sc": "百和路, 近粉岭站",
+        "name_en": "Pak Wo Road, near Fanling Station"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20002182,
+        "name_tc": "華明路, 欣暉閣外",
+        "name_sc": "华明路, 欣晖阁外",
+        "name_en": "Wah Ming Road, outside Yan Fai House"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20003259,
+        "name_tc": "華明路, 康明樓外",
+        "name_sc": "华明路, 康明楼外",
+        "name_en": "Wah Ming Road, outside Hong Ming House"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20004528,
+        "name_tc": "華明路, 方樹泉小學外",
+        "name_sc": "华明路, 方树泉小学外",
+        "name_en": "Wah Ming Road, outside Fong Shu Chuen Primary School"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20004532,
+        "name_tc": "和興路, 和興村外",
+        "name_sc": "和兴路, 和兴村外",
+        "name_en": "Wo Hing Road, outside Wo Hing Tsuen"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20004173,
+        "name_tc": "大窩西支路, 何家園",
+        "name_sc": "大窝西支路, 何家园",
+        "name_en": "Tai Wo Service Road West, Ho Ka Yuen"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20004174,
+        "name_tc": "大窩西支路, 九龍坑",
+        "name_sc": "大窝西支路, 九龙坑",
+        "name_en": "Tai Wo Service Road West, Kau Lung Hang"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20003203,
+        "name_tc": "大窩西支路, 南華莆",
+        "name_sc": "大窝西支路, 南华莆",
+        "name_en": "Tai Wo Service Road West, Nam Wah Po"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20004176,
+        "name_tc": "大窩西支路, 大窩",
+        "name_sc": "大窝西支路, 大窝",
+        "name_en": "Tai Wo Service Road West, Tai Wo"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20004177,
+        "name_tc": "大窩西支路, 泰亨",
+        "name_sc": "大窝西支路, 泰亨",
+        "name_en": "Tai Wo Service Road West, Tai Hang"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20004178,
+        "name_tc": "大窩西支路, 中心圍",
+        "name_sc": "大窝西支路, 中心围",
+        "name_en": "Tai Wo Service Road West, Chung Sum Wai"
+      },
+      {
+        "stop_seq": 16,
+        "stop_id": 20004179,
+        "name_tc": "大窩西支路, 近圍頭村",
+        "name_sc": "大窝西支路, 近围头村",
+        "name_en": "Tai Wo Service Road West, near Wai Tau Tsuen"
+      },
+      {
+        "stop_seq": 17,
+        "stop_id": 20003424,
+        "name_tc": "大埔太和路, 大埔舊墟遊樂場外",
+        "name_sc": "大埔太和路, 大埔旧墟游乐场外",
+        "name_en": "Tai Po Tai Wo Road, outside Tai Po Old Market Playground"
+      },
+      {
+        "stop_seq": 18,
+        "stop_id": 20001243,
+        "name_tc": "大埔太和路, 大埔中心外",
+        "name_sc": "大埔太和路, 大埔中心外",
+        "name_en": "Tai Po Tai Wo Road, outside Tai Po Centre"
+      },
+      {
+        "stop_seq": 19,
+        "stop_id": 20001244,
+        "name_tc": "南運路, 新興花園對面",
+        "name_sc": "南运路, 新兴花园对面",
+        "name_en": "Nam Wan Road, opposite San Hing Garden"
+      },
+      {
+        "stop_seq": 20,
+        "stop_id": 20004180,
+        "name_tc": "頌雅路, 亨榮樓外",
+        "name_sc": "颂雅路, 亨荣楼外",
+        "name_en": "Chung Nga Road, outside Heng Wing House"
+      },
+      {
+        "stop_seq": 21,
+        "stop_id": 20001198,
+        "name_tc": "大埔那打素醫院",
+        "name_sc": "大埔那打素医院",
+        "name_en": "Tai Po Nethersole Hospital"
+      }
+    ],
+    "data_timestamp": "2024-07-31T16:04:12.240+08:00"
+  }
+}

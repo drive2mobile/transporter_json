@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:14:57+08:00",
+  "data": {
+    "stop": "003713",
+    "name_tc": "爵祿街",
+    "name_en": "Tseuk Luk Street",
+    "lat": "22.335351332091",
+    "long": "114.19743282053",
+    "name_sc": "爵禄街",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

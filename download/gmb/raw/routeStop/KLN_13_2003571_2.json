@@ -1,0 +1,227 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:44:07.979+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20010401,
+        "name_tc": "紅磡(紅鸞道)小巴總站",
+        "name_sc": "红磡(红鸾道)小巴总站",
+        "name_en": "Hung Hom (Hung Luen Road) GMB Terminus"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20004207,
+        "name_tc": "愛景街近海濱南岸",
+        "name_sc": "爱景街近海滨南岸",
+        "name_en": "Oi King Street near Harbour Place"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20010447,
+        "name_tc": "紅鸞道, 近建灣街",
+        "name_sc": "红鸾道, 近建湾街",
+        "name_en": "Hung Luen Road, near Kin Wan Street"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20006057,
+        "name_tc": "紅樂道近仁勇街",
+        "name_sc": "红乐道近仁勇街",
+        "name_en": "Hung Lok Road near Yan Yung Street"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20000684,
+        "name_tc": "紅荔道半島豪庭",
+        "name_sc": "红荔道半岛豪庭",
+        "name_en": "Hung Lai Road outside Royal Peninsular"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20010789,
+        "name_tc": "德民街42號",
+        "name_sc": "德民街42号",
+        "name_en": "No. 42 Tak Man Street"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20010421,
+        "name_tc": "寶其利街2號",
+        "name_sc": "宝其利街2号",
+        "name_en": "No.2 Bulkeley Street"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20000420,
+        "name_tc": "蕪湖街48號",
+        "name_sc": "芜湖街48号",
+        "name_en": "No.48 Wuhu Street"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20000556,
+        "name_tc": "馬頭圍道20號",
+        "name_sc": "马头围道20号",
+        "name_en": "No.20 Ma Tau Wai Road"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20000557,
+        "name_tc": "馬頭圍道60號",
+        "name_sc": "马头围道60号",
+        "name_en": "No.60 Ma Tau Wai Road"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20000558,
+        "name_tc": "馬頭圍道156號",
+        "name_sc": "马头围道156号",
+        "name_en": "No.156 Ma Tau Wai Road"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20010449,
+        "name_tc": "馬頭圍道188號",
+        "name_sc": "马头围道188号",
+        "name_en": "No.188 Ma Tau Wai Road"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20000506,
+        "name_tc": "土瓜灣道, 唯一大廈外",
+        "name_sc": "土瓜湾道, 唯一大厦外",
+        "name_en": "To Kwa Wan Road, outside Wearbest Building"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20006060,
+        "name_tc": "落山道",
+        "name_sc": "落山道",
+        "name_en": "Lok Shan Road"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20006061,
+        "name_tc": "馬坑涌道近馬頭圍道",
+        "name_sc": "马坑涌道近马头围道",
+        "name_en": "Ma Hang Chung Road near Ma Tau Wai Road"
+      },
+      {
+        "stop_seq": 16,
+        "stop_id": 20006062,
+        "name_tc": "天光道近馬頭圍道",
+        "name_sc": "天光道近马头围道",
+        "name_en": "Tin Kwong Road near Ma Tau Wai Road"
+      },
+      {
+        "stop_seq": 17,
+        "stop_id": 20010450,
+        "name_tc": "天光道近農圃道",
+        "name_sc": "天光道近农圃道",
+        "name_en": "Tin Kwong Road near Farm Road"
+      },
+      {
+        "stop_seq": 18,
+        "stop_id": 20000916,
+        "name_tc": "亞皆老街, 香港眼科醫院外",
+        "name_sc": "亚皆老街, 香港眼科医院外",
+        "name_en": "Argyle Street, outside Hong Kong Eye Hospital"
+      },
+      {
+        "stop_seq": 19,
+        "stop_id": 20004512,
+        "name_tc": "露明道",
+        "name_sc": "露明道",
+        "name_en": "Lomond Road"
+      },
+      {
+        "stop_seq": 20,
+        "stop_id": 20001053,
+        "name_tc": "聯合道, 民生商業大廈對面",
+        "name_sc": "联合道, 民生商业大厦对面",
+        "name_en": "Junction Road, opposite Man Sang Commercial Building"
+      },
+      {
+        "stop_seq": 21,
+        "stop_id": 20000563,
+        "name_tc": "聯合道8917號電燈柱",
+        "name_sc": "联合道8917号电灯柱",
+        "name_en": "Junction Road At Lamp Post No.k8917"
+      },
+      {
+        "stop_seq": 22,
+        "stop_id": 20010432,
+        "name_tc": "聯合道, 嘉諾撒聖家學校對面",
+        "name_sc": "联合道, 嘉诺撒圣家学校对面",
+        "name_en": "Junction Road, opposite Holy Family Canossian School"
+      },
+      {
+        "stop_seq": 23,
+        "stop_id": 20010425,
+        "name_tc": "聯合道, 香港兆基創意書院外",
+        "name_sc": "联合道, 香港兆基创意书院外",
+        "name_en": "Junction Road, outside Hong Kong Institute of Contemporary Culture Lee Shau Kee School of Creativity"
+      },
+      {
+        "stop_seq": 24,
+        "stop_id": 20010426,
+        "name_tc": "聯合道, 樂富邨樂翠樓外",
+        "name_sc": "联合道, 乐富村乐翠楼外",
+        "name_en": "Junction Road, outside Lok Fu Estate Block 2 Lok Tsui House "
+      },
+      {
+        "stop_seq": 25,
+        "stop_id": 20006066,
+        "name_tc": "橫頭磡東道港鐵樂富站外",
+        "name_sc": "横头磡东道港铁乐富站外",
+        "name_en": "Wang Tau Hom East Road, outside Lok Fu MTR Station "
+      },
+      {
+        "stop_seq": 26,
+        "stop_id": 20000561,
+        "name_tc": "橫頭磡南道, 橫頭磡邨宏順樓外",
+        "name_sc": "横头磡南道, 横头磡邨宏顺楼外",
+        "name_en": "Wang Tau Hom South Road, outside Wang Shun House, Wang Tau Hom Estate"
+      },
+      {
+        "stop_seq": 27,
+        "stop_id": 20010431,
+        "name_tc": "廣播道, 逸瓏外",
+        "name_sc": "广播道, 逸珑外",
+        "name_en": "Broadcast Drive, outside One Mayfair"
+      },
+      {
+        "stop_seq": 28,
+        "stop_id": 20000737,
+        "name_tc": "廣播道, 香港電台電視大廈外",
+        "name_sc": "广播道, 香港电台电视大厦外",
+        "name_en": "Broadcast Drive, outside Radio Television Hong Kong Television House"
+      },
+      {
+        "stop_seq": 29,
+        "stop_id": 20010446,
+        "name_tc": "廣播道9號",
+        "name_sc": "广播道9号",
+        "name_en": "No.9 Broadcast Drive"
+      },
+      {
+        "stop_seq": 30,
+        "stop_id": 20000739,
+        "name_tc": "廣播道, 香港電台廣播大廈對面",
+        "name_sc": "广播道, 香港电台广播大厦对面",
+        "name_en": "Broadcast Drive, opposite Radio Hong Kong Broadcasting House"
+      },
+      {
+        "stop_seq": 31,
+        "stop_id": 20010393,
+        "name_tc": "廣播道, 珍寶閣外",
+        "name_sc": "广播道, 珍宝阁外",
+        "name_en": "Broadcast Drive, outside Jumbo Court"
+      }
+    ],
+    "data_timestamp": "2024-08-07T09:25:26.351+08:00"
+  }
+}

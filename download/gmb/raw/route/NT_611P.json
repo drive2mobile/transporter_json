@@ -1,0 +1,84 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:29:43.828+08:00",
+  "data": [
+    {
+      "route_id": 2008603,
+      "region": "NT",
+      "route_code": "611P",
+      "description_tc": "正常班次",
+      "description_sc": "正常班次",
+      "description_en": "Normal Departure",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "山貝路",
+          "orig_sc": "山貝路",
+          "orig_en": "Shan Pui Road",
+          "dest_tc": "安信街(循環線)",
+          "dest_sc": "On Shun Street(Circular)",
+          "dest_en": "安信街(循环线)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "06:30:00",
+              "end_time": "09:30:00",
+              "frequency": 20,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 2,
+              "start_time": "09:30:00",
+              "end_time": "17:00:00",
+              "frequency": 30,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 3,
+              "start_time": "17:00:00",
+              "end_time": "19:00:00",
+              "frequency": 20,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2023-01-05T12:08:10.037+08:00"
+        }
+      ],
+      "data_timestamp": "2023-01-05T12:08:10.037+08:00"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:27:50.970+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20001149,
+        "name_tc": "寶琳公共運輸交匯處",
+        "name_sc": "宝琳公共运输交汇处",
+        "name_en": "Po Lam Public Transport Interchange"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20001166,
+        "name_tc": "寶琳北路, 近欣明苑商場",
+        "name_sc": "宝琳北路, 近欣明苑商场",
+        "name_en": "PO LAM ROAD NORTH, near Yan Ming Court Commercial Complex"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20001150,
+        "name_tc": "寶琳北路, 近樂善堂劉德學校",
+        "name_sc": "宝琳北路, 近乐善堂刘德学校",
+        "name_en": "PO LAM ROAD NORTH, near Lok Sin Tong Lau Tak Primary School"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20001151,
+        "name_tc": "寶琳北路, 近寶林邨寶仁樓",
+        "name_sc": "宝琳北路, 近宝琳邨宝仁楼外",
+        "name_en": "PO LAM ROAD NORTH, near Po Yan House, PO LAM ESTATE"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20010616,
+        "name_tc": "寶琳北路, 近景明苑旭景閣",
+        "name_sc": "宝琳北路, 近景明苑旭景阁",
+        "name_en": "PO LAM ROAD NORTH, near Yuk King House, KING MING COURT"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20002021,
+        "name_tc": "寶琳北路, 近獅子會　－　青年會將軍澳青年營　Lion's Lodge",
+        "name_sc": "宝琳北路, 近狮子会　－　青年会将军澳青年营　Lion's Lodge",
+        "name_en": "PO LAM ROAD NORTH, near Lion's Lodge, Lions - YMCA Junk Bay Youth Camp"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20001152,
+        "name_tc": "寶琳路, 近摘星臺",
+        "name_sc": "宝琳路, 近摘星台",
+        "name_en": "PO LAM ROAD, near STAR LEGEND TERRACE"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20003282,
+        "name_tc": "寶琳路, 近秀茂坪天主教小學",
+        "name_sc": "宝琳路, 近秀茂坪天主教小学",
+        "name_en": "PO LAM ROAD, near Sau Mau Ping Catholic Primary School"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20007017,
+        "name_tc": "宏照道, 近零碳天地",
+        "name_sc": "宏照道, 近零碳天地",
+        "name_en": "WANG CHIU ROAD, near Zero Carbon Building"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20003264,
+        "name_tc": "啓祥道, 近香港輔助警察隊總部",
+        "name_sc": "启祥道, 近香港辅助警察队总部",
+        "name_en": "KAI CHEUNG ROAD, near HONG KONG AUXILIARY POLICE FORCE HEADQUARTERS"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20000985,
+        "name_tc": "龍翔道, 近彩虹邨紅萼樓",
+        "name_sc": "龙翔道, 近彩虹邨红萼楼",
+        "name_en": "Lung Cheung Road, near Hung Ngok House, Choi Hung Estate"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20000975,
+        "name_tc": "彩虹道, 近永濟工業大廈",
+        "name_sc": "彩虹道, 近永济工业大厦",
+        "name_en": "Choi Hung Road, near Wing Chai Industrial Building"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20003281,
+        "name_tc": "大有街, 近萬廸廣場",
+        "name_sc": "大有街, 近万迪广场",
+        "name_en": "TAI YAU STREET, near Maxgrand Plaza"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20000969,
+        "name_tc": "大有街, 近善美工業大廈",
+        "name_sc": "大有街, 近善美工业大厦",
+        "name_en": "TAI YAU STREET, near Perfect Industrial Building"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20001963,
+        "name_tc": "康強街, 近康強大樓",
+        "name_sc": "康强街, 近康强大楼",
+        "name_en": "HONG KEUNG STREET, near Hong Keung House"
+      }
+    ],
+    "data_timestamp": "2024-08-07T13:52:30.666+08:00"
+  }
+}

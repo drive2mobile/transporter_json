@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:08:55+08:00",
+  "data": {
+    "stop": "001257",
+    "name_tc": "電照街, 渣華道",
+    "name_en": "Tin Chiu Street, Java Road",
+    "lat": "22.292829302091",
+    "long": "114.20250688053",
+    "name_sc": "电照街, 渣华道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

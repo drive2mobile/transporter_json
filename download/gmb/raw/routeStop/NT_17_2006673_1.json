@@ -1,0 +1,52 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:28:05.522+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20014766,
+        "name_tc": "翠琳巴士總站",
+        "name_sc": "翠琳巴士总站",
+        "name_en": "Tsui Lam Bus Terminus"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20014767,
+        "name_tc": "寶琳北路, 康盛花園對面",
+        "name_sc": "宝琳北路, 康盛花园对面",
+        "name_en": "Po Lam Road North, opposite Hong Sing Garden"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20001152,
+        "name_tc": "寶琳路, 近馬游塘",
+        "name_sc": "宝琳路, 近马游塘",
+        "name_en": "Po Lam Road, near Ma Yau Tong"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20003282,
+        "name_tc": "寶琳路, 寶達邨外",
+        "name_sc": "宝琳路, 宝达邨外",
+        "name_en": "Po Lam Road, outside Po Tat Estate"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20014768,
+        "name_tc": "秀茂坪道近秀暉樓",
+        "name_sc": "秀茂坪道近秀晖楼",
+        "name_en": "Sau Mau Ping Road near Sau Fai House"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20014769,
+        "name_tc": "藍田站公共運輸交匯處",
+        "name_sc": "蓝田站公共运输交汇处",
+        "name_en": "Lam Tin Station Public Transport Interchange"
+      }
+    ],
+    "data_timestamp": "2024-08-07T13:52:30.666+08:00"
+  }
+}

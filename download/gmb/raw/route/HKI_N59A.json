@@ -1,0 +1,46 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:26:26.891+08:00",
+  "data": [
+    {
+      "route_id": 2002877,
+      "region": "HKI",
+      "route_code": "N59A",
+      "description_tc": "通宵短程班次",
+      "description_sc": "通宵短程班次",
+      "description_en": "Overnight Short Working Service",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "香港仔(東勝道)",
+          "orig_sc": "香港仔(东胜道)",
+          "orig_en": "Aberdeen (Tung Sing Road)",
+          "dest_tc": "深灣道公共交通總站",
+          "dest_sc": "深湾道公共交通总站",
+          "dest_en": "Shum Wan Road Public Transport Terminus",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [],
+          "data_timestamp": "2023-11-20T14:57:10.164+08:00"
+        },
+        {
+          "route_seq": 2,
+          "orig_tc": "深灣道公共交通總站",
+          "orig_sc": "深湾道公共交通总站",
+          "orig_en": "Shum Wan Road Public Transport Terminus",
+          "dest_tc": "香港仔(東勝道)",
+          "dest_sc": "香港仔(东胜道)",
+          "dest_en": "Aberdeen (Tung Sing Road)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [],
+          "data_timestamp": "2023-11-20T14:57:10.164+08:00"
+        }
+      ],
+      "data_timestamp": "2023-11-20T14:57:10.164+08:00"
+    }
+  ]
+}

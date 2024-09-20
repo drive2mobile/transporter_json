@@ -1,0 +1,50 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:25:40.661+08:00",
+  "data": [
+    {
+      "route_id": 2002020,
+      "region": "HKI",
+      "route_code": "25",
+      "description_tc": "正常班次",
+      "description_sc": "正常班次",
+      "description_en": "Normal Route",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "上寶馬山",
+          "orig_sc": "上宝马山",
+          "orig_en": "Upper Braemar Hill",
+          "dest_tc": "銅鑼灣(循環線)",
+          "dest_sc": "铜锣湾(循环线)",
+          "dest_en": "Causeway Bay (Circular)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "06:20:00",
+              "end_time": "23:40:00",
+              "frequency": 8,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-07-31T10:06:57.056+08:00"
+        }
+      ],
+      "data_timestamp": "2024-07-31T10:06:57.056+08:00"
+    }
+  ]
+}

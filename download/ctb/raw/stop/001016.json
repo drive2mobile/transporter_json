@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:07:48+08:00",
+  "data": {
+    "stop": "001016",
+    "name_tc": "鴨巴甸街, 堅道",
+    "name_en": "Aberdeen Street, Caine Road",
+    "lat": "22.282471402091",
+    "long": "114.15073989053",
+    "name_sc": "鸭巴甸街, 坚道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

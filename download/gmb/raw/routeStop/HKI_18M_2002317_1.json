@@ -1,0 +1,52 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:44:04.950+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20000103,
+        "name_tc": "港鐵柴灣站巴士總站",
+        "name_sc": "港铁柴湾站巴士总站",
+        "name_en": "Chai Wan Station Bus Terminus"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20003431,
+        "name_tc": "環翠道, 澤翠樓外",
+        "name_sc": "环翠道, 泽翠楼外",
+        "name_en": "Wan Tsui Road, outside Chak Tsui House"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20009700,
+        "name_tc": "歌連臣角道,近連城道",
+        "name_sc": "歌连臣角道,近连城道 ",
+        "name_en": "Cape Collins Road, near Lin Shing Road"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20003432,
+        "name_tc": "歌連臣角道,  柴灣華人永遠墳場第一靈灰閣",
+        "name_sc": "歌连臣角道, 柴湾华人永远​​坟场第一灵灰阁 ",
+        "name_en": "Cape Collison Road, Cape Collinson Chinese Permanent Cemetery First Columbarium"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20003433,
+        "name_tc": "歌連臣角道,  柴灣華人永遠墳場第二靈灰閣",
+        "name_sc": "歌连臣角道, 柴湾华人永远​​坟场第二灵灰阁 ",
+        "name_en": "Cape Collison Road, Cape Collinson Chinese Permanent Cemetery Second Columbarium"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20000104,
+        "name_tc": "歌連臣角懲教所",
+        "name_sc": "歌连臣角惩教所",
+        "name_en": "Cape Collinson Correctional Institution"
+      }
+    ],
+    "data_timestamp": "2024-04-04T17:54:14.825+08:00"
+  }
+}

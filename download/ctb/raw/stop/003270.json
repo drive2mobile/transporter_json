@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:07:28+08:00",
+  "data": {
+    "stop": "003270",
+    "name_tc": "荔灣道, 美荔道",
+    "name_en": "Lai Wan Road, Mei Lai Road",
+    "lat": "22.339770672091",
+    "long": "114.13993243053",
+    "name_sc": "荔湾道, 美荔道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

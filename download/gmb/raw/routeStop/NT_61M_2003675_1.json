@@ -1,0 +1,24 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:29:45.964+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20001514,
+        "name_tc": "龍柏街, 世界花園龍柏閣外",
+        "name_sc": "龙柏街, 世界花园龙柏阁外",
+        "name_en": "Lung Pak Street, outside Cypress Court, Worldwide Garden"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20003363,
+        "name_tc": "九龍塘(沙福道)公共運輸交匯處",
+        "name_sc": "九龙塘（沙福道）公共运输交汇处",
+        "name_en": "Kowloon Tong (Suffolk Road) Public Transport Interchange"
+      }
+    ],
+    "data_timestamp": "2024-06-16T00:01:36.741+08:00"
+  }
+}

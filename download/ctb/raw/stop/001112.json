@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:07:45+08:00",
+  "data": {
+    "stop": "001112",
+    "name_tc": "何東夫人堂, 薄扶林道",
+    "name_en": "Lady Ho Tung Hall, Pok Fu Lam Road",
+    "lat": "22.283611332091",
+    "long": "114.13295982053",
+    "name_sc": "何东夫人堂, 薄扶林道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

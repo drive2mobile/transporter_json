@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:17:01+08:00",
+  "data": {
+    "stop": "001795",
+    "name_tc": "康柏苑金柏閣, 碧雲道",
+    "name_en": "Kam Pak House Hong Pak Court, Pik Wan Road",
+    "lat": "22.302228162091",
+    "long": "114.24072053053",
+    "name_sc": "康柏苑金柏阁, 碧云道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

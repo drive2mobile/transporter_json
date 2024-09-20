@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:13:13+08:00",
+  "data": {
+    "stop": "001520",
+    "name_tc": "藍田站, 鯉魚門道",
+    "name_en": "Lam Tin Station, Lei Yue Mun Road",
+    "lat": "22.306755832091",
+    "long": "114.23353539053",
+    "name_sc": "蓝田站, 鲤鱼门道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

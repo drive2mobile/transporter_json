@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:17:20+08:00",
+  "data": {
+    "stop": "001838",
+    "name_tc": "機場空運中心, 駿運路",
+    "name_en": "Airport Freight Forwarding Centre, Chun Wan Road",
+    "lat": "22.295103112091",
+    "long": "113.92453797053",
+    "name_sc": "机场空运中心, 骏运路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

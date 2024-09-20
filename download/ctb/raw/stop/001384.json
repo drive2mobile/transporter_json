@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:08:12+08:00",
+  "data": {
+    "stop": "001384",
+    "name_tc": "富怡花園, 富怡道",
+    "name_en": "Cheerful Garden, Fu Yee Road",
+    "lat": "22.263309502091",
+    "long": "114.25005285053",
+    "name_sc": "富怡花园, 富怡道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

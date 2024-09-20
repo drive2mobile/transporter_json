@@ -1,0 +1,129 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:28:55.638+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20019468,
+        "name_tc": "亨美街公共小巴(專線)總站",
+        "name_sc": "亨美街公共小巴(专线)总站",
+        "name_en": "Hang Mei Street Public Light Bus (GMB) Terminus"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20014981,
+        "name_tc": "寮肚路, 近長亨邨長亨商場",
+        "name_sc": "寮肚路, 近长亨邨长亨商场",
+        "name_en": "LIU TO ROAD, near Cheung Hang Shopping Centre, CHEUNG HANG ESTATE"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20016850,
+        "name_tc": "青綠街, 近聖公會青衣邨何澤芸小學",
+        "name_sc": "青绿街, 近圣公会青衣村何泽芸小学",
+        "name_en": "Tsing Luk Street, Near S.K.H. Tsing Yi Estate Ho Chak Wan Primary School"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20016748,
+        "name_tc": "青綠街, 近青綠街花園",
+        "name_sc": "青绿街, 近青绿街花园",
+        "name_en": "Tsing Luk Street, Near Tsing Luk Street Garden"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20001732,
+        "name_tc": "青綠街, 近青衣市區普通科門診診所",
+        "name_sc": "青绿街, 近青衣市区普通科门诊诊所",
+        "name_en": "Tsing Luk Street, Near Tsing Yi Town General Out-Patient Clinic"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20002170,
+        "name_tc": "青敬路, 聖保祿村外",
+        "name_sc": "青敬路, 圣保禄村外",
+        "name_en": "Tsing King Road, outside St. Paul's Village"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20002048,
+        "name_tc": "青敬路, 近長安邨安湄樓",
+        "name_sc": "青敬路, 近长安村安湄楼",
+        "name_en": "Tsing King Road, Near On Mei House, Cheung On Estate"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20016872,
+        "name_tc": "德士古道, 近信豐工業大廈",
+        "name_sc": "德士古道, 近信丰工业大厦",
+        "name_en": "Texaco Road, Near Symphone Industrial Building"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20016701,
+        "name_tc": "荃富街, 近東亞花園荃薈",
+        "name_sc": "荃富街, 近东亚花园荃荟",
+        "name_en": "Tsuen Fu Street, Near Smartland, East Asia Gardens"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20016873,
+        "name_tc": "荃灣街市街, 近賽馬會德華公園　義璋陳公祠",
+        "name_sc": "荃湾街市街, 近赛马会德华公园　义璋陈公祠",
+        "name_en": "Tsuen Wan Market Street, Near Chan Yi Cheung Ancestral Hall, Jockey Club Tak Wah Park"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20016874,
+        "name_tc": "沙咀道, 近荃灣鄉事委員會",
+        "name_sc": "沙咀道, 近荃湾乡事委员会",
+        "name_en": "Sha Tsui Road, Near Tsuen Wan Rural Committee"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20001445,
+        "name_tc": "青山公路荃灣段, 港鐵大窩口站B入口外",
+        "name_sc": "青山公路荃湾段, 港铁大窝口站B入口外",
+        "name_en": "Tai Wo Hau Station, Exit B"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20008024,
+        "name_tc": "青敬路, 近牙鷹洲花園",
+        "name_sc": "青敬路, 近牙鹰洲花园",
+        "name_en": "Tsing King Road, Near Nga Ying Chau Garden"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20016875,
+        "name_tc": "青綠街, 近青衣市政大廈",
+        "name_sc": "青绿街, 近青衣市政大厦",
+        "name_en": "Tsing Luk Street, Near Tsing Yi Municipal Services Building"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20001742,
+        "name_tc": "青綠街, 近青衣商場",
+        "name_sc": "青绿街, 近青衣商场",
+        "name_en": "Tsing Luk Street, near Tsing Yi Shopping Centre"
+      },
+      {
+        "stop_seq": 16,
+        "stop_id": 20016876,
+        "name_tc": "寮肚路, 長亨巴士總站對面",
+        "name_sc": "寮肚路, 长亨巴士总站对面",
+        "name_en": "Liu To Road, Opposite Cheung Hang Bus Terminus"
+      },
+      {
+        "stop_seq": 17,
+        "stop_id": 20019468,
+        "name_tc": "亨美街公共小巴(專線)總站",
+        "name_sc": "亨美街公共小巴(专线)总站",
+        "name_en": "Hang Mei Street Public Light Bus (GMB) Terminus"
+      }
+    ],
+    "data_timestamp": "2024-08-07T10:22:08.052+08:00"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:44:02.409+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20000093,
+        "name_tc": "蘭芳道,近利園宏利保險大廈",
+        "name_sc": "兰芳道,近利园宏利保险大厦",
+        "name_en": "Near The Lee Gardens Manulife Plaza, Lan Fong Road"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20004100,
+        "name_tc": "樂活道, 樂翠台外",
+        "name_sc": "乐活道, 乐翠台外",
+        "name_en": "Broadwood Road outside Villa Rocha"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20004101,
+        "name_tc": "樂活道, 樂陶苑外",
+        "name_sc": "乐活道, 乐陶苑外",
+        "name_en": "Broadwood Road outside Villa Lotto"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20004102,
+        "name_tc": "樂活道, 栢樂苑外",
+        "name_sc": "乐活道, 柏乐苑外",
+        "name_en": "Broadwood Road outside Broadwood Park"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20004103,
+        "name_tc": "大坑道, 近白建時道",
+        "name_sc": "大坑道, 近白建时道",
+        "name_en": "Tai Hang Road near Perkins Road"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20003494,
+        "name_tc": "大坑徑, 柏園外",
+        "name_sc": "大坑径, 柏园外",
+        "name_en": "Tai Hang Drive outside Park Garden"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20000094,
+        "name_tc": "春暉道, 慧景園第3座外",
+        "name_sc": "春晖道, 慧景园第3座外",
+        "name_en": "Chun Fai Road, outside Block 3, Flora Garden"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20000095,
+        "name_tc": "睦誠道, 近金雲閣",
+        "name_sc": "睦诚道, 近金云阁",
+        "name_en": "Moorsom Road near Aurizon"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20000096,
+        "name_tc": "睦誠道, 柏麗園外",
+        "name_sc": "睦诚道, 柏丽园外",
+        "name_en": "Moorsom Road, outside Butler Garden"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20000097,
+        "name_tc": "睦誠道, 盛苑外",
+        "name_sc": "睦诚道, 盛苑外",
+        "name_en": "Moorsom Road, outside Moorom Lodge"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20003142,
+        "name_tc": "樂活道, 嘉崙臺外",
+        "name_sc": "乐活道, 嘉仑台外",
+        "name_en": "Broadwood Road outside The Colonnade"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20003504,
+        "name_tc": "連道, 近禮頓山",
+        "name_sc": "连道, 近礼顿山",
+        "name_en": "Link Road near Leighton Hill"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20000093,
+        "name_tc": "蘭芳道,近利園宏利保險大廈",
+        "name_sc": "兰芳道,近利园宏利保险大厦",
+        "name_en": "Near The Lee Gardens Manulife Plaza, Lan Fong Road"
+      }
+    ],
+    "data_timestamp": "2024-07-31T10:06:57.081+08:00"
+  }
+}

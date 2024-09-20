@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:03:28+08:00",
+  "data": {
+    "stop": "001022",
+    "name_tc": "爹核士街, 吉席街",
+    "name_en": "Davis Street, Catchick Street",
+    "lat": "22.283220932091",
+    "long": "114.12755609053",
+    "name_sc": "爹核士街, 吉席街",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

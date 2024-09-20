@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:15:43+08:00",
+  "data": {
+    "stop": "003598",
+    "name_tc": "如心廣場",
+    "name_en": "Nina Tower",
+    "lat": "22.368072142091",
+    "long": "114.11232162053",
+    "name_sc": "如心广场",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

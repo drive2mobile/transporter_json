@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:13:38+08:00",
+  "data": {
+    "stop": "002155",
+    "name_tc": "保泰街",
+    "name_en": "Po Tai Street",
+    "lat": "22.414234442091",
+    "long": "114.22365663053",
+    "name_sc": "保泰街",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

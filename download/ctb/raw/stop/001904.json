@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:14:28+08:00",
+  "data": {
+    "stop": "001904",
+    "name_tc": "碧翠花園, 青山公路",
+    "name_en": "Bayview Terrace, Castle Peak Road",
+    "lat": "22.377802752091",
+    "long": "113.98340611053",
+    "name_sc": "碧翠花园, 青山公路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

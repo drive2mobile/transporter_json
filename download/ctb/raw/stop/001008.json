@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:07:46+08:00",
+  "data": {
+    "stop": "001008",
+    "name_tc": "東邊街, 般咸道",
+    "name_en": "Eastern Street, Bonham Road",
+    "lat": "22.284292742091",
+    "long": "114.14346201053",
+    "name_sc": "东边街, 般咸道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

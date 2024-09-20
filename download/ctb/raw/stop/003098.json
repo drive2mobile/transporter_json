@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:15:04+08:00",
+  "data": {
+    "stop": "003098",
+    "name_tc": "大圍街市, 美田路",
+    "name_en": "Tai Wai Market, Mei Tin Road",
+    "lat": "22.373808942091",
+    "long": "114.17700305053",
+    "name_sc": "大围街市, 美田路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

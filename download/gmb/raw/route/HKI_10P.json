@@ -1,0 +1,150 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:44:00.743+08:00",
+  "data": [
+    {
+      "route_id": 2006739,
+      "region": "HKI",
+      "route_code": "10P",
+      "description_tc": "正常班次",
+      "description_sc": "正常班次",
+      "description_en": "Normal Departure",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "謝斐道, 近兆安廣場",
+          "orig_sc": "谢斐道, 近兆安广场",
+          "orig_en": "JAFFE ROAD, near Siu On Plaza",
+          "dest_tc": "數碼港巴士總站",
+          "dest_sc": "数码港巴士总站",
+          "dest_en": "Cyberport Bus Terminus",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "07:45:00",
+              "end_time": "07:45:00",
+              "frequency": null,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 2,
+              "start_time": "08:15:00",
+              "end_time": "08:15:00",
+              "frequency": null,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 3,
+              "start_time": "08:45:00",
+              "end_time": "08:45:00",
+              "frequency": null,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-09-19T14:14:54.600+08:00"
+        },
+        {
+          "route_seq": 2,
+          "orig_tc": "數碼港巴士總站",
+          "orig_sc": "数码港巴士总站",
+          "orig_en": "Cyberport Bus Terminus",
+          "dest_tc": "謝斐道, 近兆安廣場",
+          "dest_sc": "谢斐道, 近兆安广场",
+          "dest_en": "JAFFE ROAD, near Siu On Plaza",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "17:15:00",
+              "end_time": "17:15:00",
+              "frequency": null,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 2,
+              "start_time": "17:45:00",
+              "end_time": "17:45:00",
+              "frequency": null,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 3,
+              "start_time": "18:15:00",
+              "end_time": "18:15:00",
+              "frequency": null,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-09-19T14:14:54.600+08:00"
+        }
+      ],
+      "data_timestamp": "2024-09-19T14:14:54.600+08:00"
+    }
+  ]
+}

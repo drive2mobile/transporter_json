@@ -1,0 +1,82 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:29:13.087+08:00",
+  "data": [
+    {
+      "route_id": 2001128,
+      "region": "NT",
+      "route_code": "501S",
+      "description_tc": "正常班次",
+      "description_sc": "正常班次",
+      "description_en": "Normal Route",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "上水站",
+          "orig_sc": "上水站",
+          "orig_en": "Sheung Shui Station",
+          "dest_tc": "裕民坊",
+          "dest_sc": "裕民坊",
+          "dest_en": "Yue Man Square",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "00:15:00",
+              "end_time": "05:15:00",
+              "frequency": 60,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-09-20T11:53:25.957+08:00"
+        },
+        {
+          "route_seq": 2,
+          "orig_tc": "裕民坊",
+          "orig_sc": "裕民坊",
+          "orig_en": "Yue Man Square",
+          "dest_tc": "上水站",
+          "dest_sc": "上水站",
+          "dest_en": "Sheung Shui Station",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "00:15:00",
+              "end_time": "05:15:00",
+              "frequency": 60,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-09-20T11:53:25.957+08:00"
+        }
+      ],
+      "data_timestamp": "2024-09-20T11:53:25.957+08:00"
+    }
+  ]
+}

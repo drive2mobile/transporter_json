@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:17:54+08:00",
+  "data": {
+    "stop": "001828",
+    "name_tc": "煜明苑, 昭信路",
+    "name_en": "Yuk Ming Court, Chiu Shun Road",
+    "lat": "22.314560422091",
+    "long": "114.26848238053",
+    "name_sc": "煜明苑, 昭信路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

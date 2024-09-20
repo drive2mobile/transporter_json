@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:08:03+08:00",
+  "data": {
+    "stop": "002826",
+    "name_tc": "白田邨康田樓, 白雲街",
+    "name_en": "Hong Tin House Pak Tin Estate, Pak Wan Street",
+    "lat": "22.336905632091",
+    "long": "114.16561953053",
+    "name_sc": "白田邨康田楼, 白云街",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

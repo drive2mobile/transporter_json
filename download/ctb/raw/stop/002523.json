@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:11:56+08:00",
+  "data": {
+    "stop": "002523",
+    "name_tc": "雅麗閣, 大坑道",
+    "name_en": "Elegant Court, Tai Hang Road",
+    "lat": "22.262559822091",
+    "long": "114.19035461053",
+    "name_sc": "雅丽阁, 大坑道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:07:26+08:00",
+  "data": {
+    "stop": "001265",
+    "name_tc": "健康村, 英皇道",
+    "name_en": "Healthy Village, King's Road",
+    "lat": "22.292089592091",
+    "long": "114.20652344053",
+    "name_sc": "健康村, 英皇道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

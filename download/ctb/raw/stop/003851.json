@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:11:23+08:00",
+  "data": {
+    "stop": "003851",
+    "name_tc": "錦駿苑, 馬鞍山路",
+    "name_en": "Kam Chun Court, Ma On Shan Road",
+    "lat": "22.413317472091",
+    "long": "114.22688164053",
+    "name_sc": "锦骏苑, 马鞍山路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

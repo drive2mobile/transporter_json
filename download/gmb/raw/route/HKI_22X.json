@@ -1,0 +1,159 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:25:37.633+08:00",
+  "data": [
+    {
+      "route_id": 2003048,
+      "region": "HKI",
+      "route_code": "22X",
+      "description_tc": "特快班次",
+      "description_sc": "特快班次",
+      "description_en": "Express Service",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "薄扶林花園",
+          "orig_sc": "薄扶林花园",
+          "orig_en": "Pok Fu Lam Gardens",
+          "dest_tc": "中環(中環碼頭)",
+          "dest_sc": "中环(中环码头)",
+          "dest_en": "Central (Central Ferry Piers)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "07:40:00",
+              "end_time": "09:00:00",
+              "frequency": 15,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-09-17T10:42:13.929+08:00"
+        },
+        {
+          "route_seq": 2,
+          "orig_tc": "中環(中環碼頭)",
+          "orig_sc": "中环(中环码头)",
+          "orig_en": "Central (Central Ferry Piers)",
+          "dest_tc": "薄扶林花園",
+          "dest_sc": "薄扶林花园",
+          "dest_en": "Pok Fu Lam Gardens",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "08:00:00",
+              "end_time": "09:10:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 2,
+              "start_time": "18:15:00",
+              "end_time": "20:00:00",
+              "frequency": 15,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-09-17T10:42:13.929+08:00"
+        }
+      ],
+      "data_timestamp": "2024-09-17T10:42:13.929+08:00"
+    },
+    {
+      "route_id": 2003075,
+      "region": "HKI",
+      "route_code": "22X",
+      "description_tc": "特快班次(經雅緻洋房)",
+      "description_sc": "特快班次(经雅致洋房)",
+      "description_en": "Express Service (Via Yat Chee Villas)",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "薄扶林花園",
+          "orig_sc": "薄扶林花园",
+          "orig_en": "Pok Fu Lam Gardens",
+          "dest_tc": "中環(中環碼頭)",
+          "dest_sc": "中环(中环码头)",
+          "dest_en": "Central (Central Ferry Piers)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 1,
+              "start_time": "09:00:00",
+              "end_time": "09:40:00",
+              "frequency": 15,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                false
+              ],
+              "public_holiday": false,
+              "headway_seq": 2,
+              "start_time": "17:30:00",
+              "end_time": "20:00:00",
+              "frequency": 15,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-09-17T10:42:07.476+08:00"
+        }
+      ],
+      "data_timestamp": "2024-09-17T10:42:07.476+08:00"
+    }
+  ]
+}

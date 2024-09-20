@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:11:22+08:00",
+  "data": {
+    "stop": "001327",
+    "name_tc": "衡峰閣, 天后廟道",
+    "name_en": "Hacienda, Tin Hau Temple Road",
+    "lat": "22.287155742091",
+    "long": "114.19584675053",
+    "name_sc": "衡峰阁, 天后庙道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

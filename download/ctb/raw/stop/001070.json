@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:06:49+08:00",
+  "data": {
+    "stop": "001070",
+    "name_tc": "山道, 德輔道西",
+    "name_en": "Hill Road, Des Voeux Road West",
+    "lat": "22.286627542091",
+    "long": "114.13607459053",
+    "name_sc": "山道, 德辅道西",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

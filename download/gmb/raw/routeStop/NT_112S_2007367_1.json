@@ -1,0 +1,80 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:27:52.560+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20015234,
+        "name_tc": "將軍澳站公共運輸交匯處",
+        "name_sc": "将军澳站公共运输交汇处",
+        "name_en": "Tseung Kwan O Station Public Transport Interchange"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20015384,
+        "name_tc": "寶邑路, 近將軍澳廣場",
+        "name_sc": "宝邑路, 近将军澳广场",
+        "name_en": "Po Yap Road, near Tseung Kwan O Plaza"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20002648,
+        "name_tc": "環保大道, 清水灣半島對面",
+        "name_sc": "环保大道, 清水湾半岛对面",
+        "name_en": "Wan Po Road, opposite Oscar by the Sea"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20002649,
+        "name_tc": "環保大道, 邵氏影城外",
+        "name_sc": "环保大道, 邵氏影城外",
+        "name_en": "Wan Po Road, outside Shaw Studios"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20002633,
+        "name_tc": "環保大道, 首都對面",
+        "name_sc": "环保大道, 首都对面",
+        "name_en": "Wan Po Road, opposite The Capitol"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20015378,
+        "name_tc": "環保大道,領凱對面",
+        "name_sc": "环保大道,领凯对面",
+        "name_en": "Wan Po Road, opposite to La Splendeur"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20015379,
+        "name_tc": "駿光街, 近壹傳媒有限公司",
+        "name_sc": "骏光街, 近壹传媒有限公司",
+        "name_en": "Chun Kwong Street, near Next Digital Limited"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20015380,
+        "name_tc": "駿才街, 近電視廣播有限公司電視廣播城",
+        "name_sc": "骏才街, 近电视广播有限公司电视广播城",
+        "name_en": "Chun Choi Street, near Television Broadcasts Limited Tvb City"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20015381,
+        "name_tc": "駿日街, 近香港貿易發展局展覽營運中心",
+        "name_sc": "骏日街, 近香港贸易发展局展览营运中心",
+        "name_en": "Chun Yat Street, near Hong Kong Trade Development Council Exhibition Services & Logistics Centre"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20015382,
+        "name_tc": "將軍澳工業邨",
+        "name_sc": "将军澳工业邨",
+        "name_en": "Tseung Kwan O Industrial Estate"
+      }
+    ],
+    "data_timestamp": "2024-08-07T13:50:04.983+08:00"
+  }
+}

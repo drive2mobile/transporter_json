@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:07:04+08:00",
+  "data": {
+    "stop": "001133",
+    "name_tc": "石塘咀市政大廈, 皇后大道西",
+    "name_en": "Shek Tong Tsui Complex, Queen's Road West",
+    "lat": "22.285969012091",
+    "long": "114.13561606053",
+    "name_sc": "石塘咀市政大厦, 皇后大道西",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

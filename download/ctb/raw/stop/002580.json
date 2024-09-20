@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:15:10+08:00",
+  "data": {
+    "stop": "002580",
+    "name_tc": "富怡道, 小西灣道",
+    "name_en": "Fu Yee Road, Siu Sai Wan Road",
+    "lat": "22.263330512091",
+    "long": "114.24923738053",
+    "name_sc": "富怡道, 小西湾道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

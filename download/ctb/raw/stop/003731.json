@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:17:19+08:00",
+  "data": {
+    "stop": "003731",
+    "name_tc": "沙田第一城, 大涌橋路",
+    "name_en": "City One Shatin, Tai Chung Kiu Road",
+    "lat": "22.389426742091",
+    "long": "114.20333083053",
+    "name_sc": "沙田第一城, 大涌桥路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:07:16+08:00",
+  "data": {
+    "stop": "001655",
+    "name_tc": "常悅道",
+    "name_en": "Sheung Yuet Road",
+    "lat": "22.321528602091",
+    "long": "114.20793837053",
+    "name_sc": "常悅道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

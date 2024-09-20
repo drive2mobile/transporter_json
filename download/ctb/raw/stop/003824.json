@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:16:57+08:00",
+  "data": {
+    "stop": "003824",
+    "name_tc": "順利邨利恒樓, 利安道",
+    "name_en": "Lee Hang House Shun Lee Estate, Lee On Road",
+    "lat": "22.333056612091",
+    "long": "114.22436198053",
+    "name_sc": "顺利邨利恒楼, 利安道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:08:58+08:00",
+  "data": {
+    "stop": "001525",
+    "name_tc": "彩虹邨丹鳳樓, 龍翔道",
+    "name_en": "Tan Fung House Choi Hung Estate, Lung Cheung Road",
+    "lat": "22.335290892091",
+    "long": "114.20761701053",
+    "name_sc": "彩虹邨丹凤楼, 龙翔道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

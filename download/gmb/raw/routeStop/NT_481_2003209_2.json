@@ -1,0 +1,31 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:29:07.648+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20002178,
+        "name_tc": "荃灣街市街",
+        "name_sc": "荃湾街市街",
+        "name_en": "Tsuen Wan Market Street"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20002179,
+        "name_tc": "火炭路火炭村外",
+        "name_sc": "火炭路火炭村外",
+        "name_en": "Fo Tan Road outside Fo Tan Village"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20002176,
+        "name_tc": "山尾街巴士總站",
+        "name_sc": "山尾街巴士总站",
+        "name_en": "Shan Mei Street Bus Terminus"
+      }
+    ],
+    "data_timestamp": "2023-10-19T12:16:19.718+08:00"
+  }
+}

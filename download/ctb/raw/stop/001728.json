@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:14:32+08:00",
+  "data": {
+    "stop": "001728",
+    "name_tc": "尚德邨尚智樓, 唐明街",
+    "name_en": "Sheung Chi House Sheung Tak Estate, Tong Ming Street",
+    "lat": "22.311288322091",
+    "long": "114.26075763053",
+    "name_sc": "尚德邨尚智楼, 唐明街",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

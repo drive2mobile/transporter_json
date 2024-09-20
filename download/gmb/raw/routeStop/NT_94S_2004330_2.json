@@ -1,0 +1,24 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:30:56.909+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20011991,
+        "name_tc": "城門水塘",
+        "name_sc": "城门水塘",
+        "name_en": "Shing Mun Reservoir"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20012208,
+        "name_tc": "海貴路公共運輸交匯處",
+        "name_sc": "海贵路公共运输交汇处",
+        "name_en": "Hoi Kwai Road Public Transport Interchange"
+      }
+    ],
+    "data_timestamp": "2024-08-07T10:27:55.095+08:00"
+  }
+}

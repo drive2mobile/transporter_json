@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:06:56+08:00",
+  "data": {
+    "stop": "003845",
+    "name_tc": "金鐘站 - 金鐘廊, 金鐘道",
+    "name_en": "Admiralty Station - Queensway Plaza, Queensway",
+    "lat": "22.278485362091",
+    "long": "114.16447808053",
+    "name_sc": "金钟站 - 金钟廊, 金钟道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:08:26+08:00",
+  "data": {
+    "stop": "002372",
+    "name_tc": "華貴邨",
+    "name_en": "Wah Kwai Estate",
+    "lat": "22.249877332091",
+    "long": "114.13994005053",
+    "name_sc": "华贵邨",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

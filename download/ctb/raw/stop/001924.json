@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:10:16+08:00",
+  "data": {
+    "stop": "001924",
+    "name_tc": "世界花園, 紅梅谷路",
+    "name_en": "World-wide Gardens, Hung Mui Kuk Road",
+    "lat": "22.366204882091",
+    "long": "114.18058072053",
+    "name_sc": "世界花园, 红梅谷路",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

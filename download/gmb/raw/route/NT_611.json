@@ -1,0 +1,67 @@
+{
+  "type": "Route",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:29:42.660+08:00",
+  "data": [
+    {
+      "route_id": 2008595,
+      "region": "NT",
+      "route_code": "611",
+      "description_tc": "正常班次",
+      "description_sc": "正常班次",
+      "description_en": "Normal Departure",
+      "directions": [
+        {
+          "route_seq": 1,
+          "orig_tc": "山貝路",
+          "orig_sc": "山貝路",
+          "orig_en": "Shan Pui Road",
+          "dest_tc": "阜財街(循環線)",
+          "dest_sc": "阜财街(循环线)",
+          "dest_en": "Fau Tsoi Street (Circular)",
+          "remarks_tc": null,
+          "remarks_sc": null,
+          "remarks_en": null,
+          "headways": [
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 1,
+              "start_time": "09:00:00",
+              "end_time": "23:00:00",
+              "frequency": 8,
+              "frequency_upper": null
+            },
+            {
+              "weekdays": [
+                true,
+                true,
+                true,
+                true,
+                true,
+                true,
+                true
+              ],
+              "public_holiday": true,
+              "headway_seq": 2,
+              "start_time": "23:00:00",
+              "end_time": "00:00:00",
+              "frequency": 15,
+              "frequency_upper": null
+            }
+          ],
+          "data_timestamp": "2024-05-30T10:48:46.392+08:00"
+        }
+      ],
+      "data_timestamp": "2024-05-30T10:48:46.392+08:00"
+    }
+  ]
+}

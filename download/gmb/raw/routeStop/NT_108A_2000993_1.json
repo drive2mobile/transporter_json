@@ -1,0 +1,150 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:27:47.684+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20006977,
+        "name_tc": "彩明公共運輸交匯處",
+        "name_sc": "彩明公共运输交汇处",
+        "name_en": "Choi Ming Public Transport Interchange"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20003049,
+        "name_tc": "彩明街彩明商場",
+        "name_sc": "彩明街彩明商场",
+        "name_en": "Choi Ming Street, Choi Ming Shopping Centre"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20003050,
+        "name_tc": "翠嶺路, 維景灣畔",
+        "name_sc": "翠岭路, 维景湾畔",
+        "name_en": "Chui Ling Road, outside Ocean Shores"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20007075,
+        "name_tc": "翠嶺路, 善明邨對面",
+        "name_sc": "翠岭路, 善明邨对面",
+        "name_en": "Chui Ling Road, opposite Shin Ming Estate"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20003051,
+        "name_tc": "翠嶺路, 匯知中學",
+        "name_sc": "翠岭路, 汇知中学",
+        "name_en": "Chui Ling Road, outside Qualied College"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20003052,
+        "name_tc": "翠嶺路, 佛教正覺中學",
+        "name_sc": "翠岭路, 佛教正觉中学",
+        "name_en": "Chui Ling Road, outside Buddhist Ching Kok Secondary School"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20004514,
+        "name_tc": "唐明街, 尚德商場外",
+        "name_sc": "唐明街, 尚德商场外",
+        "name_en": "Tong Ming Street, outside Sheung Tak Shopping Centre"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20003176,
+        "name_tc": "唐俊街, 佛教志蓮小學外",
+        "name_sc": "唐俊街, 佛教志莲小学外",
+        "name_en": "Tong Chun Street, outside Chi Lin Buddhist Primary School"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20002602,
+        "name_tc": "唐德街, 博愛醫院八十週年鄧英喜中學對面",
+        "name_sc": "唐德街, 博爱医院八十周年邓英喜中学对面",
+        "name_en": "Tong Tak Street, opposite POH 80th Anniversary Tang Ying Hei College"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20006978,
+        "name_tc": "寶邑路, 港鐵將軍澳站外",
+        "name_sc": "宝邑路, 港铁将军澳站外",
+        "name_en": "Po Yap Road, outside Tseung Kwan O Station"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20003174,
+        "name_tc": "寶邑路, 寶盈花園對面",
+        "name_sc": "宝邑路, 宝盈花园对面",
+        "name_en": "Po Yap Road, opposite Bauhinia Garden"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20005021,
+        "name_tc": "寶康路, 富康花園外",
+        "name_sc": "宝康路, 富康花园外",
+        "name_en": "Po Hong Road, outside Bevery Garden"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20005022,
+        "name_tc": "寶康路, 廣明苑外",
+        "name_sc": "宝康路, 广明苑外",
+        "name_en": "Po Hong Road, outside Kwong Ming Court"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20005023,
+        "name_tc": "靈康路, 靈實醫院對面",
+        "name_sc": "灵康路, 灵实医院对面",
+        "name_en": "Ling Hong Road, opposite Haven of Hope Hospital"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20001973,
+        "name_tc": "寶順路, 將軍澳游泳池外",
+        "name_sc": "宝顺路, 将军澳游泳池外",
+        "name_en": "Po Shun Road, outside Tseung Kwan O Swimming Pool"
+      },
+      {
+        "stop_seq": 16,
+        "stop_id": 20001171,
+        "name_tc": "寶寧路, 厚德邨對面",
+        "name_sc": "宝宁路, 厚德邨对面",
+        "name_en": "Po Ning Road, opposite Hau Tak Estate"
+      },
+      {
+        "stop_seq": 17,
+        "stop_id": 20001162,
+        "name_tc": "重華路, 東港城第6座對面",
+        "name_sc": "重华路, 东港城第6座对面",
+        "name_en": "Chung Wa Road, opposite Block 6, East Point City"
+      },
+      {
+        "stop_seq": 18,
+        "stop_id": 20001163,
+        "name_tc": "培成路, 南豐廣場外",
+        "name_sc": "培成路, 南丰广场 外",
+        "name_en": "Pui Shing Road, outside Nan Fung Plaza"
+      },
+      {
+        "stop_seq": 19,
+        "stop_id": 20003054,
+        "name_tc": "寶寧路25號富寧商場外",
+        "name_sc": "宝宁路25号富宁商场外",
+        "name_en": "Po Ning Road, outside Fu Ning Commercial Complex"
+      },
+      {
+        "stop_seq": 20,
+        "stop_id": 20001161,
+        "name_tc": "坑口(北)公共運輸交匯處",
+        "name_sc": "坑口(北)公共运输交汇处",
+        "name_en": "Hang Hau (North) Public Transport Interchange"
+      }
+    ],
+    "data_timestamp": "2024-07-31T17:28:48.365+08:00"
+  }
+}

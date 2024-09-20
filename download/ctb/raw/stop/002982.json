@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:08:07+08:00",
+  "data": {
+    "stop": "002982",
+    "name_tc": "獲嘉道, 蕪湖街",
+    "name_en": "Walker Road, Wuhu Street",
+    "lat": "22.308058412091",
+    "long": "114.18453525053",
+    "name_sc": "获嘉道, 芜湖街",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

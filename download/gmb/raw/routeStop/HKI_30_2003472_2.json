@@ -1,0 +1,66 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:25:45.855+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20000165,
+        "name_tc": "冬青道總站",
+        "name_sc": "冬青道总站",
+        "name_en": "Holly Road Terminus"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20000166,
+        "name_tc": "成和道60號(近警署)",
+        "name_sc": "成和道60号(近警署) ",
+        "name_en": "No. 60 Sing Woo Road (Near Police Station)"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20010308,
+        "name_tc": "成和道16號(近郵政局)",
+        "name_sc": "成和道16号(近邮政局) ",
+        "name_en": "No. 16 Sing Woo Road (Near Police Station)"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20010309,
+        "name_tc": "山村道32號(近豐寧大廈, 百佳超市)",
+        "name_sc": "山村道32号(近丰宁大厦, 百佳超市) ",
+        "name_en": "No. 32 Village Road (Near Fine Mansion, ParknShop)"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20010310,
+        "name_tc": "宏德街2號",
+        "name_sc": "宏德街2号",
+        "name_en": "Wang Tak Street No.2"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20011878,
+        "name_tc": "奕蔭街36號",
+        "name_sc": "奕荫街36号",
+        "name_en": "Yik Yam Street No. 36"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20010312,
+        "name_tc": "恩平道3號",
+        "name_sc": "恩平道3号",
+        "name_en": "Yun Ping Road No. 3"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20002655,
+        "name_tc": "蘭芳道2-16號總站",
+        "name_sc": "兰芳道2-16号总站",
+        "name_en": "Lan Fong Road No. 2-16 Terminus"
+      }
+    ],
+    "data_timestamp": "2024-07-11T11:44:58.664+08:00"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-09-20T12:29:56.910+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20010695,
+        "name_tc": "沙田站",
+        "name_sc": "沙田站",
+        "name_en": "Sha Tin Station"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20001556,
+        "name_tc": "大涌橋路, 近河畔花園",
+        "name_sc": "大涌桥路, 近河畔花园",
+        "name_en": "Tai Chung Kiu Road, Near Garden Rivera"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20001557,
+        "name_tc": "大涌橋路, 富豪花園對面",
+        "name_sc": "大涌桥路, 富豪花园对面",
+        "name_en": "Tai Chung Kiu Road, opposite Belair Gardens"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20002235,
+        "name_tc": "大涌橋路, 沙田第一城對面",
+        "name_sc": "大涌桥路, 沙田第一城对面",
+        "name_en": "Tai Chung Kiu Road, opposite City One Shatin"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20001567,
+        "name_tc": "大涌橋路, 濱景花園外",
+        "name_sc": "大涌桥路, 滨景花园外",
+        "name_en": "Tai Chung Kiu Road, outside Ravana Garden"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20013060,
+        "name_tc": "未命名通道, 近沙田醫院賽馬會耆智園",
+        "name_sc": "未命名通道, 近沙田医院赛马会耆智园",
+        "name_en": "Unnamed Access Road, Near Jockey Club Centre For Positive Ageing, Shatin Hospital"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20017344,
+        "name_tc": "亞公角山路, 近白普理寧養中心",
+        "name_sc": "亚公角山路, 近白普理宁养中心",
+        "name_en": "A Kung Kok Shan Road, Near Bradbury Hospice"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20017345,
+        "name_tc": "亞公角山路, 近沙田慈氏護養院",
+        "name_sc": "亚公角山路, 近沙田慈氏护养院",
+        "name_en": "A Kung Kok Shan Road, Near Cheshire Home Shatin"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20017346,
+        "name_tc": "亞公角山路, 近突破青年村",
+        "name_sc": "亚公角山路, 近突破青年村",
+        "name_en": "A Kung Kok Shan Road, Near Breakthrough Youth Village"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20017339,
+        "name_tc": "亞公角山路, 近鄰舍輔導會怡欣山莊",
+        "name_sc": "亚公角山路, 近邻舍辅导会怡欣山庄",
+        "name_en": "A Kung Kok Shan Road, Near The Neighbourhood Advice-Action Council Harmony Manor"
+      }
+    ],
+    "data_timestamp": "2024-08-20T17:28:58.178+08:00"
+  }
+}

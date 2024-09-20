@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:06:52+08:00",
+  "data": {
+    "stop": "001186",
+    "name_tc": "摩星嶺",
+    "name_en": "Felix Villas",
+    "lat": "22.274918352091",
+    "long": "114.11793506053",
+    "name_sc": "摩星岭",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}

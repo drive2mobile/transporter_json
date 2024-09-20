@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-19T15:06:54+08:00",
+  "data": {
+    "stop": "003506",
+    "name_tc": "工業貿易大樓, 協調道",
+    "name_en": "Trade and Industry Tower, Concorde Road",
+    "lat": "22.332065062091",
+    "long": "114.19804771053",
+    "name_sc": "工业贸易大楼, 协调道",
+    "data_timestamp": "2024-09-19T05:00:03+08:00"
+  }
+}
