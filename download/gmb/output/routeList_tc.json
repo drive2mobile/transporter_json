@@ -1,0 +1,9178 @@
+[
+  {
+    "route_id": 2006408,
+    "region": "HKI",
+    "route": "1",
+    "route_seq": 2,
+    "from": "中環(香港站公共運輸交匯處)",
+    "to": "山頂(公共交通總站)"
+  },
+  {
+    "route_id": 2006408,
+    "region": "HKI",
+    "route": "1",
+    "route_seq": 2,
+    "from": "中環(香港站公共運輸交匯處)",
+    "to": "山頂(公共交通總站)"
+  },
+  {
+    "route_id": 2006706,
+    "region": "HKI",
+    "route": "10",
+    "route_seq": 2,
+    "from": "數碼港巴士總站",
+    "to": "謝斐道, 近兆安廣場"
+  },
+  {
+    "route_id": 2006706,
+    "region": "HKI",
+    "route": "10",
+    "route_seq": 2,
+    "from": "數碼港巴士總站",
+    "to": "謝斐道, 近兆安廣場"
+  },
+  {
+    "route_id": 2006739,
+    "region": "HKI",
+    "route": "10P",
+    "route_seq": 2,
+    "from": "數碼港巴士總站",
+    "to": "謝斐道, 近兆安廣場"
+  },
+  {
+    "route_id": 2006739,
+    "region": "HKI",
+    "route": "10P",
+    "route_seq": 2,
+    "from": "數碼港巴士總站",
+    "to": "謝斐道, 近兆安廣場"
+  },
+  {
+    "route_id": 2002285,
+    "region": "HKI",
+    "route": "12",
+    "route_seq": 1,
+    "from": "觀龍樓",
+    "to": "西營盤(循環線)"
+  },
+  {
+    "route_id": 2002286,
+    "region": "HKI",
+    "route": "13",
+    "route_seq": 1,
+    "from": "西環邨",
+    "to": "西營盤(循環線)"
+  },
+  {
+    "route_id": 2000970,
+    "region": "HKI",
+    "route": "14M",
+    "route_seq": 1,
+    "from": "蘭芳道",
+    "to": "睦誠道"
+  },
+  {
+    "route_id": 2000971,
+    "region": "HKI",
+    "route": "14M",
+    "route_seq": 1,
+    "from": "蘭芳道",
+    "to": "睦誠道"
+  },
+  {
+    "route_id": 2000972,
+    "region": "HKI",
+    "route": "14M",
+    "route_seq": 1,
+    "from": "利園山道",
+    "to": "樂陶苑"
+  },
+  {
+    "route_id": 2000973,
+    "region": "HKI",
+    "route": "14M",
+    "route_seq": 1,
+    "from": "利園山道",
+    "to": "樂翠台"
+  },
+  {
+    "route_id": 2002287,
+    "region": "HKI",
+    "route": "16A",
+    "route_seq": 2,
+    "from": "舂坎角(慈氏護養院)",
+    "to": "柴灣站"
+  },
+  {
+    "route_id": 2002287,
+    "region": "HKI",
+    "route": "16A",
+    "route_seq": 2,
+    "from": "舂坎角(慈氏護養院)",
+    "to": "柴灣站"
+  },
+  {
+    "route_id": 2002289,
+    "region": "HKI",
+    "route": "16M",
+    "route_seq": 2,
+    "from": "舂坎角",
+    "to": "柴灣站"
+  },
+  {
+    "route_id": 2002289,
+    "region": "HKI",
+    "route": "16M",
+    "route_seq": 2,
+    "from": "舂坎角",
+    "to": "柴灣站"
+  },
+  {
+    "route_id": 2002291,
+    "region": "HKI",
+    "route": "16X",
+    "route_seq": 2,
+    "from": "赤柱灘道",
+    "to": "柴灣站"
+  },
+  {
+    "route_id": 2002291,
+    "region": "HKI",
+    "route": "16X",
+    "route_seq": 2,
+    "from": "赤柱灘道",
+    "to": "柴灣站"
+  },
+  {
+    "route_id": 2002317,
+    "region": "HKI",
+    "route": "18M",
+    "route_seq": 2,
+    "from": "歌連臣角(懲教所)",
+    "to": "柴灣站"
+  },
+  {
+    "route_id": 2002317,
+    "region": "HKI",
+    "route": "18M",
+    "route_seq": 2,
+    "from": "歌連臣角(懲教所)",
+    "to": "柴灣站"
+  },
+  {
+    "route_id": 2006441,
+    "region": "HKI",
+    "route": "1A",
+    "route_seq": 1,
+    "from": "中環(香港站公共運輸交匯處)",
+    "to": "麥當奴道(循環線)"
+  },
+  {
+    "route_id": 2006474,
+    "region": "HKI",
+    "route": "2",
+    "route_seq": 1,
+    "from": "中環(香港站)",
+    "to": "舊山頂道(循環線)"
+  },
+  {
+    "route_id": 2006475,
+    "region": "HKI",
+    "route": "2",
+    "route_seq": 1,
+    "from": "中環(香港站)",
+    "to": "舊山頂道(循環線)"
+  },
+  {
+    "route_id": 2002319,
+    "region": "HKI",
+    "route": "20",
+    "route_seq": 1,
+    "from": "西灣河(嘉亨灣)公共交通總站",
+    "to": "柴灣工業城(循環線)"
+  },
+  {
+    "route_id": 2002320,
+    "region": "HKI",
+    "route": "20",
+    "route_seq": 1,
+    "from": "西灣河(嘉亨灣)公共交通總站",
+    "to": "柴灣 (豐業街)(循環線)"
+  },
+  {
+    "route_id": 2002415,
+    "region": "HKI",
+    "route": "20M",
+    "route_seq": 1,
+    "from": "興民邨",
+    "to": "柴灣工業城(循環線)"
+  },
+  {
+    "route_id": 2002448,
+    "region": "HKI",
+    "route": "20M",
+    "route_seq": 1,
+    "from": "興民邨",
+    "to": "柴灣 (豐業街)(循環線)"
+  },
+  {
+    "route_id": 2000967,
+    "region": "HKI",
+    "route": "21A",
+    "route_seq": 1,
+    "from": "銅鑼灣（蘭芳道）",
+    "to": "勵德邨 (循環線)"
+  },
+  {
+    "route_id": 2000968,
+    "region": "HKI",
+    "route": "21M",
+    "route_seq": 1,
+    "from": "銅鑼灣（蘭芳道）",
+    "to": "大坑徑 (循環線)"
+  },
+  {
+    "route_id": 2000997,
+    "region": "HKI",
+    "route": "22",
+    "route_seq": 2,
+    "from": "中環(交易廣場)",
+    "to": "薄扶林花園"
+  },
+  {
+    "route_id": 2000997,
+    "region": "HKI",
+    "route": "22",
+    "route_seq": 2,
+    "from": "中環(交易廣場)",
+    "to": "薄扶林花園"
+  },
+  {
+    "route_id": 2003045,
+    "region": "HKI",
+    "route": "22",
+    "route_seq": 2,
+    "from": "中環(交易廣場)",
+    "to": "薄扶林花園"
+  },
+  {
+    "route_id": 2003045,
+    "region": "HKI",
+    "route": "22",
+    "route_seq": 2,
+    "from": "中環(交易廣場)",
+    "to": "薄扶林花園"
+  },
+  {
+    "route_id": 2000999,
+    "region": "HKI",
+    "route": "22S",
+    "route_seq": 2,
+    "from": "中環(中環碼頭)",
+    "to": "薄扶林花園"
+  },
+  {
+    "route_id": 2000999,
+    "region": "HKI",
+    "route": "22S",
+    "route_seq": 2,
+    "from": "中環(中環碼頭)",
+    "to": "薄扶林花園"
+  },
+  {
+    "route_id": 2001004,
+    "region": "HKI",
+    "route": "22S",
+    "route_seq": 1,
+    "from": "中環(中環碼頭)",
+    "to": "薄扶林花園"
+  },
+  {
+    "route_id": 2003050,
+    "region": "HKI",
+    "route": "22S",
+    "route_seq": 1,
+    "from": "薄扶林花園",
+    "to": "中環(中環碼頭)"
+  },
+  {
+    "route_id": 2003051,
+    "region": "HKI",
+    "route": "22S",
+    "route_seq": 1,
+    "from": "中環(中環碼頭)",
+    "to": "薄扶林花園"
+  },
+  {
+    "route_id": 2003048,
+    "region": "HKI",
+    "route": "22X",
+    "route_seq": 2,
+    "from": "中環(中環碼頭)",
+    "to": "薄扶林花園"
+  },
+  {
+    "route_id": 2003048,
+    "region": "HKI",
+    "route": "22X",
+    "route_seq": 2,
+    "from": "中環(中環碼頭)",
+    "to": "薄扶林花園"
+  },
+  {
+    "route_id": 2003075,
+    "region": "HKI",
+    "route": "22X",
+    "route_seq": 1,
+    "from": "薄扶林花園",
+    "to": "中環(中環碼頭)"
+  },
+  {
+    "route_id": 2003042,
+    "region": "HKI",
+    "route": "23",
+    "route_seq": 1,
+    "from": "堅尼地城站",
+    "to": "薄扶林(循環線)"
+  },
+  {
+    "route_id": 2003043,
+    "region": "HKI",
+    "route": "23M",
+    "route_seq": 2,
+    "from": "置富花園",
+    "to": "堅尼地城站"
+  },
+  {
+    "route_id": 2003043,
+    "region": "HKI",
+    "route": "23M",
+    "route_seq": 2,
+    "from": "置富花園",
+    "to": "堅尼地城站"
+  },
+  {
+    "route_id": 2002021,
+    "region": "HKI",
+    "route": "24A",
+    "route_seq": 1,
+    "from": "金鐘站(德立街)",
+    "to": "肇輝台(循環線)"
+  },
+  {
+    "route_id": 2002052,
+    "region": "HKI",
+    "route": "24M",
+    "route_seq": 2,
+    "from": "金鐘站(德立街)",
+    "to": "畢拉山"
+  },
+  {
+    "route_id": 2002052,
+    "region": "HKI",
+    "route": "24M",
+    "route_seq": 2,
+    "from": "金鐘站(德立街)",
+    "to": "畢拉山"
+  },
+  {
+    "route_id": 2002053,
+    "region": "HKI",
+    "route": "24M",
+    "route_seq": 2,
+    "from": "金鐘站(德立街)",
+    "to": "畢拉山"
+  },
+  {
+    "route_id": 2002053,
+    "region": "HKI",
+    "route": "24M",
+    "route_seq": 2,
+    "from": "金鐘站(德立街)",
+    "to": "畢拉山"
+  },
+  {
+    "route_id": 2002020,
+    "region": "HKI",
+    "route": "25",
+    "route_seq": 1,
+    "from": "上寶馬山",
+    "to": "銅鑼灣(循環線)"
+  },
+  {
+    "route_id": 2004527,
+    "region": "HKI",
+    "route": "26",
+    "route_seq": 1,
+    "from": "利園山道, 鳳鳴大廈外",
+    "to": "香港港安醫院 (循環線)"
+  },
+  {
+    "route_id": 2007498,
+    "region": "HKI",
+    "route": "27",
+    "route_seq": 2,
+    "from": "香港仔 (西安街)",
+    "to": "鴨脷洲 (惠風街)"
+  },
+  {
+    "route_id": 2007498,
+    "region": "HKI",
+    "route": "27",
+    "route_seq": 2,
+    "from": "香港仔 (西安街)",
+    "to": "鴨脷洲 (惠風街)"
+  },
+  {
+    "route_id": 2007501,
+    "region": "HKI",
+    "route": "27A",
+    "route_seq": 1,
+    "from": "香港仔 (西安街)",
+    "to": "鴨脷洲 (循環線)"
+  },
+  {
+    "route_id": 2006476,
+    "region": "HKI",
+    "route": "28",
+    "route_seq": 2,
+    "from": "銅鑼灣(新會道)",
+    "to": "碧瑤灣(上)"
+  },
+  {
+    "route_id": 2006476,
+    "region": "HKI",
+    "route": "28",
+    "route_seq": 2,
+    "from": "銅鑼灣(新會道)",
+    "to": "碧瑤灣(上)"
+  },
+  {
+    "route_id": 2006507,
+    "region": "HKI",
+    "route": "28",
+    "route_seq": 1,
+    "from": "碧瑤灣(上)",
+    "to": "銅鑼灣(新會道)"
+  },
+  {
+    "route_id": 2006509,
+    "region": "HKI",
+    "route": "28M",
+    "route_seq": 1,
+    "from": "碧瑤灣(上)",
+    "to": "香港大學站(循環線)"
+  },
+  {
+    "route_id": 2006508,
+    "region": "HKI",
+    "route": "28S",
+    "route_seq": 1,
+    "from": "碧瑤灣(上)",
+    "to": "銅鑼灣(新會道)"
+  },
+  {
+    "route_id": 2007499,
+    "region": "HKI",
+    "route": "29",
+    "route_seq": 1,
+    "from": "鴨脷洲邨",
+    "to": "深灣道公共交通總站(循環線)"
+  },
+  {
+    "route_id": 2007530,
+    "region": "HKI",
+    "route": "29A",
+    "route_seq": 2,
+    "from": "海洋公園 (水上樂園)",
+    "to": "鴨脷洲邨"
+  },
+  {
+    "route_id": 2007530,
+    "region": "HKI",
+    "route": "29A",
+    "route_seq": 2,
+    "from": "海洋公園 (水上樂園)",
+    "to": "鴨脷洲邨"
+  },
+  {
+    "route_id": 2007531,
+    "region": "HKI",
+    "route": "29X",
+    "route_seq": 1,
+    "from": "鴨脷洲邨",
+    "to": "海洋公園 (水上樂園) (循環線)"
+  },
+  {
+    "route_id": 2006510,
+    "region": "HKI",
+    "route": "3",
+    "route_seq": 2,
+    "from": "寶珊道",
+    "to": "中環(香港站公共運輸交匯處)"
+  },
+  {
+    "route_id": 2006510,
+    "region": "HKI",
+    "route": "3",
+    "route_seq": 2,
+    "from": "寶珊道",
+    "to": "中環(香港站公共運輸交匯處)"
+  },
+  {
+    "route_id": 2006511,
+    "region": "HKI",
+    "route": "3",
+    "route_seq": 1,
+    "from": "中環(香港站公共運輸交匯處)",
+    "to": "寶珊道"
+  },
+  {
+    "route_id": 2003472,
+    "region": "HKI",
+    "route": "30",
+    "route_seq": 2,
+    "from": "跑馬地(冬青道)",
+    "to": "銅鑼灣(蘭芳道)"
+  },
+  {
+    "route_id": 2003472,
+    "region": "HKI",
+    "route": "30",
+    "route_seq": 2,
+    "from": "跑馬地(冬青道)",
+    "to": "銅鑼灣(蘭芳道)"
+  },
+  {
+    "route_id": 2006738,
+    "region": "HKI",
+    "route": "31",
+    "route_seq": 2,
+    "from": "銅鑼灣(謝斐道)",
+    "to": "田灣邨"
+  },
+  {
+    "route_id": 2006738,
+    "region": "HKI",
+    "route": "31",
+    "route_seq": 2,
+    "from": "銅鑼灣(謝斐道)",
+    "to": "田灣邨"
+  },
+  {
+    "route_id": 2009741,
+    "region": "HKI",
+    "route": "31X",
+    "route_seq": 1,
+    "from": "田灣邨",
+    "to": "銅鑼灣(謝斐道)"
+  },
+  {
+    "route_id": 2005689,
+    "region": "HKI",
+    "route": "32",
+    "route_seq": 2,
+    "from": "筲箕灣站",
+    "to": "康山"
+  },
+  {
+    "route_id": 2005689,
+    "region": "HKI",
+    "route": "32",
+    "route_seq": 2,
+    "from": "筲箕灣站",
+    "to": "康山"
+  },
+  {
+    "route_id": 2005688,
+    "region": "HKI",
+    "route": "32A",
+    "route_seq": 1,
+    "from": "康景花園",
+    "to": "英皇道(太古城中心)(循環線)"
+  },
+  {
+    "route_id": 2005685,
+    "region": "HKI",
+    "route": "33",
+    "route_seq": 2,
+    "from": "北角(馬寶道)",
+    "to": "康山"
+  },
+  {
+    "route_id": 2005685,
+    "region": "HKI",
+    "route": "33",
+    "route_seq": 2,
+    "from": "北角(馬寶道)",
+    "to": "康山"
+  },
+  {
+    "route_id": 2005684,
+    "region": "HKI",
+    "route": "33M",
+    "route_seq": 1,
+    "from": "康山",
+    "to": "太古站(循環線)"
+  },
+  {
+    "route_id": 2004092,
+    "region": "HKI",
+    "route": "35M",
+    "route_seq": 2,
+    "from": "灣仔(莊士敦道)",
+    "to": "香港仔(石排湾)"
+  },
+  {
+    "route_id": 2004092,
+    "region": "HKI",
+    "route": "35M",
+    "route_seq": 2,
+    "from": "灣仔(莊士敦道)",
+    "to": "香港仔(石排湾)"
+  },
+  {
+    "route_id": 2005290,
+    "region": "HKI",
+    "route": "36X",
+    "route_seq": 2,
+    "from": "銅鑼灣 (渣甸街)",
+    "to": "鴨脷洲 (平瀾街)"
+  },
+  {
+    "route_id": 2005290,
+    "region": "HKI",
+    "route": "36X",
+    "route_seq": 2,
+    "from": "銅鑼灣 (渣甸街)",
+    "to": "鴨脷洲 (平瀾街)"
+  },
+  {
+    "route_id": 2005289,
+    "region": "HKI",
+    "route": "37",
+    "route_seq": 1,
+    "from": "鴨脷洲 (平瀾街)",
+    "to": "利東邨(循環線)"
+  },
+  {
+    "route_id": 2001260,
+    "region": "HKI",
+    "route": "39C",
+    "route_seq": 1,
+    "from": "鴨脷洲漁安苑",
+    "to": "香港仔(循環線) "
+  },
+  {
+    "route_id": 2001261,
+    "region": "HKI",
+    "route": "39M",
+    "route_seq": 2,
+    "from": "天后公共運輸交匯處",
+    "to": "鴨脷洲漁安苑"
+  },
+  {
+    "route_id": 2001261,
+    "region": "HKI",
+    "route": "39M",
+    "route_seq": 2,
+    "from": "天后公共運輸交匯處",
+    "to": "鴨脷洲漁安苑"
+  },
+  {
+    "route_id": 2006540,
+    "region": "HKI",
+    "route": "3A",
+    "route_seq": 2,
+    "from": "干德道",
+    "to": "中環(香港站公共運輸交匯處)"
+  },
+  {
+    "route_id": 2006540,
+    "region": "HKI",
+    "route": "3A",
+    "route_seq": 2,
+    "from": "干德道",
+    "to": "中環(香港站公共運輸交匯處)"
+  },
+  {
+    "route_id": 2006541,
+    "region": "HKI",
+    "route": "3A",
+    "route_seq": 1,
+    "from": "中環(香港站公共運輸交匯處)",
+    "to": "干德道"
+  },
+  {
+    "route_id": 2001262,
+    "region": "HKI",
+    "route": "40",
+    "route_seq": 2,
+    "from": "渣甸街",
+    "to": "赤柱村"
+  },
+  {
+    "route_id": 2001262,
+    "region": "HKI",
+    "route": "40",
+    "route_seq": 2,
+    "from": "渣甸街",
+    "to": "赤柱村"
+  },
+  {
+    "route_id": 2001263,
+    "region": "HKI",
+    "route": "40",
+    "route_seq": 1,
+    "from": "馬坑邨 ",
+    "to": "渣甸街"
+  },
+  {
+    "route_id": 2001265,
+    "region": "HKI",
+    "route": "40X",
+    "route_seq": 2,
+    "from": "渣甸街",
+    "to": "赤柱監獄"
+  },
+  {
+    "route_id": 2001265,
+    "region": "HKI",
+    "route": "40X",
+    "route_seq": 2,
+    "from": "渣甸街",
+    "to": "赤柱監獄"
+  },
+  {
+    "route_id": 2002250,
+    "region": "HKI",
+    "route": "43M",
+    "route_seq": 1,
+    "from": "峰華邨",
+    "to": "柴灣站(循環線)"
+  },
+  {
+    "route_id": 2002217,
+    "region": "HKI",
+    "route": "44M",
+    "route_seq": 1,
+    "from": "柴灣站",
+    "to": "小西灣邨(循環線)"
+  },
+  {
+    "route_id": 2005291,
+    "region": "HKI",
+    "route": "45A",
+    "route_seq": 1,
+    "from": "西區(第一街)",
+    "to": "干德道 (循環線)"
+  },
+  {
+    "route_id": 2005292,
+    "region": "HKI",
+    "route": "45S",
+    "route_seq": 1,
+    "from": "西區(第一街)",
+    "to": "干德道(循環線)"
+  },
+  {
+    "route_id": 2004076,
+    "region": "HKI",
+    "route": "47E",
+    "route_seq": 1,
+    "from": "東區尤德夫人那打素醫院",
+    "to": "小西灣邨"
+  },
+  {
+    "route_id": 2004088,
+    "region": "HKI",
+    "route": "47E",
+    "route_seq": 1,
+    "from": "小西灣第三期",
+    "to": "東區尤德夫人那打素醫院(循環線)"
+  },
+  {
+    "route_id": 2004068,
+    "region": "HKI",
+    "route": "47M",
+    "route_seq": 1,
+    "from": "柴灣站",
+    "to": "小西灣第三期(循環線)"
+  },
+  {
+    "route_id": 2004071,
+    "region": "HKI",
+    "route": "47M",
+    "route_seq": 1,
+    "from": "柴灣站",
+    "to": "柴灣(曉翠街)(循環線)"
+  },
+  {
+    "route_id": 2004072,
+    "region": "HKI",
+    "route": "47M",
+    "route_seq": 1,
+    "from": "柴灣站",
+    "to": "柴灣(永平街)(循環線)"
+  },
+  {
+    "route_id": 2004074,
+    "region": "HKI",
+    "route": "47S",
+    "route_seq": 1,
+    "from": "柴灣站",
+    "to": "富欣花園(循環線)"
+  },
+  {
+    "route_id": 2003902,
+    "region": "HKI",
+    "route": "48M",
+    "route_seq": 2,
+    "from": "東區尤德夫人那打素醫院",
+    "to": "柴灣站(利眾街)"
+  },
+  {
+    "route_id": 2003902,
+    "region": "HKI",
+    "route": "48M",
+    "route_seq": 2,
+    "from": "東區尤德夫人那打素醫院",
+    "to": "柴灣站(利眾街)"
+  },
+  {
+    "route_id": 2000988,
+    "region": "HKI",
+    "route": "49M",
+    "route_seq": 1,
+    "from": "天后站",
+    "to": "寶馬山 (循環線)"
+  },
+  {
+    "route_id": 2000989,
+    "region": "HKI",
+    "route": "49M",
+    "route_seq": 1,
+    "from": "天后站",
+    "to": "寶馬山 (循環線)"
+  },
+  {
+    "route_id": 2004095,
+    "region": "HKI",
+    "route": "4A",
+    "route_seq": 2,
+    "from": "銅鑼灣(景隆街)",
+    "to": "香港仔(石排灣)"
+  },
+  {
+    "route_id": 2004095,
+    "region": "HKI",
+    "route": "4A",
+    "route_seq": 2,
+    "from": "銅鑼灣(景隆街)",
+    "to": "香港仔(石排灣)"
+  },
+  {
+    "route_id": 2004096,
+    "region": "HKI",
+    "route": "4B",
+    "route_seq": 1,
+    "from": "香港仔(石排灣)",
+    "to": "灣仔(循環線)"
+  },
+  {
+    "route_id": 2004097,
+    "region": "HKI",
+    "route": "4C",
+    "route_seq": 2,
+    "from": "銅鑼灣(景隆街)",
+    "to": "香港仔(石排灣)"
+  },
+  {
+    "route_id": 2004097,
+    "region": "HKI",
+    "route": "4C",
+    "route_seq": 2,
+    "from": "銅鑼灣(景隆街)",
+    "to": "香港仔(石排灣)"
+  },
+  {
+    "route_id": 2004098,
+    "region": "HKI",
+    "route": "4M",
+    "route_seq": 2,
+    "from": "黃竹坑站",
+    "to": "香港仔(石排灣)"
+  },
+  {
+    "route_id": 2004098,
+    "region": "HKI",
+    "route": "4M",
+    "route_seq": 2,
+    "from": "黃竹坑站",
+    "to": "香港仔(石排灣)"
+  },
+  {
+    "route_id": 2004100,
+    "region": "HKI",
+    "route": "4M",
+    "route_seq": 2,
+    "from": "黃竹坑站",
+    "to": "香港仔(南寧街)"
+  },
+  {
+    "route_id": 2004100,
+    "region": "HKI",
+    "route": "4M",
+    "route_seq": 2,
+    "from": "黃竹坑站",
+    "to": "香港仔(南寧街)"
+  },
+  {
+    "route_id": 2004131,
+    "region": "HKI",
+    "route": "4M",
+    "route_seq": 1,
+    "from": "香港仔(石排灣)",
+    "to": "黃竹坑站"
+  },
+  {
+    "route_id": 2004099,
+    "region": "HKI",
+    "route": "4S",
+    "route_seq": 1,
+    "from": "石排灣",
+    "to": "香港仔(循環線)"
+  },
+  {
+    "route_id": 2004081,
+    "region": "HKI",
+    "route": "5",
+    "route_seq": 2,
+    "from": "銅鑼灣(謝斐道)",
+    "to": "香港仔(南寧街)"
+  },
+  {
+    "route_id": 2004081,
+    "region": "HKI",
+    "route": "5",
+    "route_seq": 2,
+    "from": "銅鑼灣(謝斐道)",
+    "to": "香港仔(南寧街)"
+  },
+  {
+    "route_id": 2000990,
+    "region": "HKI",
+    "route": "50",
+    "route_seq": 1,
+    "from": "耀東邨",
+    "to": "西灣河 (循環線)"
+  },
+  {
+    "route_id": 2002813,
+    "region": "HKI",
+    "route": "51",
+    "route_seq": 1,
+    "from": "田灣邨",
+    "to": "香港仔(循環線)"
+  },
+  {
+    "route_id": 2002812,
+    "region": "HKI",
+    "route": "51A",
+    "route_seq": 1,
+    "from": "華貴邨",
+    "to": "田灣邨(循環線)"
+  },
+  {
+    "route_id": 2002811,
+    "region": "HKI",
+    "route": "51S",
+    "route_seq": 1,
+    "from": "華貴邨",
+    "to": "香港仔(循環線)"
+  },
+  {
+    "route_id": 2005220,
+    "region": "HKI",
+    "route": "52",
+    "route_seq": 2,
+    "from": "赤柱監獄",
+    "to": "香港仔(漁暉道)"
+  },
+  {
+    "route_id": 2005220,
+    "region": "HKI",
+    "route": "52",
+    "route_seq": 2,
+    "from": "赤柱監獄",
+    "to": "香港仔(漁暉道)"
+  },
+  {
+    "route_id": 2005286,
+    "region": "HKI",
+    "route": "52",
+    "route_seq": 1,
+    "from": "赤柱監獄",
+    "to": "香港仔(漁暉道)"
+  },
+  {
+    "route_id": 2005287,
+    "region": "HKI",
+    "route": "52",
+    "route_seq": 1,
+    "from": "赤柱",
+    "to": "香港仔(漁暉道)"
+  },
+  {
+    "route_id": 2005288,
+    "region": "HKI",
+    "route": "52",
+    "route_seq": 1,
+    "from": "赤柱廣場",
+    "to": "香港仔(漁暉道)"
+  },
+  {
+    "route_id": 2003636,
+    "region": "HKI",
+    "route": "54",
+    "route_seq": 1,
+    "from": "中環(碼頭)",
+    "to": "瑪麗醫院(循環線)"
+  },
+  {
+    "route_id": 2003637,
+    "region": "HKI",
+    "route": "54",
+    "route_seq": 1,
+    "from": "中環(碼頭)",
+    "to": "瑪麗醫院(循環線)"
+  },
+  {
+    "route_id": 2009840,
+    "region": "HKI",
+    "route": "54",
+    "route_seq": 1,
+    "from": "瑪麗醫院",
+    "to": "中環(碼頭)"
+  },
+  {
+    "route_id": 2009842,
+    "region": "HKI",
+    "route": "54",
+    "route_seq": 1,
+    "from": "中環(碼頭)",
+    "to": "瑪麗醫院"
+  },
+  {
+    "route_id": 2003685,
+    "region": "HKI",
+    "route": "54M",
+    "route_seq": 2,
+    "from": "瑪麗醫院",
+    "to": "堅尼地城站"
+  },
+  {
+    "route_id": 2003685,
+    "region": "HKI",
+    "route": "54M",
+    "route_seq": 2,
+    "from": "瑪麗醫院",
+    "to": "堅尼地城站"
+  },
+  {
+    "route_id": 2003735,
+    "region": "HKI",
+    "route": "54S",
+    "route_seq": 1,
+    "from": "摩星嶺道, 怡林閣對面",
+    "to": "堅尼地城站"
+  },
+  {
+    "route_id": 2003768,
+    "region": "HKI",
+    "route": "54S",
+    "route_seq": 1,
+    "from": "堅尼地城站",
+    "to": "瑪麗醫院"
+  },
+  {
+    "route_id": 2003771,
+    "region": "HKI",
+    "route": "55",
+    "route_seq": 1,
+    "from": "瑪麗醫院",
+    "to": "中環站(干諾道中)(循環線)"
+  },
+  {
+    "route_id": 2001129,
+    "region": "HKI",
+    "route": "56",
+    "route_seq": 2,
+    "from": "馬寶道",
+    "to": "羅便臣道"
+  },
+  {
+    "route_id": 2001129,
+    "region": "HKI",
+    "route": "56",
+    "route_seq": 2,
+    "from": "馬寶道",
+    "to": "羅便臣道"
+  },
+  {
+    "route_id": 2001130,
+    "region": "HKI",
+    "route": "56A",
+    "route_seq": 2,
+    "from": "天后站",
+    "to": "羅便臣道"
+  },
+  {
+    "route_id": 2001130,
+    "region": "HKI",
+    "route": "56A",
+    "route_seq": 2,
+    "from": "天后站",
+    "to": "羅便臣道"
+  },
+  {
+    "route_id": 2001131,
+    "region": "HKI",
+    "route": "56A",
+    "route_seq": 1,
+    "from": "羅便臣道",
+    "to": "邊寧頓街"
+  },
+  {
+    "route_id": 2001132,
+    "region": "HKI",
+    "route": "56B",
+    "route_seq": 2,
+    "from": "天后公共運輸交匯處",
+    "to": "羅便臣道"
+  },
+  {
+    "route_id": 2001132,
+    "region": "HKI",
+    "route": "56B",
+    "route_seq": 2,
+    "from": "天后公共運輸交匯處",
+    "to": "羅便臣道"
+  },
+  {
+    "route_id": 2001133,
+    "region": "HKI",
+    "route": "56B",
+    "route_seq": 1,
+    "from": "羅便臣道",
+    "to": "灣仔"
+  },
+  {
+    "route_id": 2002580,
+    "region": "HKI",
+    "route": "58",
+    "route_seq": 2,
+    "from": "堅尼地城站",
+    "to": "香港仔(湖南街)"
+  },
+  {
+    "route_id": 2002580,
+    "region": "HKI",
+    "route": "58",
+    "route_seq": 2,
+    "from": "堅尼地城站",
+    "to": "香港仔(湖南街)"
+  },
+  {
+    "route_id": 2002646,
+    "region": "HKI",
+    "route": "58",
+    "route_seq": 1,
+    "from": "沙灣徑",
+    "to": "堅尼地城站"
+  },
+  {
+    "route_id": 2002679,
+    "region": "HKI",
+    "route": "58",
+    "route_seq": 1,
+    "from": "大口環道",
+    "to": "香港仔"
+  },
+  {
+    "route_id": 2002582,
+    "region": "HKI",
+    "route": "58A",
+    "route_seq": 2,
+    "from": "堅尼地城站",
+    "to": "香港仔(湖南街)"
+  },
+  {
+    "route_id": 2002582,
+    "region": "HKI",
+    "route": "58A",
+    "route_seq": 2,
+    "from": "堅尼地城站",
+    "to": "香港仔(湖南街)"
+  },
+  {
+    "route_id": 2002614,
+    "region": "HKI",
+    "route": "58M",
+    "route_seq": 2,
+    "from": "堅尼地城站",
+    "to": "貝沙灣"
+  },
+  {
+    "route_id": 2002614,
+    "region": "HKI",
+    "route": "58M",
+    "route_seq": 2,
+    "from": "堅尼地城站",
+    "to": "貝沙灣"
+  },
+  {
+    "route_id": 2002712,
+    "region": "HKI",
+    "route": "59",
+    "route_seq": 2,
+    "from": "深灣道公共交通總站",
+    "to": "堅尼地城站"
+  },
+  {
+    "route_id": 2002712,
+    "region": "HKI",
+    "route": "59",
+    "route_seq": 2,
+    "from": "深灣道公共交通總站",
+    "to": "堅尼地城站"
+  },
+  {
+    "route_id": 2002746,
+    "region": "HKI",
+    "route": "59A",
+    "route_seq": 2,
+    "from": "深灣道公共交通總站",
+    "to": "香港仔(東勝道)"
+  },
+  {
+    "route_id": 2002746,
+    "region": "HKI",
+    "route": "59A",
+    "route_seq": 2,
+    "from": "深灣道公共交通總站",
+    "to": "香港仔(東勝道)"
+  },
+  {
+    "route_id": 2002748,
+    "region": "HKI",
+    "route": "59A",
+    "route_seq": 2,
+    "from": "南濤閣",
+    "to": "香港仔(東勝道)"
+  },
+  {
+    "route_id": 2002748,
+    "region": "HKI",
+    "route": "59A",
+    "route_seq": 2,
+    "from": "南濤閣",
+    "to": "香港仔(東勝道)"
+  },
+  {
+    "route_id": 2002714,
+    "region": "HKI",
+    "route": "59B",
+    "route_seq": 1,
+    "from": "香港仔(東勝道)",
+    "to": "深灣道公共交通總站(經葛量洪醫院)(循環線)"
+  },
+  {
+    "route_id": 2004230,
+    "region": "HKI",
+    "route": "59S",
+    "route_seq": 2,
+    "from": "海洋公園 (水上樂園)",
+    "to": "香港仔 (東勝道)"
+  },
+  {
+    "route_id": 2004230,
+    "region": "HKI",
+    "route": "59S",
+    "route_seq": 2,
+    "from": "海洋公園 (水上樂園)",
+    "to": "香港仔 (東勝道)"
+  },
+  {
+    "route_id": 2002745,
+    "region": "HKI",
+    "route": "59X",
+    "route_seq": 1,
+    "from": "堅尼地城站",
+    "to": "葛量洪醫院"
+  },
+  {
+    "route_id": 2004077,
+    "region": "HKI",
+    "route": "5M",
+    "route_seq": 2,
+    "from": "葛量洪醫院",
+    "to": "黄竹坑站"
+  },
+  {
+    "route_id": 2004077,
+    "region": "HKI",
+    "route": "5M",
+    "route_seq": 2,
+    "from": "葛量洪醫院",
+    "to": "黄竹坑站"
+  },
+  {
+    "route_id": 2004084,
+    "region": "HKI",
+    "route": "61",
+    "route_seq": 2,
+    "from": "旺角 (快富街)",
+    "to": "小西灣(藍灣半島)"
+  },
+  {
+    "route_id": 2004084,
+    "region": "HKI",
+    "route": "61",
+    "route_seq": 2,
+    "from": "旺角 (快富街)",
+    "to": "小西灣(藍灣半島)"
+  },
+  {
+    "route_id": 2004090,
+    "region": "HKI",
+    "route": "62",
+    "route_seq": 1,
+    "from": "杏花邨公共交通交匯處",
+    "to": "小西灣(富怡花園)(循環線)"
+  },
+  {
+    "route_id": 2004091,
+    "region": "HKI",
+    "route": "62A",
+    "route_seq": 2,
+    "from": "杏花邨公共交通交匯處",
+    "to": "小西灣(藍灣半島)公共運輸交匯處"
+  },
+  {
+    "route_id": 2004091,
+    "region": "HKI",
+    "route": "62A",
+    "route_seq": 2,
+    "from": "杏花邨公共交通交匯處",
+    "to": "小西灣(藍灣半島)公共運輸交匯處"
+  },
+  {
+    "route_id": 2003405,
+    "region": "HKI",
+    "route": "63",
+    "route_seq": 2,
+    "from": "瑪麗醫院",
+    "to": "海怡半島"
+  },
+  {
+    "route_id": 2003405,
+    "region": "HKI",
+    "route": "63",
+    "route_seq": 2,
+    "from": "瑪麗醫院",
+    "to": "海怡半島"
+  },
+  {
+    "route_id": 2003408,
+    "region": "HKI",
+    "route": "63A",
+    "route_seq": 1,
+    "from": "香港仔(南寧街)",
+    "to": "華富邨(循環線)"
+  },
+  {
+    "route_id": 2008025,
+    "region": "HKI",
+    "route": "65",
+    "route_seq": 2,
+    "from": "北角(堡壘街)",
+    "to": "東區尤德夫人那打素醫院"
+  },
+  {
+    "route_id": 2008025,
+    "region": "HKI",
+    "route": "65",
+    "route_seq": 2,
+    "from": "北角(堡壘街)",
+    "to": "東區尤德夫人那打素醫院"
+  },
+  {
+    "route_id": 2008060,
+    "region": "HKI",
+    "route": "65A",
+    "route_seq": 1,
+    "from": "柴灣(康民街)",
+    "to": "鰂魚涌(途經東區尤德夫人那打素醫院)(循環線)"
+  },
+  {
+    "route_id": 2008092,
+    "region": "HKI",
+    "route": "65X",
+    "route_seq": 2,
+    "from": "北角渡輪碼頭公共運輸交匯處",
+    "to": "東區尤德夫人那打素醫院"
+  },
+  {
+    "route_id": 2008092,
+    "region": "HKI",
+    "route": "65X",
+    "route_seq": 2,
+    "from": "北角渡輪碼頭公共運輸交匯處",
+    "to": "東區尤德夫人那打素醫院"
+  },
+  {
+    "route_id": 2005293,
+    "region": "HKI",
+    "route": "66",
+    "route_seq": 1,
+    "from": "愛秩序灣",
+    "to": "柴灣(環翠道)"
+  },
+  {
+    "route_id": 2005294,
+    "region": "HKI",
+    "route": "66A",
+    "route_seq": 1,
+    "from": "愛秩序灣",
+    "to": "東區尤德夫人那打素醫院"
+  },
+  {
+    "route_id": 2005295,
+    "region": "HKI",
+    "route": "68",
+    "route_seq": 1,
+    "from": "愛秩序灣",
+    "to": "鰂魚涌(海灣街)"
+  },
+  {
+    "route_id": 2000410,
+    "region": "HKI",
+    "route": "69",
+    "route_seq": 1,
+    "from": "數碼港",
+    "to": "鰂魚涌(船塢里)(循環線)"
+  },
+  {
+    "route_id": 2000939,
+    "region": "HKI",
+    "route": "69",
+    "route_seq": 1,
+    "from": "北角港鐵站",
+    "to": "數碼港"
+  },
+  {
+    "route_id": 2000963,
+    "region": "HKI",
+    "route": "69",
+    "route_seq": 1,
+    "from": "數碼港",
+    "to": "鰂魚涌(船塢里)(循環線)"
+  },
+  {
+    "route_id": 2000819,
+    "region": "HKI",
+    "route": "69A",
+    "route_seq": 1,
+    "from": "數碼港",
+    "to": "香港仔(循環線)"
+  },
+  {
+    "route_id": 2000511,
+    "region": "HKI",
+    "route": "69X",
+    "route_seq": 2,
+    "from": "銅鑼灣(駱克道)",
+    "to": "數碼港"
+  },
+  {
+    "route_id": 2000511,
+    "region": "HKI",
+    "route": "69X",
+    "route_seq": 2,
+    "from": "銅鑼灣(駱克道)",
+    "to": "數碼港"
+  },
+  {
+    "route_id": 2000961,
+    "region": "HKI",
+    "route": "69X",
+    "route_seq": 2,
+    "from": "銅鑼灣(駱克道)",
+    "to": "數碼港"
+  },
+  {
+    "route_id": 2000961,
+    "region": "HKI",
+    "route": "69X",
+    "route_seq": 2,
+    "from": "銅鑼灣(駱克道)",
+    "to": "數碼港"
+  },
+  {
+    "route_id": 2004085,
+    "region": "HKI",
+    "route": "8",
+    "route_seq": 1,
+    "from": "碧瑤灣(下)",
+    "to": "中環(交易廣場)"
+  },
+  {
+    "route_id": 2004087,
+    "region": "HKI",
+    "route": "8X",
+    "route_seq": 2,
+    "from": "中環(交易廣場)",
+    "to": "碧瑤灣(下)"
+  },
+  {
+    "route_id": 2004087,
+    "region": "HKI",
+    "route": "8X",
+    "route_seq": 2,
+    "from": "中環(交易廣場)",
+    "to": "碧瑤灣(下)"
+  },
+  {
+    "route_id": 2002283,
+    "region": "HKI",
+    "route": "9",
+    "route_seq": 1,
+    "from": "中環(交易廣場)",
+    "to": "寶雲道(循環線)"
+  },
+  {
+    "route_id": 2007502,
+    "region": "HKI",
+    "route": "N27",
+    "route_seq": 1,
+    "from": "香港仔 (西安街)",
+    "to": "鴨脷洲 (循環線)"
+  },
+  {
+    "route_id": 2006772,
+    "region": "HKI",
+    "route": "N31",
+    "route_seq": 2,
+    "from": "銅鑼灣(謝斐道)",
+    "to": "田灣邨"
+  },
+  {
+    "route_id": 2006772,
+    "region": "HKI",
+    "route": "N31",
+    "route_seq": 2,
+    "from": "銅鑼灣(謝斐道)",
+    "to": "田灣邨"
+  },
+  {
+    "route_id": 2001264,
+    "region": "HKI",
+    "route": "N40",
+    "route_seq": 2,
+    "from": "渣甸街",
+    "to": "赤柱村"
+  },
+  {
+    "route_id": 2001264,
+    "region": "HKI",
+    "route": "N40",
+    "route_seq": 2,
+    "from": "渣甸街",
+    "to": "赤柱村"
+  },
+  {
+    "route_id": 2004086,
+    "region": "HKI",
+    "route": "N4A",
+    "route_seq": 1,
+    "from": "香港仔(石排灣)",
+    "to": "銅鑼灣(景隆街)"
+  },
+  {
+    "route_id": 2004089,
+    "region": "HKI",
+    "route": "N4C",
+    "route_seq": 2,
+    "from": "銅鑼灣(景隆街)",
+    "to": "香港仔(石排灣)"
+  },
+  {
+    "route_id": 2004089,
+    "region": "HKI",
+    "route": "N4C",
+    "route_seq": 2,
+    "from": "銅鑼灣(景隆街)",
+    "to": "香港仔(石排灣)"
+  },
+  {
+    "route_id": 2004093,
+    "region": "HKI",
+    "route": "N4X",
+    "route_seq": 1,
+    "from": "銅鑼灣(景隆街)",
+    "to": "深灣道公共交通總站(循環線)"
+  },
+  {
+    "route_id": 2002814,
+    "region": "HKI",
+    "route": "N51S",
+    "route_seq": 1,
+    "from": "華貴邨",
+    "to": "香港仔(循環線)"
+  },
+  {
+    "route_id": 2002877,
+    "region": "HKI",
+    "route": "N59A",
+    "route_seq": 2,
+    "from": "深灣道公共交通總站",
+    "to": "香港仔(東勝道)"
+  },
+  {
+    "route_id": 2002877,
+    "region": "HKI",
+    "route": "N59A",
+    "route_seq": 2,
+    "from": "深灣道公共交通總站",
+    "to": "香港仔(東勝道)"
+  },
+  {
+    "route_id": 2000802,
+    "region": "HKI",
+    "route": "N69X",
+    "route_seq": 2,
+    "from": "銅鑼灣(駱克道)",
+    "to": "數碼港"
+  },
+  {
+    "route_id": 2000802,
+    "region": "HKI",
+    "route": "N69X",
+    "route_seq": 2,
+    "from": "銅鑼灣(駱克道)",
+    "to": "數碼港"
+  },
+  {
+    "route_id": 2002329,
+    "region": "KLN",
+    "route": "12",
+    "route_seq": 2,
+    "from": "旺角東站",
+    "to": "白田"
+  },
+  {
+    "route_id": 2002329,
+    "region": "KLN",
+    "route": "12",
+    "route_seq": 2,
+    "from": "旺角東站",
+    "to": "白田"
+  },
+  {
+    "route_id": 2002331,
+    "region": "KLN",
+    "route": "12A",
+    "route_seq": 2,
+    "from": "大同新邨",
+    "to": "旺角東站"
+  },
+  {
+    "route_id": 2002331,
+    "region": "KLN",
+    "route": "12A",
+    "route_seq": 2,
+    "from": "大同新邨",
+    "to": "旺角東站"
+  },
+  {
+    "route_id": 2002333,
+    "region": "KLN",
+    "route": "12B",
+    "route_seq": 2,
+    "from": "港灣豪庭",
+    "to": "旺角東站"
+  },
+  {
+    "route_id": 2002333,
+    "region": "KLN",
+    "route": "12B",
+    "route_seq": 2,
+    "from": "港灣豪庭",
+    "to": "旺角東站"
+  },
+  {
+    "route_id": 2002335,
+    "region": "KLN",
+    "route": "12B",
+    "route_seq": 1,
+    "from": "港灣豪庭",
+    "to": "西洋菜南街"
+  },
+  {
+    "route_id": 2002336,
+    "region": "KLN",
+    "route": "12S",
+    "route_seq": 1,
+    "from": "大角咀(櫻桃街)",
+    "to": "旺角東站(循環線)"
+  },
+  {
+    "route_id": 2003571,
+    "region": "KLN",
+    "route": "13",
+    "route_seq": 2,
+    "from": "紅磡(紅鸞道)",
+    "to": "九龍塘(廣播道)"
+  },
+  {
+    "route_id": 2003571,
+    "region": "KLN",
+    "route": "13",
+    "route_seq": 2,
+    "from": "紅磡(紅鸞道)",
+    "to": "九龍塘(廣播道)"
+  },
+  {
+    "route_id": 2003604,
+    "region": "KLN",
+    "route": "13A",
+    "route_seq": 2,
+    "from": "樂富",
+    "to": "九龍塘(廣播道)"
+  },
+  {
+    "route_id": 2003604,
+    "region": "KLN",
+    "route": "13A",
+    "route_seq": 2,
+    "from": "樂富",
+    "to": "九龍塘(廣播道)"
+  },
+  {
+    "route_id": 2003606,
+    "region": "KLN",
+    "route": "13A",
+    "route_seq": 2,
+    "from": "九龍塘(廣播道)",
+    "to": "樂富"
+  },
+  {
+    "route_id": 2003606,
+    "region": "KLN",
+    "route": "13A",
+    "route_seq": 2,
+    "from": "九龍塘(廣播道)",
+    "to": "樂富"
+  },
+  {
+    "route_id": 2003603,
+    "region": "KLN",
+    "route": "13M",
+    "route_seq": 1,
+    "from": "紅磡(紅鸞道)",
+    "to": "紅磡站(循環線)"
+  },
+  {
+    "route_id": 2004629,
+    "region": "KLN",
+    "route": "16",
+    "route_seq": 1,
+    "from": "扎山道(彩雲邨)",
+    "to": "坪石邨(循環線)"
+  },
+  {
+    "route_id": 2004630,
+    "region": "KLN",
+    "route": "16A",
+    "route_seq": 1,
+    "from": "豐盛街",
+    "to": "坪石邨(循環線)"
+  },
+  {
+    "route_id": 2004632,
+    "region": "KLN",
+    "route": "16B",
+    "route_seq": 2,
+    "from": "坪石公共運輸交匯處",
+    "to": "曉暉花園"
+  },
+  {
+    "route_id": 2004632,
+    "region": "KLN",
+    "route": "16B",
+    "route_seq": 2,
+    "from": "坪石公共運輸交匯處",
+    "to": "曉暉花園"
+  },
+  {
+    "route_id": 2004631,
+    "region": "KLN",
+    "route": "16S",
+    "route_seq": 1,
+    "from": "峻弦",
+    "to": "坪石邨(循環線)"
+  },
+  {
+    "route_id": 2006677,
+    "region": "KLN",
+    "route": "17M",
+    "route_seq": 1,
+    "from": "太子站",
+    "to": "九龍醫院"
+  },
+  {
+    "route_id": 2006679,
+    "region": "KLN",
+    "route": "17M",
+    "route_seq": 1,
+    "from": "九龍醫院",
+    "to": "通菜街"
+  },
+  {
+    "route_id": 2002085,
+    "region": "KLN",
+    "route": "18M",
+    "route_seq": 2,
+    "from": "慈雲山(北)",
+    "to": "黃大仙公共小型巴士(專綫)服務總站"
+  },
+  {
+    "route_id": 2002085,
+    "region": "KLN",
+    "route": "18M",
+    "route_seq": 2,
+    "from": "慈雲山(北)",
+    "to": "黃大仙公共小型巴士(專綫)服務總站"
+  },
+  {
+    "route_id": 2002087,
+    "region": "KLN",
+    "route": "19",
+    "route_seq": 2,
+    "from": "慈雲山道(沙田坳邨)",
+    "to": "新蒲崗"
+  },
+  {
+    "route_id": 2002087,
+    "region": "KLN",
+    "route": "19",
+    "route_seq": 2,
+    "from": "慈雲山道(沙田坳邨)",
+    "to": "新蒲崗"
+  },
+  {
+    "route_id": 2002151,
+    "region": "KLN",
+    "route": "19",
+    "route_seq": 1,
+    "from": "富山公共交通總站",
+    "to": "鑽石山站公共交通交匯處"
+  },
+  {
+    "route_id": 2002091,
+    "region": "KLN",
+    "route": "19A",
+    "route_seq": 1,
+    "from": "鑽石山站公共運輸交匯處",
+    "to": "宏景花園(循環線) "
+  },
+  {
+    "route_id": 2002092,
+    "region": "KLN",
+    "route": "19M",
+    "route_seq": 2,
+    "from": "慈雲山(沙田坳邨)",
+    "to": "鑽石山站公共運輸交匯處"
+  },
+  {
+    "route_id": 2002092,
+    "region": "KLN",
+    "route": "19M",
+    "route_seq": 2,
+    "from": "慈雲山(沙田坳邨)",
+    "to": "鑽石山站公共運輸交匯處"
+  },
+  {
+    "route_id": 2002118,
+    "region": "KLN",
+    "route": "19S",
+    "route_seq": 2,
+    "from": "慈雲山購物中心",
+    "to": "鑽石山站公共運輸交匯處"
+  },
+  {
+    "route_id": 2002118,
+    "region": "KLN",
+    "route": "19S",
+    "route_seq": 2,
+    "from": "慈雲山購物中心",
+    "to": "鑽石山站公共運輸交匯處"
+  },
+  {
+    "route_id": 2009246,
+    "region": "KLN",
+    "route": "2",
+    "route_seq": 2,
+    "from": "又一城公共交通交匯處",
+    "to": "黃埔花園公共運輸交匯處"
+  },
+  {
+    "route_id": 2009246,
+    "region": "KLN",
+    "route": "2",
+    "route_seq": 2,
+    "from": "又一城公共交通交匯處",
+    "to": "黃埔花園公共運輸交匯處"
+  },
+  {
+    "route_id": 2004989,
+    "region": "KLN",
+    "route": "20",
+    "route_seq": 1,
+    "from": "新蒲崗",
+    "to": "慈雲山(北)(循環線)"
+  },
+  {
+    "route_id": 2004990,
+    "region": "KLN",
+    "route": "20M",
+    "route_seq": 2,
+    "from": "黄大仙站",
+    "to": "新蒲崗"
+  },
+  {
+    "route_id": 2004990,
+    "region": "KLN",
+    "route": "20M",
+    "route_seq": 2,
+    "from": "黄大仙站",
+    "to": "新蒲崗"
+  },
+  {
+    "route_id": 2005782,
+    "region": "KLN",
+    "route": "22A",
+    "route_seq": 1,
+    "from": "樂華邨",
+    "to": "觀塘碼頭"
+  },
+  {
+    "route_id": 2005783,
+    "region": "KLN",
+    "route": "22A",
+    "route_seq": 1,
+    "from": "樂華邨",
+    "to": "觀塘碼頭"
+  },
+  {
+    "route_id": 2009048,
+    "region": "KLN",
+    "route": "22M",
+    "route_seq": 2,
+    "from": "裕民坊公共運輸交匯處",
+    "to": "樂華邨"
+  },
+  {
+    "route_id": 2009048,
+    "region": "KLN",
+    "route": "22M",
+    "route_seq": 2,
+    "from": "裕民坊公共運輸交匯處",
+    "to": "樂華邨"
+  },
+  {
+    "route_id": 2008322,
+    "region": "KLN",
+    "route": "23",
+    "route_seq": 2,
+    "from": "裕民坊公共運輸交匯處",
+    "to": "觀塘 (雲漢街)"
+  },
+  {
+    "route_id": 2008322,
+    "region": "KLN",
+    "route": "23",
+    "route_seq": 2,
+    "from": "裕民坊公共運輸交匯處",
+    "to": "觀塘 (雲漢街)"
+  },
+  {
+    "route_id": 2008355,
+    "region": "KLN",
+    "route": "23B",
+    "route_seq": 2,
+    "from": "茶果嶺",
+    "to": "裕民坊公共運輸交匯處"
+  },
+  {
+    "route_id": 2008355,
+    "region": "KLN",
+    "route": "23B",
+    "route_seq": 2,
+    "from": "茶果嶺",
+    "to": "裕民坊公共運輸交匯處"
+  },
+  {
+    "route_id": 2008391,
+    "region": "KLN",
+    "route": "23C",
+    "route_seq": 1,
+    "from": "藍田站 (茜發道)",
+    "to": "油塘站 (茶果嶺道)(循環線)"
+  },
+  {
+    "route_id": 2008389,
+    "region": "KLN",
+    "route": "23M",
+    "route_seq": 2,
+    "from": "藍田站 (茜發道)",
+    "to": "裕民坊公共運輸交匯處"
+  },
+  {
+    "route_id": 2008389,
+    "region": "KLN",
+    "route": "23M",
+    "route_seq": 2,
+    "from": "藍田站 (茜發道)",
+    "to": "裕民坊公共運輸交匯處"
+  },
+  {
+    "route_id": 2009477,
+    "region": "KLN",
+    "route": "23P",
+    "route_seq": 2,
+    "from": "藍田站 (茜發道)",
+    "to": "高嶺道"
+  },
+  {
+    "route_id": 2009477,
+    "region": "KLN",
+    "route": "23P",
+    "route_seq": 2,
+    "from": "藍田站 (茜發道)",
+    "to": "高嶺道"
+  },
+  {
+    "route_id": 2008393,
+    "region": "KLN",
+    "route": "23S",
+    "route_seq": 1,
+    "from": "麗港城 (第二期)",
+    "to": "藍田站 (茜發道)"
+  },
+  {
+    "route_id": 2008421,
+    "region": "KLN",
+    "route": "24",
+    "route_seq": 1,
+    "from": "藍田 (平田公共運輸交匯處)",
+    "to": "三家村碼頭 (循環線)"
+  },
+  {
+    "route_id": 2008454,
+    "region": "KLN",
+    "route": "24M",
+    "route_seq": 2,
+    "from": "油塘公共運輸交匯處",
+    "to": "興田 (碧雲道)"
+  },
+  {
+    "route_id": 2008454,
+    "region": "KLN",
+    "route": "24M",
+    "route_seq": 2,
+    "from": "油塘公共運輸交匯處",
+    "to": "興田 (碧雲道)"
+  },
+  {
+    "route_id": 2006045,
+    "region": "KLN",
+    "route": "25A",
+    "route_seq": 2,
+    "from": "東頭邨(東隆道)",
+    "to": "九龍塘(沙福道)公共交通交匯處"
+  },
+  {
+    "route_id": 2006045,
+    "region": "KLN",
+    "route": "25A",
+    "route_seq": 2,
+    "from": "東頭邨(東隆道)",
+    "to": "九龍塘(沙福道)公共交通交匯處"
+  },
+  {
+    "route_id": 2006078,
+    "region": "KLN",
+    "route": "25B",
+    "route_seq": 2,
+    "from": "九龍塘(沙福道)公共交通交匯處",
+    "to": "新蒲崗(譽.港灣)"
+  },
+  {
+    "route_id": 2006078,
+    "region": "KLN",
+    "route": "25B",
+    "route_seq": 2,
+    "from": "九龍塘(沙福道)公共交通交匯處",
+    "to": "新蒲崗(譽.港灣)"
+  },
+  {
+    "route_id": 2006079,
+    "region": "KLN",
+    "route": "25M",
+    "route_seq": 2,
+    "from": "東頭邨(東隆道)",
+    "to": "九龍塘(沙福道)公共交通交匯處"
+  },
+  {
+    "route_id": 2006079,
+    "region": "KLN",
+    "route": "25M",
+    "route_seq": 2,
+    "from": "東頭邨(東隆道)",
+    "to": "九龍塘(沙福道)公共交通交匯處"
+  },
+  {
+    "route_id": 2006111,
+    "region": "KLN",
+    "route": "25M",
+    "route_seq": 1,
+    "from": "九龍塘(沙福道)公共交通交匯處",
+    "to": "喇沙利道"
+  },
+  {
+    "route_id": 2006112,
+    "region": "KLN",
+    "route": "25MS",
+    "route_seq": 1,
+    "from": "九龍塘(沙福道)公共交通交匯處",
+    "to": "香港浸會大學(循環線)"
+  },
+  {
+    "route_id": 2002815,
+    "region": "KLN",
+    "route": "26",
+    "route_seq": 2,
+    "from": "九龍站",
+    "to": "土瓜灣(浙江街)"
+  },
+  {
+    "route_id": 2002815,
+    "region": "KLN",
+    "route": "26",
+    "route_seq": 2,
+    "from": "九龍站",
+    "to": "土瓜灣(浙江街)"
+  },
+  {
+    "route_id": 2002846,
+    "region": "KLN",
+    "route": "26A",
+    "route_seq": 1,
+    "from": "黃埔花園公共運輸交匯處",
+    "to": "尖沙咀(廣東道)(循環線)"
+  },
+  {
+    "route_id": 2002849,
+    "region": "KLN",
+    "route": "26H",
+    "route_seq": 1,
+    "from": "伊利沙伯醫院",
+    "to": "紅磡站(循環線)"
+  },
+  {
+    "route_id": 2002844,
+    "region": "KLN",
+    "route": "26W",
+    "route_seq": 1,
+    "from": "海逸豪園",
+    "to": "紅磡站(循環線)"
+  },
+  {
+    "route_id": 2002845,
+    "region": "KLN",
+    "route": "26W",
+    "route_seq": 1,
+    "from": "海逸豪園",
+    "to": "紅磡站(循環線)"
+  },
+  {
+    "route_id": 2002850,
+    "region": "KLN",
+    "route": "26X",
+    "route_seq": 1,
+    "from": "海逸豪園",
+    "to": "佐敦(渡船街)(循環線)"
+  },
+  {
+    "route_id": 2000998,
+    "region": "KLN",
+    "route": "27M",
+    "route_seq": 2,
+    "from": "旺角站",
+    "to": "樂民新村(美善同道)"
+  },
+  {
+    "route_id": 2000998,
+    "region": "KLN",
+    "route": "27M",
+    "route_seq": 2,
+    "from": "旺角站",
+    "to": "樂民新村(美善同道)"
+  },
+  {
+    "route_id": 2001000,
+    "region": "KLN",
+    "route": "27M",
+    "route_seq": 1,
+    "from": "樂民新村(美善同道)",
+    "to": "旺角站"
+  },
+  {
+    "route_id": 2003108,
+    "region": "KLN",
+    "route": "27M",
+    "route_seq": 1,
+    "from": "樂民新村(美善同道)",
+    "to": "旺角站"
+  },
+  {
+    "route_id": 2001001,
+    "region": "KLN",
+    "route": "27MS",
+    "route_seq": 1,
+    "from": "旺角站",
+    "to": "何文田（常樂街） (循環線)"
+  },
+  {
+    "route_id": 2001002,
+    "region": "KLN",
+    "route": "27MS",
+    "route_seq": 1,
+    "from": "旺角站",
+    "to": "何文田（常樂街） (循環線)"
+  },
+  {
+    "route_id": 2001003,
+    "region": "KLN",
+    "route": "28M",
+    "route_seq": 2,
+    "from": "旺角站",
+    "to": "九龍城（偉恒昌新邨）"
+  },
+  {
+    "route_id": 2001003,
+    "region": "KLN",
+    "route": "28M",
+    "route_seq": 2,
+    "from": "旺角站",
+    "to": "九龍城（偉恒昌新邨）"
+  },
+  {
+    "route_id": 2001005,
+    "region": "KLN",
+    "route": "28MS",
+    "route_seq": 1,
+    "from": "九龍城(偉恒昌新邨)",
+    "to": "何文田站 (循環線)"
+  },
+  {
+    "route_id": 2001006,
+    "region": "KLN",
+    "route": "29A",
+    "route_seq": 1,
+    "from": "九龍塘(沙福道)公共交通交匯處",
+    "to": "廣播道 (循環線)"
+  },
+  {
+    "route_id": 2001007,
+    "region": "KLN",
+    "route": "29B",
+    "route_seq": 1,
+    "from": "九龍塘(沙福道)公共交通交匯處",
+    "to": "筆架山 (循環線)"
+  },
+  {
+    "route_id": 2009247,
+    "region": "KLN",
+    "route": "2A",
+    "route_seq": 2,
+    "from": "又一城公共交通交匯處",
+    "to": "黃埔花園公共運輸交匯處"
+  },
+  {
+    "route_id": 2009247,
+    "region": "KLN",
+    "route": "2A",
+    "route_seq": 2,
+    "from": "又一城公共交通交匯處",
+    "to": "黃埔花園公共運輸交匯處"
+  },
+  {
+    "route_id": 2006276,
+    "region": "KLN",
+    "route": "3",
+    "route_seq": 2,
+    "from": "大同新邨",
+    "to": "尖沙咀(亞士厘道)"
+  },
+  {
+    "route_id": 2006276,
+    "region": "KLN",
+    "route": "3",
+    "route_seq": 2,
+    "from": "大同新邨",
+    "to": "尖沙咀(亞士厘道)"
+  },
+  {
+    "route_id": 2006283,
+    "region": "KLN",
+    "route": "3",
+    "route_seq": 1,
+    "from": "尖沙咀(亞士厘道)",
+    "to": "大同新邨"
+  },
+  {
+    "route_id": 2000996,
+    "region": "KLN",
+    "route": "30A",
+    "route_seq": 2,
+    "from": "旺角站",
+    "to": "澤安邨"
+  },
+  {
+    "route_id": 2000996,
+    "region": "KLN",
+    "route": "30A",
+    "route_seq": 2,
+    "from": "旺角站",
+    "to": "澤安邨"
+  },
+  {
+    "route_id": 2000995,
+    "region": "KLN",
+    "route": "30B",
+    "route_seq": 1,
+    "from": "澤安邨",
+    "to": "石硤尾站 (循環線)"
+  },
+  {
+    "route_id": 2000992,
+    "region": "KLN",
+    "route": "32M",
+    "route_seq": 1,
+    "from": "龍坪道",
+    "to": "石硤尾 (循環線)"
+  },
+  {
+    "route_id": 2001008,
+    "region": "KLN",
+    "route": "33A",
+    "route_seq": 2,
+    "from": "鑽石山站",
+    "to": "海港花園"
+  },
+  {
+    "route_id": 2001008,
+    "region": "KLN",
+    "route": "33A",
+    "route_seq": 2,
+    "from": "鑽石山站",
+    "to": "海港花園"
+  },
+  {
+    "route_id": 2001010,
+    "region": "KLN",
+    "route": "33M",
+    "route_seq": 2,
+    "from": "黃大仙站",
+    "to": "海港花園"
+  },
+  {
+    "route_id": 2001010,
+    "region": "KLN",
+    "route": "33M",
+    "route_seq": 2,
+    "from": "黃大仙站",
+    "to": "海港花園"
+  },
+  {
+    "route_id": 2005946,
+    "region": "KLN",
+    "route": "34M",
+    "route_seq": 1,
+    "from": "曉麗苑",
+    "to": "裕民坊公共運輸交匯處"
+  },
+  {
+    "route_id": 2005947,
+    "region": "KLN",
+    "route": "34S",
+    "route_seq": 1,
+    "from": "秀茂坪(上)巴士總站",
+    "to": "裕民坊公共運輸交匯處"
+  },
+  {
+    "route_id": 2005949,
+    "region": "KLN",
+    "route": "34S",
+    "route_seq": 1,
+    "from": "曉光街",
+    "to": "裕民坊公共運輸交匯處"
+  },
+  {
+    "route_id": 2005814,
+    "region": "KLN",
+    "route": "35",
+    "route_seq": 2,
+    "from": "康利苑",
+    "to": "彩霞邨"
+  },
+  {
+    "route_id": 2005814,
+    "region": "KLN",
+    "route": "35",
+    "route_seq": 2,
+    "from": "康利苑",
+    "to": "彩霞邨"
+  },
+  {
+    "route_id": 2005913,
+    "region": "KLN",
+    "route": "36A",
+    "route_seq": 1,
+    "from": "鱷魚山(康利苑)",
+    "to": "裕民坊公共運輸交匯處"
+  },
+  {
+    "route_id": 2005914,
+    "region": "KLN",
+    "route": "36A",
+    "route_seq": 1,
+    "from": "鱷魚山(康利苑)",
+    "to": "裕民坊公共運輸交匯處"
+  },
+  {
+    "route_id": 2003504,
+    "region": "KLN",
+    "route": "37A",
+    "route_seq": 2,
+    "from": "慈雲山(北)",
+    "to": "黃大仙公共小型巴士(專綫)服務總站"
+  },
+  {
+    "route_id": 2003504,
+    "region": "KLN",
+    "route": "37A",
+    "route_seq": 2,
+    "from": "慈雲山(北)",
+    "to": "黃大仙公共小型巴士(專綫)服務總站"
+  },
+  {
+    "route_id": 2003505,
+    "region": "KLN",
+    "route": "37M",
+    "route_seq": 1,
+    "from": "黃大仙公共小型巴士(專綫)服務總站",
+    "to": "慈民邨(循環線)"
+  },
+  {
+    "route_id": 2004659,
+    "region": "KLN",
+    "route": "38M",
+    "route_seq": 2,
+    "from": "黃大仙站(沙田坳道)",
+    "to": "竹園(北)邨"
+  },
+  {
+    "route_id": 2004659,
+    "region": "KLN",
+    "route": "38M",
+    "route_seq": 2,
+    "from": "黃大仙站(沙田坳道)",
+    "to": "竹園(北)邨"
+  },
+  {
+    "route_id": 2004660,
+    "region": "KLN",
+    "route": "39M",
+    "route_seq": 1,
+    "from": "樂富",
+    "to": "東頭(循環線)"
+  },
+  {
+    "route_id": 2004661,
+    "region": "KLN",
+    "route": "39M",
+    "route_seq": 1,
+    "from": "樂富",
+    "to": "東頭(循環線)"
+  },
+  {
+    "route_id": 2005687,
+    "region": "KLN",
+    "route": "41A",
+    "route_seq": 1,
+    "from": "又一村",
+    "to": "石硤尾站(循環線)"
+  },
+  {
+    "route_id": 2005686,
+    "region": "KLN",
+    "route": "41M",
+    "route_seq": 1,
+    "from": "又一村",
+    "to": "石硤尾站(循環線)"
+  },
+  {
+    "route_id": 2005690,
+    "region": "KLN",
+    "route": "42",
+    "route_seq": 2,
+    "from": "澤安邨",
+    "to": "長沙灣(汝州西街)"
+  },
+  {
+    "route_id": 2005690,
+    "region": "KLN",
+    "route": "42",
+    "route_seq": 2,
+    "from": "澤安邨",
+    "to": "長沙灣(汝州西街)"
+  },
+  {
+    "route_id": 2000976,
+    "region": "KLN",
+    "route": "43M",
+    "route_seq": 1,
+    "from": "大角咀(櫻桃街)",
+    "to": "油麻地港鐵站(循環線)"
+  },
+  {
+    "route_id": 2000977,
+    "region": "KLN",
+    "route": "43M",
+    "route_seq": 1,
+    "from": "旺角(柏景灣)巴士總站",
+    "to": "油麻地港鐵站(循環線)"
+  },
+  {
+    "route_id": 2000978,
+    "region": "KLN",
+    "route": "43M",
+    "route_seq": 1,
+    "from": "旺角(柏景灣)巴士總站",
+    "to": "油麻地港鐵站(循環線)"
+  },
+  {
+    "route_id": 2000981,
+    "region": "KLN",
+    "route": "43M",
+    "route_seq": 1,
+    "from": "旺角(柏景灣)巴士總站",
+    "to": "油麻地港鐵站(循環線)"
+  },
+  {
+    "route_id": 2000982,
+    "region": "KLN",
+    "route": "43M",
+    "route_seq": 1,
+    "from": "旺角(柏景灣)巴士總站",
+    "to": "油麻地港鐵站(循環線)"
+  },
+  {
+    "route_id": 2000983,
+    "region": "KLN",
+    "route": "43M",
+    "route_seq": 1,
+    "from": "欣翔道(御金國峯)",
+    "to": "油麻地港鐵站(循環線)"
+  },
+  {
+    "route_id": 2000985,
+    "region": "KLN",
+    "route": "43M",
+    "route_seq": 1,
+    "from": "油麻地港鐵站",
+    "to": "海庭道(西九龍政府合署)"
+  },
+  {
+    "route_id": 2000986,
+    "region": "KLN",
+    "route": "43M",
+    "route_seq": 1,
+    "from": "海庭道(西九龍政府合署)",
+    "to": "油麻地港鐵站"
+  },
+  {
+    "route_id": 2010104,
+    "region": "KLN",
+    "route": "44",
+    "route_seq": 1,
+    "from": "長沙灣 (青山道)",
+    "to": "海盈邨 (循環線)"
+  },
+  {
+    "route_id": 2010137,
+    "region": "KLN",
+    "route": "44",
+    "route_seq": 1,
+    "from": "長沙灣 (青山道)",
+    "to": "海盈邨 (循環線)"
+  },
+  {
+    "route_id": 2004599,
+    "region": "KLN",
+    "route": "44A",
+    "route_seq": 2,
+    "from": "海麗邨",
+    "to": "長沙灣廣場"
+  },
+  {
+    "route_id": 2004599,
+    "region": "KLN",
+    "route": "44A",
+    "route_seq": 2,
+    "from": "海麗邨",
+    "to": "長沙灣廣場"
+  },
+  {
+    "route_id": 2004626,
+    "region": "KLN",
+    "route": "44A",
+    "route_seq": 1,
+    "from": "長沙灣廣場",
+    "to": "海盈邨(循環線)"
+  },
+  {
+    "route_id": 2004593,
+    "region": "KLN",
+    "route": "44M",
+    "route_seq": 2,
+    "from": "長沙灣(長順街)",
+    "to": "昂船洲"
+  },
+  {
+    "route_id": 2004593,
+    "region": "KLN",
+    "route": "44M",
+    "route_seq": 2,
+    "from": "長沙灣(長順街)",
+    "to": "昂船洲"
+  },
+  {
+    "route_id": 2004595,
+    "region": "KLN",
+    "route": "44M",
+    "route_seq": 1,
+    "from": "昂船洲",
+    "to": "長沙灣(長順街)"
+  },
+  {
+    "route_id": 2005022,
+    "region": "KLN",
+    "route": "44M",
+    "route_seq": 1,
+    "from": "長沙灣(長順街)",
+    "to": "昂船洲"
+  },
+  {
+    "route_id": 2004627,
+    "region": "KLN",
+    "route": "44S",
+    "route_seq": 1,
+    "from": "海麗邨",
+    "to": "青山道(循環線)"
+  },
+  {
+    "route_id": 2008819,
+    "region": "KLN",
+    "route": "45M",
+    "route_seq": 2,
+    "from": "深水埗(汝州街)",
+    "to": "明愛醫院"
+  },
+  {
+    "route_id": 2008819,
+    "region": "KLN",
+    "route": "45M",
+    "route_seq": 2,
+    "from": "深水埗(汝州街)",
+    "to": "明愛醫院"
+  },
+  {
+    "route_id": 2007233,
+    "region": "KLN",
+    "route": "46",
+    "route_seq": 2,
+    "from": "大角咀( 奧運站)",
+    "to": "麗晶花園"
+  },
+  {
+    "route_id": 2007233,
+    "region": "KLN",
+    "route": "46",
+    "route_seq": 2,
+    "from": "大角咀( 奧運站)",
+    "to": "麗晶花園"
+  },
+  {
+    "route_id": 2007234,
+    "region": "KLN",
+    "route": "46",
+    "route_seq": 1,
+    "from": "深旺道",
+    "to": "麗晶花園"
+  },
+  {
+    "route_id": 2007101,
+    "region": "KLN",
+    "route": "47",
+    "route_seq": 1,
+    "from": "順利",
+    "to": "翠屏(福塘道)(循環線)"
+  },
+  {
+    "route_id": 2007267,
+    "region": "KLN",
+    "route": "48",
+    "route_seq": 1,
+    "from": "順利",
+    "to": "九龍灣(循環線)"
+  },
+  {
+    "route_id": 2007332,
+    "region": "KLN",
+    "route": "48",
+    "route_seq": 1,
+    "from": "順利",
+    "to": "九龍灣(循環線)"
+  },
+  {
+    "route_id": 2007299,
+    "region": "KLN",
+    "route": "49",
+    "route_seq": 1,
+    "from": "順天",
+    "to": "九龍城渡輪碼頭(循環線)"
+  },
+  {
+    "route_id": 2007300,
+    "region": "KLN",
+    "route": "49M",
+    "route_seq": 1,
+    "from": "順天",
+    "to": "坪石(循環線)"
+  },
+  {
+    "route_id": 2008487,
+    "region": "KLN",
+    "route": "50",
+    "route_seq": 1,
+    "from": "基督教聯合醫院",
+    "to": "裕民坊公共運輸交匯處 (循環線)"
+  },
+  {
+    "route_id": 2007500,
+    "region": "KLN",
+    "route": "51M",
+    "route_seq": 1,
+    "from": "麗晶花園",
+    "to": "九龍灣站(循環線)"
+  },
+  {
+    "route_id": 2008000,
+    "region": "KLN",
+    "route": "52",
+    "route_seq": 2,
+    "from": "新蒲崗",
+    "to": "竹園邨"
+  },
+  {
+    "route_id": 2008000,
+    "region": "KLN",
+    "route": "52",
+    "route_seq": 2,
+    "from": "新蒲崗",
+    "to": "竹園邨"
+  },
+  {
+    "route_id": 2008001,
+    "region": "KLN",
+    "route": "53M",
+    "route_seq": 1,
+    "from": "樂富站",
+    "to": "天馬苑(金竹里)(循環線)"
+  },
+  {
+    "route_id": 2003174,
+    "region": "KLN",
+    "route": "54",
+    "route_seq": 2,
+    "from": "樂富",
+    "to": "順天"
+  },
+  {
+    "route_id": 2003174,
+    "region": "KLN",
+    "route": "54",
+    "route_seq": 2,
+    "from": "樂富",
+    "to": "順天"
+  },
+  {
+    "route_id": 2003177,
+    "region": "KLN",
+    "route": "54M",
+    "route_seq": 1,
+    "from": "順天",
+    "to": "坪石(循環線)"
+  },
+  {
+    "route_id": 2003179,
+    "region": "KLN",
+    "route": "54S",
+    "route_seq": 1,
+    "from": "順利紀律部隊宿舍",
+    "to": "黃大仙(沙田坳道)(循環線)"
+  },
+  {
+    "route_id": 2001524,
+    "region": "KLN",
+    "route": "56",
+    "route_seq": 2,
+    "from": "崇仁街",
+    "to": "麗晶花園"
+  },
+  {
+    "route_id": 2001524,
+    "region": "KLN",
+    "route": "56",
+    "route_seq": 2,
+    "from": "崇仁街",
+    "to": "麗晶花園"
+  },
+  {
+    "route_id": 2004463,
+    "region": "KLN",
+    "route": "57M",
+    "route_seq": 2,
+    "from": "伊利沙伯醫院",
+    "to": "佐敦站(南京街)"
+  },
+  {
+    "route_id": 2004463,
+    "region": "KLN",
+    "route": "57M",
+    "route_seq": 2,
+    "from": "伊利沙伯醫院",
+    "to": "佐敦站(南京街)"
+  },
+  {
+    "route_id": 2004397,
+    "region": "KLN",
+    "route": "59",
+    "route_seq": 1,
+    "from": "翠屏南邨",
+    "to": "協和街(循環線)"
+  },
+  {
+    "route_id": 2004857,
+    "region": "KLN",
+    "route": "59",
+    "route_seq": 1,
+    "from": "翠屏南邨",
+    "to": "協和街(循環線)"
+  },
+  {
+    "route_id": 2004398,
+    "region": "KLN",
+    "route": "59M",
+    "route_seq": 1,
+    "from": "翠屏南邨",
+    "to": "福塘道(循環線)"
+  },
+  {
+    "route_id": 2003537,
+    "region": "KLN",
+    "route": "5M",
+    "route_seq": 1,
+    "from": "窩打老道山(學餘里)",
+    "to": "旺角站(循環線)"
+  },
+  {
+    "route_id": 2003538,
+    "region": "KLN",
+    "route": "5M",
+    "route_seq": 1,
+    "from": "窩打老道山(學餘里)",
+    "to": "旺角站(循環線)(經花園街)"
+  },
+  {
+    "route_id": 2003570,
+    "region": "KLN",
+    "route": "5M",
+    "route_seq": 1,
+    "from": "窩打老道山(學餘里)",
+    "to": "旺角站(循環線)(經亞皆老街)"
+  },
+  {
+    "route_id": 2006012,
+    "region": "KLN",
+    "route": "60",
+    "route_seq": 1,
+    "from": "藍田",
+    "to": "順利邨(循環線)"
+  },
+  {
+    "route_id": 2004395,
+    "region": "KLN",
+    "route": "62S",
+    "route_seq": 2,
+    "from": "尖沙咀",
+    "to": "藍田(廣田邨)"
+  },
+  {
+    "route_id": 2004395,
+    "region": "KLN",
+    "route": "62S",
+    "route_seq": 2,
+    "from": "尖沙咀",
+    "to": "藍田(廣田邨)"
+  },
+  {
+    "route_id": 2004396,
+    "region": "KLN",
+    "route": "63",
+    "route_seq": 1,
+    "from": "藍田(廣田邨)",
+    "to": "裕民坊公共運輸交匯處 (循環線)"
+  },
+  {
+    "route_id": 2007433,
+    "region": "KLN",
+    "route": "66S",
+    "route_seq": 2,
+    "from": "旺角",
+    "to": "斧山道"
+  },
+  {
+    "route_id": 2007433,
+    "region": "KLN",
+    "route": "66S",
+    "route_seq": 2,
+    "from": "旺角",
+    "to": "斧山道"
+  },
+  {
+    "route_id": 2007926,
+    "region": "KLN",
+    "route": "68",
+    "route_seq": 1,
+    "from": "彩雲邨",
+    "to": "九龍灣(循環線)"
+  },
+  {
+    "route_id": 2006936,
+    "region": "KLN",
+    "route": "69",
+    "route_seq": 2,
+    "from": "九龍城(獅子石道)",
+    "to": "麗港城"
+  },
+  {
+    "route_id": 2006936,
+    "region": "KLN",
+    "route": "69",
+    "route_seq": 2,
+    "from": "九龍城(獅子石道)",
+    "to": "麗港城"
+  },
+  {
+    "route_id": 2007035,
+    "region": "KLN",
+    "route": "69",
+    "route_seq": 1,
+    "from": "麗港城",
+    "to": "九龍城(獅子石道)"
+  },
+  {
+    "route_id": 2007169,
+    "region": "KLN",
+    "route": "69",
+    "route_seq": 2,
+    "from": "九龍灣 (零碳天地)",
+    "to": "麗港城"
+  },
+  {
+    "route_id": 2007169,
+    "region": "KLN",
+    "route": "69",
+    "route_seq": 2,
+    "from": "九龍灣 (零碳天地)",
+    "to": "麗港城"
+  },
+  {
+    "route_id": 2007068,
+    "region": "KLN",
+    "route": "69A",
+    "route_seq": 2,
+    "from": "通菜街",
+    "to": "麗港城"
+  },
+  {
+    "route_id": 2007068,
+    "region": "KLN",
+    "route": "69A",
+    "route_seq": 2,
+    "from": "通菜街",
+    "to": "麗港城"
+  },
+  {
+    "route_id": 2007168,
+    "region": "KLN",
+    "route": "69A",
+    "route_seq": 1,
+    "from": "麗港城",
+    "to": "通菜街"
+  },
+  {
+    "route_id": 2008850,
+    "region": "KLN",
+    "route": "70",
+    "route_seq": 2,
+    "from": "大角咀(維港灣)",
+    "to": "鑽石山站公共運輸交匯處"
+  },
+  {
+    "route_id": 2008850,
+    "region": "KLN",
+    "route": "70",
+    "route_seq": 2,
+    "from": "大角咀(維港灣)",
+    "to": "鑽石山站公共運輸交匯處"
+  },
+  {
+    "route_id": 2008883,
+    "region": "KLN",
+    "route": "70A",
+    "route_seq": 2,
+    "from": "奧運站交通交匯處",
+    "to": "鑽石山站公共運輸交匯處"
+  },
+  {
+    "route_id": 2008883,
+    "region": "KLN",
+    "route": "70A",
+    "route_seq": 2,
+    "from": "奧運站交通交匯處",
+    "to": "鑽石山站公共運輸交匯處"
+  },
+  {
+    "route_id": 2008289,
+    "region": "KLN",
+    "route": "71A",
+    "route_seq": 1,
+    "from": "寶達邨",
+    "to": "藍田站 (循環線)"
+  },
+  {
+    "route_id": 2008291,
+    "region": "KLN",
+    "route": "71B",
+    "route_seq": 2,
+    "from": "藍田站",
+    "to": "秀茂坪邨 (第5期)"
+  },
+  {
+    "route_id": 2008291,
+    "region": "KLN",
+    "route": "71B",
+    "route_seq": 2,
+    "from": "藍田站",
+    "to": "秀茂坪邨 (第5期)"
+  },
+  {
+    "route_id": 2005880,
+    "region": "KLN",
+    "route": "72",
+    "route_seq": 2,
+    "from": "又一城公共交通總站",
+    "to": "宏景花園"
+  },
+  {
+    "route_id": 2005880,
+    "region": "KLN",
+    "route": "72",
+    "route_seq": 2,
+    "from": "又一城公共交通總站",
+    "to": "宏景花園"
+  },
+  {
+    "route_id": 2008916,
+    "region": "KLN",
+    "route": "73",
+    "route_seq": 1,
+    "from": "又一城公共交通總站",
+    "to": "慈雲山中心 (循環線)"
+  },
+  {
+    "route_id": 2005385,
+    "region": "KLN",
+    "route": "74",
+    "route_seq": 1,
+    "from": "九龍站",
+    "to": "旺角(聯運街)(循環線)"
+  },
+  {
+    "route_id": 2005386,
+    "region": "KLN",
+    "route": "74S",
+    "route_seq": 1,
+    "from": "九龍站",
+    "to": "何文田山道(循環線)"
+  },
+  {
+    "route_id": 2003372,
+    "region": "KLN",
+    "route": "75",
+    "route_seq": 1,
+    "from": "深水埗(富昌邨)",
+    "to": "長沙灣(青山道)(循環線)"
+  },
+  {
+    "route_id": 2003373,
+    "region": "KLN",
+    "route": "75A",
+    "route_seq": 1,
+    "from": "深水埗(富昌邨)",
+    "to": "桂林街(循環線)"
+  },
+  {
+    "route_id": 2009412,
+    "region": "KLN",
+    "route": "75C",
+    "route_seq": 2,
+    "from": "深水埗 (桂林街)",
+    "to": "海達公共運輸交匯處"
+  },
+  {
+    "route_id": 2009412,
+    "region": "KLN",
+    "route": "75C",
+    "route_seq": 2,
+    "from": "深水埗 (桂林街)",
+    "to": "海達公共運輸交匯處"
+  },
+  {
+    "route_id": 2009411,
+    "region": "KLN",
+    "route": "75M",
+    "route_seq": 2,
+    "from": "⻑沙灣 (青山道)",
+    "to": "海達公共運輸交匯處"
+  },
+  {
+    "route_id": 2009411,
+    "region": "KLN",
+    "route": "75M",
+    "route_seq": 2,
+    "from": "⻑沙灣 (青山道)",
+    "to": "海達公共運輸交匯處"
+  },
+  {
+    "route_id": 2006969,
+    "region": "KLN",
+    "route": "76A",
+    "route_seq": 1,
+    "from": "廣田",
+    "to": "基督教聯合醫院(循環線)"
+  },
+  {
+    "route_id": 2007002,
+    "region": "KLN",
+    "route": "76B",
+    "route_seq": 2,
+    "from": "油塘公共運輸交匯處",
+    "to": "基督教聯合醫院"
+  },
+  {
+    "route_id": 2007002,
+    "region": "KLN",
+    "route": "76B",
+    "route_seq": 2,
+    "from": "油塘公共運輸交匯處",
+    "to": "基督教聯合醫院"
+  },
+  {
+    "route_id": 2003339,
+    "region": "KLN",
+    "route": "77M",
+    "route_seq": 1,
+    "from": "九龍站",
+    "to": "尖東(循環線)"
+  },
+  {
+    "route_id": 2003438,
+    "region": "KLN",
+    "route": "78",
+    "route_seq": 1,
+    "from": "大角咀(維港灣)公共運輸交匯處",
+    "to": "尖沙咀(北京道)(循環線)"
+  },
+  {
+    "route_id": 2003471,
+    "region": "KLN",
+    "route": "78A",
+    "route_seq": 1,
+    "from": "大角咀(維港灣)公共運輸交匯處",
+    "to": "尖沙咀(北京道)"
+  },
+  {
+    "route_id": 2004725,
+    "region": "KLN",
+    "route": "79K",
+    "route_seq": 1,
+    "from": "旺角(柏景灣)",
+    "to": "旺角東站(循環線)"
+  },
+  {
+    "route_id": 2004759,
+    "region": "KLN",
+    "route": "79M",
+    "route_seq": 2,
+    "from": "黃大仙站",
+    "to": "瓊東街"
+  },
+  {
+    "route_id": 2004759,
+    "region": "KLN",
+    "route": "79M",
+    "route_seq": 2,
+    "from": "黃大仙站",
+    "to": "瓊東街"
+  },
+  {
+    "route_id": 2004760,
+    "region": "KLN",
+    "route": "79S",
+    "route_seq": 1,
+    "from": "瓊東街",
+    "to": "龍翔道(鑽石山站)(循環線)"
+  },
+  {
+    "route_id": 2006309,
+    "region": "KLN",
+    "route": "8",
+    "route_seq": 2,
+    "from": "何文田邨",
+    "to": "尖沙咀(漢口道)"
+  },
+  {
+    "route_id": 2006309,
+    "region": "KLN",
+    "route": "8",
+    "route_seq": 2,
+    "from": "何文田邨",
+    "to": "尖沙咀(漢口道)"
+  },
+  {
+    "route_id": 2006312,
+    "region": "KLN",
+    "route": "8",
+    "route_seq": 2,
+    "from": "何文田(忠孝街)",
+    "to": "尖沙咀(漢口道)"
+  },
+  {
+    "route_id": 2006312,
+    "region": "KLN",
+    "route": "8",
+    "route_seq": 2,
+    "from": "何文田(忠孝街)",
+    "to": "尖沙咀(漢口道)"
+  },
+  {
+    "route_id": 2006314,
+    "region": "KLN",
+    "route": "8",
+    "route_seq": 1,
+    "from": "尖沙咀(漢口道)",
+    "to": "何文田邨"
+  },
+  {
+    "route_id": 2001557,
+    "region": "KLN",
+    "route": "80M",
+    "route_seq": 1,
+    "from": "君頤峰",
+    "to": "佐敦站 (循環線)"
+  },
+  {
+    "route_id": 2001755,
+    "region": "KLN",
+    "route": "81K",
+    "route_seq": 1,
+    "from": "深水埗海麗邨",
+    "to": "美孚站(循環線)"
+  },
+  {
+    "route_id": 2001558,
+    "region": "KLN",
+    "route": "82",
+    "route_seq": 2,
+    "from": "啟德",
+    "to": "明愛樂恩學校"
+  },
+  {
+    "route_id": 2001558,
+    "region": "KLN",
+    "route": "82",
+    "route_seq": 2,
+    "from": "啟德",
+    "to": "明愛樂恩學校"
+  },
+  {
+    "route_id": 2010038,
+    "region": "KLN",
+    "route": "82",
+    "route_seq": 1,
+    "from": "彩興苑",
+    "to": "坪石一樓公共運輸交匯處"
+  },
+  {
+    "route_id": 2008818,
+    "region": "KLN",
+    "route": "83A",
+    "route_seq": 2,
+    "from": "坪石",
+    "to": "彩福邨"
+  },
+  {
+    "route_id": 2008818,
+    "region": "KLN",
+    "route": "83A",
+    "route_seq": 2,
+    "from": "坪石",
+    "to": "彩福邨"
+  },
+  {
+    "route_id": 2008817,
+    "region": "KLN",
+    "route": "83M",
+    "route_seq": 2,
+    "from": "坪石",
+    "to": "牛頭角(安華街)"
+  },
+  {
+    "route_id": 2008817,
+    "region": "KLN",
+    "route": "83M",
+    "route_seq": 2,
+    "from": "坪石",
+    "to": "牛頭角(安華街)"
+  },
+  {
+    "route_id": 2005319,
+    "region": "KLN",
+    "route": "86",
+    "route_seq": 1,
+    "from": "郵輪碼頭",
+    "to": "九龍灣(德福花園)(循環線)"
+  },
+  {
+    "route_id": 2008520,
+    "region": "KLN",
+    "route": "87",
+    "route_seq": 1,
+    "from": "鯉魚門邨",
+    "to": "九龍灣(啟仁街)(循環線)"
+  },
+  {
+    "route_id": 2004428,
+    "region": "KLN",
+    "route": "88",
+    "route_seq": 1,
+    "from": "啟晴邨(啟德)",
+    "to": "黃大仙站(循環線)"
+  },
+  {
+    "route_id": 2001031,
+    "region": "KLN",
+    "route": "89A",
+    "route_seq": 2,
+    "from": "牛頭角總站",
+    "to": "安泰邨"
+  },
+  {
+    "route_id": 2001031,
+    "region": "KLN",
+    "route": "89A",
+    "route_seq": 2,
+    "from": "牛頭角總站",
+    "to": "安泰邨"
+  },
+  {
+    "route_id": 2000974,
+    "region": "KLN",
+    "route": "89B",
+    "route_seq": 2,
+    "from": "九龍灣（零碳天地）",
+    "to": "安泰邨"
+  },
+  {
+    "route_id": 2000974,
+    "region": "KLN",
+    "route": "89B",
+    "route_seq": 2,
+    "from": "九龍灣（零碳天地）",
+    "to": "安泰邨"
+  },
+  {
+    "route_id": 2001033,
+    "region": "KLN",
+    "route": "89C",
+    "route_seq": 2,
+    "from": "牛頭角總站",
+    "to": "安達邨"
+  },
+  {
+    "route_id": 2001033,
+    "region": "KLN",
+    "route": "89C",
+    "route_seq": 2,
+    "from": "牛頭角總站",
+    "to": "安達邨"
+  },
+  {
+    "route_id": 2001035,
+    "region": "KLN",
+    "route": "89C",
+    "route_seq": 2,
+    "from": "牛頭角總站",
+    "to": "安達邨"
+  },
+  {
+    "route_id": 2001035,
+    "region": "KLN",
+    "route": "89C",
+    "route_seq": 2,
+    "from": "牛頭角總站",
+    "to": "安達邨"
+  },
+  {
+    "route_id": 2006318,
+    "region": "KLN",
+    "route": "8M",
+    "route_seq": 2,
+    "from": "何文田站",
+    "to": "何文田(常和街)"
+  },
+  {
+    "route_id": 2006318,
+    "region": "KLN",
+    "route": "8M",
+    "route_seq": 2,
+    "from": "何文田站",
+    "to": "何文田(常和街)"
+  },
+  {
+    "route_id": 2006315,
+    "region": "KLN",
+    "route": "8S",
+    "route_seq": 2,
+    "from": "何文田(常富街)",
+    "to": "尖沙咀(漢口道)"
+  },
+  {
+    "route_id": 2006315,
+    "region": "KLN",
+    "route": "8S",
+    "route_seq": 2,
+    "from": "何文田(常富街)",
+    "to": "尖沙咀(漢口道)"
+  },
+  {
+    "route_id": 2006317,
+    "region": "KLN",
+    "route": "8S",
+    "route_seq": 1,
+    "from": "尖沙咀(漢口道)",
+    "to": "何文田(常富街)"
+  },
+  {
+    "route_id": 2008586,
+    "region": "KLN",
+    "route": "90A",
+    "route_seq": 2,
+    "from": "香港兒童醫院",
+    "to": "油塘 (油麗邨)"
+  },
+  {
+    "route_id": 2008586,
+    "region": "KLN",
+    "route": "90A",
+    "route_seq": 2,
+    "from": "香港兒童醫院",
+    "to": "油塘 (油麗邨)"
+  },
+  {
+    "route_id": 2008590,
+    "region": "KLN",
+    "route": "90A",
+    "route_seq": 1,
+    "from": "香港兒童醫院",
+    "to": "油塘 (油麗邨) 經高超道及鯉魚門道"
+  },
+  {
+    "route_id": 2008592,
+    "region": "KLN",
+    "route": "90B",
+    "route_seq": 2,
+    "from": "香港兒童醫院",
+    "to": "秀茂坪"
+  },
+  {
+    "route_id": 2008592,
+    "region": "KLN",
+    "route": "90B",
+    "route_seq": 2,
+    "from": "香港兒童醫院",
+    "to": "秀茂坪"
+  },
+  {
+    "route_id": 2004362,
+    "region": "KLN",
+    "route": "9M",
+    "route_seq": 1,
+    "from": "白田上邨",
+    "to": "石硤尾站(循環線)"
+  },
+  {
+    "route_id": 2009642,
+    "region": "KLN",
+    "route": "CX1",
+    "route_seq": 1,
+    "from": "柯士甸站",
+    "to": "香港故宮文化博物館 (循環線)"
+  },
+  {
+    "route_id": 2002337,
+    "region": "NT",
+    "route": "1",
+    "route_seq": 2,
+    "from": "九龍灣(德福花園)",
+    "to": "西貢"
+  },
+  {
+    "route_id": 2002337,
+    "region": "NT",
+    "route": "1",
+    "route_seq": 2,
+    "from": "九龍灣(德福花園)",
+    "to": "西貢"
+  },
+  {
+    "route_id": 2003240,
+    "region": "NT",
+    "route": "101M",
+    "route_seq": 2,
+    "from": "西貢",
+    "to": "坑口站"
+  },
+  {
+    "route_id": 2003240,
+    "region": "NT",
+    "route": "101M",
+    "route_seq": 2,
+    "from": "西貢",
+    "to": "坑口站"
+  },
+  {
+    "route_id": 2003242,
+    "region": "NT",
+    "route": "101M",
+    "route_seq": 1,
+    "from": "經西貢北公共運輸交匯處 (西貢)",
+    "to": "坑口站"
+  },
+  {
+    "route_id": 2003243,
+    "region": "NT",
+    "route": "101M",
+    "route_seq": 1,
+    "from": "白沙灣",
+    "to": "坑口"
+  },
+  {
+    "route_id": 2005451,
+    "region": "NT",
+    "route": "101M",
+    "route_seq": 1,
+    "from": "翠塘花園",
+    "to": "坑口"
+  },
+  {
+    "route_id": 2005452,
+    "region": "NT",
+    "route": "101M",
+    "route_seq": 1,
+    "from": "菠蘿輋",
+    "to": "坑口"
+  },
+  {
+    "route_id": 2005453,
+    "region": "NT",
+    "route": "101M",
+    "route_seq": 1,
+    "from": "匡湖居",
+    "to": "坑口"
+  },
+  {
+    "route_id": 2003801,
+    "region": "NT",
+    "route": "102",
+    "route_seq": 2,
+    "from": "新蒲崗",
+    "to": "坑口站"
+  },
+  {
+    "route_id": 2003801,
+    "region": "NT",
+    "route": "102",
+    "route_seq": 2,
+    "from": "新蒲崗",
+    "to": "坑口站"
+  },
+  {
+    "route_id": 2003834,
+    "region": "NT",
+    "route": "102",
+    "route_seq": 1,
+    "from": "新蒲崗",
+    "to": "坑口站"
+  },
+  {
+    "route_id": 2006804,
+    "region": "NT",
+    "route": "102",
+    "route_seq": 1,
+    "from": "坑口站",
+    "to": "新蒲崗"
+  },
+  {
+    "route_id": 2003835,
+    "region": "NT",
+    "route": "102B",
+    "route_seq": 1,
+    "from": "煜明苑",
+    "to": "彩虹(循環線)"
+  },
+  {
+    "route_id": 2003900,
+    "region": "NT",
+    "route": "102S",
+    "route_seq": 2,
+    "from": "新蒲崗",
+    "to": "坑口站公共運輸交匯處"
+  },
+  {
+    "route_id": 2003900,
+    "region": "NT",
+    "route": "102S",
+    "route_seq": 2,
+    "from": "新蒲崗",
+    "to": "坑口站公共運輸交匯處"
+  },
+  {
+    "route_id": 2007134,
+    "region": "NT",
+    "route": "103",
+    "route_seq": 2,
+    "from": "觀塘碼頭",
+    "to": "清水灣"
+  },
+  {
+    "route_id": 2007134,
+    "region": "NT",
+    "route": "103",
+    "route_seq": 2,
+    "from": "觀塘碼頭",
+    "to": "清水灣"
+  },
+  {
+    "route_id": 2007167,
+    "region": "NT",
+    "route": "103",
+    "route_seq": 1,
+    "from": "觀塘碼頭",
+    "to": "清水灣"
+  },
+  {
+    "route_id": 2007201,
+    "region": "NT",
+    "route": "103M",
+    "route_seq": 2,
+    "from": "清水灣",
+    "to": "將軍澳站公共運輸交匯處"
+  },
+  {
+    "route_id": 2007201,
+    "region": "NT",
+    "route": "103M",
+    "route_seq": 2,
+    "from": "清水灣",
+    "to": "將軍澳站公共運輸交匯處"
+  },
+  {
+    "route_id": 2007200,
+    "region": "NT",
+    "route": "104",
+    "route_seq": 1,
+    "from": "香港科技大學(南站)",
+    "to": "觀塘(循環線)"
+  },
+  {
+    "route_id": 2006606,
+    "region": "NT",
+    "route": "105",
+    "route_seq": 2,
+    "from": "康盛花園",
+    "to": "土瓜灣"
+  },
+  {
+    "route_id": 2006606,
+    "region": "NT",
+    "route": "105",
+    "route_seq": 2,
+    "from": "康盛花園",
+    "to": "土瓜灣"
+  },
+  {
+    "route_id": 2002945,
+    "region": "NT",
+    "route": "106",
+    "route_seq": 2,
+    "from": "九龍灣",
+    "to": "寶琳"
+  },
+  {
+    "route_id": 2002945,
+    "region": "NT",
+    "route": "106",
+    "route_seq": 2,
+    "from": "九龍灣",
+    "to": "寶琳"
+  },
+  {
+    "route_id": 2003010,
+    "region": "NT",
+    "route": "106",
+    "route_seq": 1,
+    "from": "九龍灣",
+    "to": "寶琳"
+  },
+  {
+    "route_id": 2002910,
+    "region": "NT",
+    "route": "107",
+    "route_seq": 1,
+    "from": "靈實醫院",
+    "to": "寶琳公共運輸交匯處"
+  },
+  {
+    "route_id": 2000993,
+    "region": "NT",
+    "route": "108A",
+    "route_seq": 2,
+    "from": "坑口（北）",
+    "to": "彩明公共運輸交匯處"
+  },
+  {
+    "route_id": 2000993,
+    "region": "NT",
+    "route": "108A",
+    "route_seq": 2,
+    "from": "坑口（北）",
+    "to": "彩明公共運輸交匯處"
+  },
+  {
+    "route_id": 2002350,
+    "region": "NT",
+    "route": "109M",
+    "route_seq": 2,
+    "from": "坑口站",
+    "to": "清水灣半島"
+  },
+  {
+    "route_id": 2002350,
+    "region": "NT",
+    "route": "109M",
+    "route_seq": 2,
+    "from": "坑口站",
+    "to": "清水灣半島"
+  },
+  {
+    "route_id": 2007596,
+    "region": "NT",
+    "route": "10M",
+    "route_seq": 2,
+    "from": "觀塘(裕民坊)",
+    "to": "慧安園"
+  },
+  {
+    "route_id": 2007596,
+    "region": "NT",
+    "route": "10M",
+    "route_seq": 2,
+    "from": "觀塘(裕民坊)",
+    "to": "慧安園"
+  },
+  {
+    "route_id": 2004791,
+    "region": "NT",
+    "route": "11",
+    "route_seq": 2,
+    "from": "彩虹站(龍翔道)",
+    "to": "坑口村"
+  },
+  {
+    "route_id": 2004791,
+    "region": "NT",
+    "route": "11",
+    "route_seq": 2,
+    "from": "彩虹站(龍翔道)",
+    "to": "坑口村"
+  },
+  {
+    "route_id": 2007631,
+    "region": "NT",
+    "route": "110",
+    "route_seq": 1,
+    "from": "調景嶺站公共運輸交匯處",
+    "to": "九龍城(循環線)"
+  },
+  {
+    "route_id": 2007662,
+    "region": "NT",
+    "route": "110A",
+    "route_seq": 2,
+    "from": "九龍灣(啓祥道)",
+    "to": "調景嶺站公共運輸交匯處"
+  },
+  {
+    "route_id": 2007662,
+    "region": "NT",
+    "route": "110A",
+    "route_seq": 2,
+    "from": "九龍灣(啓祥道)",
+    "to": "調景嶺站公共運輸交匯處"
+  },
+  {
+    "route_id": 2003867,
+    "region": "NT",
+    "route": "111",
+    "route_seq": 2,
+    "from": "新蒲崗",
+    "to": "寶琳"
+  },
+  {
+    "route_id": 2003867,
+    "region": "NT",
+    "route": "111",
+    "route_seq": 2,
+    "from": "新蒲崗",
+    "to": "寶琳"
+  },
+  {
+    "route_id": 2007366,
+    "region": "NT",
+    "route": "112A",
+    "route_seq": 2,
+    "from": "峻瀅",
+    "to": "康城站公共運輸交匯處"
+  },
+  {
+    "route_id": 2007366,
+    "region": "NT",
+    "route": "112A",
+    "route_seq": 2,
+    "from": "峻瀅",
+    "to": "康城站公共運輸交匯處"
+  },
+  {
+    "route_id": 2007365,
+    "region": "NT",
+    "route": "112M",
+    "route_seq": 2,
+    "from": "將軍澳工業邨",
+    "to": "康城站公共運輸交匯處"
+  },
+  {
+    "route_id": 2007365,
+    "region": "NT",
+    "route": "112M",
+    "route_seq": 2,
+    "from": "將軍澳工業邨",
+    "to": "康城站公共運輸交匯處"
+  },
+  {
+    "route_id": 2007367,
+    "region": "NT",
+    "route": "112S",
+    "route_seq": 2,
+    "from": "將軍澳工業邨",
+    "to": "將軍澳站公共運輸交匯處"
+  },
+  {
+    "route_id": 2007367,
+    "region": "NT",
+    "route": "112S",
+    "route_seq": 2,
+    "from": "將軍澳工業邨",
+    "to": "將軍澳站公共運輸交匯處"
+  },
+  {
+    "route_id": 2007368,
+    "region": "NT",
+    "route": "113",
+    "route_seq": 1,
+    "from": "峻瀅",
+    "to": "坑口站公共運輸交匯處(循環線)"
+  },
+  {
+    "route_id": 2005122,
+    "region": "NT",
+    "route": "114A",
+    "route_seq": 1,
+    "from": "將軍澳站",
+    "to": "海天晉(循環線)"
+  },
+  {
+    "route_id": 2005155,
+    "region": "NT",
+    "route": "114A",
+    "route_seq": 1,
+    "from": "將軍澳站",
+    "to": "海天晉(循環線)"
+  },
+  {
+    "route_id": 2005187,
+    "region": "NT",
+    "route": "114B",
+    "route_seq": 1,
+    "from": "調景嶺站公共運輸交匯處",
+    "to": "藍塘傲(循環線)"
+  },
+  {
+    "route_id": 2002943,
+    "region": "NT",
+    "route": "115",
+    "route_seq": 2,
+    "from": "駿昌街",
+    "to": "寶琳"
+  },
+  {
+    "route_id": 2002943,
+    "region": "NT",
+    "route": "115",
+    "route_seq": 2,
+    "from": "駿昌街",
+    "to": "寶琳"
+  },
+  {
+    "route_id": 2009609,
+    "region": "NT",
+    "route": "116",
+    "route_seq": 1,
+    "from": "百勝角",
+    "to": "將軍澳站 (循環線)"
+  },
+  {
+    "route_id": 2004824,
+    "region": "NT",
+    "route": "11A",
+    "route_seq": 2,
+    "from": "坑口站公共運輸交匯處",
+    "to": "坑口村"
+  },
+  {
+    "route_id": 2004824,
+    "region": "NT",
+    "route": "11A",
+    "route_seq": 2,
+    "from": "坑口站公共運輸交匯處",
+    "to": "坑口村"
+  },
+  {
+    "route_id": 2004827,
+    "region": "NT",
+    "route": "11B",
+    "route_seq": 2,
+    "from": "彩虹站(龍翔道)",
+    "to": "香港科技大學(北站)"
+  },
+  {
+    "route_id": 2004827,
+    "region": "NT",
+    "route": "11B",
+    "route_seq": 2,
+    "from": "彩虹站(龍翔道)",
+    "to": "香港科技大學(北站)"
+  },
+  {
+    "route_id": 2004828,
+    "region": "NT",
+    "route": "11B",
+    "route_seq": 1,
+    "from": "香港科技大學(南站)",
+    "to": "彩虹站(龍翔道)"
+  },
+  {
+    "route_id": 2004825,
+    "region": "NT",
+    "route": "11M",
+    "route_seq": 2,
+    "from": "香港科技大學(北站)",
+    "to": "坑口站公共運輸交匯處"
+  },
+  {
+    "route_id": 2004825,
+    "region": "NT",
+    "route": "11M",
+    "route_seq": 2,
+    "from": "香港科技大學(北站)",
+    "to": "坑口站公共運輸交匯處"
+  },
+  {
+    "route_id": 2004826,
+    "region": "NT",
+    "route": "11S",
+    "route_seq": 2,
+    "from": "彩虹站(龍翔道)",
+    "to": "寶琳"
+  },
+  {
+    "route_id": 2004826,
+    "region": "NT",
+    "route": "11S",
+    "route_seq": 2,
+    "from": "彩虹站(龍翔道)",
+    "to": "寶琳"
+  },
+  {
+    "route_id": 2004763,
+    "region": "NT",
+    "route": "12",
+    "route_seq": 1,
+    "from": "寶琳",
+    "to": "順利"
+  },
+  {
+    "route_id": 2004764,
+    "region": "NT",
+    "route": "12",
+    "route_seq": 2,
+    "from": "寶琳",
+    "to": "西貢"
+  },
+  {
+    "route_id": 2004764,
+    "region": "NT",
+    "route": "12",
+    "route_seq": 2,
+    "from": "寶琳",
+    "to": "西貢"
+  },
+  {
+    "route_id": 2007629,
+    "region": "NT",
+    "route": "13",
+    "route_seq": 2,
+    "from": "觀塘(裕民坊)",
+    "to": "康盛花園"
+  },
+  {
+    "route_id": 2007629,
+    "region": "NT",
+    "route": "13",
+    "route_seq": 2,
+    "from": "觀塘(裕民坊)",
+    "to": "康盛花園"
+  },
+  {
+    "route_id": 2004598,
+    "region": "NT",
+    "route": "140M",
+    "route_seq": 2,
+    "from": "青衣站",
+    "to": "屯門(恒福花園)"
+  },
+  {
+    "route_id": 2004598,
+    "region": "NT",
+    "route": "140M",
+    "route_seq": 2,
+    "from": "青衣站",
+    "to": "屯門(恒福花園)"
+  },
+  {
+    "route_id": 2006609,
+    "region": "NT",
+    "route": "15",
+    "route_seq": 2,
+    "from": "康盛",
+    "to": "坑口"
+  },
+  {
+    "route_id": 2006609,
+    "region": "NT",
+    "route": "15",
+    "route_seq": 2,
+    "from": "康盛",
+    "to": "坑口"
+  },
+  {
+    "route_id": 2006610,
+    "region": "NT",
+    "route": "15",
+    "route_seq": 1,
+    "from": "翠林",
+    "to": "坑口（重華路）（循環線）"
+  },
+  {
+    "route_id": 2006611,
+    "region": "NT",
+    "route": "15A",
+    "route_seq": 2,
+    "from": "茵怡花園",
+    "to": "坑口(北)"
+  },
+  {
+    "route_id": 2006611,
+    "region": "NT",
+    "route": "15A",
+    "route_seq": 2,
+    "from": "茵怡花園",
+    "to": "坑口(北)"
+  },
+  {
+    "route_id": 2006612,
+    "region": "NT",
+    "route": "15A",
+    "route_seq": 2,
+    "from": "新都城2期",
+    "to": "坑口(寶寧里)"
+  },
+  {
+    "route_id": 2006612,
+    "region": "NT",
+    "route": "15A",
+    "route_seq": 2,
+    "from": "新都城2期",
+    "to": "坑口(寶寧里)"
+  },
+  {
+    "route_id": 2006639,
+    "region": "NT",
+    "route": "15M",
+    "route_seq": 2,
+    "from": "康盛",
+    "to": "寶琳站"
+  },
+  {
+    "route_id": 2006639,
+    "region": "NT",
+    "route": "15M",
+    "route_seq": 2,
+    "from": "康盛",
+    "to": "寶琳站"
+  },
+  {
+    "route_id": 2006640,
+    "region": "NT",
+    "route": "15M",
+    "route_seq": 1,
+    "from": "康盛",
+    "to": "寶琳站"
+  },
+  {
+    "route_id": 2006641,
+    "region": "NT",
+    "route": "16",
+    "route_seq": 2,
+    "from": "布袋澳",
+    "to": "寶琳"
+  },
+  {
+    "route_id": 2006641,
+    "region": "NT",
+    "route": "16",
+    "route_seq": 2,
+    "from": "布袋澳",
+    "to": "寶琳"
+  },
+  {
+    "route_id": 2006672,
+    "region": "NT",
+    "route": "16",
+    "route_seq": 2,
+    "from": "大坳門",
+    "to": "坑口(重華路)"
+  },
+  {
+    "route_id": 2006672,
+    "region": "NT",
+    "route": "16",
+    "route_seq": 2,
+    "from": "大坳門",
+    "to": "坑口(重華路)"
+  },
+  {
+    "route_id": 2006673,
+    "region": "NT",
+    "route": "17",
+    "route_seq": 2,
+    "from": "藍田站",
+    "to": "翠林"
+  },
+  {
+    "route_id": 2006673,
+    "region": "NT",
+    "route": "17",
+    "route_seq": 2,
+    "from": "藍田站",
+    "to": "翠林"
+  },
+  {
+    "route_id": 2006674,
+    "region": "NT",
+    "route": "17A",
+    "route_seq": 2,
+    "from": "寶康路",
+    "to": "寶琳站"
+  },
+  {
+    "route_id": 2006674,
+    "region": "NT",
+    "route": "17A",
+    "route_seq": 2,
+    "from": "寶康路",
+    "to": "寶琳站"
+  },
+  {
+    "route_id": 2006675,
+    "region": "NT",
+    "route": "17M",
+    "route_seq": 2,
+    "from": "翠林",
+    "to": "寶琳站"
+  },
+  {
+    "route_id": 2006675,
+    "region": "NT",
+    "route": "17M",
+    "route_seq": 2,
+    "from": "翠林",
+    "to": "寶琳站"
+  },
+  {
+    "route_id": 2006676,
+    "region": "NT",
+    "route": "17M",
+    "route_seq": 1,
+    "from": "翠林",
+    "to": "寶琳站(經康寶路)"
+  },
+  {
+    "route_id": 2002355,
+    "region": "NT",
+    "route": "1A",
+    "route_seq": 2,
+    "from": "鑽石山(彩虹道)公共運輸交匯處",
+    "to": "西貢"
+  },
+  {
+    "route_id": 2002355,
+    "region": "NT",
+    "route": "1A",
+    "route_seq": 2,
+    "from": "鑽石山(彩虹道)公共運輸交匯處",
+    "to": "西貢"
+  },
+  {
+    "route_id": 2002357,
+    "region": "NT",
+    "route": "1A",
+    "route_seq": 1,
+    "from": "白沙灣",
+    "to": "鑽石山(彩虹道)公共運輸交匯處"
+  },
+  {
+    "route_id": 2002358,
+    "region": "NT",
+    "route": "1A",
+    "route_seq": 1,
+    "from": "灰窰里",
+    "to": "鑽石山(彩虹道)公共運輸交匯處"
+  },
+  {
+    "route_id": 2002359,
+    "region": "NT",
+    "route": "1A",
+    "route_seq": 1,
+    "from": "西貢北",
+    "to": "鑽石山(彩虹道)公共運輸交匯處"
+  },
+  {
+    "route_id": 2002352,
+    "region": "NT",
+    "route": "1S",
+    "route_seq": 2,
+    "from": "鑽石山(彩虹道)公共運輸交匯處",
+    "to": "西貢"
+  },
+  {
+    "route_id": 2002352,
+    "region": "NT",
+    "route": "1S",
+    "route_seq": 2,
+    "from": "鑽石山(彩虹道)公共運輸交匯處",
+    "to": "西貢"
+  },
+  {
+    "route_id": 2002342,
+    "region": "NT",
+    "route": "2",
+    "route_seq": 2,
+    "from": "蠔涌",
+    "to": "西貢"
+  },
+  {
+    "route_id": 2002342,
+    "region": "NT",
+    "route": "2",
+    "route_seq": 2,
+    "from": "蠔涌",
+    "to": "西貢"
+  },
+  {
+    "route_id": 2002344,
+    "region": "NT",
+    "route": "2",
+    "route_seq": 1,
+    "from": "北港",
+    "to": "西貢"
+  },
+  {
+    "route_id": 2002349,
+    "region": "NT",
+    "route": "2",
+    "route_seq": 1,
+    "from": "西貢(宜春街)",
+    "to": "界咸(循環線)"
+  },
+  {
+    "route_id": 2001361,
+    "region": "NT",
+    "route": "20A",
+    "route_seq": 1,
+    "from": "大埔墟站專線小巴總站",
+    "to": "雅麗氏何妙齡那打素醫院"
+  },
+  {
+    "route_id": 2001468,
+    "region": "NT",
+    "route": "20B",
+    "route_seq": 1,
+    "from": "洞梓",
+    "to": "大埔墟站"
+  },
+  {
+    "route_id": 2001469,
+    "region": "NT",
+    "route": "20B",
+    "route_seq": 1,
+    "from": "洞梓",
+    "to": "大埔墟站"
+  },
+  {
+    "route_id": 2005484,
+    "region": "NT",
+    "route": "20B",
+    "route_seq": 1,
+    "from": "大埔墟站",
+    "to": "洞梓"
+  },
+  {
+    "route_id": 2001470,
+    "region": "NT",
+    "route": "20C",
+    "route_seq": 2,
+    "from": "大美督",
+    "to": "大埔墟站"
+  },
+  {
+    "route_id": 2001470,
+    "region": "NT",
+    "route": "20C",
+    "route_seq": 2,
+    "from": "大美督",
+    "to": "大埔墟站"
+  },
+  {
+    "route_id": 2001471,
+    "region": "NT",
+    "route": "20C",
+    "route_seq": 2,
+    "from": "大美督",
+    "to": "大埔墟站"
+  },
+  {
+    "route_id": 2001471,
+    "region": "NT",
+    "route": "20C",
+    "route_seq": 2,
+    "from": "大美督",
+    "to": "大埔墟站"
+  },
+  {
+    "route_id": 2001472,
+    "region": "NT",
+    "route": "20C",
+    "route_seq": 2,
+    "from": "大美督",
+    "to": "大埔墟站"
+  },
+  {
+    "route_id": 2001472,
+    "region": "NT",
+    "route": "20C",
+    "route_seq": 2,
+    "from": "大美督",
+    "to": "大埔墟站"
+  },
+  {
+    "route_id": 2001473,
+    "region": "NT",
+    "route": "20E",
+    "route_seq": 1,
+    "from": "大埔墟站",
+    "to": "山寮(循環線)"
+  },
+  {
+    "route_id": 2001474,
+    "region": "NT",
+    "route": "20E",
+    "route_seq": 1,
+    "from": "大埔墟站",
+    "to": "山寮(循環線)"
+  },
+  {
+    "route_id": 2009939,
+    "region": "NT",
+    "route": "20G",
+    "route_seq": 1,
+    "from": "黃魚灘(樂善村)",
+    "to": "大埔墟站"
+  },
+  {
+    "route_id": 2001464,
+    "region": "NT",
+    "route": "20K",
+    "route_seq": 2,
+    "from": "三門仔",
+    "to": "大埔墟站"
+  },
+  {
+    "route_id": 2001464,
+    "region": "NT",
+    "route": "20K",
+    "route_seq": 2,
+    "from": "三門仔",
+    "to": "大埔墟站"
+  },
+  {
+    "route_id": 2001465,
+    "region": "NT",
+    "route": "20K",
+    "route_seq": 2,
+    "from": "三門仔",
+    "to": "大埔墟站"
+  },
+  {
+    "route_id": 2001465,
+    "region": "NT",
+    "route": "20K",
+    "route_seq": 2,
+    "from": "三門仔",
+    "to": "大埔墟站"
+  },
+  {
+    "route_id": 2001467,
+    "region": "NT",
+    "route": "20K",
+    "route_seq": 2,
+    "from": "三門仔",
+    "to": "大埔墟站"
+  },
+  {
+    "route_id": 2001467,
+    "region": "NT",
+    "route": "20K",
+    "route_seq": 2,
+    "from": "三門仔",
+    "to": "大埔墟站"
+  },
+  {
+    "route_id": 2001478,
+    "region": "NT",
+    "route": "20K",
+    "route_seq": 1,
+    "from": "沙欄路",
+    "to": "大埔墟"
+  },
+  {
+    "route_id": 2001463,
+    "region": "NT",
+    "route": "20M",
+    "route_seq": 1,
+    "from": "鳳園",
+    "to": "大埔中心(循環線)"
+  },
+  {
+    "route_id": 2001461,
+    "region": "NT",
+    "route": "20P",
+    "route_seq": 1,
+    "from": "鳳園",
+    "to": "大埔墟站(循環線)"
+  },
+  {
+    "route_id": 2001462,
+    "region": "NT",
+    "route": "20P",
+    "route_seq": 1,
+    "from": "鳳園",
+    "to": "大埔墟站(循環線)"
+  },
+  {
+    "route_id": 2001475,
+    "region": "NT",
+    "route": "20R",
+    "route_seq": 2,
+    "from": "烏蛟騰",
+    "to": "大埔墟站"
+  },
+  {
+    "route_id": 2001475,
+    "region": "NT",
+    "route": "20R",
+    "route_seq": 2,
+    "from": "烏蛟騰",
+    "to": "大埔墟站"
+  },
+  {
+    "route_id": 2001460,
+    "region": "NT",
+    "route": "20S",
+    "route_seq": 1,
+    "from": "馬窩",
+    "to": "大埔墟(循環線)"
+  },
+  {
+    "route_id": 2001476,
+    "region": "NT",
+    "route": "20T",
+    "route_seq": 2,
+    "from": "慈山寺",
+    "to": "大埔墟站"
+  },
+  {
+    "route_id": 2001476,
+    "region": "NT",
+    "route": "20T",
+    "route_seq": 2,
+    "from": "慈山寺",
+    "to": "大埔墟站"
+  },
+  {
+    "route_id": 2001392,
+    "region": "NT",
+    "route": "20X",
+    "route_seq": 2,
+    "from": "雅麗氏何妙齡那打素醫院",
+    "to": "大埔墟站專線小巴總站"
+  },
+  {
+    "route_id": 2001392,
+    "region": "NT",
+    "route": "20X",
+    "route_seq": 2,
+    "from": "雅麗氏何妙齡那打素醫院",
+    "to": "大埔墟站專線小巴總站"
+  },
+  {
+    "route_id": 2005221,
+    "region": "NT",
+    "route": "20X",
+    "route_seq": 1,
+    "from": "斑蝶樓",
+    "to": "大埔墟站專線小巴總站"
+  },
+  {
+    "route_id": 2001278,
+    "region": "NT",
+    "route": "21A",
+    "route_seq": 2,
+    "from": "大埔墟",
+    "to": "大埔頭"
+  },
+  {
+    "route_id": 2001278,
+    "region": "NT",
+    "route": "21A",
+    "route_seq": 2,
+    "from": "大埔墟",
+    "to": "大埔頭"
+  },
+  {
+    "route_id": 2001276,
+    "region": "NT",
+    "route": "21K",
+    "route_seq": 1,
+    "from": "圍頭村",
+    "to": "大埔墟"
+  },
+  {
+    "route_id": 2001277,
+    "region": "NT",
+    "route": "21K",
+    "route_seq": 1,
+    "from": "圍頭村",
+    "to": "大埔墟"
+  },
+  {
+    "route_id": 2001275,
+    "region": "NT",
+    "route": "22K",
+    "route_seq": 2,
+    "from": "錦山",
+    "to": "大埔墟"
+  },
+  {
+    "route_id": 2001275,
+    "region": "NT",
+    "route": "22K",
+    "route_seq": 2,
+    "from": "錦山",
+    "to": "大埔墟"
+  },
+  {
+    "route_id": 2001326,
+    "region": "NT",
+    "route": "23K",
+    "route_seq": 1,
+    "from": "新屋家",
+    "to": "大埔墟"
+  },
+  {
+    "route_id": 2001327,
+    "region": "NT",
+    "route": "23K",
+    "route_seq": 1,
+    "from": "荔枝山",
+    "to": "大埔墟"
+  },
+  {
+    "route_id": 2001359,
+    "region": "NT",
+    "route": "23K",
+    "route_seq": 1,
+    "from": "大埔墟站專線小巴總站",
+    "to": "新屋家"
+  },
+  {
+    "route_id": 2001360,
+    "region": "NT",
+    "route": "23S",
+    "route_seq": 2,
+    "from": "打鐵屻通路",
+    "to": "大埔墟站專線小巴總站"
+  },
+  {
+    "route_id": 2001360,
+    "region": "NT",
+    "route": "23S",
+    "route_seq": 2,
+    "from": "打鐵屻通路",
+    "to": "大埔墟站專線小巴總站"
+  },
+  {
+    "route_id": 2009873,
+    "region": "NT",
+    "route": "24",
+    "route_seq": 1,
+    "from": "大埔 (富蝶邨)",
+    "to": "大埔 (廣福道) (循環線)"
+  },
+  {
+    "route_id": 2004070,
+    "region": "NT",
+    "route": "25A",
+    "route_seq": 1,
+    "from": "大埔墟",
+    "to": "南華莆(循環線)"
+  },
+  {
+    "route_id": 2004075,
+    "region": "NT",
+    "route": "25A",
+    "route_seq": 1,
+    "from": "泰亨鄉公所",
+    "to": "大埔墟 (靖遠街) 總站"
+  },
+  {
+    "route_id": 2004078,
+    "region": "NT",
+    "route": "25B",
+    "route_seq": 1,
+    "from": "大埔墟",
+    "to": "九龍坑∕元嶺(循環線)"
+  },
+  {
+    "route_id": 2004080,
+    "region": "NT",
+    "route": "25B",
+    "route_seq": 1,
+    "from": "大埔墟",
+    "to": "九龍坑∕元嶺(循環線)"
+  },
+  {
+    "route_id": 2004082,
+    "region": "NT",
+    "route": "25B",
+    "route_seq": 1,
+    "from": "大埔墟",
+    "to": "九龍坑∕元嶺(循環線)"
+  },
+  {
+    "route_id": 2004083,
+    "region": "NT",
+    "route": "25B",
+    "route_seq": 1,
+    "from": "大埔墟",
+    "to": "九龍坑∕元嶺(循環線)"
+  },
+  {
+    "route_id": 2004067,
+    "region": "NT",
+    "route": "25K",
+    "route_seq": 2,
+    "from": "林村 (白牛石)",
+    "to": "大埔墟"
+  },
+  {
+    "route_id": 2004067,
+    "region": "NT",
+    "route": "25K",
+    "route_seq": 2,
+    "from": "林村 (白牛石)",
+    "to": "大埔墟"
+  },
+  {
+    "route_id": 2005253,
+    "region": "NT",
+    "route": "26",
+    "route_seq": 2,
+    "from": "馬鞍山海栢花園",
+    "to": "香港教育大學"
+  },
+  {
+    "route_id": 2005253,
+    "region": "NT",
+    "route": "26",
+    "route_seq": 2,
+    "from": "馬鞍山海栢花園",
+    "to": "香港教育大學"
+  },
+  {
+    "route_id": 2005254,
+    "region": "NT",
+    "route": "26",
+    "route_seq": 1,
+    "from": "頌安邨",
+    "to": "香港教育大學"
+  },
+  {
+    "route_id": 2005222,
+    "region": "NT",
+    "route": "26A",
+    "route_seq": 1,
+    "from": "香港教育大學",
+    "to": "大埔墟(廣福道) (循環線)"
+  },
+  {
+    "route_id": 2007860,
+    "region": "NT",
+    "route": "27",
+    "route_seq": 2,
+    "from": "沙田(排頭街)",
+    "to": "香港科學園"
+  },
+  {
+    "route_id": 2007860,
+    "region": "NT",
+    "route": "27",
+    "route_seq": 2,
+    "from": "沙田(排頭街)",
+    "to": "香港科學園"
+  },
+  {
+    "route_id": 2007861,
+    "region": "NT",
+    "route": "27A",
+    "route_seq": 2,
+    "from": "沙田(排頭街)",
+    "to": "白石角(天賦海灣)"
+  },
+  {
+    "route_id": 2007861,
+    "region": "NT",
+    "route": "27A",
+    "route_seq": 2,
+    "from": "沙田(排頭街)",
+    "to": "白石角(天賦海灣)"
+  },
+  {
+    "route_id": 2007862,
+    "region": "NT",
+    "route": "27A",
+    "route_seq": 2,
+    "from": "沙田(排頭街)(經科技大道西)",
+    "to": "白石角(天賦海灣)"
+  },
+  {
+    "route_id": 2007862,
+    "region": "NT",
+    "route": "27A",
+    "route_seq": 2,
+    "from": "沙田(排頭街)(經科技大道西)",
+    "to": "白石角(天賦海灣)"
+  },
+  {
+    "route_id": 2007893,
+    "region": "NT",
+    "route": "27A",
+    "route_seq": 2,
+    "from": "沙田(排頭街)",
+    "to": "白石角(天賦海灣)"
+  },
+  {
+    "route_id": 2007893,
+    "region": "NT",
+    "route": "27A",
+    "route_seq": 2,
+    "from": "沙田(排頭街)",
+    "to": "白石角(天賦海灣)"
+  },
+  {
+    "route_id": 2007894,
+    "region": "NT",
+    "route": "27A",
+    "route_seq": 2,
+    "from": "沙田(排頭街)",
+    "to": "白石角(天賦海灣)"
+  },
+  {
+    "route_id": 2007894,
+    "region": "NT",
+    "route": "27A",
+    "route_seq": 2,
+    "from": "沙田(排頭街)",
+    "to": "白石角(天賦海灣)"
+  },
+  {
+    "route_id": 2007895,
+    "region": "NT",
+    "route": "27B",
+    "route_seq": 2,
+    "from": "沙田(排頭街)(經大學站)",
+    "to": "白石角(天賦海灣)"
+  },
+  {
+    "route_id": 2007895,
+    "region": "NT",
+    "route": "27B",
+    "route_seq": 2,
+    "from": "沙田(排頭街)(經大學站)",
+    "to": "白石角(天賦海灣)"
+  },
+  {
+    "route_id": 2010071,
+    "region": "NT",
+    "route": "28K",
+    "route_seq": 1,
+    "from": "大埔墟站",
+    "to": "沙田(白鶴汀街)(循環線)"
+  },
+  {
+    "route_id": 2010073,
+    "region": "NT",
+    "route": "28K",
+    "route_seq": 1,
+    "from": "大埔道",
+    "to": "沙田(白鶴汀街)"
+  },
+  {
+    "route_id": 2010074,
+    "region": "NT",
+    "route": "28K",
+    "route_seq": 1,
+    "from": "大埔墟站",
+    "to": "鹿茵山莊"
+  },
+  {
+    "route_id": 2010075,
+    "region": "NT",
+    "route": "28K",
+    "route_seq": 1,
+    "from": "廣福道",
+    "to": "沙田(白鶴汀街)"
+  },
+  {
+    "route_id": 2010076,
+    "region": "NT",
+    "route": "28S",
+    "route_seq": 1,
+    "from": "白石角(天賦海灣)",
+    "to": "沙田(白鶴汀街)(循環線)"
+  },
+  {
+    "route_id": 2001855,
+    "region": "NT",
+    "route": "29",
+    "route_seq": 2,
+    "from": "運頭塘",
+    "to": "馬料水碼頭"
+  },
+  {
+    "route_id": 2001855,
+    "region": "NT",
+    "route": "29",
+    "route_seq": 2,
+    "from": "運頭塘",
+    "to": "馬料水碼頭"
+  },
+  {
+    "route_id": 2009016,
+    "region": "NT",
+    "route": "3",
+    "route_seq": 2,
+    "from": "菠蘿輋",
+    "to": "西貢"
+  },
+  {
+    "route_id": 2009016,
+    "region": "NT",
+    "route": "3",
+    "route_seq": 2,
+    "from": "菠蘿輋",
+    "to": "西貢"
+  },
+  {
+    "route_id": 2001689,
+    "region": "NT",
+    "route": "301",
+    "route_seq": 1,
+    "from": "祈德尊新邨",
+    "to": "荃灣站(循環線)"
+  },
+  {
+    "route_id": 2001889,
+    "region": "NT",
+    "route": "301M",
+    "route_seq": 1,
+    "from": "荃灣西站公共運輸交匯處",
+    "to": "荃灣站(循環線)"
+  },
+  {
+    "route_id": 2001890,
+    "region": "NT",
+    "route": "302",
+    "route_seq": 1,
+    "from": "豪景花園",
+    "to": "葵芳站(循環線)"
+  },
+  {
+    "route_id": 2001891,
+    "region": "NT",
+    "route": "302",
+    "route_seq": 1,
+    "from": "碧堤半島",
+    "to": "葵芳(循環線)"
+  },
+  {
+    "route_id": 2001206,
+    "region": "NT",
+    "route": "308A",
+    "route_seq": 2,
+    "from": "青衣站",
+    "to": "碧堤半島"
+  },
+  {
+    "route_id": 2001206,
+    "region": "NT",
+    "route": "308A",
+    "route_seq": 2,
+    "from": "青衣站",
+    "to": "碧堤半島"
+  },
+  {
+    "route_id": 2001201,
+    "region": "NT",
+    "route": "308M",
+    "route_seq": 1,
+    "from": "青衣站",
+    "to": "浪翠園"
+  },
+  {
+    "route_id": 2001204,
+    "region": "NT",
+    "route": "308M",
+    "route_seq": 1,
+    "from": "青衣站",
+    "to": "浪翠園"
+  },
+  {
+    "route_id": 2006574,
+    "region": "NT",
+    "route": "31",
+    "route_seq": 1,
+    "from": "元朗(康景街)",
+    "to": "唐人新村(循環線)"
+  },
+  {
+    "route_id": 2006575,
+    "region": "NT",
+    "route": "31",
+    "route_seq": 1,
+    "from": "元朗(康景街)",
+    "to": "唐人新村(循環線)"
+  },
+  {
+    "route_id": 2004594,
+    "region": "NT",
+    "route": "310M",
+    "route_seq": 1,
+    "from": "青衣站",
+    "to": "荃灣(海濱花園)(循環線)"
+  },
+  {
+    "route_id": 2004263,
+    "region": "NT",
+    "route": "312",
+    "route_seq": 2,
+    "from": "青衣站",
+    "to": "梨木樹邨公共運輸交匯處"
+  },
+  {
+    "route_id": 2004263,
+    "region": "NT",
+    "route": "312",
+    "route_seq": 2,
+    "from": "青衣站",
+    "to": "梨木樹邨公共運輸交匯處"
+  },
+  {
+    "route_id": 2004296,
+    "region": "NT",
+    "route": "313",
+    "route_seq": 2,
+    "from": "瑪嘉烈醫院",
+    "to": "荃灣(曹公街)"
+  },
+  {
+    "route_id": 2004296,
+    "region": "NT",
+    "route": "313",
+    "route_seq": 2,
+    "from": "瑪嘉烈醫院",
+    "to": "荃灣(曹公街)"
+  },
+  {
+    "route_id": 2006576,
+    "region": "NT",
+    "route": "31A",
+    "route_seq": 1,
+    "from": "唐人新村",
+    "to": "元朗廣場(循環線)"
+  },
+  {
+    "route_id": 2006577,
+    "region": "NT",
+    "route": "32",
+    "route_seq": 2,
+    "from": "丹桂村",
+    "to": "元朗站(北)公共運輸交匯處"
+  },
+  {
+    "route_id": 2006577,
+    "region": "NT",
+    "route": "32",
+    "route_seq": 2,
+    "from": "丹桂村",
+    "to": "元朗站(北)公共運輸交匯處"
+  },
+  {
+    "route_id": 2002321,
+    "region": "NT",
+    "route": "33",
+    "route_seq": 2,
+    "from": "下白泥",
+    "to": "元朗(泰豐街)"
+  },
+  {
+    "route_id": 2002321,
+    "region": "NT",
+    "route": "33",
+    "route_seq": 2,
+    "from": "下白泥",
+    "to": "元朗(泰豐街)"
+  },
+  {
+    "route_id": 2002382,
+    "region": "NT",
+    "route": "34A",
+    "route_seq": 2,
+    "from": "流浮山",
+    "to": "廈村"
+  },
+  {
+    "route_id": 2002382,
+    "region": "NT",
+    "route": "34A",
+    "route_seq": 2,
+    "from": "流浮山",
+    "to": "廈村"
+  },
+  {
+    "route_id": 2002325,
+    "region": "NT",
+    "route": "35",
+    "route_seq": 2,
+    "from": "沙橋(尖鼻咀)",
+    "to": "元朗(泰豐街)"
+  },
+  {
+    "route_id": 2002325,
+    "region": "NT",
+    "route": "35",
+    "route_seq": 2,
+    "from": "沙橋(尖鼻咀)",
+    "to": "元朗(泰豐街)"
+  },
+  {
+    "route_id": 2002327,
+    "region": "NT",
+    "route": "35",
+    "route_seq": 2,
+    "from": "輞井圍",
+    "to": "元朗(泰豐街)"
+  },
+  {
+    "route_id": 2002327,
+    "region": "NT",
+    "route": "35",
+    "route_seq": 2,
+    "from": "輞井圍",
+    "to": "元朗(泰豐街)"
+  },
+  {
+    "route_id": 2008622,
+    "region": "NT",
+    "route": "36",
+    "route_seq": 2,
+    "from": "大生圍村公所",
+    "to": "元朗(福康街)"
+  },
+  {
+    "route_id": 2008622,
+    "region": "NT",
+    "route": "36",
+    "route_seq": 2,
+    "from": "大生圍村公所",
+    "to": "元朗(福康街)"
+  },
+  {
+    "route_id": 2008630,
+    "region": "NT",
+    "route": "36",
+    "route_seq": 1,
+    "from": "大生圍村公所",
+    "to": "元朗(福康街)"
+  },
+  {
+    "route_id": 2008632,
+    "region": "NT",
+    "route": "37",
+    "route_seq": 2,
+    "from": "攸潭尾村公所",
+    "to": "元朗(福康街)"
+  },
+  {
+    "route_id": 2008632,
+    "region": "NT",
+    "route": "37",
+    "route_seq": 2,
+    "from": "攸潭尾村公所",
+    "to": "元朗(福康街)"
+  },
+  {
+    "route_id": 2008633,
+    "region": "NT",
+    "route": "37",
+    "route_seq": 1,
+    "from": "攸潭尾村公所",
+    "to": "元朗(福康街)"
+  },
+  {
+    "route_id": 2008652,
+    "region": "NT",
+    "route": "38",
+    "route_seq": 2,
+    "from": "攸潭尾西(近何生農場)",
+    "to": "元朗(福康街)"
+  },
+  {
+    "route_id": 2008652,
+    "region": "NT",
+    "route": "38",
+    "route_seq": 2,
+    "from": "攸潭尾西(近何生農場)",
+    "to": "元朗(福康街)"
+  },
+  {
+    "route_id": 2008686,
+    "region": "NT",
+    "route": "38",
+    "route_seq": 1,
+    "from": "攸潭尾西(近何生農場)",
+    "to": "元朗(福康街)"
+  },
+  {
+    "route_id": 2007532,
+    "region": "NT",
+    "route": "39",
+    "route_seq": 2,
+    "from": "元朗(鳳翔路)",
+    "to": "公庵"
+  },
+  {
+    "route_id": 2007532,
+    "region": "NT",
+    "route": "39",
+    "route_seq": 2,
+    "from": "元朗(鳳翔路)",
+    "to": "公庵"
+  },
+  {
+    "route_id": 2007563,
+    "region": "NT",
+    "route": "39",
+    "route_seq": 2,
+    "from": "元朗站",
+    "to": "公庵"
+  },
+  {
+    "route_id": 2007563,
+    "region": "NT",
+    "route": "39",
+    "route_seq": 2,
+    "from": "元朗站",
+    "to": "公庵"
+  },
+  {
+    "route_id": 2007533,
+    "region": "NT",
+    "route": "39A",
+    "route_seq": 1,
+    "from": "公庵路(木橋頭)",
+    "to": "元朗(教育路)(循環線)"
+  },
+  {
+    "route_id": 2009015,
+    "region": "NT",
+    "route": "3A",
+    "route_seq": 2,
+    "from": "南山新村",
+    "to": "西貢"
+  },
+  {
+    "route_id": 2009015,
+    "region": "NT",
+    "route": "3A",
+    "route_seq": 2,
+    "from": "南山新村",
+    "to": "西貢"
+  },
+  {
+    "route_id": 2009018,
+    "region": "NT",
+    "route": "4",
+    "route_seq": 2,
+    "from": "對面海",
+    "to": "西貢"
+  },
+  {
+    "route_id": 2009018,
+    "region": "NT",
+    "route": "4",
+    "route_seq": 2,
+    "from": "對面海",
+    "to": "西貢"
+  },
+  {
+    "route_id": 2004956,
+    "region": "NT",
+    "route": "40",
+    "route_seq": 1,
+    "from": "小坑村",
+    "to": "屯門市中心(循環線)"
+  },
+  {
+    "route_id": 2003273,
+    "region": "NT",
+    "route": "401",
+    "route_seq": 2,
+    "from": "石蔭",
+    "to": "青衣碼頭"
+  },
+  {
+    "route_id": 2003273,
+    "region": "NT",
+    "route": "401",
+    "route_seq": 2,
+    "from": "石蔭",
+    "to": "青衣碼頭"
+  },
+  {
+    "route_id": 2003307,
+    "region": "NT",
+    "route": "401",
+    "route_seq": 1,
+    "from": "長安巴士總站",
+    "to": "石蔭"
+  },
+  {
+    "route_id": 2003306,
+    "region": "NT",
+    "route": "402S",
+    "route_seq": 2,
+    "from": "荃灣(眾安街)",
+    "to": "長亨"
+  },
+  {
+    "route_id": 2003306,
+    "region": "NT",
+    "route": "402S",
+    "route_seq": 2,
+    "from": "荃灣(眾安街)",
+    "to": "長亨"
+  },
+  {
+    "route_id": 2001266,
+    "region": "NT",
+    "route": "403",
+    "route_seq": 1,
+    "from": "梨貝街巴士總站",
+    "to": "沙田圍"
+  },
+  {
+    "route_id": 2001270,
+    "region": "NT",
+    "route": "403A",
+    "route_seq": 1,
+    "from": "安足街安蔭邨",
+    "to": "沙田担杆莆街"
+  },
+  {
+    "route_id": 2001271,
+    "region": "NT",
+    "route": "403A",
+    "route_seq": 1,
+    "from": "石蔭商場",
+    "to": "沙田担杆莆街"
+  },
+  {
+    "route_id": 2001267,
+    "region": "NT",
+    "route": "403P",
+    "route_seq": 1,
+    "from": "石籬梨貝街",
+    "to": "沙田担杆莆街"
+  },
+  {
+    "route_id": 2001268,
+    "region": "NT",
+    "route": "403P",
+    "route_seq": 1,
+    "from": "石籬梨貝街",
+    "to": "沙田担杆莆街"
+  },
+  {
+    "route_id": 2001269,
+    "region": "NT",
+    "route": "403P",
+    "route_seq": 1,
+    "from": "石籬梨貝街",
+    "to": "沙田担杆莆街"
+  },
+  {
+    "route_id": 2001272,
+    "region": "NT",
+    "route": "403X",
+    "route_seq": 1,
+    "from": "大圍站公共運輸交匯處",
+    "to": "東北葵涌"
+  },
+  {
+    "route_id": 2001273,
+    "region": "NT",
+    "route": "403X",
+    "route_seq": 1,
+    "from": "大圍站公共運輸交匯處",
+    "to": "雍雅軒"
+  },
+  {
+    "route_id": 2001274,
+    "region": "NT",
+    "route": "403X",
+    "route_seq": 1,
+    "from": "石蔭梨木道",
+    "to": "大圍"
+  },
+  {
+    "route_id": 2001887,
+    "region": "NT",
+    "route": "404M",
+    "route_seq": 1,
+    "from": "葵芳站",
+    "to": "海濱花園(循環線)"
+  },
+  {
+    "route_id": 2001888,
+    "region": "NT",
+    "route": "404M",
+    "route_seq": 1,
+    "from": "葵芳站",
+    "to": "葵喜街(循環線)"
+  },
+  {
+    "route_id": 2001635,
+    "region": "NT",
+    "route": "405",
+    "route_seq": 1,
+    "from": "長亨",
+    "to": "茘景南 (循環線)"
+  },
+  {
+    "route_id": 2006837,
+    "region": "NT",
+    "route": "406",
+    "route_seq": 1,
+    "from": "石籬",
+    "to": "葵盛(循環線)"
+  },
+  {
+    "route_id": 2006870,
+    "region": "NT",
+    "route": "407",
+    "route_seq": 2,
+    "from": "瑪嘉烈醫院",
+    "to": "長宏"
+  },
+  {
+    "route_id": 2006870,
+    "region": "NT",
+    "route": "407",
+    "route_seq": 2,
+    "from": "瑪嘉烈醫院",
+    "to": "長宏"
+  },
+  {
+    "route_id": 2006903,
+    "region": "NT",
+    "route": "407",
+    "route_seq": 1,
+    "from": "長發",
+    "to": "瑪嘉列醫院"
+  },
+  {
+    "route_id": 2006904,
+    "region": "NT",
+    "route": "407A",
+    "route_seq": 2,
+    "from": "瑪嘉烈醫院",
+    "to": "葵芳站(興寧路)"
+  },
+  {
+    "route_id": 2006904,
+    "region": "NT",
+    "route": "407A",
+    "route_seq": 2,
+    "from": "瑪嘉烈醫院",
+    "to": "葵芳站(興寧路)"
+  },
+  {
+    "route_id": 2006906,
+    "region": "NT",
+    "route": "407B",
+    "route_seq": 1,
+    "from": "長宏",
+    "to": "葵盛圍"
+  },
+  {
+    "route_id": 2006907,
+    "region": "NT",
+    "route": "407B",
+    "route_seq": 1,
+    "from": "長發",
+    "to": "葵盛圍"
+  },
+  {
+    "route_id": 2008653,
+    "region": "NT",
+    "route": "409",
+    "route_seq": 1,
+    "from": "青衣(長亨)",
+    "to": "荃灣(荃灣街市街)(循環線)"
+  },
+  {
+    "route_id": 2008654,
+    "region": "NT",
+    "route": "409K",
+    "route_seq": 1,
+    "from": "青衣(長亨)",
+    "to": "荃灣西站(循環線)"
+  },
+  {
+    "route_id": 2008655,
+    "region": "NT",
+    "route": "409S",
+    "route_seq": 1,
+    "from": "青衣(長亨)",
+    "to": "荃灣(荃灣街市街)經德海街(循環線)"
+  },
+  {
+    "route_id": 2004923,
+    "region": "NT",
+    "route": "41",
+    "route_seq": 2,
+    "from": "屯門市中心(屯發路)",
+    "to": "龍門居"
+  },
+  {
+    "route_id": 2004923,
+    "region": "NT",
+    "route": "41",
+    "route_seq": 2,
+    "from": "屯門市中心(屯發路)",
+    "to": "龍門居"
+  },
+  {
+    "route_id": 2005056,
+    "region": "NT",
+    "route": "410",
+    "route_seq": 2,
+    "from": "東北葵涌",
+    "to": "瑪嘉烈醫院"
+  },
+  {
+    "route_id": 2005056,
+    "region": "NT",
+    "route": "410",
+    "route_seq": 2,
+    "from": "東北葵涌",
+    "to": "瑪嘉烈醫院"
+  },
+  {
+    "route_id": 2005847,
+    "region": "NT",
+    "route": "411",
+    "route_seq": 1,
+    "from": "葵涌(荔崗街)",
+    "to": "深水埗(元州街)"
+  },
+  {
+    "route_id": 2001788,
+    "region": "NT",
+    "route": "413",
+    "route_seq": 2,
+    "from": "瑪嘉烈醫院",
+    "to": "青衣公眾碼頭"
+  },
+  {
+    "route_id": 2001788,
+    "region": "NT",
+    "route": "413",
+    "route_seq": 2,
+    "from": "瑪嘉烈醫院",
+    "to": "青衣公眾碼頭"
+  },
+  {
+    "route_id": 2001012,
+    "region": "NT",
+    "route": "42",
+    "route_seq": 1,
+    "from": "青磚圍",
+    "to": "屯門市中心(循環線)"
+  },
+  {
+    "route_id": 2001690,
+    "region": "NT",
+    "route": "43",
+    "route_seq": 1,
+    "from": "屯門市中心",
+    "to": "掃管笏 (循環線)"
+  },
+  {
+    "route_id": 2001741,
+    "region": "NT",
+    "route": "43",
+    "route_seq": 1,
+    "from": "屯門市中心",
+    "to": "掃管笏 (循環線)"
+  },
+  {
+    "route_id": 2001723,
+    "region": "NT",
+    "route": "43A",
+    "route_seq": 2,
+    "from": "青榕街",
+    "to": "屯門市中心"
+  },
+  {
+    "route_id": 2001723,
+    "region": "NT",
+    "route": "43A",
+    "route_seq": 2,
+    "from": "青榕街",
+    "to": "屯門市中心"
+  },
+  {
+    "route_id": 2001740,
+    "region": "NT",
+    "route": "43B",
+    "route_seq": 1,
+    "from": "屯門市中心",
+    "to": "大欖涌 (循環線)"
+  },
+  {
+    "route_id": 2001636,
+    "region": "NT",
+    "route": "43C",
+    "route_seq": 2,
+    "from": "兆麟苑",
+    "to": "屯門市中心"
+  },
+  {
+    "route_id": 2001636,
+    "region": "NT",
+    "route": "43C",
+    "route_seq": 2,
+    "from": "兆麟苑",
+    "to": "屯門市中心"
+  },
+  {
+    "route_id": 2001656,
+    "region": "NT",
+    "route": "43S",
+    "route_seq": 1,
+    "from": "屯門市中心",
+    "to": "掃管笏 (循環線)"
+  },
+  {
+    "route_id": 2003966,
+    "region": "NT",
+    "route": "44",
+    "route_seq": 2,
+    "from": "上水站",
+    "to": "屯門碼頭"
+  },
+  {
+    "route_id": 2003966,
+    "region": "NT",
+    "route": "44",
+    "route_seq": 2,
+    "from": "上水站",
+    "to": "屯門碼頭"
+  },
+  {
+    "route_id": 2003999,
+    "region": "NT",
+    "route": "44A",
+    "route_seq": 2,
+    "from": "上水站",
+    "to": "屯門站公共交通交匯處"
+  },
+  {
+    "route_id": 2003999,
+    "region": "NT",
+    "route": "44A",
+    "route_seq": 2,
+    "from": "上水站",
+    "to": "屯門站公共交通交匯處"
+  },
+  {
+    "route_id": 2004001,
+    "region": "NT",
+    "route": "44A",
+    "route_seq": 1,
+    "from": "山景邨景貴樓",
+    "to": "上水站"
+  },
+  {
+    "route_id": 2004036,
+    "region": "NT",
+    "route": "44A1",
+    "route_seq": 1,
+    "from": "屯門寶田邨",
+    "to": "上水站"
+  },
+  {
+    "route_id": 2004164,
+    "region": "NT",
+    "route": "44B",
+    "route_seq": 2,
+    "from": "屯門站",
+    "to": "落馬洲(新田)公共交通交匯處"
+  },
+  {
+    "route_id": 2004164,
+    "region": "NT",
+    "route": "44B",
+    "route_seq": 2,
+    "from": "屯門站",
+    "to": "落馬洲(新田)公共交通交匯處"
+  },
+  {
+    "route_id": 2004197,
+    "region": "NT",
+    "route": "44B1",
+    "route_seq": 2,
+    "from": "屯門碼頭",
+    "to": "落馬洲(新田)公共交通交匯處"
+  },
+  {
+    "route_id": 2004197,
+    "region": "NT",
+    "route": "44B1",
+    "route_seq": 2,
+    "from": "屯門碼頭",
+    "to": "落馬洲(新田)公共交通交匯處"
+  },
+  {
+    "route_id": 2004032,
+    "region": "NT",
+    "route": "45",
+    "route_seq": 1,
+    "from": "大興花園",
+    "to": "屯門市中心(循環線)"
+  },
+  {
+    "route_id": 2005715,
+    "region": "NT",
+    "route": "46",
+    "route_seq": 1,
+    "from": "富泰邨",
+    "to": "屯門市中心(循環線)"
+  },
+  {
+    "route_id": 2005749,
+    "region": "NT",
+    "route": "46A",
+    "route_seq": 1,
+    "from": "景秀里",
+    "to": "屯門市中心(循環線)"
+  },
+  {
+    "route_id": 2007768,
+    "region": "NT",
+    "route": "46M",
+    "route_seq": 1,
+    "from": "荔崗街",
+    "to": "荔景站(循環線)"
+  },
+  {
+    "route_id": 2005748,
+    "region": "NT",
+    "route": "46X",
+    "route_seq": 1,
+    "from": "富泰邨",
+    "to": "屯門市中心(循環線)"
+  },
+  {
+    "route_id": 2007769,
+    "region": "NT",
+    "route": "47M",
+    "route_seq": 1,
+    "from": "華景山莊",
+    "to": "荔景站(循環線)"
+  },
+  {
+    "route_id": 2008852,
+    "region": "NT",
+    "route": "47S",
+    "route_seq": 2,
+    "from": "旺角",
+    "to": "屯門碼頭"
+  },
+  {
+    "route_id": 2008852,
+    "region": "NT",
+    "route": "47S",
+    "route_seq": 2,
+    "from": "旺角",
+    "to": "屯門碼頭"
+  },
+  {
+    "route_id": 2003209,
+    "region": "NT",
+    "route": "481",
+    "route_seq": 2,
+    "from": "荃灣街市街",
+    "to": "火炭(山尾街)"
+  },
+  {
+    "route_id": 2003209,
+    "region": "NT",
+    "route": "481",
+    "route_seq": 2,
+    "from": "荃灣街市街",
+    "to": "火炭(山尾街)"
+  },
+  {
+    "route_id": 2003211,
+    "region": "NT",
+    "route": "481A",
+    "route_seq": 2,
+    "from": "沙⽥市中心(担杆莆街)",
+    "to": "荃灣街市街"
+  },
+  {
+    "route_id": 2003211,
+    "region": "NT",
+    "route": "481A",
+    "route_seq": 2,
+    "from": "沙⽥市中心(担杆莆街)",
+    "to": "荃灣街市街"
+  },
+  {
+    "route_id": 2003214,
+    "region": "NT",
+    "route": "481B",
+    "route_seq": 2,
+    "from": "大圍銅鑼灣山路",
+    "to": "荃灣街市街"
+  },
+  {
+    "route_id": 2003214,
+    "region": "NT",
+    "route": "481B",
+    "route_seq": 2,
+    "from": "大圍銅鑼灣山路",
+    "to": "荃灣街市街"
+  },
+  {
+    "route_id": 2003212,
+    "region": "NT",
+    "route": "481X",
+    "route_seq": 2,
+    "from": "荃灣街市街",
+    "to": "火炭(駿洋邨)"
+  },
+  {
+    "route_id": 2003212,
+    "region": "NT",
+    "route": "481X",
+    "route_seq": 2,
+    "from": "荃灣街市街",
+    "to": "火炭(駿洋邨)"
+  },
+  {
+    "route_id": 2003207,
+    "region": "NT",
+    "route": "482",
+    "route_seq": 2,
+    "from": "荃灣街市街",
+    "to": "沙⽥市中⼼(担杆莆街)"
+  },
+  {
+    "route_id": 2003207,
+    "region": "NT",
+    "route": "482",
+    "route_seq": 2,
+    "from": "荃灣街市街",
+    "to": "沙⽥市中⼼(担杆莆街)"
+  },
+  {
+    "route_id": 2008851,
+    "region": "NT",
+    "route": "48S",
+    "route_seq": 2,
+    "from": "旺角",
+    "to": "良景邨"
+  },
+  {
+    "route_id": 2008851,
+    "region": "NT",
+    "route": "48S",
+    "route_seq": 2,
+    "from": "旺角",
+    "to": "良景邨"
+  },
+  {
+    "route_id": 2004033,
+    "region": "NT",
+    "route": "49S",
+    "route_seq": 2,
+    "from": "灣仔",
+    "to": "屯門兆康苑"
+  },
+  {
+    "route_id": 2004033,
+    "region": "NT",
+    "route": "49S",
+    "route_seq": 2,
+    "from": "灣仔",
+    "to": "屯門兆康苑"
+  },
+  {
+    "route_id": 2009017,
+    "region": "NT",
+    "route": "4A",
+    "route_seq": 2,
+    "from": "對面海 (海濱別墅)",
+    "to": "西貢"
+  },
+  {
+    "route_id": 2009017,
+    "region": "NT",
+    "route": "4A",
+    "route_seq": 2,
+    "from": "對面海 (海濱別墅)",
+    "to": "西貢"
+  },
+  {
+    "route_id": 2001038,
+    "region": "NT",
+    "route": "501A",
+    "route_seq": 1,
+    "from": "雍盛苑",
+    "to": "聯和墟 (循環線)"
+  },
+  {
+    "route_id": 2001095,
+    "region": "NT",
+    "route": "501C",
+    "route_seq": 1,
+    "from": "雍盛苑",
+    "to": "聯和墟 (循環線)"
+  },
+  {
+    "route_id": 2001063,
+    "region": "NT",
+    "route": "501K",
+    "route_seq": 1,
+    "from": "欣盛苑",
+    "to": "聯和墟 (循環線)"
+  },
+  {
+    "route_id": 2001128,
+    "region": "NT",
+    "route": "501S",
+    "route_seq": 2,
+    "from": "裕民坊",
+    "to": "上水站"
+  },
+  {
+    "route_id": 2001128,
+    "region": "NT",
+    "route": "501S",
+    "route_seq": 2,
+    "from": "裕民坊",
+    "to": "上水站"
+  },
+  {
+    "route_id": 2001920,
+    "region": "NT",
+    "route": "502",
+    "route_seq": 2,
+    "from": "清河邨公共運輸交匯處",
+    "to": "大埔那打素醫院"
+  },
+  {
+    "route_id": 2001920,
+    "region": "NT",
+    "route": "502",
+    "route_seq": 2,
+    "from": "清河邨公共運輸交匯處",
+    "to": "大埔那打素醫院"
+  },
+  {
+    "route_id": 2001955,
+    "region": "NT",
+    "route": "502",
+    "route_seq": 1,
+    "from": "華明路(欣暉閣)",
+    "to": "大埔那打素醫院"
+  },
+  {
+    "route_id": 2001986,
+    "region": "NT",
+    "route": "502",
+    "route_seq": 1,
+    "from": "清河邨公共運輸交匯處",
+    "to": "大埔那打素醫院"
+  },
+  {
+    "route_id": 2001987,
+    "region": "NT",
+    "route": "502",
+    "route_seq": 1,
+    "from": "大埔那打素醫院",
+    "to": "華明路(昌濤閣)"
+  },
+  {
+    "route_id": 2002019,
+    "region": "NT",
+    "route": "502",
+    "route_seq": 1,
+    "from": "大埔中心",
+    "to": "清河邨"
+  },
+  {
+    "route_id": 2004461,
+    "region": "NT",
+    "route": "503",
+    "route_seq": 2,
+    "from": "北區醫院",
+    "to": "皇后山"
+  },
+  {
+    "route_id": 2004461,
+    "region": "NT",
+    "route": "503",
+    "route_seq": 2,
+    "from": "北區醫院",
+    "to": "皇后山"
+  },
+  {
+    "route_id": 2009576,
+    "region": "NT",
+    "route": "503K",
+    "route_seq": 2,
+    "from": "上水匯",
+    "to": "皇后山"
+  },
+  {
+    "route_id": 2009576,
+    "region": "NT",
+    "route": "503K",
+    "route_seq": 2,
+    "from": "上水匯",
+    "to": "皇后山"
+  },
+  {
+    "route_id": 2004462,
+    "region": "NT",
+    "route": "504",
+    "route_seq": 2,
+    "from": "上水",
+    "to": "華山村"
+  },
+  {
+    "route_id": 2004462,
+    "region": "NT",
+    "route": "504",
+    "route_seq": 2,
+    "from": "上水",
+    "to": "華山村"
+  },
+  {
+    "route_id": 2009147,
+    "region": "NT",
+    "route": "505",
+    "route_seq": 2,
+    "from": "沙田圓洲角",
+    "to": "上水新發街"
+  },
+  {
+    "route_id": 2009147,
+    "region": "NT",
+    "route": "505",
+    "route_seq": 2,
+    "from": "沙田圓洲角",
+    "to": "上水新發街"
+  },
+  {
+    "route_id": 2009675,
+    "region": "NT",
+    "route": "506",
+    "route_seq": 1,
+    "from": "置福圍",
+    "to": "聯和墟 (循環線)"
+  },
+  {
+    "route_id": 2009708,
+    "region": "NT",
+    "route": "507",
+    "route_seq": 1,
+    "from": "馬適路",
+    "to": "粉嶺站 (循環線)"
+  },
+  {
+    "route_id": 2005322,
+    "region": "NT",
+    "route": "50A",
+    "route_seq": 2,
+    "from": "古洞(南)",
+    "to": "上水站"
+  },
+  {
+    "route_id": 2005322,
+    "region": "NT",
+    "route": "50A",
+    "route_seq": 2,
+    "from": "古洞(南)",
+    "to": "上水站"
+  },
+  {
+    "route_id": 2005323,
+    "region": "NT",
+    "route": "50K",
+    "route_seq": 2,
+    "from": "坑頭",
+    "to": "上水站"
+  },
+  {
+    "route_id": 2005323,
+    "region": "NT",
+    "route": "50K",
+    "route_seq": 2,
+    "from": "坑頭",
+    "to": "上水站"
+  },
+  {
+    "route_id": 2005331,
+    "region": "NT",
+    "route": "51B",
+    "route_seq": 2,
+    "from": "料壆",
+    "to": "上水站"
+  },
+  {
+    "route_id": 2005331,
+    "region": "NT",
+    "route": "51B",
+    "route_seq": 2,
+    "from": "料壆",
+    "to": "上水站"
+  },
+  {
+    "route_id": 2005333,
+    "region": "NT",
+    "route": "51B",
+    "route_seq": 1,
+    "from": "馬草壟 (信義新村)",
+    "to": "上水站"
+  },
+  {
+    "route_id": 2005353,
+    "region": "NT",
+    "route": "51B",
+    "route_seq": 1,
+    "from": "馬草壟 (展能運動村外)",
+    "to": "上水站"
+  },
+  {
+    "route_id": 2005325,
+    "region": "NT",
+    "route": "51K",
+    "route_seq": 2,
+    "from": "河上鄉",
+    "to": "上水站"
+  },
+  {
+    "route_id": 2005325,
+    "region": "NT",
+    "route": "51K",
+    "route_seq": 2,
+    "from": "河上鄉",
+    "to": "上水站"
+  },
+  {
+    "route_id": 2005327,
+    "region": "NT",
+    "route": "51K",
+    "route_seq": 1,
+    "from": "上水站",
+    "to": "羅湖懲教所(循環線)"
+  },
+  {
+    "route_id": 2006342,
+    "region": "NT",
+    "route": "52A",
+    "route_seq": 2,
+    "from": "和滿街公共小型巴士總站",
+    "to": "粉嶺站"
+  },
+  {
+    "route_id": 2006342,
+    "region": "NT",
+    "route": "52A",
+    "route_seq": 2,
+    "from": "和滿街公共小型巴士總站",
+    "to": "粉嶺站"
+  },
+  {
+    "route_id": 2006343,
+    "region": "NT",
+    "route": "52A",
+    "route_seq": 1,
+    "from": "和滿街公共小型巴士總站",
+    "to": "粉嶺站"
+  },
+  {
+    "route_id": 2006573,
+    "region": "NT",
+    "route": "52B",
+    "route_seq": 2,
+    "from": "鶴藪",
+    "to": "粉嶺站"
+  },
+  {
+    "route_id": 2006573,
+    "region": "NT",
+    "route": "52B",
+    "route_seq": 2,
+    "from": "鶴藪",
+    "to": "粉嶺站"
+  },
+  {
+    "route_id": 2006375,
+    "region": "NT",
+    "route": "52K",
+    "route_seq": 2,
+    "from": "坪輋",
+    "to": "粉嶺站"
+  },
+  {
+    "route_id": 2006375,
+    "region": "NT",
+    "route": "52K",
+    "route_seq": 2,
+    "from": "坪輋",
+    "to": "粉嶺站"
+  },
+  {
+    "route_id": 2006542,
+    "region": "NT",
+    "route": "52K",
+    "route_seq": 2,
+    "from": "坪原路,近坪洋舊村公廁",
+    "to": "粉嶺站"
+  },
+  {
+    "route_id": 2006542,
+    "region": "NT",
+    "route": "52K",
+    "route_seq": 2,
+    "from": "坪原路,近坪洋舊村公廁",
+    "to": "粉嶺站"
+  },
+  {
+    "route_id": 2006543,
+    "region": "NT",
+    "route": "52K",
+    "route_seq": 2,
+    "from": "軍地(北)",
+    "to": "粉嶺站"
+  },
+  {
+    "route_id": 2006543,
+    "region": "NT",
+    "route": "52K",
+    "route_seq": 2,
+    "from": "軍地(北)",
+    "to": "粉嶺站"
+  },
+  {
+    "route_id": 2007432,
+    "region": "NT",
+    "route": "54A",
+    "route_seq": 2,
+    "from": "和滿街公共小型巴士總站",
+    "to": "粉嶺站"
+  },
+  {
+    "route_id": 2007432,
+    "region": "NT",
+    "route": "54A",
+    "route_seq": 2,
+    "from": "和滿街公共小型巴士總站",
+    "to": "粉嶺站"
+  },
+  {
+    "route_id": 2007434,
+    "region": "NT",
+    "route": "54A",
+    "route_seq": 1,
+    "from": "和滿街公共小型巴士總站",
+    "to": "粉嶺站"
+  },
+  {
+    "route_id": 2007435,
+    "region": "NT",
+    "route": "54K",
+    "route_seq": 1,
+    "from": "粉嶺站",
+    "to": "龍躍頭(循環線)"
+  },
+  {
+    "route_id": 2009543,
+    "region": "NT",
+    "route": "54K",
+    "route_seq": 1,
+    "from": "萃雲路, 近麻笏村",
+    "to": "粉嶺車站路, 近粉嶺名都嘉麗閣"
+  },
+  {
+    "route_id": 2001013,
+    "region": "NT",
+    "route": "55K",
+    "route_seq": 2,
+    "from": "沙頭角公共運輸交匯處",
+    "to": "上水站小巴總站"
+  },
+  {
+    "route_id": 2001013,
+    "region": "NT",
+    "route": "55K",
+    "route_seq": 2,
+    "from": "沙頭角公共運輸交匯處",
+    "to": "上水站小巴總站"
+  },
+  {
+    "route_id": 2001015,
+    "region": "NT",
+    "route": "55K",
+    "route_seq": 2,
+    "from": "聯和墟",
+    "to": "上水站小巴總站"
+  },
+  {
+    "route_id": 2001015,
+    "region": "NT",
+    "route": "55K",
+    "route_seq": 2,
+    "from": "聯和墟",
+    "to": "上水站小巴總站"
+  },
+  {
+    "route_id": 2001019,
+    "region": "NT",
+    "route": "55K",
+    "route_seq": 1,
+    "from": "沙頭角公共運輸交匯處",
+    "to": "上水站小巴總站"
+  },
+  {
+    "route_id": 2010005,
+    "region": "NT",
+    "route": "55S",
+    "route_seq": 2,
+    "from": "打鼓嶺(松園下)",
+    "to": "沙頭角公共運輸交匯處"
+  },
+  {
+    "route_id": 2010005,
+    "region": "NT",
+    "route": "55S",
+    "route_seq": 2,
+    "from": "打鼓嶺(松園下)",
+    "to": "沙頭角公共運輸交匯處"
+  },
+  {
+    "route_id": 2001020,
+    "region": "NT",
+    "route": "56A",
+    "route_seq": 2,
+    "from": "和滿街公共小巴總站",
+    "to": "粉嶺站"
+  },
+  {
+    "route_id": 2001020,
+    "region": "NT",
+    "route": "56A",
+    "route_seq": 2,
+    "from": "和滿街公共小巴總站",
+    "to": "粉嶺站"
+  },
+  {
+    "route_id": 2001458,
+    "region": "NT",
+    "route": "56A",
+    "route_seq": 1,
+    "from": "和滿街小巴總站",
+    "to": "粉嶺車站"
+  },
+  {
+    "route_id": 2001459,
+    "region": "NT",
+    "route": "56A",
+    "route_seq": 1,
+    "from": "海聯廣場",
+    "to": "粉嶺站"
+  },
+  {
+    "route_id": 2001023,
+    "region": "NT",
+    "route": "56B",
+    "route_seq": 2,
+    "from": "丹竹坑",
+    "to": "粉嶺站"
+  },
+  {
+    "route_id": 2001023,
+    "region": "NT",
+    "route": "56B",
+    "route_seq": 2,
+    "from": "丹竹坑",
+    "to": "粉嶺站"
+  },
+  {
+    "route_id": 2001025,
+    "region": "NT",
+    "route": "56C",
+    "route_seq": 2,
+    "from": "小坑村",
+    "to": "粉嶺站"
+  },
+  {
+    "route_id": 2001025,
+    "region": "NT",
+    "route": "56C",
+    "route_seq": 2,
+    "from": "小坑村",
+    "to": "粉嶺站"
+  },
+  {
+    "route_id": 2001027,
+    "region": "NT",
+    "route": "56K",
+    "route_seq": 2,
+    "from": "鹿頸",
+    "to": "粉嶺站"
+  },
+  {
+    "route_id": 2001027,
+    "region": "NT",
+    "route": "56K",
+    "route_seq": 2,
+    "from": "鹿頸",
+    "to": "粉嶺站"
+  },
+  {
+    "route_id": 2001029,
+    "region": "NT",
+    "route": "56K",
+    "route_seq": 1,
+    "from": "沙頭角公路, 萬屋邊",
+    "to": "粉嶺站專綫小巴總站"
+  },
+  {
+    "route_id": 2010170,
+    "region": "NT",
+    "route": "57K",
+    "route_seq": 2,
+    "from": "粉嶺(唐公嶺)小巴總站",
+    "to": "上水站小巴總站"
+  },
+  {
+    "route_id": 2010170,
+    "region": "NT",
+    "route": "57K",
+    "route_seq": 2,
+    "from": "粉嶺(唐公嶺)小巴總站",
+    "to": "上水站小巴總站"
+  },
+  {
+    "route_id": 2010171,
+    "region": "NT",
+    "route": "57K",
+    "route_seq": 2,
+    "from": "蕉徑路, 近彭氏宗祠",
+    "to": "上水站小巴總站"
+  },
+  {
+    "route_id": 2010171,
+    "region": "NT",
+    "route": "57K",
+    "route_seq": 2,
+    "from": "蕉徑路, 近彭氏宗祠",
+    "to": "上水站小巴總站"
+  },
+  {
+    "route_id": 2010203,
+    "region": "NT",
+    "route": "58K",
+    "route_seq": 2,
+    "from": "丙岡路,近丙崗",
+    "to": "上水站小巴總站"
+  },
+  {
+    "route_id": 2010203,
+    "region": "NT",
+    "route": "58K",
+    "route_seq": 2,
+    "from": "丙岡路,近丙崗",
+    "to": "上水站小巴總站"
+  },
+  {
+    "route_id": 2009312,
+    "region": "NT",
+    "route": "59A",
+    "route_seq": 1,
+    "from": "上水鄉",
+    "to": "上水站(循環線)"
+  },
+  {
+    "route_id": 2006277,
+    "region": "NT",
+    "route": "59K",
+    "route_seq": 2,
+    "from": "蓮麻坑",
+    "to": "上水站"
+  },
+  {
+    "route_id": 2006277,
+    "region": "NT",
+    "route": "59K",
+    "route_seq": 2,
+    "from": "蓮麻坑",
+    "to": "上水站"
+  },
+  {
+    "route_id": 2006279,
+    "region": "NT",
+    "route": "59K",
+    "route_seq": 2,
+    "from": "香園圍",
+    "to": "上水站"
+  },
+  {
+    "route_id": 2006279,
+    "region": "NT",
+    "route": "59K",
+    "route_seq": 2,
+    "from": "香園圍",
+    "to": "上水站"
+  },
+  {
+    "route_id": 2006281,
+    "region": "NT",
+    "route": "59K",
+    "route_seq": 2,
+    "from": "松園下",
+    "to": "上水站"
+  },
+  {
+    "route_id": 2006281,
+    "region": "NT",
+    "route": "59K",
+    "route_seq": 2,
+    "from": "松園下",
+    "to": "上水站"
+  },
+  {
+    "route_id": 2009180,
+    "region": "NT",
+    "route": "59S",
+    "route_seq": 2,
+    "from": "香園圍邊境管制站",
+    "to": "上水站"
+  },
+  {
+    "route_id": 2009180,
+    "region": "NT",
+    "route": "59S",
+    "route_seq": 2,
+    "from": "香園圍邊境管制站",
+    "to": "上水站"
+  },
+  {
+    "route_id": 2008685,
+    "region": "NT",
+    "route": "601",
+    "route_seq": 2,
+    "from": "北圍村",
+    "to": "元朗 (鳳翔路)"
+  },
+  {
+    "route_id": 2008685,
+    "region": "NT",
+    "route": "601",
+    "route_seq": 2,
+    "from": "北圍村",
+    "to": "元朗 (鳳翔路)"
+  },
+  {
+    "route_id": 2008718,
+    "region": "NT",
+    "route": "601B",
+    "route_seq": 1,
+    "from": "北圍村",
+    "to": "錦上路站 (循環線)"
+  },
+  {
+    "route_id": 2008719,
+    "region": "NT",
+    "route": "601C",
+    "route_seq": 1,
+    "from": "元朗 (鳳翔路)",
+    "to": "錦上路站 (循環線)"
+  },
+  {
+    "route_id": 2008751,
+    "region": "NT",
+    "route": "602",
+    "route_seq": 2,
+    "from": "大江埔",
+    "to": "元朗 (鳳翔路)"
+  },
+  {
+    "route_id": 2008751,
+    "region": "NT",
+    "route": "602",
+    "route_seq": 2,
+    "from": "大江埔",
+    "to": "元朗 (鳳翔路)"
+  },
+  {
+    "route_id": 2008752,
+    "region": "NT",
+    "route": "602C",
+    "route_seq": 1,
+    "from": "元朗 (鳳翔路)",
+    "to": "錦上路站 (循環線)"
+  },
+  {
+    "route_id": 2008753,
+    "region": "NT",
+    "route": "603",
+    "route_seq": 2,
+    "from": "逢吉鄉",
+    "to": "元朗 (鳳翔路)"
+  },
+  {
+    "route_id": 2008753,
+    "region": "NT",
+    "route": "603",
+    "route_seq": 2,
+    "from": "逢吉鄉",
+    "to": "元朗 (鳳翔路)"
+  },
+  {
+    "route_id": 2008754,
+    "region": "NT",
+    "route": "604",
+    "route_seq": 2,
+    "from": "山下村",
+    "to": "元朗 (鳳翔路)"
+  },
+  {
+    "route_id": 2008754,
+    "region": "NT",
+    "route": "604",
+    "route_seq": 2,
+    "from": "山下村",
+    "to": "元朗 (鳳翔路)"
+  },
+  {
+    "route_id": 2008784,
+    "region": "NT",
+    "route": "605",
+    "route_seq": 2,
+    "from": "上水站",
+    "to": "麒麟村"
+  },
+  {
+    "route_id": 2008784,
+    "region": "NT",
+    "route": "605",
+    "route_seq": 2,
+    "from": "上水站",
+    "to": "麒麟村"
+  },
+  {
+    "route_id": 2008786,
+    "region": "NT",
+    "route": "606S",
+    "route_seq": 2,
+    "from": "尖沙咀東 (麼地道)",
+    "to": "元朗 (鳳翔路)"
+  },
+  {
+    "route_id": 2008786,
+    "region": "NT",
+    "route": "606S",
+    "route_seq": 2,
+    "from": "尖沙咀東 (麼地道)",
+    "to": "元朗 (鳳翔路)"
+  },
+  {
+    "route_id": 2001194,
+    "region": "NT",
+    "route": "608",
+    "route_seq": 1,
+    "from": "橫台山",
+    "to": "元朗鳳翔路(循環線)"
+  },
+  {
+    "route_id": 2001195,
+    "region": "NT",
+    "route": "608",
+    "route_seq": 1,
+    "from": "橫台山",
+    "to": "錦上路站(循環線)"
+  },
+  {
+    "route_id": 2010236,
+    "region": "NT",
+    "route": "608S",
+    "route_seq": 1,
+    "from": "七星薈小巴總站",
+    "to": "錦上路站公共運輸交滙處(循環線)"
+  },
+  {
+    "route_id": 2001196,
+    "region": "NT",
+    "route": "609",
+    "route_seq": 1,
+    "from": "元朗大球場",
+    "to": "博愛醫院(循環線)"
+  },
+  {
+    "route_id": 2001197,
+    "region": "NT",
+    "route": "609B",
+    "route_seq": 1,
+    "from": "朗善邨",
+    "to": "元朗港鐵站(循環線)"
+  },
+  {
+    "route_id": 2001200,
+    "region": "NT",
+    "route": "609B",
+    "route_seq": 1,
+    "from": "朗善邨",
+    "to": "元朗港鐵站(循環線)"
+  },
+  {
+    "route_id": 2001208,
+    "region": "NT",
+    "route": "609S",
+    "route_seq": 1,
+    "from": "朗善邨",
+    "to": "元朗站(北)公共運輸交匯處"
+  },
+  {
+    "route_id": 2001209,
+    "region": "NT",
+    "route": "609S",
+    "route_seq": 1,
+    "from": "朗善邨",
+    "to": "元朗站(北)公共運輸交匯處"
+  },
+  {
+    "route_id": 2003669,
+    "region": "NT",
+    "route": "60K",
+    "route_seq": 2,
+    "from": "火炭平房區",
+    "to": "沙田站"
+  },
+  {
+    "route_id": 2003669,
+    "region": "NT",
+    "route": "60K",
+    "route_seq": 2,
+    "from": "火炭平房區",
+    "to": "沙田站"
+  },
+  {
+    "route_id": 2003903,
+    "region": "NT",
+    "route": "60K",
+    "route_seq": 2,
+    "from": "黃竹洋村",
+    "to": "沙田站"
+  },
+  {
+    "route_id": 2003903,
+    "region": "NT",
+    "route": "60K",
+    "route_seq": 2,
+    "from": "黃竹洋村",
+    "to": "沙田站"
+  },
+  {
+    "route_id": 2003671,
+    "region": "NT",
+    "route": "60P",
+    "route_seq": 2,
+    "from": "火炭駿洋邨公共運輸停車灣",
+    "to": "沙田站"
+  },
+  {
+    "route_id": 2003671,
+    "region": "NT",
+    "route": "60P",
+    "route_seq": 2,
+    "from": "火炭駿洋邨公共運輸停車灣",
+    "to": "沙田站"
+  },
+  {
+    "route_id": 2003673,
+    "region": "NT",
+    "route": "60R",
+    "route_seq": 2,
+    "from": "沙田馬場(彭福公園)",
+    "to": "沙田站"
+  },
+  {
+    "route_id": 2003673,
+    "region": "NT",
+    "route": "60R",
+    "route_seq": 2,
+    "from": "沙田馬場(彭福公園)",
+    "to": "沙田站"
+  },
+  {
+    "route_id": 2001161,
+    "region": "NT",
+    "route": "610S",
+    "route_seq": 2,
+    "from": "尖沙咀海防道",
+    "to": "天水圍天瑞邨"
+  },
+  {
+    "route_id": 2001161,
+    "region": "NT",
+    "route": "610S",
+    "route_seq": 2,
+    "from": "尖沙咀海防道",
+    "to": "天水圍天瑞邨"
+  },
+  {
+    "route_id": 2008595,
+    "region": "NT",
+    "route": "611",
+    "route_seq": 1,
+    "from": "山貝路",
+    "to": "阜財街(循環線)"
+  },
+  {
+    "route_id": 2008597,
+    "region": "NT",
+    "route": "611A",
+    "route_seq": 1,
+    "from": "元朗站",
+    "to": "山貝路(循環線)"
+  },
+  {
+    "route_id": 2008598,
+    "region": "NT",
+    "route": "611B",
+    "route_seq": 1,
+    "from": "鈞樂里",
+    "to": "元朗站(循環線)"
+  },
+  {
+    "route_id": 2008599,
+    "region": "NT",
+    "route": "611B",
+    "route_seq": 1,
+    "from": "德業街",
+    "to": "阜財街(循環線)"
+  },
+  {
+    "route_id": 2008603,
+    "region": "NT",
+    "route": "611P",
+    "route_seq": 1,
+    "from": "山貝路",
+    "to": "安信街(循環線)"
+  },
+  {
+    "route_id": 2008620,
+    "region": "NT",
+    "route": "611S",
+    "route_seq": 1,
+    "from": "同心村 (山貝路)",
+    "to": "元朗站(循環線)"
+  },
+  {
+    "route_id": 2004762,
+    "region": "NT",
+    "route": "616S",
+    "route_seq": 2,
+    "from": "落馬洲管制站",
+    "to": "旺角"
+  },
+  {
+    "route_id": 2004762,
+    "region": "NT",
+    "route": "616S",
+    "route_seq": 2,
+    "from": "落馬洲管制站",
+    "to": "旺角"
+  },
+  {
+    "route_id": 2007438,
+    "region": "NT",
+    "route": "618",
+    "route_seq": 2,
+    "from": "深圳灣口岸",
+    "to": "天水圍(天恩邨)"
+  },
+  {
+    "route_id": 2007438,
+    "region": "NT",
+    "route": "618",
+    "route_seq": 2,
+    "from": "深圳灣口岸",
+    "to": "天水圍(天恩邨)"
+  },
+  {
+    "route_id": 2009906,
+    "region": "NT",
+    "route": "618",
+    "route_seq": 1,
+    "from": "天水圍(天恩邨)",
+    "to": "深圳灣口岸"
+  },
+  {
+    "route_id": 2003675,
+    "region": "NT",
+    "route": "61M",
+    "route_seq": 2,
+    "from": "九龍塘(沙福道)公共交通交匯處",
+    "to": "世界花園"
+  },
+  {
+    "route_id": 2003675,
+    "region": "NT",
+    "route": "61M",
+    "route_seq": 2,
+    "from": "九龍塘(沙福道)公共交通交匯處",
+    "to": "世界花園"
+  },
+  {
+    "route_id": 2003677,
+    "region": "NT",
+    "route": "61M",
+    "route_seq": 2,
+    "from": "大圍站公共運輸交匯處",
+    "to": "世界花園"
+  },
+  {
+    "route_id": 2003677,
+    "region": "NT",
+    "route": "61M",
+    "route_seq": 2,
+    "from": "大圍站公共運輸交匯處",
+    "to": "世界花園"
+  },
+  {
+    "route_id": 2003681,
+    "region": "NT",
+    "route": "61S",
+    "route_seq": 2,
+    "from": "旺角站",
+    "to": "火炭"
+  },
+  {
+    "route_id": 2003681,
+    "region": "NT",
+    "route": "61S",
+    "route_seq": 2,
+    "from": "旺角站",
+    "to": "火炭"
+  },
+  {
+    "route_id": 2003683,
+    "region": "NT",
+    "route": "61S",
+    "route_seq": 2,
+    "from": "旺角站",
+    "to": "瀝源∕禾輋"
+  },
+  {
+    "route_id": 2003683,
+    "region": "NT",
+    "route": "61S",
+    "route_seq": 2,
+    "from": "旺角站",
+    "to": "瀝源∕禾輋"
+  },
+  {
+    "route_id": 2008785,
+    "region": "NT",
+    "route": "620",
+    "route_seq": 2,
+    "from": "錦上路站公共運輸交匯處",
+    "to": "峻巒交通總匯"
+  },
+  {
+    "route_id": 2008785,
+    "region": "NT",
+    "route": "620",
+    "route_seq": 2,
+    "from": "錦上路站公共運輸交匯處",
+    "to": "峻巒交通總匯"
+  },
+  {
+    "route_id": 2009774,
+    "region": "NT",
+    "route": "621",
+    "route_seq": 1,
+    "from": "洪水橋(洪元路)",
+    "to": "天水圍北(濕地公園路)(經天水圍醫院) (循環線)"
+  },
+  {
+    "route_id": 2009807,
+    "region": "NT",
+    "route": "621",
+    "route_seq": 1,
+    "from": "洪水橋(洪元路)",
+    "to": "天水圍北(濕地公園路)(經天水圍醫院) (循環線)"
+  },
+  {
+    "route_id": 2001591,
+    "region": "NT",
+    "route": "623",
+    "route_seq": 2,
+    "from": "港頭村",
+    "to": "元朗 (鳳翔路)"
+  },
+  {
+    "route_id": 2001591,
+    "region": "NT",
+    "route": "623",
+    "route_seq": 2,
+    "from": "港頭村",
+    "to": "元朗 (鳳翔路)"
+  },
+  {
+    "route_id": 2003679,
+    "region": "NT",
+    "route": "62K",
+    "route_seq": 2,
+    "from": "沙田山莊",
+    "to": "沙田站"
+  },
+  {
+    "route_id": 2003679,
+    "region": "NT",
+    "route": "62K",
+    "route_seq": 2,
+    "from": "沙田山莊",
+    "to": "沙田站"
+  },
+  {
+    "route_id": 2008224,
+    "region": "NT",
+    "route": "63A",
+    "route_seq": 2,
+    "from": "大圍站(村南道)",
+    "to": "美松苑"
+  },
+  {
+    "route_id": 2008224,
+    "region": "NT",
+    "route": "63A",
+    "route_seq": 2,
+    "from": "大圍站(村南道)",
+    "to": "美松苑"
+  },
+  {
+    "route_id": 2008225,
+    "region": "NT",
+    "route": "63B",
+    "route_seq": 2,
+    "from": "大圍站(村南道)",
+    "to": "恒峰花園"
+  },
+  {
+    "route_id": 2008225,
+    "region": "NT",
+    "route": "63B",
+    "route_seq": 2,
+    "from": "大圍站(村南道)",
+    "to": "恒峰花園"
+  },
+  {
+    "route_id": 2008223,
+    "region": "NT",
+    "route": "63K",
+    "route_seq": 2,
+    "from": "大圍站(村南道)",
+    "to": "美田邨公共運輸交匯處"
+  },
+  {
+    "route_id": 2008223,
+    "region": "NT",
+    "route": "63K",
+    "route_seq": 2,
+    "from": "大圍站(村南道)",
+    "to": "美田邨公共運輸交匯處"
+  },
+  {
+    "route_id": 2008226,
+    "region": "NT",
+    "route": "63S",
+    "route_seq": 2,
+    "from": "旺角",
+    "to": "美田邨公共運輸交匯處"
+  },
+  {
+    "route_id": 2008226,
+    "region": "NT",
+    "route": "63S",
+    "route_seq": 2,
+    "from": "旺角",
+    "to": "美田邨公共運輸交匯處"
+  },
+  {
+    "route_id": 2006244,
+    "region": "NT",
+    "route": "64A",
+    "route_seq": 1,
+    "from": "培橋書院",
+    "to": "大圍站(村南道)"
+  },
+  {
+    "route_id": 2008227,
+    "region": "NT",
+    "route": "64K",
+    "route_seq": 2,
+    "from": "大圍站(村南道)",
+    "to": "富山"
+  },
+  {
+    "route_id": 2008227,
+    "region": "NT",
+    "route": "64K",
+    "route_seq": 2,
+    "from": "大圍站(村南道)",
+    "to": "富山"
+  },
+  {
+    "route_id": 2009082,
+    "region": "NT",
+    "route": "65A",
+    "route_seq": 2,
+    "from": "沙田市中心",
+    "to": "黃泥頭"
+  },
+  {
+    "route_id": 2009082,
+    "region": "NT",
+    "route": "65A",
+    "route_seq": 2,
+    "from": "沙田市中心",
+    "to": "黃泥頭"
+  },
+  {
+    "route_id": 2009114,
+    "region": "NT",
+    "route": "65A",
+    "route_seq": 2,
+    "from": "沙田站",
+    "to": "黃泥頭"
+  },
+  {
+    "route_id": 2009114,
+    "region": "NT",
+    "route": "65A",
+    "route_seq": 2,
+    "from": "沙田站",
+    "to": "黃泥頭"
+  },
+  {
+    "route_id": 2009081,
+    "region": "NT",
+    "route": "65K",
+    "route_seq": 1,
+    "from": "黃泥頭",
+    "to": "火炭站 (循環線)"
+  },
+  {
+    "route_id": 2009115,
+    "region": "NT",
+    "route": "65M",
+    "route_seq": 2,
+    "from": "石門站",
+    "to": "黃泥頭"
+  },
+  {
+    "route_id": 2009115,
+    "region": "NT",
+    "route": "65M",
+    "route_seq": 2,
+    "from": "石門站",
+    "to": "黃泥頭"
+  },
+  {
+    "route_id": 2009116,
+    "region": "NT",
+    "route": "65S",
+    "route_seq": 1,
+    "from": "黃泥頭",
+    "to": "旺角站 (循環線)"
+  },
+  {
+    "route_id": 2009117,
+    "region": "NT",
+    "route": "66K",
+    "route_seq": 1,
+    "from": "沙田站",
+    "to": "九肚 (循環線)"
+  },
+  {
+    "route_id": 2009119,
+    "region": "NT",
+    "route": "67A",
+    "route_seq": 2,
+    "from": "沙田站",
+    "to": "碩門邨"
+  },
+  {
+    "route_id": 2009119,
+    "region": "NT",
+    "route": "67A",
+    "route_seq": 2,
+    "from": "沙田站",
+    "to": "碩門邨"
+  },
+  {
+    "route_id": 2009118,
+    "region": "NT",
+    "route": "67K",
+    "route_seq": 2,
+    "from": "沙田站",
+    "to": "亞公角"
+  },
+  {
+    "route_id": 2009118,
+    "region": "NT",
+    "route": "67K",
+    "route_seq": 2,
+    "from": "沙田站",
+    "to": "亞公角"
+  },
+  {
+    "route_id": 2007762,
+    "region": "NT",
+    "route": "68K",
+    "route_seq": 2,
+    "from": "瑞峰花園",
+    "to": "沙田站(排頭街)"
+  },
+  {
+    "route_id": 2007762,
+    "region": "NT",
+    "route": "68K",
+    "route_seq": 2,
+    "from": "瑞峰花園",
+    "to": "沙田站(排頭街)"
+  },
+  {
+    "route_id": 2007765,
+    "region": "NT",
+    "route": "68K",
+    "route_seq": 2,
+    "from": "瑞峰花園",
+    "to": "大圍站公共運輸交匯處"
+  },
+  {
+    "route_id": 2007765,
+    "region": "NT",
+    "route": "68K",
+    "route_seq": 2,
+    "from": "瑞峰花園",
+    "to": "大圍站公共運輸交匯處"
+  },
+  {
+    "route_id": 2007764,
+    "region": "NT",
+    "route": "68S",
+    "route_seq": 2,
+    "from": "顯徑站",
+    "to": "瑞峰花園"
+  },
+  {
+    "route_id": 2007764,
+    "region": "NT",
+    "route": "68S",
+    "route_seq": 2,
+    "from": "顯徑站",
+    "to": "瑞峰花園"
+  },
+  {
+    "route_id": 2007766,
+    "region": "NT",
+    "route": "69K",
+    "route_seq": 2,
+    "from": "沙田渣甸山花園∕華翠園",
+    "to": "沙田站(排頭街)"
+  },
+  {
+    "route_id": 2007766,
+    "region": "NT",
+    "route": "69K",
+    "route_seq": 2,
+    "from": "沙田渣甸山花園∕華翠園",
+    "to": "沙田站(排頭街)"
+  },
+  {
+    "route_id": 2002339,
+    "region": "NT",
+    "route": "7",
+    "route_seq": 2,
+    "from": "海下",
+    "to": "西貢"
+  },
+  {
+    "route_id": 2002339,
+    "region": "NT",
+    "route": "7",
+    "route_seq": 2,
+    "from": "海下",
+    "to": "西貢"
+  },
+  {
+    "route_id": 2008290,
+    "region": "NT",
+    "route": "71",
+    "route_seq": 2,
+    "from": "石湖塘(河背)",
+    "to": "元朗(元朗泰衡街)"
+  },
+  {
+    "route_id": 2008290,
+    "region": "NT",
+    "route": "71",
+    "route_seq": 2,
+    "from": "石湖塘(河背)",
+    "to": "元朗(元朗泰衡街)"
+  },
+  {
+    "route_id": 2008388,
+    "region": "NT",
+    "route": "71A",
+    "route_seq": 2,
+    "from": "錦上路運輸交匯處",
+    "to": "長莆村"
+  },
+  {
+    "route_id": 2008388,
+    "region": "NT",
+    "route": "71A",
+    "route_seq": 2,
+    "from": "錦上路運輸交匯處",
+    "to": "長莆村"
+  },
+  {
+    "route_id": 2008390,
+    "region": "NT",
+    "route": "72",
+    "route_seq": 2,
+    "from": "雷公田",
+    "to": "元朗(元朗泰衡街)"
+  },
+  {
+    "route_id": 2008390,
+    "region": "NT",
+    "route": "72",
+    "route_seq": 2,
+    "from": "雷公田",
+    "to": "元朗(元朗泰衡街)"
+  },
+  {
+    "route_id": 2008392,
+    "region": "NT",
+    "route": "72",
+    "route_seq": 2,
+    "from": "雷公田",
+    "to": "錦上路站"
+  },
+  {
+    "route_id": 2008392,
+    "region": "NT",
+    "route": "72",
+    "route_seq": 2,
+    "from": "雷公田",
+    "to": "錦上路站"
+  },
+  {
+    "route_id": 2008553,
+    "region": "NT",
+    "route": "73",
+    "route_seq": 2,
+    "from": "崇山新村",
+    "to": "朗屏站(媽橫路)"
+  },
+  {
+    "route_id": 2008553,
+    "region": "NT",
+    "route": "73",
+    "route_seq": 2,
+    "from": "崇山新村",
+    "to": "朗屏站(媽橫路)"
+  },
+  {
+    "route_id": 2009378,
+    "region": "NT",
+    "route": "73A",
+    "route_seq": 2,
+    "from": "元朗(崇山新村)",
+    "to": "元朗(福康街)小巴總站"
+  },
+  {
+    "route_id": 2009378,
+    "region": "NT",
+    "route": "73A",
+    "route_seq": 2,
+    "from": "元朗(崇山新村)",
+    "to": "元朗(福康街)小巴總站"
+  },
+  {
+    "route_id": 2008554,
+    "region": "NT",
+    "route": "74",
+    "route_seq": 2,
+    "from": "盛屋村",
+    "to": "元朗(福康街)"
+  },
+  {
+    "route_id": 2008554,
+    "region": "NT",
+    "route": "74",
+    "route_seq": 2,
+    "from": "盛屋村",
+    "to": "元朗(福康街)"
+  },
+  {
+    "route_id": 2008555,
+    "region": "NT",
+    "route": "74A",
+    "route_seq": 2,
+    "from": "東頭圍",
+    "to": "元朗(福康街)"
+  },
+  {
+    "route_id": 2008555,
+    "region": "NT",
+    "route": "74A",
+    "route_seq": 2,
+    "from": "東頭圍",
+    "to": "元朗(福康街)"
+  },
+  {
+    "route_id": 2007398,
+    "region": "NT",
+    "route": "75",
+    "route_seq": 2,
+    "from": "落馬洲支線公共交通交匯處",
+    "to": "元朗(福康街)"
+  },
+  {
+    "route_id": 2007398,
+    "region": "NT",
+    "route": "75",
+    "route_seq": 2,
+    "from": "落馬洲支線公共交通交匯處",
+    "to": "元朗(福康街)"
+  },
+  {
+    "route_id": 2007431,
+    "region": "NT",
+    "route": "75",
+    "route_seq": 2,
+    "from": "下灣村",
+    "to": "元朗(福康街)"
+  },
+  {
+    "route_id": 2007431,
+    "region": "NT",
+    "route": "75",
+    "route_seq": 2,
+    "from": "下灣村",
+    "to": "元朗(福康街)"
+  },
+  {
+    "route_id": 2007436,
+    "region": "NT",
+    "route": "75",
+    "route_seq": 1,
+    "from": "下灣村",
+    "to": "元朗(福康街)"
+  },
+  {
+    "route_id": 2007437,
+    "region": "NT",
+    "route": "75",
+    "route_seq": 2,
+    "from": "落馬洲支線公共交通交匯處",
+    "to": "新田(近新田郵政局)"
+  },
+  {
+    "route_id": 2007437,
+    "region": "NT",
+    "route": "75",
+    "route_seq": 2,
+    "from": "落馬洲支線公共交通交匯處",
+    "to": "新田(近新田郵政局)"
+  },
+  {
+    "route_id": 2007464,
+    "region": "NT",
+    "route": "76",
+    "route_seq": 2,
+    "from": "小磡村",
+    "to": "元朗(福康街)"
+  },
+  {
+    "route_id": 2007464,
+    "region": "NT",
+    "route": "76",
+    "route_seq": 2,
+    "from": "小磡村",
+    "to": "元朗(福康街)"
+  },
+  {
+    "route_id": 2008094,
+    "region": "NT",
+    "route": "76",
+    "route_seq": 1,
+    "from": "小磡村",
+    "to": "元朗(福康街)"
+  },
+  {
+    "route_id": 2003702,
+    "region": "NT",
+    "route": "78",
+    "route_seq": 2,
+    "from": "八鄉路(近大欖隧道轉車站)",
+    "to": "落馬洲(新田)公共交通交匯處"
+  },
+  {
+    "route_id": 2003702,
+    "region": "NT",
+    "route": "78",
+    "route_seq": 2,
+    "from": "八鄉路(近大欖隧道轉車站)",
+    "to": "落馬洲(新田)公共交通交匯處"
+  },
+  {
+    "route_id": 2003704,
+    "region": "NT",
+    "route": "78A",
+    "route_seq": 2,
+    "from": "八鄉路(近大欖隧道轉車站)",
+    "to": "錦上路站"
+  },
+  {
+    "route_id": 2003704,
+    "region": "NT",
+    "route": "78A",
+    "route_seq": 2,
+    "from": "八鄉路(近大欖隧道轉車站)",
+    "to": "錦上路站"
+  },
+  {
+    "route_id": 2007630,
+    "region": "NT",
+    "route": "79S",
+    "route_seq": 2,
+    "from": "落馬洲管制站",
+    "to": "天水圍 (俊宏軒)"
+  },
+  {
+    "route_id": 2007630,
+    "region": "NT",
+    "route": "79S",
+    "route_seq": 2,
+    "from": "落馬洲管制站",
+    "to": "天水圍 (俊宏軒)"
+  },
+  {
+    "route_id": 2007999,
+    "region": "NT",
+    "route": "80",
+    "route_seq": 2,
+    "from": "川龍",
+    "to": "荃灣(川龍街)"
+  },
+  {
+    "route_id": 2007999,
+    "region": "NT",
+    "route": "80",
+    "route_seq": 2,
+    "from": "川龍",
+    "to": "荃灣(川龍街)"
+  },
+  {
+    "route_id": 2002185,
+    "region": "NT",
+    "route": "803",
+    "route_seq": 2,
+    "from": "利安",
+    "to": "顯徑"
+  },
+  {
+    "route_id": 2002185,
+    "region": "NT",
+    "route": "803",
+    "route_seq": 2,
+    "from": "利安",
+    "to": "顯徑"
+  },
+  {
+    "route_id": 2002187,
+    "region": "NT",
+    "route": "803",
+    "route_seq": 2,
+    "from": "利安",
+    "to": "顯徑"
+  },
+  {
+    "route_id": 2002187,
+    "region": "NT",
+    "route": "803",
+    "route_seq": 2,
+    "from": "利安",
+    "to": "顯徑"
+  },
+  {
+    "route_id": 2002189,
+    "region": "NT",
+    "route": "803K",
+    "route_seq": 2,
+    "from": "顯徑",
+    "to": "大圍站公共運輸交匯處"
+  },
+  {
+    "route_id": 2002189,
+    "region": "NT",
+    "route": "803K",
+    "route_seq": 2,
+    "from": "顯徑",
+    "to": "大圍站公共運輸交匯處"
+  },
+  {
+    "route_id": 2002191,
+    "region": "NT",
+    "route": "803K",
+    "route_seq": 1,
+    "from": "顯徑體育館",
+    "to": "大圍站公共運輸交匯處"
+  },
+  {
+    "route_id": 2002192,
+    "region": "NT",
+    "route": "803K",
+    "route_seq": 1,
+    "from": "顯徑",
+    "to": "大圍站公共運輸交匯處"
+  },
+  {
+    "route_id": 2002193,
+    "region": "NT",
+    "route": "803K",
+    "route_seq": 1,
+    "from": "嘉徑苑",
+    "to": "大圍站公共運輸交匯處"
+  },
+  {
+    "route_id": 2002194,
+    "region": "NT",
+    "route": "804",
+    "route_seq": 2,
+    "from": "顯徑",
+    "to": "廣源"
+  },
+  {
+    "route_id": 2002194,
+    "region": "NT",
+    "route": "804",
+    "route_seq": 2,
+    "from": "顯徑",
+    "to": "廣源"
+  },
+  {
+    "route_id": 2002196,
+    "region": "NT",
+    "route": "804",
+    "route_seq": 1,
+    "from": "廣源",
+    "to": "顯徑"
+  },
+  {
+    "route_id": 2002197,
+    "region": "NT",
+    "route": "805S",
+    "route_seq": 2,
+    "from": "旺角",
+    "to": "錦英苑"
+  },
+  {
+    "route_id": 2002197,
+    "region": "NT",
+    "route": "805S",
+    "route_seq": 2,
+    "from": "旺角",
+    "to": "錦英苑"
+  },
+  {
+    "route_id": 2002199,
+    "region": "NT",
+    "route": "805S",
+    "route_seq": 1,
+    "from": "旺角",
+    "to": "錦英苑"
+  },
+  {
+    "route_id": 2001821,
+    "region": "NT",
+    "route": "806A",
+    "route_seq": 2,
+    "from": "運頭塘",
+    "to": "黃泥頭"
+  },
+  {
+    "route_id": 2001821,
+    "region": "NT",
+    "route": "806A",
+    "route_seq": 2,
+    "from": "運頭塘",
+    "to": "黃泥頭"
+  },
+  {
+    "route_id": 2001823,
+    "region": "NT",
+    "route": "806B",
+    "route_seq": 2,
+    "from": "運頭塘",
+    "to": "石門"
+  },
+  {
+    "route_id": 2001823,
+    "region": "NT",
+    "route": "806B",
+    "route_seq": 2,
+    "from": "運頭塘",
+    "to": "石門"
+  },
+  {
+    "route_id": 2001825,
+    "region": "NT",
+    "route": "806C",
+    "route_seq": 2,
+    "from": "運頭塘",
+    "to": "香港科學園"
+  },
+  {
+    "route_id": 2001825,
+    "region": "NT",
+    "route": "806C",
+    "route_seq": 2,
+    "from": "運頭塘",
+    "to": "香港科學園"
+  },
+  {
+    "route_id": 2008256,
+    "region": "NT",
+    "route": "806M",
+    "route_seq": 1,
+    "from": "白石角",
+    "to": "石門(循環線)"
+  },
+  {
+    "route_id": 2001230,
+    "region": "NT",
+    "route": "807A",
+    "route_seq": 2,
+    "from": "馬鞍山站",
+    "to": "港鐵大學站巴士總站"
+  },
+  {
+    "route_id": 2001230,
+    "region": "NT",
+    "route": "807A",
+    "route_seq": 2,
+    "from": "馬鞍山站",
+    "to": "港鐵大學站巴士總站"
+  },
+  {
+    "route_id": 2001231,
+    "region": "NT",
+    "route": "807B",
+    "route_seq": 1,
+    "from": "馬鞍山站",
+    "to": "黃竹灣"
+  },
+  {
+    "route_id": 2001232,
+    "region": "NT",
+    "route": "807C",
+    "route_seq": 2,
+    "from": "港鐵大學站巴士總站",
+    "to": "馬鞍山站"
+  },
+  {
+    "route_id": 2001232,
+    "region": "NT",
+    "route": "807C",
+    "route_seq": 2,
+    "from": "港鐵大學站巴士總站",
+    "to": "馬鞍山站"
+  },
+  {
+    "route_id": 2001227,
+    "region": "NT",
+    "route": "807K",
+    "route_seq": 2,
+    "from": "井頭村",
+    "to": "港鐵大學站巴士總站"
+  },
+  {
+    "route_id": 2001227,
+    "region": "NT",
+    "route": "807K",
+    "route_seq": 2,
+    "from": "井頭村",
+    "to": "港鐵大學站巴士總站"
+  },
+  {
+    "route_id": 2001228,
+    "region": "NT",
+    "route": "807K",
+    "route_seq": 1,
+    "from": "井頭村",
+    "to": "烏溪沙站巴士總站"
+  },
+  {
+    "route_id": 2001229,
+    "region": "NT",
+    "route": "807K",
+    "route_seq": 2,
+    "from": "井頭村",
+    "to": "馬鞍山站"
+  },
+  {
+    "route_id": 2001229,
+    "region": "NT",
+    "route": "807K",
+    "route_seq": 2,
+    "from": "井頭村",
+    "to": "馬鞍山站"
+  },
+  {
+    "route_id": 2001234,
+    "region": "NT",
+    "route": "807S",
+    "route_seq": 2,
+    "from": "井頭村",
+    "to": "港鐵大學站巴士總站"
+  },
+  {
+    "route_id": 2001234,
+    "region": "NT",
+    "route": "807S",
+    "route_seq": 2,
+    "from": "井頭村",
+    "to": "港鐵大學站巴士總站"
+  },
+  {
+    "route_id": 2001233,
+    "region": "NT",
+    "route": "807X",
+    "route_seq": 1,
+    "from": "港鐵大學站巴士總站",
+    "to": "烏溪沙站"
+  },
+  {
+    "route_id": 2004758,
+    "region": "NT",
+    "route": "808",
+    "route_seq": 2,
+    "from": "威爾斯親王醫院",
+    "to": "錦英苑"
+  },
+  {
+    "route_id": 2004758,
+    "region": "NT",
+    "route": "808",
+    "route_seq": 2,
+    "from": "威爾斯親王醫院",
+    "to": "錦英苑"
+  },
+  {
+    "route_id": 2004891,
+    "region": "NT",
+    "route": "808",
+    "route_seq": 2,
+    "from": "新港城中心",
+    "to": "錦英苑巴士總站"
+  },
+  {
+    "route_id": 2004891,
+    "region": "NT",
+    "route": "808",
+    "route_seq": 2,
+    "from": "新港城中心",
+    "to": "錦英苑巴士總站"
+  },
+  {
+    "route_id": 2004892,
+    "region": "NT",
+    "route": "808",
+    "route_seq": 1,
+    "from": "西沙路, 新港城外",
+    "to": "威爾斯親王醫院"
+  },
+  {
+    "route_id": 2004893,
+    "region": "NT",
+    "route": "808",
+    "route_seq": 1,
+    "from": "西沙路, 恒康街, 曾璧山中學外",
+    "to": "威爾斯親王醫院"
+  },
+  {
+    "route_id": 2004761,
+    "region": "NT",
+    "route": "808P",
+    "route_seq": 2,
+    "from": "威爾斯親王醫院",
+    "to": "恆安巴士總站"
+  },
+  {
+    "route_id": 2004761,
+    "region": "NT",
+    "route": "808P",
+    "route_seq": 2,
+    "from": "威爾斯親王醫院",
+    "to": "恆安巴士總站"
+  },
+  {
+    "route_id": 2004692,
+    "region": "NT",
+    "route": "809K",
+    "route_seq": 1,
+    "from": "沙田站(排頭街)",
+    "to": "水泉坳街(循環線)"
+  },
+  {
+    "route_id": 2005517,
+    "region": "NT",
+    "route": "81",
+    "route_seq": 2,
+    "from": "老圍",
+    "to": "荃灣(兆和街)"
+  },
+  {
+    "route_id": 2005517,
+    "region": "NT",
+    "route": "81",
+    "route_seq": 2,
+    "from": "老圍",
+    "to": "荃灣(兆和街)"
+  },
+  {
+    "route_id": 2005550,
+    "region": "NT",
+    "route": "81",
+    "route_seq": 2,
+    "from": "城門水塘",
+    "to": "荃灣(兆和街)"
+  },
+  {
+    "route_id": 2005550,
+    "region": "NT",
+    "route": "81",
+    "route_seq": 2,
+    "from": "城門水塘",
+    "to": "荃灣(兆和街)"
+  },
+  {
+    "route_id": 2007695,
+    "region": "NT",
+    "route": "810",
+    "route_seq": 1,
+    "from": "沙田市中心",
+    "to": "馬鞍山(雅典居)(循環線)"
+  },
+  {
+    "route_id": 2007728,
+    "region": "NT",
+    "route": "810",
+    "route_seq": 1,
+    "from": "沙田市中心(不經保泰街)",
+    "to": "馬鞍山(雅典居)(循環線)"
+  },
+  {
+    "route_id": 2007729,
+    "region": "NT",
+    "route": "810A",
+    "route_seq": 2,
+    "from": "沙田市中心",
+    "to": "白石"
+  },
+  {
+    "route_id": 2007729,
+    "region": "NT",
+    "route": "810A",
+    "route_seq": 2,
+    "from": "沙田市中心",
+    "to": "白石"
+  },
+  {
+    "route_id": 2007761,
+    "region": "NT",
+    "route": "811",
+    "route_seq": 2,
+    "from": "愉翠苑",
+    "to": "穗禾苑"
+  },
+  {
+    "route_id": 2007761,
+    "region": "NT",
+    "route": "811",
+    "route_seq": 2,
+    "from": "愉翠苑",
+    "to": "穗禾苑"
+  },
+  {
+    "route_id": 2007763,
+    "region": "NT",
+    "route": "811A",
+    "route_seq": 2,
+    "from": "碧濤花園",
+    "to": "華翠園"
+  },
+  {
+    "route_id": 2007763,
+    "region": "NT",
+    "route": "811A",
+    "route_seq": 2,
+    "from": "碧濤花園",
+    "to": "華翠園"
+  },
+  {
+    "route_id": 2007767,
+    "region": "NT",
+    "route": "811A",
+    "route_seq": 2,
+    "from": "碧濤花園",
+    "to": "華翠園"
+  },
+  {
+    "route_id": 2007767,
+    "region": "NT",
+    "route": "811A",
+    "route_seq": 2,
+    "from": "碧濤花園",
+    "to": "華翠園"
+  },
+  {
+    "route_id": 2007795,
+    "region": "NT",
+    "route": "811B",
+    "route_seq": 1,
+    "from": "耀安",
+    "to": "火炭(長瀝尾街)(循環線)"
+  },
+  {
+    "route_id": 2007827,
+    "region": "NT",
+    "route": "811K",
+    "route_seq": 1,
+    "from": "穗禾苑",
+    "to": "火炭站(循環線)"
+  },
+  {
+    "route_id": 2007828,
+    "region": "NT",
+    "route": "811K",
+    "route_seq": 1,
+    "from": "穗禾苑",
+    "to": "火炭站(循環線)"
+  },
+  {
+    "route_id": 2007794,
+    "region": "NT",
+    "route": "811P",
+    "route_seq": 2,
+    "from": "駿景園",
+    "to": "第一城"
+  },
+  {
+    "route_id": 2007794,
+    "region": "NT",
+    "route": "811P",
+    "route_seq": 2,
+    "from": "駿景園",
+    "to": "第一城"
+  },
+  {
+    "route_id": 2007830,
+    "region": "NT",
+    "route": "811S",
+    "route_seq": 1,
+    "from": "穗禾苑一期",
+    "to": "耀安(恆康街)(循環線)"
+  },
+  {
+    "route_id": 2005326,
+    "region": "NT",
+    "route": "812",
+    "route_seq": 2,
+    "from": "顯徑(車公廟路)",
+    "to": "水泉澳"
+  },
+  {
+    "route_id": 2005326,
+    "region": "NT",
+    "route": "812",
+    "route_seq": 2,
+    "from": "顯徑(車公廟路)",
+    "to": "水泉澳"
+  },
+  {
+    "route_id": 2005328,
+    "region": "NT",
+    "route": "812",
+    "route_seq": 1,
+    "from": "水泉澳",
+    "to": "顯徑(車公廟路)"
+  },
+  {
+    "route_id": 2005329,
+    "region": "NT",
+    "route": "812A",
+    "route_seq": 1,
+    "from": "水泉澳",
+    "to": "沙田圍站(循環線)"
+  },
+  {
+    "route_id": 2005330,
+    "region": "NT",
+    "route": "812A",
+    "route_seq": 1,
+    "from": "水泉澳(博泉徑)",
+    "to": "沙田圍站(逸泰街)"
+  },
+  {
+    "route_id": 2005332,
+    "region": "NT",
+    "route": "813",
+    "route_seq": 2,
+    "from": "石門站",
+    "to": "水泉澳"
+  },
+  {
+    "route_id": 2005332,
+    "region": "NT",
+    "route": "813",
+    "route_seq": 2,
+    "from": "石門站",
+    "to": "水泉澳"
+  },
+  {
+    "route_id": 2005334,
+    "region": "NT",
+    "route": "813A",
+    "route_seq": 1,
+    "from": "水泉澳",
+    "to": "沙田醫院(循環線)"
+  },
+  {
+    "route_id": 2010077,
+    "region": "NT",
+    "route": "814",
+    "route_seq": 1,
+    "from": "麗坪路",
+    "to": "沙田(白鶴汀街)(循環線)"
+  },
+  {
+    "route_id": 2005551,
+    "region": "NT",
+    "route": "81M",
+    "route_seq": 2,
+    "from": "石圍角邨",
+    "to": "荃灣(兆和街)"
+  },
+  {
+    "route_id": 2005551,
+    "region": "NT",
+    "route": "81M",
+    "route_seq": 2,
+    "from": "石圍角邨",
+    "to": "荃灣(兆和街)"
+  },
+  {
+    "route_id": 2005583,
+    "region": "NT",
+    "route": "82",
+    "route_seq": 2,
+    "from": "城門水塘",
+    "to": "荃灣(兆和街)"
+  },
+  {
+    "route_id": 2005583,
+    "region": "NT",
+    "route": "82",
+    "route_seq": 2,
+    "from": "城門水塘",
+    "to": "荃灣(兆和街)"
+  },
+  {
+    "route_id": 2005616,
+    "region": "NT",
+    "route": "82M",
+    "route_seq": 2,
+    "from": "象山邨",
+    "to": "荃灣(兆和街)"
+  },
+  {
+    "route_id": 2005616,
+    "region": "NT",
+    "route": "82M",
+    "route_seq": 2,
+    "from": "象山邨",
+    "to": "荃灣(兆和街)"
+  },
+  {
+    "route_id": 2008587,
+    "region": "NT",
+    "route": "83A",
+    "route_seq": 2,
+    "from": "安蔭邨(安捷街)",
+    "to": "荃灣(川龍街)"
+  },
+  {
+    "route_id": 2008587,
+    "region": "NT",
+    "route": "83A",
+    "route_seq": 2,
+    "from": "安蔭邨(安捷街)",
+    "to": "荃灣(川龍街)"
+  },
+  {
+    "route_id": 2000964,
+    "region": "NT",
+    "route": "84",
+    "route_seq": 2,
+    "from": "荃灣眾安街",
+    "to": "荃威花園"
+  },
+  {
+    "route_id": 2000964,
+    "region": "NT",
+    "route": "84",
+    "route_seq": 2,
+    "from": "荃灣眾安街",
+    "to": "荃威花園"
+  },
+  {
+    "route_id": 2008589,
+    "region": "NT",
+    "route": "85",
+    "route_seq": 2,
+    "from": "芙蓉山(竹林禪院)",
+    "to": "荃灣(兆和街)"
+  },
+  {
+    "route_id": 2008589,
+    "region": "NT",
+    "route": "85",
+    "route_seq": 2,
+    "from": "芙蓉山(竹林禪院)",
+    "to": "荃灣(兆和街)"
+  },
+  {
+    "route_id": 2008591,
+    "region": "NT",
+    "route": "86",
+    "route_seq": 2,
+    "from": "石籬(梨貝街)",
+    "to": "荃灣(海貴路)"
+  },
+  {
+    "route_id": 2008591,
+    "region": "NT",
+    "route": "86",
+    "route_seq": 2,
+    "from": "石籬(梨貝街)",
+    "to": "荃灣(海貴路)"
+  },
+  {
+    "route_id": 2008593,
+    "region": "NT",
+    "route": "86A",
+    "route_seq": 2,
+    "from": "石籬(梨貝街)",
+    "to": "荃灣(川龍街)"
+  },
+  {
+    "route_id": 2008593,
+    "region": "NT",
+    "route": "86A",
+    "route_seq": 2,
+    "from": "石籬(梨貝街)",
+    "to": "荃灣(川龍街)"
+  },
+  {
+    "route_id": 2008594,
+    "region": "NT",
+    "route": "86M",
+    "route_seq": 2,
+    "from": "石籬(梨貝街)",
+    "to": "荃灣(川龍街)"
+  },
+  {
+    "route_id": 2008594,
+    "region": "NT",
+    "route": "86M",
+    "route_seq": 2,
+    "from": "石籬(梨貝街)",
+    "to": "荃灣(川龍街)"
+  },
+  {
+    "route_id": 2006678,
+    "region": "NT",
+    "route": "87",
+    "route_seq": 2,
+    "from": "葵盛(盛芳街)",
+    "to": "荃灣(鹹田街)"
+  },
+  {
+    "route_id": 2006678,
+    "region": "NT",
+    "route": "87",
+    "route_seq": 2,
+    "from": "葵盛(盛芳街)",
+    "to": "荃灣(鹹田街)"
+  },
+  {
+    "route_id": 2006680,
+    "region": "NT",
+    "route": "87A",
+    "route_seq": 2,
+    "from": "昂運路",
+    "to": "貨櫃碼頭路公共運輸交匯處"
+  },
+  {
+    "route_id": 2006680,
+    "region": "NT",
+    "route": "87A",
+    "route_seq": 2,
+    "from": "昂運路",
+    "to": "貨櫃碼頭路公共運輸交匯處"
+  },
+  {
+    "route_id": 2006705,
+    "region": "NT",
+    "route": "87K",
+    "route_seq": 2,
+    "from": "海貴路公共運輸交匯處",
+    "to": "葵芳站"
+  },
+  {
+    "route_id": 2006705,
+    "region": "NT",
+    "route": "87K",
+    "route_seq": 2,
+    "from": "海貴路公共運輸交匯處",
+    "to": "葵芳站"
+  },
+  {
+    "route_id": 2006681,
+    "region": "NT",
+    "route": "87M",
+    "route_seq": 2,
+    "from": "貨櫃碼頭南路(四號貨櫃碼頭)",
+    "to": "葵芳站"
+  },
+  {
+    "route_id": 2006681,
+    "region": "NT",
+    "route": "87M",
+    "route_seq": 2,
+    "from": "貨櫃碼頭南路(四號貨櫃碼頭)",
+    "to": "葵芳站"
+  },
+  {
+    "route_id": 2005088,
+    "region": "NT",
+    "route": "88",
+    "route_seq": 2,
+    "from": "葵芳站",
+    "to": "青衣邨"
+  },
+  {
+    "route_id": 2005088,
+    "region": "NT",
+    "route": "88",
+    "route_seq": 2,
+    "from": "葵芳站",
+    "to": "青衣邨"
+  },
+  {
+    "route_id": 2008596,
+    "region": "NT",
+    "route": "88A",
+    "route_seq": 1,
+    "from": "担杆山路",
+    "to": "美景花園 (循環線)"
+  },
+  {
+    "route_id": 2008600,
+    "region": "NT",
+    "route": "88A",
+    "route_seq": 1,
+    "from": "美景花園",
+    "to": "長安邨 (循環線)"
+  },
+  {
+    "route_id": 2008601,
+    "region": "NT",
+    "route": "88A",
+    "route_seq": 1,
+    "from": "青衣站",
+    "to": "担杆山路 (循環線)"
+  },
+  {
+    "route_id": 2008602,
+    "region": "NT",
+    "route": "88A",
+    "route_seq": 2,
+    "from": "青衣站",
+    "to": "青衣碼頭"
+  },
+  {
+    "route_id": 2008602,
+    "region": "NT",
+    "route": "88A",
+    "route_seq": 2,
+    "from": "青衣站",
+    "to": "青衣碼頭"
+  },
+  {
+    "route_id": 2005121,
+    "region": "NT",
+    "route": "88B",
+    "route_seq": 2,
+    "from": "葵芳站",
+    "to": "翠怡花園"
+  },
+  {
+    "route_id": 2005121,
+    "region": "NT",
+    "route": "88B",
+    "route_seq": 2,
+    "from": "葵芳站",
+    "to": "翠怡花園"
+  },
+  {
+    "route_id": 2008631,
+    "region": "NT",
+    "route": "88C",
+    "route_seq": 2,
+    "from": "美景花園",
+    "to": "葵芳站"
+  },
+  {
+    "route_id": 2008631,
+    "region": "NT",
+    "route": "88C",
+    "route_seq": 2,
+    "from": "美景花園",
+    "to": "葵芳站"
+  },
+  {
+    "route_id": 2005979,
+    "region": "NT",
+    "route": "88D",
+    "route_seq": 2,
+    "from": "葵芳站",
+    "to": "宏福花園"
+  },
+  {
+    "route_id": 2005979,
+    "region": "NT",
+    "route": "88D",
+    "route_seq": 2,
+    "from": "葵芳站",
+    "to": "宏福花園"
+  },
+  {
+    "route_id": 2009972,
+    "region": "NT",
+    "route": "88D",
+    "route_seq": 1,
+    "from": "涌美路, 近長青邨青荷樓",
+    "to": "興寧路,近新都會廣場"
+  },
+  {
+    "route_id": 2008604,
+    "region": "NT",
+    "route": "88F",
+    "route_seq": 2,
+    "from": "藍澄灣",
+    "to": "青衣站"
+  },
+  {
+    "route_id": 2008604,
+    "region": "NT",
+    "route": "88F",
+    "route_seq": 2,
+    "from": "藍澄灣",
+    "to": "青衣站"
+  },
+  {
+    "route_id": 2008619,
+    "region": "NT",
+    "route": "88F",
+    "route_seq": 2,
+    "from": "青衣站",
+    "to": "藍澄灣"
+  },
+  {
+    "route_id": 2008619,
+    "region": "NT",
+    "route": "88F",
+    "route_seq": 2,
+    "from": "青衣站",
+    "to": "藍澄灣"
+  },
+  {
+    "route_id": 2008629,
+    "region": "NT",
+    "route": "88G",
+    "route_seq": 2,
+    "from": "藍澄灣",
+    "to": "葵芳站"
+  },
+  {
+    "route_id": 2008629,
+    "region": "NT",
+    "route": "88G",
+    "route_seq": 2,
+    "from": "藍澄灣",
+    "to": "葵芳站"
+  },
+  {
+    "route_id": 2008621,
+    "region": "NT",
+    "route": "88M",
+    "route_seq": 2,
+    "from": "香港聯合船塢",
+    "to": "葵芳站"
+  },
+  {
+    "route_id": 2008621,
+    "region": "NT",
+    "route": "88M",
+    "route_seq": 2,
+    "from": "香港聯合船塢",
+    "to": "葵芳站"
+  },
+  {
+    "route_id": 2008623,
+    "region": "NT",
+    "route": "88M",
+    "route_seq": 2,
+    "from": "香港聯合船塢 (不經長青)",
+    "to": "葵芳站"
+  },
+  {
+    "route_id": 2008623,
+    "region": "NT",
+    "route": "88M",
+    "route_seq": 2,
+    "from": "香港聯合船塢 (不經長青)",
+    "to": "葵芳站"
+  },
+  {
+    "route_id": 2008624,
+    "region": "NT",
+    "route": "88M",
+    "route_seq": 2,
+    "from": "長青邨",
+    "to": "葵芳站"
+  },
+  {
+    "route_id": 2008624,
+    "region": "NT",
+    "route": "88M",
+    "route_seq": 2,
+    "from": "長青邨",
+    "to": "葵芳站"
+  },
+  {
+    "route_id": 2008625,
+    "region": "NT",
+    "route": "88M",
+    "route_seq": 1,
+    "from": "香港聯合船塢",
+    "to": "葵芳站 (不經新都會廣場)"
+  },
+  {
+    "route_id": 2008627,
+    "region": "NT",
+    "route": "88M",
+    "route_seq": 1,
+    "from": "葵芳站",
+    "to": "青衣南 (循環線)"
+  },
+  {
+    "route_id": 2008628,
+    "region": "NT",
+    "route": "88M",
+    "route_seq": 1,
+    "from": "葵芳站",
+    "to": "青衣南 (回程不經新都會廣場) (循環線)"
+  },
+  {
+    "route_id": 2007959,
+    "region": "NT",
+    "route": "89",
+    "route_seq": 2,
+    "from": "石頭街",
+    "to": "荃灣(河背街)"
+  },
+  {
+    "route_id": 2007959,
+    "region": "NT",
+    "route": "89",
+    "route_seq": 2,
+    "from": "石頭街",
+    "to": "荃灣(河背街)"
+  },
+  {
+    "route_id": 2007992,
+    "region": "NT",
+    "route": "89A",
+    "route_seq": 2,
+    "from": "葵興站",
+    "to": "荃灣(河背街)"
+  },
+  {
+    "route_id": 2007992,
+    "region": "NT",
+    "route": "89A",
+    "route_seq": 2,
+    "from": "葵興站",
+    "to": "荃灣(河背街)"
+  },
+  {
+    "route_id": 2007993,
+    "region": "NT",
+    "route": "89B",
+    "route_seq": 2,
+    "from": "葵盛北(葵孝街)",
+    "to": "海貴路公共運輸交匯處"
+  },
+  {
+    "route_id": 2007993,
+    "region": "NT",
+    "route": "89B",
+    "route_seq": 2,
+    "from": "葵盛北(葵孝街)",
+    "to": "海貴路公共運輸交匯處"
+  },
+  {
+    "route_id": 2007995,
+    "region": "NT",
+    "route": "89M",
+    "route_seq": 1,
+    "from": "葵盛北(葵孝街)",
+    "to": "葵芳站(循環線)"
+  },
+  {
+    "route_id": 2007994,
+    "region": "NT",
+    "route": "89P",
+    "route_seq": 1,
+    "from": "石頭街",
+    "to": "葵芳(循環線)"
+  },
+  {
+    "route_id": 2007996,
+    "region": "NT",
+    "route": "89S",
+    "route_seq": 1,
+    "from": "葵芳站",
+    "to": "葵盛北(循環線)"
+  },
+  {
+    "route_id": 2002547,
+    "region": "NT",
+    "route": "9",
+    "route_seq": 2,
+    "from": "西貢",
+    "to": "麥理浩夫人度假村"
+  },
+  {
+    "route_id": 2002547,
+    "region": "NT",
+    "route": "9",
+    "route_seq": 2,
+    "from": "西貢",
+    "to": "麥理浩夫人度假村"
+  },
+  {
+    "route_id": 2002548,
+    "region": "NT",
+    "route": "9",
+    "route_seq": 1,
+    "from": "大網仔",
+    "to": "西貢"
+  },
+  {
+    "route_id": 2000987,
+    "region": "NT",
+    "route": "901",
+    "route_seq": 1,
+    "from": "港珠澳大橋香港口岸",
+    "to": "東涌北(循環線)"
+  },
+  {
+    "route_id": 2005650,
+    "region": "NT",
+    "route": "90A",
+    "route_seq": 2,
+    "from": "葵涌醫院",
+    "to": "美孚"
+  },
+  {
+    "route_id": 2005650,
+    "region": "NT",
+    "route": "90A",
+    "route_seq": 2,
+    "from": "葵涌醫院",
+    "to": "美孚"
+  },
+  {
+    "route_id": 2007770,
+    "region": "NT",
+    "route": "90M",
+    "route_seq": 1,
+    "from": "荔景山村",
+    "to": "美孚站(循環線)"
+  },
+  {
+    "route_id": 2005649,
+    "region": "NT",
+    "route": "90P",
+    "route_seq": 2,
+    "from": "瑪嘉烈醫院",
+    "to": "美孚"
+  },
+  {
+    "route_id": 2005649,
+    "region": "NT",
+    "route": "90P",
+    "route_seq": 2,
+    "from": "瑪嘉烈醫院",
+    "to": "美孚"
+  },
+  {
+    "route_id": 2005683,
+    "region": "NT",
+    "route": "91",
+    "route_seq": 2,
+    "from": "荃灣(鹹田街)",
+    "to": "荔崗街"
+  },
+  {
+    "route_id": 2005683,
+    "region": "NT",
+    "route": "91",
+    "route_seq": 2,
+    "from": "荃灣(鹹田街)",
+    "to": "荔崗街"
+  },
+  {
+    "route_id": 2005651,
+    "region": "NT",
+    "route": "91A",
+    "route_seq": 2,
+    "from": "葵芳站",
+    "to": "荔崗街"
+  },
+  {
+    "route_id": 2005651,
+    "region": "NT",
+    "route": "91A",
+    "route_seq": 2,
+    "from": "葵芳站",
+    "to": "荔崗街"
+  },
+  {
+    "route_id": 2005682,
+    "region": "NT",
+    "route": "91A",
+    "route_seq": 2,
+    "from": "葵盛圍",
+    "to": "荔崗街"
+  },
+  {
+    "route_id": 2005682,
+    "region": "NT",
+    "route": "91A",
+    "route_seq": 2,
+    "from": "葵盛圍",
+    "to": "荔崗街"
+  },
+  {
+    "route_id": 2007771,
+    "region": "NT",
+    "route": "92M",
+    "route_seq": 1,
+    "from": "華員邨",
+    "to": "美孚站(循環線)"
+  },
+  {
+    "route_id": 2007772,
+    "region": "NT",
+    "route": "93",
+    "route_seq": 2,
+    "from": "荃灣(鹹田街)",
+    "to": "華員邨"
+  },
+  {
+    "route_id": 2007772,
+    "region": "NT",
+    "route": "93",
+    "route_seq": 2,
+    "from": "荃灣(鹹田街)",
+    "to": "華員邨"
+  },
+  {
+    "route_id": 2007773,
+    "region": "NT",
+    "route": "93A",
+    "route_seq": 2,
+    "from": "荃灣(鹹田街)",
+    "to": "華景山莊"
+  },
+  {
+    "route_id": 2007773,
+    "region": "NT",
+    "route": "93A",
+    "route_seq": 2,
+    "from": "荃灣(鹹田街)",
+    "to": "華景山莊"
+  },
+  {
+    "route_id": 2004329,
+    "region": "NT",
+    "route": "94",
+    "route_seq": 2,
+    "from": "葵盛",
+    "to": "石圍角"
+  },
+  {
+    "route_id": 2004329,
+    "region": "NT",
+    "route": "94",
+    "route_seq": 2,
+    "from": "葵盛",
+    "to": "石圍角"
+  },
+  {
+    "route_id": 2004331,
+    "region": "NT",
+    "route": "94A",
+    "route_seq": 2,
+    "from": "葵盛",
+    "to": "梨木樹邨公共運輸交匯處"
+  },
+  {
+    "route_id": 2004331,
+    "region": "NT",
+    "route": "94A",
+    "route_seq": 2,
+    "from": "葵盛",
+    "to": "梨木樹邨公共運輸交匯處"
+  },
+  {
+    "route_id": 2008157,
+    "region": "NT",
+    "route": "94A",
+    "route_seq": 1,
+    "from": "梨木樹邨公共運輸交匯處",
+    "to": "葵富路(循環線)"
+  },
+  {
+    "route_id": 2004330,
+    "region": "NT",
+    "route": "94S",
+    "route_seq": 2,
+    "from": "城門水塘",
+    "to": "海貴路公共運輸交匯處"
+  },
+  {
+    "route_id": 2004330,
+    "region": "NT",
+    "route": "94S",
+    "route_seq": 2,
+    "from": "城門水塘",
+    "to": "海貴路公共運輸交匯處"
+  },
+  {
+    "route_id": 2008002,
+    "region": "NT",
+    "route": "95",
+    "route_seq": 2,
+    "from": "海貴路公共運輸交匯處",
+    "to": "荃灣中心"
+  },
+  {
+    "route_id": 2008002,
+    "region": "NT",
+    "route": "95",
+    "route_seq": 2,
+    "from": "海貴路公共運輸交匯處",
+    "to": "荃灣中心"
+  },
+  {
+    "route_id": 2008005,
+    "region": "NT",
+    "route": "95A",
+    "route_seq": 1,
+    "from": "荃德花園",
+    "to": "荃灣站(循環線)"
+  },
+  {
+    "route_id": 2008004,
+    "region": "NT",
+    "route": "95K",
+    "route_seq": 2,
+    "from": "荃灣站",
+    "to": "海貴路公共運輸交匯處"
+  },
+  {
+    "route_id": 2008004,
+    "region": "NT",
+    "route": "95K",
+    "route_seq": 2,
+    "from": "荃灣站",
+    "to": "海貴路公共運輸交匯處"
+  },
+  {
+    "route_id": 2008058,
+    "region": "NT",
+    "route": "95M",
+    "route_seq": 2,
+    "from": "荃灣中心",
+    "to": "荃灣站"
+  },
+  {
+    "route_id": 2008058,
+    "region": "NT",
+    "route": "95M",
+    "route_seq": 2,
+    "from": "荃灣中心",
+    "to": "荃灣站"
+  },
+  {
+    "route_id": 2008003,
+    "region": "NT",
+    "route": "96",
+    "route_seq": 2,
+    "from": "青龍頭",
+    "to": "荃灣(海壩街)"
+  },
+  {
+    "route_id": 2008003,
+    "region": "NT",
+    "route": "96",
+    "route_seq": 2,
+    "from": "青龍頭",
+    "to": "荃灣(海壩街)"
+  },
+  {
+    "route_id": 2008061,
+    "region": "NT",
+    "route": "96A",
+    "route_seq": 1,
+    "from": "油柑頭村",
+    "to": "荃灣站(循環線)"
+  },
+  {
+    "route_id": 2008062,
+    "region": "NT",
+    "route": "96B",
+    "route_seq": 1,
+    "from": "麗城花園",
+    "to": "荃灣站(循環線)"
+  },
+  {
+    "route_id": 2008093,
+    "region": "NT",
+    "route": "96C",
+    "route_seq": 2,
+    "from": "碧堤半島",
+    "to": "荃灣站"
+  },
+  {
+    "route_id": 2008093,
+    "region": "NT",
+    "route": "96C",
+    "route_seq": 2,
+    "from": "碧堤半島",
+    "to": "荃灣站"
+  },
+  {
+    "route_id": 2008091,
+    "region": "NT",
+    "route": "96M",
+    "route_seq": 2,
+    "from": "青龍頭",
+    "to": "荃灣站"
+  },
+  {
+    "route_id": 2008091,
+    "region": "NT",
+    "route": "96M",
+    "route_seq": 2,
+    "from": "青龍頭",
+    "to": "荃灣站"
+  },
+  {
+    "route_id": 2008059,
+    "region": "NT",
+    "route": "96P",
+    "route_seq": 1,
+    "from": "荃灣西站公共運輸交匯處",
+    "to": "麗城花園(循環線)"
+  },
+  {
+    "route_id": 2005055,
+    "region": "NT",
+    "route": "97A",
+    "route_seq": 2,
+    "from": "長沙灣(長發街)",
+    "to": "華景山莊"
+  },
+  {
+    "route_id": 2005055,
+    "region": "NT",
+    "route": "97A",
+    "route_seq": 2,
+    "from": "長沙灣(長發街)",
+    "to": "華景山莊"
+  },
+  {
+    "route_id": 2007997,
+    "region": "NT",
+    "route": "98",
+    "route_seq": 2,
+    "from": "葵盛北(葵孝街)",
+    "to": "荃灣(河背街)"
+  },
+  {
+    "route_id": 2007997,
+    "region": "NT",
+    "route": "98",
+    "route_seq": 2,
+    "from": "葵盛北(葵孝街)",
+    "to": "荃灣(河背街)"
+  },
+  {
+    "route_id": 2007998,
+    "region": "NT",
+    "route": "98",
+    "route_seq": 1,
+    "from": "荃灣(河背街)",
+    "to": "高盛臺(循環線)"
+  },
+  {
+    "route_id": 2007266,
+    "region": "NT",
+    "route": "99",
+    "route_seq": 2,
+    "from": "海濱花園",
+    "to": "海貴路公共運輸交匯處"
+  },
+  {
+    "route_id": 2007266,
+    "region": "NT",
+    "route": "99",
+    "route_seq": 2,
+    "from": "海濱花園",
+    "to": "海貴路公共運輸交匯處"
+  },
+  {
+    "route_id": 2002549,
+    "region": "NT",
+    "route": "9A",
+    "route_seq": 2,
+    "from": "萬宜水庫東壩",
+    "to": "北潭涌"
+  },
+  {
+    "route_id": 2002549,
+    "region": "NT",
+    "route": "9A",
+    "route_seq": 2,
+    "from": "萬宜水庫東壩",
+    "to": "北潭涌"
+  },
+  {
+    "route_id": 2004165,
+    "region": "NT",
+    "route": "N44B",
+    "route_seq": 2,
+    "from": "屯門碼頭",
+    "to": "落馬洲管制站"
+  },
+  {
+    "route_id": 2004165,
+    "region": "NT",
+    "route": "N44B",
+    "route_seq": 2,
+    "from": "屯門碼頭",
+    "to": "落馬洲管制站"
+  }
+]

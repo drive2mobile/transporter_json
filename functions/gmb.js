@@ -1,107 +1,249 @@
-import { downloadJSONFile, loadJSONFromFile, saveAndReturnJSONFile, saveJSONToFile } from "../src/utilities/file_management.js";
+import { downloadJSONFile, loadJSONFromFile, returnJson, saveAndReturnJSONFile, saveJSONToFile } from "../src/utilities/file_management.js";
 
-async function downloadRouteListGmb(lang)
+
+async function downloadAndParseRouteListGmb()
 {
-    const url = `https://data.etagmb.gov.hk/route`;
-    const downloadFilePath = `./download/gmb/raw/route/routeList.json`;
-    await downloadJSONFile(url, downloadFilePath);
+    const url1 = `https://data.etagmb.gov.hk/route`;
+    const routeListSimple = await returnJson(url1);
 
-    const routeListSimple = `./download/gmb/raw/route/routeList.json`;
-    const routeListSimpleJson = await loadJSONFromFile(routeListSimple);
+    const routeList_tc = [];
+    const routeList_en = [];
 
-    await downloadDetailRouteList('HKI', lang);
-    await downloadDetailRouteList('KLN', lang);
-    await downloadDetailRouteList('NT', lang);
+    await subFunction('HKI');
+    await subFunction('KLN');
+    await subFunction('NT');
 
-    async function downloadDetailRouteList(region, lang)
+    async function subFunction(region)
     {
-        const routeList = [];
-        const routeStopList = {};
+        const routes = routeListSimple['data']['routes'][region];
 
-        // iterate each route number
-        const routes = routeListSimpleJson['data']['routes'][region];
         for (var i = 0; i < routes.length; i++)
         {
-            if (i == 10) { break; }
+            // if (i == 10) { break; }
+            const url2 = `https://data.etagmb.gov.hk/route/${region}/${routes[i]}`;
+            const route = await returnJson(url2);
 
-            // download route detail json
-            const url = `https://data.etagmb.gov.hk/route/${region}/${routes[i]}`;
-            const saveFilePath = `./download/gmb/raw/route/${region}_${routes[i]}.json`;
-            const routeJson = await saveAndReturnJSONFile(url, saveFilePath);
-
-            // iterate each route detail
-            for (var j = 0; j < routeJson['data'].length; j++)
+            const routeData = route['data'];
+            for (var j = 0; j < routeData.length; j++)
             {
-                const currRoute = routeJson['data'][j];
-                const route_id = currRoute['route_id'];
-                const directions = currRoute['directions'];
-
-                // === start prepare rotue list json output ===
-                const newRoute = {
-                    'company': 'gmb',
-                    'route': currRoute['route_code'],
-                    'route_id': currRoute['route_id'],
+                const newRouteItem_tc = {
+                    'route_id': routeData[j]['route_id'],
                     'region': region,
+                    'route': routeData[j]['route_code'],
                 }
-                // === end prepare rotue list json output ===
 
-                // for each route detail, iterate direction and download route stop list
-                for (var k = 0; k < directions.length; k++)
+                const newRouteItem_en = {
+                    'route_id': routeData[j]['route_id'],
+                    'region': region,
+                    'route': routeData[j]['route_code'],
+                }
+
+
+                const routeDirection = routeData[j]['directions'];
+                for (var k = 0; k < routeDirection.length; k++)
                 {
-                    const url = `https://data.etagmb.gov.hk/route-stop/${route_id}/${directions[k]['route_seq']}`;
-                    const downloadFilePath = `./download/gmb/raw/routeStop/${region}_${routes[i]}_${route_id}_${directions[k]['route_seq']}.json`;
-                    const routeStopJson = await saveAndReturnJSONFile(url, downloadFilePath);
+                    newRouteItem_tc['route_seq'] = routeDirection[k]['route_seq'];
+                    newRouteItem_tc['from'] = routeDirection[k][`orig_tc`];
+                    newRouteItem_tc['to'] = routeDirection[k][`dest_tc`];
+                    routeList_tc.push(newRouteItem_tc);
 
-                    // iterate each stops
-                    for (var m = 0; m < routeStopJson['data']['route_stops'].length; m++)
-                    {
-                        const currStop = routeStopJson['data']['route_stops'][m];
-                        const id = `gmb_${region}_${routes[i]}_${route_id}_${directions[k]['route_seq']}`;
-
-                        
-
-                        const newStop = {
-                            'company': 'gmb',
-                            'region': region,
-                            'route_id': currRoute['route_id'],
-                            'route': currRoute['route_code'],
-                            'route_seq': directions[k]['route_seq'],
-                            'from': directions[k][`orig_${lang}`],
-                            'to': directions[k][`dest_${lang}`],
-                            'stop': currStop['stop_id'],
-                            'stop_seq': currStop['stop_seq'],
-                            'name': currStop[`name_${lang}`],
-                        }
-
-                        if (id in routeStopList == false)
-                        {
-                            const newArray = [newStop];
-                            routeStopList[id] = newArray;
-                        }
-                        else
-                        {
-                            routeStopList[id].push(newStop);
-                        }
-                    }
-
-                    // === start prepare rotue list json output ===
-                    newRoute['route_seq'] = directions[k]['route_seq'];
-                    newRoute['from'] = directions[k][`orig_${lang}`];
-                    newRoute['to'] = directions[k][`dest_${lang}`];
-                    routeList.push(newRoute);
-                    // === end prepare rotue list json output ===
-
-                    await new Promise((resolve) => setTimeout(resolve, 100));
+                    newRouteItem_en['route_seq'] = routeDirection[k]['route_seq'];
+                    newRouteItem_en['from'] = routeDirection[k][`orig_en`];
+                    newRouteItem_en['to'] = routeDirection[k][`dest_en`];
+                    routeList_en.push(newRouteItem_en);
                 }
+            }
+
+            console.log(`Processing ${i}/${routes.length}`);
+            await new Promise((resolve) => setTimeout(resolve, 100));
+        }
+    }
+
+    const saveFilePath1 = `./download/gmb/output/routeList_tc.json`;
+    await saveJSONToFile(saveFilePath1, routeList_tc);
+
+    const saveFilePath2 = `./download/gmb/output/routeList_en.json`;
+    await saveJSONToFile(saveFilePath2, routeList_en);
+}
+
+async function downloadAndParseRouteStopListGmb()
+{
+    const readFilePath1 = `./download/gmb/output/routeList_tc.json`;
+    const routes_tc = await loadJSONFromFile(readFilePath1);
+
+    const readFilePath2 = `./download/gmb/output/routeList_en.json`;
+    const routes_en = await loadJSONFromFile(readFilePath2);
+
+    const routeStopList_tc = {};
+    const routeStopList_en = {};
+
+    for (var i = 0; i < routes_tc.length; i++)
+    {
+        // if (i == 10 ) { break; }
+        const url = `https://data.etagmb.gov.hk/route-stop/${routes_tc[i]['route_id']}/${routes_tc[i]['route_seq']}`;
+        const routeStops = await returnJson(url);
+
+        const routeStopData = routeStops['data']['route_stops'];
+        for (var j = 0; j < routeStopData.length; j++)
+        {
+            const id = `gmb_${routes_tc[i]['region']}_${routes_tc[i]['route']}_${routes_tc[i]['route_seq']}`;
+
+            const newStop_tc = {
+                'route_id': routes_tc[i]['route_id'],
+                'company': 'gmb',
+                'region': routes_tc[i]['region'],
+                'route': routes_tc[i]['route'],
+                'route_seq': routes_tc[i]['route_seq'],
+                'from': routes_tc[i]['from'],
+                'to': routes_tc[i]['to'],
+                'name': routeStopData[j][`name_tc`],
+                'stop_seq': routeStopData[j]['stop_seq'],
+                'stop': routeStopData[j]['stop_id'],
+            }
+
+            const newStop_en = {
+                'route_id': routes_en[i]['route_id'],
+                'company': 'gmb',
+                'region': routes_en[i]['region'],
+                'route': routes_en[i]['route'],
+                'route_seq': routes_en[i]['route_seq'],
+                'from': routes_en[i]['from'],
+                'to': routes_en[i]['to'],
+                'name': routeStopData[j][`name_en`],
+                'stop_seq': routeStopData[j]['stop_seq'],
+                'stop': routeStopData[j]['stop_id'],
+            }
+
+            if (id in routeStopList_tc == false)
+            {
+                const newArray_tc = [newStop_tc];
+                routeStopList_tc[id] = newArray_tc;
+
+                const newArray_en = [newStop_en];
+                routeStopList_en[id] = newArray_en;
+            }
+            else
+            {
+                routeStopList_tc[id].push(newStop_tc);
+
+                routeStopList_en[id].push(newStop_en);
             }
         }
 
-        const saveFilePath1 = `./download/gmb/output/routeList_${region}_${lang}.json`;
-        await saveJSONToFile(saveFilePath1, routeList);
+        console.log(`Processing ${i}/${routes_tc.length}`);
+        await new Promise((resolve) => setTimeout(resolve, 100));
+    }
 
-        const saveFilePath2 = `./download/gmb/output/routeStopList_${region}_${lang}.json`;
-        await saveJSONToFile(saveFilePath2, routeStopList);
+    const saveFilePath1 = `./download/gmb/output/routeStopList_tc.json`;
+    await saveJSONToFile(saveFilePath1, routeStopList_tc);
+
+    const saveFilePath2 = `./download/gmb/output/routeStopList_en.json`;
+    await saveJSONToFile(saveFilePath2, routeStopList_en);
+}
+
+async function downloadStopGmb()
+{
+    const readFilePath1 = `./download/gmb/output/routeStopList_tc.json`;
+    const routeStopList = await loadJSONFromFile(readFilePath1);
+
+    const stops_object = {};
+    const stops_array = [];
+
+    for (const key in routeStopList)
+    {
+        const currRoute = routeStopList[key];
+
+        for (var i = 0; i < currRoute.length; i++)
+        {
+            if (currRoute[i]['stop'] in stops_object == false)
+            {
+                stops_object[currRoute[i]['stop']] = currRoute[i]['stop'];
+                stops_array.push(currRoute[i]['stop']);
+            }
+        }
+    }
+
+    console.log(stops_array)
+
+    for (var k = 0; k < stops_array.length; k++)
+    {
+        const url1 = `https://data.etagmb.gov.hk/stop/${stops_array[k]}`;
+        const downloadFilePath = './download/gmb/raw/stop/' + stops_array[k] + '.json';
+        await downloadJSONFile(url1, downloadFilePath);
+
+        console.log(`Processing ${k}/${stops_array.length}`);
+        await new Promise((resolve) => setTimeout(resolve, 100));
     }
 }
 
-export { downloadRouteListGmb }
+async function mergeStopCoordinateToRouteStopGmb()
+{
+    const readFilePath1 = `./download/gmb/output/routeStopList_tc.json`;
+    const routeStopList_tc = await loadJSONFromFile(readFilePath1);
+
+    const readFilePath2 = `./download/gmb/output/routeStopList_en.json`;
+    const routeStopList_en = await loadJSONFromFile(readFilePath2);
+
+    const newRouteStopList_tc = {}
+    const newRouteStopList_en = {}
+
+    for (const key in routeStopList_tc)
+    {
+        const currRoute = routeStopList_tc[key];
+
+        for (var i = 0; i < currRoute.length; i++)
+        {
+            const readFilePath2 = `./download/gmb/raw/stop/${currRoute[i]['stop']}.json`;
+            const stopJson = await loadJSONFromFile(readFilePath2);
+
+            const stop = currRoute[i];
+            stop['lat'] = stopJson['data']['coordinates']['wgs84']['latitude'];
+            stop['long'] = stopJson['data']['coordinates']['wgs84']['longitude'];
+
+            if (key in newRouteStopList_tc)
+            {
+                newRouteStopList_tc[key].push(stop);
+            }
+            else
+            {
+                const newArray = [stop];
+                newRouteStopList_tc[key] = newArray;
+            }
+        }
+    }
+
+    for (const key in routeStopList_en)
+    {
+        const currRoute = routeStopList_en[key];
+
+        for (var i = 0; i < currRoute.length; i++)
+        {
+            const readFilePath2 = `./download/gmb/raw/stop/${currRoute[i]['stop']}.json`;
+            const stopJson = await loadJSONFromFile(readFilePath2);
+
+            const stop = currRoute[i];
+            stop['lat'] = stopJson['data']['coordinates']['wgs84']['latitude'];
+            stop['long'] = stopJson['data']['coordinates']['wgs84']['longitude'];
+
+            if (key in newRouteStopList_en)
+            {
+                newRouteStopList_en[key].push(stop);
+            }
+            else
+            {
+                const newArray = [stop];
+                newRouteStopList_en[key] = newArray;
+            }
+        }
+    }
+
+    const saveFilePath1 = `./download/gmb/output/routeStopList_merge_tc.json`;
+    await saveJSONToFile(saveFilePath1, newRouteStopList_tc);
+
+    const saveFilePath2 = `./download/gmb/output/routeStopList_merge_en.json`;
+    await saveJSONToFile(saveFilePath2, newRouteStopList_en);
+}
+
+
+
+export { downloadAndParseRouteListGmb, downloadAndParseRouteStopListGmb, downloadStopGmb, mergeStopCoordinateToRouteStopGmb }
