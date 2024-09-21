@@ -66,8 +66,8 @@ async function parseJsonKmb(lang)
             'id': id,
             'company': company,
             'route': currRoute['route'],
-            'from': currRoute[`dest_${lang}`],
-            'to': currRoute[`orig_${lang}`],
+            'from': currRoute[`orig_${lang}`],
+            'to': currRoute[`dest_${lang}`],
             'dir': 'I',
             'serviceType': currRoute['service_type']
         }

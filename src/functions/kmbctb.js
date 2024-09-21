@@ -24,10 +24,11 @@ async function parseJsonKmbCtb(lang)
             {
                 const currStop = currRouteList[i];
                 var ctbRouteStopList = [];
+                var dir = currStop['dir'];
 
                 if (currStop['route'] in reverseDir)
                 {
-                    const dir = currStop['dir'] == 'I' ? 'O' : 'I';
+                    dir = currStop['dir'] == 'I' ? 'O' : 'I';
                     ctbRouteStopList = routeStopListCtb[`kmbctb_${currStop['route']}_${dir}`];
                 }
                 else
@@ -37,6 +38,7 @@ async function parseJsonKmbCtb(lang)
                     
                 const closestStop = await findNearestCoopStop(currStop['lat'], currStop['long'], ctbRouteStopList);
                 currStop['coopStop'] = closestStop;
+                currStop['coopDir'] = dir;
 
                 newArray.push(currStop);
             }

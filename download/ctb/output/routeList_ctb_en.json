@@ -3,8 +3,8 @@
     "id": "kmb_1_I",
     "company": "kmb",
     "route": "1",
-    "from": "Happy Valley (Upper)",
-    "to": "Felix Villas",
+    "from": "Felix Villas",
+    "to": "Happy Valley (Upper)",
     "dir": "I"
   },
   {
@@ -19,8 +19,8 @@
     "id": "kmb_10_I",
     "company": "kmb",
     "route": "10",
-    "from": "North Point Ferry Pier",
-    "to": "Kennedy Town",
+    "from": "Kennedy Town",
+    "to": "North Point Ferry Pier",
     "dir": "I"
   },
   {
@@ -35,8 +35,8 @@
     "id": "kmbctb_101_I",
     "company": "kmbctb",
     "route": "101",
-    "from": "Kwun Tong (Yue Man Square)",
-    "to": "Kennedy Town",
+    "from": "Kennedy Town",
+    "to": "Kwun Tong (Yue Man Square)",
     "dir": "I"
   },
   {
@@ -59,8 +59,8 @@
     "id": "kmbctb_101X_I",
     "company": "kmbctb",
     "route": "101X",
-    "from": "Kwun Tong (Yue Man Square)",
-    "to": "Kennedy Town",
+    "from": "Kennedy Town",
+    "to": "Kwun Tong (Yue Man Square)",
     "dir": "I"
   },
   {
@@ -75,8 +75,8 @@
     "id": "kmbctb_102_I",
     "company": "kmbctb",
     "route": "102",
-    "from": "Mei Foo",
-    "to": "Shau Kei Wan",
+    "from": "Shau Kei Wan",
+    "to": "Mei Foo",
     "dir": "I"
   },
   {
@@ -91,8 +91,8 @@
     "id": "kmbctb_102P_I",
     "company": "kmbctb",
     "route": "102P",
-    "from": "Mei Foo",
-    "to": "Shau Kei Wan",
+    "from": "Shau Kei Wan",
+    "to": "Mei Foo",
     "dir": "I"
   },
   {
@@ -115,8 +115,8 @@
     "id": "kmbctb_103_I",
     "company": "kmbctb",
     "route": "103",
-    "from": "Chuk Yuen",
-    "to": "Pokfield Road",
+    "from": "Pokfield Road",
+    "to": "Chuk Yuen",
     "dir": "I"
   },
   {
@@ -131,8 +131,8 @@
     "id": "kmbctb_104_I",
     "company": "kmbctb",
     "route": "104",
-    "from": "Pak Tin Estate",
-    "to": "Kennedy Town / Central",
+    "from": "Kennedy Town / Central",
+    "to": "Pak Tin Estate",
     "dir": "I"
   },
   {
@@ -147,8 +147,8 @@
     "id": "kmbctb_106_I",
     "company": "kmbctb",
     "route": "106",
-    "from": "Wong Tai Sin",
-    "to": "Siu Sai Wan (Island Resort)",
+    "from": "Siu Sai Wan (Island Resort)",
+    "to": "Wong Tai Sin",
     "dir": "I"
   },
   {
@@ -171,8 +171,8 @@
     "id": "kmbctb_106P_I",
     "company": "kmbctb",
     "route": "106P",
-    "from": "Wong Tai Sin",
-    "to": "Siu Sai Wan (Island Resort)",
+    "from": "Siu Sai Wan (Island Resort)",
+    "to": "Wong Tai Sin",
     "dir": "I"
   },
   {
@@ -187,8 +187,8 @@
     "id": "kmbctb_107_I",
     "company": "kmbctb",
     "route": "107",
-    "from": "Kowloon Bay",
-    "to": "Wah Kwai Estate",
+    "from": "Wah Kwai Estate",
+    "to": "Kowloon Bay",
     "dir": "I"
   },
   {
@@ -203,8 +203,8 @@
     "id": "kmbctb_107P_I",
     "company": "kmbctb",
     "route": "107P",
-    "from": "Cyberport",
-    "to": "Hung Hom (Laguna Verde)",
+    "from": "Hung Hom (Laguna Verde)",
+    "to": "Cyberport",
     "dir": "I"
   },
   {
@@ -219,8 +219,8 @@
     "id": "kmbctb_109_I",
     "company": "kmbctb",
     "route": "109",
-    "from": "Ho Man Tin Estate",
-    "to": "Central (Macau Ferry)",
+    "from": "Central (Macau Ferry)",
+    "to": "Ho Man Tin Estate",
     "dir": "I"
   },
   {
@@ -235,8 +235,8 @@
     "id": "kmb_11_I",
     "company": "kmb",
     "route": "11",
-    "from": "Jardine's Lookout",
-    "to": "Central (Ferry Piers)",
+    "from": "Central (Ferry Piers)",
+    "to": "Jardine's Lookout",
     "dir": "I"
   },
   {
@@ -251,8 +251,8 @@
     "id": "kmbctb_110_I",
     "company": "kmbctb",
     "route": "110",
-    "from": "Tsim Sha Tsui (Mody Road)",
-    "to": "Shau Kei Wan",
+    "from": "Shau Kei Wan",
+    "to": "Tsim Sha Tsui (Mody Road)",
     "dir": "I"
   },
   {
@@ -267,8 +267,8 @@
     "id": "kmbctb_111_I",
     "company": "kmbctb",
     "route": "111",
-    "from": "Ping Shek Estate",
-    "to": "Central (Macau Ferry)",
+    "from": "Central (Macau Ferry)",
+    "to": "Ping Shek Estate",
     "dir": "I"
   },
   {
@@ -283,8 +283,8 @@
     "id": "kmbctb_111P_I",
     "company": "kmbctb",
     "route": "111P",
-    "from": "Central (Macau Ferry)",
-    "to": "Choi Fook Estate",
+    "from": "Choi Fook Estate",
+    "to": "Central (Macau Ferry)",
     "dir": "I"
   },
   {
@@ -299,8 +299,8 @@
     "id": "kmbctb_112_I",
     "company": "kmbctb",
     "route": "112",
-    "from": "So Uk Estate",
-    "to": "North Point (Pak Fuk Road)",
+    "from": "North Point (Pak Fuk Road)",
+    "to": "So Uk Estate",
     "dir": "I"
   },
   {
@@ -315,8 +315,8 @@
     "id": "kmbctb_113_I",
     "company": "kmbctb",
     "route": "113",
-    "from": "Choi Hung",
-    "to": "Kennedy Town (Belcher Bay)",
+    "from": "Kennedy Town (Belcher Bay)",
+    "to": "Choi Hung",
     "dir": "I"
   },
   {
@@ -331,8 +331,8 @@
     "id": "kmbctb_115_I",
     "company": "kmbctb",
     "route": "115",
-    "from": "Kowloon City Ferry Pier",
-    "to": "Central (Macau Ferry)",
+    "from": "Central (Macau Ferry)",
+    "to": "Kowloon City Ferry Pier",
     "dir": "I"
   },
   {
@@ -355,8 +355,8 @@
     "id": "kmbctb_116_I",
     "company": "kmbctb",
     "route": "116",
-    "from": "Tsz Wan Shan (Central)",
-    "to": "Quarry Bay (Yau Man Street)",
+    "from": "Quarry Bay (Yau Man Street)",
+    "to": "Tsz Wan Shan (Central)",
     "dir": "I"
   },
   {
@@ -371,8 +371,8 @@
     "id": "kmbctb_117_I",
     "company": "kmbctb",
     "route": "117",
-    "from": "Sham Shui Po (Yen Chow Street)",
-    "to": "Happy Valley (Lower)",
+    "from": "Happy Valley (Lower)",
+    "to": "Sham Shui Po (Yen Chow Street)",
     "dir": "I"
   },
   {
@@ -387,8 +387,8 @@
     "id": "kmbctb_118_I",
     "company": "kmbctb",
     "route": "118",
-    "from": "Cheung Sha Wan (Sham Mong Road)",
-    "to": "Siu Sai Wan (Island Resort)",
+    "from": "Siu Sai Wan (Island Resort)",
+    "to": "Cheung Sha Wan (Sham Mong Road)",
     "dir": "I"
   },
   {
@@ -403,8 +403,8 @@
     "id": "kmbctb_118P_I",
     "company": "kmbctb",
     "route": "118P",
-    "from": "Cheung Sha Wan (Sham Mong Road)",
-    "to": "Siu Sai Wan (Island Resort)",
+    "from": "Siu Sai Wan (Island Resort)",
+    "to": "Cheung Sha Wan (Sham Mong Road)",
     "dir": "I"
   },
   {
@@ -419,8 +419,8 @@
     "id": "kmb_12_I",
     "company": "kmb",
     "route": "12",
-    "from": "Robinson Road / Park Road",
-    "to": "Central Pier 3",
+    "from": "Central Pier 3",
+    "to": "Robinson Road / Park Road",
     "dir": "I"
   },
   {
@@ -451,8 +451,8 @@
     "id": "kmb_13_I",
     "company": "kmb",
     "route": "13",
-    "from": "Kotewall Road (Mid-levels)",
-    "to": "Admiralty (Tamar Street)",
+    "from": "Admiralty (Tamar Street)",
+    "to": "Kotewall Road (Mid-levels)",
     "dir": "I"
   },
   {
@@ -467,8 +467,8 @@
     "id": "kmb_14_I",
     "company": "kmb",
     "route": "14",
-    "from": "Stanley Fort (Gate) / Ma Hang",
-    "to": "Grand Promenade",
+    "from": "Grand Promenade",
+    "to": "Stanley Fort (Gate) / Ma Hang",
     "dir": "I"
   },
   {
@@ -483,8 +483,8 @@
     "id": "kmb_15_I",
     "company": "kmb",
     "route": "15",
-    "from": "The Peak",
-    "to": "Central",
+    "from": "Central",
+    "to": "The Peak",
     "dir": "I"
   },
   {
@@ -499,8 +499,8 @@
     "id": "kmb_15B_I",
     "company": "kmb",
     "route": "15B",
-    "from": "The Peak",
-    "to": "Wan Chai (HKCEC Extension)",
+    "from": "Wan Chai (HKCEC Extension)",
+    "to": "The Peak",
     "dir": "I"
   },
   {
@@ -515,8 +515,8 @@
     "id": "kmb_15C_I",
     "company": "kmb",
     "route": "15C",
-    "from": "Garden Road (Lower Peak Tram Station)",
-    "to": "Central (Star Ferry)",
+    "from": "Central (Star Ferry)",
+    "to": "Garden Road (Lower Peak Tram Station)",
     "dir": "I"
   },
   {
@@ -531,8 +531,8 @@
     "id": "kmbctb_170_I",
     "company": "kmbctb",
     "route": "170",
-    "from": "Sha Tin Station",
-    "to": "Wah Fu (Central)",
+    "from": "Wah Fu (Central)",
+    "to": "Sha Tin Station",
     "dir": "I"
   },
   {
@@ -547,8 +547,8 @@
     "id": "kmbctb_171_I",
     "company": "kmbctb",
     "route": "171",
-    "from": "Lai Chi Kok",
-    "to": "South Horizons",
+    "from": "South Horizons",
+    "to": "Lai Chi Kok",
     "dir": "I"
   },
   {
@@ -587,8 +587,8 @@
     "id": "kmb_18_I",
     "company": "kmb",
     "route": "18",
-    "from": "Kennedy Town (Belcher Bay) / Sheung Wan",
-    "to": "North Point (Healthy Street Central)",
+    "from": "North Point (Healthy Street Central)",
+    "to": "Kennedy Town (Belcher Bay) / Sheung Wan",
     "dir": "I"
   },
   {
@@ -603,8 +603,8 @@
     "id": "kmbctb_182_I",
     "company": "kmbctb",
     "route": "182",
-    "from": "Sha Tin (Yu Chui Court)",
-    "to": "Central (Macau Ferry)",
+    "from": "Central (Macau Ferry)",
+    "to": "Sha Tin (Yu Chui Court)",
     "dir": "I"
   },
   {
@@ -627,8 +627,8 @@
     "id": "kmb_18P_I",
     "company": "kmb",
     "route": "18P",
-    "from": "North Point (Healthy Street Central)",
-    "to": "Kennedy Town (Belcher Bay)",
+    "from": "Kennedy Town (Belcher Bay)",
+    "to": "North Point (Healthy Street Central)",
     "dir": "I"
   },
   {
@@ -643,8 +643,8 @@
     "id": "kmb_18X_I",
     "company": "kmb",
     "route": "18X",
-    "from": "Kennedy Town (Belcher Bay)",
-    "to": "Shau Kei Wan",
+    "from": "Shau Kei Wan",
+    "to": "Kennedy Town (Belcher Bay)",
     "dir": "I"
   },
   {
@@ -667,8 +667,8 @@
     "id": "kmb_1M_I",
     "company": "kmb",
     "route": "1M",
-    "from": "Happy Valley / Wong Nai Chung Gap",
-    "to": "Exhibition Centre Station",
+    "from": "Exhibition Centre Station",
+    "to": "Happy Valley / Wong Nai Chung Gap",
     "dir": "I"
   },
   {
@@ -683,16 +683,16 @@
     "id": "kmb_1P_I",
     "company": "kmb",
     "route": "1P",
-    "from": "Central",
-    "to": "Wong Nai Chung Road (Broadwood Road)",
+    "from": "Wong Nai Chung Road (Broadwood Road)",
+    "to": "Central",
     "dir": "I"
   },
   {
     "id": "kmb_2_I",
     "company": "kmb",
     "route": "2",
-    "from": "Central (Macau Ferry)",
-    "to": "Grand Promenade",
+    "from": "Grand Promenade",
+    "to": "Central (Macau Ferry)",
     "dir": "I"
   },
   {
@@ -707,8 +707,8 @@
     "id": "kmb_20_I",
     "company": "kmb",
     "route": "20",
-    "from": "Cheung Sha Wan (Hoi Tat)",
-    "to": "Kai Tak (Muk On Street)",
+    "from": "Kai Tak (Muk On Street)",
+    "to": "Cheung Sha Wan (Hoi Tat)",
     "dir": "I"
   },
   {
@@ -723,8 +723,8 @@
     "id": "kmb_20A_I",
     "company": "kmb",
     "route": "20A",
-    "from": "High Speed Rail West Kowloon Station (via: Mong Kok)",
-    "to": "Kai Tak Cruise Terminal (via: Mong Kok)",
+    "from": "Kai Tak Cruise Terminal (via: Mong Kok)",
+    "to": "High Speed Rail West Kowloon Station (via: Mong Kok)",
     "dir": "I"
   },
   {
@@ -739,8 +739,8 @@
     "id": "kmb_20R_I",
     "company": "kmb",
     "route": "20R",
-    "from": "Tsim Sha Tsui",
-    "to": "Kai Tak Cruise Terminal",
+    "from": "Kai Tak Cruise Terminal",
+    "to": "Tsim Sha Tsui",
     "dir": "I"
   },
   {
@@ -755,8 +755,8 @@
     "id": "kmb_22_I",
     "company": "kmb",
     "route": "22",
-    "from": "Kowloon Tong (Festival Walk)",
-    "to": "Kai Tak Cruise Terminal",
+    "from": "Kai Tak Cruise Terminal",
+    "to": "Kowloon Tong (Festival Walk)",
     "dir": "I"
   },
   {
@@ -771,8 +771,8 @@
     "id": "kmb_22D_I",
     "company": "kmb",
     "route": "22D",
-    "from": "Kai Tak Runway Area",
-    "to": "Kai Tak Station",
+    "from": "Kai Tak Station",
+    "to": "Kai Tak Runway Area",
     "dir": "I"
   },
   {
@@ -787,8 +787,8 @@
     "id": "kmb_22M_I",
     "company": "kmb",
     "route": "22M",
-    "from": "To Kwa Wan",
-    "to": "Kai Tak Cruise Terminal",
+    "from": "Kai Tak Cruise Terminal",
+    "to": "To Kwa Wan",
     "dir": "I"
   },
   {
@@ -803,8 +803,8 @@
     "id": "kmb_22R_I",
     "company": "kmb",
     "route": "22R",
-    "from": "Kai Tak Cruise Terminal",
-    "to": "Kai Tak Station",
+    "from": "Kai Tak Station",
+    "to": "Kai Tak Cruise Terminal",
     "dir": "I"
   },
   {
@@ -819,8 +819,8 @@
     "id": "kmb_22X_I",
     "company": "kmb",
     "route": "22X",
-    "from": "Kai Tak Station",
-    "to": "One Victoria",
+    "from": "One Victoria",
+    "to": "Kai Tak Station",
     "dir": "I"
   },
   {
@@ -835,8 +835,8 @@
     "id": "kmb_23_I",
     "company": "kmb",
     "route": "23",
-    "from": "Pokfield Road",
-    "to": "North Point Ferry Pier",
+    "from": "North Point Ferry Pier",
+    "to": "Pokfield Road",
     "dir": "I"
   },
   {
@@ -851,8 +851,8 @@
     "id": "kmb_23B_I",
     "company": "kmb",
     "route": "23B",
-    "from": "Park Road / Robinson Road",
-    "to": "Braemar Hill",
+    "from": "Braemar Hill",
+    "to": "Park Road / Robinson Road",
     "dir": "I"
   },
   {
@@ -875,8 +875,8 @@
     "id": "kmb_25_I",
     "company": "kmb",
     "route": "25",
-    "from": "Braemar Hill",
-    "to": "Central (Pier 3/5)",
+    "from": "Central (Pier 3/5)",
+    "to": "Braemar Hill",
     "dir": "I"
   },
   {
@@ -891,8 +891,8 @@
     "id": "kmb_25A_I",
     "company": "kmb",
     "route": "25A",
-    "from": "Braemar Hill",
-    "to": "Exhibition Centre Station",
+    "from": "Exhibition Centre Station",
+    "to": "Braemar Hill",
     "dir": "I"
   },
   {
@@ -907,8 +907,8 @@
     "id": "kmb_26_I",
     "company": "kmb",
     "route": "26",
-    "from": "Hollywood Road",
-    "to": "Lai Tak Tsuen",
+    "from": "Lai Tak Tsuen",
+    "to": "Hollywood Road",
     "dir": "I"
   },
   {
@@ -923,8 +923,8 @@
     "id": "kmb_260_I",
     "company": "kmb",
     "route": "260",
-    "from": "Stanley Market",
-    "to": "Central (Exchange Square)",
+    "from": "Central (Exchange Square)",
+    "to": "Stanley Market",
     "dir": "I"
   },
   {
@@ -939,8 +939,8 @@
     "id": "kmb_27_I",
     "company": "kmb",
     "route": "27",
-    "from": "Braemar Hill",
-    "to": "North Point Ferry Pier",
+    "from": "North Point Ferry Pier",
+    "to": "Braemar Hill",
     "dir": "I"
   },
   {
@@ -955,8 +955,8 @@
     "id": "kmb_2A_I",
     "company": "kmb",
     "route": "2A",
-    "from": "Exhibition Centre Station",
-    "to": "Yiu Tung Estate",
+    "from": "Yiu Tung Estate",
+    "to": "Exhibition Centre Station",
     "dir": "I"
   },
   {
@@ -971,8 +971,8 @@
     "id": "kmb_2X_I",
     "company": "kmb",
     "route": "2X",
-    "from": "Exhibition Centre Station",
-    "to": "Grand Promenade",
+    "from": "Grand Promenade",
+    "to": "Exhibition Centre Station",
     "dir": "I"
   },
   {
@@ -1003,8 +1003,8 @@
     "id": "kmbctb_307_I",
     "company": "kmbctb",
     "route": "307",
-    "from": "Central (Ferry Piers) / Sheung Wan",
-    "to": "Tai Po Centre",
+    "from": "Tai Po Centre",
+    "to": "Central (Ferry Piers) / Sheung Wan",
     "dir": "I"
   },
   {
@@ -1027,8 +1027,8 @@
     "id": "kmbctb_307P_I",
     "company": "kmbctb",
     "route": "307P",
-    "from": "Tai Po (Ting Tai Road/ Fu Tip)",
-    "to": "Tin Hau Station",
+    "from": "Tin Hau Station",
+    "to": "Tai Po (Ting Tai Road/ Fu Tip)",
     "dir": "I"
   },
   {
@@ -1043,8 +1043,8 @@
     "id": "kmb_30X_I",
     "company": "kmb",
     "route": "30X",
-    "from": "Admiralty (East)",
-    "to": "Cyberport",
+    "from": "Cyberport",
+    "to": "Admiralty (East)",
     "dir": "I"
   },
   {
@@ -1059,8 +1059,8 @@
     "id": "kmb_314_I",
     "company": "kmb",
     "route": "314",
-    "from": "Stanley (Beach / Market)",
-    "to": "Siu Sai Wan (Island Resort)",
+    "from": "Siu Sai Wan (Island Resort)",
+    "to": "Stanley (Beach / Market)",
     "dir": "I"
   },
   {
@@ -1075,8 +1075,8 @@
     "id": "kmb_33X_I",
     "company": "kmb",
     "route": "33X",
-    "from": "Sai Wan Ho",
-    "to": "Cyberport",
+    "from": "Cyberport",
+    "to": "Sai Wan Ho",
     "dir": "I"
   },
   {
@@ -1115,8 +1115,8 @@
     "id": "kmb_38_I",
     "company": "kmb",
     "route": "38",
-    "from": "North Point Ferry Pier",
-    "to": "Chi Fu Fa Yuen",
+    "from": "Chi Fu Fa Yuen",
+    "to": "North Point Ferry Pier",
     "dir": "I"
   },
   {
@@ -1147,8 +1147,8 @@
     "id": "kmb_3A_I",
     "company": "kmb",
     "route": "3A",
-    "from": "Felix Villas",
-    "to": "Central (Star Ferry)",
+    "from": "Central (Star Ferry)",
+    "to": "Felix Villas",
     "dir": "I"
   },
   {
@@ -1163,8 +1163,8 @@
     "id": "kmb_4_I",
     "company": "kmb",
     "route": "4",
-    "from": "Central",
-    "to": "Wong Chuk Hang / Wah Fu (South)",
+    "from": "Wong Chuk Hang / Wah Fu (South)",
+    "to": "Central",
     "dir": "I"
   },
   {
@@ -1179,8 +1179,8 @@
     "id": "kmb_40_I",
     "company": "kmb",
     "route": "40",
-    "from": "Exhibition Centre Station",
-    "to": "Wah Fu (North)",
+    "from": "Wah Fu (North)",
+    "to": "Exhibition Centre Station",
     "dir": "I"
   },
   {
@@ -1211,8 +1211,8 @@
     "id": "kmb_41A_I",
     "company": "kmb",
     "route": "41A",
-    "from": "North Point Ferry Pier",
-    "to": "Wah Fu (Central)",
+    "from": "Wah Fu (Central)",
+    "to": "North Point Ferry Pier",
     "dir": "I"
   },
   {
@@ -1227,8 +1227,8 @@
     "id": "kmb_42_I",
     "company": "kmb",
     "route": "42",
-    "from": "North Point Ferry Pier",
-    "to": "Wah Fu (South)",
+    "from": "Wah Fu (South)",
+    "to": "North Point Ferry Pier",
     "dir": "I"
   },
   {
@@ -1243,8 +1243,8 @@
     "id": "kmb_42C_I",
     "company": "kmb",
     "route": "42C",
-    "from": "North Point Ferry Pier",
-    "to": "Cyberport",
+    "from": "Cyberport",
+    "to": "North Point Ferry Pier",
     "dir": "I"
   },
   {
@@ -1259,8 +1259,8 @@
     "id": "kmb_43M_I",
     "company": "kmb",
     "route": "43M",
-    "from": "Shek Tong Tsui",
-    "to": "Tin Wan",
+    "from": "Tin Wan",
+    "to": "Shek Tong Tsui",
     "dir": "I"
   },
   {
@@ -1283,8 +1283,8 @@
     "id": "kmb_48_I",
     "company": "kmb",
     "route": "48",
-    "from": "Wah Fu (North)",
-    "to": "Sham Wan / Ocean Park",
+    "from": "Sham Wan / Ocean Park",
+    "to": "Wah Fu (North)",
     "dir": "I"
   },
   {
@@ -1307,8 +1307,8 @@
     "id": "kmb_4X_I",
     "company": "kmb",
     "route": "4X",
-    "from": "Central (Exchange Square)",
-    "to": "Wah Fu (South)",
+    "from": "Wah Fu (South)",
+    "to": "Central (Exchange Square)",
     "dir": "I"
   },
   {
@@ -1323,8 +1323,8 @@
     "id": "kmb_50_I",
     "company": "kmb",
     "route": "50",
-    "from": "Tsim Sha Tsui (Kowloon Station)",
-    "to": "Tuen Mun (Ching Tin and Wo Tin)",
+    "from": "Tuen Mun (Ching Tin and Wo Tin)",
+    "to": "Tsim Sha Tsui (Kowloon Station)",
     "dir": "I"
   },
   {
@@ -1339,8 +1339,8 @@
     "id": "kmb_50M_I",
     "company": "kmb",
     "route": "50M",
-    "from": "Tuen Mun Station",
-    "to": "Wo Tin Estate",
+    "from": "Wo Tin Estate",
+    "to": "Tuen Mun Station",
     "dir": "I"
   },
   {
@@ -1371,8 +1371,8 @@
     "id": "kmb_55_I",
     "company": "kmb",
     "route": "55",
-    "from": "Kwun Tong Ferry Pier",
-    "to": "Tuen Mun (Ching Tin and Wo Tin)",
+    "from": "Tuen Mun (Ching Tin and Wo Tin)",
+    "to": "Kwun Tong Ferry Pier",
     "dir": "I"
   },
   {
@@ -1387,8 +1387,8 @@
     "id": "kmb_56_I",
     "company": "kmb",
     "route": "56",
-    "from": "Sheung Shui (Tin Ping Estate)",
-    "to": "Tuen Mun (Wo Tin and Ching Tin)",
+    "from": "Tuen Mun (Wo Tin and Ching Tin)",
+    "to": "Sheung Shui (Tin Ping Estate)",
     "dir": "I"
   },
   {
@@ -1403,8 +1403,8 @@
     "id": "kmb_56A_I",
     "company": "kmb",
     "route": "56A",
-    "from": "Queen’s Hill Fanling (via: Sheung Shui Station)",
-    "to": "Tuen Mun (Wo Tin and Ching Tin)",
+    "from": "Tuen Mun (Wo Tin and Ching Tin)",
+    "to": "Queen’s Hill Fanling (via: Sheung Shui Station)",
     "dir": "I"
   },
   {
@@ -1419,8 +1419,8 @@
     "id": "kmb_581_I",
     "company": "kmb",
     "route": "581",
-    "from": "Ma On Shan Town Centre (Via Wu Kai Sha Station)",
-    "to": "Sai Sha and Shap Sze Heung",
+    "from": "Sai Sha and Shap Sze Heung",
+    "to": "Ma On Shan Town Centre (Via Wu Kai Sha Station)",
     "dir": "I"
   },
   {
@@ -1435,8 +1435,8 @@
     "id": "kmb_582_I",
     "company": "kmb",
     "route": "582",
-    "from": "Sai Sha and Shap Sze Heung",
-    "to": "Pak Shek Kok (Via University Station)",
+    "from": "Pak Shek Kok (Via University Station)",
+    "to": "Sai Sha and Shap Sze Heung",
     "dir": "I"
   },
   {
@@ -1451,8 +1451,8 @@
     "id": "kmb_592_I",
     "company": "kmb",
     "route": "592",
-    "from": "Causeway Bay (Moreton Terrace)",
-    "to": "South Horizons",
+    "from": "South Horizons",
+    "to": "Causeway Bay (Moreton Terrace)",
     "dir": "I"
   },
   {
@@ -1467,8 +1467,8 @@
     "id": "kmb_595_I",
     "company": "kmb",
     "route": "595",
-    "from": "Shek Pai Wan (via Aberdeen)",
-    "to": "South Horizons",
+    "from": "South Horizons",
+    "to": "Shek Pai Wan (via Aberdeen)",
     "dir": "I"
   },
   {
@@ -1483,8 +1483,8 @@
     "id": "kmb_5B_I",
     "company": "kmb",
     "route": "5B",
-    "from": "Causeway Bay / Hong Kong Stadium",
-    "to": "Kennedy Town",
+    "from": "Kennedy Town",
+    "to": "Causeway Bay / Hong Kong Stadium",
     "dir": "I"
   },
   {
@@ -1499,8 +1499,8 @@
     "id": "kmb_5X_I",
     "company": "kmb",
     "route": "5X",
-    "from": "Causeway Bay (Whitfield Road)",
-    "to": "Kennedy Town",
+    "from": "Kennedy Town",
+    "to": "Causeway Bay (Whitfield Road)",
     "dir": "I"
   },
   {
@@ -1515,8 +1515,8 @@
     "id": "kmb_6_I",
     "company": "kmb",
     "route": "6",
-    "from": "Stanley Market",
-    "to": "Central (Exchange Square)",
+    "from": "Central (Exchange Square)",
+    "to": "Stanley Market",
     "dir": "I"
   },
   {
@@ -1531,8 +1531,8 @@
     "id": "kmbctb_601_I",
     "company": "kmbctb",
     "route": "601",
-    "from": "Po Tat Estate",
-    "to": "Admiralty (East)",
+    "from": "Admiralty (East)",
+    "to": "Po Tat Estate",
     "dir": "I"
   },
   {
@@ -1547,8 +1547,8 @@
     "id": "kmbctb_601P_I",
     "company": "kmbctb",
     "route": "601P",
-    "from": "Sheung Wan",
-    "to": "Po Tat Estate",
+    "from": "Po Tat Estate",
+    "to": "Sheung Wan",
     "dir": "I"
   },
   {
@@ -1563,8 +1563,8 @@
     "id": "kmbctb_606_I",
     "company": "kmbctb",
     "route": "606",
-    "from": "Choi Wan (Fung Shing Street)",
-    "to": "Siu Sai Wan (Island Resort)",
+    "from": "Siu Sai Wan (Island Resort)",
+    "to": "Choi Wan (Fung Shing Street)",
     "dir": "I"
   },
   {
@@ -1579,8 +1579,8 @@
     "id": "kmbctb_606A_I",
     "company": "kmbctb",
     "route": "606A",
-    "from": "Yiu Tung Estate",
-    "to": "Choi Wan (Fung Shing Street)",
+    "from": "Choi Wan (Fung Shing Street)",
+    "to": "Yiu Tung Estate",
     "dir": "I"
   },
   {
@@ -1595,8 +1595,8 @@
     "id": "kmbctb_606X_I",
     "company": "kmbctb",
     "route": "606X",
-    "from": "Kowloon Bay",
-    "to": "Siu Sai Wan (Island Resort)",
+    "from": "Siu Sai Wan (Island Resort)",
+    "to": "Kowloon Bay",
     "dir": "I"
   },
   {
@@ -1611,8 +1611,8 @@
     "id": "kmb_608_I",
     "company": "kmb",
     "route": "608",
-    "from": "Shau Kei Wan",
-    "to": "Kowloon City (Shing Tak Street)",
+    "from": "Kowloon City (Shing Tak Street)",
+    "to": "Shau Kei Wan",
     "dir": "I"
   },
   {
@@ -1635,8 +1635,8 @@
     "id": "kmbctb_619_I",
     "company": "kmbctb",
     "route": "619",
-    "from": "Shun Lee Estate",
-    "to": "Central (Macau Ferry)",
+    "from": "Central (Macau Ferry)",
+    "to": "Shun Lee Estate",
     "dir": "I"
   },
   {
@@ -1659,8 +1659,8 @@
     "id": "kmbctb_619X_I",
     "company": "kmbctb",
     "route": "619X",
-    "from": "Central (Macau Ferry)",
-    "to": "Shun Lee Estate",
+    "from": "Shun Lee Estate",
+    "to": "Central (Macau Ferry)",
     "dir": "I"
   },
   {
@@ -1675,8 +1675,8 @@
     "id": "kmb_61R_I",
     "company": "kmb",
     "route": "61R",
-    "from": "Lam Tin Station",
-    "to": "City One Shatin",
+    "from": "City One Shatin",
+    "to": "Lam Tin Station",
     "dir": "I"
   },
   {
@@ -1691,8 +1691,8 @@
     "id": "kmbctb_621_I",
     "company": "kmbctb",
     "route": "621",
-    "from": "Central (Hong Kong Station)",
-    "to": "Laguna City",
+    "from": "Laguna City",
+    "to": "Central (Hong Kong Station)",
     "dir": "I"
   },
   {
@@ -1707,8 +1707,8 @@
     "id": "kmb_629_I",
     "company": "kmb",
     "route": "629",
-    "from": "Ocean Park (Main Entrance / Water World)",
-    "to": "Central (Star Ferry)",
+    "from": "Central (Star Ferry)",
+    "to": "Ocean Park (Main Entrance / Water World)",
     "dir": "I"
   },
   {
@@ -1731,8 +1731,8 @@
     "id": "kmb_63_I",
     "company": "kmb",
     "route": "63",
-    "from": "Stanley Market",
-    "to": "North Point Ferry Pier",
+    "from": "North Point Ferry Pier",
+    "to": "Stanley Market",
     "dir": "I"
   },
   {
@@ -1747,8 +1747,8 @@
     "id": "kmbctb_641_I",
     "company": "kmbctb",
     "route": "641",
-    "from": "Kai Tak (Kai Ching Estate)",
-    "to": "Central (Macau Ferry)",
+    "from": "Central (Macau Ferry)",
+    "to": "Kai Tak (Kai Ching Estate)",
     "dir": "I"
   },
   {
@@ -1763,8 +1763,8 @@
     "id": "kmb_65_I",
     "company": "kmb",
     "route": "65",
-    "from": "Stanley Market",
-    "to": "North Point Ferry Pier",
+    "from": "North Point Ferry Pier",
+    "to": "Stanley Market",
     "dir": "I"
   },
   {
@@ -1779,8 +1779,8 @@
     "id": "kmb_66_I",
     "company": "kmb",
     "route": "66",
-    "from": "Stanley Plaza (Ma Hang)",
-    "to": "Central (Exchange Square)",
+    "from": "Central (Exchange Square)",
+    "to": "Stanley Plaza (Ma Hang)",
     "dir": "I"
   },
   {
@@ -1795,8 +1795,8 @@
     "id": "kmbctb_671_I",
     "company": "kmbctb",
     "route": "671",
-    "from": "Diamond Hill Station",
-    "to": "Ap Lei Chau (Lee Lok Street)",
+    "from": "Ap Lei Chau (Lee Lok Street)",
+    "to": "Diamond Hill Station",
     "dir": "I"
   },
   {
@@ -1819,8 +1819,8 @@
     "id": "kmbctb_678_I",
     "company": "kmbctb",
     "route": "678",
-    "from": "Causeway Bay (Eastern Hospital Road)",
-    "to": "Sheung Shui",
+    "from": "Sheung Shui",
+    "to": "Causeway Bay (Eastern Hospital Road)",
     "dir": "I"
   },
   {
@@ -1835,8 +1835,8 @@
     "id": "kmb_679_I",
     "company": "kmb",
     "route": "679",
-    "from": "Central (Hong Kong Station)",
-    "to": "Queen's Hill Fanling",
+    "from": "Queen's Hill Fanling",
+    "to": "Central (Hong Kong Station)",
     "dir": "I"
   },
   {
@@ -1851,8 +1851,8 @@
     "id": "kmbctb_680_I",
     "company": "kmbctb",
     "route": "680",
-    "from": "Ma On Shan (Lee On Estate)",
-    "to": "Admiralty (East)",
+    "from": "Admiralty (East)",
+    "to": "Ma On Shan (Lee On Estate)",
     "dir": "I"
   },
   {
@@ -1883,8 +1883,8 @@
     "id": "kmbctb_680X_I",
     "company": "kmbctb",
     "route": "680X",
-    "from": "Ma On Shan (Wu Kai Sha Station)",
-    "to": "Central (Macau Ferry Pier)",
+    "from": "Central (Macau Ferry Pier)",
+    "to": "Ma On Shan (Wu Kai Sha Station)",
     "dir": "I"
   },
   {
@@ -1899,8 +1899,8 @@
     "id": "kmbctb_681_I",
     "company": "kmbctb",
     "route": "681",
-    "from": "Ma On Shan Town Centre",
-    "to": "Central (Hong Kong Station)",
+    "from": "Central (Hong Kong Station)",
+    "to": "Ma On Shan Town Centre",
     "dir": "I"
   },
   {
@@ -1915,8 +1915,8 @@
     "id": "kmbctb_681P_I",
     "company": "kmbctb",
     "route": "681P",
-    "from": "Sheung Wan",
-    "to": "Ma On Shan (Yiu On Estate)",
+    "from": "Ma On Shan (Yiu On Estate)",
+    "to": "Sheung Wan",
     "dir": "I"
   },
   {
@@ -1931,8 +1931,8 @@
     "id": "kmb_682_I",
     "company": "kmb",
     "route": "682",
-    "from": "Ma On Shan (Wu Kai Sha Station)",
-    "to": "Chai Wan (East)",
+    "from": "Chai Wan (East)",
+    "to": "Ma On Shan (Wu Kai Sha Station)",
     "dir": "I"
   },
   {
@@ -1947,8 +1947,8 @@
     "id": "kmb_682A_I",
     "company": "kmb",
     "route": "682A",
-    "from": "Chai Wan (East)",
-    "to": "Ma On Shan Town Centre",
+    "from": "Ma On Shan Town Centre",
+    "to": "Chai Wan (East)",
     "dir": "I"
   },
   {
@@ -1963,8 +1963,8 @@
     "id": "kmb_682B_I",
     "company": "kmb",
     "route": "682B",
-    "from": "Chai Wan (East)",
-    "to": "Shui Chuen O Estate",
+    "from": "Shui Chuen O Estate",
+    "to": "Chai Wan (East)",
     "dir": "I"
   },
   {
@@ -1987,8 +1987,8 @@
     "id": "kmbctb_690_I",
     "company": "kmbctb",
     "route": "690",
-    "from": "Tseung Kwan O (Hong Sing Garden)",
-    "to": "Central (Exchange Square)",
+    "from": "Central (Exchange Square)",
+    "to": "Tseung Kwan O (Hong Sing Garden)",
     "dir": "I"
   },
   {
@@ -2011,8 +2011,8 @@
     "id": "kmb_690S_I",
     "company": "kmb",
     "route": "690S",
-    "from": "Hang Hau (via: LOHAS Park)",
-    "to": "Central (Exchange Square)",
+    "from": "Central (Exchange Square)",
+    "to": "Hang Hau (via: LOHAS Park)",
     "dir": "I"
   },
   {
@@ -2027,8 +2027,8 @@
     "id": "kmb_694_I",
     "company": "kmb",
     "route": "694",
-    "from": "Tiu Keng Leng Station",
-    "to": "Siu Sai Wan Estate",
+    "from": "Siu Sai Wan Estate",
+    "to": "Tiu Keng Leng Station",
     "dir": "I"
   },
   {
@@ -2043,8 +2043,8 @@
     "id": "kmb_694S_I",
     "company": "kmb",
     "route": "694S",
-    "from": "Tiu Keng Leng Station (via: LOHAS Park)",
-    "to": "Siu Sai Wan Estate",
+    "from": "Siu Sai Wan Estate",
+    "to": "Tiu Keng Leng Station (via: LOHAS Park)",
     "dir": "I"
   },
   {
@@ -2067,8 +2067,8 @@
     "id": "kmb_6X_I",
     "company": "kmb",
     "route": "6X",
-    "from": "Stanley Market",
-    "to": "Central (Exchange Square)",
+    "from": "Central (Exchange Square)",
+    "to": "Stanley Market",
     "dir": "I"
   },
   {
@@ -2083,8 +2083,8 @@
     "id": "kmb_7_I",
     "company": "kmb",
     "route": "7",
-    "from": "Central (Ferry Piers)",
-    "to": "Shek Pai Wan",
+    "from": "Shek Pai Wan",
+    "to": "Central (Ferry Piers)",
     "dir": "I"
   },
   {
@@ -2099,8 +2099,8 @@
     "id": "kmb_70_I",
     "company": "kmb",
     "route": "70",
-    "from": "Central (Exchange Square)",
-    "to": "Wah Kwai (via: Aberdeen)",
+    "from": "Wah Kwai (via: Aberdeen)",
+    "to": "Central (Exchange Square)",
     "dir": "I"
   },
   {
@@ -2115,8 +2115,8 @@
     "id": "kmb_701_I",
     "company": "kmb",
     "route": "701",
-    "from": "Mong Kok",
-    "to": "Hoi Lai Estate / Nam Cheong Station",
+    "from": "Hoi Lai Estate / Nam Cheong Station",
+    "to": "Mong Kok",
     "dir": "I"
   },
   {
@@ -2131,8 +2131,8 @@
     "id": "kmb_701A_I",
     "company": "kmb",
     "route": "701A",
-    "from": "Mong Kok",
-    "to": "Hoi Ying Estate",
+    "from": "Hoi Ying Estate",
+    "to": "Mong Kok",
     "dir": "I"
   },
   {
@@ -2147,8 +2147,8 @@
     "id": "kmb_701S_I",
     "company": "kmb",
     "route": "701S",
-    "from": "Mong Kok",
-    "to": "Hoi Lai Estate / Nam Cheong Station",
+    "from": "Hoi Lai Estate / Nam Cheong Station",
+    "to": "Mong Kok",
     "dir": "I"
   },
   {
@@ -2163,8 +2163,8 @@
     "id": "kmb_702_I",
     "company": "kmb",
     "route": "702",
-    "from": "Kowloon Tong (Festival Walk)",
-    "to": "Hoi Lai Estate / Nam Cheong Station",
+    "from": "Hoi Lai Estate / Nam Cheong Station",
+    "to": "Kowloon Tong (Festival Walk)",
     "dir": "I"
   },
   {
@@ -2187,8 +2187,8 @@
     "id": "kmb_702B_I",
     "company": "kmb",
     "route": "702B",
-    "from": "Hoi Ying Estate",
-    "to": "Pak Tin (North)",
+    "from": "Pak Tin (North)",
+    "to": "Hoi Ying Estate",
     "dir": "I"
   },
   {
@@ -2203,8 +2203,8 @@
     "id": "kmb_702S_I",
     "company": "kmb",
     "route": "702S",
-    "from": "Cheung Sha Wan (Sham Shing Road) / Fu Cheong Estate",
-    "to": "So Uk Estate",
+    "from": "So Uk Estate",
+    "to": "Cheung Sha Wan (Sham Shing Road) / Fu Cheong Estate",
     "dir": "I"
   },
   {
@@ -2219,8 +2219,8 @@
     "id": "kmb_70P_I",
     "company": "kmb",
     "route": "70P",
-    "from": "Central (Exchange Square)",
-    "to": "Shek Pai Wan (via: Aberdeen)",
+    "from": "Shek Pai Wan (via: Aberdeen)",
+    "to": "Central (Exchange Square)",
     "dir": "I"
   },
   {
@@ -2235,8 +2235,8 @@
     "id": "kmb_71_I",
     "company": "kmb",
     "route": "71",
-    "from": "Central (Rumsey Street)",
-    "to": "Wong Chuk Hang",
+    "from": "Wong Chuk Hang",
+    "to": "Central (Rumsey Street)",
     "dir": "I"
   },
   {
@@ -2259,8 +2259,8 @@
     "id": "kmb_72_I",
     "company": "kmb",
     "route": "72",
-    "from": "Causeway Bay (Moreton Terrace)",
-    "to": "Wah Kwai Estate",
+    "from": "Wah Kwai Estate",
+    "to": "Causeway Bay (Moreton Terrace)",
     "dir": "I"
   },
   {
@@ -2275,8 +2275,8 @@
     "id": "kmb_720_I",
     "company": "kmb",
     "route": "720",
-    "from": "Central (Macau Ferry / Wing Wo Street)",
-    "to": "Grand Promenade",
+    "from": "Grand Promenade",
+    "to": "Central (Macau Ferry / Wing Wo Street)",
     "dir": "I"
   },
   {
@@ -2299,8 +2299,8 @@
     "id": "kmb_720P_I",
     "company": "kmb",
     "route": "720P",
-    "from": "Central (Wing Wo Street)",
-    "to": "Taikoo Shing",
+    "from": "Taikoo Shing",
+    "to": "Central (Wing Wo Street)",
     "dir": "I"
   },
   {
@@ -2323,8 +2323,8 @@
     "id": "kmb_722_I",
     "company": "kmb",
     "route": "722",
-    "from": "Central (Ferry Piers)",
-    "to": "Yiu Tung Estate",
+    "from": "Yiu Tung Estate",
+    "to": "Central (Ferry Piers)",
     "dir": "I"
   },
   {
@@ -2339,8 +2339,8 @@
     "id": "kmb_72A_I",
     "company": "kmb",
     "route": "72A",
-    "from": "Causeway Bay (Moreton Terrace)",
-    "to": "Sham Wan",
+    "from": "Sham Wan",
+    "to": "Causeway Bay (Moreton Terrace)",
     "dir": "I"
   },
   {
@@ -2355,8 +2355,8 @@
     "id": "kmb_73_I",
     "company": "kmb",
     "route": "73",
-    "from": "Stanley Market",
-    "to": "Cyberport / Wah Fu (North)",
+    "from": "Cyberport / Wah Fu (North)",
+    "to": "Stanley Market",
     "dir": "I"
   },
   {
@@ -2379,8 +2379,8 @@
     "id": "kmb_75_I",
     "company": "kmb",
     "route": "75",
-    "from": "Central (Exchange Square)",
-    "to": "Sham Wan",
+    "from": "Sham Wan",
+    "to": "Central (Exchange Square)",
     "dir": "I"
   },
   {
@@ -2395,8 +2395,8 @@
     "id": "kmb_76_I",
     "company": "kmb",
     "route": "76",
-    "from": "Causeway Bay (Pennington Street)",
-    "to": "Wong Chuk Hang Station / Shek Pai Wan",
+    "from": "Wong Chuk Hang Station / Shek Pai Wan",
+    "to": "Causeway Bay (Pennington Street)",
     "dir": "I"
   },
   {
@@ -2411,8 +2411,8 @@
     "id": "kmb_77_I",
     "company": "kmb",
     "route": "77",
-    "from": "Shau Kei Wan",
-    "to": "Tin Wan",
+    "from": "Tin Wan",
+    "to": "Shau Kei Wan",
     "dir": "I"
   },
   {
@@ -2443,8 +2443,8 @@
     "id": "kmb_78_I",
     "company": "kmb",
     "route": "78",
-    "from": "Wah Kwai Estate",
-    "to": "Wong Chuk Hang",
+    "from": "Wong Chuk Hang",
+    "to": "Wah Kwai Estate",
     "dir": "I"
   },
   {
@@ -2459,8 +2459,8 @@
     "id": "kmb_780_I",
     "company": "kmb",
     "route": "780",
-    "from": "Central (Ferry Piers)",
-    "to": "Chai Wan (East)",
+    "from": "Chai Wan (East)",
+    "to": "Central (Ferry Piers)",
     "dir": "I"
   },
   {
@@ -2483,8 +2483,8 @@
     "id": "kmb_788_I",
     "company": "kmb",
     "route": "788",
-    "from": "Central (Macau Ferry)",
-    "to": "Siu Sai Wan (Island Resort)",
+    "from": "Siu Sai Wan (Island Resort)",
+    "to": "Central (Macau Ferry)",
     "dir": "I"
   },
   {
@@ -2499,8 +2499,8 @@
     "id": "kmb_789_I",
     "company": "kmb",
     "route": "789",
-    "from": "Admiralty (Rodney Street)",
-    "to": "Siu Sai Wan (Island Resort)",
+    "from": "Siu Sai Wan (Island Resort)",
+    "to": "Admiralty (Rodney Street)",
     "dir": "I"
   },
   {
@@ -2515,8 +2515,8 @@
     "id": "kmb_78C_I",
     "company": "kmb",
     "route": "78C",
-    "from": "Kai Tak (Via: Kwun Tong)",
-    "to": "Queen's Hill Fanling",
+    "from": "Queen's Hill Fanling",
+    "to": "Kai Tak (Via: Kwun Tong)",
     "dir": "I"
   },
   {
@@ -2539,8 +2539,8 @@
     "id": "kmb_78X_I",
     "company": "kmb",
     "route": "78X",
-    "from": "Kai Tak (via: Kwun Tong)",
-    "to": "Queen's Hill Fanling",
+    "from": "Queen's Hill Fanling",
+    "to": "Kai Tak (via: Kwun Tong)",
     "dir": "I"
   },
   {
@@ -2555,8 +2555,8 @@
     "id": "kmb_79_I",
     "company": "kmb",
     "route": "79",
-    "from": "Tai Wai Station (via: Tai Po)",
-    "to": "Queen's Hill Fanling (via: Tai Po)",
+    "from": "Queen's Hill Fanling (via: Tai Po)",
+    "to": "Tai Wai Station (via: Tai Po)",
     "dir": "I"
   },
   {
@@ -2571,8 +2571,8 @@
     "id": "kmb_790_I",
     "company": "kmb",
     "route": "790",
-    "from": "Tsim Sha Tsui (Mody Road)",
-    "to": "Oscar By The Sea (via: LOHAS Park)",
+    "from": "Oscar By The Sea (via: LOHAS Park)",
+    "to": "Tsim Sha Tsui (Mody Road)",
     "dir": "I"
   },
   {
@@ -2587,8 +2587,8 @@
     "id": "kmb_792M_I",
     "company": "kmb",
     "route": "792M",
-    "from": "Sai Kung",
-    "to": "Tseung Kwan O Station",
+    "from": "Tseung Kwan O Station",
+    "to": "Sai Kung",
     "dir": "I"
   },
   {
@@ -2603,8 +2603,8 @@
     "id": "kmb_793_I",
     "company": "kmb",
     "route": "793",
-    "from": "So Uk",
-    "to": "Tseung Kwan O Industrial Estate",
+    "from": "Tseung Kwan O Industrial Estate",
+    "to": "So Uk",
     "dir": "I"
   },
   {
@@ -2619,8 +2619,8 @@
     "id": "kmb_795_I",
     "company": "kmb",
     "route": "795",
-    "from": "Cheung Sha Wan (Hoi Tat)",
-    "to": "Tseung Kwan O Industrial Estate (via: LOHAS Park)",
+    "from": "Tseung Kwan O Industrial Estate (via: LOHAS Park)",
+    "to": "Cheung Sha Wan (Hoi Tat)",
     "dir": "I"
   },
   {
@@ -2635,8 +2635,8 @@
     "id": "kmb_795P_I",
     "company": "kmb",
     "route": "795P",
-    "from": "Cheung Sha Wan (Hoi Tat)",
-    "to": "Tseung Kwan O Industrial Estate",
+    "from": "Tseung Kwan O Industrial Estate",
+    "to": "Cheung Sha Wan (Hoi Tat)",
     "dir": "I"
   },
   {
@@ -2651,8 +2651,8 @@
     "id": "kmb_795X_I",
     "company": "kmb",
     "route": "795X",
-    "from": "So Uk (via: Mong Kok and Mei Foo)",
-    "to": "Oscar by the Sea (via: Sheung Tak)",
+    "from": "Oscar by the Sea (via: Sheung Tak)",
+    "to": "So Uk (via: Mong Kok and Mei Foo)",
     "dir": "I"
   },
   {
@@ -2667,8 +2667,8 @@
     "id": "kmb_796P_I",
     "company": "kmb",
     "route": "796P",
-    "from": "Tsim Sha Tsui (East)",
-    "to": "LOHAS Park (via: Sheung Tak)",
+    "from": "LOHAS Park (via: Sheung Tak)",
+    "to": "Tsim Sha Tsui (East)",
     "dir": "I"
   },
   {
@@ -2691,8 +2691,8 @@
     "id": "kmb_796S_I",
     "company": "kmb",
     "route": "796S",
-    "from": "Ngau Tau Kok Station",
-    "to": "Tseung Kwan O Station",
+    "from": "Tseung Kwan O Station",
+    "to": "Ngau Tau Kok Station",
     "dir": "I"
   },
   {
@@ -2707,8 +2707,8 @@
     "id": "kmb_796X_I",
     "company": "kmb",
     "route": "796X",
-    "from": "Tsim Sha Tsui (East)",
-    "to": "Tseung Kwan O Industrial Estate / Tseung Kwan O Station",
+    "from": "Tseung Kwan O Industrial Estate / Tseung Kwan O Station",
+    "to": "Tsim Sha Tsui (East)",
     "dir": "I"
   },
   {
@@ -2723,8 +2723,8 @@
     "id": "kmb_797_I",
     "company": "kmb",
     "route": "797",
-    "from": "San Po Kong",
-    "to": "LOHAS Park / Tseung Kwan O Industrial Estate",
+    "from": "LOHAS Park / Tseung Kwan O Industrial Estate",
+    "to": "San Po Kong",
     "dir": "I"
   },
   {
@@ -2739,8 +2739,8 @@
     "id": "kmb_798_I",
     "company": "kmb",
     "route": "798",
-    "from": "Fo Tan (Chun Yeung Estate) (via: Sha Tin)",
-    "to": "Tiu Keng Leng Station",
+    "from": "Tiu Keng Leng Station",
+    "to": "Fo Tan (Chun Yeung Estate) (via: Sha Tin)",
     "dir": "I"
   },
   {
@@ -2755,8 +2755,8 @@
     "id": "kmb_798A_I",
     "company": "kmb",
     "route": "798A",
-    "from": "Sha Tin Station",
-    "to": "Tseung Kwan O (Hong Sing Garden)",
+    "from": "Tseung Kwan O (Hong Sing Garden)",
+    "to": "Sha Tin Station",
     "dir": "I"
   },
   {
@@ -2771,8 +2771,8 @@
     "id": "kmb_798B_I",
     "company": "kmb",
     "route": "798B",
-    "from": "Sha Tin Station",
-    "to": "LOHAS Park",
+    "from": "LOHAS Park",
+    "to": "Sha Tin Station",
     "dir": "I"
   },
   {
@@ -2787,8 +2787,8 @@
     "id": "kmb_798P_I",
     "company": "kmb",
     "route": "798P",
-    "from": "Tai Wai Station (via: Sha Tin)",
-    "to": "Tseung Kwan O Industrial Estate",
+    "from": "Tseung Kwan O Industrial Estate",
+    "to": "Tai Wai Station (via: Sha Tin)",
     "dir": "I"
   },
   {
@@ -2803,8 +2803,8 @@
     "id": "kmb_798X_I",
     "company": "kmb",
     "route": "798X",
-    "from": "Fo Tan (Chun Yeung Estate) (via: Sha Tin)",
-    "to": "Tseung Kwan O Industrial Estate",
+    "from": "Tseung Kwan O Industrial Estate",
+    "to": "Fo Tan (Chun Yeung Estate) (via: Sha Tin)",
     "dir": "I"
   },
   {
@@ -2819,8 +2819,8 @@
     "id": "kmb_79P_I",
     "company": "kmb",
     "route": "79P",
-    "from": "HSR West Kowloon Station",
-    "to": "Queen's Hill Fanling",
+    "from": "Queen's Hill Fanling",
+    "to": "HSR West Kowloon Station",
     "dir": "I"
   },
   {
@@ -2835,8 +2835,8 @@
     "id": "kmb_79X_I",
     "company": "kmb",
     "route": "79X",
-    "from": "Cheung Sha Wan (Kom Tsun Street) (via: Mong Kok)",
-    "to": "Queen's Hill Fanling",
+    "from": "Queen's Hill Fanling",
+    "to": "Cheung Sha Wan (Kom Tsun Street) (via: Mong Kok)",
     "dir": "I"
   },
   {
@@ -2851,8 +2851,8 @@
     "id": "kmb_8_I",
     "company": "kmb",
     "route": "8",
-    "from": "Exhibition Centre Station",
-    "to": "Heng Fa Chuen",
+    "from": "Heng Fa Chuen",
+    "to": "Exhibition Centre Station",
     "dir": "I"
   },
   {
@@ -2867,8 +2867,8 @@
     "id": "kmb_81_I",
     "company": "kmb",
     "route": "81",
-    "from": "Lai Tak Tsuen",
-    "to": "Hing Wah Estate",
+    "from": "Hing Wah Estate",
+    "to": "Lai Tak Tsuen",
     "dir": "I"
   },
   {
@@ -2883,8 +2883,8 @@
     "id": "kmb_81A_I",
     "company": "kmb",
     "route": "81A",
-    "from": "Lai Tak Tsuen",
-    "to": "Hing Wah Estate",
+    "from": "Hing Wah Estate",
+    "to": "Lai Tak Tsuen",
     "dir": "I"
   },
   {
@@ -2899,8 +2899,8 @@
     "id": "kmb_82_I",
     "company": "kmb",
     "route": "82",
-    "from": "North Point Ferry Pier",
-    "to": "Siu Sai Wan (Island Resort)",
+    "from": "Siu Sai Wan (Island Resort)",
+    "to": "North Point Ferry Pier",
     "dir": "I"
   },
   {
@@ -2915,8 +2915,8 @@
     "id": "kmb_82S_I",
     "company": "kmb",
     "route": "82S",
-    "from": "Yiu Tung (Wai Hang Street)",
-    "to": "Siu Sai Wan (Island Resort)",
+    "from": "Siu Sai Wan (Island Resort)",
+    "to": "Yiu Tung (Wai Hang Street)",
     "dir": "I"
   },
   {
@@ -2931,8 +2931,8 @@
     "id": "kmb_82X_I",
     "company": "kmb",
     "route": "82X",
-    "from": "Quarry Bay",
-    "to": "Siu Sai Wan (Island Resort)",
+    "from": "Siu Sai Wan (Island Resort)",
+    "to": "Quarry Bay",
     "dir": "I"
   },
   {
@@ -2947,8 +2947,8 @@
     "id": "kmb_85_I",
     "company": "kmb",
     "route": "85",
-    "from": "Braemar Hill / North Point",
-    "to": "Siu Sai Wan (Island Resort)",
+    "from": "Siu Sai Wan (Island Resort)",
+    "to": "Braemar Hill / North Point",
     "dir": "I"
   },
   {
@@ -2963,8 +2963,8 @@
     "id": "kmb_85A_I",
     "company": "kmb",
     "route": "85A",
-    "from": "Braemar Hill",
-    "to": "Shau Kei Wan",
+    "from": "Shau Kei Wan",
+    "to": "Braemar Hill",
     "dir": "I"
   },
   {
@@ -2979,8 +2979,8 @@
     "id": "kmb_85P_I",
     "company": "kmb",
     "route": "85P",
-    "from": "Braemar Hill",
-    "to": "Siu Sai Wan (Island Resort)",
+    "from": "Siu Sai Wan (Island Resort)",
+    "to": "Braemar Hill",
     "dir": "I"
   },
   {
@@ -2995,8 +2995,8 @@
     "id": "kmb_88R_I",
     "company": "kmb",
     "route": "88R",
-    "from": "Central",
-    "to": "City One Shatin",
+    "from": "City One Shatin",
+    "to": "Central",
     "dir": "I"
   },
   {
@@ -3011,8 +3011,8 @@
     "id": "kmb_88X_I",
     "company": "kmb",
     "route": "88X",
-    "from": "Kennedy Town (Belcher Bay)",
-    "to": "Siu Sai Wan (Island Resort)",
+    "from": "Siu Sai Wan (Island Resort)",
+    "to": "Kennedy Town (Belcher Bay)",
     "dir": "I"
   },
   {
@@ -3027,8 +3027,8 @@
     "id": "kmb_8H_I",
     "company": "kmb",
     "route": "8H",
-    "from": "Tung Wah Eastern Hospital",
-    "to": "Siu Sai Wan (Island Resort)",
+    "from": "Siu Sai Wan (Island Resort)",
+    "to": "Tung Wah Eastern Hospital",
     "dir": "I"
   },
   {
@@ -3043,8 +3043,8 @@
     "id": "kmb_8P_I",
     "company": "kmb",
     "route": "8P",
-    "from": "Exhibition Centre Station",
-    "to": "Siu Sai Wan (Island Resort)",
+    "from": "Siu Sai Wan (Island Resort)",
+    "to": "Exhibition Centre Station",
     "dir": "I"
   },
   {
@@ -3067,8 +3067,8 @@
     "id": "kmb_8X_I",
     "company": "kmb",
     "route": "8X",
-    "from": "Happy Valley (Upper)",
-    "to": "Siu Sai Wan (Island Resort)",
+    "from": "Siu Sai Wan (Island Resort)",
+    "to": "Happy Valley (Upper)",
     "dir": "I"
   },
   {
@@ -3083,8 +3083,8 @@
     "id": "kmb_9_I",
     "company": "kmb",
     "route": "9",
-    "from": "Shek O",
-    "to": "Shau Kei Wan",
+    "from": "Shau Kei Wan",
+    "to": "Shek O",
     "dir": "I"
   },
   {
@@ -3099,8 +3099,8 @@
     "id": "kmb_90_I",
     "company": "kmb",
     "route": "90",
-    "from": "Central (Exchange Square)",
-    "to": "Ap Lei Chau Estate",
+    "from": "Ap Lei Chau Estate",
+    "to": "Central (Exchange Square)",
     "dir": "I"
   },
   {
@@ -3115,8 +3115,8 @@
     "id": "kmbctb_904_I",
     "company": "kmbctb",
     "route": "904",
-    "from": "Lai Chi Kok",
-    "to": "Kennedy Town (Belcher Bay)",
+    "from": "Kennedy Town (Belcher Bay)",
+    "to": "Lai Chi Kok",
     "dir": "I"
   },
   {
@@ -3131,8 +3131,8 @@
     "id": "kmbctb_905_I",
     "company": "kmbctb",
     "route": "905",
-    "from": "Lai Chi Kok",
-    "to": "Exhibition Centre Station",
+    "from": "Exhibition Centre Station",
+    "to": "Lai Chi Kok",
     "dir": "I"
   },
   {
@@ -3171,8 +3171,8 @@
     "id": "kmbctb_907C_I",
     "company": "kmbctb",
     "route": "907C",
-    "from": "Wan Chai (HKCEC)",
-    "to": "Tai Po (Fu Tip)",
+    "from": "Tai Po (Fu Tip)",
+    "to": "Wan Chai (HKCEC)",
     "dir": "I"
   },
   {
@@ -3187,8 +3187,8 @@
     "id": "kmb_90B_I",
     "company": "kmb",
     "route": "90B",
-    "from": "Admiralty (East)",
-    "to": "South Horizons",
+    "from": "South Horizons",
+    "to": "Admiralty (East)",
     "dir": "I"
   },
   {
@@ -3211,8 +3211,8 @@
     "id": "kmb_91_I",
     "company": "kmb",
     "route": "91",
-    "from": "Central (Ferry Piers)",
-    "to": "Ap Lei Chau Estate",
+    "from": "Ap Lei Chau Estate",
+    "to": "Central (Ferry Piers)",
     "dir": "I"
   },
   {
@@ -3227,8 +3227,8 @@
     "id": "kmbctb_914_I",
     "company": "kmbctb",
     "route": "914",
-    "from": "Hoi Lai Estate",
-    "to": "Tin Hau Station",
+    "from": "Tin Hau Station",
+    "to": "Hoi Lai Estate",
     "dir": "I"
   },
   {
@@ -3259,8 +3259,8 @@
     "id": "kmb_91A_I",
     "company": "kmb",
     "route": "91A",
-    "from": "Wah Fu (South)",
-    "to": "Ap Lei Chau Estate",
+    "from": "Ap Lei Chau Estate",
+    "to": "Wah Fu (South)",
     "dir": "I"
   },
   {
@@ -3283,8 +3283,8 @@
     "id": "kmb_930_I",
     "company": "kmb",
     "route": "930",
-    "from": "Exhibition Centre Station",
-    "to": "Tsuen Wan (Discovery Park / Tsuen Wan West Station)",
+    "from": "Tsuen Wan (Discovery Park / Tsuen Wan West Station)",
+    "to": "Exhibition Centre Station",
     "dir": "I"
   },
   {
@@ -3299,8 +3299,8 @@
     "id": "kmb_930A_I",
     "company": "kmb",
     "route": "930A",
-    "from": "Exhibition Centre Station",
-    "to": "Tsuen Wan West Station",
+    "from": "Tsuen Wan West Station",
+    "to": "Exhibition Centre Station",
     "dir": "I"
   },
   {
@@ -3323,8 +3323,8 @@
     "id": "kmb_930X_I",
     "company": "kmb",
     "route": "930X",
-    "from": "Causeway Bay (Moreton Terrace)",
-    "to": "Tsuen Wan (Discovery Park)",
+    "from": "Tsuen Wan (Discovery Park)",
+    "to": "Causeway Bay (Moreton Terrace)",
     "dir": "I"
   },
   {
@@ -3339,8 +3339,8 @@
     "id": "kmb_933_I",
     "company": "kmb",
     "route": "933",
-    "from": "Sai Wan Ho",
-    "to": "Tsuen Wan West Station",
+    "from": "Tsuen Wan West Station",
+    "to": "Sai Wan Ho",
     "dir": "I"
   },
   {
@@ -3371,8 +3371,8 @@
     "id": "kmbctb_948_I",
     "company": "kmbctb",
     "route": "948",
-    "from": "Tin Hau Station",
-    "to": "Tsing Yi (Cheung On Estate)",
+    "from": "Tsing Yi (Cheung On Estate)",
+    "to": "Tin Hau Station",
     "dir": "I"
   },
   {
@@ -3403,8 +3403,8 @@
     "id": "kmbctb_948E_I",
     "company": "kmbctb",
     "route": "948E",
-    "from": "Tai Koo (Kornhill Plaza)",
-    "to": "Tsing Yi Station",
+    "from": "Tsing Yi Station",
+    "to": "Tai Koo (Kornhill Plaza)",
     "dir": "I"
   },
   {
@@ -3435,8 +3435,8 @@
     "id": "kmb_94A_I",
     "company": "kmb",
     "route": "94A",
-    "from": "Lei Tung Estate",
-    "to": "Wah Fu (Central)",
+    "from": "Wah Fu (Central)",
+    "to": "Lei Tung Estate",
     "dir": "I"
   },
   {
@@ -3451,8 +3451,8 @@
     "id": "kmb_950_I",
     "company": "kmb",
     "route": "950",
-    "from": "Exhibition Centre Station",
-    "to": "Tuen Mun (Ching Tin and Wo Tin)",
+    "from": "Tuen Mun (Ching Tin and Wo Tin)",
+    "to": "Exhibition Centre Station",
     "dir": "I"
   },
   {
@@ -3467,8 +3467,8 @@
     "id": "kmb_952_I",
     "company": "kmb",
     "route": "952",
-    "from": "Causeway Bay (Moreton Terrace) / Admiralty (West)",
-    "to": "Tuen Mun (Chi Lok Fa Yuen)",
+    "from": "Tuen Mun (Chi Lok Fa Yuen)",
+    "to": "Causeway Bay (Moreton Terrace) / Admiralty (West)",
     "dir": "I"
   },
   {
@@ -3483,8 +3483,8 @@
     "id": "kmb_952C_I",
     "company": "kmb",
     "route": "952C",
-    "from": "Tai Koo (Kornhill Plaza)",
-    "to": "So Kwun Wat",
+    "from": "So Kwun Wat",
+    "to": "Tai Koo (Kornhill Plaza)",
     "dir": "I"
   },
   {
@@ -3507,8 +3507,8 @@
     "id": "kmb_955_I",
     "company": "kmb",
     "route": "955",
-    "from": "Sai Wan Ho",
-    "to": "Tuen Mun (Ching Tin and Wo Tin)",
+    "from": "Tuen Mun (Ching Tin and Wo Tin)",
+    "to": "Sai Wan Ho",
     "dir": "I"
   },
   {
@@ -3523,8 +3523,8 @@
     "id": "kmb_95C_I",
     "company": "kmb",
     "route": "95C",
-    "from": "Chi Fu Fa Yuen",
-    "to": "Ap Lei Chau Estate / Lee Nam Industrial Area",
+    "from": "Ap Lei Chau Estate / Lee Nam Industrial Area",
+    "to": "Chi Fu Fa Yuen",
     "dir": "I"
   },
   {
@@ -3547,8 +3547,8 @@
     "id": "kmb_962_I",
     "company": "kmb",
     "route": "962",
-    "from": "Causeway Bay (Moreton Terrace)",
-    "to": "Tuen Mun (Lung Mun Oasis)",
+    "from": "Tuen Mun (Lung Mun Oasis)",
+    "to": "Causeway Bay (Moreton Terrace)",
     "dir": "I"
   },
   {
@@ -3571,8 +3571,8 @@
     "id": "kmb_962C_I",
     "company": "kmb",
     "route": "962C",
-    "from": "Tai Koo (Kornhill Plaza)",
-    "to": "Tuen Mun (Lung Mun Oasis)",
+    "from": "Tuen Mun (Lung Mun Oasis)",
+    "to": "Tai Koo (Kornhill Plaza)",
     "dir": "I"
   },
   {
@@ -3603,8 +3603,8 @@
     "id": "kmb_962X_I",
     "company": "kmb",
     "route": "962X",
-    "from": "Causeway Bay (Moreton Terrace)",
-    "to": "Tuen Mun (Lung Mun Oasis)",
+    "from": "Tuen Mun (Lung Mun Oasis)",
+    "to": "Causeway Bay (Moreton Terrace)",
     "dir": "I"
   },
   {
@@ -3619,8 +3619,8 @@
     "id": "kmb_967_I",
     "company": "kmb",
     "route": "967",
-    "from": "Admiralty (West)",
-    "to": "Tin Shui Wai (Tin Yan Estate)",
+    "from": "Tin Shui Wai (Tin Yan Estate)",
+    "to": "Admiralty (West)",
     "dir": "I"
   },
   {
@@ -3635,8 +3635,8 @@
     "id": "kmb_967X_I",
     "company": "kmb",
     "route": "967X",
-    "from": "Causeway Bay (via Tin Shui Wai North)",
-    "to": "Tin Shui Wai (Tin Yan Estate)",
+    "from": "Tin Shui Wai (Tin Yan Estate)",
+    "to": "Causeway Bay (via Tin Shui Wai North)",
     "dir": "I"
   },
   {
@@ -3651,8 +3651,8 @@
     "id": "kmb_969_I",
     "company": "kmb",
     "route": "969",
-    "from": "Causeway Bay (Moreton Terrace)",
-    "to": "Tin Shui Wai Town Centre",
+    "from": "Tin Shui Wai Town Centre",
+    "to": "Causeway Bay (Moreton Terrace)",
     "dir": "I"
   },
   {
@@ -3667,16 +3667,16 @@
     "id": "kmb_969A_I",
     "company": "kmb",
     "route": "969A",
-    "from": "Wan Chai",
-    "to": "Tin Shui Wai (North)",
+    "from": "Tin Shui Wai (North)",
+    "to": "Wan Chai",
     "dir": "I"
   },
   {
     "id": "kmb_969B_I",
     "company": "kmb",
     "route": "969B",
-    "from": "Wan Chai",
-    "to": "Tin Shui Wai Town Centre",
+    "from": "Tin Shui Wai Town Centre",
+    "to": "Wan Chai",
     "dir": "I"
   },
   {
@@ -3691,8 +3691,8 @@
     "id": "kmb_969C_I",
     "company": "kmb",
     "route": "969C",
-    "from": "Tai Koo (Kornhill Plaza)",
-    "to": "Tin Shui Wai (Tin Shui Estate)",
+    "from": "Tin Shui Wai (Tin Shui Estate)",
+    "to": "Tai Koo (Kornhill Plaza)",
     "dir": "I"
   },
   {
@@ -3731,8 +3731,8 @@
     "id": "kmb_97_I",
     "company": "kmb",
     "route": "97",
-    "from": "Central (Exchange Square)",
-    "to": "Lei Tung Estate",
+    "from": "Lei Tung Estate",
+    "to": "Central (Exchange Square)",
     "dir": "I"
   },
   {
@@ -3747,8 +3747,8 @@
     "id": "kmb_970_I",
     "company": "kmb",
     "route": "970",
-    "from": "So Uk Estate",
-    "to": "Cyberport",
+    "from": "Cyberport",
+    "to": "So Uk Estate",
     "dir": "I"
   },
   {
@@ -3763,8 +3763,8 @@
     "id": "kmb_970X_I",
     "company": "kmb",
     "route": "970X",
-    "from": "Cheung Sha Wan (Kom Tsun Street)",
-    "to": "Aberdeen",
+    "from": "Aberdeen",
+    "to": "Cheung Sha Wan (Kom Tsun Street)",
     "dir": "I"
   },
   {
@@ -3779,8 +3779,8 @@
     "id": "kmb_971_I",
     "company": "kmb",
     "route": "971",
-    "from": "Hoi Lai Estate",
-    "to": "Aberdeen (Shek Pai Wan)",
+    "from": "Aberdeen (Shek Pai Wan)",
+    "to": "Hoi Lai Estate",
     "dir": "I"
   },
   {
@@ -3795,8 +3795,8 @@
     "id": "kmb_973_I",
     "company": "kmb",
     "route": "973",
-    "from": "Stanley Market",
-    "to": "Tsim Sha Tsui (Mody Road)",
+    "from": "Tsim Sha Tsui (Mody Road)",
+    "to": "Stanley Market",
     "dir": "I"
   },
   {
@@ -3811,8 +3811,8 @@
     "id": "kmb_976_I",
     "company": "kmb",
     "route": "976",
-    "from": "Sai Wan Ho",
-    "to": "Lok Ma Chau (San Tin)",
+    "from": "Lok Ma Chau (San Tin)",
+    "to": "Sai Wan Ho",
     "dir": "I"
   },
   {
@@ -3827,8 +3827,8 @@
     "id": "kmb_976A_I",
     "company": "kmb",
     "route": "976A",
-    "from": "Siu Sai Wan (Island Resort)",
-    "to": "Lok Ma Chau (San Tin)",
+    "from": "Lok Ma Chau (San Tin)",
+    "to": "Siu Sai Wan (Island Resort)",
     "dir": "I"
   },
   {
@@ -3843,8 +3843,8 @@
     "id": "kmb_979_I",
     "company": "kmb",
     "route": "979",
-    "from": "Central (Hong Kong Station)",
-    "to": "Queen's Hill Fanling",
+    "from": "Queen's Hill Fanling",
+    "to": "Central (Hong Kong Station)",
     "dir": "I"
   },
   {
@@ -3859,8 +3859,8 @@
     "id": "kmb_98_I",
     "company": "kmb",
     "route": "98",
-    "from": "Aberdeen (Chengtu Road)",
-    "to": "Lei Tung Estate",
+    "from": "Lei Tung Estate",
+    "to": "Aberdeen (Chengtu Road)",
     "dir": "I"
   },
   {
@@ -3883,8 +3883,8 @@
     "id": "kmbctb_980X_I",
     "company": "kmbctb",
     "route": "980X",
-    "from": "Wan Chai",
-    "to": "Ma On Shan (Wu Kai Sha Station)",
+    "from": "Ma On Shan (Wu Kai Sha Station)",
+    "to": "Wan Chai",
     "dir": "I"
   },
   {
@@ -3899,8 +3899,8 @@
     "id": "kmbctb_981P_I",
     "company": "kmbctb",
     "route": "981P",
-    "from": "Wan Chai",
-    "to": "Ma On Shan (Yiu On Estate)",
+    "from": "Ma On Shan (Yiu On Estate)",
+    "to": "Wan Chai",
     "dir": "I"
   },
   {
@@ -3923,8 +3923,8 @@
     "id": "kmbctb_982X_I",
     "company": "kmbctb",
     "route": "982X",
-    "from": "Wan Chai",
-    "to": "Sha Tin (Yu Chui Court)",
+    "from": "Sha Tin (Yu Chui Court)",
+    "to": "Wan Chai",
     "dir": "I"
   },
   {
@@ -3939,8 +3939,8 @@
     "id": "kmbctb_985_I",
     "company": "kmbctb",
     "route": "985",
-    "from": "Causeway Bay",
-    "to": "Shatin (Mei Tin Estate)",
+    "from": "Shatin (Mei Tin Estate)",
+    "to": "Causeway Bay",
     "dir": "I"
   },
   {
@@ -3987,8 +3987,8 @@
     "id": "kmb_988_I",
     "company": "kmb",
     "route": "988",
-    "from": "Nai Chung",
-    "to": "Chai Wan (East)",
+    "from": "Chai Wan (East)",
+    "to": "Nai Chung",
     "dir": "I"
   },
   {
@@ -4011,8 +4011,8 @@
     "id": "kmb_99_I",
     "company": "kmb",
     "route": "99",
-    "from": "Shau Kei Wan",
-    "to": "South Horizons",
+    "from": "South Horizons",
+    "to": "Shau Kei Wan",
     "dir": "I"
   },
   {
@@ -4035,8 +4035,8 @@
     "id": "kmb_A10_I",
     "company": "kmb",
     "route": "A10",
-    "from": "Airport (via HZMB Hong Kong Port)",
-    "to": "Ap Lei Chau (Lee Lok Street)",
+    "from": "Ap Lei Chau (Lee Lok Street)",
+    "to": "Airport (via HZMB Hong Kong Port)",
     "dir": "I"
   },
   {
@@ -4051,8 +4051,8 @@
     "id": "kmb_A11_I",
     "company": "kmb",
     "route": "A11",
-    "from": "Airport (via HZMB Hong Kong Port)",
-    "to": "North Point Ferry Pier",
+    "from": "North Point Ferry Pier",
+    "to": "Airport (via HZMB Hong Kong Port)",
     "dir": "I"
   },
   {
@@ -4067,8 +4067,8 @@
     "id": "kmb_A12_I",
     "company": "kmb",
     "route": "A12",
-    "from": "Airport (via HZMB Hong Kong Port)",
-    "to": "Siu Sai Wan (Island Resort)",
+    "from": "Siu Sai Wan (Island Resort)",
+    "to": "Airport (via HZMB Hong Kong Port)",
     "dir": "I"
   },
   {
@@ -4083,8 +4083,8 @@
     "id": "kmb_A17_I",
     "company": "kmb",
     "route": "A17",
-    "from": "Airport (via HZMB Hong Kong Port)",
-    "to": "Sham Wan (via Ocean Park)",
+    "from": "Sham Wan (via Ocean Park)",
+    "to": "Airport (via HZMB Hong Kong Port)",
     "dir": "I"
   },
   {
@@ -4099,8 +4099,8 @@
     "id": "kmb_A20_I",
     "company": "kmb",
     "route": "A20",
-    "from": "Airport",
-    "to": "Hung Hom Station",
+    "from": "Hung Hom Station",
+    "to": "Airport",
     "dir": "I"
   },
   {
@@ -4115,8 +4115,8 @@
     "id": "kmb_A21_I",
     "company": "kmb",
     "route": "A21",
-    "from": "Airport (via HZMB Hong Kong Port)",
-    "to": "Hung Hom Station",
+    "from": "Hung Hom Station",
+    "to": "Airport (via HZMB Hong Kong Port)",
     "dir": "I"
   },
   {
@@ -4131,8 +4131,8 @@
     "id": "kmb_A22_I",
     "company": "kmb",
     "route": "A22",
-    "from": "Airport (via HZMB Hong Kong Port)",
-    "to": "Lam Tin Station",
+    "from": "Lam Tin Station",
+    "to": "Airport (via HZMB Hong Kong Port)",
     "dir": "I"
   },
   {
@@ -4147,8 +4147,8 @@
     "id": "kmb_A23_I",
     "company": "kmb",
     "route": "A23",
-    "from": "Airport (via HZMB Hong Kong Port)",
-    "to": "Tsz Wan Shan (North)",
+    "from": "Tsz Wan Shan (North)",
+    "to": "Airport (via HZMB Hong Kong Port)",
     "dir": "I"
   },
   {
@@ -4163,8 +4163,8 @@
     "id": "kmb_A25_I",
     "company": "kmb",
     "route": "A25",
-    "from": "Airport (via HZMB Hong Kong Port)",
-    "to": "Kai Tak (via Tsim Sha Tsui)",
+    "from": "Kai Tak (via Tsim Sha Tsui)",
+    "to": "Airport (via HZMB Hong Kong Port)",
     "dir": "I"
   },
   {
@@ -4179,8 +4179,8 @@
     "id": "kmb_A26_I",
     "company": "kmb",
     "route": "A26",
-    "from": "Airport (via HZMB Hong Kong Port)",
-    "to": "Yau Tong",
+    "from": "Yau Tong",
+    "to": "Airport (via HZMB Hong Kong Port)",
     "dir": "I"
   },
   {
@@ -4195,8 +4195,8 @@
     "id": "kmb_A28_I",
     "company": "kmb",
     "route": "A28",
-    "from": "Airport (via HZMB Hong Kong Port)",
-    "to": "LOHAS Park",
+    "from": "LOHAS Park",
+    "to": "Airport (via HZMB Hong Kong Port)",
     "dir": "I"
   },
   {
@@ -4211,8 +4211,8 @@
     "id": "kmb_A29_I",
     "company": "kmb",
     "route": "A29",
-    "from": "Airport (via HZMB Hong Kong Port)",
-    "to": "Tseung Kwan O (Po Lam)",
+    "from": "Tseung Kwan O (Po Lam)",
+    "to": "Airport (via HZMB Hong Kong Port)",
     "dir": "I"
   },
   {
@@ -4227,8 +4227,8 @@
     "id": "kmb_B3_I",
     "company": "kmb",
     "route": "B3",
-    "from": "Shenzhen Bay Port",
-    "to": "Tuen Mun Ferry Pier",
+    "from": "Tuen Mun Ferry Pier",
+    "to": "Shenzhen Bay Port",
     "dir": "I"
   },
   {
@@ -4243,8 +4243,8 @@
     "id": "kmb_B3A_I",
     "company": "kmb",
     "route": "B3A",
-    "from": "Shenzhen Bay Port",
-    "to": "Shan King Estate",
+    "from": "Shan King Estate",
+    "to": "Shenzhen Bay Port",
     "dir": "I"
   },
   {
@@ -4267,8 +4267,8 @@
     "id": "kmb_B3X_I",
     "company": "kmb",
     "route": "B3X",
-    "from": "Shenzhen Bay Port",
-    "to": "Tuen Mun Town Centre",
+    "from": "Tuen Mun Town Centre",
+    "to": "Shenzhen Bay Port",
     "dir": "I"
   },
   {
@@ -4283,8 +4283,8 @@
     "id": "kmb_B5_I",
     "company": "kmb",
     "route": "B5",
-    "from": "Sunny Bay Station",
-    "to": "Hong Kong-Zhuhai-Macao Bridge Hong Kong Port",
+    "from": "Hong Kong-Zhuhai-Macao Bridge Hong Kong Port",
+    "to": "Sunny Bay Station",
     "dir": "I"
   },
   {
@@ -4299,8 +4299,8 @@
     "id": "kmb_B7_I",
     "company": "kmb",
     "route": "B7",
-    "from": "Heung Yuen Wai Port (via Fanling Station)",
-    "to": "Sheung Shui (Po Wan Road) (via Fanling Station)",
+    "from": "Sheung Shui (Po Wan Road) (via Fanling Station)",
+    "to": "Heung Yuen Wai Port (via Fanling Station)",
     "dir": "I"
   },
   {
@@ -4323,8 +4323,8 @@
     "id": "kmb_B8_I",
     "company": "kmb",
     "route": "B8",
-    "from": "Heung Yuen Wai Port (via Tai Po)",
-    "to": "Tai Wai Station (via Tai Po)",
+    "from": "Tai Wai Station (via Tai Po)",
+    "to": "Heung Yuen Wai Port (via Tai Po)",
     "dir": "I"
   },
   {
@@ -4339,8 +4339,8 @@
     "id": "kmb_E11_I",
     "company": "kmb",
     "route": "E11",
-    "from": "SKYCITY",
-    "to": "Tin Hau Station",
+    "from": "Tin Hau Station",
+    "to": "SKYCITY",
     "dir": "I"
   },
   {
@@ -4355,8 +4355,8 @@
     "id": "kmb_E11A_I",
     "company": "kmb",
     "route": "E11A",
-    "from": "SKYCITY (via Tung Chung North)",
-    "to": "Tin Hau Station",
+    "from": "Tin Hau Station",
+    "to": "SKYCITY (via Tung Chung North)",
     "dir": "I"
   },
   {
@@ -4371,8 +4371,8 @@
     "id": "kmb_E11B_I",
     "company": "kmb",
     "route": "E11B",
-    "from": "Tung Chung (Mun Tung Estate)",
-    "to": "Tin Hau Station",
+    "from": "Tin Hau Station",
+    "to": "Tung Chung (Mun Tung Estate)",
     "dir": "I"
   },
   {
@@ -4395,8 +4395,8 @@
     "id": "kmb_E21_I",
     "company": "kmb",
     "route": "E21",
-    "from": "SKYCITY",
-    "to": "Tai Kok Tsui (Island Harbourview)",
+    "from": "Tai Kok Tsui (Island Harbourview)",
+    "to": "SKYCITY",
     "dir": "I"
   },
   {
@@ -4411,8 +4411,8 @@
     "id": "kmb_E21A_I",
     "company": "kmb",
     "route": "E21A",
-    "from": "Tung Chung (Yat Tung Estate)",
-    "to": "Ho Man Tin (Oi Man Estate)",
+    "from": "Ho Man Tin (Oi Man Estate)",
+    "to": "Tung Chung (Yat Tung Estate)",
     "dir": "I"
   },
   {
@@ -4427,8 +4427,8 @@
     "id": "kmb_E21B_I",
     "company": "kmb",
     "route": "E21B",
-    "from": "Tung Chung (Yat Tung Estate)",
-    "to": "Ho Man Tin (Oi Man Estate)",
+    "from": "Ho Man Tin (Oi Man Estate)",
+    "to": "Tung Chung (Yat Tung Estate)",
     "dir": "I"
   },
   {
@@ -4443,8 +4443,8 @@
     "id": "kmb_E21C_I",
     "company": "kmb",
     "route": "E21C",
-    "from": "Aircraft Maintenance Area",
-    "to": "Tai Kok Tsui (Island Harbourview)",
+    "from": "Tai Kok Tsui (Island Harbourview)",
+    "to": "Aircraft Maintenance Area",
     "dir": "I"
   },
   {
@@ -4459,8 +4459,8 @@
     "id": "kmb_E21D_I",
     "company": "kmb",
     "route": "E21D",
-    "from": "SKYCITY (via: Tung Chung North)",
-    "to": "Tai Kok Tsui (Island Harbourview)",
+    "from": "Tai Kok Tsui (Island Harbourview)",
+    "to": "SKYCITY (via: Tung Chung North)",
     "dir": "I"
   },
   {
@@ -4483,8 +4483,8 @@
     "id": "kmb_E22_I",
     "company": "kmb",
     "route": "E22",
-    "from": "SKYCITY",
-    "to": "Lam Tin (North)",
+    "from": "Lam Tin (North)",
+    "to": "SKYCITY",
     "dir": "I"
   },
   {
@@ -4499,8 +4499,8 @@
     "id": "kmb_E22A_I",
     "company": "kmb",
     "route": "E22A",
-    "from": "SKYCITY",
-    "to": "Tseung Kwan O (Hong Sing Garden)",
+    "from": "Tseung Kwan O (Hong Sing Garden)",
+    "to": "SKYCITY",
     "dir": "I"
   },
   {
@@ -4515,8 +4515,8 @@
     "id": "kmb_E22C_I",
     "company": "kmb",
     "route": "E22C",
-    "from": "Aircraft Maintenance Area",
-    "to": "Tiu Keng Leng Station",
+    "from": "Tiu Keng Leng Station",
+    "to": "Aircraft Maintenance Area",
     "dir": "I"
   },
   {
@@ -4531,8 +4531,8 @@
     "id": "kmb_E22P_I",
     "company": "kmb",
     "route": "E22P",
-    "from": "SKYCITY",
-    "to": "Yau Tong",
+    "from": "Yau Tong",
+    "to": "SKYCITY",
     "dir": "I"
   },
   {
@@ -4547,8 +4547,8 @@
     "id": "kmb_E22S_I",
     "company": "kmb",
     "route": "E22S",
-    "from": "Tseung Kwan O (Po Lam)",
-    "to": "Tung Chung (Mun Tung Estate)",
+    "from": "Tung Chung (Mun Tung Estate)",
+    "to": "Tseung Kwan O (Po Lam)",
     "dir": "I"
   },
   {
@@ -4563,8 +4563,8 @@
     "id": "kmb_E22X_I",
     "company": "kmb",
     "route": "E22X",
-    "from": "SKYCITY",
-    "to": "Yau Tong",
+    "from": "Yau Tong",
+    "to": "SKYCITY",
     "dir": "I"
   },
   {
@@ -4579,8 +4579,8 @@
     "id": "kmb_E23_I",
     "company": "kmb",
     "route": "E23",
-    "from": "Airport (Ground Transportation Centre)",
-    "to": "Tsz Wan Shan (South)",
+    "from": "Tsz Wan Shan (South)",
+    "to": "Airport (Ground Transportation Centre)",
     "dir": "I"
   },
   {
@@ -4595,8 +4595,8 @@
     "id": "kmb_E23A_I",
     "company": "kmb",
     "route": "E23A",
-    "from": "Airport (via Tung Chung North)",
-    "to": "Tsz Wan Shan (South)",
+    "from": "Tsz Wan Shan (South)",
+    "to": "Airport (via Tung Chung North)",
     "dir": "I"
   },
   {
@@ -4619,16 +4619,16 @@
     "id": "kmb_H2_I",
     "company": "kmb",
     "route": "H2",
-    "from": "Tsim Sha Tsui",
-    "to": "Central (Star Ferry)",
+    "from": "Central (Star Ferry)",
+    "to": "Tsim Sha Tsui",
     "dir": "I"
   },
   {
     "id": "kmb_H2K_I",
     "company": "kmb",
     "route": "H2K",
-    "from": "West Kowloon Cultural District",
-    "to": "Central (Star Ferry)",
+    "from": "Central (Star Ferry)",
+    "to": "West Kowloon Cultural District",
     "dir": "I"
   },
   {
@@ -4643,8 +4643,8 @@
     "id": "kmb_N11_I",
     "company": "kmb",
     "route": "N11",
-    "from": "Airport (Ground Transportation Centre)",
-    "to": "Central (Macau Ferry)",
+    "from": "Central (Macau Ferry)",
+    "to": "Airport (Ground Transportation Centre)",
     "dir": "I"
   },
   {
@@ -4659,8 +4659,8 @@
     "id": "kmb_N118_I",
     "company": "kmb",
     "route": "N118",
-    "from": "Cheung Sha Wan (Sham Mong Road)",
-    "to": "Siu Sai Wan (Island Resort)",
+    "from": "Siu Sai Wan (Island Resort)",
+    "to": "Cheung Sha Wan (Sham Mong Road)",
     "dir": "I"
   },
   {
@@ -4675,8 +4675,8 @@
     "id": "kmb_N121_I",
     "company": "kmb",
     "route": "N121",
-    "from": "Ngau Tau Kok",
-    "to": "Central (Macau Ferry)",
+    "from": "Central (Macau Ferry)",
+    "to": "Ngau Tau Kok",
     "dir": "I"
   },
   {
@@ -4691,8 +4691,8 @@
     "id": "kmb_N122_I",
     "company": "kmb",
     "route": "N122",
-    "from": "Mei Foo",
-    "to": "Shau Kei Wan",
+    "from": "Shau Kei Wan",
+    "to": "Mei Foo",
     "dir": "I"
   },
   {
@@ -4707,8 +4707,8 @@
     "id": "kmb_N170_I",
     "company": "kmb",
     "route": "N170",
-    "from": "Sha Tin Central",
-    "to": "Wah Fu (Central)",
+    "from": "Wah Fu (Central)",
+    "to": "Sha Tin Central",
     "dir": "I"
   },
   {
@@ -4723,8 +4723,8 @@
     "id": "kmb_N171_I",
     "company": "kmb",
     "route": "N171",
-    "from": "Lai Chi Kok",
-    "to": "Ap Lei Chau Estate",
+    "from": "Ap Lei Chau Estate",
+    "to": "Lai Chi Kok",
     "dir": "I"
   },
   {
@@ -4739,8 +4739,8 @@
     "id": "kmb_N182_I",
     "company": "kmb",
     "route": "N182",
-    "from": "Sha Tin (Kwong Yuen)",
-    "to": "Central (Macau Ferry)",
+    "from": "Central (Macau Ferry)",
+    "to": "Sha Tin (Kwong Yuen)",
     "dir": "I"
   },
   {
@@ -4763,8 +4763,8 @@
     "id": "kmb_N21_I",
     "company": "kmb",
     "route": "N21",
-    "from": "Airport (Ground Transportation Centre)",
-    "to": "Tsim Sha Tsui (Star Ferry)",
+    "from": "Tsim Sha Tsui (Star Ferry)",
+    "to": "Airport (Ground Transportation Centre)",
     "dir": "I"
   },
   {
@@ -4779,8 +4779,8 @@
     "id": "kmb_N21A_I",
     "company": "kmb",
     "route": "N21A",
-    "from": "Airport (via Yat Tung Estate)",
-    "to": "Tsim Sha Tsui (Star Ferry)",
+    "from": "Tsim Sha Tsui (Star Ferry)",
+    "to": "Airport (via Yat Tung Estate)",
     "dir": "I"
   },
   {
@@ -4795,8 +4795,8 @@
     "id": "kmb_N23_I",
     "company": "kmb",
     "route": "N23",
-    "from": "Tung Chung Station",
-    "to": "Tsz Wan Shan (North)",
+    "from": "Tsz Wan Shan (North)",
+    "to": "Tung Chung Station",
     "dir": "I"
   },
   {
@@ -4811,8 +4811,8 @@
     "id": "kmb_N26_I",
     "company": "kmb",
     "route": "N26",
-    "from": "Tung Chung Station",
-    "to": "Yau Tong",
+    "from": "Yau Tong",
+    "to": "Tung Chung Station",
     "dir": "I"
   },
   {
@@ -4827,8 +4827,8 @@
     "id": "kmb_N29_I",
     "company": "kmb",
     "route": "N29",
-    "from": "Tung Chung Station",
-    "to": "Tseung Kwan O (Hong Sing Garden)",
+    "from": "Tseung Kwan O (Hong Sing Garden)",
+    "to": "Tung Chung Station",
     "dir": "I"
   },
   {
@@ -4843,8 +4843,8 @@
     "id": "kmb_N307_I",
     "company": "kmb",
     "route": "N307",
-    "from": "Tai Po Centre",
-    "to": "Sheung Wan",
+    "from": "Sheung Wan",
+    "to": "Tai Po Centre",
     "dir": "I"
   },
   {
@@ -4859,8 +4859,8 @@
     "id": "kmb_N50_I",
     "company": "kmb",
     "route": "N50",
-    "from": "Tsim Sha Tsui (Kowloon Station)",
-    "to": "Tuen Mun (Ching Tin and Wo Tin)",
+    "from": "Tuen Mun (Ching Tin and Wo Tin)",
+    "to": "Tsim Sha Tsui (Kowloon Station)",
     "dir": "I"
   },
   {
@@ -4875,8 +4875,8 @@
     "id": "kmb_N619_I",
     "company": "kmb",
     "route": "N619",
-    "from": "Shun Lee Estate",
-    "to": "Central (Macau Ferry)",
+    "from": "Central (Macau Ferry)",
+    "to": "Shun Lee Estate",
     "dir": "I"
   },
   {
@@ -4891,8 +4891,8 @@
     "id": "kmb_N680_I",
     "company": "kmb",
     "route": "N680",
-    "from": "Ma On Shan (Kam Ying Court)",
-    "to": "Central (Macau Ferry)",
+    "from": "Central (Macau Ferry)",
+    "to": "Ma On Shan (Kam Ying Court)",
     "dir": "I"
   },
   {
@@ -4907,8 +4907,8 @@
     "id": "kmb_N691_I",
     "company": "kmb",
     "route": "N691",
-    "from": "Tiu Keng Leng (King Ling Road)",
-    "to": "Central (Macau Ferry)",
+    "from": "Central (Macau Ferry)",
+    "to": "Tiu Keng Leng (King Ling Road)",
     "dir": "I"
   },
   {
@@ -4923,8 +4923,8 @@
     "id": "kmb_N72_I",
     "company": "kmb",
     "route": "N72",
-    "from": "Quarry Bay (Hoi Chak Street)",
-    "to": "Wah Kwai Estate",
+    "from": "Wah Kwai Estate",
+    "to": "Quarry Bay (Hoi Chak Street)",
     "dir": "I"
   },
   {
@@ -4939,8 +4939,8 @@
     "id": "kmb_N796_I",
     "company": "kmb",
     "route": "N796",
-    "from": "Mongkok (via Tsim Sha Tsui)",
-    "to": "Lohas Park",
+    "from": "Lohas Park",
+    "to": "Mongkok (via Tsim Sha Tsui)",
     "dir": "I"
   },
   {
@@ -4955,8 +4955,8 @@
     "id": "kmb_N8_I",
     "company": "kmb",
     "route": "N8",
-    "from": "Heng Fa Chuen",
-    "to": "Exhibition Centre Station",
+    "from": "Exhibition Centre Station",
+    "to": "Heng Fa Chuen",
     "dir": "I"
   },
   {
@@ -4971,8 +4971,8 @@
     "id": "kmb_N8P_I",
     "company": "kmb",
     "route": "N8P",
-    "from": "Wan Chai (Harbour Road)",
-    "to": "Siu Sai Wan (Island Resort)",
+    "from": "Siu Sai Wan (Island Resort)",
+    "to": "Wan Chai (Harbour Road)",
     "dir": "I"
   },
   {
@@ -4987,8 +4987,8 @@
     "id": "kmb_N8X_I",
     "company": "kmb",
     "route": "N8X",
-    "from": "Kennedy Town",
-    "to": "Siu Sai Wan (Island Resort)",
+    "from": "Siu Sai Wan (Island Resort)",
+    "to": "Kennedy Town",
     "dir": "I"
   },
   {
@@ -5003,8 +5003,8 @@
     "id": "kmb_N90_I",
     "company": "kmb",
     "route": "N90",
-    "from": "Central (Macau Ferry)",
-    "to": "South Horizons",
+    "from": "South Horizons",
+    "to": "Central (Macau Ferry)",
     "dir": "I"
   },
   {
@@ -5019,8 +5019,8 @@
     "id": "kmb_N930_I",
     "company": "kmb",
     "route": "N930",
-    "from": "Causeway Bay (Moreton Terrace)",
-    "to": "Tsuen Wan (Discovery Park)",
+    "from": "Tsuen Wan (Discovery Park)",
+    "to": "Causeway Bay (Moreton Terrace)",
     "dir": "I"
   },
   {
@@ -5035,8 +5035,8 @@
     "id": "kmb_N952_I",
     "company": "kmb",
     "route": "N952",
-    "from": "Causeway Bay (Moreton Terrace)",
-    "to": "Tuen Mun (Chi Lok Fa Yuen)",
+    "from": "Tuen Mun (Chi Lok Fa Yuen)",
+    "to": "Causeway Bay (Moreton Terrace)",
     "dir": "I"
   },
   {
@@ -5051,8 +5051,8 @@
     "id": "kmb_N962_I",
     "company": "kmb",
     "route": "N962",
-    "from": "Causeway Bay (Moreton Terrace)",
-    "to": "Tuen Mun (Lung Mun Oasis)",
+    "from": "Tuen Mun (Lung Mun Oasis)",
+    "to": "Causeway Bay (Moreton Terrace)",
     "dir": "I"
   },
   {
@@ -5067,8 +5067,8 @@
     "id": "kmb_N969_I",
     "company": "kmb",
     "route": "N969",
-    "from": "Causeway Bay (Moreton Terrace)",
-    "to": "Tin Shui Wai Town Centre",
+    "from": "Tin Shui Wai Town Centre",
+    "to": "Causeway Bay (Moreton Terrace)",
     "dir": "I"
   },
   {
@@ -5083,8 +5083,8 @@
     "id": "kmb_NA10_I",
     "company": "kmb",
     "route": "NA10",
-    "from": "Airport / HZMB Hong Kong Port",
-    "to": "Ap Lei Chau (Lee Lok Street)",
+    "from": "Ap Lei Chau (Lee Lok Street)",
+    "to": "Airport / HZMB Hong Kong Port",
     "dir": "I"
   },
   {
@@ -5099,8 +5099,8 @@
     "id": "kmb_NA11_I",
     "company": "kmb",
     "route": "NA11",
-    "from": "Airport / HZMB Hong Kong Port",
-    "to": "North Point Ferry Pier",
+    "from": "North Point Ferry Pier",
+    "to": "Airport / HZMB Hong Kong Port",
     "dir": "I"
   },
   {
@@ -5123,8 +5123,8 @@
     "id": "kmb_NA20_I",
     "company": "kmb",
     "route": "NA20",
-    "from": "Airport / HZMB Hong Kong Port",
-    "to": "Whampoa Garden",
+    "from": "Whampoa Garden",
+    "to": "Airport / HZMB Hong Kong Port",
     "dir": "I"
   },
   {
@@ -5139,8 +5139,8 @@
     "id": "kmb_NA21_I",
     "company": "kmb",
     "route": "NA21",
-    "from": "Tai Kok Tsui (Hoi Fai Road)",
-    "to": "Airport / HZMB Hong Kong Port",
+    "from": "Airport / HZMB Hong Kong Port",
+    "to": "Tai Kok Tsui (Hoi Fai Road)",
     "dir": "I"
   },
   {
@@ -5155,8 +5155,8 @@
     "id": "kmb_NA29_I",
     "company": "kmb",
     "route": "NA29",
-    "from": "Airport / HZMB Hong Kong Port",
-    "to": "Tseung Kwan O (Po Lam)",
+    "from": "Tseung Kwan O (Po Lam)",
+    "to": "Airport / HZMB Hong Kong Port",
     "dir": "I"
   },
   {
@@ -5195,8 +5195,8 @@
     "id": "kmb_S52_I",
     "company": "kmb",
     "route": "S52",
-    "from": "Aircraft Maintenance Area",
-    "to": "Tung Chung (Yat Tung Estate)",
+    "from": "Tung Chung (Yat Tung Estate)",
+    "to": "Aircraft Maintenance Area",
     "dir": "I"
   },
   {
@@ -5211,8 +5211,8 @@
     "id": "kmb_S52A_I",
     "company": "kmb",
     "route": "S52A",
-    "from": "Aircraft Maintenance Area",
-    "to": "Yu Nga Court",
+    "from": "Yu Nga Court",
+    "to": "Aircraft Maintenance Area",
     "dir": "I"
   },
   {
@@ -5243,8 +5243,8 @@
     "id": "kmb_X1_I",
     "company": "kmb",
     "route": "X1",
-    "from": "AsiaWorld-Expo",
-    "to": "Tung Chung Station",
+    "from": "Tung Chung Station",
+    "to": "AsiaWorld-Expo",
     "dir": "I"
   },
   {
@@ -5259,8 +5259,8 @@
     "id": "kmb_X15_I",
     "company": "kmb",
     "route": "X15",
-    "from": "The Peak",
-    "to": "Central (Star Ferry)",
+    "from": "Central (Star Ferry)",
+    "to": "The Peak",
     "dir": "I"
   },
   {
@@ -5275,8 +5275,8 @@
     "id": "kmb_X797_I",
     "company": "kmb",
     "route": "X797",
-    "from": "Fire and Ambulance Services Academy",
-    "to": "Tiu Keng Leng Station",
+    "from": "Tiu Keng Leng Station",
+    "to": "Fire and Ambulance Services Academy",
     "dir": "I"
   },
   {
@@ -5299,8 +5299,8 @@
     "id": "kmb_X9_I",
     "company": "kmb",
     "route": "X9",
-    "from": "Shek O",
-    "to": "Central (Star Ferry)",
+    "from": "Central (Star Ferry)",
+    "to": "Shek O",
     "dir": "I"
   },
   {

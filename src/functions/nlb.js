@@ -77,6 +77,7 @@ async function parseJsonNlb(lang)
 
             const newStop_tc = {
                 'company': 'nlb',
+                'route_id': currRoute['routeId'],
                 'route': currRoute['routeNo'],
                 'from': currRoute['routeName_c'].split('>')[0].trim(),
                 'to': currRoute['routeName_c'].split('>')[1].trim(),
@@ -99,6 +100,7 @@ async function parseJsonNlb(lang)
             const newStop_en = {
                 'company': 'nlb',
                 'route': currRoute['routeNo'],
+                'route_id': currRoute['routeId'],
                 'from': currRoute['routeName_e'].split('>')[0].trim(),
                 'to': currRoute['routeName_e'].split('>')[1].trim(),
                 'stop': currStop['stopId'],

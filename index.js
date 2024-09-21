@@ -47,10 +47,10 @@ app.get(('/kmbctb'), async (req, res) =>
     await parseJsonKmbCtb('tc');
     await parseJsonKmbCtb('en');
 
-    await deleteNonCoop('kmb', 'tc');
-    await deleteNonCoop('kmb', 'en');
-    await deleteNonCoop('ctb', 'tc');
-    await deleteNonCoop('ctb', 'en');
+    // await deleteNonCoop('kmb', 'tc');
+    // await deleteNonCoop('kmb', 'en');
+    // await deleteNonCoop('ctb', 'tc');
+    // await deleteNonCoop('ctb', 'en');
 
     res.send('done');
 })
