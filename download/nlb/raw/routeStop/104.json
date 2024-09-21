@@ -1,0 +1,88 @@
+{
+  "stops": [
+    {
+      "stopId": "329",
+      "stopName_c": "裕雅苑",
+      "stopName_s": "裕雅苑",
+      "stopName_e": "Yu Nga Court",
+      "stopLocation_c": "怡東路",
+      "stopLocation_s": "怡东路",
+      "stopLocation_e": "Yi Tung Road",
+      "latitude": "22.29655000",
+      "longitude": "113.94846500",
+      "fare": "3.7",
+      "fareHoliday": "0.0",
+      "someDepartureObserveOnly": 0
+    },
+    {
+      "stopId": "330",
+      "stopName_c": "裕雅商場",
+      "stopName_s": "裕雅商场",
+      "stopName_e": "Yu Nga Shopping Mall",
+      "stopLocation_c": "怡東路",
+      "stopLocation_s": "怡东路",
+      "stopLocation_e": "Yi Tung Road",
+      "latitude": "22.29542600",
+      "longitude": "113.94672800",
+      "fare": "3.7",
+      "fareHoliday": "0.0",
+      "someDepartureObserveOnly": 0
+    },
+    {
+      "stopId": "77",
+      "stopName_c": "東涌消防局",
+      "stopName_s": "东涌消防局",
+      "stopName_e": "Tung Chung Fire Station",
+      "stopLocation_c": "順東路",
+      "stopLocation_s": "顺东路",
+      "stopLocation_e": "Shun Tung Road",
+      "latitude": "22.28603000",
+      "longitude": "113.94105700",
+      "fare": "3.7",
+      "fareHoliday": "0.0",
+      "someDepartureObserveOnly": 0
+    },
+    {
+      "stopId": "278",
+      "stopName_c": "東涌站巴士總站",
+      "stopName_s": "东涌站巴士总站",
+      "stopName_e": "Tung Chung Station Bus Terminus",
+      "stopLocation_c": "達東路",
+      "stopLocation_s": "达东路",
+      "stopLocation_e": "Tat Tung Road",
+      "latitude": "22.28986200",
+      "longitude": "113.93961600",
+      "fare": "3.7",
+      "fareHoliday": "0.0",
+      "someDepartureObserveOnly": 0
+    },
+    {
+      "stopId": "81",
+      "stopName_c": "裕東苑",
+      "stopName_s": "裕东苑",
+      "stopName_e": "Yu Tung Court",
+      "stopLocation_c": "順東路",
+      "stopLocation_s": "顺东路",
+      "stopLocation_e": "Shun Tung Road",
+      "latitude": "22.28607700",
+      "longitude": "113.94160300",
+      "fare": "3.7",
+      "fareHoliday": "0.0",
+      "someDepartureObserveOnly": 0
+    },
+    {
+      "stopId": "331",
+      "stopName_c": "裕雅苑",
+      "stopName_s": "裕雅苑",
+      "stopName_e": "Yu Nga Court",
+      "stopLocation_c": "怡東路",
+      "stopLocation_s": "怡东路",
+      "stopLocation_e": "Yi Tung Road",
+      "latitude": "22.29655600",
+      "longitude": "113.94848200",
+      "fare": "0.0",
+      "fareHoliday": "0.0",
+      "someDepartureObserveOnly": 0
+    }
+  ]
+}

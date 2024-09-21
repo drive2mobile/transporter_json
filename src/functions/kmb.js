@@ -1,5 +1,5 @@
-import { coopRoutes } from "../src/utilities/constants.js";
-import { downloadJSONFile, loadJSONFromFile, saveJSONToFile } from "../src/utilities/file_management.js";
+import { coopRoutes } from "../utilities/constants.js";
+import { downloadJSONFile, loadJSONFromFile, saveJSONToFile } from "../utilities/file_management.js";
 
 async function downloadRouteListKmb()
 {

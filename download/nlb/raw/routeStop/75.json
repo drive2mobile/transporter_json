@@ -1,0 +1,46 @@
+{
+  "stops": [
+    {
+      "stopId": "106",
+      "stopName_c": "東涌發展碼頭",
+      "stopName_s": "东涌发展码头",
+      "stopName_e": "Tung Chung Development Ferry Pier",
+      "stopLocation_c": "東涌海濱路",
+      "stopLocation_s": "东涌海滨路",
+      "stopLocation_e": "Tung Chung Waterfront Road",
+      "latitude": "22.29384600",
+      "longitude": "113.94044900",
+      "fare": "3.7",
+      "fareHoliday": "3.7",
+      "someDepartureObserveOnly": 0
+    },
+    {
+      "stopId": "78",
+      "stopName_c": "東涌纜車站",
+      "stopName_s": "东涌缆车站",
+      "stopName_e": "Tung Chung Cable Car Terminal",
+      "stopLocation_c": "達東路",
+      "stopLocation_s": "达东路",
+      "stopLocation_e": "Tat Tung Road",
+      "latitude": "22.28930100",
+      "longitude": "113.93873300",
+      "fare": "3.7",
+      "fareHoliday": "3.7",
+      "someDepartureObserveOnly": 0
+    },
+    {
+      "stopId": "105",
+      "stopName_c": "東涌港鐵站",
+      "stopName_s": "东涌港铁站",
+      "stopName_e": "Tung Chung MTR Station",
+      "stopLocation_c": "達東路",
+      "stopLocation_s": "达东路",
+      "stopLocation_e": "Tat Tung Road",
+      "latitude": "22.28961300",
+      "longitude": "113.94021000",
+      "fare": "0.0",
+      "fareHoliday": "0.0",
+      "someDepartureObserveOnly": 0
+    }
+  ]
+}

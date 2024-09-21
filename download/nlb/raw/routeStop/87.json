@@ -1,0 +1,102 @@
+{
+  "stops": [
+    {
+      "stopId": "307",
+      "stopName_c": "大橋香港口岸",
+      "stopName_s": "大桥香港口岸",
+      "stopName_e": "HZMB Hong Kong Port",
+      "stopLocation_c": "大橋香港口岸 (抵港層)",
+      "stopLocation_s": "大桥香港口岸 (抵港层)",
+      "stopLocation_e": "HZMB Hong Kong Port (Arrival Level)",
+      "latitude": "22.31640000",
+      "longitude": "113.95085600",
+      "fare": "9.1",
+      "fareHoliday": "9.1",
+      "someDepartureObserveOnly": 0
+    },
+    {
+      "stopId": "117",
+      "stopName_c": "機場(客運大樓)",
+      "stopName_s": "机场(客运大楼)",
+      "stopName_e": "Airport (Passenger Terminal Building)",
+      "stopLocation_c": "暢達路",
+      "stopLocation_s": "畅达路",
+      "stopLocation_e": "Cheong Tat Road",
+      "latitude": "22.31456900",
+      "longitude": "113.93661000",
+      "fare": "9.1",
+      "fareHoliday": "9.1",
+      "someDepartureObserveOnly": 0
+    },
+    {
+      "stopId": "118",
+      "stopName_c": "暢達路",
+      "stopName_s": "畅达路",
+      "stopName_e": "Cheong Tat Road",
+      "stopLocation_c": "暢達路",
+      "stopLocation_s": "畅达路",
+      "stopLocation_e": "Cheong Tat Road",
+      "latitude": "22.31623600",
+      "longitude": "113.93594800",
+      "fare": "9.1",
+      "fareHoliday": "9.1",
+      "someDepartureObserveOnly": 0
+    },
+    {
+      "stopId": "120",
+      "stopName_c": "富豪機場酒店",
+      "stopName_s": "富豪机场酒店",
+      "stopName_e": "Regal Airport Hotel",
+      "stopLocation_c": "暢達路",
+      "stopLocation_s": "畅达路",
+      "stopLocation_e": "Cheong Tat Road",
+      "latitude": "22.31943000",
+      "longitude": "113.93394200",
+      "fare": "9.1",
+      "fareHoliday": "9.1",
+      "someDepartureObserveOnly": 0
+    },
+    {
+      "stopId": "335",
+      "stopName_c": "航天城交通總匯",
+      "stopName_s": "航天城交通总汇",
+      "stopName_e": "Skycity Transport Terminal",
+      "stopLocation_c": "航天城",
+      "stopLocation_s": "航天城",
+      "stopLocation_e": "航天城",
+      "latitude": "22.31681100",
+      "longitude": "113.94162700",
+      "fare": "9.1",
+      "fareHoliday": "9.1",
+      "someDepartureObserveOnly": 0
+    },
+    {
+      "stopId": "308",
+      "stopName_c": "大橋香港口岸旅檢大樓",
+      "stopName_s": "大桥香港口岸旅检大楼",
+      "stopName_e": "HZMB Hong Kong Port Passenger Clearance Building",
+      "stopLocation_c": "大橋香港口岸",
+      "stopLocation_s": "大桥香港口岸",
+      "stopLocation_e": "HZMB Hong Kong Port",
+      "latitude": "22.31721100",
+      "longitude": "113.95053100",
+      "fare": "9.1",
+      "fareHoliday": "9.1",
+      "someDepartureObserveOnly": 0
+    },
+    {
+      "stopId": "313",
+      "stopName_c": "大橋香港口岸",
+      "stopName_s": "大桥香港口岸",
+      "stopName_e": "HZMB Hong Kong Port",
+      "stopLocation_c": "大橋香港口岸 (抵港層)",
+      "stopLocation_s": "大桥香港口岸 (抵港层)",
+      "stopLocation_e": "HZMB Hong Kong Port (Arrival Level)",
+      "latitude": "22.31640000",
+      "longitude": "113.95085600",
+      "fare": "0.0",
+      "fareHoliday": "0.0",
+      "someDepartureObserveOnly": 0
+    }
+  ]
+}

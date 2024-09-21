@@ -1,0 +1,60 @@
+{
+  "stops": [
+    {
+      "stopId": "176",
+      "stopName_c": "天水圍 (天耀邨)",
+      "stopName_s": "天水围 (天耀邨)",
+      "stopName_e": "Tin Shui Wai (Tin Yiu Estate)",
+      "stopLocation_c": "天耀路",
+      "stopLocation_s": "天耀路",
+      "stopLocation_e": "Tin Yiu Road",
+      "latitude": "22.45053000",
+      "longitude": "114.00302900",
+      "fare": "10.3",
+      "fareHoliday": "10.3",
+      "someDepartureObserveOnly": 0
+    },
+    {
+      "stopId": "169",
+      "stopName_c": "天耀邨耀民樓",
+      "stopName_s": "天耀邨耀民楼",
+      "stopName_e": "Yiu Man House, Tin Yiu Estate",
+      "stopLocation_c": "天耀路",
+      "stopLocation_s": "天耀路",
+      "stopLocation_e": "Tin Yiu Road",
+      "latitude": "22.44955000",
+      "longitude": "114.00317400",
+      "fare": "10.3",
+      "fareHoliday": "10.3",
+      "someDepartureObserveOnly": 0
+    },
+    {
+      "stopId": "207",
+      "stopName_c": "天盛苑",
+      "stopName_s": "天盛苑",
+      "stopName_e": "Tin Shing Court",
+      "stopLocation_c": "屏廈路",
+      "stopLocation_s": "屏厦路",
+      "stopLocation_e": "Ping Ha Road",
+      "latitude": "22.44669700",
+      "longitude": "114.00300000",
+      "fare": "10.3",
+      "fareHoliday": "10.3",
+      "someDepartureObserveOnly": 0
+    },
+    {
+      "stopId": "152",
+      "stopName_c": "深圳灣口岸",
+      "stopName_s": "深圳湾口岸",
+      "stopName_e": "Shenzhen Bay Port",
+      "stopLocation_c": "深圳灣口岸",
+      "stopLocation_s": "深圳湾口岸",
+      "stopLocation_e": "Shenzhen Bay Port",
+      "latitude": "22.49743300",
+      "longitude": "113.95050900",
+      "fare": "0.0",
+      "fareHoliday": "0.0",
+      "someDepartureObserveOnly": 0
+    }
+  ]
+}

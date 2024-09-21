@@ -1,0 +1,72 @@
+[
+  {
+    "id": "nlb_1_1",
+    "company": "nlb",
+    "route": "1",
+    "from": "梅窩碼頭",
+    "to": "大澳"
+  },
+  {
+    "id": "nlb_2_1",
+    "company": "nlb",
+    "route": "1",
+    "from": "大澳",
+    "to": "梅窩碼頭"
+  },
+  {
+    "id": "nlb_3_1R",
+    "company": "nlb",
+    "route": "1R",
+    "from": "紅磡 (紅鸞道)",
+    "to": "昂坪"
+  },
+  {
+    "id": "nlb_4_2",
+    "company": "nlb",
+    "route": "2",
+    "from": "梅窩碼頭",
+    "to": "昂坪"
+  },
+  {
+    "id": "nlb_5_2",
+    "company": "nlb",
+    "route": "2",
+    "from": "昂坪",
+    "to": "梅窩碼頭"
+  },
+  {
+    "id": "nlb_8_3M",
+    "company": "nlb",
+    "route": "3M",
+    "from": "梅窩 (貝澳開)",
+    "to": "東涌站巴士總站"
+  },
+  {
+    "id": "nlb_7_3M",
+    "company": "nlb",
+    "route": "3M",
+    "from": "梅窩碼頭",
+    "to": "東涌站巴士總站"
+  },
+  {
+    "id": "nlb_6_3M",
+    "company": "nlb",
+    "route": "3M",
+    "from": "東涌站巴士總站",
+    "to": "梅窩碼頭"
+  },
+  {
+    "id": "nlb_12_4",
+    "company": "nlb",
+    "route": "4",
+    "from": "梅窩碼頭",
+    "to": "塘福 (至水口)"
+  },
+  {
+    "id": "nlb_9_4",
+    "company": "nlb",
+    "route": "4",
+    "from": "梅窩碼頭",
+    "to": "塘福"
+  }
+]

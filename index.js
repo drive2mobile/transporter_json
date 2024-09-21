@@ -2,12 +2,13 @@
 import express from "express";
 import cors from "cors"
 import fs from "fs";
-import { downloadRouteList, downloadRouteStops, downloadStops, parseJsonCtb } from "./functions/ctb.js";
-import { downloadRouteListKmb, downloadRouteStopListKmb, downloadStopListKmb, parseJsonKmb, } from "./functions/kmb.js";
+import { downloadRouteList, downloadRouteStops, downloadStops, parseJsonCtb } from "./src/functions/ctb.js";
+import { downloadRouteListKmb, downloadRouteStopListKmb, downloadStopListKmb, parseJsonKmb, } from "./src/functions/kmb.js";
 import { downloadJSONFile } from "./src/utilities/file_management.js";
-import { deleteNonCoop, parseJsonKmbCtb } from "./functions/kmbctb.js";
-import { downloadRouteStopListMtrBus, parseJsonMtrBus } from "./functions/mtrbus.js";
-import { downloadAndParseRouteListGmb, downloadAndParseRouteStopListGmb, downloadStopGmb, mergeStopCoordinateToRouteStopGmb } from "./functions/gmb.js";
+import { deleteNonCoop, parseJsonKmbCtb } from "./src/functions/kmbctb.js";
+import { downloadRouteStopListMtrBus, parseJsonMtrBus } from "./src/functions/mtrbus.js";
+import { downloadAndParseRouteListGmb, downloadAndParseRouteStopListGmb, downloadStopGmb, mergeStopCoordinateToRouteStopGmb } from "./src/functions/gmb.js";
+import { downloadRouteListNlb, downloadRouteStopNlb, parseJsonNlb } from "./src/functions/nlb.js";
 
 const app = express();
 app.use(cors({
@@ -54,7 +55,8 @@ app.get(('/kmbctb'), async (req, res) =>
     res.send('done');
 })
 
-app.get(('/mtrbus'), async (req, res) => {
+app.get(('/mtrbus'), async (req, res) =>
+{
     // await downloadRouteStopListMtrBus();
 
     await parseJsonMtrBus('tc');
@@ -63,11 +65,21 @@ app.get(('/mtrbus'), async (req, res) => {
     res.send('done');
 })
 
-app.get(('/gmb'), async (req, res) => {
+app.get(('/gmb'), async (req, res) =>
+{
     // await downloadAndParseRouteListGmb();
     // await downloadAndParseRouteStopListGmb();
     // await downloadStopGmb();
     // await mergeStopCoordinateToRouteStopGmb();
+
+    res.send('done');
+})
+
+app.get(('/nlb'), async (req, res) =>
+{
+    // await downloadRouteListNlb();
+    // await downloadRouteStopNlb();
+    await parseJsonNlb();
 
     res.send('done');
 })

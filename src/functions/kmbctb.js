@@ -1,6 +1,6 @@
-import { coopRoutes, reverseDir } from "../src/utilities/constants.js";
-import { loadJSONFromFile, saveJSONToFile } from "../src/utilities/file_management.js";
-import { findNearestCoopStop } from "../src/utilities/location.js";
+import { coopRoutes, reverseDir } from "../utilities/constants.js";
+import { loadJSONFromFile, saveJSONToFile } from "../utilities/file_management.js";
+import { findNearestCoopStop } from "../utilities/location.js";
 
 async function parseJsonKmbCtb(lang)
 {

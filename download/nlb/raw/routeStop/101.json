@@ -1,0 +1,88 @@
+{
+  "stops": [
+    {
+      "stopId": "317",
+      "stopName_c": "東涌達東路巴士總站",
+      "stopName_s": "东涌达东路巴士总站",
+      "stopName_e": "Tung Chung Tat Tung Road Bus Terminus",
+      "stopLocation_c": "達東路",
+      "stopLocation_s": "达东路",
+      "stopLocation_e": "Tat Tung Road",
+      "latitude": "22.29058000",
+      "longitude": "113.93935200",
+      "fare": "10.2",
+      "fareHoliday": "10.2",
+      "someDepartureObserveOnly": 0
+    },
+    {
+      "stopId": "100",
+      "stopName_c": "東薈城",
+      "stopName_s": "东薈城",
+      "stopName_e": "Citygate",
+      "stopLocation_c": "達東路",
+      "stopLocation_s": "达东路",
+      "stopLocation_e": "Tat Tung Road",
+      "latitude": "22.29013600",
+      "longitude": "113.94147400",
+      "fare": "10.2",
+      "fareHoliday": "10.2",
+      "someDepartureObserveOnly": 0
+    },
+    {
+      "stopId": "295",
+      "stopName_c": "白芒",
+      "stopName_s": "白芒",
+      "stopName_e": "Pak Mong",
+      "stopLocation_c": "翔東路",
+      "stopLocation_s": "翔东路",
+      "stopLocation_e": "Cheung Tung Road",
+      "latitude": "22.29796400",
+      "longitude": "113.96758000",
+      "fare": "10.2",
+      "fareHoliday": "10.2",
+      "someDepartureObserveOnly": 0
+    },
+    {
+      "stopId": "98",
+      "stopName_c": "政府維修廠",
+      "stopName_s": "政府维修厂",
+      "stopName_e": "Government Maintenance Depot",
+      "stopLocation_c": "翔東路",
+      "stopLocation_s": "翔东路",
+      "stopLocation_e": "Cheung Tung Road",
+      "latitude": "22.30893500",
+      "longitude": "113.98945100",
+      "fare": "10.2",
+      "fareHoliday": "10.2",
+      "someDepartureObserveOnly": 0
+    },
+    {
+      "stopId": "95",
+      "stopName_c": "小蠔灣",
+      "stopName_s": "小蚝湾",
+      "stopName_e": "Siu Ho Wan",
+      "stopLocation_c": "深豐路",
+      "stopLocation_s": "深丰路",
+      "stopLocation_e": "Shum Fung Road",
+      "latitude": "22.31551900",
+      "longitude": "113.99797500",
+      "fare": "10.2",
+      "fareHoliday": "10.2",
+      "someDepartureObserveOnly": 0
+    },
+    {
+      "stopId": "327",
+      "stopName_c": "迪士尼樂園",
+      "stopName_s": "迪士尼乐园",
+      "stopName_e": "Disneyland",
+      "stopLocation_c": "幻想道",
+      "stopLocation_s": "幻想道",
+      "stopLocation_e": "Fantasy Road",
+      "latitude": "22.31635600",
+      "longitude": "114.04573200",
+      "fare": "0.0",
+      "fareHoliday": "0.0",
+      "someDepartureObserveOnly": 0
+    }
+  ]
+}

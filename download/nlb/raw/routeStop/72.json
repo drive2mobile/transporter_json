@@ -1,0 +1,88 @@
+{
+  "stops": [
+    {
+      "stopId": "56",
+      "stopName_c": "禮智園墳場",
+      "stopName_s": "礼智园坟场",
+      "stopName_e": "Lai Chi Yuen Cemetery",
+      "stopLocation_c": "嶼南道",
+      "stopLocation_s": "屿南道",
+      "stopLocation_e": "South Lantau Road",
+      "latitude": "22.25932700",
+      "longitude": "113.99399300",
+      "fare": "0.0",
+      "fareHoliday": "5.9",
+      "someDepartureObserveOnly": 0
+    },
+    {
+      "stopId": "2",
+      "stopName_c": "梅窩熟食市場",
+      "stopName_s": "梅窝熟食市场",
+      "stopName_e": "Mui Wo Cooked Food Market",
+      "stopLocation_c": "銀礦灣道",
+      "stopLocation_s": "银矿湾道",
+      "stopLocation_e": "Ngan Kwong Wan Road",
+      "latitude": "22.26614300",
+      "longitude": "114.00004900",
+      "fare": "0.0",
+      "fareHoliday": "5.9",
+      "someDepartureObserveOnly": 0
+    },
+    {
+      "stopId": "3",
+      "stopName_c": "銀灣邨",
+      "stopName_s": "银湾邨",
+      "stopName_e": "Ngan Wan Estate",
+      "stopLocation_c": "銀礦灣道",
+      "stopLocation_s": "银矿湾道",
+      "stopLocation_e": "Ngan Kwong Wan Road",
+      "latitude": "22.26540600",
+      "longitude": "113.99707400",
+      "fare": "0.0",
+      "fareHoliday": "5.9",
+      "someDepartureObserveOnly": 0
+    },
+    {
+      "stopId": "4",
+      "stopName_c": "梅窩街市",
+      "stopName_s": "梅窝街市",
+      "stopName_e": "Mui Wo Market",
+      "stopLocation_c": "銀石街",
+      "stopLocation_s": "银石街",
+      "stopLocation_e": "Ngan Shek Street",
+      "latitude": "22.26675900",
+      "longitude": "113.99699900",
+      "fare": "0.0",
+      "fareHoliday": "5.9",
+      "someDepartureObserveOnly": 0
+    },
+    {
+      "stopId": "5",
+      "stopName_c": "銀景中心",
+      "stopName_s": "银景中心",
+      "stopName_e": "Ngan King Centre",
+      "stopLocation_c": "銀礦灣道",
+      "stopLocation_s": "银矿湾道",
+      "stopLocation_e": "Ngan Kwong Wan Road",
+      "latitude": "22.26553700",
+      "longitude": "113.99696500",
+      "fare": "0.0",
+      "fareHoliday": "5.9",
+      "someDepartureObserveOnly": 0
+    },
+    {
+      "stopId": "305",
+      "stopName_c": "梅窩碼頭",
+      "stopName_s": "梅窝码头",
+      "stopName_e": "Mui Wo Ferry Pier",
+      "stopLocation_c": "梅窩碼頭",
+      "stopLocation_s": "梅窝码头",
+      "stopLocation_e": "Mui Wo Ferry Pier",
+      "latitude": "22.26466400",
+      "longitude": "114.00155400",
+      "fare": "0.0",
+      "fareHoliday": "0.0",
+      "someDepartureObserveOnly": 0
+    }
+  ]
+}

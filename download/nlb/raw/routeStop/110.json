@@ -1,0 +1,60 @@
+{
+  "stops": [
+    {
+      "stopId": "152",
+      "stopName_c": "深圳灣口岸",
+      "stopName_s": "深圳湾口岸",
+      "stopName_e": "Shenzhen Bay Port",
+      "stopLocation_c": "深圳灣口岸",
+      "stopLocation_s": "深圳湾口岸",
+      "stopLocation_e": "Shenzhen Bay Port",
+      "latitude": "22.49743300",
+      "longitude": "113.95050900",
+      "fare": "21.5",
+      "fareHoliday": "21.5",
+      "someDepartureObserveOnly": 0
+    },
+    {
+      "stopId": "170",
+      "stopName_c": "天盛苑",
+      "stopName_s": "天盛苑",
+      "stopName_e": "Tin Shing Court",
+      "stopLocation_c": "屏廈路",
+      "stopLocation_s": "屏厦路",
+      "stopLocation_e": "Ping Ha Road",
+      "latitude": "22.44698800",
+      "longitude": "114.00279400",
+      "fare": "21.5",
+      "fareHoliday": "21.5",
+      "someDepartureObserveOnly": 0
+    },
+    {
+      "stopId": "134",
+      "stopName_c": "元朗港鐵站",
+      "stopName_s": "元朗港铁站",
+      "stopName_e": "Yuen Long MTR Station",
+      "stopLocation_c": "朗日路",
+      "stopLocation_s": "朗日路",
+      "stopLocation_e": "Long Yat Road",
+      "latitude": "22.44615300",
+      "longitude": "114.03388800",
+      "fare": "21.5",
+      "fareHoliday": "21.5",
+      "someDepartureObserveOnly": 0
+    },
+    {
+      "stopId": "152",
+      "stopName_c": "深圳灣口岸",
+      "stopName_s": "深圳湾口岸",
+      "stopName_e": "Shenzhen Bay Port",
+      "stopLocation_c": "深圳灣口岸",
+      "stopLocation_s": "深圳湾口岸",
+      "stopLocation_e": "Shenzhen Bay Port",
+      "latitude": "22.49743300",
+      "longitude": "113.95050900",
+      "fare": "21.5",
+      "fareHoliday": "21.5",
+      "someDepartureObserveOnly": 0
+    }
+  ]
+}

@@ -1,4 +1,4 @@
-import { downloadJSONFile, loadJSONFromFile, returnJson, saveAndReturnJSONFile, saveJSONToFile } from "../src/utilities/file_management.js";
+import { downloadJSONFile, loadJSONFromFile, returnJson, saveAndReturnJSONFile, saveJSONToFile } from "../utilities/file_management.js";
 
 
 async function downloadAndParseRouteListGmb()
