@@ -4,7 +4,7 @@ import cors from "cors"
 import fs from "fs";
 import { downloadRouteList, downloadRouteStops, downloadStops, parseJsonCtb } from "./src/functions/ctb.js";
 import { downloadRouteListKmb, downloadRouteStopListKmb, downloadStopListKmb, parseJsonKmb, } from "./src/functions/kmb.js";
-import { downloadJSONFile } from "./src/utilities/file_management.js";
+import { downloadJSONFile, loadJSONFromFile } from "./src/utilities/file_management.js";
 import { deleteNonCoop, parseJsonKmbCtb } from "./src/functions/kmbctb.js";
 import { downloadRouteStopListMtrBus, parseJsonMtrBus } from "./src/functions/mtrbus.js";
 import { downloadAndParseRouteListGmb, downloadAndParseRouteStopListGmb, downloadStopGmb, mergeStopCoordinateToRouteStopGmb } from "./src/functions/gmb.js";
@@ -16,6 +16,14 @@ app.use(cors({
     methods: ['POST', 'GET'],
     credentials: true
 }));
+
+app.get(('/routelist'), async(req, res) => {
+    const filePath = 'download/kmb/output/routeList_kmb_tc.json';
+    const jsonFile = await loadJSONFromFile(filePath);
+
+    res.set('Content-Type', 'application/json');
+    res.json(jsonFile);
+})
 
 app.get(('/kmb'), async (req, res) =>
 {
