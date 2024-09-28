@@ -112,7 +112,7 @@ async function parseJsonCtb(lang)
         if (currRoute['route'] in coopRoutes)
             company = 'kmbctb';
         else
-            company = 'kmb';
+            company = 'ctb';
 
         const readFilePath_inbound = `./download/ctb/raw/routeStop/${currRoute['route']}_inbound.json`;
         const routeStopJson_inbound = await loadJSONFromFile(readFilePath_inbound);

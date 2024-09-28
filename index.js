@@ -9,6 +9,7 @@ import { deleteNonCoop, parseJsonKmbCtb } from "./src/functions/kmbctb.js";
 import { downloadRouteStopListMtrBus, parseJsonMtrBus } from "./src/functions/mtrbus.js";
 import { downloadAndParseRouteListGmb, downloadAndParseRouteStopListGmb, downloadStopGmb, mergeStopCoordinateToRouteStopGmb } from "./src/functions/gmb.js";
 import { downloadRouteListNlb, downloadRouteStopNlb, parseJsonNlb } from "./src/functions/nlb.js";
+import { parseUniqueRouteList, parseUniqueRouteMap, parseUniqueRouteStopList } from "./src/functions/parseFinal.js";
 
 const app = express();
 app.use(cors({
@@ -17,9 +18,22 @@ app.use(cors({
     credentials: true
 }));
 
-app.get(('/routelist'), async(req, res) => {
-    const filePath = 'download/kmb/output/routeList_kmb_tc.json';
-    const jsonFile = await loadJSONFromFile(filePath);
+app.get(('/uniqueRouteList'), async(req, res) => {
+    const jsonFile = await loadJSONFromFile('download/finalOutput/uniqueRouteList.json');
+
+    res.set('Content-Type', 'application/json');
+    res.json(jsonFile);
+})
+
+app.get(('/uniqueRouteMap'), async(req, res) => {
+    const jsonFile = await loadJSONFromFile('download/finalOutput/uniqueRouteMap.json');
+
+    res.set('Content-Type', 'application/json');
+    res.json(jsonFile);
+})
+
+app.get(('/uniqueRouteStopList'), async(req, res) => {
+    const jsonFile = await loadJSONFromFile('download/finalOutput/uniqueRouteStopList.json');
 
     res.set('Content-Type', 'application/json');
     res.json(jsonFile);
@@ -65,7 +79,7 @@ app.get(('/kmbctb'), async (req, res) =>
 
 app.get(('/mtrbus'), async (req, res) =>
 {
-    // await downloadRouteStopListMtrBus();
+    await downloadRouteStopListMtrBus();
 
     await parseJsonMtrBus('tc');
     await parseJsonMtrBus('en');
@@ -88,6 +102,14 @@ app.get(('/nlb'), async (req, res) =>
     // await downloadRouteListNlb();
     // await downloadRouteStopNlb();
     await parseJsonNlb();
+
+    res.send('done');
+})
+
+app.get(('/parseFinalOutput'), async(req, res) => {
+    await parseUniqueRouteList();
+    await parseUniqueRouteMap();
+    await parseUniqueRouteStopList();
 
     res.send('done');
 })
