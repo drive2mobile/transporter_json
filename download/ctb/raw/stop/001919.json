@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:03:41+08:00",
+  "data": {
+    "stop": "001919",
+    "name_tc": "葵芳邨葵信樓, 興芳路",
+    "name_en": "Kwai Shun House Kwai Fong Estate, Hing Fong Road",
+    "lat": "22.361036962091",
+    "long": "114.12975516053",
+    "name_sc": "葵芳邨葵信楼, 兴芳路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

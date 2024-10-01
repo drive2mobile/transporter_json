@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:01:22+08:00",
+  "data": {
+    "stop": "001176",
+    "name_tc": "國際金融中心商場, 民祥街",
+    "name_en": "IFC Mall, Man Cheung Street",
+    "lat": "22.285071342091",
+    "long": "114.15857719053",
+    "name_sc": "国际金融中心商场, 民祥街",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

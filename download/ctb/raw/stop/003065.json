@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:57:01+08:00",
+  "data": {
+    "stop": "003065",
+    "name_tc": "又一城",
+    "name_en": "Festival Walk",
+    "lat": "22.336638782091",
+    "long": "114.17521292053",
+    "name_sc": "又一城",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:57:32+08:00",
+  "data": {
+    "stop": "001270",
+    "name_tc": "太古城中心, 英皇道",
+    "name_en": "Cityplaza, King's Road",
+    "lat": "22.285287892091",
+    "long": "114.21758355053",
+    "name_sc": "太古城中心, 英皇道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:04:09+08:00",
+  "data": {
+    "stop": "002030",
+    "name_tc": "嘉湖山莊景湖居, 天城路",
+    "name_en": "Kenswood Court Kingswood Villas, Tin Shing Road",
+    "lat": "22.457399692091",
+    "long": "114.00556500053",
+    "name_sc": "嘉湖山庄景湖居, 天城路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

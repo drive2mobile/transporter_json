@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:59:44+08:00",
+  "data": {
+    "stop": "001752",
+    "name_tc": "新寶城, 銀澳路",
+    "name_en": "La Cite Noble, Ngan O Road",
+    "lat": "22.314385862091",
+    "long": "114.26662602053",
+    "name_sc": "新宝城, 银澳路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

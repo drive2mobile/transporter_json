@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:01:37+08:00",
+  "data": {
+    "stop": "003592",
+    "name_tc": "順業街, 偉業街",
+    "name_en": "Shun Yip Street, Wai Yip Street",
+    "lat": "22.316020722091",
+    "long": "114.21504782053",
+    "name_sc": "顺业街, 伟业街",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

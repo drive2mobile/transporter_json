@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:58:06+08:00",
+  "data": {
+    "stop": "002509",
+    "name_tc": "司徒拔道花園, 司徒拔道",
+    "name_en": "Stubbs Road Garden, Stubbs Road",
+    "lat": "22.268619682091",
+    "long": "114.17984819053",
+    "name_sc": "司徒拔道花园, 司徒拔道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

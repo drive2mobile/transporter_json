@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:03:48+08:00",
+  "data": {
+    "stop": "003724",
+    "name_tc": "粉嶺站 - A2 出口, 粉嶺車站路",
+    "name_en": "Fanling Station - Exit A2, Fanling Station Road",
+    "lat": "22.491602482091",
+    "long": "114.14028961053",
+    "name_sc": "粉岭站 - A2 出口, 粉岭车站路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

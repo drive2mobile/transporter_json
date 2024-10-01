@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:53:31+08:00",
+  "data": {
+    "stop": "003005",
+    "name_tc": "東頭邨泰東樓, 彩虹道",
+    "name_en": "Tai Tung House Tung Tau Estate, Choi Hung Road",
+    "lat": "22.335570972091",
+    "long": "114.19418205053",
+    "name_sc": "东头邨泰东楼, 彩虹道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

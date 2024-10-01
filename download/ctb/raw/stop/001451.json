@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:58:03+08:00",
+  "data": {
+    "stop": "001451",
+    "name_tc": "寧遠街, 彩虹道",
+    "name_en": "Ning Yuen Street, Choi Hung Road",
+    "lat": "22.334144962091",
+    "long": "114.19475521053",
+    "name_sc": "宁远街, 彩虹道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

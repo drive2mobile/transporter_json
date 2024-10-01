@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:02:37+08:00",
+  "data": {
+    "stop": "003806",
+    "name_tc": "福華街, 南昌街",
+    "name_en": "Fuk Wa Street, Nam Cheong Street",
+    "lat": "22.330465062091",
+    "long": "114.16423343053",
+    "name_sc": "福华街, 南昌街",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:59:38+08:00",
+  "data": {
+    "stop": "002286",
+    "name_tc": "龜背灣, 大潭道",
+    "name_en": "Turtle Cove, Tai Tam Road",
+    "lat": "22.235610432091",
+    "long": "114.22277786053",
+    "name_sc": "龟背湾, 大潭道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

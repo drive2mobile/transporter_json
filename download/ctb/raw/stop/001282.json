@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:57:04+08:00",
+  "data": {
+    "stop": "001282",
+    "name_tc": "新時代廣場, 英皇道",
+    "name_en": "New Trend Plaza, King's Road",
+    "lat": "22.289909792091",
+    "long": "114.19515688053",
+    "name_sc": "新时代广场, 英皇道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

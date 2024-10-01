@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:01:21+08:00",
+  "data": {
+    "stop": "002682",
+    "name_tc": "安利別墅, 摩星嶺道",
+    "name_en": "On Lee, Mount Davis Road",
+    "lat": "22.275739162091",
+    "long": "114.12931552053",
+    "name_sc": "安利別墅, 摩星岭道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

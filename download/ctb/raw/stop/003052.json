@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:03:13+08:00",
+  "data": {
+    "stop": "003052",
+    "name_tc": "江西街, 馬頭圍道",
+    "name_en": "Kiang Hsi Street, Ma Tau Wai Road",
+    "lat": "22.314813152091",
+    "long": "114.18739310053",
+    "name_sc": "江西街, 马头围道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

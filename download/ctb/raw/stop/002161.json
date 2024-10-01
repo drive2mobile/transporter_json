@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:57:04+08:00",
+  "data": {
+    "stop": "002161",
+    "name_tc": "香港仔海濱公園, 香港仔海傍道",
+    "name_en": "Aberdeen Promenade, Aberdeen Praya Road",
+    "lat": "22.246983922091",
+    "long": "114.15584999053",
+    "name_sc": "香港仔海滨公园, 香港仔海傍道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

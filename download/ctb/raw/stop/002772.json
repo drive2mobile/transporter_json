@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:59:52+08:00",
+  "data": {
+    "stop": "002772",
+    "name_tc": "柴灣工廠邨, 祥利街",
+    "name_en": "Chai Wan Industrial Estate, Cheung Lee Street",
+    "lat": "22.264366092091",
+    "long": "114.23640659053",
+    "name_sc": "柴湾工厂邨, 祥利街",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

@@ -7,7 +7,7 @@ async function downloadRouteStopListMtrBus()
     await downloadCsvAndConvertJson(url, downloadFilePath);
 }
 
-async function parseJsonMtrBus(lang)
+async function parseJsonMtrBus()
 {
     const readFilePath = './download/mtrbus/raw/routeStop/routeStopList.json';
     const routeStopListJson = await loadJSONFromFile(readFilePath);
@@ -35,19 +35,21 @@ async function parseJsonMtrBus(lang)
         var firstStop = currArray[0];
         var lastStop = currArray[currArray.length-1];
 
-        const route_id = 'mtrbus_' + firstStop['ROUTE_ID'] + '_' + firstStop['DIRECTION'];
+        const id = 'mtrbus_' + firstStop['ROUTE_ID'] + '_' + firstStop['DIRECTION'];
         var item = {};
         item['company'] = 'mtrbus';
-        item['route_id'] = route_id;
+        item['id'] = id;
         item['route'] = firstStop['ROUTE_ID'];
         item['dir'] = firstStop['DIRECTION'];
-        item['from'] = firstStop[`STATION_NAME_${lang == 'tc' ? 'CHI' :'ENG'}`];
-        item['to'] = lastStop[`STATION_NAME_${lang == 'tc' ? 'CHI' :'ENG'}`];
+        item['from_tc'] = firstStop[`STATION_NAME_CHI`];
+        item['from_en'] = firstStop[`STATION_NAME_ENG`];
+        item['to_tc'] = lastStop[`STATION_NAME_CHI`];
+        item['to_en'] = lastStop[`STATION_NAME_ENG`];
 
         newRouteList.push(item);
     }
 
-    const filePath = `./download/mtrbus/output/routeList_mtrbus_${lang}.json`;
+    const filePath = `./download/mtrbus/output/routeList_mtrbus.json`;
     await saveJSONToFile(filePath, newRouteList);
 
     var newRouteStopList = {}
@@ -56,19 +58,22 @@ async function parseJsonMtrBus(lang)
         var currArray = routeStopListMap[key];
         var firstStop = currArray[0];
         var lastStop = currArray[currArray.length-1];
-        const route_id = 'mtrbus_' + firstStop['ROUTE_ID'] + '_' + firstStop['DIRECTION'];
+        const id = 'mtrbus_' + firstStop['ROUTE_ID'] + '_' + firstStop['DIRECTION'];
 
         var newRouteArray = [];
         for (var j=0 ; j<currArray.length ; j++)
         {
             var newStop = {};
             newStop['company'] = 'mtrbus';
-            newStop['route_id'] = route_id;
+            newStop['id'] = id;
             newStop['route'] = firstStop['ROUTE_ID'];
             newStop['dir'] = firstStop['DIRECTION'];
-            newStop['from'] = firstStop[`STATION_NAME_${lang == 'tc' ? 'CHI' :'ENG'}`];
-            newStop['to'] = lastStop[`STATION_NAME_${lang == 'tc' ? 'CHI' :'ENG'}`];
-            newStop['name'] = currArray[j][`STATION_NAME_${lang == 'tc' ? 'CHI' :'ENG'}`];
+            newStop['from_tc'] = firstStop[`STATION_NAME_CHI`];
+            newStop['from_en'] = firstStop[`STATION_NAME_ENG`];
+            newStop['to_tc'] = lastStop[`STATION_NAME_CHI`];
+            newStop['to_en'] = lastStop[`STATION_NAME_ENG`];
+            newStop['name_tc'] = currArray[j][`STATION_NAME_CHI`];
+            newStop['name_en'] = currArray[j][`STATION_NAME_ENG`];
             newStop['seq'] = currArray[j]['STATION_SEQNO'];
             newStop['stop'] = currArray[j]['STATION_ID'];
             newStop['lat'] = currArray[j]['STATION_LATITUDE'];
@@ -77,10 +82,10 @@ async function parseJsonMtrBus(lang)
             newRouteArray.push(newStop);
         }
 
-        newRouteStopList[route_id] = newRouteArray;
+        newRouteStopList[id] = newRouteArray;
     }
 
-    const filePath2 = `./download/mtrbus/output/routeStopList_mtrbus_${lang}.json`;
+    const filePath2 = `./download/mtrbus/output/routeStopList_mtrbus.json`;
     await saveJSONToFile(filePath2, newRouteStopList);
 }
 

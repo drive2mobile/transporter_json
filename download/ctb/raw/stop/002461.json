@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:58:39+08:00",
+  "data": {
+    "stop": "002461",
+    "name_tc": "金雲閣, 睦誠道",
+    "name_en": "Aurizon, Moorsom Road",
+    "lat": "22.272588872091",
+    "long": "114.19382832053",
+    "name_sc": "金云阁, 睦诚道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

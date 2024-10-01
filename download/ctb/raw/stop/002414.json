@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:57:36+08:00",
+  "data": {
+    "stop": "002414",
+    "name_tc": "景隆街, 告士打道",
+    "name_en": "Cannon Street, Gloucester Road",
+    "lat": "22.281732142091",
+    "long": "114.18280892053",
+    "name_sc": "景隆街, 告士打道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

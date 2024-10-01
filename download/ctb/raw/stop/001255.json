@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:58:06+08:00",
+  "data": {
+    "stop": "001255",
+    "name_tc": "渣華道市政大廈, 渣華道",
+    "name_en": "Java Road Complex, Java Road",
+    "lat": "22.292203912091",
+    "long": "114.19948901053",
+    "name_sc": "渣华道市政大厦, 渣华道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

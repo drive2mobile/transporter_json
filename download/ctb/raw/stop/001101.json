@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:59:47+08:00",
+  "data": {
+    "stop": "001101",
+    "name_tc": "山頂警署, 山頂道",
+    "name_en": "The Peak Police Station, Peak Road",
+    "lat": "22.265483622091",
+    "long": "114.15466382053",
+    "name_sc": "山顶警署, 山顶道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:02:29+08:00",
+  "data": {
+    "stop": "003855",
+    "name_tc": "大埔超級城, 大埔太和路",
+    "name_en": "Tai Po Mega Mall, Tai Po Tai Wo Road",
+    "lat": "22.450947812091",
+    "long": "114.17001679053",
+    "name_sc": "大埔超级城, 大埔太和路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:00:59+08:00",
+  "data": {
+    "stop": "003035",
+    "name_tc": "鳳鑽苑, 蒲崗村道",
+    "name_en": "Fung Chuen Court, Po Kong Village Road",
+    "lat": "22.344247902091",
+    "long": "114.19894094053",
+    "name_sc": "凤钻苑, 蒲岗村道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:01:16+08:00",
+  "data": {
+    "stop": "003455",
+    "name_tc": "樟木頭帝琴灣, 西沙路",
+    "name_en": "Symphony Bay Cheung Muk Tau, Sai Sha Road",
+    "lat": "22.430155902091",
+    "long": "114.25087926053",
+    "name_sc": "樟木头帝琴湾, 西沙路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

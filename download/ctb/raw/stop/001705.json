@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:59:16+08:00",
+  "data": {
+    "stop": "001705",
+    "name_tc": "斧山道運動場, 斧山道",
+    "name_en": "Hammer Hill Road Sports Ground, Hammer Hill Road",
+    "lat": "22.339720692091",
+    "long": "114.20736776053",
+    "name_sc": "斧山道运动场, 斧山道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:54:26+08:00",
+  "data": {
+    "stop": "003158",
+    "name_tc": "蔚巒閣, 羅便臣道",
+    "name_en": "Peaksville, Robinson Road",
+    "lat": "22.281969702091",
+    "long": "114.14760704053",
+    "name_sc": "蔚峦阁, 罗便臣道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

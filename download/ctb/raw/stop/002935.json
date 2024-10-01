@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:02:12+08:00",
+  "data": {
+    "stop": "002935",
+    "name_tc": "海怡半島美康閣, 海怡路",
+    "name_en": "Mei Hong Court South Horizons, South Horizon Drive",
+    "lat": "22.242949582091",
+    "long": "114.14809846053",
+    "name_sc": "海怡半岛美康阁, 海怡路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

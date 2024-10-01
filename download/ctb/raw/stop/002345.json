@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:56:18+08:00",
+  "data": {
+    "stop": "002345",
+    "name_tc": "黃竹坑遊樂場, 黃竹坑道",
+    "name_en": "Wong Chuk Hang Recreation Ground, Wong Chuk Hang Road",
+    "lat": "22.250546142091",
+    "long": "114.17056977053",
+    "name_sc": "黄竹坑游乐场, 黄竹坑道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

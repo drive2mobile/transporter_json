@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:57:40+08:00",
+  "data": {
+    "stop": "001076",
+    "name_tc": "歷山大廈, 雪廠街",
+    "name_en": "Alexandra House, Ice House Street",
+    "lat": "22.281372022091",
+    "long": "114.15884246053",
+    "name_sc": "历山大厦, 雪厂街",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

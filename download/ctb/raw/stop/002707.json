@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:00:02+08:00",
+  "data": {
+    "stop": "002707",
+    "name_tc": "泄蘭街, 雪廠街",
+    "name_en": "Zetland Street, Ice House Street",
+    "lat": "22.280076772091",
+    "long": "114.15644070053",
+    "name_sc": "泄兰街, 雪厂街",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

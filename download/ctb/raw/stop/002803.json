@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:01:18+08:00",
+  "data": {
+    "stop": "002803",
+    "name_tc": "環翠邨停車場, 連城道",
+    "name_en": "Wan Tsui Carpark, Lin Shing Road",
+    "lat": "22.261242522091",
+    "long": "114.23630425053",
+    "name_sc": "环翠邨停车场, 连城道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

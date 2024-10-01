@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:02:59+08:00",
+  "data": {
+    "stop": "003468",
+    "name_tc": "林護紀念中學, 葵盛圍",
+    "name_en": "Lam Woo Memorial Secondary School, Kwai Shing Circuit",
+    "lat": "22.365739442091",
+    "long": "114.13017204053",
+    "name_sc": "林护纪念中学, 葵盛围",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

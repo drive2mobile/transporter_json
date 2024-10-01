@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:00:47+08:00",
+  "data": {
+    "stop": "003293",
+    "name_tc": "彩盈邨盈順樓, 彩霞道",
+    "name_en": "Ying Shun House Choi Ying Estate, Choi Ha Road",
+    "lat": "22.326756312091",
+    "long": "114.21531237053",
+    "name_sc": "彩盈邨盈顺楼, 彩霞道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

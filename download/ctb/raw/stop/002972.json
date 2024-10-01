@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:00:19+08:00",
+  "data": {
+    "stop": "002972",
+    "name_tc": "跑馬地 (上), 大坑道",
+    "name_en": "Happy Valley (Upper), Tai Hang Road",
+    "lat": "22.263240892091",
+    "long": "114.18588277053",
+    "name_sc": "跑马地 (上), 大坑道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

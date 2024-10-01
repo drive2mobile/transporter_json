@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:00:25+08:00",
+  "data": {
+    "stop": "003698",
+    "name_tc": "蘇屋邨杜鵑樓, 保安道",
+    "name_en": "Azalea House So Uk Estate, Po On Road",
+    "lat": "22.339642652091",
+    "long": "114.15667948053",
+    "name_sc": "苏屋邨杜鹃楼, 保安道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

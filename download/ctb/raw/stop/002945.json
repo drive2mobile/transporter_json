@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:02:39+08:00",
+  "data": {
+    "stop": "002945",
+    "name_tc": "大浪灣道, 石澳道",
+    "name_en": "Big Wave Bay Road, Shek O Road",
+    "lat": "22.236936932091",
+    "long": "114.24873461053",
+    "name_sc": "大浪湾道, 石澳道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

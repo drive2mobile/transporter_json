@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:00:40+08:00",
+  "data": {
+    "stop": "003673",
+    "name_tc": "磚窰, 沙頭角公路",
+    "name_en": "Chun Yiu, Sha Tau Kok Road",
+    "lat": "22.521192282091",
+    "long": "114.17784306053",
+    "name_sc": "砖窰, 沙头角公路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

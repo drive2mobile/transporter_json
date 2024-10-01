@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:59:45+08:00",
+  "data": {
+    "stop": "001420",
+    "name_tc": "麼地道, 漆咸道南",
+    "name_en": "Mody Road, Chatham Road South",
+    "lat": "22.298551942091",
+    "long": "114.17582161053",
+    "name_sc": "么地道, 漆咸道南",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

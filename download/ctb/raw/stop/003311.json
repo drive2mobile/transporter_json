@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:02:46+08:00",
+  "data": {
+    "stop": "003311",
+    "name_tc": "南山邨南泰樓, 大坑東道",
+    "name_en": "Nam Tai House Nam Shan Estate, Tai Hang Tung Road",
+    "lat": "22.334506332091",
+    "long": "114.17220626053",
+    "name_sc": "南山邨南泰楼, 大坑东道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

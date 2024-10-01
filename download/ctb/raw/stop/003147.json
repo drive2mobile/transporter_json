@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:02:05+08:00",
+  "data": {
+    "stop": "003147",
+    "name_tc": "曲街, 漆咸道北",
+    "name_en": "Cooke Street, Chatham Road North",
+    "lat": "22.308257562091",
+    "long": "114.18267505053",
+    "name_sc": "曲街, 漆咸道北",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

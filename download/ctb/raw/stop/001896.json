@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:59:47+08:00",
+  "data": {
+    "stop": "001896",
+    "name_tc": "小欖村, 青山公路",
+    "name_en": "Siu Lam Tsuen, Castle Peak Road",
+    "lat": "22.366273072091",
+    "long": "114.00942046053",
+    "name_sc": "小榄村, 青山公路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

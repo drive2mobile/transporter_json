@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:58:27+08:00",
+  "data": {
+    "stop": "001807",
+    "name_tc": "民泰街, 紅磡道",
+    "name_en": "Man Tai Street, Hung Hom Road",
+    "lat": "22.306396192091",
+    "long": "114.18927691053",
+    "name_sc": "民泰街, 红磡道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

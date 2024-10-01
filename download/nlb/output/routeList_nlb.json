@@ -1,0 +1,92 @@
+[
+  {
+    "id": "nlb_1_1",
+    "company": "nlb",
+    "route": "1",
+    "from_tc": "梅窩碼頭",
+    "from_en": "Mui Wo Ferry Pier",
+    "to_tc": "大澳",
+    "to_en": "Tai O"
+  },
+  {
+    "id": "nlb_2_1",
+    "company": "nlb",
+    "route": "1",
+    "from_tc": "大澳",
+    "from_en": "Tai O",
+    "to_tc": "梅窩碼頭",
+    "to_en": "Mui Wo Ferry Pier"
+  },
+  {
+    "id": "nlb_3_1R",
+    "company": "nlb",
+    "route": "1R",
+    "from_tc": "紅磡 (紅鸞道)",
+    "from_en": "Hung Hom (Hung Luen Road)",
+    "to_tc": "昂坪",
+    "to_en": "Ngong Ping"
+  },
+  {
+    "id": "nlb_4_2",
+    "company": "nlb",
+    "route": "2",
+    "from_tc": "梅窩碼頭",
+    "from_en": "Mui Wo Ferry Pier",
+    "to_tc": "昂坪",
+    "to_en": "Ngong Ping"
+  },
+  {
+    "id": "nlb_5_2",
+    "company": "nlb",
+    "route": "2",
+    "from_tc": "昂坪",
+    "from_en": "Ngong Ping",
+    "to_tc": "梅窩碼頭",
+    "to_en": "Mui Wo Ferry Pier"
+  },
+  {
+    "id": "nlb_8_3M",
+    "company": "nlb",
+    "route": "3M",
+    "from_tc": "梅窩 (貝澳開)",
+    "from_en": "Mui Wo (from Pui O)",
+    "to_tc": "東涌站巴士總站",
+    "to_en": "Tung Chung Station Bus Terminus"
+  },
+  {
+    "id": "nlb_7_3M",
+    "company": "nlb",
+    "route": "3M",
+    "from_tc": "梅窩碼頭",
+    "from_en": "Mui Wo Ferry Pier",
+    "to_tc": "東涌站巴士總站",
+    "to_en": "Tung Chung Station Bus Terminus"
+  },
+  {
+    "id": "nlb_6_3M",
+    "company": "nlb",
+    "route": "3M",
+    "from_tc": "東涌站巴士總站",
+    "from_en": "Tung Chung Station Bus Terminus",
+    "to_tc": "梅窩碼頭",
+    "to_en": "Mui Wo Ferry Pier"
+  },
+  {
+    "id": "nlb_12_4",
+    "company": "nlb",
+    "route": "4",
+    "from_tc": "梅窩碼頭",
+    "from_en": "Mui Wo Ferry Pier",
+    "to_tc": "塘福 (至水口)",
+    "to_en": "Tong Fuk (to Shui Hau)"
+  },
+  {
+    "id": "nlb_9_4",
+    "company": "nlb",
+    "route": "4",
+    "from_tc": "梅窩碼頭",
+    "from_en": "Mui Wo Ferry Pier",
+    "to_tc": "塘福",
+    "to_en": "Tong Fuk"
+  }
+]

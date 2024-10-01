@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:02:28+08:00",
+  "data": {
+    "stop": "002069",
+    "name_tc": "海典灣, 寧泰路",
+    "name_en": "Ocean View, Ning Tai Road",
+    "lat": "22.414351042091",
+    "long": "114.22239184053",
+    "name_sc": "海典湾, 宁泰路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

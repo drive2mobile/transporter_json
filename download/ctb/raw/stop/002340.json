@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:56:32+08:00",
+  "data": {
+    "stop": "002340",
+    "name_tc": "華富邨華泰樓, 華富道",
+    "name_en": "Wah Tai House Wah Fu Estate, Wah Fu Road",
+    "lat": "22.251814702091",
+    "long": "114.13621962053",
+    "name_sc": "华富邨华泰楼, 华富道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:55:22+08:00",
+  "data": {
+    "stop": "001940",
+    "name_tc": "置富第一城, 銀城街",
+    "name_en": "Fortune City One, Ngan Shing Street",
+    "lat": "22.386883952091",
+    "long": "114.20356624053",
+    "name_sc": "置富第一城, 银城街",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

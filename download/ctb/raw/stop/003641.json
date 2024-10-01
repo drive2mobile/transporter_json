@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:00:29+08:00",
+  "data": {
+    "stop": "003641",
+    "name_tc": "美林邨, 大埔公路",
+    "name_en": "Mei Lam Estate, Tai Po Road",
+    "lat": "22.377214312091",
+    "long": "114.17867522053",
+    "name_sc": "美林邨, 大埔公路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

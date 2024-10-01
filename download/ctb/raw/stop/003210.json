@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:00:13+08:00",
+  "data": {
+    "stop": "003210",
+    "name_tc": "兆康苑兆賢閣, 青麟路",
+    "name_en": "Siu Yin House Siu Hong Court, Tsing Lun Road",
+    "lat": "22.410168172091",
+    "long": "113.97649585053",
+    "name_sc": "兆康苑兆贤阁, 青麟路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

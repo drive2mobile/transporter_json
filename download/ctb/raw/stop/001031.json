@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:57:13+08:00",
+  "data": {
+    "stop": "001031",
+    "name_tc": "大會堂, 干諾道中",
+    "name_en": "City Hall, Connaught Road Central",
+    "lat": "22.281868122091",
+    "long": "114.16153245053",
+    "name_sc": "大会堂, 干诺道中",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

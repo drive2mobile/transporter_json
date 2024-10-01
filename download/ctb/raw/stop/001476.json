@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:57:20+08:00",
+  "data": {
+    "stop": "001476",
+    "name_tc": "海底隧道巴士轉乘站",
+    "name_en": "Cross Harbour Tunnel Bus-Bus Interchange",
+    "lat": "22.303015922091",
+    "long": "114.18084154053",
+    "name_sc": "海底隧道巴士转乘站",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:58:06+08:00",
+  "data": {
+    "stop": "002530",
+    "name_tc": "大寶閣, 大坑道",
+    "name_en": "Trafalgar Court, Tai Hang Road",
+    "lat": "22.276889492091",
+    "long": "114.19149485053",
+    "name_sc": "大宝阁, 大坑道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

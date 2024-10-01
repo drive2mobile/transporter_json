@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:57:07+08:00",
+  "data": {
+    "stop": "001214",
+    "name_tc": "皇仁書院, 高士威道",
+    "name_en": "Queen's College, Causeway Road",
+    "lat": "22.281286912091",
+    "long": "114.19065162053",
+    "name_sc": "皇仁书院, 高士威道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

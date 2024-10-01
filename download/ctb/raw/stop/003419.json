@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:03:19+08:00",
+  "data": {
+    "stop": "003419",
+    "name_tc": "龍德街, 德士古道",
+    "name_en": "Lung Tak Street, Texaco Road",
+    "lat": "22.364933962091",
+    "long": "114.11515520053",
+    "name_sc": "龙德街, 德士古道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

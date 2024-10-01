@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:02:40+08:00",
+  "data": {
+    "stop": "003822",
+    "name_tc": "青富苑, 青衣路",
+    "name_en": "Ching Fu Court, Tsing Yi Road",
+    "lat": "22.341833632091",
+    "long": "114.10705924053",
+    "name_sc": "青富苑, 青衣路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

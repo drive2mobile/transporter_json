@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:53:28+08:00",
+  "data": {
+    "stop": "002482",
+    "name_tc": "尚翹峰, 皇后大道東",
+    "name_en": "The Zenith, Queen's Road East",
+    "lat": "22.274470092091",
+    "long": "114.17386255053",
+    "name_sc": "尚翘峰, 皇后大道东",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

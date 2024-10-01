@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:00:49+08:00",
+  "data": {
+    "stop": "002399",
+    "name_tc": "香港醫學專科學院, 海洋公園道",
+    "name_en": "Hong Kong Academy of Medicine, Ocean Park Road",
+    "lat": "22.251177632091",
+    "long": "114.17062008053",
+    "name_sc": "香港医学专科学院, 海洋公园道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

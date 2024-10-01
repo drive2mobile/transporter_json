@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:02:38+08:00",
+  "data": {
+    "stop": "001492",
+    "name_tc": "聖公會基孝中學, 啟田道",
+    "name_en": "SKH Kei Hau Secondary School, Kai Tin Road",
+    "lat": "22.305971352091",
+    "long": "114.23544646053",
+    "name_sc": "圣公会基孝中学, 启田道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

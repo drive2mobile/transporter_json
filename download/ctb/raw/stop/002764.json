@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:59:07+08:00",
+  "data": {
+    "stop": "002764",
+    "name_tc": "荷蘭街",
+    "name_en": "Holland Street",
+    "lat": "22.284460442091",
+    "long": "114.13077129053",
+    "name_sc": "荷兰街",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

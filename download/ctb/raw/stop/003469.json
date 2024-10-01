@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:02:57+08:00",
+  "data": {
+    "stop": "003469",
+    "name_tc": "東華東院",
+    "name_en": "Tung Wah Eastern Hospital",
+    "lat": "22.274376862091",
+    "long": "114.18930352053",
+    "name_sc": "东华东院",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

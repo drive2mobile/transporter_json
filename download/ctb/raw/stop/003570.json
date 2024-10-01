@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:01:30+08:00",
+  "data": {
+    "stop": "003570",
+    "name_tc": "常樂街, 佛光街",
+    "name_en": "Sheung Lok Street, Fat Kwong Street",
+    "lat": "22.314112162091",
+    "long": "114.18179425053",
+    "name_sc": "常乐街, 佛光街",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:57:10+08:00",
+  "data": {
+    "stop": "001534",
+    "name_tc": "落山道, 馬頭圍道",
+    "name_en": "Lok Shan Road, Ma Tau Wai Road",
+    "lat": "22.316614492091",
+    "long": "114.18747797053",
+    "name_sc": "落山道, 马头围道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:03:20+08:00",
+  "data": {
+    "stop": "003334",
+    "name_tc": "寧波街, 彌敦道",
+    "name_en": "Ning Po Street, Nathan Road",
+    "lat": "22.306844192091",
+    "long": "114.17138070053",
+    "name_sc": "宁波街, 弥敦道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:00:39+08:00",
+  "data": {
+    "stop": "001950",
+    "name_tc": "馬鞍山市中心",
+    "name_en": "Ma On Shan Town Centre",
+    "lat": "22.424081542091",
+    "long": "114.23144860053",
+    "name_sc": "马鞍山市中心",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

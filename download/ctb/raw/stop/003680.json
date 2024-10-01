@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:00:19+08:00",
+  "data": {
+    "stop": "003680",
+    "name_tc": "新圍軍營, 沙頭角公路",
+    "name_en": "San Wai Barracks, Sha Tau Kok Road",
+    "lat": "22.507365382091",
+    "long": "114.15510334053",
+    "name_sc": "新围军营, 沙头角公路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

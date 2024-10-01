@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:00:55+08:00",
+  "data": {
+    "stop": "003267",
+    "name_tc": "建生邨樂生樓, 青田路",
+    "name_en": "Lok Sang House Kin Sang Estate, Tsing Tin Road",
+    "lat": "22.405113002091",
+    "long": "113.96885044053",
+    "name_sc": "建生邨乐生楼, 青田路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

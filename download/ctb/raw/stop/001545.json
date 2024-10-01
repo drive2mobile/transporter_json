@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:03:48+08:00",
+  "data": {
+    "stop": "001545",
+    "name_tc": "佐敦站, 彌敦道",
+    "name_en": "Jordan Station, Nathan Road",
+    "lat": "22.304789692091",
+    "long": "114.17156032053",
+    "name_sc": "佐敦站, 弥敦道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

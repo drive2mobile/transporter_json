@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:00:32+08:00",
+  "data": {
+    "stop": "002876",
+    "name_tc": "柏景灣, 海泓道",
+    "name_en": "Park Avenue, Hoi Wang Road",
+    "lat": "22.316186392091",
+    "long": "114.16371633053",
+    "name_sc": "柏景湾, 海泓道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

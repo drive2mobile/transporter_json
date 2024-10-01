@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:00:14+08:00",
+  "data": {
+    "stop": "002915",
+    "name_tc": "將軍澳天主教小學, 唐賢街",
+    "name_en": "Tseung Kwan O Catholic Primary School, Tong Yin Street",
+    "lat": "22.308765432091",
+    "long": "114.25777804053",
+    "name_sc": "将军澳天主教小学, 唐贤街",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

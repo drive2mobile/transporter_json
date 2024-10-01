@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:02:54+08:00",
+  "data": {
+    "stop": "003728",
+    "name_tc": "曾大屋, 大涌橋路",
+    "name_en": "Tsang Tai Uk, Tai Chung Kiu Road",
+    "lat": "22.375518392091",
+    "long": "114.18910257053",
+    "name_sc": "曾大屋, 大涌桥路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

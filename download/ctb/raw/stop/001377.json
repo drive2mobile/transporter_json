@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:01:32+08:00",
+  "data": {
+    "stop": "001377",
+    "name_tc": "香港抗戰及海防博物館, 東喜道",
+    "name_en": "Hong Kong Museum of the War of Resistance and Coastal Defence, Tung Hei Road",
+    "lat": "22.282748932091",
+    "long": "114.23350634053",
+    "name_sc": "香港抗战及海防博物馆, 东喜道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

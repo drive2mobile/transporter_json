@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:56:33+08:00",
+  "data": {
+    "stop": "001215",
+    "name_tc": "香港中央圖書館, 高士威道",
+    "name_en": "Hong Kong Central Library, Causeway Road",
+    "lat": "22.280082042091",
+    "long": "114.18887826053",
+    "name_sc": "香港中央图书馆, 高士威道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

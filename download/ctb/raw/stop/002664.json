@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:01:45+08:00",
+  "data": {
+    "stop": "002664",
+    "name_tc": "迪欣湖活動中心",
+    "name_en": "Inspiration Lake Recreation Centre",
+    "lat": "22.318555652091",
+    "long": "114.03752348053",
+    "name_sc": "迪欣湖活动中心",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

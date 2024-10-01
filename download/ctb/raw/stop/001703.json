@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:59:15+08:00",
+  "data": {
+    "stop": "001703",
+    "name_tc": "德愛中學, 慈雲山道",
+    "name_en": "Tak Oi Secondary School, Tsz Wan Shan Road",
+    "lat": "22.347405502091",
+    "long": "114.20422544053",
+    "name_sc": "德爱中学, 慈云山道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

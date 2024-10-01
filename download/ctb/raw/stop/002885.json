@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:58:17+08:00",
+  "data": {
+    "stop": "002885",
+    "name_tc": "長沙灣徑, 長沙灣道",
+    "name_en": "Cheung Sha Wan Path, Cheung Sha Wan Road",
+    "lat": "22.338083142091",
+    "long": "114.15072445053",
+    "name_sc": "长沙湾径, 长沙湾道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

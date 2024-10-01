@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:00:39+08:00",
+  "data": {
+    "stop": "002028",
+    "name_tc": "亞公角, 亞公角街",
+    "name_en": "A Kung Kok, A Kung Kok Street",
+    "lat": "22.402005302091",
+    "long": "114.21550653053",
+    "name_sc": "亚公角, 亚公角街",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

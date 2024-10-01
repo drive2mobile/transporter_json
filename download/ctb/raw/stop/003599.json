@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:02:03+08:00",
+  "data": {
+    "stop": "003599",
+    "name_tc": "頌明苑, 寶順路",
+    "name_en": "Chung Ming Court, Po Shun Road",
+    "lat": "22.317981212091",
+    "long": "114.26210648053",
+    "name_sc": "颂明苑, 宝顺路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

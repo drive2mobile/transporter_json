@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:02:36+08:00",
+  "data": {
+    "stop": "002081",
+    "name_tc": "廣源邨廣柏樓, 廣善街",
+    "name_en": "Cypress House Kwong Yuen Estate, Kwong Sin Street",
+    "lat": "22.382135292091",
+    "long": "114.21383466053",
+    "name_sc": "广源邨广柏楼, 广善街",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:59:34+08:00",
+  "data": {
+    "stop": "002304",
+    "name_tc": "聖士提反書院, 東頭灣道",
+    "name_en": "St. Stephen's College, Tung Tau Wan Road",
+    "lat": "22.216554552091",
+    "long": "114.21725399053",
+    "name_sc": "圣士提反书院, 东头湾道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

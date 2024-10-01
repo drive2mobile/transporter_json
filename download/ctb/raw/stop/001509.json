@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:00:12+08:00",
+  "data": {
+    "stop": "001509",
+    "name_tc": "觀塘市中心, 觀塘道",
+    "name_en": "Kwun Tong Town Centre, Kwun Tong Road",
+    "lat": "22.313441392091",
+    "long": "114.22397362053",
+    "name_sc": "观塘市中心, 观塘道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:01:56+08:00",
+  "data": {
+    "stop": "003069",
+    "name_tc": "秀茂坪邨秀程樓, 秀茂坪道",
+    "name_en": "Sau Ching House Sau Mau Ping Estate, Sau Mau Ping Road",
+    "lat": "22.319972722091",
+    "long": "114.23322657053",
+    "name_sc": "秀茂坪邨秀程楼, 秀茂坪道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:01:15+08:00",
+  "data": {
+    "stop": "002187",
+    "name_tc": "置富花園網球場, 置富道",
+    "name_en": "Chi Fu Fa Yuen Tennis Court, Chi Fu Road",
+    "lat": "22.259081792091",
+    "long": "114.13754534053",
+    "name_sc": "置富花园网球场, 置富道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

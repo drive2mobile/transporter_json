@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:04:41+08:00",
+  "data": {
+    "stop": "003300",
+    "name_tc": "金紫荊廣場, 博覽道東",
+    "name_en": "Golden Bauhinia Square, Expo Drive East",
+    "lat": "22.284303662091",
+    "long": "114.17391988053",
+    "name_sc": "金紫荊广场, 博览道东",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

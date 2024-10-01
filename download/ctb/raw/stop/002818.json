@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:58:00+08:00",
+  "data": {
+    "stop": "002818",
+    "name_tc": "港九潮州公學, 洗衣街",
+    "name_en": "HK & Kowloon Chiu Chow School, Sai Yee Street",
+    "lat": "22.321761142091",
+    "long": "114.17111798053",
+    "name_sc": "港九潮州公学, 洗衣街",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

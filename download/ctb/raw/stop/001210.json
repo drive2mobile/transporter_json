@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:58:06+08:00",
+  "data": {
+    "stop": "001210",
+    "name_tc": "豪景, 寶馬山道",
+    "name_en": "Ho King View, Braemar Hill Road",
+    "lat": "22.287635422091",
+    "long": "114.20207163053",
+    "name_sc": "豪景, 宝马山道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

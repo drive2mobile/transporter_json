@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:02:50+08:00",
+  "data": {
+    "stop": "001223",
+    "name_tc": "宏德居, 柴灣道",
+    "name_en": "Walton Estate, Chai Wan Road",
+    "lat": "22.263850992091",
+    "long": "114.23989662053",
+    "name_sc": "宏德居, 柴湾道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

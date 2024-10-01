@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:01:01+08:00",
+  "data": {
+    "stop": "001720",
+    "name_tc": "秀茂坪邨秀富樓, 秀明道",
+    "name_en": "Sau Fu House Sau Mau Ping Estate, Sau Ming Road",
+    "lat": "22.317068912091",
+    "long": "114.23225729053",
+    "name_sc": "秀茂坪邨秀富楼, 秀明道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

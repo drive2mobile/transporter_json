@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:01:51+08:00",
+  "data": {
+    "stop": "003552",
+    "name_tc": "下徑口村, 顯徑街",
+    "name_en": "Ha Keng Hau Village, Hin Keng Street",
+    "lat": "22.365397912091",
+    "long": "114.17530424053",
+    "name_sc": "下径口村, 显径街",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

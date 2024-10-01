@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:53:26+08:00",
+  "data": {
+    "stop": "001505",
+    "name_tc": "九龍灣站, 觀塘道",
+    "name_en": "Kowloon Bay Station, Kwun Tong Road",
+    "lat": "22.325498272091",
+    "long": "114.21429538053",
+    "name_sc": "九龙湾站, 观塘道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

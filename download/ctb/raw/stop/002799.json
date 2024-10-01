@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:59:17+08:00",
+  "data": {
+    "stop": "002799",
+    "name_tc": "鰂魚涌",
+    "name_en": "Quarry Bay",
+    "lat": "22.284230752091",
+    "long": "114.21281931053",
+    "name_sc": "鲗鱼涌",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:00:16+08:00",
+  "data": {
+    "stop": "001941",
+    "name_tc": "愉田苑, 銀城街",
+    "name_en": "Yue Tin Court, Ngan Shing Street",
+    "lat": "22.384229662091",
+    "long": "114.20202071053",
+    "name_sc": "愉田苑, 银城街",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

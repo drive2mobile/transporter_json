@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:00:11+08:00",
+  "data": {
+    "stop": "002422",
+    "name_tc": "香港演藝學院, 告士打道",
+    "name_en": "The HK Academy for Performing Arts, Gloucester Road",
+    "lat": "22.279624122091",
+    "long": "114.16973450053",
+    "name_sc": "香港演艺学院, 告士打道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

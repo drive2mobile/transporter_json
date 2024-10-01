@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:59:56+08:00",
+  "data": {
+    "stop": "002762",
+    "name_tc": "雲咸街",
+    "name_en": "Wyndham Street",
+    "lat": "22.280540482091",
+    "long": "114.15492519053",
+    "name_sc": "云咸街",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

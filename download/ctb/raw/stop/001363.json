@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:00:46+08:00",
+  "data": {
+    "stop": "001363",
+    "name_tc": "天后站",
+    "name_en": "Tin Hau Station",
+    "lat": "22.282838422091",
+    "long": "114.19185190053",
+    "name_sc": "天后站",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

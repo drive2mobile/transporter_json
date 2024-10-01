@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:00:39+08:00",
+  "data": {
+    "stop": "003082",
+    "name_tc": "歷奇單車場, 小瀝源路",
+    "name_en": "Adventure Cycling Area, Siu Lek Yuen Road",
+    "lat": "22.383865382091",
+    "long": "114.20898572053",
+    "name_sc": "历奇单车场, 小沥源路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:03:02+08:00",
+  "data": {
+    "stop": "003463",
+    "name_tc": "葵盛西邨, 葵聯路",
+    "name_en": "Kwai Shing West Estate, Kwai Luen Road",
+    "lat": "22.361220882091",
+    "long": "114.12241974053",
+    "name_sc": "葵盛西邨, 葵联路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

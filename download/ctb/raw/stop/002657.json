@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:01:13+08:00",
+  "data": {
+    "stop": "002657",
+    "name_tc": "國泰城 (東), 東岸路",
+    "name_en": "Cathay Pacific City (East), East Coast Road",
+    "lat": "22.298727102091",
+    "long": "113.93468702053",
+    "name_sc": "国泰城 (东), 东岸路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

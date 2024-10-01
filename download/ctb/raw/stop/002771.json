@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:59:58+08:00",
+  "data": {
+    "stop": "002771",
+    "name_tc": "祥達中心, 祥利街",
+    "name_en": "Cheung Tat Centre, Cheung Lee Street",
+    "lat": "22.265190222091",
+    "long": "114.23567653053",
+    "name_sc": "祥达中心, 祥利街",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

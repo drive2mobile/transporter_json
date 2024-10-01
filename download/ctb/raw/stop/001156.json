@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:54:26+08:00",
+  "data": {
+    "stop": "001156",
+    "name_tc": "羅便臣道, 西摩道",
+    "name_en": "Robinson Road, Seymour Road",
+    "lat": "22.280757142091",
+    "long": "114.15072530053",
+    "name_sc": "罗便臣道, 西摩道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:01:04+08:00",
+  "data": {
+    "stop": "003091",
+    "name_tc": "錦龍苑, 錦英路",
+    "name_en": "Kam Lung Court, Kam Ying Road",
+    "lat": "22.425998642091",
+    "long": "114.23945700053",
+    "name_sc": "锦龙苑, 锦英路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

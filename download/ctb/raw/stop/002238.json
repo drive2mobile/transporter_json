@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:01:15+08:00",
+  "data": {
+    "stop": "002238",
+    "name_tc": "明德村, 薄扶林道",
+    "name_en": "Middleton Towers, Pok Fu Lam Road",
+    "lat": "22.264310562091",
+    "long": "114.13374006053",
+    "name_sc": "明德村, 薄扶林道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

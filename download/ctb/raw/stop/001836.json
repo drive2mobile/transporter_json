@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:04:09+08:00",
+  "data": {
+    "stop": "001836",
+    "name_tc": "富豪機場酒店,  暢達路",
+    "name_en": "Regal Airport Hotel, Cheong Tat Road",
+    "lat": "22.319353342091",
+    "long": "113.93396777053",
+    "name_sc": "富豪机场酒店,  畅达路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

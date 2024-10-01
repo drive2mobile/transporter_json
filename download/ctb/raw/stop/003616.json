@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:59:57+08:00",
+  "data": {
+    "stop": "003616",
+    "name_tc": "凹頭, 錦田公路",
+    "name_en": "Au Tau, Kam Tin Road",
+    "lat": "22.443118492091",
+    "long": "114.05006839053",
+    "name_sc": "凹头, 锦田公路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

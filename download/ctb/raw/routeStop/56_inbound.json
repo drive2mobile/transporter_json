@@ -1,0 +1,103 @@
+{
+  "type": "RouteStop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:49:37+08:00",
+  "data": [
+    {
+      "co": "CTB",
+      "route": "56",
+      "dir": "I",
+      "seq": 1,
+      "stop": "003766",
+      "data_timestamp": "2024-09-29T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "56",
+      "dir": "I",
+      "seq": 2,
+      "stop": "003719",
+      "data_timestamp": "2024-09-29T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "56",
+      "dir": "I",
+      "seq": 3,
+      "stop": "003768",
+      "data_timestamp": "2024-09-29T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "56",
+      "dir": "I",
+      "seq": 4,
+      "stop": "003849",
+      "data_timestamp": "2024-09-29T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "56",
+      "dir": "I",
+      "seq": 5,
+      "stop": "003769",
+      "data_timestamp": "2024-09-29T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "56",
+      "dir": "I",
+      "seq": 6,
+      "stop": "003351",
+      "data_timestamp": "2024-09-29T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "56",
+      "dir": "I",
+      "seq": 7,
+      "stop": "003209",
+      "data_timestamp": "2024-09-29T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "56",
+      "dir": "I",
+      "seq": 8,
+      "stop": "003210",
+      "data_timestamp": "2024-09-29T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "56",
+      "dir": "I",
+      "seq": 9,
+      "stop": "003211",
+      "data_timestamp": "2024-09-29T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "56",
+      "dir": "I",
+      "seq": 10,
+      "stop": "003263",
+      "data_timestamp": "2024-09-29T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "56",
+      "dir": "I",
+      "seq": 11,
+      "stop": "003752",
+      "data_timestamp": "2024-09-29T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "56",
+      "dir": "I",
+      "seq": 12,
+      "stop": "003753",
+      "data_timestamp": "2024-09-29T05:00:04+08:00"
+    }
+  ]
+}

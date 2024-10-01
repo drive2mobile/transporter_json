@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:02:08+08:00",
+  "data": {
+    "stop": "001665",
+    "name_tc": "寧波第二中學, 秀茂坪道",
+    "name_en": "Ning Po No.2 College, Sau Mau Ping Road",
+    "lat": "22.323814362091",
+    "long": "114.22771112053",
+    "name_sc": "宁波第二中学, 秀茂坪道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

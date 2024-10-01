@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:57:55+08:00",
+  "data": {
+    "stop": "001454",
+    "name_tc": "浸信會天虹小學, 竹園道",
+    "name_en": "Baptist Rainbow Primary School, Chuk Yuen Road",
+    "lat": "22.345234402091",
+    "long": "114.19022972053",
+    "name_sc": "浸信会天虹小学, 竹园道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

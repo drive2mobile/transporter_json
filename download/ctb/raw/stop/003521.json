@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:00:41+08:00",
+  "data": {
+    "stop": "003521",
+    "name_tc": "香港兒童醫院, 承昌道",
+    "name_en": "Hong Kong Children's Hospital, Shing Cheong Road",
+    "lat": "22.315758722091",
+    "long": "114.20987968053",
+    "name_sc": "香港儿童医院, 承昌道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

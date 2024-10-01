@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:53:11+08:00",
+  "data": {
+    "stop": "001126",
+    "name_tc": "荷李活華庭, 皇后大道中",
+    "name_en": "Hollywood Terrace, Queen's Road Central",
+    "lat": "22.284443202091",
+    "long": "114.15115814053",
+    "name_sc": "荷李活华庭, 皇后大道中",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

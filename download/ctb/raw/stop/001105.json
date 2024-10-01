@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:59:55+08:00",
+  "data": {
+    "stop": "001105",
+    "name_tc": "僑福道, 山頂道",
+    "name_en": "Guildford Road, Peak Road",
+    "lat": "22.268500322091",
+    "long": "114.16367058053",
+    "name_sc": "侨福道, 山顶道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:59:48+08:00",
+  "data": {
+    "stop": "001094",
+    "name_tc": "馬己仙峽道, 山頂道",
+    "name_en": "Magazine Gap Road, Peak Road",
+    "lat": "22.269582722091",
+    "long": "114.16615089053",
+    "name_sc": "马己仙峡道, 山顶道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

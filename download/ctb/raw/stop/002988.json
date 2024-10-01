@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:58:16+08:00",
+  "data": {
+    "stop": "002988",
+    "name_tc": "中華煤氣公司, 馬頭角道",
+    "name_en": "China Gas Company, Ma Tau Kok Road",
+    "lat": "22.320668112091",
+    "long": "114.19262822053",
+    "name_sc": "中华煤气公司, 马头角道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

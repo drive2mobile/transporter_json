@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:01:03+08:00",
+  "data": {
+    "stop": "003859",
+    "name_tc": "頌雅路",
+    "name_en": "Chung Nga Road",
+    "lat": "22.456792772091",
+    "long": "114.17227405053",
+    "name_sc": "颂雅路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

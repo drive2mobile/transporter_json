@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:59:07+08:00",
+  "data": {
+    "stop": "003015",
+    "name_tc": "聖德肋撒堂, 太子道西",
+    "name_en": "St. Teresa's Church, Prince Edward Road West",
+    "lat": "22.325527352091",
+    "long": "114.17759294053",
+    "name_sc": "圣德肋撒堂, 太子道西",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

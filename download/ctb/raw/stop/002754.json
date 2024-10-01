@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:59:43+08:00",
+  "data": {
+    "stop": "002754",
+    "name_tc": "樂善美道, 文輝道",
+    "name_en": "Rosmead Road, Mansfield Road",
+    "lat": "22.265741312091",
+    "long": "114.16276043053",
+    "name_sc": "乐善美道, 文辉道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

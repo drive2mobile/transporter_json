@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:00:10+08:00",
+  "data": {
+    "stop": "002678",
+    "name_tc": "中山紀念公園, 干諾道西",
+    "name_en": "Sun Yat Sen Memorial Park, Connaught Road West",
+    "lat": "22.289040662091",
+    "long": "114.14434647053",
+    "name_sc": "中山纪念公园, 干诺道西",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

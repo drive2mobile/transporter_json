@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:59:39+08:00",
+  "data": {
+    "stop": "001814",
+    "name_tc": "馬坑涌道, 馬頭圍道",
+    "name_en": "Ma Hang Chung Road, Ma Tau Wai Road",
+    "lat": "22.319286742091",
+    "long": "114.18764699053",
+    "name_sc": "马坑涌道, 马头围道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

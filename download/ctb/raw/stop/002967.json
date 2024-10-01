@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:00:21+08:00",
+  "data": {
+    "stop": "002967",
+    "name_tc": "金星大廈, 駱克道",
+    "name_en": "Golden Star Building, Lockhart Road",
+    "lat": "22.278188642091",
+    "long": "114.16975256053",
+    "name_sc": "金星大厦, 骆克道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

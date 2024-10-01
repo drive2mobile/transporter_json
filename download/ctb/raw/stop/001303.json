@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:52:42+08:00",
+  "data": {
+    "stop": "001303",
+    "name_tc": "西灣河文娛中心, 筲箕灣道",
+    "name_en": "Sai Wan Ho Civic Centre, Shau Kei Wan Road",
+    "lat": "22.281794772091",
+    "long": "114.22202073053",
+    "name_sc": "西湾河文娱中心, 筲箕湾道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

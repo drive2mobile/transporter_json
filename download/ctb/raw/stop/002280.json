@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:59:44+08:00",
+  "data": {
+    "stop": "002280",
+    "name_tc": "旭逸居, 赤柱村道",
+    "name_en": "Stanford Villa, Stanley Village Road",
+    "lat": "22.223961602091",
+    "long": "114.21338878053",
+    "name_sc": "旭逸居, 赤柱村道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

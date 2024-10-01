@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:02:57+08:00",
+  "data": {
+    "stop": "003465",
+    "name_tc": "高盛臺, 葵盛圍",
+    "name_en": "High Prosperity Terrace, Kwai Shing Circuit",
+    "lat": "22.364958032091",
+    "long": "114.12371054053",
+    "name_sc": "高盛台, 葵盛围",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

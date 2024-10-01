@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:01:28+08:00",
+  "data": {
+    "stop": "001844",
+    "name_tc": "國泰城, 觀景路",
+    "name_en": "Cathay Pacific City, Scenic Road",
+    "lat": "22.297636222091",
+    "long": "113.93331853053",
+    "name_sc": "国泰城, 观景路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

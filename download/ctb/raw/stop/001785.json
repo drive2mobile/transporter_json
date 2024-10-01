@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:59:44+08:00",
+  "data": {
+    "stop": "001785",
+    "name_tc": "欣景路",
+    "name_en": "Yan King Road",
+    "lat": "22.323409582091",
+    "long": "114.25876793053",
+    "name_sc": "欣景路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

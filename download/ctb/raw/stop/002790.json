@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:00:35+08:00",
+  "data": {
+    "stop": "002790",
+    "name_tc": "小西灣運動場, 小西灣道",
+    "name_en": "Siu Sai Wan Sports Ground, Siu Sai Wan Road",
+    "lat": "22.266369252091",
+    "long": "114.24862504053",
+    "name_sc": "小西湾运动场, 小西湾道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

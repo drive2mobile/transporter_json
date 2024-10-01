@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:01:30+08:00",
+  "data": {
+    "stop": "003558",
+    "name_tc": "美田邨",
+    "name_en": "Mei Tin Estate",
+    "lat": "22.376105352091",
+    "long": "114.17057998053",
+    "name_sc": "美田邨",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

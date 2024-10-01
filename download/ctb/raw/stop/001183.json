@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:57:40+08:00",
+  "data": {
+    "stop": "001183",
+    "name_tc": "西祥街",
+    "name_en": "Sai Cheung Street",
+    "lat": "22.285065892091",
+    "long": "114.13168092053",
+    "name_sc": "西祥街",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

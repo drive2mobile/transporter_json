@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:02:54+08:00",
+  "data": {
+    "stop": "002103",
+    "name_tc": "大涌口, 西貢公路",
+    "name_en": "Tai Chung Hau, Hiram's Highway",
+    "lat": "22.372038282091",
+    "long": "114.25996552053",
+    "name_sc": "大涌口, 西贡公路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

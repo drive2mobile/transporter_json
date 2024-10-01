@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:00:34+08:00",
+  "data": {
+    "stop": "002897",
+    "name_tc": "南昌公園, 深旺道",
+    "name_en": "Nam Cheong Park, Sham Mong Road",
+    "lat": "22.325123652091",
+    "long": "114.15699136053",
+    "name_sc": "南昌公园, 深旺道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

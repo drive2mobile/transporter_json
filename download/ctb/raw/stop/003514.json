@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:00:24+08:00",
+  "data": {
+    "stop": "003514",
+    "name_tc": "青年會, 窩打老道",
+    "name_en": "YMCA, Waterloo Road",
+    "lat": "22.313762942091",
+    "long": "114.17178659053",
+    "name_sc": "青年会, 窝打老道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

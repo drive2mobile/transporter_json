@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:02:55+08:00",
+  "data": {
+    "stop": "002109",
+    "name_tc": "西貢",
+    "name_en": "Sai Kung",
+    "lat": "22.382282832091",
+    "long": "114.27373034053",
+    "name_sc": "西贡",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

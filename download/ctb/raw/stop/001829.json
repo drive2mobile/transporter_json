@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:53:26+08:00",
+  "data": {
+    "stop": "001829",
+    "name_tc": "彩虹邨, 太子道東",
+    "name_en": "Choi Hung Estate, Prince Edward Road East",
+    "lat": "22.335344522091",
+    "long": "114.20407525053",
+    "name_sc": "彩虹邨, 太子道东",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

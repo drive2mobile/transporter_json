@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:02:10+08:00",
+  "data": {
+    "stop": "002905",
+    "name_tc": "將軍澳游泳池, 寶順路",
+    "name_en": "Tseung Kwan O Swimming Pool, Po Shun Road",
+    "lat": "22.316981742091",
+    "long": "114.26113476053",
+    "name_sc": "将军澳游泳池, 宝顺路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:00:47+08:00",
+  "data": {
+    "stop": "003280",
+    "name_tc": "蒲慈里, 蒲崗村道",
+    "name_en": "Po Tsz Lane, Po Kong Village Road",
+    "lat": "22.345942642091",
+    "long": "114.20014963053",
+    "name_sc": "蒲慈里, 蒲岗村道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

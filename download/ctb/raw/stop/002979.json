@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:57:17+08:00",
+  "data": {
+    "stop": "002979",
+    "name_tc": "淘大花園, 牛頭角道",
+    "name_en": "Amoy Gardens, Ngau Tau Kok Road",
+    "lat": "22.324506682091",
+    "long": "114.21538780053",
+    "name_sc": "淘大花园, 牛头角道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

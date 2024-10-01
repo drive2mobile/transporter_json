@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:01:16+08:00",
+  "data": {
+    "stop": "002229",
+    "name_tc": "嘉林閣, 薄扶林道",
+    "name_en": "Woodbury Court, Pok Fu Lam Road",
+    "lat": "22.264648112091",
+    "long": "114.13328494053",
+    "name_sc": "嘉林阁, 薄扶林道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

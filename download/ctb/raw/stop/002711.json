@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:59:59+08:00",
+  "data": {
+    "stop": "002711",
+    "name_tc": "荷里活廣場, 上元街",
+    "name_en": "Plaza Hollywood, Sheung Yuen Street",
+    "lat": "22.339513902091",
+    "long": "114.20294491053",
+    "name_sc": "荷里活广场, 上元街",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

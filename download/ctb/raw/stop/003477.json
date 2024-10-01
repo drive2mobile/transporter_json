@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:00:12+08:00",
+  "data": {
+    "stop": "003477",
+    "name_tc": "寶盈花園, 唐俊街",
+    "name_en": "Bauhinia Garden, Tong Chun Street",
+    "lat": "22.306173672091",
+    "long": "114.26157118053",
+    "name_sc": "宝盈花园, 唐俊街",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

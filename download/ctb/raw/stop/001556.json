@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:57:29+08:00",
+  "data": {
+    "stop": "001556",
+    "name_tc": "太子站, 彌敦道",
+    "name_en": "Prince Edward Station, Nathan Road",
+    "lat": "22.325863322091",
+    "long": "114.16808965053",
+    "name_sc": "太子站, 弥敦道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

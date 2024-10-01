@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:00:17+08:00",
+  "data": {
+    "stop": "002165",
+    "name_tc": "漁光村白沙樓, 香港仔水塘道",
+    "name_en": "Pak Sha Lau Yue Kwong Chuen, Aberdeen Reservoir Road",
+    "lat": "22.251493752091",
+    "long": "114.15661982053",
+    "name_sc": "渔光村白沙楼, 香港仔水塘道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

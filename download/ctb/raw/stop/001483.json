@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:00:35+08:00",
+  "data": {
+    "stop": "001483",
+    "name_tc": "上海街, 佐敦道",
+    "name_en": "Shanghai Street, Jordan Road",
+    "lat": "22.305642122091",
+    "long": "114.16884751053",
+    "name_sc": "上海街, 佐敦道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

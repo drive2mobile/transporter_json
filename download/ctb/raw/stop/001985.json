@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:59:44+08:00",
+  "data": {
+    "stop": "001985",
+    "name_tc": "大老山隧道巴士轉乘站",
+    "name_en": "Tate's Cairn Tunnel Bus-Bus Interchange",
+    "lat": "22.376911412091",
+    "long": "114.21178876053",
+    "name_sc": "大老山隧道巴士转乘站",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

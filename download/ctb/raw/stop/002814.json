@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:58:59+08:00",
+  "data": {
+    "stop": "002814",
+    "name_tc": "順寧道, 東京街",
+    "name_en": "Shun Ning Road, Tonkin Street",
+    "lat": "22.336921292091",
+    "long": "114.15955582053",
+    "name_sc": "顺宁道, 东京街",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

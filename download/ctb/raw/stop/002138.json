@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:02:57+08:00",
+  "data": {
+    "stop": "002138",
+    "name_tc": "北港, 西貢公路",
+    "name_en": "Pak Kong, Hiram's Highway",
+    "lat": "22.375019182091",
+    "long": "114.26166016053",
+    "name_sc": "北港, 西贡公路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

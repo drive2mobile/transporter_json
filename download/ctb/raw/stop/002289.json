@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:59:39+08:00",
+  "data": {
+    "stop": "002289",
+    "name_tc": "石澳道, 大潭道",
+    "name_en": "Shek O Road, Tai Tam Road",
+    "lat": "22.256907952091",
+    "long": "114.22807111053",
+    "name_sc": "石澳道, 大潭道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

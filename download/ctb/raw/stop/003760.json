@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:00:38+08:00",
+  "data": {
+    "stop": "003760",
+    "name_tc": "菁田邨",
+    "name_en": "Ching Tin Estate",
+    "lat": "22.412601532091",
+    "long": "113.97151738053",
+    "name_sc": "菁田邨",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

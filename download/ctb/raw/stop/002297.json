@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:56:32+08:00",
+  "data": {
+    "stop": "002297",
+    "name_tc": "牛奶公司冰廠及冷房, 田灣海旁道",
+    "name_en": "Dairy Farm Ice & Cold Storage, Tin Wan Praya Road",
+    "lat": "22.248590042091",
+    "long": "114.14442990053",
+    "name_sc": "牛奶公司冰厂及冷房, 田湾海旁道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

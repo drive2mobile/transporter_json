@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:03:26+08:00",
+  "data": {
+    "stop": "002849",
+    "name_tc": "西洋菜南街",
+    "name_en": "Sai Yeung Choi Street South",
+    "lat": "22.320571512091",
+    "long": "114.16975671053",
+    "name_sc": "西洋菜南街",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

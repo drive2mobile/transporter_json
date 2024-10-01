@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:59:13+08:00",
+  "data": {
+    "stop": "001479",
+    "name_tc": "鶴園東街, 紅磡道",
+    "name_en": "Hok Yuen Street East, Hung Hom Road",
+    "lat": "22.311328492091",
+    "long": "114.19021746053",
+    "name_sc": "鹤园东街, 红磡道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

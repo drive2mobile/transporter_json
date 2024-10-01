@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:58:06+08:00",
+  "data": {
+    "stop": "001244",
+    "name_tc": "城市花園, 電氣道",
+    "name_en": "City Garden, Electric Road",
+    "lat": "22.290834522091",
+    "long": "114.19491332053",
+    "name_sc": "城市花园, 电气道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

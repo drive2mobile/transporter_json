@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:01:43+08:00",
+  "data": {
+    "stop": "003833",
+    "name_tc": "官坑, 西沙路",
+    "name_en": "Kwun Hang, Sai Sha Road",
+    "lat": "22.428665132091",
+    "long": "114.26088640053",
+    "name_sc": "官坑, 西沙路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

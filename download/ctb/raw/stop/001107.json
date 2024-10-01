@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:00:20+08:00",
+  "data": {
+    "stop": "001107",
+    "name_tc": "中區政府碼頭, 民光街",
+    "name_en": "Central Government Pier, Man Kwong Street",
+    "lat": "22.287395152091",
+    "long": "114.15457705053",
+    "name_sc": "中区政府码头, 民光街",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

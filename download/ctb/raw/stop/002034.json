@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:04:03+08:00",
+  "data": {
+    "stop": "002034",
+    "name_tc": "屯門中央廣場, 海榮路",
+    "name_en": "Tuen Mun Central Square, Hoi Wing Road",
+    "lat": "22.381099242091",
+    "long": "113.97217623053",
+    "name_sc": "屯门中央广场, 海荣路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

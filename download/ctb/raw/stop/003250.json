@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:00:51+08:00",
+  "data": {
+    "stop": "003250",
+    "name_tc": "海寶花園, 安慈路",
+    "name_en": "Treasure Garden, On Chee Road",
+    "lat": "22.452927262091",
+    "long": "114.16632821053",
+    "name_sc": "海宝花园, 安慈路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

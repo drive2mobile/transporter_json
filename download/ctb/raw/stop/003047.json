@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:57:23+08:00",
+  "data": {
+    "stop": "003047",
+    "name_tc": "九龍灣消防局, 宏光道",
+    "name_en": "Kowloon Bay Fire Station, Wang Kwong Road",
+    "lat": "22.323702242091",
+    "long": "114.20603067053",
+    "name_sc": "九龙湾消防局, 宏光道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:00:27+08:00",
+  "data": {
+    "stop": "003646",
+    "name_tc": "灰沙圍, 青山公路",
+    "name_en": "Fui Sha Wai, Castle Peak Road",
+    "lat": "22.438646902091",
+    "long": "114.00528196053",
+    "name_sc": "灰沙围, 青山公路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

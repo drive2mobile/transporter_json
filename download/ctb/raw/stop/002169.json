@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:00:07+08:00",
+  "data": {
+    "stop": "002169",
+    "name_tc": "御庭園, 鴨脷洲橋道",
+    "name_en": "The Oasis, Ap Lei Chau Bridge Road",
+    "lat": "22.244095462091",
+    "long": "114.14969945053",
+    "name_sc": "御庭园, 鸭脷洲桥道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

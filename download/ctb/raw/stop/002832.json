@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:57:56+08:00",
+  "data": {
+    "stop": "002832",
+    "name_tc": "協同中學, 大坑東道",
+    "name_en": "Concordia Lutheran School, Tai Hang Tung Road",
+    "lat": "22.330954892091",
+    "long": "114.17165116053",
+    "name_sc": "协同中学, 大坑东道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

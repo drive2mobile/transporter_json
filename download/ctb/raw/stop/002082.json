@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:04:18+08:00",
+  "data": {
+    "stop": "002082",
+    "name_tc": "帝堡城, 小瀝源路",
+    "name_en": "The Castello, Siu Lek Yuen Road",
+    "lat": "22.382946212091",
+    "long": "114.21490677053",
+    "name_sc": "帝堡城, 小沥源路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

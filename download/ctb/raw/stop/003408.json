@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:00:34+08:00",
+  "data": {
+    "stop": "003408",
+    "name_tc": "聚魚道, 深旺道",
+    "name_en": "Chui Yu Road, Sham Mong Road",
+    "lat": "22.323765142091",
+    "long": "114.15881339053",
+    "name_sc": "聚鱼道, 深旺道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

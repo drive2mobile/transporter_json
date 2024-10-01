@@ -33,40 +33,30 @@ async function downloadRouteStopNlb()
     }
 }
 
-async function parseJsonNlb(lang)
+async function parseJsonNlb()
 {
     const readFilePath = './download/nlb/raw/route/routeList.json';
     const routeListJson = await loadJSONFromFile(readFilePath);
 
-    const routeList_tc = [];
-    const routeList_en = [];
-    const routeStopList_tc = {};
-    const routeStopList_en = {};
+    const routeList = [];
+    const routeStopList = {};
 
     for (var i = 0; i < routeListJson['routes'].length; i++)
     {
-        if (i == 10) { break ;}
+        if (i == 10) { break; }
         const currRoute = routeListJson['routes'][i];
         var id = `nlb_${currRoute['routeId']}_${currRoute['routeNo']}`;
 
-        const newRoute_tc = {
+        const newRoute = {
             id: id,
             company: 'nlb',
             route: currRoute['routeNo'],
-            from: currRoute['routeName_c'].split('>')[0].trim(),
-            to: currRoute['routeName_c'].split('>')[1].trim(),
+            from_tc: currRoute['routeName_c'].split('>')[0].trim(),
+            from_en: currRoute['routeName_e'].split('>')[0].trim(),
+            to_tc: currRoute['routeName_c'].split('>')[1].trim(),
+            to_en: currRoute['routeName_e'].split('>')[1].trim(),
         }
-        routeList_tc.push(newRoute_tc);
-
-        const newRoute_en = {
-            id: id,
-            company: 'nlb',
-            route: currRoute['routeNo'],
-            from: currRoute['routeName_e'].split('>')[0].trim(),
-            to: currRoute['routeName_e'].split('>')[1].trim(),
-        }
-        routeList_en.push(newRoute_en);
-
+        routeList.push(newRoute);
 
         const readFilePath = `./download/nlb/raw/routeStop/${currRoute['routeId']}.json`;
         const routeStopJson = await loadJSONFromFile(readFilePath);
@@ -75,62 +65,36 @@ async function parseJsonNlb(lang)
         {
             const currStop = routeStopJson['stops'][j];
 
-            const newStop_tc = {
+            const newStop = {
+                'id': id,
                 'company': 'nlb',
                 'route_id': currRoute['routeId'],
                 'route': currRoute['routeNo'],
-                'from': currRoute['routeName_c'].split('>')[0].trim(),
-                'to': currRoute['routeName_c'].split('>')[1].trim(),
+                'from_tc': currRoute['routeName_c'].split('>')[0].trim(),
+                'from_en': currRoute['routeName_e'].split('>')[0].trim(),
+                'to_tc': currRoute['routeName_c'].split('>')[1].trim(),
+                'to_en': currRoute['routeName_e'].split('>')[1].trim(),
                 'stop': currStop['stopId'],
-                'name': currStop['stopName_c'],
+                'name_tc': currStop['stopName_c'],
+                'name_en': currStop['stopName_e'],
                 'lat': currStop['latitude'],
                 'long': currStop['longitude'],
             }
 
-            if (id in routeStopList_tc)
+            if (id in routeStopList)
             {
-                routeStopList_tc[id].push(newStop_tc);
+                routeStopList[id].push(newStop);
             }
             else
             {
-                const newArr = [newStop_tc];
-                routeStopList_tc[id] = newArr;
-            }
-
-            const newStop_en = {
-                'company': 'nlb',
-                'route': currRoute['routeNo'],
-                'route_id': currRoute['routeId'],
-                'from': currRoute['routeName_e'].split('>')[0].trim(),
-                'to': currRoute['routeName_e'].split('>')[1].trim(),
-                'stop': currStop['stopId'],
-                'name': currStop['stopName_e'],
-                'lat': currStop['latitude'],
-                'long': currStop['longitude'],
-            }
-
-
-            if (id in routeStopList_en)
-            {
-                routeStopList_en[id].push(newStop_en);
-            }
-            else
-            {
-                const newArr = [newStop_en];
-                routeStopList_en[id] = newArr;
+                const newArr = [newStop];
+                routeStopList[id] = newArr;
             }
         }
     }
 
-    const saveFilePath1 = `./download/nlb/output/routeList_nlb_tc.json`;
-    await saveJSONToFile(saveFilePath1, routeList_tc);
-    const saveFilePath2 = `./download/nlb/output/routeList_nlb_en.json`;
-    await saveJSONToFile(saveFilePath2, routeList_en);
-
-    const saveFilePath3 = `./download/nlb/output/routeStopList_nlb_tc.json`;
-    await saveJSONToFile(saveFilePath3, routeStopList_tc);
-    const saveFilePath4 = `./download/nlb/output/routeStopList_nlb_en.json`;
-    await saveJSONToFile(saveFilePath4, routeStopList_en);
+    await saveJSONToFile(`./download/nlb/output/routeList_nlb.json`, routeList);
+    await saveJSONToFile(`./download/nlb/output/routeStopList_nlb.json`, routeStopList);
 }
 
 export { downloadRouteListNlb, downloadRouteStopNlb, parseJsonNlb }

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:02:28+08:00",
+  "data": {
+    "stop": "002068",
+    "name_tc": "德信中學, 寧泰路",
+    "name_en": "Tak Sun Secondary School, Ning Tai Road",
+    "lat": "22.410573162091",
+    "long": "114.22139257053",
+    "name_sc": "德信中学, 宁泰路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

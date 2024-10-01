@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:01:11+08:00",
+  "data": {
+    "stop": "002265",
+    "name_tc": "赤柱正灘, 赤柱灘道",
+    "name_en": "Stanley Main Beach, Stanley Beach Road",
+    "lat": "22.220708302091",
+    "long": "114.21366406053",
+    "name_sc": "赤柱正滩, 赤柱滩道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

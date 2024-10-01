@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:01:52+08:00",
+  "data": {
+    "stop": "002206",
+    "name_tc": "御庭園, 利南道",
+    "name_en": "The Oasis, Lee Nam Road",
+    "lat": "22.242660822091",
+    "long": "114.15030606053",
+    "name_sc": "御庭园, 利南道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

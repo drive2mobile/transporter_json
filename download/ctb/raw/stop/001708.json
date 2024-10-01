@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:57:03+08:00",
+  "data": {
+    "stop": "001708",
+    "name_tc": "志蓮淨苑, 鳳德道",
+    "name_en": "Chi Lin Nunnery, Fung Tak Road",
+    "lat": "22.339966572091",
+    "long": "114.20453329053",
+    "name_sc": "志莲净苑, 凤德道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

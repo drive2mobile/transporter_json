@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:57:03+08:00",
+  "data": {
+    "stop": "001052",
+    "name_tc": "遮打花園, 德輔道中",
+    "name_en": "Chater Garden, Des Voeux Road Central",
+    "lat": "22.280108962091",
+    "long": "114.16064635053",
+    "name_sc": "遮打花园, 德辅道中",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

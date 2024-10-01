@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:03:52+08:00",
+  "data": {
+    "stop": "001886",
+    "name_tc": "青山灣, 青山公路",
+    "name_en": "Castle Peak Beach, Castle Peak Road",
+    "lat": "22.378968672091",
+    "long": "113.98070427053",
+    "name_sc": "青山湾, 青山公路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

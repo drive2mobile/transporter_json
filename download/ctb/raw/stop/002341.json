@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:58:06+08:00",
+  "data": {
+    "stop": "002341",
+    "name_tc": "華富 (南)",
+    "name_en": "Wah Fu (South)",
+    "lat": "22.251167732091",
+    "long": "114.13648455053",
+    "name_sc": "华富 (南)",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

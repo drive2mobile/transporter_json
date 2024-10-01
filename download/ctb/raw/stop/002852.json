@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:58:17+08:00",
+  "data": {
+    "stop": "002852",
+    "name_tc": "蘭秀道, 美荔道",
+    "name_en": "Nassau Street, Mei Lai Road",
+    "lat": "22.338600192091",
+    "long": "114.14054234053",
+    "name_sc": "兰秀道, 美荔道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

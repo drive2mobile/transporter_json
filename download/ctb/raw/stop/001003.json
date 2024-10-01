@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:57:12+08:00",
+  "data": {
+    "stop": "001003",
+    "name_tc": "山市街, 卑路乍街",
+    "name_en": "Sands Street, Belcher's Street",
+    "lat": "22.283632272091",
+    "long": "114.13063421053",
+    "name_sc": "山市街, 卑路乍街",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

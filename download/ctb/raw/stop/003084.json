@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:01:07+08:00",
+  "data": {
+    "stop": "003084",
+    "name_tc": "源康街, 小瀝源路",
+    "name_en": "Yuen Hong Street, Siu Lek Yuen Road",
+    "lat": "22.383673312091",
+    "long": "114.20888696053",
+    "name_sc": "源康街, 小沥源路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

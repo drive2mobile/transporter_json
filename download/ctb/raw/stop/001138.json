@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:01:08+08:00",
+  "data": {
+    "stop": "001138",
+    "name_tc": "金鐘站 - D 出口",
+    "name_en": "Admiralty Station - Exit D",
+    "lat": "22.278641252091",
+    "long": "114.16563501053",
+    "name_sc": "金钟站 - D 出口",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

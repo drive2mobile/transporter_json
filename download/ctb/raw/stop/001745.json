@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:01:18+08:00",
+  "data": {
+    "stop": "001745",
+    "name_tc": "順天邨天韻樓, 順安道",
+    "name_en": "Tin Wan House Shun Tin Estate, Shun On Road",
+    "lat": "22.326063382091",
+    "long": "114.22836333053",
+    "name_sc": "顺天邨天韵楼, 顺安道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

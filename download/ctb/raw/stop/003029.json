@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:59:16+08:00",
+  "data": {
+    "stop": "003029",
+    "name_tc": "鑽石山火葬場, 蒲崗村道",
+    "name_en": "Diamond Hill Crematorium, Po Kong Village Road",
+    "lat": "22.344808562091",
+    "long": "114.20705941053",
+    "name_sc": "钻石山火葬场, 蒲岗村道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:52:42+08:00",
+  "data": {
+    "stop": "001033",
+    "name_tc": "皇后像廣場, 干諾道中",
+    "name_en": "Statue Square, Connaught Road Central",
+    "lat": "22.281992192091",
+    "long": "114.16003822053",
+    "name_sc": "皇后像广场, 干诺道中",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

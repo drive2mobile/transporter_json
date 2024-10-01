@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:02:25+08:00",
+  "data": {
+    "stop": "002066",
+    "name_tc": "富安花園, 亞公角街",
+    "name_en": "Chevalier Garden, A Kung Kok Street",
+    "lat": "22.406139132091",
+    "long": "114.22185662053",
+    "name_sc": "富安花园, 亚公角街",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

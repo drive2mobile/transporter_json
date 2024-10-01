@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:57:31+08:00",
+  "data": {
+    "stop": "001267",
+    "name_tc": "北角官立小學, 英皇道",
+    "name_en": "North Point Government Primary School, King's Road",
+    "lat": "22.288825782091",
+    "long": "114.20986716053",
+    "name_sc": "北角官立小学, 英皇道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:56:18+08:00",
+  "data": {
+    "stop": "002344",
+    "name_tc": "甄沾記大廈, 黃竹坑道",
+    "name_en": "Yan's Tower, Wong Chuk Hang Road",
+    "lat": "22.248523252091",
+    "long": "114.16362493053",
+    "name_sc": "甄沾记大厦, 黄竹坑道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

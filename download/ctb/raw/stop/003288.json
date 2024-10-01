@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:00:38+08:00",
+  "data": {
+    "stop": "003288",
+    "name_tc": "九龍站",
+    "name_en": "Kowloon Station",
+    "lat": "22.304454172091",
+    "long": "114.16307477053",
+    "name_sc": "九龙站",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

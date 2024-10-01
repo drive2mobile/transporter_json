@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:00:00+08:00",
+  "data": {
+    "stop": "002717",
+    "name_tc": "嘉道理道, 亞皆老街",
+    "name_en": "Kadoorie Avenue, Argyle Street",
+    "lat": "22.320311822091",
+    "long": "114.17432683053",
+    "name_sc": "嘉道理道, 亚皆老街",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

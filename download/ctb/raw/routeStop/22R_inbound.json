@@ -1,0 +1,23 @@
+{
+  "type": "RouteStop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:48:29+08:00",
+  "data": [
+    {
+      "co": "CTB",
+      "route": "22R",
+      "dir": "I",
+      "seq": 1,
+      "stop": "003519",
+      "data_timestamp": "2024-09-29T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "22R",
+      "dir": "I",
+      "seq": 2,
+      "stop": "003587",
+      "data_timestamp": "2024-09-29T05:00:04+08:00"
+    }
+  ]
+}

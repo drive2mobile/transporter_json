@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:00:01+08:00",
+  "data": {
+    "stop": "002700",
+    "name_tc": "馬游塘村, 寶琳路",
+    "name_en": "Ma Yau Tong Village, Po Lam Road",
+    "lat": "22.320301632091",
+    "long": "114.24448187053",
+    "name_sc": "马游塘村, 宝琳路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

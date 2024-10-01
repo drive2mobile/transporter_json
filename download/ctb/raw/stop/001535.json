@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:57:10+08:00",
+  "data": {
+    "stop": "001535",
+    "name_tc": "天光道, 馬頭圍道",
+    "name_en": "Tin Kwong Road, Ma Tau Wai Road",
+    "lat": "22.319316112091",
+    "long": "114.18745764053",
+    "name_sc": "天光道, 马头围道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

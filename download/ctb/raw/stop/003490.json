@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:03:28+08:00",
+  "data": {
+    "stop": "003490",
+    "name_tc": "掃管笏村, 掃管笏路",
+    "name_en": "So Kwun Wat Tsuen, So Kwun Wat Road",
+    "lat": "22.375686732091",
+    "long": "113.99979200053",
+    "name_sc": "扫管笏村, 扫管笏路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

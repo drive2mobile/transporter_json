@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:02:56+08:00",
+  "data": {
+    "stop": "003441",
+    "name_tc": "屏山, 青山公路",
+    "name_en": "Ping Shan, Castle Peak Road",
+    "lat": "22.443143182091",
+    "long": "114.01293500053",
+    "name_sc": "屏山, 青山公路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

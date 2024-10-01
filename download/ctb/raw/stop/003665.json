@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:00:39+08:00",
+  "data": {
+    "stop": "003665",
+    "name_tc": "流水響, 沙頭角公路",
+    "name_en": "Lau Shui Heung, Sha Tau Kok Road",
+    "lat": "22.510596742091",
+    "long": "114.16121746053",
+    "name_sc": "流水响, 沙头角公路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

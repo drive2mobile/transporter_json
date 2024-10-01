@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:57:58+08:00",
+  "data": {
+    "stop": "002419",
+    "name_tc": "六國酒店, 告士打道",
+    "name_en": "Gloucester Luk Kwok, Gloucester Road",
+    "lat": "22.279008442091",
+    "long": "114.17233107053",
+    "name_sc": "六国酒店, 告士打道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

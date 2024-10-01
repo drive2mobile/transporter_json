@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:01:21+08:00",
+  "data": {
+    "stop": "002610",
+    "name_tc": "青龍頭村, 青山公路",
+    "name_en": "Tsing Lung Tau Tsuen, Castle Peak Road",
+    "lat": "22.361060432091",
+    "long": "114.04675908053",
+    "name_sc": "青龙头村, 青山公路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

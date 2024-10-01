@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:03:58+08:00",
+  "data": {
+    "stop": "002614",
+    "name_tc": "馬灣碼頭, 青山公路",
+    "name_en": "Ma Wan Pier, Castle Peak Road",
+    "lat": "22.365550092091",
+    "long": "114.05669550053",
+    "name_sc": "马湾码头, 青山公路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

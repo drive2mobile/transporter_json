@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:53:26+08:00",
+  "data": {
+    "stop": "001504",
+    "name_tc": "啟業邨, 觀塘道",
+    "name_en": "Kai Yip Estate, Kwun Tong Road",
+    "lat": "22.330616082091",
+    "long": "114.21034329053",
+    "name_sc": "启业邨, 观塘道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

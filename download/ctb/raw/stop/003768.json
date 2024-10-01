@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:01:38+08:00",
+  "data": {
+    "stop": "003768",
+    "name_tc": "龍豐花園, 龍琛路",
+    "name_en": "Lung Fung Garden, Lung Sum Avenue",
+    "lat": "22.503083362091",
+    "long": "114.12940387053",
+    "name_sc": "龙丰花园, 龙琛路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

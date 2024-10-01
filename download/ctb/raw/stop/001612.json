@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:58:25+08:00",
+  "data": {
+    "stop": "001612",
+    "name_tc": "九龍灣運動場, 宏照道",
+    "name_en": "Kowloon Bay Sports Ground, Wang Chiu Road",
+    "lat": "22.326745562091",
+    "long": "114.20857502053",
+    "name_sc": "九龙湾运动场, 宏照道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

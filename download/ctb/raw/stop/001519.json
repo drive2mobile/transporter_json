@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:02:01+08:00",
+  "data": {
+    "stop": "001519",
+    "name_tc": "藍田站",
+    "name_en": "Lam Tin Station",
+    "lat": "22.307091882091",
+    "long": "114.23347123053",
+    "name_sc": "蓝田站",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:03:19+08:00",
+  "data": {
+    "stop": "003771",
+    "name_tc": "美輝街",
+    "name_en": "Mei Fai Street",
+    "lat": "22.376621552091",
+    "long": "114.17436370053",
+    "name_sc": "美辉街",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

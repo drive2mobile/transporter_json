@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:00:48+08:00",
+  "data": {
+    "stop": "002271",
+    "name_tc": "衛奕信徑, 赤柱峽道",
+    "name_en": "Wilson Trail, Stanley Gap Road",
+    "lat": "22.223604722091",
+    "long": "114.20726723053",
+    "name_sc": "卫奕信径, 赤柱峡道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

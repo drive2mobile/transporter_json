@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:01:07+08:00",
+  "data": {
+    "stop": "003865",
+    "name_tc": "聖母聖心小學, 頌雅路",
+    "name_en": "Sacred Heart of Mary Primary School, Chung Nga Road",
+    "lat": "22.456927202091",
+    "long": "114.17207034053",
+    "name_sc": "圣母圣心小学, 颂雅路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

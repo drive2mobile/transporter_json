@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:59:38+08:00",
+  "data": {
+    "stop": "001826",
+    "name_tc": "將軍澳廣場, 寶邑路",
+    "name_en": "Tseung Kwan O Plaza, Po Yap Road",
+    "lat": "22.307988842091",
+    "long": "114.26243839053",
+    "name_sc": "将军澳广场, 宝邑路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

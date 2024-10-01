@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:00:59+08:00",
+  "data": {
+    "stop": "002018",
+    "name_tc": "廣福道",
+    "name_en": "Kwong Fuk Road",
+    "lat": "22.448119522091",
+    "long": "114.16793462053",
+    "name_sc": "广福道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

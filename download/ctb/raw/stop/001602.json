@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:57:01+08:00",
+  "data": {
+    "stop": "001602",
+    "name_tc": "長沙灣站, 東京街",
+    "name_en": "Cheung Sha Wan Station, Tonkin Street",
+    "lat": "22.335338642091",
+    "long": "114.15779444053",
+    "name_sc": "长沙湾站, 东京街",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

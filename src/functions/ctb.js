@@ -95,7 +95,7 @@ async function downloadStops()
     }
 }
 
-async function parseJsonCtb(lang)
+async function parseJsonCtb()
 {
     const readFilePath = './download/ctb/raw/route/routeList.json';
     const routeListJson = await loadJSONFromFile(readFilePath);
@@ -119,12 +119,16 @@ async function parseJsonCtb(lang)
 
         if (routeStopJson_inbound['data'] && routeStopJson_inbound['data'].length > 0)
         {
+            const id = `${company}_${currRoute['route']}_I`;
+
             const newRoute = {
-                'id': `${company}_${currRoute['route']}_I`,
+                'id': id,
                 'company': company,
                 'route': currRoute['route'],
-                'from': currRoute[`orig_${lang}`],
-                'to': currRoute[`dest_${lang}`],
+                'from_tc': currRoute[`orig_tc`],
+                'from_en': currRoute[`orig_en`],
+                'to_tc': currRoute[`dest_tc`],
+                'to_en': currRoute[`dest_en`],
                 'dir': 'I'
             }
 
@@ -137,16 +141,20 @@ async function parseJsonCtb(lang)
 
                 const readFilePath_stop = `./download/ctb/raw/stop/${currStop['stop']}.json`;
                 const stopJson = await loadJSONFromFile(readFilePath_stop);
-
+                
                 const newStop = {
+                    'id': id,
                     'company': company,
                     'route': currStop['route'],
-                    'from': currRoute[`orig_${lang}`],
-                    'to': currRoute[`dest_${lang}`],
+                    'from_tc': currRoute[`orig_tc`],
+                    'from_en': currRoute[`orig_en`],
+                    'to_tc': currRoute[`dest_tc`],
+                    'to_en': currRoute[`dest_en`],
                     'dir': currStop['dir'],
                     'seq': currStop['seq'],
                     'stop': currStop['stop'],
-                    'name': stopJson['data'][`name_${lang}`],
+                    'name_tc': stopJson['data'][`name_tc`],
+                    'name_en': stopJson['data'][`name_en`],
                     'lat': stopJson['data']['lat'],
                     'long': stopJson['data']['long'],
                 }
@@ -154,7 +162,7 @@ async function parseJsonCtb(lang)
                 currRouteStopList.push(newStop);
             }
 
-            routeStopList[`${company}_${currRoute['route']}_I`] = currRouteStopList;
+            routeStopList[id] = currRouteStopList;
         }
 
         const readFilePath_outbound = `./download/ctb/raw/routeStop/${currRoute['route']}_outbound.json`;
@@ -162,12 +170,16 @@ async function parseJsonCtb(lang)
 
         if (routeStopJson_outbound['data'] && routeStopJson_outbound['data'].length > 0)
         {
+            const id = `${company}_${currRoute['route']}_O`;
+
             const newRoute = {
-                'id': `${company}_${currRoute['route']}_O`,
+                'id': id,
                 'company': company,
                 'route': currRoute['route'],
-                'from': currRoute[`orig_${lang}`],
-                'to': currRoute[`dest_${lang}`],
+                'from_tc': currRoute[`orig_tc`],
+                'from_en': currRoute[`orig_en`],
+                'to_tc': currRoute[`dest_tc`],
+                'to_en': currRoute[`dest_en`],
                 'dir': 'O'
             }
 
@@ -182,14 +194,18 @@ async function parseJsonCtb(lang)
                 const stopJson = await loadJSONFromFile(readFilePath_stop);
 
                 const newStop = {
+                    'id': id,
                     'company': company,
                     'route': currStop['route'],
-                    'from': currRoute[`orig_${lang}`],
-                    'to': currRoute[`dest_${lang}`],
+                    'from_tc': currRoute[`orig_tc`],
+                    'from_en': currRoute[`orig_en`],
+                    'to_tc': currRoute[`dest_tc`],
+                    'to_en': currRoute[`dest_en`],
                     'dir': currStop['dir'],
                     'seq': currStop['seq'],
                     'stop': currStop['stop'],
-                    'name': stopJson['data'][`name_${lang}`],
+                    'name_tc': stopJson['data'][`name_tc`],
+                    'name_en': stopJson['data'][`name_en`],
                     'lat': stopJson['data']['lat'],
                     'long': stopJson['data']['long'],
                 }
@@ -197,15 +213,12 @@ async function parseJsonCtb(lang)
                 currRouteStopList.push(newStop);
             }
 
-            routeStopList[`${company}_${currRoute['route']}_O`] = currRouteStopList;
+            routeStopList[id] = currRouteStopList;
         }
     }
 
-    const saveFilePath1 = `./download/ctb/output/routeList_ctb_${lang}.json`;
-    await saveJSONToFile(saveFilePath1, routeList);
-
-    const saveFilePath2 = `./download/ctb/output/routeStopList_ctb_${lang}.json`;
-    await saveJSONToFile(saveFilePath2, routeStopList);
+    await saveJSONToFile(`./download/ctb/output/routeList_ctb.json`, routeList);
+    await saveJSONToFile(`./download/ctb/output/routeStopList_ctb.json`, routeStopList);
 }
 
 export { downloadRouteList, downloadRouteStops, downloadStops, parseJsonCtb }

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:59:41+08:00",
+  "data": {
+    "stop": "002770",
+    "name_tc": "明華大廈, 柴灣道",
+    "name_en": "Ming Wah Dai Ha, Chai Wan Road",
+    "lat": "22.275813922091",
+    "long": "114.23037523053",
+    "name_sc": "明华大厦, 柴湾道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:01:07+08:00",
+  "data": {
+    "stop": "003864",
+    "name_tc": "富亨邨, 汀角路",
+    "name_en": "Fu Heng Estate, Ting Kok Road",
+    "lat": "22.456278472091",
+    "long": "114.17066488053",
+    "name_sc": "富亨邨, 汀角路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:59:49+08:00",
+  "data": {
+    "stop": "001095",
+    "name_tc": "山頂道 30 號, 山頂道",
+    "name_en": "30 Peak Road, Peak Road",
+    "lat": "22.271160172091",
+    "long": "114.16884350053",
+    "name_sc": "山顶道 30 号, 山顶道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

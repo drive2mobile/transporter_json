@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:04:16+08:00",
+  "data": {
+    "stop": "003762",
+    "name_tc": "M+, 博物館道",
+    "name_en": "M+, Museum Drive",
+    "lat": "22.301781402091",
+    "long": "114.15858138053",
+    "name_sc": "M+, 博物馆道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

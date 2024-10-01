@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:57:04+08:00",
+  "data": {
+    "stop": "001348",
+    "name_tc": "北角官立小學雲景道, 怡景道",
+    "name_en": "North Point Government Primary School (Cloud View Road), Yee King Road",
+    "lat": "22.283214592091",
+    "long": "114.19498699053",
+    "name_sc": "北角官立小学云景道, 怡景道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

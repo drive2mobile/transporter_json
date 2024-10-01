@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:00:10+08:00",
+  "data": {
+    "stop": "003205",
+    "name_tc": "建生邨泰生樓, 震寰路",
+    "name_en": "Tai Sang House Kin Sang Estate, Tsun Wen Road",
+    "lat": "22.406349212091",
+    "long": "113.97160591053",
+    "name_sc": "建生邨泰生楼, 震寰路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

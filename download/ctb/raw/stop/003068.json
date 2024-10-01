@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:01:56+08:00",
+  "data": {
+    "stop": "003068",
+    "name_tc": "寶達邨",
+    "name_en": "Po Tat Estate",
+    "lat": "22.317747462091",
+    "long": "114.23613488053",
+    "name_sc": "宝达邨",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

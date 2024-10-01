@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:57:04+08:00",
+  "data": {
+    "stop": "001290",
+    "name_tc": "勵德邨勵潔樓, 勵德邨道",
+    "name_en": "Lai Kit Lau Lai Tak Tsuen, Lai Tak Tsuen Road",
+    "lat": "22.279175742091",
+    "long": "114.19357793053",
+    "name_sc": "励德邨励洁楼, 励德邨道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

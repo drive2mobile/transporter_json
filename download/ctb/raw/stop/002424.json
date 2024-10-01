@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:59:57+08:00",
+  "data": {
+    "stop": "002424",
+    "name_tc": "灣景中心大廈, 港灣道",
+    "name_en": "Causeway Centre, Harbour Road",
+    "lat": "22.280746782091",
+    "long": "114.17625590053",
+    "name_sc": "湾景中心大厦, 港湾道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

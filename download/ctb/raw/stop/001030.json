@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:59:27+08:00",
+  "data": {
+    "stop": "001030",
+    "name_tc": "怡和大廈, 干諾道中",
+    "name_en": "Jardine House, Connaught Road Central",
+    "lat": "22.282618792091",
+    "long": "114.15929917053",
+    "name_sc": "怡和大厦, 干诺道中",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

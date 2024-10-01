@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:01:27+08:00",
+  "data": {
+    "stop": "003565",
+    "name_tc": "富寧花園, 寶寧路",
+    "name_en": "Fu Ning Garden, Po Ning Road",
+    "lat": "22.318682092091",
+    "long": "114.26756297053",
+    "name_sc": "富宁花园, 宝宁路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

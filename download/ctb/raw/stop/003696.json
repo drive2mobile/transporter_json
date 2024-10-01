@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:00:24+08:00",
+  "data": {
+    "stop": "003696",
+    "name_tc": "快富街, 彌敦道",
+    "name_en": "Fife Street, Nathan Road",
+    "lat": "22.320124902091",
+    "long": "114.16909323053",
+    "name_sc": "快富街, 弥敦道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

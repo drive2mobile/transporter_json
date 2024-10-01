@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:59:54+08:00",
+  "data": {
+    "stop": "002780",
+    "name_tc": "合明工廠大廈, 安業街",
+    "name_en": "Hop Ming Factory Building, On Yip Street",
+    "lat": "22.266749292091",
+    "long": "114.24613856053",
+    "name_sc": "合明工厂大厦, 安业街",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:58:35+08:00",
+  "data": {
+    "stop": "003234",
+    "name_tc": "富麗花園, 寶康路",
+    "name_en": "Finery Park, Po Hong Road",
+    "lat": "22.322887942091",
+    "long": "114.25414805053",
+    "name_sc": "富丽花园, 宝康路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

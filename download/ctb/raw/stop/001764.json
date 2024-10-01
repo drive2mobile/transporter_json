@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:01:20+08:00",
+  "data": {
+    "stop": "001764",
+    "name_tc": "調景嶺站, 景嶺路",
+    "name_en": "Tiu Keng Leng Station, King Ling Road",
+    "lat": "22.305291742091",
+    "long": "114.25292725053",
+    "name_sc": "调景岭站, 景岭路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

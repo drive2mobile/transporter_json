@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:01:11+08:00",
+  "data": {
+    "stop": "001113",
+    "name_tc": "香港大學百周年校園, 薄扶林道",
+    "name_en": "HKU Centennial Campus, Pok Fu Lam Road",
+    "lat": "22.284286232091",
+    "long": "114.13491292053",
+    "name_sc": "香港大学百周年校园, 薄扶林道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

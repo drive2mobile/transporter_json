@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:57:17+08:00",
+  "data": {
+    "stop": "001502",
+    "name_tc": "麗晶花園, 太子道東",
+    "name_en": "Richland Gardens, Prince Edward Road East",
+    "lat": "22.332582922091",
+    "long": "114.20691744053",
+    "name_sc": "丽晶花园, 太子道东",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

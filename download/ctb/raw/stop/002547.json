@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:57:08+08:00",
+  "data": {
+    "stop": "002547",
+    "name_tc": "體育道, 黃泥涌道",
+    "name_en": "Sports Road, Wong Nai Chung Road",
+    "lat": "22.276258492091",
+    "long": "114.18256067053",
+    "name_sc": "体育道, 黄泥涌道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:57:04+08:00",
+  "data": {
+    "stop": "001237",
+    "name_tc": "雲景台, 雲景道",
+    "name_en": "Evelyn Towers, Cloud View Road",
+    "lat": "22.284662802091",
+    "long": "114.19566175053",
+    "name_sc": "云景台, 云景道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

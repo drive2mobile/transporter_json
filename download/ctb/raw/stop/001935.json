@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:03:39+08:00",
+  "data": {
+    "stop": "001935",
+    "name_tc": "富健花園, 龍門路",
+    "name_en": "Glorious Garden, Lung Mun Road",
+    "lat": "22.383682272091",
+    "long": "113.96454509053",
+    "name_sc": "富健花园, 龙门路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

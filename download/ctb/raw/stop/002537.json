@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:52:22+08:00",
+  "data": {
+    "stop": "002537",
+    "name_tc": "普樂里, 灣仔道",
+    "name_en": "Bullock Lane, Wan Chai Road",
+    "lat": "22.276798792091",
+    "long": "114.17597252053",
+    "name_sc": "普乐里, 湾仔道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

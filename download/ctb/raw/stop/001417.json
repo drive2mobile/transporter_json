@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:58:46+08:00",
+  "data": {
+    "stop": "001417",
+    "name_tc": "加連威老道, 漆咸道南",
+    "name_en": "Granville Road, Chatham Road South",
+    "lat": "22.299906172091",
+    "long": "114.17586667053",
+    "name_sc": "加连威老道, 漆咸道南",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

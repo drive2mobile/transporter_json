@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:58:29+08:00",
+  "data": {
+    "stop": "002356",
+    "name_tc": "業興街, 黃竹坑道",
+    "name_en": "Yip Hing Street, Wong Chuk Hang Road",
+    "lat": "22.249175622091",
+    "long": "114.16779618053",
+    "name_sc": "业兴街, 黄竹坑道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

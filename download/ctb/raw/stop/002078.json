@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:02:35+08:00",
+  "data": {
+    "stop": "002078",
+    "name_tc": "愉翠苑, 牛皮沙街",
+    "name_en": "Yu Chui Court, Ngau Pei Sha Street",
+    "lat": "22.382284772091",
+    "long": "114.20563421053",
+    "name_sc": "愉翠苑, 牛皮沙街",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:00:12+08:00",
+  "data": {
+    "stop": "003204",
+    "name_tc": "大興體育館, 震寰路",
+    "name_en": "Tai Hing Sports Centre, Tsun Wen Road",
+    "lat": "22.403548302091",
+    "long": "113.97263432053",
+    "name_sc": "大兴体育馆, 震寰路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

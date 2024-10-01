@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:58:57+08:00",
+  "data": {
+    "stop": "003607",
+    "name_tc": "彩德邨彩亮樓, 彩榮路",
+    "name_en": "Choi Leung House Choi Tak Estate, Choi Wing Road",
+    "lat": "22.329802282091",
+    "long": "114.21513102053",
+    "name_sc": "彩德邨彩亮楼, 彩荣路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

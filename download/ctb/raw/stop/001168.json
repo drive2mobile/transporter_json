@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:52:22+08:00",
+  "data": {
+    "stop": "001168",
+    "name_tc": "摩星嶺徑, 域多利道",
+    "name_en": "Mount Davis Path, Victoria Road",
+    "lat": "22.275760642091",
+    "long": "114.11752426053",
+    "name_sc": "摩星岭径, 域多利道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

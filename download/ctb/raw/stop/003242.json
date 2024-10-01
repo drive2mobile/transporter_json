@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:00:53+08:00",
+  "data": {
+    "stop": "003242",
+    "name_tc": "大埔中心第五期, 南運路",
+    "name_en": "Tai Po Centre Phase 5, Nam Wan Road",
+    "lat": "22.453032962091",
+    "long": "114.17231730053",
+    "name_sc": "大埔中心第五期, 南运路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

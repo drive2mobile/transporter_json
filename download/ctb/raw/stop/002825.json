@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:57:55+08:00",
+  "data": {
+    "stop": "002825",
+    "name_tc": "白田邨",
+    "name_en": "Pak Tin Estate",
+    "lat": "22.336271232091",
+    "long": "114.16594467053",
+    "name_sc": "白田邨",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

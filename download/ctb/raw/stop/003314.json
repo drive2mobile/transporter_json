@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:02:43+08:00",
+  "data": {
+    "stop": "003314",
+    "name_tc": "大坑東邨東輝樓, 大坑東道",
+    "name_en": "Tung Fai House Tai Hang Tung Estate, Tai Hang Tung Road",
+    "lat": "22.333589222091",
+    "long": "114.17164153053",
+    "name_sc": "大坑东邨东辉楼, 大坑东道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

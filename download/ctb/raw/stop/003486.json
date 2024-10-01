@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:03:32+08:00",
+  "data": {
+    "stop": "003486",
+    "name_tc": "管翠路, 掃管笏路",
+    "name_en": "Kwun Chui Road, So Kwun Wat Road",
+    "lat": "22.374961652091",
+    "long": "113.99752248053",
+    "name_sc": "管翠路, 扫管笏路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

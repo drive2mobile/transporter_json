@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:01:41+08:00",
+  "data": {
+    "stop": "003723",
+    "name_tc": "心誠中學, 馬會道",
+    "name_en": "Fanling Lutheran Secondary School, Jockey Club Road",
+    "lat": "22.498753682091",
+    "long": "114.13744174053",
+    "name_sc": "心诚中学, 马会道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

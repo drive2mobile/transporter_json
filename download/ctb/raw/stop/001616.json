@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:57:51+08:00",
+  "data": {
+    "stop": "001616",
+    "name_tc": "九龍維景酒店, 窩打老道",
+    "name_en": "Metropark Hotel Kowloon, Waterloo Road",
+    "lat": "22.319136922091",
+    "long": "114.17577537053",
+    "name_sc": "九龙维景酒店, 窝打老道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

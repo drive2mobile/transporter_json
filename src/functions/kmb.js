@@ -22,7 +22,7 @@ async function downloadStopListKmb()
     await downloadJSONFile(url, downloadFilePath);
 }
 
-async function parseJsonKmb(lang)
+async function parseJsonKmb()
 {
     const readFilePath1 = './download/kmb/raw/route/routeList.json';
     const routeListJson = await loadJSONFromFile(readFilePath1);
@@ -66,8 +66,10 @@ async function parseJsonKmb(lang)
             'id': id,
             'company': company,
             'route': currRoute['route'],
-            'from': currRoute[`orig_${lang}`],
-            'to': currRoute[`dest_${lang}`],
+            'from_tc': currRoute[`orig_tc`],
+            'from_en': currRoute[`orig_en`],
+            'to_tc': currRoute[`dest_tc`],
+            'to_en': currRoute[`dest_en`],
             'dir': 'I',
             'serviceType': currRoute['service_type']
         }
@@ -89,15 +91,19 @@ async function parseJsonKmb(lang)
         const id = `${company}_${currStop['route']}_${currStop['bound']}_${currStop['service_type']}`;
 
         const newStop = {
+            'id':id,
             'company': company,
             'route': currStop['route'],
-            'from': routeListObject[id]['from'],
-            'to': routeListObject[id]['to'],
+            'from_tc': routeListObject[id]['from_tc'],
+            'from_en': routeListObject[id]['from_en'],
+            'to_tc': routeListObject[id]['to_tc'],
+            'to_en': routeListObject[id]['to_en'],
             'dir': currStop['bound'],
             'seq': currStop['seq'],
             'stop': currStop['stop'],
             'serviceType': currStop['service_type'],
-            'name': stopListObject[currStop['stop']][`name_${lang}`],
+            'name_tc': stopListObject[currStop['stop']][`name_tc`],
+            'name_en': stopListObject[currStop['stop']][`name_en`],
             'lat': stopListObject[currStop['stop']]['lat'],
             'long': stopListObject[currStop['stop']]['long'],
         }
@@ -114,11 +120,8 @@ async function parseJsonKmb(lang)
         }
     }
 
-    const saveFilePath1 = `./download/kmb/output/routeList_kmb_${lang}.json`;
-    await saveJSONToFile(saveFilePath1, routeList);
-
-    const saveFilePath2 = `./download/kmb/output/routeStopList_kmb_${lang}.json`;
-    await saveJSONToFile(saveFilePath2, routeStopList);
+    await saveJSONToFile(`./download/kmb/output/routeList_kmb.json`, routeList);
+    await saveJSONToFile(`./download/kmb/output/routeStopList_kmb.json`, routeStopList);
 }
 
 

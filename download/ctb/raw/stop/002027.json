@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:02:26+08:00",
+  "data": {
+    "stop": "002027",
+    "name_tc": "富安花園",
+    "name_en": "Chevalier Garden",
+    "lat": "22.405527372091",
+    "long": "114.22402729053",
+    "name_sc": "富安花园",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

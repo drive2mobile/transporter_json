@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:02:52+08:00",
+  "data": {
+    "stop": "003438",
+    "name_tc": "大道村, 青山公路",
+    "name_en": "Tai Tao Tsuen, Castle Peak Road",
+    "lat": "22.436321802091",
+    "long": "114.00138630053",
+    "name_sc": "大道村, 青山公路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

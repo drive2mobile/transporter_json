@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:01:35+08:00",
+  "data": {
+    "stop": "003576",
+    "name_tc": "觀塘海濱花園, 海濱道",
+    "name_en": "Kwun Tong Promenade, Hoi Bun Road",
+    "lat": "22.315230882091",
+    "long": "114.21450495053",
+    "name_sc": "观塘海滨花园, 海滨道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

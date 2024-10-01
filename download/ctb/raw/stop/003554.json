@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:01:31+08:00",
+  "data": {
+    "stop": "003554",
+    "name_tc": "顯田遊樂場, 車公廟路",
+    "name_en": "Hin Tin Playground, Che Kung Miu Road",
+    "lat": "22.365597312091",
+    "long": "114.17302211053",
+    "name_sc": "显田游乐场, 车公庙路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

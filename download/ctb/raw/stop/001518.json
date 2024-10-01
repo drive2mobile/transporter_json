@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:02:01+08:00",
+  "data": {
+    "stop": "001518",
+    "name_tc": "觀塘游泳池, 鯉魚門道",
+    "name_en": "Kwun Tong Swimming Pool, Lei Yue Mun Road",
+    "lat": "22.310380582091",
+    "long": "114.22952246053",
+    "name_sc": "观塘游泳池, 鲤鱼门道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

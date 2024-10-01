@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:02:24+08:00",
+  "data": {
+    "stop": "001204",
+    "name_tc": "明華大廈 1 座, 阿公岩道",
+    "name_en": "Ming Wah Dai Ha Block 1, A Kung Ngam Road",
+    "lat": "22.275838032091",
+    "long": "114.23108866053",
+    "name_sc": "明华大厦 1 座, 阿公岩道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

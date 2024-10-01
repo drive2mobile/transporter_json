@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:57:04+08:00",
+  "data": {
+    "stop": "002521",
+    "name_tc": "樂活道, 大坑道",
+    "name_en": "Broadwood Road, Tai Hang Road",
+    "lat": "22.268195852091",
+    "long": "114.18994386053",
+    "name_sc": "乐活道, 大坑道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

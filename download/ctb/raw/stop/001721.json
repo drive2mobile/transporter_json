@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:01:01+08:00",
+  "data": {
+    "stop": "001721",
+    "name_tc": "秀茂坪邨秀樂樓, 秀明道",
+    "name_en": "Sau Lok House Sau Mau Ping Estate, Sau Ming Road",
+    "lat": "22.321487362091",
+    "long": "114.23064016053",
+    "name_sc": "秀茂坪邨秀乐楼, 秀明道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

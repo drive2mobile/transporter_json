@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:01:48+08:00",
+  "data": {
+    "stop": "003740",
+    "name_tc": "香港生物科技研究院, 科學園路",
+    "name_en": "Hong Kong Institute of Biotechnology, Science Park Road",
+    "lat": "22.422687672091",
+    "long": "114.21414009053",
+    "name_sc": "香港生物科技研究院, 科学园路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

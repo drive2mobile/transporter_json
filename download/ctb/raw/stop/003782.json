@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:00:44+08:00",
+  "data": {
+    "stop": "003782",
+    "name_tc": "維港1號",
+    "name_en": "One Victoria",
+    "lat": "22.312633752091",
+    "long": "114.20742197053",
+    "name_sc": "维港1号",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

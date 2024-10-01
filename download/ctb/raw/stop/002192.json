@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:01:52+08:00",
+  "data": {
+    "stop": "002192",
+    "name_tc": "舂磡角道 11 號, 舂磡角道",
+    "name_en": "11 Chung Hom Kok Road, Chung Hom Kok Road",
+    "lat": "22.223190412091",
+    "long": "114.20293698053",
+    "name_sc": "舂磡角道 11 号, 舂磡角道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

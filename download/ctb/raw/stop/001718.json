@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:01:03+08:00",
+  "data": {
+    "stop": "001718",
+    "name_tc": "上秀茂坪, 曉光街",
+    "name_en": "Upper Sau Mau Ping, Hiu Kwong Street",
+    "lat": "22.315226752091",
+    "long": "114.23630289053",
+    "name_sc": "上秀茂坪, 晓光街",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

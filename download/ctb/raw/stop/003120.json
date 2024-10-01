@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:02:04+08:00",
+  "data": {
+    "stop": "003120",
+    "name_tc": "美景花園, 青康路",
+    "name_en": "Mayfair Gardens, Ching Hong Road",
+    "lat": "22.344847852091",
+    "long": "114.10773833053",
+    "name_sc": "美景花园, 青康路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

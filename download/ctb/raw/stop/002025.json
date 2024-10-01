@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:01:02+08:00",
+  "data": {
+    "stop": "002025",
+    "name_tc": "廣福邨, 大埔公路",
+    "name_en": "Kwong Fuk Estate, Tai Po Road",
+    "lat": "22.446524302091",
+    "long": "114.17352910053",
+    "name_sc": "广福邨, 大埔公路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:04:02+08:00",
+  "data": {
+    "stop": "002011",
+    "name_tc": "湖景邨湖畔樓, 湖景路",
+    "name_en": "Wu Boon House Wu King Estate, Wu King Road",
+    "lat": "22.374598372091",
+    "long": "113.96566277053",
+    "name_sc": "湖景邨湖畔楼, 湖景路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

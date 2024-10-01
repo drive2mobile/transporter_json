@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:00:21+08:00",
+  "data": {
+    "stop": "001144",
+    "name_tc": "國際金融中心二期, 民耀街",
+    "name_en": "Two International Finance Centre, Man Yiu Street",
+    "lat": "22.285016122091",
+    "long": "114.15994519053",
+    "name_sc": "国际金融中心二期, 民耀街",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

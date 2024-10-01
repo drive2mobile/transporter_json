@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:58:23+08:00",
+  "data": {
+    "stop": "001574",
+    "name_tc": "采頤花園, 太子道東",
+    "name_en": "Rhythm Garden, Prince Edward Road East",
+    "lat": "22.335157442091",
+    "long": "114.20172113053",
+    "name_sc": "采颐花园, 太子道东",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

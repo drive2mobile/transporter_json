@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:03:52+08:00",
+  "data": {
+    "stop": "001887",
+    "name_tc": "海景花園, 青山公路",
+    "name_en": "Seaview Garden, Castle Peak Road",
+    "lat": "22.377714962091",
+    "long": "113.98373810053",
+    "name_sc": "海景花园, 青山公路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

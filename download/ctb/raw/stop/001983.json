@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:03:40+08:00",
+  "data": {
+    "stop": "001983",
+    "name_tc": "葵涌邨秋葵樓, 大窩口道",
+    "name_en": "Chau Kwai House Kwai Chung Estate, Tai Wo Hau Road",
+    "lat": "22.368257472091",
+    "long": "114.13040233053",
+    "name_sc": "葵涌邨秋葵楼, 大窝口道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:59:32+08:00",
+  "data": {
+    "stop": "002747",
+    "name_tc": "克頓道, 旭龢道",
+    "name_en": "Hatton Road, Kotewall Road",
+    "lat": "22.281071912091",
+    "long": "114.14003747053",
+    "name_sc": "克顿道, 旭龢道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

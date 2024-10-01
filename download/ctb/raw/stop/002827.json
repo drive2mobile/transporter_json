@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:57:56+08:00",
+  "data": {
+    "stop": "002827",
+    "name_tc": "白田邨麗田樓, 偉倫街",
+    "name_en": "Lai Tin House Pak Tin Estate, Wai Lun Street",
+    "lat": "22.335019812091",
+    "long": "114.16727682053",
+    "name_sc": "白田邨丽田楼, 伟伦街",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

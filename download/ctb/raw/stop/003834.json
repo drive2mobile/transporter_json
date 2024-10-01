@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:01:43+08:00",
+  "data": {
+    "stop": "003834",
+    "name_tc": "西澳, 西沙路",
+    "name_en": "Sai O, Sai Sha Road",
+    "lat": "22.430695922091",
+    "long": "114.25409589053",
+    "name_sc": "西澳, 西沙路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

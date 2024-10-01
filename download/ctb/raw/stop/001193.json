@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:03:32+08:00",
+  "data": {
+    "stop": "001193",
+    "name_tc": "皇后街, 干諾道西",
+    "name_en": "Queen Street, Connaught Road West",
+    "lat": "22.288404102091",
+    "long": "114.14734488053",
+    "name_sc": "皇后街, 干诺道西",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

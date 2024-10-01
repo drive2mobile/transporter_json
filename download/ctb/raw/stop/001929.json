@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:03:34+08:00",
+  "data": {
+    "stop": "001929",
+    "name_tc": "葵涌廣場, 葵富路",
+    "name_en": "Kwai Chung Plaza, Kwai Foo Road",
+    "lat": "22.358479362091",
+    "long": "114.12776248053",
+    "name_sc": "葵涌广场, 葵富路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:03:21+08:00",
+  "data": {
+    "stop": "002851",
+    "name_tc": "旺角道",
+    "name_en": "Mong Kok Road",
+    "lat": "22.320468972091",
+    "long": "114.16658729053",
+    "name_sc": "旺角道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

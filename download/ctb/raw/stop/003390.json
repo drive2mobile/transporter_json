@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:02:36+08:00",
+  "data": {
+    "stop": "003390",
+    "name_tc": "小瀝源, 小瀝源路",
+    "name_en": "Siu Lek Yuen, Siu Lek Yuen Road",
+    "lat": "22.383178532091",
+    "long": "114.21322253053",
+    "name_sc": "小沥源, 小沥源路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

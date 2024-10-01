@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:59:11+08:00",
+  "data": {
+    "stop": "001477",
+    "name_tc": "德民街",
+    "name_en": "Tak Man Street",
+    "lat": "22.305983982091",
+    "long": "114.18808257053",
+    "name_sc": "德民街",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

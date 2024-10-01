@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:59:25+08:00",
+  "data": {
+    "stop": "001185",
+    "name_tc": "永和街, 干諾道中",
+    "name_en": "Wing Wo Street, Connaught Road Central",
+    "lat": "22.285954582091",
+    "long": "114.15497687053",
+    "name_sc": "永和街, 干诺道中",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

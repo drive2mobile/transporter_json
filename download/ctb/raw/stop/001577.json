@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:57:18+08:00",
+  "data": {
+    "stop": "001577",
+    "name_tc": "富豪東方酒店, 太子道東",
+    "name_en": "Regal Oriental Hotel, Prince Edward Road East",
+    "lat": "22.327146622091",
+    "long": "114.19053280053",
+    "name_sc": "富豪东方酒店, 太子道东",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

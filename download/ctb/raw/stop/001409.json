@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:00:05+08:00",
+  "data": {
+    "stop": "001409",
+    "name_tc": "麗港中心, 茶果嶺道",
+    "name_en": "Laguna Arcade, Cha Kwo Ling Road",
+    "lat": "22.305608802091",
+    "long": "114.22765048053",
+    "name_sc": "丽港中心, 茶果岭道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

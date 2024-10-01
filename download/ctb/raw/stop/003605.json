@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:58:56+08:00",
+  "data": {
+    "stop": "003605",
+    "name_tc": "彩興路",
+    "name_en": "Choi Hing Road",
+    "lat": "22.331222212091",
+    "long": "114.21236533053",
+    "name_sc": "彩兴路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

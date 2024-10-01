@@ -46,8 +46,7 @@ app.get(('/kmb'), async (req, res) =>
     // await new Promise((resolve) => setTimeout(resolve, 5000));
     // await downloadStopListKmb();
 
-    await parseJsonKmb('en');
-    await parseJsonKmb('tc');
+    await parseJsonKmb();
 
     res.send('done');
 })
@@ -58,16 +57,14 @@ app.get(('/ctb'), async (req, res) =>
     // await downloadRouteStops();
     // await downloadStops();
 
-    await parseJsonCtb('en');
-    await parseJsonCtb('tc');
+    await parseJsonCtb();
 
     res.send('done');
 })
 
 app.get(('/kmbctb'), async (req, res) =>
 {
-    await parseJsonKmbCtb('tc');
-    await parseJsonKmbCtb('en');
+    await parseJsonKmbCtb();
 
     // await deleteNonCoop('kmb', 'tc');
     // await deleteNonCoop('kmb', 'en');
@@ -79,10 +76,9 @@ app.get(('/kmbctb'), async (req, res) =>
 
 app.get(('/mtrbus'), async (req, res) =>
 {
-    await downloadRouteStopListMtrBus();
+    // await downloadRouteStopListMtrBus();
 
     await parseJsonMtrBus('tc');
-    await parseJsonMtrBus('en');
 
     res.send('done');
 })

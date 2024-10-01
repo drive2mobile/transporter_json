@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:58:35+08:00",
+  "data": {
+    "stop": "001027",
+    "name_tc": "中環 (港澳碼頭)",
+    "name_en": "Central (Macau Ferry)",
+    "lat": "22.288274152091",
+    "long": "114.15042248053",
+    "name_sc": "中环 (港澳码头)",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

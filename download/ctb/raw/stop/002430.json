@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:58:42+08:00",
+  "data": {
+    "stop": "002430",
+    "name_tc": "盧押道, 軒尼詩道",
+    "name_en": "Luard Road, Hennessy Road",
+    "lat": "22.277681222091",
+    "long": "114.17099800053",
+    "name_sc": "卢押道, 轩尼诗道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

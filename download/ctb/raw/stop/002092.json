@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:03:03+08:00",
+  "data": {
+    "stop": "002092",
+    "name_tc": "影業路, 清水灣道",
+    "name_en": "Ying Yip Road, Clear Water Bay Road",
+    "lat": "22.323993792091",
+    "long": "114.26848834053",
+    "name_sc": "影业路, 清水湾道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

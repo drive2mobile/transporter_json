@@ -1,0 +1,352 @@
+[
+  {
+    "company": "mtrbus",
+    "id": "mtrbus_K12_O",
+    "route": "K12",
+    "dir": "O",
+    "from_tc": "大埔墟站",
+    "from_en": "Tai Po Market Station",
+    "to_tc": "八號花園",
+    "to_en": "Eightland Garden"
+  },
+  {
+    "company": "mtrbus",
+    "id": "mtrbus_K12_I",
+    "route": "K12",
+    "dir": "I",
+    "from_tc": "八號花園",
+    "from_en": "Eightland Garden",
+    "to_tc": "大埔墟站",
+    "to_en": "Tai Po Market Station"
+  },
+  {
+    "company": "mtrbus",
+    "id": "mtrbus_K14_O",
+    "route": "K14",
+    "dir": "O",
+    "from_tc": "大埔超級城",
+    "from_en": "Tai Po Mega Mall",
+    "to_tc": "大埔墟站",
+    "to_en": "Tai Po Market Station"
+  },
+  {
+    "company": "mtrbus",
+    "id": "mtrbus_K17_O",
+    "route": "K17",
+    "dir": "O",
+    "from_tc": "大埔墟站",
+    "from_en": "Tai Po Market Station",
+    "to_tc": "富善",
+    "to_en": "Fu Shin"
+  },
+  {
+    "company": "mtrbus",
+    "id": "mtrbus_K17_I",
+    "route": "K17",
+    "dir": "I",
+    "from_tc": "富善",
+    "from_en": "Fu Shin",
+    "to_tc": "大埔墟站",
+    "to_en": "Tai Po Market Station"
+  },
+  {
+    "company": "mtrbus",
+    "id": "mtrbus_K18_O",
+    "route": "K18",
+    "dir": "O",
+    "from_tc": "大埔墟站",
+    "from_en": "Tai Po Market Station",
+    "to_tc": "廣福",
+    "to_en": "Kwong Fuk"
+  },
+  {
+    "company": "mtrbus",
+    "id": "mtrbus_K18_I",
+    "route": "K18",
+    "dir": "I",
+    "from_tc": "廣福",
+    "from_en": "Kwong Fuk",
+    "to_tc": "大埔墟站",
+    "to_en": "Tai Po Market Station"
+  },
+  {
+    "company": "mtrbus",
+    "id": "mtrbus_506_O",
+    "route": "506",
+    "dir": "O",
+    "from_tc": "屯門碼頭",
+    "from_en": "Tuen Mun Ferry Pier",
+    "to_tc": "兆麟",
+    "to_en": "Siu Lun"
+  },
+  {
+    "company": "mtrbus",
+    "id": "mtrbus_506_I",
+    "route": "506",
+    "dir": "I",
+    "from_tc": "兆麟",
+    "from_en": "Siu Lun",
+    "to_tc": "屯門碼頭",
+    "to_en": "Tuen Mun Ferry Pier"
+  },
+  {
+    "company": "mtrbus",
+    "id": "mtrbus_K51_O",
+    "route": "K51",
+    "dir": "O",
+    "from_tc": "富泰",
+    "from_en": "Fu Tai",
+    "to_tc": "大欖",
+    "to_en": "Tai Lam"
+  },
+  {
+    "company": "mtrbus",
+    "id": "mtrbus_K51_I",
+    "route": "K51",
+    "dir": "I",
+    "from_tc": "大欖",
+    "from_en": "Tai Lam",
+    "to_tc": "富泰",
+    "to_en": "Fu Tai"
+  },
+  {
+    "company": "mtrbus",
+    "id": "mtrbus_K51A_O",
+    "route": "K51A",
+    "dir": "O",
+    "from_tc": "富泰",
+    "from_en": "Fu Tai",
+    "to_tc": "掃管笏村",
+    "to_en": "So Kwun Wat Tsuen"
+  },
+  {
+    "company": "mtrbus",
+    "id": "mtrbus_K51A_I",
+    "route": "K51A",
+    "dir": "I",
+    "from_tc": "掃管笏村",
+    "from_en": "So Kwun Wat Tsuen",
+    "to_tc": "富泰",
+    "to_en": "Fu Tai"
+  },
+  {
+    "company": "mtrbus",
+    "id": "mtrbus_K52_O",
+    "route": "K52",
+    "dir": "O",
+    "from_tc": "悅湖山莊",
+    "from_en": "Yuet Wu Villa",
+    "to_tc": "龍鼓灘",
+    "to_en": "Lung Kwu Tan"
+  },
+  {
+    "company": "mtrbus",
+    "id": "mtrbus_K52_I",
+    "route": "K52",
+    "dir": "I",
+    "from_tc": "龍鼓灘",
+    "from_en": "Lung Kwu Tan",
+    "to_tc": "悅湖山莊",
+    "to_en": "Yuet Wu Villa"
+  },
+  {
+    "company": "mtrbus",
+    "id": "mtrbus_K52A_O",
+    "route": "K52A",
+    "dir": "O",
+    "from_tc": "屯門站 (輕鐵屯門站)",
+    "from_en": "Tuen Mun Station (LR Tuen Mun Stop)",
+    "to_tc": "曾咀 (曾咀靈灰安置所)",
+    "to_en": "Tsang Tsui (Tsang Tsui Columbarium)"
+  },
+  {
+    "company": "mtrbus",
+    "id": "mtrbus_K52A_I",
+    "route": "K52A",
+    "dir": "I",
+    "from_tc": "曾咀 (曾咀靈灰安置所)",
+    "from_en": "Tsang Tsui (Tsang Tsui Columbarium)",
+    "to_tc": "屯門站 (輕鐵屯門站)",
+    "to_en": "Tuen Mun Station (LR Tuen Mun Stop)"
+  },
+  {
+    "company": "mtrbus",
+    "id": "mtrbus_K53_O",
+    "route": "K53",
+    "dir": "O",
+    "from_tc": "屯門站 (輕鐵屯門站)",
+    "from_en": "Tuen Mun Station (LR Tuen Mun Stop)",
+    "to_tc": "屯門站 (輕鐵屯門站)",
+    "to_en": "Tuen Mun Station (LR Tuen Mun Stop)"
+  },
+  {
+    "company": "mtrbus",
+    "id": "mtrbus_K54_O",
+    "route": "K54",
+    "dir": "O",
+    "from_tc": "和田邨",
+    "from_en": "Wo Tin Estate",
+    "to_tc": "和田邨",
+    "to_en": "Wo Tin Estate"
+  },
+  {
+    "company": "mtrbus",
+    "id": "mtrbus_K58_O",
+    "route": "K58",
+    "dir": "O",
+    "from_tc": "富泰",
+    "from_en": "Fu Tai",
+    "to_tc": "青山灣",
+    "to_en": "Castle Peak Bay"
+  },
+  {
+    "company": "mtrbus",
+    "id": "mtrbus_K58_I",
+    "route": "K58",
+    "dir": "I",
+    "from_tc": "青山灣",
+    "from_en": "Castle Peak Bay",
+    "to_tc": "富泰",
+    "to_en": "Fu Tai"
+  },
+  {
+    "company": "mtrbus",
+    "id": "mtrbus_K65_O",
+    "route": "K65",
+    "dir": "O",
+    "from_tc": "元朗站 (輕鐵元朗站) (港鐵元朗站)",
+    "from_en": "Yuen Long Station (LR Yuen Long Stop) (MTR Yuen Long Station)",
+    "to_tc": "流浮山",
+    "to_en": "Lau Fau Shan"
+  },
+  {
+    "company": "mtrbus",
+    "id": "mtrbus_K65_I",
+    "route": "K65",
+    "dir": "I",
+    "from_tc": "流浮山",
+    "from_en": "Lau Fau Shan",
+    "to_tc": "元朗站 (輕鐵元朗站, 港鐵元朗站)",
+    "to_en": "Yuen Long Station (LR Yuen Long Stop, MTR Yuen Long Station)"
+  },
+  {
+    "company": "mtrbus",
+    "id": "mtrbus_K65A_O",
+    "route": "K65A",
+    "dir": "O",
+    "from_tc": "天水圍站 (輕鐵天水圍站)",
+    "from_en": "Tin Shui Wai Station (LR Tin Shui Wai Stop)",
+    "to_tc": "流浮山",
+    "to_en": "Lau Fau Shan"
+  },
+  {
+    "company": "mtrbus",
+    "id": "mtrbus_K65A_I",
+    "route": "K65A",
+    "dir": "I",
+    "from_tc": "流浮山",
+    "from_en": "Lau Fau Shan",
+    "to_tc": "天水圍站 (輕鐵天水圍站)",
+    "to_en": "Tin Shui Wai Station (LR Tin Shui Wai Stop)"
+  },
+  {
+    "company": "mtrbus",
+    "id": "mtrbus_K66_O",
+    "route": "K66",
+    "dir": "O",
+    "from_tc": "朗屏",
+    "from_en": "Long Ping",
+    "to_tc": "大棠黃泥墩村",
+    "to_en": "Tai Tong Wong Nai Tun Tsuen"
+  },
+  {
+    "company": "mtrbus",
+    "id": "mtrbus_K66_I",
+    "route": "K66",
+    "dir": "I",
+    "from_tc": "大棠黃泥墩村",
+    "from_en": "Tai Tong Wong Nai Tun Tsuen",
+    "to_tc": "朗屏",
+    "to_en": "Long Ping"
+  },
+  {
+    "company": "mtrbus",
+    "id": "mtrbus_K68_O",
+    "route": "K68",
+    "dir": "O",
+    "from_tc": "元朗工業邨",
+    "from_en": "Yuen Long Industrial Estate",
+    "to_tc": "元朗工業邨",
+    "to_en": "Yuen Long Industrial Estate"
+  },
+  {
+    "company": "mtrbus",
+    "id": "mtrbus_K73_O",
+    "route": "K73",
+    "dir": "O",
+    "from_tc": "天恆",
+    "from_en": "Tin Heng",
+    "to_tc": "元朗西 (輕鐵豐年路站)",
+    "to_en": "Yuen Long West (LR Fung Nin Road Stop)"
+  },
+  {
+    "company": "mtrbus",
+    "id": "mtrbus_K73_I",
+    "route": "K73",
+    "dir": "I",
+    "from_tc": "元朗西 (輕鐵豐年路站)",
+    "from_en": "Yuen Long West (LR Fung Nin Road Stop)",
+    "to_tc": "天恆",
+    "to_en": "Tin Heng"
+  },
+  {
+    "company": "mtrbus",
+    "id": "mtrbus_K74_O",
+    "route": "K74",
+    "dir": "O",
+    "from_tc": "天水圍市中心",
+    "from_en": "Tin Shui Wai Town Centre",
+    "to_tc": "天水圍市中心",
+    "to_en": "Tin Shui Wai Town Centre"
+  },
+  {
+    "company": "mtrbus",
+    "id": "mtrbus_K75A_O",
+    "route": "K75A",
+    "dir": "O",
+    "from_tc": "天水圍站 (輕鐵天水圍站)",
+    "from_en": "Tin Shui Wai Station (LR Tin Shui Wai Stop)",
+    "to_tc": "天水圍站 (輕鐵天水圍站)",
+    "to_en": "Tin Shui Wai Station (LR Tin Shui Wai Stop)"
+  },
+  {
+    "company": "mtrbus",
+    "id": "mtrbus_K75P_O",
+    "route": "K75P",
+    "dir": "O",
+    "from_tc": "天瑞",
+    "from_en": "Tin Shui",
+    "to_tc": "天瑞",
+    "to_en": "Tin Shui"
+  },
+  {
+    "company": "mtrbus",
+    "id": "mtrbus_K76_O",
+    "route": "K76",
+    "dir": "O",
+    "from_tc": "天恆",
+    "from_en": "Tin Heng",
+    "to_tc": "天水圍站 (港鐵天水圍站)",
+    "to_en": "Tin Shui Wai Station (MTR Tin Shui Wai Station)"
+  },
+  {
+    "company": "mtrbus",
+    "id": "mtrbus_K76_I",
+    "route": "K76",
+    "dir": "I",
+    "from_tc": "天水圍站 (港鐵天水圍站)",
+    "from_en": "Tin Shui Wai Station (MTR Tin Shui Wai Station)",
+    "to_tc": "天恆",
+    "to_en": "Tin Heng"
+  }
+]

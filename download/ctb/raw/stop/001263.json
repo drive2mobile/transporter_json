@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:01:05+08:00",
+  "data": {
+    "stop": "001263",
+    "name_tc": "新光戲院, 英皇道",
+    "name_en": "Sunbeam Theatre, King's Road",
+    "lat": "22.291180532091",
+    "long": "114.19990139053",
+    "name_sc": "新光戏院, 英皇道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

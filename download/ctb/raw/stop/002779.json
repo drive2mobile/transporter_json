@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:59:52+08:00",
+  "data": {
+    "stop": "002779",
+    "name_tc": "銀幕街",
+    "name_en": "Ngan Mok Street",
+    "lat": "22.283913092091",
+    "long": "114.19220922053",
+    "name_sc": "银幕街",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

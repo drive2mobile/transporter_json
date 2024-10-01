@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:01:16+08:00",
+  "data": {
+    "stop": "001108",
+    "name_tc": "中環 (林士街)",
+    "name_en": "Central (Rumsey Street)",
+    "lat": "22.286725242091",
+    "long": "114.15443116053",
+    "name_sc": "中环 (林士街)",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

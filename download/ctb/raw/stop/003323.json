@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:03:30+08:00",
+  "data": {
+    "stop": "003323",
+    "name_tc": "大埔墟街市, 運頭街",
+    "name_en": "Tai Po Hui Market, Wan Tau Street",
+    "lat": "22.445828402091",
+    "long": "114.16698044053",
+    "name_sc": "大埔墟街市, 运头街",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

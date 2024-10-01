@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:59:27+08:00",
+  "data": {
+    "stop": "001042",
+    "name_tc": "蘭桂坊, 德己立街",
+    "name_en": "Lan Kwai Fong, D'Aguilar Street",
+    "lat": "22.281516532091",
+    "long": "114.15613926053",
+    "name_sc": "兰桂坊, 德己立街",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

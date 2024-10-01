@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:02:44+08:00",
+  "data": {
+    "stop": "002855",
+    "name_tc": "南昌邨, 欽州街西",
+    "name_en": "Nam Cheong Estate, Yen Chow Street West",
+    "lat": "22.327227382091",
+    "long": "114.15680422053",
+    "name_sc": "南昌邨, 钦州街西",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

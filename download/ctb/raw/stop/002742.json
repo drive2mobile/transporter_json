@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:59:49+08:00",
+  "data": {
+    "stop": "002742",
+    "name_tc": "樂古道, 荷李活道",
+    "name_en": "Lok Ku Road, Hollywood Road",
+    "lat": "22.285430502091",
+    "long": "114.14861368053",
+    "name_sc": "乐古道, 荷李活道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

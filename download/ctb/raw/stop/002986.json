@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:58:15+08:00",
+  "data": {
+    "stop": "002986",
+    "name_tc": "浙江街, 土瓜灣道",
+    "name_en": "Chi Kiang Street, To Kwa Wan Road",
+    "lat": "22.316112382091",
+    "long": "114.18932158053",
+    "name_sc": "浙江街, 土瓜湾道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

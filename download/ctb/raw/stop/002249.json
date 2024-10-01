@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:01:38+08:00",
+  "data": {
+    "stop": "002249",
+    "name_tc": "曼克頓大廈, 淺水灣道",
+    "name_en": "Manhattan Tower, Repulse Bay Road",
+    "lat": "22.240702802091",
+    "long": "114.18913196053",
+    "name_sc": "曼克顿大厦, 浅水湾道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

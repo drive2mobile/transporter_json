@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:03:27+08:00",
+  "data": {
+    "stop": "003494",
+    "name_tc": "安達邨仁達樓, 安秀道",
+    "name_en": "Yan Tat House On Tat Estate, On Sau Road",
+    "lat": "22.318880012091",
+    "long": "114.23614059053",
+    "name_sc": "安达邨仁达楼, 安秀道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

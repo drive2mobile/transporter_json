@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:03:13+08:00",
+  "data": {
+    "stop": "003429",
+    "name_tc": "厚德里, 黃泥涌道",
+    "name_en": "Hau Tak Lane, Wong Nai Chung Road",
+    "lat": "22.274193892091",
+    "long": "114.17924997053",
+    "name_sc": "厚德里, 黄泥涌道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

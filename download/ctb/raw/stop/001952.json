@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:00:05+08:00",
+  "data": {
+    "stop": "001952",
+    "name_tc": "沙角邨, 沙角街",
+    "name_en": "Sha Kok Estate, Sha Kok Street",
+    "lat": "22.377280142091",
+    "long": "114.19482595053",
+    "name_sc": "沙角邨, 沙角街",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

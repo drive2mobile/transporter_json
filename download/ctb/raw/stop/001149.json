@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:54:26+08:00",
+  "data": {
+    "stop": "001149",
+    "name_tc": "高主教書院, 羅便臣道",
+    "name_en": "Raimondi College, Robinson Road",
+    "lat": "22.278541232091",
+    "long": "114.15324279053",
+    "name_sc": "高主教书院, 罗便臣道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:01:22+08:00",
+  "data": {
+    "stop": "002576",
+    "name_tc": "碧海藍天, 深旺道",
+    "name_en": "AquaMarine, Sham Mong Road",
+    "lat": "22.332234742091",
+    "long": "114.14806728053",
+    "name_sc": "碧海蓝天, 深旺道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

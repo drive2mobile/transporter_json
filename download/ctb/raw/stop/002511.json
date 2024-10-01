@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:58:38+08:00",
+  "data": {
+    "stop": "002511",
+    "name_tc": "柏園, 大坑徑",
+    "name_en": "Park Garden, Tai Hang Drive",
+    "lat": "22.273616632091",
+    "long": "114.19302436053",
+    "name_sc": "柏园, 大坑径",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

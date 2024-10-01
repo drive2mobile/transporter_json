@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:01:37+08:00",
+  "data": {
+    "stop": "003596",
+    "name_tc": "旺角中心, 西洋菜南街",
+    "name_en": "Argyle Centre, Sai Yeung Choi Street South",
+    "lat": "22.319879402091",
+    "long": "114.16989981053",
+    "name_sc": "旺角中心, 西洋菜南街",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

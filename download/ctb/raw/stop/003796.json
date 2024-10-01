@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:04:19+08:00",
+  "data": {
+    "stop": "003796",
+    "name_tc": "紅磡站, 暢運道",
+    "name_en": "Hung Hom Station, Cheong Wan Road",
+    "lat": "22.304443302091",
+    "long": "114.18222671053",
+    "name_sc": "红磡站, 畅运道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

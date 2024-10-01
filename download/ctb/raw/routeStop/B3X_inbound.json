@@ -1,0 +1,39 @@
+{
+  "type": "RouteStop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:54:52+08:00",
+  "data": [
+    {
+      "co": "CTB",
+      "route": "B3X",
+      "dir": "I",
+      "seq": 1,
+      "stop": "003208",
+      "data_timestamp": "2024-09-29T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "B3X",
+      "dir": "I",
+      "seq": 2,
+      "stop": "003193",
+      "data_timestamp": "2024-09-29T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "B3X",
+      "dir": "I",
+      "seq": 3,
+      "stop": "002601",
+      "data_timestamp": "2024-09-29T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "B3X",
+      "dir": "I",
+      "seq": 4,
+      "stop": "003198",
+      "data_timestamp": "2024-09-29T05:00:04+08:00"
+    }
+  ]
+}

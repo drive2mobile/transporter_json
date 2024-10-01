@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:01:25+08:00",
+  "data": {
+    "stop": "003533",
+    "name_tc": "雅翔道",
+    "name_en": "Nga Cheung Road",
+    "lat": "22.303575762091",
+    "long": "114.15977876053",
+    "name_sc": "雅翔道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

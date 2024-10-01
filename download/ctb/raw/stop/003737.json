@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:01:47+08:00",
+  "data": {
+    "stop": "003737",
+    "name_tc": "嘉熙, 創新路",
+    "name_en": "Solaria, Chong San Road",
+    "lat": "22.428620892091",
+    "long": "114.20494004053",
+    "name_sc": "嘉熙, 创新路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

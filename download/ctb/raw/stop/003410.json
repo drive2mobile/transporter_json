@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:01:06+08:00",
+  "data": {
+    "stop": "003410",
+    "name_tc": "太和邨, 大埔太和路",
+    "name_en": "Tai Wo Estate, Tai Po Tai Wo Road",
+    "lat": "22.452141162091",
+    "long": "114.16315156053",
+    "name_sc": "太和邨, 大埔太和路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

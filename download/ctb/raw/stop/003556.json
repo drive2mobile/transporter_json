@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:01:31+08:00",
+  "data": {
+    "stop": "003556",
+    "name_tc": "海福花園, 美田路",
+    "name_en": "Holford Garden, Mei Tin Road",
+    "lat": "22.373435542091",
+    "long": "114.17697175053",
+    "name_sc": "海福花园, 美田路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

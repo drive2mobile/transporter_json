@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:59:19+08:00",
+  "data": {
+    "stop": "001512",
+    "name_tc": "北河街, 荔枝角道",
+    "name_en": "Pei Ho Street, Lai Chi Kok Road",
+    "lat": "22.328665332091",
+    "long": "114.16052393053",
+    "name_sc": "北河街, 荔枝角道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

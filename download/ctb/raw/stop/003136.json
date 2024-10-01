@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:01:22+08:00",
+  "data": {
+    "stop": "003136",
+    "name_tc": "李鄭屋邨禮讓樓, 廣利道",
+    "name_en": "Lai Yeung House Lei Cheng Uk Estate, Kwong Lee Road",
+    "lat": "22.339858442091",
+    "long": "114.15973985053",
+    "name_sc": "李郑屋邨礼让楼, 广利道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:00:39+08:00",
+  "data": {
+    "stop": "003080",
+    "name_tc": "小瀝源路草地滾球場, 小瀝源路",
+    "name_en": "Siu Lek Yuen Road Bowling Greens, Siu Lek Yuen Road",
+    "lat": "22.388647162091",
+    "long": "114.20369146053",
+    "name_sc": "小沥源路草地滚球场, 小沥源路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

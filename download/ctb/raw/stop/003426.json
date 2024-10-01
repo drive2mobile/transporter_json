@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:02:33+08:00",
+  "data": {
+    "stop": "003426",
+    "name_tc": "博康邨博泰樓, 水泉坳街",
+    "name_en": "Pok Tai House Pok Hong Estate, Shui Chuen Au Street",
+    "lat": "22.376910362091",
+    "long": "114.19617862053",
+    "name_sc": "博康邨博泰楼, 水泉坳街",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

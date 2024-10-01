@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:57:09+08:00",
+  "data": {
+    "stop": "002488",
+    "name_tc": "聯發街, 皇后大道東",
+    "name_en": "Lun Fat Street, Queen's Road East",
+    "lat": "22.276100292091",
+    "long": "114.17002156053",
+    "name_sc": "联发街, 皇后大道东",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

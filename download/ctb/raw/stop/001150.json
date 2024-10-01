@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:54:26+08:00",
+  "data": {
+    "stop": "001150",
+    "name_tc": "花園台, 羅便臣道",
+    "name_en": "Garden Terrace, Robinson Road",
+    "lat": "22.276011452091",
+    "long": "114.15489341053",
+    "name_sc": "花园台, 罗便臣道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

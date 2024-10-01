@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T13:58:47+08:00",
+  "data": {
+    "stop": "001335",
+    "name_tc": "銅鑼灣避風塘, 維園道",
+    "name_en": "Causeway Bay Typhoon Shelter, Victoria Park Road",
+    "lat": "22.284074312091",
+    "long": "114.18628546053",
+    "name_sc": "铜锣湾避风塘, 维园道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

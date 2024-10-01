@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:02:53+08:00",
+  "data": {
+    "stop": "002102",
+    "name_tc": "白沙臺, 西貢公路",
+    "name_en": "Habitat, Hiram's Highway",
+    "lat": "22.368431802091",
+    "long": "114.25985543053",
+    "name_sc": "白沙台, 西贡公路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

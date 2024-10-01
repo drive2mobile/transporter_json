@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:03:29+08:00",
+  "data": {
+    "stop": "002858",
+    "name_tc": "洋松街休憩公園, 大角咀道",
+    "name_en": "Larch Street Sitting Out Area, Tai Kok Tsui Road",
+    "lat": "22.323637052091",
+    "long": "114.16198069053",
+    "name_sc": "洋松街休憩公园, 大角咀道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

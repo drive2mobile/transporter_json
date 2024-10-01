@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:00:53+08:00",
+  "data": {
+    "stop": "002200",
+    "name_tc": "香島小築, 香島道",
+    "name_en": "Island Club, Island Road",
+    "lat": "22.237696722091",
+    "long": "114.18950240053",
+    "name_sc": "香岛小筑, 香岛道",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}

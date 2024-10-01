@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-09-29T14:03:39+08:00",
+  "data": {
+    "stop": "001938",
+    "name_tc": "新屯門中心, 龍門路",
+    "name_en": "Sun Tuen Mun Centre, Lung Mun Road",
+    "lat": "22.382207632091",
+    "long": "113.96361226053",
+    "name_sc": "新屯门中心, 龙门路",
+    "data_timestamp": "2024-09-29T05:00:03+08:00"
+  }
+}
