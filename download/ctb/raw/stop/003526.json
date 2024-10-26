@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-09-29T14:00:42+08:00",
+  "generated_timestamp": "2024-10-26T19:55:20+08:00",
   "data": {
     "stop": "003526",
     "name_tc": "多實街",
@@ -9,6 +9,6 @@
     "lat": "22.338919462091",
     "long": "114.17762036053",
     "name_sc": "多实街",
-    "data_timestamp": "2024-09-29T05:00:03+08:00"
+    "data_timestamp": "2024-10-26T05:00:03+08:00"
   }
 }

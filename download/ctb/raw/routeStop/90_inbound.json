@@ -1,7 +1,7 @@
 {
   "type": "RouteStop",
   "version": "2.0",
-  "generated_timestamp": "2024-09-29T13:52:36+08:00",
+  "generated_timestamp": "2024-10-26T19:42:57+08:00",
   "data": [
     {
       "co": "CTB",
@@ -9,7 +9,7 @@
       "dir": "I",
       "seq": 1,
       "stop": "001032",
-      "data_timestamp": "2024-09-29T05:00:04+08:00"
+      "data_timestamp": "2024-10-26T05:00:04+08:00"
     },
     {
       "co": "CTB",
@@ -17,15 +17,15 @@
       "dir": "I",
       "seq": 2,
       "stop": "001031",
-      "data_timestamp": "2024-09-29T05:00:04+08:00"
+      "data_timestamp": "2024-10-26T05:00:04+08:00"
     },
     {
       "co": "CTB",
       "route": "90",
       "dir": "I",
       "seq": 3,
-      "stop": "003844",
-      "data_timestamp": "2024-09-29T05:00:04+08:00"
+      "stop": "001138",
+      "data_timestamp": "2024-10-26T05:00:04+08:00"
     },
     {
       "co": "CTB",
@@ -33,7 +33,7 @@
       "dir": "I",
       "seq": 4,
       "stop": "002427",
-      "data_timestamp": "2024-09-29T05:00:04+08:00"
+      "data_timestamp": "2024-10-26T05:00:04+08:00"
     },
     {
       "co": "CTB",
@@ -41,7 +41,7 @@
       "dir": "I",
       "seq": 5,
       "stop": "002451",
-      "data_timestamp": "2024-09-29T05:00:04+08:00"
+      "data_timestamp": "2024-10-26T05:00:04+08:00"
     },
     {
       "co": "CTB",
@@ -49,7 +49,7 @@
       "dir": "I",
       "seq": 6,
       "stop": "002538",
-      "data_timestamp": "2024-09-29T05:00:04+08:00"
+      "data_timestamp": "2024-10-26T05:00:04+08:00"
     },
     {
       "co": "CTB",
@@ -57,7 +57,7 @@
       "dir": "I",
       "seq": 7,
       "stop": "002540",
-      "data_timestamp": "2024-09-29T05:00:04+08:00"
+      "data_timestamp": "2024-10-26T05:00:04+08:00"
     },
     {
       "co": "CTB",
@@ -65,7 +65,7 @@
       "dir": "I",
       "seq": 8,
       "stop": "002470",
-      "data_timestamp": "2024-09-29T05:00:04+08:00"
+      "data_timestamp": "2024-10-26T05:00:04+08:00"
     },
     {
       "co": "CTB",
@@ -73,7 +73,7 @@
       "dir": "I",
       "seq": 9,
       "stop": "002348",
-      "data_timestamp": "2024-09-29T05:00:04+08:00"
+      "data_timestamp": "2024-10-26T05:00:04+08:00"
     },
     {
       "co": "CTB",
@@ -81,7 +81,7 @@
       "dir": "I",
       "seq": 10,
       "stop": "002355",
-      "data_timestamp": "2024-09-29T05:00:04+08:00"
+      "data_timestamp": "2024-10-26T05:00:04+08:00"
     },
     {
       "co": "CTB",
@@ -89,7 +89,7 @@
       "dir": "I",
       "seq": 11,
       "stop": "002356",
-      "data_timestamp": "2024-09-29T05:00:04+08:00"
+      "data_timestamp": "2024-10-26T05:00:04+08:00"
     },
     {
       "co": "CTB",
@@ -97,31 +97,55 @@
       "dir": "I",
       "seq": 12,
       "stop": "002358",
-      "data_timestamp": "2024-09-29T05:00:04+08:00"
+      "data_timestamp": "2024-10-26T05:00:04+08:00"
     },
     {
       "co": "CTB",
       "route": "90",
       "dir": "I",
       "seq": 13,
-      "stop": "002167",
-      "data_timestamp": "2024-09-29T05:00:04+08:00"
+      "stop": "002213",
+      "data_timestamp": "2024-10-26T05:00:04+08:00"
     },
     {
       "co": "CTB",
       "route": "90",
       "dir": "I",
       "seq": 14,
-      "stop": "002168",
-      "data_timestamp": "2024-09-29T05:00:04+08:00"
+      "stop": "002210",
+      "data_timestamp": "2024-10-26T05:00:04+08:00"
     },
     {
       "co": "CTB",
       "route": "90",
       "dir": "I",
       "seq": 15,
+      "stop": "002211",
+      "data_timestamp": "2024-10-26T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "90",
+      "dir": "I",
+      "seq": 16,
+      "stop": "002167",
+      "data_timestamp": "2024-10-26T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "90",
+      "dir": "I",
+      "seq": 17,
+      "stop": "002168",
+      "data_timestamp": "2024-10-26T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "90",
+      "dir": "I",
+      "seq": 18,
       "stop": "002166",
-      "data_timestamp": "2024-09-29T05:00:04+08:00"
+      "data_timestamp": "2024-10-26T05:00:04+08:00"
     }
   ]
 }

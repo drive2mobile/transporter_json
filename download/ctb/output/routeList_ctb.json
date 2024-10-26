@@ -3,18 +3,18 @@
     "id": "ctb_1_I",
     "company": "ctb",
     "route": "1",
-    "from_tc": "摩星嶺",
-    "from_en": "Felix Villas",
-    "to_tc": "跑馬地 (上)",
-    "to_en": "Happy Valley (Upper)",
+    "from_tc": "跑馬地 (上)",
+    "from_en": "Happy Valley (Upper)",
+    "to_tc": "中環 (港澳碼頭)",
+    "to_en": "Central (Macau Ferry)",
     "dir": "I"
   },
   {
     "id": "ctb_1_O",
     "company": "ctb",
     "route": "1",
-    "from_tc": "摩星嶺",
-    "from_en": "Felix Villas",
+    "from_tc": "中環 (港澳碼頭)",
+    "from_en": "Central (Macau Ferry)",
     "to_tc": "跑馬地 (上)",
     "to_en": "Happy Valley (Upper)",
     "dir": "O"
@@ -23,10 +23,10 @@
     "id": "ctb_10_I",
     "company": "ctb",
     "route": "10",
-    "from_tc": "堅尼地城",
-    "from_en": "Kennedy Town",
-    "to_tc": "北角碼頭",
-    "to_en": "North Point Ferry Pier",
+    "from_tc": "北角碼頭",
+    "from_en": "North Point Ferry Pier",
+    "to_tc": "堅尼地城",
+    "to_en": "Kennedy Town",
     "dir": "I"
   },
   {
@@ -43,10 +43,10 @@
     "id": "kmbctb_101_I",
     "company": "kmbctb",
     "route": "101",
-    "from_tc": "堅尼地城",
-    "from_en": "Kennedy Town",
-    "to_tc": "觀塘 (裕民坊)",
-    "to_en": "Kwun Tong (Yue Man Square)",
+    "from_tc": "觀塘 (裕民坊)",
+    "from_en": "Kwun Tong (Yue Man Square)",
+    "to_tc": "堅尼地城",
+    "to_en": "Kennedy Town",
     "dir": "I"
   },
   {
@@ -73,10 +73,10 @@
     "id": "kmbctb_101X_I",
     "company": "kmbctb",
     "route": "101X",
-    "from_tc": "堅尼地城",
-    "from_en": "Kennedy Town",
-    "to_tc": "觀塘 (裕民坊)",
-    "to_en": "Kwun Tong (Yue Man Square)",
+    "from_tc": "觀塘 (裕民坊)",
+    "from_en": "Kwun Tong (Yue Man Square)",
+    "to_tc": "堅尼地城",
+    "to_en": "Kennedy Town",
     "dir": "I"
   },
   {
@@ -93,10 +93,10 @@
     "id": "kmbctb_102_I",
     "company": "kmbctb",
     "route": "102",
-    "from_tc": "筲箕灣",
-    "from_en": "Shau Kei Wan",
-    "to_tc": "美孚",
-    "to_en": "Mei Foo",
+    "from_tc": "美孚",
+    "from_en": "Mei Foo",
+    "to_tc": "筲箕灣",
+    "to_en": "Shau Kei Wan",
     "dir": "I"
   },
   {
@@ -113,10 +113,10 @@
     "id": "kmbctb_102P_I",
     "company": "kmbctb",
     "route": "102P",
-    "from_tc": "筲箕灣",
-    "from_en": "Shau Kei Wan",
-    "to_tc": "美孚",
-    "to_en": "Mei Foo",
+    "from_tc": "美孚",
+    "from_en": "Mei Foo",
+    "to_tc": "筲箕灣",
+    "to_en": "Shau Kei Wan",
     "dir": "I"
   },
   {
@@ -143,10 +143,10 @@
     "id": "kmbctb_103_I",
     "company": "kmbctb",
     "route": "103",
-    "from_tc": "蒲飛路",
-    "from_en": "Pokfield Road",
-    "to_tc": "竹園",
-    "to_en": "Chuk Yuen",
+    "from_tc": "竹園",
+    "from_en": "Chuk Yuen",
+    "to_tc": "蒲飛路",
+    "to_en": "Pokfield Road",
     "dir": "I"
   },
   {
@@ -163,10 +163,10 @@
     "id": "kmbctb_104_I",
     "company": "kmbctb",
     "route": "104",
-    "from_tc": "堅尼地城／中環",
-    "from_en": "Kennedy Town / Central",
-    "to_tc": "白田邨",
-    "to_en": "Pak Tin Estate",
+    "from_tc": "白田邨",
+    "from_en": "Pak Tin Estate",
+    "to_tc": "堅尼地城／中環",
+    "to_en": "Kennedy Town / Central",
     "dir": "I"
   },
   {
@@ -183,10 +183,10 @@
     "id": "kmbctb_106_I",
     "company": "kmbctb",
     "route": "106",
-    "from_tc": "小西灣 (藍灣半島)",
-    "from_en": "Siu Sai Wan (Island Resort)",
-    "to_tc": "黃大仙",
-    "to_en": "Wong Tai Sin",
+    "from_tc": "黃大仙",
+    "from_en": "Wong Tai Sin",
+    "to_tc": "小西灣 (藍灣半島)",
+    "to_en": "Siu Sai Wan (Island Resort)",
     "dir": "I"
   },
   {
@@ -213,10 +213,10 @@
     "id": "kmbctb_106P_I",
     "company": "kmbctb",
     "route": "106P",
-    "from_tc": "小西灣 (藍灣半島)",
-    "from_en": "Siu Sai Wan (Island Resort)",
-    "to_tc": "黃大仙",
-    "to_en": "Wong Tai Sin",
+    "from_tc": "黃大仙",
+    "from_en": "Wong Tai Sin",
+    "to_tc": "小西灣 (藍灣半島)",
+    "to_en": "Siu Sai Wan (Island Resort)",
     "dir": "I"
   },
   {
@@ -233,10 +233,10 @@
     "id": "kmbctb_107_I",
     "company": "kmbctb",
     "route": "107",
-    "from_tc": "華貴邨",
-    "from_en": "Wah Kwai Estate",
-    "to_tc": "九龍灣",
-    "to_en": "Kowloon Bay",
+    "from_tc": "九龍灣",
+    "from_en": "Kowloon Bay",
+    "to_tc": "華貴邨",
+    "to_en": "Wah Kwai Estate",
     "dir": "I"
   },
   {
@@ -253,10 +253,10 @@
     "id": "kmbctb_107P_I",
     "company": "kmbctb",
     "route": "107P",
-    "from_tc": "紅磡 (海逸豪園)",
-    "from_en": "Hung Hom (Laguna Verde)",
-    "to_tc": "數碼港",
-    "to_en": "Cyberport",
+    "from_tc": "數碼港",
+    "from_en": "Cyberport",
+    "to_tc": "紅磡 (海逸豪園)",
+    "to_en": "Hung Hom (Laguna Verde)",
     "dir": "I"
   },
   {
@@ -273,10 +273,10 @@
     "id": "kmbctb_109_I",
     "company": "kmbctb",
     "route": "109",
-    "from_tc": "中環 (港澳碼頭)",
-    "from_en": "Central (Macau Ferry)",
-    "to_tc": "何文田邨",
-    "to_en": "Ho Man Tin Estate",
+    "from_tc": "何文田邨",
+    "from_en": "Ho Man Tin Estate",
+    "to_tc": "中環 (港澳碼頭)",
+    "to_en": "Central (Macau Ferry)",
     "dir": "I"
   },
   {
@@ -293,10 +293,10 @@
     "id": "ctb_11_I",
     "company": "ctb",
     "route": "11",
-    "from_tc": "中環碼頭",
-    "from_en": "Central (Ferry Piers)",
-    "to_tc": "渣甸山",
-    "to_en": "Jardine's Lookout",
+    "from_tc": "渣甸山",
+    "from_en": "Jardine's Lookout",
+    "to_tc": "中環碼頭",
+    "to_en": "Central (Ferry Piers)",
     "dir": "I"
   },
   {
@@ -313,10 +313,10 @@
     "id": "kmbctb_110_I",
     "company": "kmbctb",
     "route": "110",
-    "from_tc": "筲箕灣",
-    "from_en": "Shau Kei Wan",
-    "to_tc": "尖沙咀 (麼地道)",
-    "to_en": "Tsim Sha Tsui (Mody Road)",
+    "from_tc": "尖沙咀 (麼地道)",
+    "from_en": "Tsim Sha Tsui (Mody Road)",
+    "to_tc": "筲箕灣",
+    "to_en": "Shau Kei Wan",
     "dir": "I"
   },
   {
@@ -333,10 +333,10 @@
     "id": "kmbctb_111_I",
     "company": "kmbctb",
     "route": "111",
-    "from_tc": "中環 (港澳碼頭)",
-    "from_en": "Central (Macau Ferry)",
-    "to_tc": "坪石邨",
-    "to_en": "Ping Shek Estate",
+    "from_tc": "坪石邨",
+    "from_en": "Ping Shek Estate",
+    "to_tc": "中環 (港澳碼頭)",
+    "to_en": "Central (Macau Ferry)",
     "dir": "I"
   },
   {
@@ -353,10 +353,10 @@
     "id": "kmbctb_111P_I",
     "company": "kmbctb",
     "route": "111P",
-    "from_tc": "彩福邨",
-    "from_en": "Choi Fook Estate",
-    "to_tc": "中環 (港澳碼頭)",
-    "to_en": "Central (Macau Ferry)",
+    "from_tc": "中環 (港澳碼頭)",
+    "from_en": "Central (Macau Ferry)",
+    "to_tc": "彩福邨",
+    "to_en": "Choi Fook Estate",
     "dir": "I"
   },
   {
@@ -373,10 +373,10 @@
     "id": "kmbctb_112_I",
     "company": "kmbctb",
     "route": "112",
-    "from_tc": "北角 (百福道)",
-    "from_en": "North Point (Pak Fuk Road)",
-    "to_tc": "蘇屋邨",
-    "to_en": "So Uk Estate",
+    "from_tc": "蘇屋邨",
+    "from_en": "So Uk Estate",
+    "to_tc": "北角 (百福道)",
+    "to_en": "North Point (Pak Fuk Road)",
     "dir": "I"
   },
   {
@@ -393,10 +393,10 @@
     "id": "kmbctb_113_I",
     "company": "kmbctb",
     "route": "113",
-    "from_tc": "堅尼地城 (卑路乍灣)",
-    "from_en": "Kennedy Town (Belcher Bay)",
-    "to_tc": "彩虹",
-    "to_en": "Choi Hung",
+    "from_tc": "彩虹",
+    "from_en": "Choi Hung",
+    "to_tc": "堅尼地城 (卑路乍灣)",
+    "to_en": "Kennedy Town (Belcher Bay)",
     "dir": "I"
   },
   {
@@ -413,10 +413,10 @@
     "id": "kmbctb_115_I",
     "company": "kmbctb",
     "route": "115",
-    "from_tc": "中環 (港澳碼頭)",
-    "from_en": "Central (Macau Ferry)",
-    "to_tc": "九龍城碼頭",
-    "to_en": "Kowloon City Ferry Pier",
+    "from_tc": "九龍城碼頭",
+    "from_en": "Kowloon City Ferry Pier",
+    "to_tc": "中環 (港澳碼頭)",
+    "to_en": "Central (Macau Ferry)",
     "dir": "I"
   },
   {
@@ -443,10 +443,10 @@
     "id": "kmbctb_116_I",
     "company": "kmbctb",
     "route": "116",
-    "from_tc": "鰂魚涌 (祐民街)",
-    "from_en": "Quarry Bay (Yau Man Street)",
-    "to_tc": "慈雲山 (中)",
-    "to_en": "Tsz Wan Shan (Central)",
+    "from_tc": "慈雲山 (中)",
+    "from_en": "Tsz Wan Shan (Central)",
+    "to_tc": "鰂魚涌 (祐民街)",
+    "to_en": "Quarry Bay (Yau Man Street)",
     "dir": "I"
   },
   {
@@ -463,10 +463,10 @@
     "id": "kmbctb_117_I",
     "company": "kmbctb",
     "route": "117",
-    "from_tc": "跑馬地 (下)",
-    "from_en": "Happy Valley (Lower)",
-    "to_tc": "深水埗 (欽州街)",
-    "to_en": "Sham Shui Po (Yen Chow Street)",
+    "from_tc": "深水埗 (欽州街)",
+    "from_en": "Sham Shui Po (Yen Chow Street)",
+    "to_tc": "跑馬地 (下)",
+    "to_en": "Happy Valley (Lower)",
     "dir": "I"
   },
   {
@@ -483,10 +483,10 @@
     "id": "kmbctb_118_I",
     "company": "kmbctb",
     "route": "118",
-    "from_tc": "小西灣 (藍灣半島)",
-    "from_en": "Siu Sai Wan (Island Resort)",
-    "to_tc": "長沙灣 (深旺道)",
-    "to_en": "Cheung Sha Wan (Sham Mong Road)",
+    "from_tc": "長沙灣 (深旺道)",
+    "from_en": "Cheung Sha Wan (Sham Mong Road)",
+    "to_tc": "小西灣 (藍灣半島)",
+    "to_en": "Siu Sai Wan (Island Resort)",
     "dir": "I"
   },
   {
@@ -503,10 +503,10 @@
     "id": "kmbctb_118P_I",
     "company": "kmbctb",
     "route": "118P",
-    "from_tc": "小西灣 (藍灣半島)",
-    "from_en": "Siu Sai Wan (Island Resort)",
-    "to_tc": "長沙灣 (深旺道)",
-    "to_en": "Cheung Sha Wan (Sham Mong Road)",
+    "from_tc": "長沙灣 (深旺道)",
+    "from_en": "Cheung Sha Wan (Sham Mong Road)",
+    "to_tc": "小西灣 (藍灣半島)",
+    "to_en": "Siu Sai Wan (Island Resort)",
     "dir": "I"
   },
   {
@@ -523,10 +523,10 @@
     "id": "ctb_12_I",
     "company": "ctb",
     "route": "12",
-    "from_tc": "中環3號碼頭",
-    "from_en": "Central Pier 3",
-    "to_tc": "羅便臣道／柏道",
-    "to_en": "Robinson Road / Park Road",
+    "from_tc": "羅便臣道／柏道",
+    "from_en": "Robinson Road / Park Road",
+    "to_tc": "中環3號碼頭",
+    "to_en": "Central Pier 3",
     "dir": "I"
   },
   {
@@ -563,10 +563,10 @@
     "id": "ctb_13_I",
     "company": "ctb",
     "route": "13",
-    "from_tc": "金鐘 (添馬街)",
-    "from_en": "Admiralty (Tamar Street)",
-    "to_tc": "旭龢道 (半山區)",
-    "to_en": "Kotewall Road (Mid-levels)",
+    "from_tc": "旭龢道 (半山區)",
+    "from_en": "Kotewall Road (Mid-levels)",
+    "to_tc": "金鐘 (添馬街)",
+    "to_en": "Admiralty (Tamar Street)",
     "dir": "I"
   },
   {
@@ -583,10 +583,10 @@
     "id": "ctb_14_I",
     "company": "ctb",
     "route": "14",
-    "from_tc": "嘉亨灣",
-    "from_en": "Grand Promenade",
-    "to_tc": "赤柱炮台 (閘口)／馬坑",
-    "to_en": "Stanley Fort (Gate) / Ma Hang",
+    "from_tc": "赤柱炮台 (閘口)／馬坑",
+    "from_en": "Stanley Fort (Gate) / Ma Hang",
+    "to_tc": "嘉亨灣",
+    "to_en": "Grand Promenade",
     "dir": "I"
   },
   {
@@ -603,10 +603,10 @@
     "id": "ctb_15_I",
     "company": "ctb",
     "route": "15",
-    "from_tc": "中環",
-    "from_en": "Central",
-    "to_tc": "山頂",
-    "to_en": "The Peak",
+    "from_tc": "山頂",
+    "from_en": "The Peak",
+    "to_tc": "中環",
+    "to_en": "Central",
     "dir": "I"
   },
   {
@@ -623,30 +623,20 @@
     "id": "ctb_15B_I",
     "company": "ctb",
     "route": "15B",
-    "from_tc": "灣仔 (會展新翼)",
-    "from_en": "Wan Chai (HKCEC Extension)",
-    "to_tc": "山頂",
-    "to_en": "The Peak",
+    "from_tc": "山頂",
+    "from_en": "The Peak",
+    "to_tc": "灣仔 (會展新翼)",
+    "to_en": "Wan Chai (HKCEC Extension)",
     "dir": "I"
-  },
-  {
-    "id": "ctb_15B_O",
-    "company": "ctb",
-    "route": "15B",
-    "from_tc": "灣仔 (會展新翼)",
-    "from_en": "Wan Chai (HKCEC Extension)",
-    "to_tc": "山頂",
-    "to_en": "The Peak",
-    "dir": "O"
   },
   {
     "id": "ctb_15C_I",
     "company": "ctb",
     "route": "15C",
-    "from_tc": "中環 (天星碼頭)",
-    "from_en": "Central (Star Ferry)",
-    "to_tc": "花園道 (山頂纜車總站)",
-    "to_en": "Garden Road (Lower Peak Tram Station)",
+    "from_tc": "花園道 (山頂纜車總站)",
+    "from_en": "Garden Road (Lower Peak Tram Station)",
+    "to_tc": "中環 (天星碼頭)",
+    "to_en": "Central (Star Ferry)",
     "dir": "I"
   },
   {
@@ -663,10 +653,10 @@
     "id": "kmbctb_170_I",
     "company": "kmbctb",
     "route": "170",
-    "from_tc": "華富 (中)",
-    "from_en": "Wah Fu (Central)",
-    "to_tc": "沙田站",
-    "to_en": "Sha Tin Station",
+    "from_tc": "沙田站",
+    "from_en": "Sha Tin Station",
+    "to_tc": "華富 (中)",
+    "to_en": "Wah Fu (Central)",
     "dir": "I"
   },
   {
@@ -683,10 +673,10 @@
     "id": "kmbctb_171_I",
     "company": "kmbctb",
     "route": "171",
-    "from_tc": "海怡半島",
-    "from_en": "South Horizons",
-    "to_tc": "荔枝角",
-    "to_en": "Lai Chi Kok",
+    "from_tc": "荔枝角",
+    "from_en": "Lai Chi Kok",
+    "to_tc": "海怡半島",
+    "to_en": "South Horizons",
     "dir": "I"
   },
   {
@@ -723,10 +713,10 @@
     "id": "ctb_18_I",
     "company": "ctb",
     "route": "18",
-    "from_tc": "北角 (健康中街)",
-    "from_en": "North Point (Healthy Street Central)",
-    "to_tc": "堅尼地城 (卑路乍灣)／上環",
-    "to_en": "Kennedy Town (Belcher Bay) / Sheung Wan",
+    "from_tc": "堅尼地城 (卑路乍灣)／上環",
+    "from_en": "Kennedy Town (Belcher Bay) / Sheung Wan",
+    "to_tc": "北角 (健康中街)",
+    "to_en": "North Point (Healthy Street Central)",
     "dir": "I"
   },
   {
@@ -743,10 +733,10 @@
     "id": "kmbctb_182_I",
     "company": "kmbctb",
     "route": "182",
-    "from_tc": "中環 (港澳碼頭)",
-    "from_en": "Central (Macau Ferry)",
-    "to_tc": "沙田 (愉翠苑)",
-    "to_en": "Sha Tin (Yu Chui Court)",
+    "from_tc": "沙田 (愉翠苑)",
+    "from_en": "Sha Tin (Yu Chui Court)",
+    "to_tc": "中環 (港澳碼頭)",
+    "to_en": "Central (Macau Ferry)",
     "dir": "I"
   },
   {
@@ -773,10 +763,10 @@
     "id": "ctb_18P_I",
     "company": "ctb",
     "route": "18P",
-    "from_tc": "堅尼地城 (卑路乍灣)",
-    "from_en": "Kennedy Town (Belcher Bay)",
-    "to_tc": "北角 (健康中街)",
-    "to_en": "North Point (Healthy Street Central)",
+    "from_tc": "北角 (健康中街)",
+    "from_en": "North Point (Healthy Street Central)",
+    "to_tc": "堅尼地城 (卑路乍灣)",
+    "to_en": "Kennedy Town (Belcher Bay)",
     "dir": "I"
   },
   {
@@ -793,10 +783,10 @@
     "id": "ctb_18X_I",
     "company": "ctb",
     "route": "18X",
-    "from_tc": "筲箕灣",
-    "from_en": "Shau Kei Wan",
-    "to_tc": "堅尼地城 (卑路乍灣)",
-    "to_en": "Kennedy Town (Belcher Bay)",
+    "from_tc": "堅尼地城 (卑路乍灣)",
+    "from_en": "Kennedy Town (Belcher Bay)",
+    "to_tc": "筲箕灣",
+    "to_en": "Shau Kei Wan",
     "dir": "I"
   },
   {
@@ -823,10 +813,10 @@
     "id": "ctb_1M_I",
     "company": "ctb",
     "route": "1M",
-    "from_tc": "會展站",
-    "from_en": "Exhibition Centre Station",
-    "to_tc": "跑馬地／黃泥涌峽",
-    "to_en": "Happy Valley / Wong Nai Chung Gap",
+    "from_tc": "跑馬地／黃泥涌峽",
+    "from_en": "Happy Valley / Wong Nai Chung Gap",
+    "to_tc": "會展站",
+    "to_en": "Exhibition Centre Station",
     "dir": "I"
   },
   {
@@ -843,20 +833,20 @@
     "id": "ctb_1P_I",
     "company": "ctb",
     "route": "1P",
-    "from_tc": "黃泥涌道 (樂活道)",
-    "from_en": "Wong Nai Chung Road (Broadwood Road)",
-    "to_tc": "中環",
-    "to_en": "Central",
+    "from_tc": "中環",
+    "from_en": "Central",
+    "to_tc": "黃泥涌道 (樂活道)",
+    "to_en": "Wong Nai Chung Road (Broadwood Road)",
     "dir": "I"
   },
   {
     "id": "ctb_2_I",
     "company": "ctb",
     "route": "2",
-    "from_tc": "嘉亨灣",
-    "from_en": "Grand Promenade",
-    "to_tc": "中環 (港澳碼頭)",
-    "to_en": "Central (Macau Ferry)",
+    "from_tc": "中環 (港澳碼頭)",
+    "from_en": "Central (Macau Ferry)",
+    "to_tc": "嘉亨灣",
+    "to_en": "Grand Promenade",
     "dir": "I"
   },
   {
@@ -873,10 +863,10 @@
     "id": "ctb_20_I",
     "company": "ctb",
     "route": "20",
-    "from_tc": "啟德 (沐安街)",
-    "from_en": "Kai Tak (Muk On Street)",
-    "to_tc": "長沙灣 (海達)",
-    "to_en": "Cheung Sha Wan (Hoi Tat)",
+    "from_tc": "長沙灣 (海達)",
+    "from_en": "Cheung Sha Wan (Hoi Tat)",
+    "to_tc": "啟德 (沐安街)",
+    "to_en": "Kai Tak (Muk On Street)",
     "dir": "I"
   },
   {
@@ -893,10 +883,10 @@
     "id": "ctb_20A_I",
     "company": "ctb",
     "route": "20A",
-    "from_tc": "啟德郵輪碼頭 (經:旺角)",
-    "from_en": "Kai Tak Cruise Terminal (via: Mong Kok)",
-    "to_tc": "高鐵西九龍站 (經:旺角)",
-    "to_en": "High Speed Rail West Kowloon Station (via: Mong Kok)",
+    "from_tc": "高鐵西九龍站 (經:旺角)",
+    "from_en": "High Speed Rail West Kowloon Station (via: Mong Kok)",
+    "to_tc": "啟德郵輪碼頭 (經:旺角)",
+    "to_en": "Kai Tak Cruise Terminal (via: Mong Kok)",
     "dir": "I"
   },
   {
@@ -913,10 +903,10 @@
     "id": "ctb_20R_I",
     "company": "ctb",
     "route": "20R",
-    "from_tc": "啟德郵輪碼頭",
-    "from_en": "Kai Tak Cruise Terminal",
-    "to_tc": "尖沙咀",
-    "to_en": "Tsim Sha Tsui",
+    "from_tc": "尖沙咀",
+    "from_en": "Tsim Sha Tsui",
+    "to_tc": "啟德郵輪碼頭",
+    "to_en": "Kai Tak Cruise Terminal",
     "dir": "I"
   },
   {
@@ -933,10 +923,10 @@
     "id": "ctb_22_I",
     "company": "ctb",
     "route": "22",
-    "from_tc": "啟德郵輪碼頭",
-    "from_en": "Kai Tak Cruise Terminal",
-    "to_tc": "九龍塘 (又一城)",
-    "to_en": "Kowloon Tong (Festival Walk)",
+    "from_tc": "九龍塘 (又一城)",
+    "from_en": "Kowloon Tong (Festival Walk)",
+    "to_tc": "啟德郵輪碼頭",
+    "to_en": "Kai Tak Cruise Terminal",
     "dir": "I"
   },
   {
@@ -953,10 +943,10 @@
     "id": "ctb_22D_I",
     "company": "ctb",
     "route": "22D",
-    "from_tc": "啟德站",
-    "from_en": "Kai Tak Station",
-    "to_tc": "啟德跑道區",
-    "to_en": "Kai Tak Runway Area",
+    "from_tc": "啟德跑道區",
+    "from_en": "Kai Tak Runway Area",
+    "to_tc": "啟德站",
+    "to_en": "Kai Tak Station",
     "dir": "I"
   },
   {
@@ -973,10 +963,10 @@
     "id": "ctb_22M_I",
     "company": "ctb",
     "route": "22M",
-    "from_tc": "啟德郵輪碼頭",
-    "from_en": "Kai Tak Cruise Terminal",
-    "to_tc": "土瓜灣",
-    "to_en": "To Kwa Wan",
+    "from_tc": "土瓜灣",
+    "from_en": "To Kwa Wan",
+    "to_tc": "啟德郵輪碼頭",
+    "to_en": "Kai Tak Cruise Terminal",
     "dir": "I"
   },
   {
@@ -993,10 +983,10 @@
     "id": "ctb_22R_I",
     "company": "ctb",
     "route": "22R",
-    "from_tc": "啟德站",
-    "from_en": "Kai Tak Station",
-    "to_tc": "啟德郵輪碼頭",
-    "to_en": "Kai Tak Cruise Terminal",
+    "from_tc": "啟德郵輪碼頭",
+    "from_en": "Kai Tak Cruise Terminal",
+    "to_tc": "啟德站",
+    "to_en": "Kai Tak Station",
     "dir": "I"
   },
   {
@@ -1013,10 +1003,10 @@
     "id": "ctb_22X_I",
     "company": "ctb",
     "route": "22X",
-    "from_tc": "維港1號",
-    "from_en": "One Victoria",
-    "to_tc": "啟德站",
-    "to_en": "Kai Tak Station",
+    "from_tc": "啟德站",
+    "from_en": "Kai Tak Station",
+    "to_tc": "維港1號",
+    "to_en": "One Victoria",
     "dir": "I"
   },
   {
@@ -1033,10 +1023,10 @@
     "id": "ctb_23_I",
     "company": "ctb",
     "route": "23",
-    "from_tc": "北角碼頭",
-    "from_en": "North Point Ferry Pier",
-    "to_tc": "蒲飛路",
-    "to_en": "Pokfield Road",
+    "from_tc": "蒲飛路",
+    "from_en": "Pokfield Road",
+    "to_tc": "北角碼頭",
+    "to_en": "North Point Ferry Pier",
     "dir": "I"
   },
   {
@@ -1053,10 +1043,10 @@
     "id": "ctb_23B_I",
     "company": "ctb",
     "route": "23B",
-    "from_tc": "寶馬山",
-    "from_en": "Braemar Hill",
-    "to_tc": "柏道／羅便臣道",
-    "to_en": "Park Road / Robinson Road",
+    "from_tc": "柏道／羅便臣道",
+    "from_en": "Park Road / Robinson Road",
+    "to_tc": "寶馬山",
+    "to_en": "Braemar Hill",
     "dir": "I"
   },
   {
@@ -1083,10 +1073,10 @@
     "id": "ctb_25_I",
     "company": "ctb",
     "route": "25",
-    "from_tc": "中環 (3 / 5 號碼頭)",
-    "from_en": "Central (Pier 3/5)",
-    "to_tc": "寶馬山",
-    "to_en": "Braemar Hill",
+    "from_tc": "寶馬山",
+    "from_en": "Braemar Hill",
+    "to_tc": "中環 (3 / 5 號碼頭)",
+    "to_en": "Central (Pier 3/5)",
     "dir": "I"
   },
   {
@@ -1103,10 +1093,10 @@
     "id": "ctb_25A_I",
     "company": "ctb",
     "route": "25A",
-    "from_tc": "會展站",
-    "from_en": "Exhibition Centre Station",
-    "to_tc": "寶馬山",
-    "to_en": "Braemar Hill",
+    "from_tc": "寶馬山",
+    "from_en": "Braemar Hill",
+    "to_tc": "會展站",
+    "to_en": "Exhibition Centre Station",
     "dir": "I"
   },
   {
@@ -1123,10 +1113,10 @@
     "id": "ctb_26_I",
     "company": "ctb",
     "route": "26",
-    "from_tc": "勵德邨",
-    "from_en": "Lai Tak Tsuen",
-    "to_tc": "荷李活道",
-    "to_en": "Hollywood Road",
+    "from_tc": "荷李活道",
+    "from_en": "Hollywood Road",
+    "to_tc": "勵德邨",
+    "to_en": "Lai Tak Tsuen",
     "dir": "I"
   },
   {
@@ -1143,10 +1133,10 @@
     "id": "ctb_260_I",
     "company": "ctb",
     "route": "260",
-    "from_tc": "中環 (交易廣場)",
-    "from_en": "Central (Exchange Square)",
-    "to_tc": "赤柱市場",
-    "to_en": "Stanley Market",
+    "from_tc": "赤柱市場",
+    "from_en": "Stanley Market",
+    "to_tc": "中環 (交易廣場)",
+    "to_en": "Central (Exchange Square)",
     "dir": "I"
   },
   {
@@ -1163,10 +1153,10 @@
     "id": "ctb_27_I",
     "company": "ctb",
     "route": "27",
-    "from_tc": "北角碼頭",
-    "from_en": "North Point Ferry Pier",
-    "to_tc": "寶馬山",
-    "to_en": "Braemar Hill",
+    "from_tc": "寶馬山",
+    "from_en": "Braemar Hill",
+    "to_tc": "北角碼頭",
+    "to_en": "North Point Ferry Pier",
     "dir": "I"
   },
   {
@@ -1183,10 +1173,10 @@
     "id": "ctb_2A_I",
     "company": "ctb",
     "route": "2A",
-    "from_tc": "耀東邨",
-    "from_en": "Yiu Tung Estate",
-    "to_tc": "會展站",
-    "to_en": "Exhibition Centre Station",
+    "from_tc": "會展站",
+    "from_en": "Exhibition Centre Station",
+    "to_tc": "耀東邨",
+    "to_en": "Yiu Tung Estate",
     "dir": "I"
   },
   {
@@ -1203,10 +1193,10 @@
     "id": "ctb_2X_I",
     "company": "ctb",
     "route": "2X",
-    "from_tc": "嘉亨灣",
-    "from_en": "Grand Promenade",
-    "to_tc": "會展站",
-    "to_en": "Exhibition Centre Station",
+    "from_tc": "會展站",
+    "from_en": "Exhibition Centre Station",
+    "to_tc": "嘉亨灣",
+    "to_en": "Grand Promenade",
     "dir": "I"
   },
   {
@@ -1243,10 +1233,10 @@
     "id": "kmbctb_307_I",
     "company": "kmbctb",
     "route": "307",
-    "from_tc": "大埔中心",
-    "from_en": "Tai Po Centre",
-    "to_tc": "中環碼頭／上環",
-    "to_en": "Central (Ferry Piers) / Sheung Wan",
+    "from_tc": "中環碼頭／上環",
+    "from_en": "Central (Ferry Piers) / Sheung Wan",
+    "to_tc": "大埔中心",
+    "to_en": "Tai Po Centre",
     "dir": "I"
   },
   {
@@ -1273,10 +1263,10 @@
     "id": "kmbctb_307P_I",
     "company": "kmbctb",
     "route": "307P",
-    "from_tc": "天后站",
-    "from_en": "Tin Hau Station",
-    "to_tc": "大埔 (汀太路/ 富蝶)",
-    "to_en": "Tai Po (Ting Tai Road/ Fu Tip)",
+    "from_tc": "大埔 (汀太路/ 富蝶)",
+    "from_en": "Tai Po (Ting Tai Road/ Fu Tip)",
+    "to_tc": "天后站",
+    "to_en": "Tin Hau Station",
     "dir": "I"
   },
   {
@@ -1293,10 +1283,10 @@
     "id": "ctb_30X_I",
     "company": "ctb",
     "route": "30X",
-    "from_tc": "數碼港",
-    "from_en": "Cyberport",
-    "to_tc": "金鐘(東)",
-    "to_en": "Admiralty (East)",
+    "from_tc": "金鐘(東)",
+    "from_en": "Admiralty (East)",
+    "to_tc": "數碼港",
+    "to_en": "Cyberport",
     "dir": "I"
   },
   {
@@ -1310,33 +1300,13 @@
     "dir": "O"
   },
   {
-    "id": "ctb_314_I",
-    "company": "ctb",
-    "route": "314",
-    "from_tc": "小西灣 (藍灣半島)",
-    "from_en": "Siu Sai Wan (Island Resort)",
-    "to_tc": "赤柱 (海灘／市場)",
-    "to_en": "Stanley (Beach / Market)",
-    "dir": "I"
-  },
-  {
-    "id": "ctb_314_O",
-    "company": "ctb",
-    "route": "314",
-    "from_tc": "小西灣 (藍灣半島)",
-    "from_en": "Siu Sai Wan (Island Resort)",
-    "to_tc": "赤柱 (海灘／市場)",
-    "to_en": "Stanley (Beach / Market)",
-    "dir": "O"
-  },
-  {
     "id": "ctb_33X_I",
     "company": "ctb",
     "route": "33X",
-    "from_tc": "數碼港",
-    "from_en": "Cyberport",
-    "to_tc": "西灣河",
-    "to_en": "Sai Wan Ho",
+    "from_tc": "西灣河",
+    "from_en": "Sai Wan Ho",
+    "to_tc": "數碼港",
+    "to_en": "Cyberport",
     "dir": "I"
   },
   {
@@ -1347,26 +1317,6 @@
     "from_en": "Cyberport",
     "to_tc": "西灣河",
     "to_en": "Sai Wan Ho",
-    "dir": "O"
-  },
-  {
-    "id": "ctb_347_I",
-    "company": "ctb",
-    "route": "347",
-    "from_tc": "金鐘 (西)",
-    "from_en": "Admiralty (West)",
-    "to_tc": "香港仔 (經域多利道)",
-    "to_en": "Aberdeen (via Victoria Road)",
-    "dir": "I"
-  },
-  {
-    "id": "ctb_347_O",
-    "company": "ctb",
-    "route": "347",
-    "from_tc": "金鐘 (西)",
-    "from_en": "Admiralty (West)",
-    "to_tc": "香港仔 (經域多利道)",
-    "to_en": "Aberdeen (via Victoria Road)",
     "dir": "O"
   },
   {
@@ -1403,10 +1353,10 @@
     "id": "ctb_38_I",
     "company": "ctb",
     "route": "38",
-    "from_tc": "置富花園",
-    "from_en": "Chi Fu Fa Yuen",
-    "to_tc": "北角碼頭",
-    "to_en": "North Point Ferry Pier",
+    "from_tc": "北角碼頭",
+    "from_en": "North Point Ferry Pier",
+    "to_tc": "置富花園",
+    "to_en": "Chi Fu Fa Yuen",
     "dir": "I"
   },
   {
@@ -1443,10 +1393,10 @@
     "id": "ctb_3A_I",
     "company": "ctb",
     "route": "3A",
-    "from_tc": "中環 (天星碼頭)",
-    "from_en": "Central (Star Ferry)",
-    "to_tc": "摩星嶺",
-    "to_en": "Felix Villas",
+    "from_tc": "摩星嶺",
+    "from_en": "Felix Villas",
+    "to_tc": "中環 (天星碼頭)",
+    "to_en": "Central (Star Ferry)",
     "dir": "I"
   },
   {
@@ -1463,10 +1413,10 @@
     "id": "ctb_4_I",
     "company": "ctb",
     "route": "4",
-    "from_tc": "黃竹坑／華富 (南)",
-    "from_en": "Wong Chuk Hang / Wah Fu (South)",
-    "to_tc": "中環",
-    "to_en": "Central",
+    "from_tc": "中環",
+    "from_en": "Central",
+    "to_tc": "黃竹坑／華富 (南)",
+    "to_en": "Wong Chuk Hang / Wah Fu (South)",
     "dir": "I"
   },
   {
@@ -1483,10 +1433,10 @@
     "id": "ctb_40_I",
     "company": "ctb",
     "route": "40",
-    "from_tc": "華富 (北)",
-    "from_en": "Wah Fu (North)",
-    "to_tc": "會展站",
-    "to_en": "Exhibition Centre Station",
+    "from_tc": "會展站",
+    "from_en": "Exhibition Centre Station",
+    "to_tc": "華富 (北)",
+    "to_en": "Wah Fu (North)",
     "dir": "I"
   },
   {
@@ -1523,10 +1473,10 @@
     "id": "ctb_41A_I",
     "company": "ctb",
     "route": "41A",
-    "from_tc": "華富 (中)",
-    "from_en": "Wah Fu (Central)",
-    "to_tc": "北角碼頭",
-    "to_en": "North Point Ferry Pier",
+    "from_tc": "北角碼頭",
+    "from_en": "North Point Ferry Pier",
+    "to_tc": "華富 (中)",
+    "to_en": "Wah Fu (Central)",
     "dir": "I"
   },
   {
@@ -1543,10 +1493,10 @@
     "id": "ctb_42_I",
     "company": "ctb",
     "route": "42",
-    "from_tc": "華富 (南)",
-    "from_en": "Wah Fu (South)",
-    "to_tc": "北角碼頭",
-    "to_en": "North Point Ferry Pier",
+    "from_tc": "北角碼頭",
+    "from_en": "North Point Ferry Pier",
+    "to_tc": "華富 (南)",
+    "to_en": "Wah Fu (South)",
     "dir": "I"
   },
   {
@@ -1563,10 +1513,10 @@
     "id": "ctb_42C_I",
     "company": "ctb",
     "route": "42C",
-    "from_tc": "數碼港",
-    "from_en": "Cyberport",
-    "to_tc": "北角碼頭",
-    "to_en": "North Point Ferry Pier",
+    "from_tc": "北角碼頭",
+    "from_en": "North Point Ferry Pier",
+    "to_tc": "數碼港",
+    "to_en": "Cyberport",
     "dir": "I"
   },
   {
@@ -1583,10 +1533,10 @@
     "id": "ctb_43M_I",
     "company": "ctb",
     "route": "43M",
-    "from_tc": "田灣",
-    "from_en": "Tin Wan",
-    "to_tc": "石塘咀",
-    "to_en": "Shek Tong Tsui",
+    "from_tc": "石塘咀",
+    "from_en": "Shek Tong Tsui",
+    "to_tc": "田灣",
+    "to_en": "Tin Wan",
     "dir": "I"
   },
   {
@@ -1613,10 +1563,10 @@
     "id": "ctb_48_I",
     "company": "ctb",
     "route": "48",
-    "from_tc": "深灣／海洋公園",
-    "from_en": "Sham Wan / Ocean Park",
-    "to_tc": "華富 (北)",
-    "to_en": "Wah Fu (North)",
+    "from_tc": "華富 (北)",
+    "from_en": "Wah Fu (North)",
+    "to_tc": "深灣／海洋公園",
+    "to_en": "Sham Wan / Ocean Park",
     "dir": "I"
   },
   {
@@ -1643,10 +1593,10 @@
     "id": "ctb_4X_I",
     "company": "ctb",
     "route": "4X",
-    "from_tc": "華富 (南)",
-    "from_en": "Wah Fu (South)",
-    "to_tc": "中環 (交易廣場)",
-    "to_en": "Central (Exchange Square)",
+    "from_tc": "中環 (交易廣場)",
+    "from_en": "Central (Exchange Square)",
+    "to_tc": "華富 (南)",
+    "to_en": "Wah Fu (South)",
     "dir": "I"
   },
   {
@@ -1663,10 +1613,10 @@
     "id": "ctb_50_I",
     "company": "ctb",
     "route": "50",
-    "from_tc": "屯門 (菁田及和田)",
-    "from_en": "Tuen Mun (Ching Tin and Wo Tin)",
-    "to_tc": "尖沙咀 (九龍站)",
-    "to_en": "Tsim Sha Tsui (Kowloon Station)",
+    "from_tc": "尖沙咀 (九龍站)",
+    "from_en": "Tsim Sha Tsui (Kowloon Station)",
+    "to_tc": "屯門 (菁田及和田)",
+    "to_en": "Tuen Mun (Ching Tin and Wo Tin)",
     "dir": "I"
   },
   {
@@ -1683,10 +1633,10 @@
     "id": "ctb_50M_I",
     "company": "ctb",
     "route": "50M",
-    "from_tc": "和田邨",
-    "from_en": "Wo Tin Estate",
-    "to_tc": "屯門站",
-    "to_en": "Tuen Mun Station",
+    "from_tc": "屯門站",
+    "from_en": "Tuen Mun Station",
+    "to_tc": "和田邨",
+    "to_en": "Wo Tin Estate",
     "dir": "I"
   },
   {
@@ -1723,10 +1673,10 @@
     "id": "ctb_55_I",
     "company": "ctb",
     "route": "55",
-    "from_tc": "屯門 (菁田及和田)",
-    "from_en": "Tuen Mun (Ching Tin and Wo Tin)",
-    "to_tc": "觀塘碼頭",
-    "to_en": "Kwun Tong Ferry Pier",
+    "from_tc": "觀塘碼頭",
+    "from_en": "Kwun Tong Ferry Pier",
+    "to_tc": "屯門 (菁田及和田)",
+    "to_en": "Tuen Mun (Ching Tin and Wo Tin)",
     "dir": "I"
   },
   {
@@ -1743,10 +1693,10 @@
     "id": "ctb_56_I",
     "company": "ctb",
     "route": "56",
-    "from_tc": "屯門 (和田及菁田)",
-    "from_en": "Tuen Mun (Wo Tin and Ching Tin)",
-    "to_tc": "上水 (天平邨)",
-    "to_en": "Sheung Shui (Tin Ping Estate)",
+    "from_tc": "上水 (天平邨)",
+    "from_en": "Sheung Shui (Tin Ping Estate)",
+    "to_tc": "屯門 (和田及菁田)",
+    "to_en": "Tuen Mun (Wo Tin and Ching Tin)",
     "dir": "I"
   },
   {
@@ -1763,10 +1713,10 @@
     "id": "ctb_56A_I",
     "company": "ctb",
     "route": "56A",
-    "from_tc": "屯門 (和田及菁田)",
-    "from_en": "Tuen Mun (Wo Tin and Ching Tin)",
-    "to_tc": "粉嶺皇后山 (經:上水站)",
-    "to_en": "Queen’s Hill Fanling (via: Sheung Shui Station)",
+    "from_tc": "粉嶺皇后山 (經:上水站)",
+    "from_en": "Queen’s Hill Fanling (via: Sheung Shui Station)",
+    "to_tc": "屯門 (和田及菁田)",
+    "to_en": "Tuen Mun (Wo Tin and Ching Tin)",
     "dir": "I"
   },
   {
@@ -1783,10 +1733,10 @@
     "id": "ctb_581_I",
     "company": "ctb",
     "route": "581",
-    "from_tc": "西沙及十四鄉",
-    "from_en": "Sai Sha and Shap Sze Heung",
-    "to_tc": "馬鞍山市中心 (經烏溪沙站)",
-    "to_en": "Ma On Shan Town Centre (Via Wu Kai Sha Station)",
+    "from_tc": "馬鞍山市中心 (經烏溪沙站)",
+    "from_en": "Ma On Shan Town Centre (Via Wu Kai Sha Station)",
+    "to_tc": "西沙及十四鄉",
+    "to_en": "Sai Sha and Shap Sze Heung",
     "dir": "I"
   },
   {
@@ -1803,10 +1753,10 @@
     "id": "ctb_582_I",
     "company": "ctb",
     "route": "582",
-    "from_tc": "白石角 (經大學站)",
-    "from_en": "Pak Shek Kok (Via University Station)",
-    "to_tc": "西沙及十四鄉",
-    "to_en": "Sai Sha and Shap Sze Heung",
+    "from_tc": "西沙及十四鄉",
+    "from_en": "Sai Sha and Shap Sze Heung",
+    "to_tc": "白石角 (經大學站)",
+    "to_en": "Pak Shek Kok (Via University Station)",
     "dir": "I"
   },
   {
@@ -1823,10 +1773,10 @@
     "id": "ctb_592_I",
     "company": "ctb",
     "route": "592",
-    "from_tc": "海怡半島",
-    "from_en": "South Horizons",
-    "to_tc": "銅鑼灣 (摩頓台)",
-    "to_en": "Causeway Bay (Moreton Terrace)",
+    "from_tc": "銅鑼灣 (摩頓台)",
+    "from_en": "Causeway Bay (Moreton Terrace)",
+    "to_tc": "海怡半島",
+    "to_en": "South Horizons",
     "dir": "I"
   },
   {
@@ -1843,10 +1793,10 @@
     "id": "ctb_595_I",
     "company": "ctb",
     "route": "595",
-    "from_tc": "海怡半島",
-    "from_en": "South Horizons",
-    "to_tc": "石排灣 (經香港仔)",
-    "to_en": "Shek Pai Wan (via Aberdeen)",
+    "from_tc": "石排灣 (經香港仔)",
+    "from_en": "Shek Pai Wan (via Aberdeen)",
+    "to_tc": "海怡半島",
+    "to_en": "South Horizons",
     "dir": "I"
   },
   {
@@ -1863,18 +1813,18 @@
     "id": "ctb_5B_I",
     "company": "ctb",
     "route": "5B",
-    "from_tc": "堅尼地城",
-    "from_en": "Kennedy Town",
-    "to_tc": "銅鑼灣／香港大球場",
-    "to_en": "Causeway Bay / Hong Kong Stadium",
+    "from_tc": "銅鑼灣／香港大球場",
+    "from_en": "Causeway Bay / Hong Kong Stadium",
+    "to_tc": "摩星嶺／堅尼地城",
+    "to_en": "Felix Villas / Kennedy Town",
     "dir": "I"
   },
   {
     "id": "ctb_5B_O",
     "company": "ctb",
     "route": "5B",
-    "from_tc": "堅尼地城",
-    "from_en": "Kennedy Town",
+    "from_tc": "摩星嶺／堅尼地城",
+    "from_en": "Felix Villas / Kennedy Town",
     "to_tc": "銅鑼灣／香港大球場",
     "to_en": "Causeway Bay / Hong Kong Stadium",
     "dir": "O"
@@ -1883,10 +1833,10 @@
     "id": "ctb_5X_I",
     "company": "ctb",
     "route": "5X",
-    "from_tc": "堅尼地城",
-    "from_en": "Kennedy Town",
-    "to_tc": "銅鑼灣 (威非路道)",
-    "to_en": "Causeway Bay (Whitfield Road)",
+    "from_tc": "銅鑼灣 (威非路道)",
+    "from_en": "Causeway Bay (Whitfield Road)",
+    "to_tc": "堅尼地城",
+    "to_en": "Kennedy Town",
     "dir": "I"
   },
   {
@@ -1903,10 +1853,10 @@
     "id": "ctb_6_I",
     "company": "ctb",
     "route": "6",
-    "from_tc": "中環 (交易廣場)",
-    "from_en": "Central (Exchange Square)",
-    "to_tc": "赤柱市場",
-    "to_en": "Stanley Market",
+    "from_tc": "赤柱市場",
+    "from_en": "Stanley Market",
+    "to_tc": "中環 (交易廣場)",
+    "to_en": "Central (Exchange Square)",
     "dir": "I"
   },
   {
@@ -1923,10 +1873,10 @@
     "id": "kmbctb_601_I",
     "company": "kmbctb",
     "route": "601",
-    "from_tc": "金鐘 (東)",
-    "from_en": "Admiralty (East)",
-    "to_tc": "寶達邨",
-    "to_en": "Po Tat Estate",
+    "from_tc": "寶達邨",
+    "from_en": "Po Tat Estate",
+    "to_tc": "金鐘 (東)",
+    "to_en": "Admiralty (East)",
     "dir": "I"
   },
   {
@@ -1943,10 +1893,10 @@
     "id": "kmbctb_601P_I",
     "company": "kmbctb",
     "route": "601P",
-    "from_tc": "寶達邨",
-    "from_en": "Po Tat Estate",
-    "to_tc": "上環",
-    "to_en": "Sheung Wan",
+    "from_tc": "上環",
+    "from_en": "Sheung Wan",
+    "to_tc": "寶達邨",
+    "to_en": "Po Tat Estate",
     "dir": "I"
   },
   {
@@ -1963,10 +1913,10 @@
     "id": "kmbctb_606_I",
     "company": "kmbctb",
     "route": "606",
-    "from_tc": "小西灣 (藍灣半島)",
-    "from_en": "Siu Sai Wan (Island Resort)",
-    "to_tc": "彩雲 (豐盛街)",
-    "to_en": "Choi Wan (Fung Shing Street)",
+    "from_tc": "彩雲 (豐盛街)",
+    "from_en": "Choi Wan (Fung Shing Street)",
+    "to_tc": "小西灣 (藍灣半島)",
+    "to_en": "Siu Sai Wan (Island Resort)",
     "dir": "I"
   },
   {
@@ -1983,10 +1933,10 @@
     "id": "kmbctb_606A_I",
     "company": "kmbctb",
     "route": "606A",
-    "from_tc": "彩雲 (豐盛街)",
-    "from_en": "Choi Wan (Fung Shing Street)",
-    "to_tc": "耀東邨",
-    "to_en": "Yiu Tung Estate",
+    "from_tc": "耀東邨",
+    "from_en": "Yiu Tung Estate",
+    "to_tc": "彩雲 (豐盛街)",
+    "to_en": "Choi Wan (Fung Shing Street)",
     "dir": "I"
   },
   {
@@ -2003,10 +1953,10 @@
     "id": "kmbctb_606X_I",
     "company": "kmbctb",
     "route": "606X",
-    "from_tc": "小西灣 (藍灣半島)",
-    "from_en": "Siu Sai Wan (Island Resort)",
-    "to_tc": "九龍灣",
-    "to_en": "Kowloon Bay",
+    "from_tc": "九龍灣",
+    "from_en": "Kowloon Bay",
+    "to_tc": "小西灣 (藍灣半島)",
+    "to_en": "Siu Sai Wan (Island Resort)",
     "dir": "I"
   },
   {
@@ -2023,10 +1973,10 @@
     "id": "ctb_608_I",
     "company": "ctb",
     "route": "608",
-    "from_tc": "九龍城 (盛德街)",
-    "from_en": "Kowloon City (Shing Tak Street)",
-    "to_tc": "筲箕灣",
-    "to_en": "Shau Kei Wan",
+    "from_tc": "筲箕灣",
+    "from_en": "Shau Kei Wan",
+    "to_tc": "九龍城 (盛德街)",
+    "to_en": "Kowloon City (Shing Tak Street)",
     "dir": "I"
   },
   {
@@ -2053,10 +2003,10 @@
     "id": "kmbctb_619_I",
     "company": "kmbctb",
     "route": "619",
-    "from_tc": "中環 (港澳碼頭)",
-    "from_en": "Central (Macau Ferry)",
-    "to_tc": "順利邨",
-    "to_en": "Shun Lee Estate",
+    "from_tc": "順利邨",
+    "from_en": "Shun Lee Estate",
+    "to_tc": "中環 (港澳碼頭)",
+    "to_en": "Central (Macau Ferry)",
     "dir": "I"
   },
   {
@@ -2083,10 +2033,10 @@
     "id": "kmbctb_619X_I",
     "company": "kmbctb",
     "route": "619X",
-    "from_tc": "順利邨",
-    "from_en": "Shun Lee Estate",
-    "to_tc": "中環 (港澳碼頭)",
-    "to_en": "Central (Macau Ferry)",
+    "from_tc": "中環 (港澳碼頭)",
+    "from_en": "Central (Macau Ferry)",
+    "to_tc": "順利邨",
+    "to_en": "Shun Lee Estate",
     "dir": "I"
   },
   {
@@ -2103,10 +2053,10 @@
     "id": "ctb_61R_I",
     "company": "ctb",
     "route": "61R",
-    "from_tc": "沙田第一城",
-    "from_en": "City One Shatin",
-    "to_tc": "藍田站",
-    "to_en": "Lam Tin Station",
+    "from_tc": "藍田站",
+    "from_en": "Lam Tin Station",
+    "to_tc": "沙田第一城",
+    "to_en": "City One Shatin",
     "dir": "I"
   },
   {
@@ -2123,10 +2073,10 @@
     "id": "kmbctb_621_I",
     "company": "kmbctb",
     "route": "621",
-    "from_tc": "麗港城",
-    "from_en": "Laguna City",
-    "to_tc": "中環 (香港站)",
-    "to_en": "Central (Hong Kong Station)",
+    "from_tc": "中環 (香港站)",
+    "from_en": "Central (Hong Kong Station)",
+    "to_tc": "麗港城",
+    "to_en": "Laguna City",
     "dir": "I"
   },
   {
@@ -2143,10 +2093,10 @@
     "id": "ctb_629_I",
     "company": "ctb",
     "route": "629",
-    "from_tc": "中環 (天星碼頭)",
-    "from_en": "Central (Star Ferry)",
-    "to_tc": "海洋公園 (正門／水上樂園)",
-    "to_en": "Ocean Park (Main Entrance / Water World)",
+    "from_tc": "海洋公園 (正門／水上樂園)",
+    "from_en": "Ocean Park (Main Entrance / Water World)",
+    "to_tc": "中環 (天星碼頭)",
+    "to_en": "Central (Star Ferry)",
     "dir": "I"
   },
   {
@@ -2173,10 +2123,10 @@
     "id": "ctb_63_I",
     "company": "ctb",
     "route": "63",
-    "from_tc": "北角碼頭",
-    "from_en": "North Point Ferry Pier",
-    "to_tc": "赤柱市場",
-    "to_en": "Stanley Market",
+    "from_tc": "赤柱市場",
+    "from_en": "Stanley Market",
+    "to_tc": "北角碼頭",
+    "to_en": "North Point Ferry Pier",
     "dir": "I"
   },
   {
@@ -2193,10 +2143,10 @@
     "id": "kmbctb_641_I",
     "company": "kmbctb",
     "route": "641",
-    "from_tc": "中環 (港澳碼頭)",
-    "from_en": "Central (Macau Ferry)",
-    "to_tc": "啟德 (啟晴邨)",
-    "to_en": "Kai Tak (Kai Ching Estate)",
+    "from_tc": "啟德 (啟晴邨)",
+    "from_en": "Kai Tak (Kai Ching Estate)",
+    "to_tc": "中環 (港澳碼頭)",
+    "to_en": "Central (Macau Ferry)",
     "dir": "I"
   },
   {
@@ -2213,10 +2163,10 @@
     "id": "ctb_65_I",
     "company": "ctb",
     "route": "65",
-    "from_tc": "北角碼頭",
-    "from_en": "North Point Ferry Pier",
-    "to_tc": "赤柱市場",
-    "to_en": "Stanley Market",
+    "from_tc": "赤柱市場",
+    "from_en": "Stanley Market",
+    "to_tc": "北角碼頭",
+    "to_en": "North Point Ferry Pier",
     "dir": "I"
   },
   {
@@ -2233,10 +2183,10 @@
     "id": "ctb_66_I",
     "company": "ctb",
     "route": "66",
-    "from_tc": "中環 (交易廣場)",
-    "from_en": "Central (Exchange Square)",
-    "to_tc": "赤柱廣場 (馬坑)",
-    "to_en": "Stanley Plaza (Ma Hang)",
+    "from_tc": "赤柱廣場 (馬坑)",
+    "from_en": "Stanley Plaza (Ma Hang)",
+    "to_tc": "中環 (交易廣場)",
+    "to_en": "Central (Exchange Square)",
     "dir": "I"
   },
   {
@@ -2253,10 +2203,10 @@
     "id": "kmbctb_671_I",
     "company": "kmbctb",
     "route": "671",
-    "from_tc": "鴨脷洲 (利樂街)",
-    "from_en": "Ap Lei Chau (Lee Lok Street)",
-    "to_tc": "鑽石山站",
-    "to_en": "Diamond Hill Station",
+    "from_tc": "鑽石山站",
+    "from_en": "Diamond Hill Station",
+    "to_tc": "鴨脷洲 (利樂街)",
+    "to_en": "Ap Lei Chau (Lee Lok Street)",
     "dir": "I"
   },
   {
@@ -2283,10 +2233,10 @@
     "id": "kmbctb_678_I",
     "company": "kmbctb",
     "route": "678",
-    "from_tc": "上水",
-    "from_en": "Sheung Shui",
-    "to_tc": "銅鑼灣 (東院道)",
-    "to_en": "Causeway Bay (Eastern Hospital Road)",
+    "from_tc": "銅鑼灣 (東院道)",
+    "from_en": "Causeway Bay (Eastern Hospital Road)",
+    "to_tc": "上水",
+    "to_en": "Sheung Shui",
     "dir": "I"
   },
   {
@@ -2303,10 +2253,10 @@
     "id": "ctb_679_I",
     "company": "ctb",
     "route": "679",
-    "from_tc": "粉嶺皇后山",
-    "from_en": "Queen's Hill Fanling",
-    "to_tc": "中環 (香港站)",
-    "to_en": "Central (Hong Kong Station)",
+    "from_tc": "中環 (香港站)",
+    "from_en": "Central (Hong Kong Station)",
+    "to_tc": "粉嶺皇后山",
+    "to_en": "Queen's Hill Fanling",
     "dir": "I"
   },
   {
@@ -2323,10 +2273,10 @@
     "id": "kmbctb_680_I",
     "company": "kmbctb",
     "route": "680",
-    "from_tc": "金鐘 (東)",
-    "from_en": "Admiralty (East)",
-    "to_tc": "馬鞍山 (利安邨)",
-    "to_en": "Ma On Shan (Lee On Estate)",
+    "from_tc": "馬鞍山 (利安邨)",
+    "from_en": "Ma On Shan (Lee On Estate)",
+    "to_tc": "金鐘 (東)",
+    "to_en": "Admiralty (East)",
     "dir": "I"
   },
   {
@@ -2363,10 +2313,10 @@
     "id": "kmbctb_680X_I",
     "company": "kmbctb",
     "route": "680X",
-    "from_tc": "中環 (港澳碼頭)",
-    "from_en": "Central (Macau Ferry Pier)",
-    "to_tc": "馬鞍山 (烏溪沙站)",
-    "to_en": "Ma On Shan (Wu Kai Sha Station)",
+    "from_tc": "馬鞍山 (烏溪沙站)",
+    "from_en": "Ma On Shan (Wu Kai Sha Station)",
+    "to_tc": "中環 (港澳碼頭)",
+    "to_en": "Central (Macau Ferry Pier)",
     "dir": "I"
   },
   {
@@ -2383,10 +2333,10 @@
     "id": "kmbctb_681_I",
     "company": "kmbctb",
     "route": "681",
-    "from_tc": "中環 (香港站)",
-    "from_en": "Central (Hong Kong Station)",
-    "to_tc": "馬鞍山市中心",
-    "to_en": "Ma On Shan Town Centre",
+    "from_tc": "馬鞍山市中心",
+    "from_en": "Ma On Shan Town Centre",
+    "to_tc": "中環 (香港站)",
+    "to_en": "Central (Hong Kong Station)",
     "dir": "I"
   },
   {
@@ -2403,10 +2353,10 @@
     "id": "kmbctb_681P_I",
     "company": "kmbctb",
     "route": "681P",
-    "from_tc": "馬鞍山 (耀安邨)",
-    "from_en": "Ma On Shan (Yiu On Estate)",
-    "to_tc": "上環",
-    "to_en": "Sheung Wan",
+    "from_tc": "上環",
+    "from_en": "Sheung Wan",
+    "to_tc": "馬鞍山 (耀安邨)",
+    "to_en": "Ma On Shan (Yiu On Estate)",
     "dir": "I"
   },
   {
@@ -2423,10 +2373,10 @@
     "id": "ctb_682_I",
     "company": "ctb",
     "route": "682",
-    "from_tc": "柴灣 (東)",
-    "from_en": "Chai Wan (East)",
-    "to_tc": "馬鞍山 (烏溪沙站)",
-    "to_en": "Ma On Shan (Wu Kai Sha Station)",
+    "from_tc": "馬鞍山 (烏溪沙站)",
+    "from_en": "Ma On Shan (Wu Kai Sha Station)",
+    "to_tc": "柴灣 (東)",
+    "to_en": "Chai Wan (East)",
     "dir": "I"
   },
   {
@@ -2443,10 +2393,10 @@
     "id": "ctb_682A_I",
     "company": "ctb",
     "route": "682A",
-    "from_tc": "馬鞍山市中心",
-    "from_en": "Ma On Shan Town Centre",
-    "to_tc": "柴灣 (東)",
-    "to_en": "Chai Wan (East)",
+    "from_tc": "柴灣 (東)",
+    "from_en": "Chai Wan (East)",
+    "to_tc": "馬鞍山市中心",
+    "to_en": "Ma On Shan Town Centre",
     "dir": "I"
   },
   {
@@ -2463,10 +2413,10 @@
     "id": "ctb_682B_I",
     "company": "ctb",
     "route": "682B",
-    "from_tc": "水泉澳邨",
-    "from_en": "Shui Chuen O Estate",
-    "to_tc": "柴灣 (東)",
-    "to_en": "Chai Wan (East)",
+    "from_tc": "柴灣 (東)",
+    "from_en": "Chai Wan (East)",
+    "to_tc": "水泉澳邨",
+    "to_en": "Shui Chuen O Estate",
     "dir": "I"
   },
   {
@@ -2493,10 +2443,10 @@
     "id": "kmbctb_690_I",
     "company": "kmbctb",
     "route": "690",
-    "from_tc": "中環 (交易廣場)",
-    "from_en": "Central (Exchange Square)",
-    "to_tc": "將軍澳 (康盛花園)",
-    "to_en": "Tseung Kwan O (Hong Sing Garden)",
+    "from_tc": "將軍澳 (康盛花園)",
+    "from_en": "Tseung Kwan O (Hong Sing Garden)",
+    "to_tc": "中環 (交易廣場)",
+    "to_en": "Central (Exchange Square)",
     "dir": "I"
   },
   {
@@ -2523,10 +2473,10 @@
     "id": "ctb_690S_I",
     "company": "ctb",
     "route": "690S",
-    "from_tc": "中環 (交易廣場)",
-    "from_en": "Central (Exchange Square)",
-    "to_tc": "坑口 (經:日出康城)",
-    "to_en": "Hang Hau (via: LOHAS Park)",
+    "from_tc": "坑口 (經:日出康城)",
+    "from_en": "Hang Hau (via: LOHAS Park)",
+    "to_tc": "中環 (交易廣場)",
+    "to_en": "Central (Exchange Square)",
     "dir": "I"
   },
   {
@@ -2543,10 +2493,10 @@
     "id": "ctb_694_I",
     "company": "ctb",
     "route": "694",
-    "from_tc": "小西灣邨",
-    "from_en": "Siu Sai Wan Estate",
-    "to_tc": "調景嶺站",
-    "to_en": "Tiu Keng Leng Station",
+    "from_tc": "調景嶺站",
+    "from_en": "Tiu Keng Leng Station",
+    "to_tc": "小西灣邨",
+    "to_en": "Siu Sai Wan Estate",
     "dir": "I"
   },
   {
@@ -2563,10 +2513,10 @@
     "id": "ctb_694S_I",
     "company": "ctb",
     "route": "694S",
-    "from_tc": "小西灣邨",
-    "from_en": "Siu Sai Wan Estate",
-    "to_tc": "調景嶺站 (經:日出康城)",
-    "to_en": "Tiu Keng Leng Station (via: LOHAS Park)",
+    "from_tc": "調景嶺站 (經:日出康城)",
+    "from_en": "Tiu Keng Leng Station (via: LOHAS Park)",
+    "to_tc": "小西灣邨",
+    "to_en": "Siu Sai Wan Estate",
     "dir": "I"
   },
   {
@@ -2593,10 +2543,10 @@
     "id": "ctb_6X_I",
     "company": "ctb",
     "route": "6X",
-    "from_tc": "中環 (交易廣場)",
-    "from_en": "Central (Exchange Square)",
-    "to_tc": "赤柱市場",
-    "to_en": "Stanley Market",
+    "from_tc": "赤柱市場",
+    "from_en": "Stanley Market",
+    "to_tc": "中環 (交易廣場)",
+    "to_en": "Central (Exchange Square)",
     "dir": "I"
   },
   {
@@ -2613,10 +2563,10 @@
     "id": "ctb_7_I",
     "company": "ctb",
     "route": "7",
-    "from_tc": "石排灣",
-    "from_en": "Shek Pai Wan",
-    "to_tc": "中環碼頭",
-    "to_en": "Central (Ferry Piers)",
+    "from_tc": "中環碼頭",
+    "from_en": "Central (Ferry Piers)",
+    "to_tc": "石排灣",
+    "to_en": "Shek Pai Wan",
     "dir": "I"
   },
   {
@@ -2633,10 +2583,10 @@
     "id": "ctb_70_I",
     "company": "ctb",
     "route": "70",
-    "from_tc": "華貴 (經:香港仔)",
-    "from_en": "Wah Kwai (via: Aberdeen)",
-    "to_tc": "中環 (交易廣場)",
-    "to_en": "Central (Exchange Square)",
+    "from_tc": "中環 (交易廣場)",
+    "from_en": "Central (Exchange Square)",
+    "to_tc": "華貴 (經:香港仔)",
+    "to_en": "Wah Kwai (via: Aberdeen)",
     "dir": "I"
   },
   {
@@ -2653,10 +2603,10 @@
     "id": "ctb_701_I",
     "company": "ctb",
     "route": "701",
-    "from_tc": "海麗邨／南昌站",
-    "from_en": "Hoi Lai Estate / Nam Cheong Station",
-    "to_tc": "旺角",
-    "to_en": "Mong Kok",
+    "from_tc": "旺角",
+    "from_en": "Mong Kok",
+    "to_tc": "海麗邨／南昌站",
+    "to_en": "Hoi Lai Estate / Nam Cheong Station",
     "dir": "I"
   },
   {
@@ -2673,10 +2623,10 @@
     "id": "ctb_701A_I",
     "company": "ctb",
     "route": "701A",
-    "from_tc": "海盈邨",
-    "from_en": "Hoi Ying Estate",
-    "to_tc": "旺角",
-    "to_en": "Mong Kok",
+    "from_tc": "旺角",
+    "from_en": "Mong Kok",
+    "to_tc": "海盈邨",
+    "to_en": "Hoi Ying Estate",
     "dir": "I"
   },
   {
@@ -2693,10 +2643,10 @@
     "id": "ctb_701S_I",
     "company": "ctb",
     "route": "701S",
-    "from_tc": "海麗邨／南昌站",
-    "from_en": "Hoi Lai Estate / Nam Cheong Station",
-    "to_tc": "旺角",
-    "to_en": "Mong Kok",
+    "from_tc": "旺角",
+    "from_en": "Mong Kok",
+    "to_tc": "海麗邨／南昌站",
+    "to_en": "Hoi Lai Estate / Nam Cheong Station",
     "dir": "I"
   },
   {
@@ -2713,10 +2663,10 @@
     "id": "ctb_702_I",
     "company": "ctb",
     "route": "702",
-    "from_tc": "海麗邨／南昌站",
-    "from_en": "Hoi Lai Estate / Nam Cheong Station",
-    "to_tc": "九龍塘 (又一城)",
-    "to_en": "Kowloon Tong (Festival Walk)",
+    "from_tc": "九龍塘 (又一城)",
+    "from_en": "Kowloon Tong (Festival Walk)",
+    "to_tc": "海麗邨／南昌站",
+    "to_en": "Hoi Lai Estate / Nam Cheong Station",
     "dir": "I"
   },
   {
@@ -2743,10 +2693,10 @@
     "id": "ctb_702B_I",
     "company": "ctb",
     "route": "702B",
-    "from_tc": "白田 (北)",
-    "from_en": "Pak Tin (North)",
-    "to_tc": "海盈邨",
-    "to_en": "Hoi Ying Estate",
+    "from_tc": "海盈邨",
+    "from_en": "Hoi Ying Estate",
+    "to_tc": "白田 (北)",
+    "to_en": "Pak Tin (North)",
     "dir": "I"
   },
   {
@@ -2763,10 +2713,10 @@
     "id": "ctb_702S_I",
     "company": "ctb",
     "route": "702S",
-    "from_tc": "蘇屋邨",
-    "from_en": "So Uk Estate",
-    "to_tc": "長沙灣 (深盛路)／富昌邨",
-    "to_en": "Cheung Sha Wan (Sham Shing Road) / Fu Cheong Estate",
+    "from_tc": "長沙灣 (深盛路)／富昌邨",
+    "from_en": "Cheung Sha Wan (Sham Shing Road) / Fu Cheong Estate",
+    "to_tc": "蘇屋邨",
+    "to_en": "So Uk Estate",
     "dir": "I"
   },
   {
@@ -2783,10 +2733,10 @@
     "id": "ctb_70P_I",
     "company": "ctb",
     "route": "70P",
-    "from_tc": "石排灣 (經:香港仔)",
-    "from_en": "Shek Pai Wan (via: Aberdeen)",
-    "to_tc": "中環 (交易廣場)",
-    "to_en": "Central (Exchange Square)",
+    "from_tc": "中環 (交易廣場)",
+    "from_en": "Central (Exchange Square)",
+    "to_tc": "石排灣 (經:香港仔)",
+    "to_en": "Shek Pai Wan (via: Aberdeen)",
     "dir": "I"
   },
   {
@@ -2803,10 +2753,10 @@
     "id": "ctb_71_I",
     "company": "ctb",
     "route": "71",
-    "from_tc": "黃竹坑",
-    "from_en": "Wong Chuk Hang",
-    "to_tc": "中環 (林士街)",
-    "to_en": "Central (Rumsey Street)",
+    "from_tc": "中環 (林士街)",
+    "from_en": "Central (Rumsey Street)",
+    "to_tc": "黃竹坑",
+    "to_en": "Wong Chuk Hang",
     "dir": "I"
   },
   {
@@ -2833,10 +2783,10 @@
     "id": "ctb_72_I",
     "company": "ctb",
     "route": "72",
-    "from_tc": "華貴邨",
-    "from_en": "Wah Kwai Estate",
-    "to_tc": "銅鑼灣 (摩頓台)",
-    "to_en": "Causeway Bay (Moreton Terrace)",
+    "from_tc": "銅鑼灣 (摩頓台)",
+    "from_en": "Causeway Bay (Moreton Terrace)",
+    "to_tc": "華貴邨",
+    "to_en": "Wah Kwai Estate",
     "dir": "I"
   },
   {
@@ -2853,10 +2803,10 @@
     "id": "ctb_720_I",
     "company": "ctb",
     "route": "720",
-    "from_tc": "嘉亨灣",
-    "from_en": "Grand Promenade",
-    "to_tc": "中環 (港澳碼頭 / 永和街)",
-    "to_en": "Central (Macau Ferry / Wing Wo Street)",
+    "from_tc": "中環 (港澳碼頭 / 永和街)",
+    "from_en": "Central (Macau Ferry / Wing Wo Street)",
+    "to_tc": "嘉亨灣",
+    "to_en": "Grand Promenade",
     "dir": "I"
   },
   {
@@ -2883,10 +2833,10 @@
     "id": "ctb_720P_I",
     "company": "ctb",
     "route": "720P",
-    "from_tc": "太古城",
-    "from_en": "Taikoo Shing",
-    "to_tc": "中環 (永和街)",
-    "to_en": "Central (Wing Wo Street)",
+    "from_tc": "中環 (永和街)",
+    "from_en": "Central (Wing Wo Street)",
+    "to_tc": "太古城",
+    "to_en": "Taikoo Shing",
     "dir": "I"
   },
   {
@@ -2913,10 +2863,10 @@
     "id": "ctb_722_I",
     "company": "ctb",
     "route": "722",
-    "from_tc": "耀東邨",
-    "from_en": "Yiu Tung Estate",
-    "to_tc": "中環碼頭",
-    "to_en": "Central (Ferry Piers)",
+    "from_tc": "中環碼頭",
+    "from_en": "Central (Ferry Piers)",
+    "to_tc": "耀東邨",
+    "to_en": "Yiu Tung Estate",
     "dir": "I"
   },
   {
@@ -2933,10 +2883,10 @@
     "id": "ctb_72A_I",
     "company": "ctb",
     "route": "72A",
-    "from_tc": "深灣",
-    "from_en": "Sham Wan",
-    "to_tc": "銅鑼灣 (摩頓台)",
-    "to_en": "Causeway Bay (Moreton Terrace)",
+    "from_tc": "銅鑼灣 (摩頓台)",
+    "from_en": "Causeway Bay (Moreton Terrace)",
+    "to_tc": "深灣",
+    "to_en": "Sham Wan",
     "dir": "I"
   },
   {
@@ -2953,10 +2903,10 @@
     "id": "ctb_73_I",
     "company": "ctb",
     "route": "73",
-    "from_tc": "數碼港／華富 (北)",
-    "from_en": "Cyberport / Wah Fu (North)",
-    "to_tc": "赤柱市場",
-    "to_en": "Stanley Market",
+    "from_tc": "赤柱市場",
+    "from_en": "Stanley Market",
+    "to_tc": "數碼港／華富 (北)",
+    "to_en": "Cyberport / Wah Fu (North)",
     "dir": "I"
   },
   {
@@ -2983,10 +2933,10 @@
     "id": "ctb_75_I",
     "company": "ctb",
     "route": "75",
-    "from_tc": "深灣",
-    "from_en": "Sham Wan",
-    "to_tc": "中環 (交易廣場)",
-    "to_en": "Central (Exchange Square)",
+    "from_tc": "中環 (交易廣場)",
+    "from_en": "Central (Exchange Square)",
+    "to_tc": "深灣",
+    "to_en": "Sham Wan",
     "dir": "I"
   },
   {
@@ -3003,10 +2953,10 @@
     "id": "ctb_76_I",
     "company": "ctb",
     "route": "76",
-    "from_tc": "黃竹坑站／石排灣",
-    "from_en": "Wong Chuk Hang Station / Shek Pai Wan",
-    "to_tc": "銅鑼灣 (邊寧頓街)",
-    "to_en": "Causeway Bay (Pennington Street)",
+    "from_tc": "銅鑼灣 (邊寧頓街)",
+    "from_en": "Causeway Bay (Pennington Street)",
+    "to_tc": "黃竹坑站／石排灣",
+    "to_en": "Wong Chuk Hang Station / Shek Pai Wan",
     "dir": "I"
   },
   {
@@ -3023,10 +2973,10 @@
     "id": "ctb_77_I",
     "company": "ctb",
     "route": "77",
-    "from_tc": "田灣",
-    "from_en": "Tin Wan",
-    "to_tc": "筲箕灣",
-    "to_en": "Shau Kei Wan",
+    "from_tc": "筲箕灣",
+    "from_en": "Shau Kei Wan",
+    "to_tc": "田灣",
+    "to_en": "Tin Wan",
     "dir": "I"
   },
   {
@@ -3063,10 +3013,10 @@
     "id": "ctb_78_I",
     "company": "ctb",
     "route": "78",
-    "from_tc": "黃竹坑",
-    "from_en": "Wong Chuk Hang",
-    "to_tc": "華貴邨",
-    "to_en": "Wah Kwai Estate",
+    "from_tc": "華貴邨",
+    "from_en": "Wah Kwai Estate",
+    "to_tc": "黃竹坑",
+    "to_en": "Wong Chuk Hang",
     "dir": "I"
   },
   {
@@ -3083,10 +3033,10 @@
     "id": "ctb_780_I",
     "company": "ctb",
     "route": "780",
-    "from_tc": "柴灣 (東)",
-    "from_en": "Chai Wan (East)",
-    "to_tc": "中環碼頭",
-    "to_en": "Central (Ferry Piers)",
+    "from_tc": "中環碼頭",
+    "from_en": "Central (Ferry Piers)",
+    "to_tc": "柴灣 (東)",
+    "to_en": "Chai Wan (East)",
     "dir": "I"
   },
   {
@@ -3113,10 +3063,10 @@
     "id": "ctb_788_I",
     "company": "ctb",
     "route": "788",
-    "from_tc": "小西灣 (藍灣半島)",
-    "from_en": "Siu Sai Wan (Island Resort)",
-    "to_tc": "中環 (港澳碼頭)",
-    "to_en": "Central (Macau Ferry)",
+    "from_tc": "中環 (港澳碼頭)",
+    "from_en": "Central (Macau Ferry)",
+    "to_tc": "小西灣 (藍灣半島)",
+    "to_en": "Siu Sai Wan (Island Resort)",
     "dir": "I"
   },
   {
@@ -3133,10 +3083,10 @@
     "id": "ctb_789_I",
     "company": "ctb",
     "route": "789",
-    "from_tc": "小西灣 (藍灣半島)",
-    "from_en": "Siu Sai Wan (Island Resort)",
-    "to_tc": "金鐘 (樂禮街)",
-    "to_en": "Admiralty (Rodney Street)",
+    "from_tc": "金鐘 (樂禮街)",
+    "from_en": "Admiralty (Rodney Street)",
+    "to_tc": "小西灣 (藍灣半島)",
+    "to_en": "Siu Sai Wan (Island Resort)",
     "dir": "I"
   },
   {
@@ -3153,10 +3103,10 @@
     "id": "ctb_78C_I",
     "company": "ctb",
     "route": "78C",
-    "from_tc": "粉嶺皇后山",
-    "from_en": "Queen's Hill Fanling",
-    "to_tc": "啟德 (經: 觀塘)",
-    "to_en": "Kai Tak (Via: Kwun Tong)",
+    "from_tc": "啟德 (經: 觀塘)",
+    "from_en": "Kai Tak (Via: Kwun Tong)",
+    "to_tc": "粉嶺皇后山",
+    "to_en": "Queen's Hill Fanling",
     "dir": "I"
   },
   {
@@ -3183,10 +3133,10 @@
     "id": "ctb_78X_I",
     "company": "ctb",
     "route": "78X",
-    "from_tc": "粉嶺皇后山",
-    "from_en": "Queen's Hill Fanling",
-    "to_tc": "啟德 (經: 觀塘)",
-    "to_en": "Kai Tak (via: Kwun Tong)",
+    "from_tc": "啟德 (經: 觀塘)",
+    "from_en": "Kai Tak (via: Kwun Tong)",
+    "to_tc": "粉嶺皇后山",
+    "to_en": "Queen's Hill Fanling",
     "dir": "I"
   },
   {
@@ -3203,10 +3153,10 @@
     "id": "ctb_79_I",
     "company": "ctb",
     "route": "79",
-    "from_tc": "粉嶺皇后山 (經:大埔)",
-    "from_en": "Queen's Hill Fanling (via: Tai Po)",
-    "to_tc": "大圍站 (經:大埔)",
-    "to_en": "Tai Wai Station (via: Tai Po)",
+    "from_tc": "大圍站 (經:大埔)",
+    "from_en": "Tai Wai Station (via: Tai Po)",
+    "to_tc": "粉嶺皇后山 (經:大埔)",
+    "to_en": "Queen's Hill Fanling (via: Tai Po)",
     "dir": "I"
   },
   {
@@ -3223,10 +3173,10 @@
     "id": "ctb_790_I",
     "company": "ctb",
     "route": "790",
-    "from_tc": "清水灣半島 (經:日出康城)",
-    "from_en": "Oscar By The Sea (via: LOHAS Park)",
-    "to_tc": "尖沙咀(麼地道)",
-    "to_en": "Tsim Sha Tsui (Mody Road)",
+    "from_tc": "尖沙咀(麼地道)",
+    "from_en": "Tsim Sha Tsui (Mody Road)",
+    "to_tc": "清水灣半島 (經:日出康城)",
+    "to_en": "Oscar By The Sea (via: LOHAS Park)",
     "dir": "I"
   },
   {
@@ -3243,10 +3193,10 @@
     "id": "ctb_792M_I",
     "company": "ctb",
     "route": "792M",
-    "from_tc": "將軍澳站",
-    "from_en": "Tseung Kwan O Station",
-    "to_tc": "西貢",
-    "to_en": "Sai Kung",
+    "from_tc": "西貢",
+    "from_en": "Sai Kung",
+    "to_tc": "將軍澳站",
+    "to_en": "Tseung Kwan O Station",
     "dir": "I"
   },
   {
@@ -3263,10 +3213,10 @@
     "id": "ctb_793_I",
     "company": "ctb",
     "route": "793",
-    "from_tc": "將軍澳工業邨",
-    "from_en": "Tseung Kwan O Industrial Estate",
-    "to_tc": "蘇屋",
-    "to_en": "So Uk",
+    "from_tc": "蘇屋",
+    "from_en": "So Uk",
+    "to_tc": "將軍澳工業邨",
+    "to_en": "Tseung Kwan O Industrial Estate",
     "dir": "I"
   },
   {
@@ -3283,10 +3233,10 @@
     "id": "ctb_795_I",
     "company": "ctb",
     "route": "795",
-    "from_tc": "將軍澳工業邨 (經:日出康城)",
-    "from_en": "Tseung Kwan O Industrial Estate (via: LOHAS Park)",
-    "to_tc": "長沙灣 (海達)",
-    "to_en": "Cheung Sha Wan (Hoi Tat)",
+    "from_tc": "長沙灣 (海達)",
+    "from_en": "Cheung Sha Wan (Hoi Tat)",
+    "to_tc": "將軍澳工業邨 (經:日出康城)",
+    "to_en": "Tseung Kwan O Industrial Estate (via: LOHAS Park)",
     "dir": "I"
   },
   {
@@ -3303,10 +3253,10 @@
     "id": "ctb_795P_I",
     "company": "ctb",
     "route": "795P",
-    "from_tc": "將軍澳工業邨",
-    "from_en": "Tseung Kwan O Industrial Estate",
-    "to_tc": "長沙灣 (海達)",
-    "to_en": "Cheung Sha Wan (Hoi Tat)",
+    "from_tc": "長沙灣 (海達)",
+    "from_en": "Cheung Sha Wan (Hoi Tat)",
+    "to_tc": "將軍澳工業邨",
+    "to_en": "Tseung Kwan O Industrial Estate",
     "dir": "I"
   },
   {
@@ -3323,10 +3273,10 @@
     "id": "ctb_795X_I",
     "company": "ctb",
     "route": "795X",
-    "from_tc": "清水灣半島 (經:尚德)",
-    "from_en": "Oscar by the Sea (via: Sheung Tak)",
-    "to_tc": "蘇屋 (經:旺角及美孚)",
-    "to_en": "So Uk (via: Mong Kok and Mei Foo)",
+    "from_tc": "蘇屋 (經:旺角及美孚)",
+    "from_en": "So Uk (via: Mong Kok and Mei Foo)",
+    "to_tc": "清水灣半島 (經:尚德)",
+    "to_en": "Oscar by the Sea (via: Sheung Tak)",
     "dir": "I"
   },
   {
@@ -3338,6 +3288,16 @@
     "to_tc": "蘇屋 (經:旺角及美孚)",
     "to_en": "So Uk (via: Mong Kok and Mei Foo)",
     "dir": "O"
+  },
+  {
+    "id": "ctb_796P_I",
+    "company": "ctb",
+    "route": "796P",
+    "from_tc": "尖沙咀(東)",
+    "from_en": "Tsim Sha Tsui (East)",
+    "to_tc": "將軍澳站",
+    "to_en": "Tseung Kwan O Station",
+    "dir": "I"
   },
   {
     "id": "ctb_796P_O",
@@ -3363,10 +3323,10 @@
     "id": "ctb_796S_I",
     "company": "ctb",
     "route": "796S",
-    "from_tc": "將軍澳站",
-    "from_en": "Tseung Kwan O Station",
-    "to_tc": "牛頭角站",
-    "to_en": "Ngau Tau Kok Station",
+    "from_tc": "牛頭角站",
+    "from_en": "Ngau Tau Kok Station",
+    "to_tc": "將軍澳站",
+    "to_en": "Tseung Kwan O Station",
     "dir": "I"
   },
   {
@@ -3383,10 +3343,10 @@
     "id": "ctb_796X_I",
     "company": "ctb",
     "route": "796X",
-    "from_tc": "將軍澳工業邨／將軍澳站",
-    "from_en": "Tseung Kwan O Industrial Estate / Tseung Kwan O Station",
-    "to_tc": "尖沙咀 (東)",
-    "to_en": "Tsim Sha Tsui (East)",
+    "from_tc": "尖沙咀 (東)",
+    "from_en": "Tsim Sha Tsui (East)",
+    "to_tc": "將軍澳工業邨／將軍澳站",
+    "to_en": "Tseung Kwan O Industrial Estate / Tseung Kwan O Station",
     "dir": "I"
   },
   {
@@ -3403,10 +3363,10 @@
     "id": "ctb_797_I",
     "company": "ctb",
     "route": "797",
-    "from_tc": "日出康城／將軍澳工業邨",
-    "from_en": "LOHAS Park / Tseung Kwan O Industrial Estate",
-    "to_tc": "新蒲崗",
-    "to_en": "San Po Kong",
+    "from_tc": "新蒲崗",
+    "from_en": "San Po Kong",
+    "to_tc": "日出康城／將軍澳工業邨",
+    "to_en": "LOHAS Park / Tseung Kwan O Industrial Estate",
     "dir": "I"
   },
   {
@@ -3423,10 +3383,10 @@
     "id": "ctb_798_I",
     "company": "ctb",
     "route": "798",
-    "from_tc": "調景嶺站",
-    "from_en": "Tiu Keng Leng Station",
-    "to_tc": "火炭 (駿洋邨) (經:沙田)",
-    "to_en": "Fo Tan (Chun Yeung Estate) (via: Sha Tin)",
+    "from_tc": "火炭 (駿洋邨) (經:沙田)",
+    "from_en": "Fo Tan (Chun Yeung Estate) (via: Sha Tin)",
+    "to_tc": "調景嶺站",
+    "to_en": "Tiu Keng Leng Station",
     "dir": "I"
   },
   {
@@ -3443,10 +3403,10 @@
     "id": "ctb_798A_I",
     "company": "ctb",
     "route": "798A",
-    "from_tc": "將軍澳 (康盛花園)",
-    "from_en": "Tseung Kwan O (Hong Sing Garden)",
-    "to_tc": "沙田站",
-    "to_en": "Sha Tin Station",
+    "from_tc": "沙田站",
+    "from_en": "Sha Tin Station",
+    "to_tc": "將軍澳 (康盛花園)",
+    "to_en": "Tseung Kwan O (Hong Sing Garden)",
     "dir": "I"
   },
   {
@@ -3463,10 +3423,10 @@
     "id": "ctb_798B_I",
     "company": "ctb",
     "route": "798B",
-    "from_tc": "日出康城",
-    "from_en": "LOHAS Park",
-    "to_tc": "沙田站",
-    "to_en": "Sha Tin Station",
+    "from_tc": "沙田站",
+    "from_en": "Sha Tin Station",
+    "to_tc": "日出康城",
+    "to_en": "LOHAS Park",
     "dir": "I"
   },
   {
@@ -3483,10 +3443,10 @@
     "id": "ctb_798P_I",
     "company": "ctb",
     "route": "798P",
-    "from_tc": "將軍澳工業邨",
-    "from_en": "Tseung Kwan O Industrial Estate",
-    "to_tc": "大圍站 (經:沙田)",
-    "to_en": "Tai Wai Station (via: Sha Tin)",
+    "from_tc": "大圍站 (經:沙田)",
+    "from_en": "Tai Wai Station (via: Sha Tin)",
+    "to_tc": "將軍澳工業邨",
+    "to_en": "Tseung Kwan O Industrial Estate",
     "dir": "I"
   },
   {
@@ -3503,10 +3463,10 @@
     "id": "ctb_798X_I",
     "company": "ctb",
     "route": "798X",
-    "from_tc": "將軍澳工業邨",
-    "from_en": "Tseung Kwan O Industrial Estate",
-    "to_tc": "火炭 (駿洋邨) (經:沙田)",
-    "to_en": "Fo Tan (Chun Yeung Estate) (via: Sha Tin)",
+    "from_tc": "火炭 (駿洋邨) (經:沙田)",
+    "from_en": "Fo Tan (Chun Yeung Estate) (via: Sha Tin)",
+    "to_tc": "將軍澳工業邨",
+    "to_en": "Tseung Kwan O Industrial Estate",
     "dir": "I"
   },
   {
@@ -3523,10 +3483,10 @@
     "id": "ctb_79P_I",
     "company": "ctb",
     "route": "79P",
-    "from_tc": "粉嶺皇后山",
-    "from_en": "Queen's Hill Fanling",
-    "to_tc": "高鐵西九龍站",
-    "to_en": "HSR West Kowloon Station",
+    "from_tc": "高鐵西九龍站",
+    "from_en": "HSR West Kowloon Station",
+    "to_tc": "粉嶺皇后山",
+    "to_en": "Queen's Hill Fanling",
     "dir": "I"
   },
   {
@@ -3543,10 +3503,10 @@
     "id": "ctb_79X_I",
     "company": "ctb",
     "route": "79X",
-    "from_tc": "粉嶺皇后山",
-    "from_en": "Queen's Hill Fanling",
-    "to_tc": "長沙灣 (甘泉街) (經: 旺角)",
-    "to_en": "Cheung Sha Wan (Kom Tsun Street) (via: Mong Kok)",
+    "from_tc": "長沙灣 (甘泉街) (經: 旺角)",
+    "from_en": "Cheung Sha Wan (Kom Tsun Street) (via: Mong Kok)",
+    "to_tc": "粉嶺皇后山",
+    "to_en": "Queen's Hill Fanling",
     "dir": "I"
   },
   {
@@ -3563,10 +3523,10 @@
     "id": "ctb_8_I",
     "company": "ctb",
     "route": "8",
-    "from_tc": "杏花邨",
-    "from_en": "Heng Fa Chuen",
-    "to_tc": "會展站",
-    "to_en": "Exhibition Centre Station",
+    "from_tc": "會展站",
+    "from_en": "Exhibition Centre Station",
+    "to_tc": "杏花邨",
+    "to_en": "Heng Fa Chuen",
     "dir": "I"
   },
   {
@@ -3583,10 +3543,10 @@
     "id": "ctb_81_I",
     "company": "ctb",
     "route": "81",
-    "from_tc": "興華邨",
-    "from_en": "Hing Wah Estate",
-    "to_tc": "勵德邨",
-    "to_en": "Lai Tak Tsuen",
+    "from_tc": "勵德邨",
+    "from_en": "Lai Tak Tsuen",
+    "to_tc": "興華邨",
+    "to_en": "Hing Wah Estate",
     "dir": "I"
   },
   {
@@ -3603,10 +3563,10 @@
     "id": "ctb_81A_I",
     "company": "ctb",
     "route": "81A",
-    "from_tc": "興華邨",
-    "from_en": "Hing Wah Estate",
-    "to_tc": "勵德邨",
-    "to_en": "Lai Tak Tsuen",
+    "from_tc": "勵德邨",
+    "from_en": "Lai Tak Tsuen",
+    "to_tc": "興華邨",
+    "to_en": "Hing Wah Estate",
     "dir": "I"
   },
   {
@@ -3623,10 +3583,10 @@
     "id": "ctb_82_I",
     "company": "ctb",
     "route": "82",
-    "from_tc": "小西灣 (藍灣半島)",
-    "from_en": "Siu Sai Wan (Island Resort)",
-    "to_tc": "北角碼頭",
-    "to_en": "North Point Ferry Pier",
+    "from_tc": "北角碼頭",
+    "from_en": "North Point Ferry Pier",
+    "to_tc": "小西灣 (藍灣半島)",
+    "to_en": "Siu Sai Wan (Island Resort)",
     "dir": "I"
   },
   {
@@ -3643,10 +3603,10 @@
     "id": "ctb_82S_I",
     "company": "ctb",
     "route": "82S",
-    "from_tc": "小西灣 (藍灣半島)",
-    "from_en": "Siu Sai Wan (Island Resort)",
-    "to_tc": "耀東 (惠亨街)",
-    "to_en": "Yiu Tung (Wai Hang Street)",
+    "from_tc": "耀東 (惠亨街)",
+    "from_en": "Yiu Tung (Wai Hang Street)",
+    "to_tc": "小西灣 (藍灣半島)",
+    "to_en": "Siu Sai Wan (Island Resort)",
     "dir": "I"
   },
   {
@@ -3663,10 +3623,10 @@
     "id": "ctb_82X_I",
     "company": "ctb",
     "route": "82X",
-    "from_tc": "小西灣 (藍灣半島)",
-    "from_en": "Siu Sai Wan (Island Resort)",
-    "to_tc": "鰂魚涌",
-    "to_en": "Quarry Bay",
+    "from_tc": "鰂魚涌",
+    "from_en": "Quarry Bay",
+    "to_tc": "小西灣 (藍灣半島)",
+    "to_en": "Siu Sai Wan (Island Resort)",
     "dir": "I"
   },
   {
@@ -3683,10 +3643,10 @@
     "id": "ctb_85_I",
     "company": "ctb",
     "route": "85",
-    "from_tc": "小西灣 (藍灣半島)",
-    "from_en": "Siu Sai Wan (Island Resort)",
-    "to_tc": "寶馬山／北角",
-    "to_en": "Braemar Hill / North Point",
+    "from_tc": "寶馬山／北角",
+    "from_en": "Braemar Hill / North Point",
+    "to_tc": "小西灣 (藍灣半島)",
+    "to_en": "Siu Sai Wan (Island Resort)",
     "dir": "I"
   },
   {
@@ -3703,10 +3663,10 @@
     "id": "ctb_85A_I",
     "company": "ctb",
     "route": "85A",
-    "from_tc": "筲箕灣",
-    "from_en": "Shau Kei Wan",
-    "to_tc": "寶馬山",
-    "to_en": "Braemar Hill",
+    "from_tc": "寶馬山",
+    "from_en": "Braemar Hill",
+    "to_tc": "筲箕灣",
+    "to_en": "Shau Kei Wan",
     "dir": "I"
   },
   {
@@ -3723,10 +3683,10 @@
     "id": "ctb_85P_I",
     "company": "ctb",
     "route": "85P",
-    "from_tc": "小西灣 (藍灣半島)",
-    "from_en": "Siu Sai Wan (Island Resort)",
-    "to_tc": "寶馬山",
-    "to_en": "Braemar Hill",
+    "from_tc": "寶馬山",
+    "from_en": "Braemar Hill",
+    "to_tc": "小西灣 (藍灣半島)",
+    "to_en": "Siu Sai Wan (Island Resort)",
     "dir": "I"
   },
   {
@@ -3743,10 +3703,10 @@
     "id": "ctb_88R_I",
     "company": "ctb",
     "route": "88R",
-    "from_tc": "沙田第一城",
-    "from_en": "City One Shatin",
-    "to_tc": "中環",
-    "to_en": "Central",
+    "from_tc": "中環",
+    "from_en": "Central",
+    "to_tc": "沙田第一城",
+    "to_en": "City One Shatin",
     "dir": "I"
   },
   {
@@ -3763,10 +3723,10 @@
     "id": "ctb_88X_I",
     "company": "ctb",
     "route": "88X",
-    "from_tc": "小西灣 (藍灣半島)",
-    "from_en": "Siu Sai Wan (Island Resort)",
-    "to_tc": "堅尼地城 (卑路乍灣)",
-    "to_en": "Kennedy Town (Belcher Bay)",
+    "from_tc": "堅尼地城 (卑路乍灣)",
+    "from_en": "Kennedy Town (Belcher Bay)",
+    "to_tc": "小西灣 (藍灣半島)",
+    "to_en": "Siu Sai Wan (Island Resort)",
     "dir": "I"
   },
   {
@@ -3783,10 +3743,10 @@
     "id": "ctb_8H_I",
     "company": "ctb",
     "route": "8H",
-    "from_tc": "小西灣 (藍灣半島)",
-    "from_en": "Siu Sai Wan (Island Resort)",
-    "to_tc": "東華東院",
-    "to_en": "Tung Wah Eastern Hospital",
+    "from_tc": "東華東院",
+    "from_en": "Tung Wah Eastern Hospital",
+    "to_tc": "小西灣 (藍灣半島)",
+    "to_en": "Siu Sai Wan (Island Resort)",
     "dir": "I"
   },
   {
@@ -3803,10 +3763,10 @@
     "id": "ctb_8P_I",
     "company": "ctb",
     "route": "8P",
-    "from_tc": "小西灣 (藍灣半島)",
-    "from_en": "Siu Sai Wan (Island Resort)",
-    "to_tc": "會展站",
-    "to_en": "Exhibition Centre Station",
+    "from_tc": "會展站",
+    "from_en": "Exhibition Centre Station",
+    "to_tc": "小西灣 (藍灣半島)",
+    "to_en": "Siu Sai Wan (Island Resort)",
     "dir": "I"
   },
   {
@@ -3833,10 +3793,10 @@
     "id": "ctb_8X_I",
     "company": "ctb",
     "route": "8X",
-    "from_tc": "小西灣 (藍灣半島)",
-    "from_en": "Siu Sai Wan (Island Resort)",
-    "to_tc": "跑馬地 (上)",
-    "to_en": "Happy Valley (Upper)",
+    "from_tc": "跑馬地 (上)",
+    "from_en": "Happy Valley (Upper)",
+    "to_tc": "小西灣 (藍灣半島)",
+    "to_en": "Siu Sai Wan (Island Resort)",
     "dir": "I"
   },
   {
@@ -3853,10 +3813,10 @@
     "id": "ctb_9_I",
     "company": "ctb",
     "route": "9",
-    "from_tc": "筲箕灣",
-    "from_en": "Shau Kei Wan",
-    "to_tc": "石澳",
-    "to_en": "Shek O",
+    "from_tc": "石澳",
+    "from_en": "Shek O",
+    "to_tc": "筲箕灣",
+    "to_en": "Shau Kei Wan",
     "dir": "I"
   },
   {
@@ -3873,10 +3833,10 @@
     "id": "ctb_90_I",
     "company": "ctb",
     "route": "90",
-    "from_tc": "鴨脷洲邨",
-    "from_en": "Ap Lei Chau Estate",
-    "to_tc": "中環 (交易廣場)",
-    "to_en": "Central (Exchange Square)",
+    "from_tc": "中環 (交易廣場)",
+    "from_en": "Central (Exchange Square)",
+    "to_tc": "鴨脷洲邨",
+    "to_en": "Ap Lei Chau Estate",
     "dir": "I"
   },
   {
@@ -3893,10 +3853,10 @@
     "id": "kmbctb_904_I",
     "company": "kmbctb",
     "route": "904",
-    "from_tc": "堅尼地城 (卑路乍灣)",
-    "from_en": "Kennedy Town (Belcher Bay)",
-    "to_tc": "荔枝角",
-    "to_en": "Lai Chi Kok",
+    "from_tc": "荔枝角",
+    "from_en": "Lai Chi Kok",
+    "to_tc": "堅尼地城 (卑路乍灣)",
+    "to_en": "Kennedy Town (Belcher Bay)",
     "dir": "I"
   },
   {
@@ -3913,10 +3873,10 @@
     "id": "kmbctb_905_I",
     "company": "kmbctb",
     "route": "905",
-    "from_tc": "會展站",
-    "from_en": "Exhibition Centre Station",
-    "to_tc": "荔枝角",
-    "to_en": "Lai Chi Kok",
+    "from_tc": "荔枝角",
+    "from_en": "Lai Chi Kok",
+    "to_tc": "會展站",
+    "to_en": "Exhibition Centre Station",
     "dir": "I"
   },
   {
@@ -3963,10 +3923,10 @@
     "id": "kmbctb_907C_I",
     "company": "kmbctb",
     "route": "907C",
-    "from_tc": "大埔 (富蝶)",
-    "from_en": "Tai Po (Fu Tip)",
-    "to_tc": "灣仔 (會議展覽中心)",
-    "to_en": "Wan Chai (HKCEC)",
+    "from_tc": "灣仔 (會議展覽中心)",
+    "from_en": "Wan Chai (HKCEC)",
+    "to_tc": "大埔 (富蝶)",
+    "to_en": "Tai Po (Fu Tip)",
     "dir": "I"
   },
   {
@@ -3980,13 +3940,33 @@
     "dir": "O"
   },
   {
+    "id": "ctb_907D_I",
+    "company": "ctb",
+    "route": "907D",
+    "from_tc": "小西灣運動場",
+    "from_en": "Siu Sai Wan Sports Ground",
+    "to_tc": "大埔 (汀太路)",
+    "to_en": "Tai Po (Ting Tai Road)",
+    "dir": "I"
+  },
+  {
+    "id": "ctb_907D_O",
+    "company": "ctb",
+    "route": "907D",
+    "from_tc": "大埔 (汀太路)",
+    "from_en": "Tai Po (Ting Tai Road)",
+    "to_tc": "小西灣運動場",
+    "to_en": "Siu Sai Wan Sports Ground",
+    "dir": "O"
+  },
+  {
     "id": "ctb_90B_I",
     "company": "ctb",
     "route": "90B",
-    "from_tc": "海怡半島",
-    "from_en": "South Horizons",
-    "to_tc": "金鐘 (東)",
-    "to_en": "Admiralty (East)",
+    "from_tc": "金鐘 (東)",
+    "from_en": "Admiralty (East)",
+    "to_tc": "海怡半島",
+    "to_en": "South Horizons",
     "dir": "I"
   },
   {
@@ -4013,10 +3993,10 @@
     "id": "ctb_91_I",
     "company": "ctb",
     "route": "91",
-    "from_tc": "鴨脷洲邨",
-    "from_en": "Ap Lei Chau Estate",
-    "to_tc": "中環碼頭",
-    "to_en": "Central (Ferry Piers)",
+    "from_tc": "中環碼頭",
+    "from_en": "Central (Ferry Piers)",
+    "to_tc": "鴨脷洲邨",
+    "to_en": "Ap Lei Chau Estate",
     "dir": "I"
   },
   {
@@ -4033,10 +4013,10 @@
     "id": "kmbctb_914_I",
     "company": "kmbctb",
     "route": "914",
-    "from_tc": "天后站",
-    "from_en": "Tin Hau Station",
-    "to_tc": "海麗邨",
-    "to_en": "Hoi Lai Estate",
+    "from_tc": "海麗邨",
+    "from_en": "Hoi Lai Estate",
+    "to_tc": "天后站",
+    "to_en": "Tin Hau Station",
     "dir": "I"
   },
   {
@@ -4073,10 +4053,10 @@
     "id": "ctb_91A_I",
     "company": "ctb",
     "route": "91A",
-    "from_tc": "鴨脷洲邨",
-    "from_en": "Ap Lei Chau Estate",
-    "to_tc": "華富 (南)",
-    "to_en": "Wah Fu (South)",
+    "from_tc": "華富 (南)",
+    "from_en": "Wah Fu (South)",
+    "to_tc": "鴨脷洲邨",
+    "to_en": "Ap Lei Chau Estate",
     "dir": "I"
   },
   {
@@ -4103,10 +4083,10 @@
     "id": "ctb_930_I",
     "company": "ctb",
     "route": "930",
-    "from_tc": "荃灣 (愉景新城／荃灣西站)",
-    "from_en": "Tsuen Wan (Discovery Park / Tsuen Wan West Station)",
-    "to_tc": "會展站",
-    "to_en": "Exhibition Centre Station",
+    "from_tc": "會展站",
+    "from_en": "Exhibition Centre Station",
+    "to_tc": "荃灣 (愉景新城／荃灣西站)",
+    "to_en": "Tsuen Wan (Discovery Park / Tsuen Wan West Station)",
     "dir": "I"
   },
   {
@@ -4123,10 +4103,10 @@
     "id": "ctb_930A_I",
     "company": "ctb",
     "route": "930A",
-    "from_tc": "荃灣西站",
-    "from_en": "Tsuen Wan West Station",
-    "to_tc": "會展站",
-    "to_en": "Exhibition Centre Station",
+    "from_tc": "會展站",
+    "from_en": "Exhibition Centre Station",
+    "to_tc": "荃灣西站",
+    "to_en": "Tsuen Wan West Station",
     "dir": "I"
   },
   {
@@ -4153,10 +4133,10 @@
     "id": "ctb_930X_I",
     "company": "ctb",
     "route": "930X",
-    "from_tc": "荃灣 (愉景新城)",
-    "from_en": "Tsuen Wan (Discovery Park)",
-    "to_tc": "銅鑼灣 (摩頓台)",
-    "to_en": "Causeway Bay (Moreton Terrace)",
+    "from_tc": "銅鑼灣 (摩頓台)",
+    "from_en": "Causeway Bay (Moreton Terrace)",
+    "to_tc": "荃灣 (愉景新城)",
+    "to_en": "Tsuen Wan (Discovery Park)",
     "dir": "I"
   },
   {
@@ -4173,10 +4153,10 @@
     "id": "ctb_933_I",
     "company": "ctb",
     "route": "933",
-    "from_tc": "荃灣西站",
-    "from_en": "Tsuen Wan West Station",
-    "to_tc": "西灣河",
-    "to_en": "Sai Wan Ho",
+    "from_tc": "西灣河",
+    "from_en": "Sai Wan Ho",
+    "to_tc": "荃灣西站",
+    "to_en": "Tsuen Wan West Station",
     "dir": "I"
   },
   {
@@ -4213,10 +4193,10 @@
     "id": "kmbctb_948_I",
     "company": "kmbctb",
     "route": "948",
-    "from_tc": "青衣 (長安邨)",
-    "from_en": "Tsing Yi (Cheung On Estate)",
-    "to_tc": "天后站",
-    "to_en": "Tin Hau Station",
+    "from_tc": "天后站",
+    "from_en": "Tin Hau Station",
+    "to_tc": "青衣 (長安邨)",
+    "to_en": "Tsing Yi (Cheung On Estate)",
     "dir": "I"
   },
   {
@@ -4253,10 +4233,10 @@
     "id": "kmbctb_948E_I",
     "company": "kmbctb",
     "route": "948E",
-    "from_tc": "青衣站",
-    "from_en": "Tsing Yi Station",
-    "to_tc": "太古 (康怡廣場)",
-    "to_en": "Tai Koo (Kornhill Plaza)",
+    "from_tc": "太古 (康怡廣場)",
+    "from_en": "Tai Koo (Kornhill Plaza)",
+    "to_tc": "青衣站",
+    "to_en": "Tsing Yi Station",
     "dir": "I"
   },
   {
@@ -4293,10 +4273,10 @@
     "id": "ctb_94A_I",
     "company": "ctb",
     "route": "94A",
-    "from_tc": "華富 (中)",
-    "from_en": "Wah Fu (Central)",
-    "to_tc": "利東邨",
-    "to_en": "Lei Tung Estate",
+    "from_tc": "利東邨",
+    "from_en": "Lei Tung Estate",
+    "to_tc": "華富 (中)",
+    "to_en": "Wah Fu (Central)",
     "dir": "I"
   },
   {
@@ -4313,10 +4293,10 @@
     "id": "ctb_950_I",
     "company": "ctb",
     "route": "950",
-    "from_tc": "屯門 (菁田及和田)",
-    "from_en": "Tuen Mun (Ching Tin and Wo Tin)",
-    "to_tc": "會展站",
-    "to_en": "Exhibition Centre Station",
+    "from_tc": "會展站",
+    "from_en": "Exhibition Centre Station",
+    "to_tc": "屯門 (菁田及和田)",
+    "to_en": "Tuen Mun (Ching Tin and Wo Tin)",
     "dir": "I"
   },
   {
@@ -4333,10 +4313,10 @@
     "id": "ctb_952_I",
     "company": "ctb",
     "route": "952",
-    "from_tc": "屯門 (置樂花園)",
-    "from_en": "Tuen Mun (Chi Lok Fa Yuen)",
-    "to_tc": "銅鑼灣 (摩頓台)／金鐘 (西)",
-    "to_en": "Causeway Bay (Moreton Terrace) / Admiralty (West)",
+    "from_tc": "銅鑼灣 (摩頓台)／金鐘 (西)",
+    "from_en": "Causeway Bay (Moreton Terrace) / Admiralty (West)",
+    "to_tc": "屯門 (置樂花園)",
+    "to_en": "Tuen Mun (Chi Lok Fa Yuen)",
     "dir": "I"
   },
   {
@@ -4353,10 +4333,10 @@
     "id": "ctb_952C_I",
     "company": "ctb",
     "route": "952C",
-    "from_tc": "掃管笏",
-    "from_en": "So Kwun Wat",
-    "to_tc": "太古 (康怡廣場)",
-    "to_en": "Tai Koo (Kornhill Plaza)",
+    "from_tc": "太古 (康怡廣場)",
+    "from_en": "Tai Koo (Kornhill Plaza)",
+    "to_tc": "掃管笏",
+    "to_en": "So Kwun Wat",
     "dir": "I"
   },
   {
@@ -4383,10 +4363,10 @@
     "id": "ctb_955_I",
     "company": "ctb",
     "route": "955",
-    "from_tc": "屯門 (菁田及和田)",
-    "from_en": "Tuen Mun (Ching Tin and Wo Tin)",
-    "to_tc": "西灣河",
-    "to_en": "Sai Wan Ho",
+    "from_tc": "西灣河",
+    "from_en": "Sai Wan Ho",
+    "to_tc": "屯門 (菁田及和田)",
+    "to_en": "Tuen Mun (Ching Tin and Wo Tin)",
     "dir": "I"
   },
   {
@@ -4403,10 +4383,10 @@
     "id": "ctb_95C_I",
     "company": "ctb",
     "route": "95C",
-    "from_tc": "鴨脷洲邨 / 利南工業區",
-    "from_en": "Ap Lei Chau Estate / Lee Nam Industrial Area",
-    "to_tc": "置富花園",
-    "to_en": "Chi Fu Fa Yuen",
+    "from_tc": "置富花園",
+    "from_en": "Chi Fu Fa Yuen",
+    "to_tc": "鴨脷洲邨 / 利南工業區",
+    "to_en": "Ap Lei Chau Estate / Lee Nam Industrial Area",
     "dir": "I"
   },
   {
@@ -4433,10 +4413,10 @@
     "id": "ctb_962_I",
     "company": "ctb",
     "route": "962",
-    "from_tc": "屯門 (龍門居)",
-    "from_en": "Tuen Mun (Lung Mun Oasis)",
-    "to_tc": "銅鑼灣 (摩頓台)",
-    "to_en": "Causeway Bay (Moreton Terrace)",
+    "from_tc": "銅鑼灣 (摩頓台)",
+    "from_en": "Causeway Bay (Moreton Terrace)",
+    "to_tc": "屯門 (龍門居)",
+    "to_en": "Tuen Mun (Lung Mun Oasis)",
     "dir": "I"
   },
   {
@@ -4463,10 +4443,10 @@
     "id": "ctb_962C_I",
     "company": "ctb",
     "route": "962C",
-    "from_tc": "屯門 (龍門居)",
-    "from_en": "Tuen Mun (Lung Mun Oasis)",
-    "to_tc": "太古 (康怡廣場)",
-    "to_en": "Tai Koo (Kornhill Plaza)",
+    "from_tc": "太古 (康怡廣場)",
+    "from_en": "Tai Koo (Kornhill Plaza)",
+    "to_tc": "屯門 (龍門居)",
+    "to_en": "Tuen Mun (Lung Mun Oasis)",
     "dir": "I"
   },
   {
@@ -4503,10 +4483,10 @@
     "id": "ctb_962X_I",
     "company": "ctb",
     "route": "962X",
-    "from_tc": "屯門 (龍門居)",
-    "from_en": "Tuen Mun (Lung Mun Oasis)",
-    "to_tc": "銅鑼灣 (摩頓台)",
-    "to_en": "Causeway Bay (Moreton Terrace)",
+    "from_tc": "銅鑼灣 (摩頓台)",
+    "from_en": "Causeway Bay (Moreton Terrace)",
+    "to_tc": "屯門 (龍門居)",
+    "to_en": "Tuen Mun (Lung Mun Oasis)",
     "dir": "I"
   },
   {
@@ -4523,10 +4503,10 @@
     "id": "ctb_967_I",
     "company": "ctb",
     "route": "967",
-    "from_tc": "天水圍 (天恩邨)",
-    "from_en": "Tin Shui Wai (Tin Yan Estate)",
-    "to_tc": "金鐘 (西)",
-    "to_en": "Admiralty (West)",
+    "from_tc": "金鐘 (西)",
+    "from_en": "Admiralty (West)",
+    "to_tc": "天水圍 (天恩邨)",
+    "to_en": "Tin Shui Wai (Tin Yan Estate)",
     "dir": "I"
   },
   {
@@ -4543,10 +4523,10 @@
     "id": "ctb_967X_I",
     "company": "ctb",
     "route": "967X",
-    "from_tc": "天水圍 (天恩邨)",
-    "from_en": "Tin Shui Wai (Tin Yan Estate)",
-    "to_tc": "銅鑼灣 (經天水圍北)",
-    "to_en": "Causeway Bay (via Tin Shui Wai North)",
+    "from_tc": "銅鑼灣 (經天水圍北)",
+    "from_en": "Causeway Bay (via Tin Shui Wai North)",
+    "to_tc": "天水圍 (天恩邨)",
+    "to_en": "Tin Shui Wai (Tin Yan Estate)",
     "dir": "I"
   },
   {
@@ -4563,10 +4543,10 @@
     "id": "ctb_969_I",
     "company": "ctb",
     "route": "969",
-    "from_tc": "天水圍市中心",
-    "from_en": "Tin Shui Wai Town Centre",
-    "to_tc": "銅鑼灣 (摩頓台)",
-    "to_en": "Causeway Bay (Moreton Terrace)",
+    "from_tc": "銅鑼灣 (摩頓台)",
+    "from_en": "Causeway Bay (Moreton Terrace)",
+    "to_tc": "天水圍市中心",
+    "to_en": "Tin Shui Wai Town Centre",
     "dir": "I"
   },
   {
@@ -4583,20 +4563,20 @@
     "id": "ctb_969A_I",
     "company": "ctb",
     "route": "969A",
-    "from_tc": "天水圍 (北)",
-    "from_en": "Tin Shui Wai (North)",
-    "to_tc": "灣仔",
-    "to_en": "Wan Chai",
+    "from_tc": "灣仔",
+    "from_en": "Wan Chai",
+    "to_tc": "天水圍 (北)",
+    "to_en": "Tin Shui Wai (North)",
     "dir": "I"
   },
   {
     "id": "ctb_969B_I",
     "company": "ctb",
     "route": "969B",
-    "from_tc": "天水圍市中心",
-    "from_en": "Tin Shui Wai Town Centre",
-    "to_tc": "灣仔",
-    "to_en": "Wan Chai",
+    "from_tc": "灣仔",
+    "from_en": "Wan Chai",
+    "to_tc": "天水圍市中心",
+    "to_en": "Tin Shui Wai Town Centre",
     "dir": "I"
   },
   {
@@ -4613,10 +4593,10 @@
     "id": "ctb_969C_I",
     "company": "ctb",
     "route": "969C",
-    "from_tc": "天水圍 (天瑞邨)",
-    "from_en": "Tin Shui Wai (Tin Shui Estate)",
-    "to_tc": "太古 (康怡廣場)",
-    "to_en": "Tai Koo (Kornhill Plaza)",
+    "from_tc": "太古 (康怡廣場)",
+    "from_en": "Tai Koo (Kornhill Plaza)",
+    "to_tc": "天水圍 (天瑞邨)",
+    "to_en": "Tin Shui Wai (Tin Shui Estate)",
     "dir": "I"
   },
   {
@@ -4663,10 +4643,10 @@
     "id": "ctb_97_I",
     "company": "ctb",
     "route": "97",
-    "from_tc": "利東邨",
-    "from_en": "Lei Tung Estate",
-    "to_tc": "中環 (交易廣場)",
-    "to_en": "Central (Exchange Square)",
+    "from_tc": "中環 (交易廣場)",
+    "from_en": "Central (Exchange Square)",
+    "to_tc": "利東邨",
+    "to_en": "Lei Tung Estate",
     "dir": "I"
   },
   {
@@ -4683,10 +4663,10 @@
     "id": "ctb_970_I",
     "company": "ctb",
     "route": "970",
-    "from_tc": "數碼港",
-    "from_en": "Cyberport",
-    "to_tc": "蘇屋邨",
-    "to_en": "So Uk Estate",
+    "from_tc": "蘇屋邨",
+    "from_en": "So Uk Estate",
+    "to_tc": "數碼港",
+    "to_en": "Cyberport",
     "dir": "I"
   },
   {
@@ -4703,10 +4683,10 @@
     "id": "ctb_970X_I",
     "company": "ctb",
     "route": "970X",
-    "from_tc": "香港仔",
-    "from_en": "Aberdeen",
-    "to_tc": "長沙灣 (甘泉街)",
-    "to_en": "Cheung Sha Wan (Kom Tsun Street)",
+    "from_tc": "長沙灣 (甘泉街)",
+    "from_en": "Cheung Sha Wan (Kom Tsun Street)",
+    "to_tc": "香港仔",
+    "to_en": "Aberdeen",
     "dir": "I"
   },
   {
@@ -4723,10 +4703,10 @@
     "id": "ctb_971_I",
     "company": "ctb",
     "route": "971",
-    "from_tc": "香港仔 (石排灣)",
-    "from_en": "Aberdeen (Shek Pai Wan)",
-    "to_tc": "海麗邨",
-    "to_en": "Hoi Lai Estate",
+    "from_tc": "海麗邨",
+    "from_en": "Hoi Lai Estate",
+    "to_tc": "香港仔 (石排灣)",
+    "to_en": "Aberdeen (Shek Pai Wan)",
     "dir": "I"
   },
   {
@@ -4740,23 +4720,13 @@
     "dir": "O"
   },
   {
-    "id": "ctb_971R_O",
-    "company": "ctb",
-    "route": "971R",
-    "from_tc": "數碼港 (經域多利道)",
-    "from_en": "Cyberport  (via Victoria Road)",
-    "to_tc": "旺角",
-    "to_en": "Mong Kok",
-    "dir": "O"
-  },
-  {
     "id": "ctb_973_I",
     "company": "ctb",
     "route": "973",
-    "from_tc": "尖沙咀 (麼地道)",
-    "from_en": "Tsim Sha Tsui (Mody Road)",
-    "to_tc": "赤柱市場",
-    "to_en": "Stanley Market",
+    "from_tc": "赤柱市場",
+    "from_en": "Stanley Market",
+    "to_tc": "尖沙咀 (麼地道)",
+    "to_en": "Tsim Sha Tsui (Mody Road)",
     "dir": "I"
   },
   {
@@ -4773,10 +4743,10 @@
     "id": "ctb_976_I",
     "company": "ctb",
     "route": "976",
-    "from_tc": "落馬洲 (新田)",
-    "from_en": "Lok Ma Chau (San Tin)",
-    "to_tc": "西灣河",
-    "to_en": "Sai Wan Ho",
+    "from_tc": "西灣河",
+    "from_en": "Sai Wan Ho",
+    "to_tc": "落馬洲 (新田)",
+    "to_en": "Lok Ma Chau (San Tin)",
     "dir": "I"
   },
   {
@@ -4793,10 +4763,10 @@
     "id": "ctb_976A_I",
     "company": "ctb",
     "route": "976A",
-    "from_tc": "落馬洲 (新田)",
-    "from_en": "Lok Ma Chau (San Tin)",
-    "to_tc": "小西灣 (藍灣半島)",
-    "to_en": "Siu Sai Wan (Island Resort)",
+    "from_tc": "小西灣 (藍灣半島)",
+    "from_en": "Siu Sai Wan (Island Resort)",
+    "to_tc": "落馬洲 (新田)",
+    "to_en": "Lok Ma Chau (San Tin)",
     "dir": "I"
   },
   {
@@ -4813,10 +4783,10 @@
     "id": "ctb_979_I",
     "company": "ctb",
     "route": "979",
-    "from_tc": "粉嶺皇后山",
-    "from_en": "Queen's Hill Fanling",
-    "to_tc": "中環 (香港站)",
-    "to_en": "Central (Hong Kong Station)",
+    "from_tc": "中環 (香港站)",
+    "from_en": "Central (Hong Kong Station)",
+    "to_tc": "粉嶺皇后山",
+    "to_en": "Queen's Hill Fanling",
     "dir": "I"
   },
   {
@@ -4833,10 +4803,10 @@
     "id": "ctb_98_I",
     "company": "ctb",
     "route": "98",
-    "from_tc": "利東邨",
-    "from_en": "Lei Tung Estate",
-    "to_tc": "香港仔 (成都道)",
-    "to_en": "Aberdeen (Chengtu Road)",
+    "from_tc": "香港仔 (成都道)",
+    "from_en": "Aberdeen (Chengtu Road)",
+    "to_tc": "利東邨",
+    "to_en": "Lei Tung Estate",
     "dir": "I"
   },
   {
@@ -4863,10 +4833,10 @@
     "id": "kmbctb_980X_I",
     "company": "kmbctb",
     "route": "980X",
-    "from_tc": "馬鞍山 (烏溪沙站)",
-    "from_en": "Ma On Shan (Wu Kai Sha Station)",
-    "to_tc": "灣仔",
-    "to_en": "Wan Chai",
+    "from_tc": "灣仔",
+    "from_en": "Wan Chai",
+    "to_tc": "馬鞍山 (烏溪沙站)",
+    "to_en": "Ma On Shan (Wu Kai Sha Station)",
     "dir": "I"
   },
   {
@@ -4883,10 +4853,10 @@
     "id": "kmbctb_981P_I",
     "company": "kmbctb",
     "route": "981P",
-    "from_tc": "馬鞍山 (耀安邨)",
-    "from_en": "Ma On Shan (Yiu On Estate)",
-    "to_tc": "灣仔",
-    "to_en": "Wan Chai",
+    "from_tc": "灣仔",
+    "from_en": "Wan Chai",
+    "to_tc": "馬鞍山 (耀安邨)",
+    "to_en": "Ma On Shan (Yiu On Estate)",
     "dir": "I"
   },
   {
@@ -4913,10 +4883,10 @@
     "id": "kmbctb_982X_I",
     "company": "kmbctb",
     "route": "982X",
-    "from_tc": "沙田 (愉翠苑)",
-    "from_en": "Sha Tin (Yu Chui Court)",
-    "to_tc": "灣仔",
-    "to_en": "Wan Chai",
+    "from_tc": "灣仔",
+    "from_en": "Wan Chai",
+    "to_tc": "沙田 (愉翠苑)",
+    "to_en": "Sha Tin (Yu Chui Court)",
     "dir": "I"
   },
   {
@@ -4933,10 +4903,10 @@
     "id": "kmbctb_985_I",
     "company": "kmbctb",
     "route": "985",
-    "from_tc": "沙田 (美田邨)",
-    "from_en": "Shatin (Mei Tin Estate)",
-    "to_tc": "銅鑼灣",
-    "to_en": "Causeway Bay",
+    "from_tc": "銅鑼灣",
+    "from_en": "Causeway Bay",
+    "to_tc": "沙田 (美田邨)",
+    "to_en": "Shatin (Mei Tin Estate)",
     "dir": "I"
   },
   {
@@ -4993,10 +4963,10 @@
     "id": "ctb_988_I",
     "company": "ctb",
     "route": "988",
-    "from_tc": "柴灣 (東)",
-    "from_en": "Chai Wan (East)",
-    "to_tc": "泥涌",
-    "to_en": "Nai Chung",
+    "from_tc": "泥涌",
+    "from_en": "Nai Chung",
+    "to_tc": "柴灣 (東)",
+    "to_en": "Chai Wan (East)",
     "dir": "I"
   },
   {
@@ -5023,10 +4993,10 @@
     "id": "ctb_99_I",
     "company": "ctb",
     "route": "99",
-    "from_tc": "海怡半島",
-    "from_en": "South Horizons",
-    "to_tc": "筲箕灣",
-    "to_en": "Shau Kei Wan",
+    "from_tc": "筲箕灣",
+    "from_en": "Shau Kei Wan",
+    "to_tc": "海怡半島",
+    "to_en": "South Horizons",
     "dir": "I"
   },
   {
@@ -5053,10 +5023,10 @@
     "id": "ctb_A10_I",
     "company": "ctb",
     "route": "A10",
-    "from_tc": "鴨脷洲 (利樂街)",
-    "from_en": "Ap Lei Chau (Lee Lok Street)",
-    "to_tc": "機場 (經港珠澳大橋香港口岸)",
-    "to_en": "Airport (via HZMB Hong Kong Port)",
+    "from_tc": "機場 (經港珠澳大橋香港口岸)",
+    "from_en": "Airport (via HZMB Hong Kong Port)",
+    "to_tc": "鴨脷洲 (利樂街)",
+    "to_en": "Ap Lei Chau (Lee Lok Street)",
     "dir": "I"
   },
   {
@@ -5073,10 +5043,10 @@
     "id": "ctb_A11_I",
     "company": "ctb",
     "route": "A11",
-    "from_tc": "北角碼頭",
-    "from_en": "North Point Ferry Pier",
-    "to_tc": "機場 (經港珠澳大橋香港口岸)",
-    "to_en": "Airport (via HZMB Hong Kong Port)",
+    "from_tc": "機場 (經港珠澳大橋香港口岸)",
+    "from_en": "Airport (via HZMB Hong Kong Port)",
+    "to_tc": "北角碼頭",
+    "to_en": "North Point Ferry Pier",
     "dir": "I"
   },
   {
@@ -5093,10 +5063,10 @@
     "id": "ctb_A12_I",
     "company": "ctb",
     "route": "A12",
-    "from_tc": "小西灣 (藍灣半島)",
-    "from_en": "Siu Sai Wan (Island Resort)",
-    "to_tc": "機場 (經港珠澳大橋香港口岸)",
-    "to_en": "Airport (via HZMB Hong Kong Port)",
+    "from_tc": "機場 (經港珠澳大橋香港口岸)",
+    "from_en": "Airport (via HZMB Hong Kong Port)",
+    "to_tc": "小西灣 (藍灣半島)",
+    "to_en": "Siu Sai Wan (Island Resort)",
     "dir": "I"
   },
   {
@@ -5113,10 +5083,10 @@
     "id": "ctb_A17_I",
     "company": "ctb",
     "route": "A17",
-    "from_tc": "深灣 (經海洋公園)",
-    "from_en": "Sham Wan (via Ocean Park)",
-    "to_tc": "機場 (經港珠澳大橋香港口岸)",
-    "to_en": "Airport (via HZMB Hong Kong Port)",
+    "from_tc": "機場 (經港珠澳大橋香港口岸)",
+    "from_en": "Airport (via HZMB Hong Kong Port)",
+    "to_tc": "深灣 (經海洋公園)",
+    "to_en": "Sham Wan (via Ocean Park)",
     "dir": "I"
   },
   {
@@ -5133,10 +5103,10 @@
     "id": "ctb_A20_I",
     "company": "ctb",
     "route": "A20",
-    "from_tc": "紅磡站",
-    "from_en": "Hung Hom Station",
-    "to_tc": "機場",
-    "to_en": "Airport",
+    "from_tc": "機場",
+    "from_en": "Airport",
+    "to_tc": "紅磡站",
+    "to_en": "Hung Hom Station",
     "dir": "I"
   },
   {
@@ -5153,10 +5123,10 @@
     "id": "ctb_A21_I",
     "company": "ctb",
     "route": "A21",
-    "from_tc": "紅磡站",
-    "from_en": "Hung Hom Station",
-    "to_tc": "機場 (經港珠澳大橋香港口岸)",
-    "to_en": "Airport (via HZMB Hong Kong Port)",
+    "from_tc": "機場 (經港珠澳大橋香港口岸)",
+    "from_en": "Airport (via HZMB Hong Kong Port)",
+    "to_tc": "紅磡站",
+    "to_en": "Hung Hom Station",
     "dir": "I"
   },
   {
@@ -5173,10 +5143,10 @@
     "id": "ctb_A22_I",
     "company": "ctb",
     "route": "A22",
-    "from_tc": "藍田站",
-    "from_en": "Lam Tin Station",
-    "to_tc": "機場 (經港珠澳大橋香港口岸)",
-    "to_en": "Airport (via HZMB Hong Kong Port)",
+    "from_tc": "機場 (經港珠澳大橋香港口岸)",
+    "from_en": "Airport (via HZMB Hong Kong Port)",
+    "to_tc": "藍田站",
+    "to_en": "Lam Tin Station",
     "dir": "I"
   },
   {
@@ -5193,10 +5163,10 @@
     "id": "ctb_A23_I",
     "company": "ctb",
     "route": "A23",
-    "from_tc": "慈雲山 (北)",
-    "from_en": "Tsz Wan Shan (North)",
-    "to_tc": "機場 (經港珠澳大橋香港口岸)",
-    "to_en": "Airport (via HZMB Hong Kong Port)",
+    "from_tc": "機場 (經港珠澳大橋香港口岸)",
+    "from_en": "Airport (via HZMB Hong Kong Port)",
+    "to_tc": "慈雲山 (北)",
+    "to_en": "Tsz Wan Shan (North)",
     "dir": "I"
   },
   {
@@ -5213,10 +5183,10 @@
     "id": "ctb_A25_I",
     "company": "ctb",
     "route": "A25",
-    "from_tc": "啟德 (經尖沙咀)",
-    "from_en": "Kai Tak (via Tsim Sha Tsui)",
-    "to_tc": "機場 (經港珠澳大橋香港口岸)",
-    "to_en": "Airport (via HZMB Hong Kong Port)",
+    "from_tc": "機場 (經港珠澳大橋香港口岸)",
+    "from_en": "Airport (via HZMB Hong Kong Port)",
+    "to_tc": "啟德 (經尖沙咀)",
+    "to_en": "Kai Tak (via Tsim Sha Tsui)",
     "dir": "I"
   },
   {
@@ -5233,10 +5203,10 @@
     "id": "ctb_A26_I",
     "company": "ctb",
     "route": "A26",
-    "from_tc": "油塘",
-    "from_en": "Yau Tong",
-    "to_tc": "機場 (經港珠澳大橋香港口岸)",
-    "to_en": "Airport (via HZMB Hong Kong Port)",
+    "from_tc": "機場 (經港珠澳大橋香港口岸)",
+    "from_en": "Airport (via HZMB Hong Kong Port)",
+    "to_tc": "油塘",
+    "to_en": "Yau Tong",
     "dir": "I"
   },
   {
@@ -5253,10 +5223,10 @@
     "id": "ctb_A28_I",
     "company": "ctb",
     "route": "A28",
-    "from_tc": "日出康城",
-    "from_en": "LOHAS Park",
-    "to_tc": "機場 (經港珠澳大橋香港口岸)",
-    "to_en": "Airport (via HZMB Hong Kong Port)",
+    "from_tc": "機場 (經港珠澳大橋香港口岸)",
+    "from_en": "Airport (via HZMB Hong Kong Port)",
+    "to_tc": "日出康城",
+    "to_en": "LOHAS Park",
     "dir": "I"
   },
   {
@@ -5273,10 +5243,10 @@
     "id": "ctb_A29_I",
     "company": "ctb",
     "route": "A29",
-    "from_tc": "將軍澳 (寶琳)",
-    "from_en": "Tseung Kwan O (Po Lam)",
-    "to_tc": "機場 (經港珠澳大橋香港口岸)",
-    "to_en": "Airport (via HZMB Hong Kong Port)",
+    "from_tc": "機場 (經港珠澳大橋香港口岸)",
+    "from_en": "Airport (via HZMB Hong Kong Port)",
+    "to_tc": "將軍澳 (寶琳)",
+    "to_en": "Tseung Kwan O (Po Lam)",
     "dir": "I"
   },
   {
@@ -5293,10 +5263,10 @@
     "id": "ctb_B3_I",
     "company": "ctb",
     "route": "B3",
-    "from_tc": "屯門碼頭",
-    "from_en": "Tuen Mun Ferry Pier",
-    "to_tc": "深圳灣口岸",
-    "to_en": "Shenzhen Bay Port",
+    "from_tc": "深圳灣口岸",
+    "from_en": "Shenzhen Bay Port",
+    "to_tc": "屯門碼頭",
+    "to_en": "Tuen Mun Ferry Pier",
     "dir": "I"
   },
   {
@@ -5313,10 +5283,10 @@
     "id": "ctb_B3A_I",
     "company": "ctb",
     "route": "B3A",
-    "from_tc": "山景邨",
-    "from_en": "Shan King Estate",
-    "to_tc": "深圳灣口岸",
-    "to_en": "Shenzhen Bay Port",
+    "from_tc": "深圳灣口岸",
+    "from_en": "Shenzhen Bay Port",
+    "to_tc": "山景邨",
+    "to_en": "Shan King Estate",
     "dir": "I"
   },
   {
@@ -5343,10 +5313,10 @@
     "id": "ctb_B3X_I",
     "company": "ctb",
     "route": "B3X",
-    "from_tc": "屯門市中心",
-    "from_en": "Tuen Mun Town Centre",
-    "to_tc": "深圳灣口岸",
-    "to_en": "Shenzhen Bay Port",
+    "from_tc": "深圳灣口岸",
+    "from_en": "Shenzhen Bay Port",
+    "to_tc": "屯門市中心",
+    "to_en": "Tuen Mun Town Centre",
     "dir": "I"
   },
   {
@@ -5363,10 +5333,10 @@
     "id": "ctb_B5_I",
     "company": "ctb",
     "route": "B5",
-    "from_tc": "港珠澳大橋香港口岸",
-    "from_en": "Hong Kong-Zhuhai-Macao Bridge Hong Kong Port",
-    "to_tc": "欣澳站",
-    "to_en": "Sunny Bay Station",
+    "from_tc": "欣澳站",
+    "from_en": "Sunny Bay Station",
+    "to_tc": "港珠澳大橋香港口岸",
+    "to_en": "Hong Kong-Zhuhai-Macao Bridge Hong Kong Port",
     "dir": "I"
   },
   {
@@ -5383,10 +5353,10 @@
     "id": "ctb_B7_I",
     "company": "ctb",
     "route": "B7",
-    "from_tc": "上水 (寶運路) (經粉嶺站)",
-    "from_en": "Sheung Shui (Po Wan Road) (via Fanling Station)",
-    "to_tc": "香園圍口岸 (經粉嶺站)",
-    "to_en": "Heung Yuen Wai Port (via Fanling Station)",
+    "from_tc": "香園圍口岸 (經粉嶺站)",
+    "from_en": "Heung Yuen Wai Port (via Fanling Station)",
+    "to_tc": "上水 (寶運路) (經粉嶺站)",
+    "to_en": "Sheung Shui (Po Wan Road) (via Fanling Station)",
     "dir": "I"
   },
   {
@@ -5413,10 +5383,10 @@
     "id": "ctb_B8_I",
     "company": "ctb",
     "route": "B8",
-    "from_tc": "大圍站 (經大埔)",
-    "from_en": "Tai Wai Station (via Tai Po)",
-    "to_tc": "香園圍口岸 (經大埔)",
-    "to_en": "Heung Yuen Wai Port (via Tai Po)",
+    "from_tc": "香園圍口岸 (經大埔)",
+    "from_en": "Heung Yuen Wai Port (via Tai Po)",
+    "to_tc": "大圍站 (經大埔)",
+    "to_en": "Tai Wai Station (via Tai Po)",
     "dir": "I"
   },
   {
@@ -5433,10 +5403,10 @@
     "id": "ctb_E11_I",
     "company": "ctb",
     "route": "E11",
-    "from_tc": "天后站",
-    "from_en": "Tin Hau Station",
-    "to_tc": "航天城",
-    "to_en": "SKYCITY",
+    "from_tc": "航天城",
+    "from_en": "SKYCITY",
+    "to_tc": "天后站",
+    "to_en": "Tin Hau Station",
     "dir": "I"
   },
   {
@@ -5453,10 +5423,10 @@
     "id": "ctb_E11A_I",
     "company": "ctb",
     "route": "E11A",
-    "from_tc": "天后站",
-    "from_en": "Tin Hau Station",
-    "to_tc": "航天城 (經東涌北)",
-    "to_en": "SKYCITY (via Tung Chung North)",
+    "from_tc": "航天城 (經東涌北)",
+    "from_en": "SKYCITY (via Tung Chung North)",
+    "to_tc": "天后站",
+    "to_en": "Tin Hau Station",
     "dir": "I"
   },
   {
@@ -5473,10 +5443,10 @@
     "id": "ctb_E11B_I",
     "company": "ctb",
     "route": "E11B",
-    "from_tc": "天后站",
-    "from_en": "Tin Hau Station",
-    "to_tc": "東涌 (滿東邨)",
-    "to_en": "Tung Chung (Mun Tung Estate)",
+    "from_tc": "東涌 (滿東邨)",
+    "from_en": "Tung Chung (Mun Tung Estate)",
+    "to_tc": "天后站",
+    "to_en": "Tin Hau Station",
     "dir": "I"
   },
   {
@@ -5503,10 +5473,10 @@
     "id": "ctb_E21_I",
     "company": "ctb",
     "route": "E21",
-    "from_tc": "大角咀 (維港灣)",
-    "from_en": "Tai Kok Tsui (Island Harbourview)",
-    "to_tc": "航天城",
-    "to_en": "SKYCITY",
+    "from_tc": "航天城",
+    "from_en": "SKYCITY",
+    "to_tc": "大角咀 (維港灣)",
+    "to_en": "Tai Kok Tsui (Island Harbourview)",
     "dir": "I"
   },
   {
@@ -5523,10 +5493,10 @@
     "id": "ctb_E21A_I",
     "company": "ctb",
     "route": "E21A",
-    "from_tc": "何文田 (愛民邨)",
-    "from_en": "Ho Man Tin (Oi Man Estate)",
-    "to_tc": "東涌 (逸東邨)",
-    "to_en": "Tung Chung (Yat Tung Estate)",
+    "from_tc": "東涌 (逸東邨)",
+    "from_en": "Tung Chung (Yat Tung Estate)",
+    "to_tc": "何文田 (愛民邨)",
+    "to_en": "Ho Man Tin (Oi Man Estate)",
     "dir": "I"
   },
   {
@@ -5543,10 +5513,10 @@
     "id": "ctb_E21B_I",
     "company": "ctb",
     "route": "E21B",
-    "from_tc": "何文田 (愛民邨)",
-    "from_en": "Ho Man Tin (Oi Man Estate)",
-    "to_tc": "東涌 (逸東邨)",
-    "to_en": "Tung Chung (Yat Tung Estate)",
+    "from_tc": "東涌 (逸東邨)",
+    "from_en": "Tung Chung (Yat Tung Estate)",
+    "to_tc": "何文田 (愛民邨)",
+    "to_en": "Ho Man Tin (Oi Man Estate)",
     "dir": "I"
   },
   {
@@ -5563,10 +5533,10 @@
     "id": "ctb_E21C_I",
     "company": "ctb",
     "route": "E21C",
-    "from_tc": "大角咀 (維港灣)",
-    "from_en": "Tai Kok Tsui (Island Harbourview)",
-    "to_tc": "飛機維修區",
-    "to_en": "Aircraft Maintenance Area",
+    "from_tc": "飛機維修區",
+    "from_en": "Aircraft Maintenance Area",
+    "to_tc": "大角咀 (維港灣)",
+    "to_en": "Tai Kok Tsui (Island Harbourview)",
     "dir": "I"
   },
   {
@@ -5583,10 +5553,10 @@
     "id": "ctb_E21D_I",
     "company": "ctb",
     "route": "E21D",
-    "from_tc": "大角咀 (維港灣)",
-    "from_en": "Tai Kok Tsui (Island Harbourview)",
-    "to_tc": "航天城 (經:東涌北)",
-    "to_en": "SKYCITY (via: Tung Chung North)",
+    "from_tc": "航天城 (經:東涌北)",
+    "from_en": "SKYCITY (via: Tung Chung North)",
+    "to_tc": "大角咀 (維港灣)",
+    "to_en": "Tai Kok Tsui (Island Harbourview)",
     "dir": "I"
   },
   {
@@ -5613,10 +5583,10 @@
     "id": "ctb_E22_I",
     "company": "ctb",
     "route": "E22",
-    "from_tc": "藍田 (北)",
-    "from_en": "Lam Tin (North)",
-    "to_tc": "航天城",
-    "to_en": "SKYCITY",
+    "from_tc": "航天城",
+    "from_en": "SKYCITY",
+    "to_tc": "藍田 (北)",
+    "to_en": "Lam Tin (North)",
     "dir": "I"
   },
   {
@@ -5633,10 +5603,10 @@
     "id": "ctb_E22A_I",
     "company": "ctb",
     "route": "E22A",
-    "from_tc": "將軍澳 (康盛花園)",
-    "from_en": "Tseung Kwan O (Hong Sing Garden)",
-    "to_tc": "航天城",
-    "to_en": "SKYCITY",
+    "from_tc": "航天城",
+    "from_en": "SKYCITY",
+    "to_tc": "將軍澳 (康盛花園)",
+    "to_en": "Tseung Kwan O (Hong Sing Garden)",
     "dir": "I"
   },
   {
@@ -5653,10 +5623,10 @@
     "id": "ctb_E22C_I",
     "company": "ctb",
     "route": "E22C",
-    "from_tc": "調景嶺站",
-    "from_en": "Tiu Keng Leng Station",
-    "to_tc": "飛機維修區",
-    "to_en": "Aircraft Maintenance Area",
+    "from_tc": "飛機維修區",
+    "from_en": "Aircraft Maintenance Area",
+    "to_tc": "調景嶺站",
+    "to_en": "Tiu Keng Leng Station",
     "dir": "I"
   },
   {
@@ -5673,10 +5643,10 @@
     "id": "ctb_E22P_I",
     "company": "ctb",
     "route": "E22P",
-    "from_tc": "油塘",
-    "from_en": "Yau Tong",
-    "to_tc": "航天城",
-    "to_en": "SKYCITY",
+    "from_tc": "航天城",
+    "from_en": "SKYCITY",
+    "to_tc": "油塘",
+    "to_en": "Yau Tong",
     "dir": "I"
   },
   {
@@ -5693,10 +5663,10 @@
     "id": "ctb_E22S_I",
     "company": "ctb",
     "route": "E22S",
-    "from_tc": "東涌 (滿東邨)",
-    "from_en": "Tung Chung (Mun Tung Estate)",
-    "to_tc": "將軍澳 (寶琳)",
-    "to_en": "Tseung Kwan O (Po Lam)",
+    "from_tc": "將軍澳 (寶琳)",
+    "from_en": "Tseung Kwan O (Po Lam)",
+    "to_tc": "東涌 (滿東邨)",
+    "to_en": "Tung Chung (Mun Tung Estate)",
     "dir": "I"
   },
   {
@@ -5713,10 +5683,10 @@
     "id": "ctb_E22X_I",
     "company": "ctb",
     "route": "E22X",
-    "from_tc": "油塘",
-    "from_en": "Yau Tong",
-    "to_tc": "航天城",
-    "to_en": "SKYCITY",
+    "from_tc": "航天城",
+    "from_en": "SKYCITY",
+    "to_tc": "油塘",
+    "to_en": "Yau Tong",
     "dir": "I"
   },
   {
@@ -5733,10 +5703,10 @@
     "id": "ctb_E23_I",
     "company": "ctb",
     "route": "E23",
-    "from_tc": "慈雲山 (南)",
-    "from_en": "Tsz Wan Shan (South)",
-    "to_tc": "機場 (地面運輸中心)",
-    "to_en": "Airport (Ground Transportation Centre)",
+    "from_tc": "機場 (地面運輸中心)",
+    "from_en": "Airport (Ground Transportation Centre)",
+    "to_tc": "慈雲山 (南)",
+    "to_en": "Tsz Wan Shan (South)",
     "dir": "I"
   },
   {
@@ -5753,10 +5723,10 @@
     "id": "ctb_E23A_I",
     "company": "ctb",
     "route": "E23A",
-    "from_tc": "慈雲山 (南)",
-    "from_en": "Tsz Wan Shan (South)",
-    "to_tc": "機場 (經東涌北)",
-    "to_en": "Airport (via Tung Chung North)",
+    "from_tc": "機場 (經東涌北)",
+    "from_en": "Airport (via Tung Chung North)",
+    "to_tc": "慈雲山 (南)",
+    "to_en": "Tsz Wan Shan (South)",
     "dir": "I"
   },
   {
@@ -5783,20 +5753,20 @@
     "id": "ctb_H2_I",
     "company": "ctb",
     "route": "H2",
-    "from_tc": "中環 (天星碼頭)",
-    "from_en": "Central (Star Ferry)",
-    "to_tc": "尖沙咀",
-    "to_en": "Tsim Sha Tsui",
+    "from_tc": "尖沙咀",
+    "from_en": "Tsim Sha Tsui",
+    "to_tc": "中環 (天星碼頭)",
+    "to_en": "Central (Star Ferry)",
     "dir": "I"
   },
   {
     "id": "ctb_H2K_I",
     "company": "ctb",
     "route": "H2K",
-    "from_tc": "中環(天星碼頭)",
-    "from_en": "Central (Star Ferry)",
-    "to_tc": "西九文化區",
-    "to_en": "West Kowloon Cultural District",
+    "from_tc": "西九文化區",
+    "from_en": "West Kowloon Cultural District",
+    "to_tc": "中環(天星碼頭)",
+    "to_en": "Central (Star Ferry)",
     "dir": "I"
   },
   {
@@ -5813,10 +5783,10 @@
     "id": "ctb_N11_I",
     "company": "ctb",
     "route": "N11",
-    "from_tc": "中環 (港澳碼頭)",
-    "from_en": "Central (Macau Ferry)",
-    "to_tc": "機場 (地面運輸中心)",
-    "to_en": "Airport (Ground Transportation Centre)",
+    "from_tc": "機場 (地面運輸中心)",
+    "from_en": "Airport (Ground Transportation Centre)",
+    "to_tc": "中環 (港澳碼頭)",
+    "to_en": "Central (Macau Ferry)",
     "dir": "I"
   },
   {
@@ -5833,10 +5803,10 @@
     "id": "ctb_N118_I",
     "company": "ctb",
     "route": "N118",
-    "from_tc": "小西灣 (藍灣半島)",
-    "from_en": "Siu Sai Wan (Island Resort)",
-    "to_tc": "長沙灣 (深旺道)",
-    "to_en": "Cheung Sha Wan (Sham Mong Road)",
+    "from_tc": "長沙灣 (深旺道)",
+    "from_en": "Cheung Sha Wan (Sham Mong Road)",
+    "to_tc": "小西灣 (藍灣半島)",
+    "to_en": "Siu Sai Wan (Island Resort)",
     "dir": "I"
   },
   {
@@ -5853,10 +5823,10 @@
     "id": "ctb_N121_I",
     "company": "ctb",
     "route": "N121",
-    "from_tc": "中環 (港澳碼頭)",
-    "from_en": "Central (Macau Ferry)",
-    "to_tc": "牛頭角",
-    "to_en": "Ngau Tau Kok",
+    "from_tc": "牛頭角",
+    "from_en": "Ngau Tau Kok",
+    "to_tc": "中環 (港澳碼頭)",
+    "to_en": "Central (Macau Ferry)",
     "dir": "I"
   },
   {
@@ -5873,10 +5843,10 @@
     "id": "ctb_N122_I",
     "company": "ctb",
     "route": "N122",
-    "from_tc": "筲箕灣",
-    "from_en": "Shau Kei Wan",
-    "to_tc": "美孚",
-    "to_en": "Mei Foo",
+    "from_tc": "美孚",
+    "from_en": "Mei Foo",
+    "to_tc": "筲箕灣",
+    "to_en": "Shau Kei Wan",
     "dir": "I"
   },
   {
@@ -5893,10 +5863,10 @@
     "id": "ctb_N170_I",
     "company": "ctb",
     "route": "N170",
-    "from_tc": "華富 (中)",
-    "from_en": "Wah Fu (Central)",
-    "to_tc": "沙田巿中心",
-    "to_en": "Sha Tin Central",
+    "from_tc": "沙田巿中心",
+    "from_en": "Sha Tin Central",
+    "to_tc": "華富 (中)",
+    "to_en": "Wah Fu (Central)",
     "dir": "I"
   },
   {
@@ -5913,10 +5883,10 @@
     "id": "ctb_N171_I",
     "company": "ctb",
     "route": "N171",
-    "from_tc": "鴨脷洲邨",
-    "from_en": "Ap Lei Chau Estate",
-    "to_tc": "荔枝角",
-    "to_en": "Lai Chi Kok",
+    "from_tc": "荔枝角",
+    "from_en": "Lai Chi Kok",
+    "to_tc": "鴨脷洲邨",
+    "to_en": "Ap Lei Chau Estate",
     "dir": "I"
   },
   {
@@ -5933,10 +5903,10 @@
     "id": "ctb_N182_I",
     "company": "ctb",
     "route": "N182",
-    "from_tc": "中環 (港澳碼頭)",
-    "from_en": "Central (Macau Ferry)",
-    "to_tc": "沙田 (廣源)",
-    "to_en": "Sha Tin (Kwong Yuen)",
+    "from_tc": "沙田 (廣源)",
+    "from_en": "Sha Tin (Kwong Yuen)",
+    "to_tc": "中環 (港澳碼頭)",
+    "to_en": "Central (Macau Ferry)",
     "dir": "I"
   },
   {
@@ -5963,10 +5933,10 @@
     "id": "ctb_N21_I",
     "company": "ctb",
     "route": "N21",
-    "from_tc": "尖沙咀 (天星碼頭)",
-    "from_en": "Tsim Sha Tsui (Star Ferry)",
-    "to_tc": "機場 (地面運輸中心)",
-    "to_en": "Airport (Ground Transportation Centre)",
+    "from_tc": "機場 (地面運輸中心)",
+    "from_en": "Airport (Ground Transportation Centre)",
+    "to_tc": "尖沙咀 (天星碼頭)",
+    "to_en": "Tsim Sha Tsui (Star Ferry)",
     "dir": "I"
   },
   {
@@ -5983,10 +5953,10 @@
     "id": "ctb_N21A_I",
     "company": "ctb",
     "route": "N21A",
-    "from_tc": "尖沙咀 (天星碼頭)",
-    "from_en": "Tsim Sha Tsui (Star Ferry)",
-    "to_tc": "機場 (經逸東邨)",
-    "to_en": "Airport (via Yat Tung Estate)",
+    "from_tc": "機場 (經逸東邨)",
+    "from_en": "Airport (via Yat Tung Estate)",
+    "to_tc": "尖沙咀 (天星碼頭)",
+    "to_en": "Tsim Sha Tsui (Star Ferry)",
     "dir": "I"
   },
   {
@@ -6003,10 +5973,10 @@
     "id": "ctb_N23_I",
     "company": "ctb",
     "route": "N23",
-    "from_tc": "慈雲山 (北)",
-    "from_en": "Tsz Wan Shan (North)",
-    "to_tc": "東涌站",
-    "to_en": "Tung Chung Station",
+    "from_tc": "東涌站",
+    "from_en": "Tung Chung Station",
+    "to_tc": "慈雲山 (北)",
+    "to_en": "Tsz Wan Shan (North)",
     "dir": "I"
   },
   {
@@ -6023,10 +5993,10 @@
     "id": "ctb_N26_I",
     "company": "ctb",
     "route": "N26",
-    "from_tc": "油塘",
-    "from_en": "Yau Tong",
-    "to_tc": "東涌站",
-    "to_en": "Tung Chung Station",
+    "from_tc": "東涌站",
+    "from_en": "Tung Chung Station",
+    "to_tc": "油塘",
+    "to_en": "Yau Tong",
     "dir": "I"
   },
   {
@@ -6043,10 +6013,10 @@
     "id": "ctb_N29_I",
     "company": "ctb",
     "route": "N29",
-    "from_tc": "將軍澳 (康盛花園)",
-    "from_en": "Tseung Kwan O (Hong Sing Garden)",
-    "to_tc": "東涌站",
-    "to_en": "Tung Chung Station",
+    "from_tc": "東涌站",
+    "from_en": "Tung Chung Station",
+    "to_tc": "將軍澳 (康盛花園)",
+    "to_en": "Tseung Kwan O (Hong Sing Garden)",
     "dir": "I"
   },
   {
@@ -6063,10 +6033,10 @@
     "id": "ctb_N307_I",
     "company": "ctb",
     "route": "N307",
-    "from_tc": "上環",
-    "from_en": "Sheung Wan",
-    "to_tc": "大埔中心",
-    "to_en": "Tai Po Centre",
+    "from_tc": "太和",
+    "from_en": "Tai Wo",
+    "to_tc": "上環",
+    "to_en": "Sheung Wan",
     "dir": "I"
   },
   {
@@ -6075,18 +6045,18 @@
     "route": "N307",
     "from_tc": "上環",
     "from_en": "Sheung Wan",
-    "to_tc": "大埔中心",
-    "to_en": "Tai Po Centre",
+    "to_tc": "太和",
+    "to_en": "Tai Wo",
     "dir": "O"
   },
   {
     "id": "ctb_N50_I",
     "company": "ctb",
     "route": "N50",
-    "from_tc": "屯門 (菁田及和田)",
-    "from_en": "Tuen Mun (Ching Tin and Wo Tin)",
-    "to_tc": "尖沙咀 (九龍站)",
-    "to_en": "Tsim Sha Tsui (Kowloon Station)",
+    "from_tc": "尖沙咀 (九龍站)",
+    "from_en": "Tsim Sha Tsui (Kowloon Station)",
+    "to_tc": "屯門 (菁田及和田)",
+    "to_en": "Tuen Mun (Ching Tin and Wo Tin)",
     "dir": "I"
   },
   {
@@ -6103,10 +6073,10 @@
     "id": "ctb_N619_I",
     "company": "ctb",
     "route": "N619",
-    "from_tc": "中環 (港澳碼頭)",
-    "from_en": "Central (Macau Ferry)",
-    "to_tc": "順利邨",
-    "to_en": "Shun Lee Estate",
+    "from_tc": "順利邨",
+    "from_en": "Shun Lee Estate",
+    "to_tc": "中環 (港澳碼頭)",
+    "to_en": "Central (Macau Ferry)",
     "dir": "I"
   },
   {
@@ -6123,10 +6093,10 @@
     "id": "ctb_N680_I",
     "company": "ctb",
     "route": "N680",
-    "from_tc": "中環 (港澳碼頭)",
-    "from_en": "Central (Macau Ferry)",
-    "to_tc": "馬鞍山 (錦英苑)",
-    "to_en": "Ma On Shan (Kam Ying Court)",
+    "from_tc": "馬鞍山 (錦英苑)",
+    "from_en": "Ma On Shan (Kam Ying Court)",
+    "to_tc": "中環 (港澳碼頭)",
+    "to_en": "Central (Macau Ferry)",
     "dir": "I"
   },
   {
@@ -6143,10 +6113,10 @@
     "id": "ctb_N691_I",
     "company": "ctb",
     "route": "N691",
-    "from_tc": "中環 (港澳碼頭)",
-    "from_en": "Central (Macau Ferry)",
-    "to_tc": "調景嶺 (景嶺路)",
-    "to_en": "Tiu Keng Leng (King Ling Road)",
+    "from_tc": "調景嶺 (景嶺路)",
+    "from_en": "Tiu Keng Leng (King Ling Road)",
+    "to_tc": "中環 (港澳碼頭)",
+    "to_en": "Central (Macau Ferry)",
     "dir": "I"
   },
   {
@@ -6163,10 +6133,10 @@
     "id": "ctb_N72_I",
     "company": "ctb",
     "route": "N72",
-    "from_tc": "華貴邨",
-    "from_en": "Wah Kwai Estate",
-    "to_tc": "鰂魚涌 (海澤街)",
-    "to_en": "Quarry Bay (Hoi Chak Street)",
+    "from_tc": "鰂魚涌 (海澤街)",
+    "from_en": "Quarry Bay (Hoi Chak Street)",
+    "to_tc": "華貴邨",
+    "to_en": "Wah Kwai Estate",
     "dir": "I"
   },
   {
@@ -6183,10 +6153,10 @@
     "id": "ctb_N796_I",
     "company": "ctb",
     "route": "N796",
-    "from_tc": "日出康城",
-    "from_en": "Lohas Park",
-    "to_tc": "旺角 (經尖沙咀)",
-    "to_en": "Mongkok (via Tsim Sha Tsui)",
+    "from_tc": "旺角 (經尖沙咀)",
+    "from_en": "Mongkok (via Tsim Sha Tsui)",
+    "to_tc": "日出康城",
+    "to_en": "Lohas Park",
     "dir": "I"
   },
   {
@@ -6203,10 +6173,10 @@
     "id": "ctb_N8_I",
     "company": "ctb",
     "route": "N8",
-    "from_tc": "會展站",
-    "from_en": "Exhibition Centre Station",
-    "to_tc": "杏花邨",
-    "to_en": "Heng Fa Chuen",
+    "from_tc": "杏花邨",
+    "from_en": "Heng Fa Chuen",
+    "to_tc": "會展站",
+    "to_en": "Exhibition Centre Station",
     "dir": "I"
   },
   {
@@ -6223,10 +6193,10 @@
     "id": "ctb_N8P_I",
     "company": "ctb",
     "route": "N8P",
-    "from_tc": "小西灣 (藍灣半島)",
-    "from_en": "Siu Sai Wan (Island Resort)",
-    "to_tc": "灣仔 (港灣道)",
-    "to_en": "Wan Chai (Harbour Road)",
+    "from_tc": "灣仔 (港灣道)",
+    "from_en": "Wan Chai (Harbour Road)",
+    "to_tc": "小西灣 (藍灣半島)",
+    "to_en": "Siu Sai Wan (Island Resort)",
     "dir": "I"
   },
   {
@@ -6243,10 +6213,10 @@
     "id": "ctb_N8X_I",
     "company": "ctb",
     "route": "N8X",
-    "from_tc": "小西灣 (藍灣半島)",
-    "from_en": "Siu Sai Wan (Island Resort)",
-    "to_tc": "堅尼地城",
-    "to_en": "Kennedy Town",
+    "from_tc": "堅尼地城",
+    "from_en": "Kennedy Town",
+    "to_tc": "小西灣 (藍灣半島)",
+    "to_en": "Siu Sai Wan (Island Resort)",
     "dir": "I"
   },
   {
@@ -6263,10 +6233,10 @@
     "id": "ctb_N90_I",
     "company": "ctb",
     "route": "N90",
-    "from_tc": "海怡半島",
-    "from_en": "South Horizons",
-    "to_tc": "中環 (港澳碼頭)",
-    "to_en": "Central (Macau Ferry)",
+    "from_tc": "中環 (港澳碼頭)",
+    "from_en": "Central (Macau Ferry)",
+    "to_tc": "海怡半島",
+    "to_en": "South Horizons",
     "dir": "I"
   },
   {
@@ -6283,10 +6253,10 @@
     "id": "ctb_N930_I",
     "company": "ctb",
     "route": "N930",
-    "from_tc": "荃灣 (愉景新城)",
-    "from_en": "Tsuen Wan (Discovery Park)",
-    "to_tc": "銅鑼灣 (摩頓台)",
-    "to_en": "Causeway Bay (Moreton Terrace)",
+    "from_tc": "銅鑼灣 (摩頓台)",
+    "from_en": "Causeway Bay (Moreton Terrace)",
+    "to_tc": "荃灣 (愉景新城)",
+    "to_en": "Tsuen Wan (Discovery Park)",
     "dir": "I"
   },
   {
@@ -6303,10 +6273,10 @@
     "id": "ctb_N952_I",
     "company": "ctb",
     "route": "N952",
-    "from_tc": "屯門 (置樂花園)",
-    "from_en": "Tuen Mun (Chi Lok Fa Yuen)",
-    "to_tc": "銅鑼灣 (摩頓台)",
-    "to_en": "Causeway Bay (Moreton Terrace)",
+    "from_tc": "銅鑼灣 (摩頓台)",
+    "from_en": "Causeway Bay (Moreton Terrace)",
+    "to_tc": "屯門 (置樂花園)",
+    "to_en": "Tuen Mun (Chi Lok Fa Yuen)",
     "dir": "I"
   },
   {
@@ -6323,10 +6293,10 @@
     "id": "ctb_N962_I",
     "company": "ctb",
     "route": "N962",
-    "from_tc": "屯門 (龍門居)",
-    "from_en": "Tuen Mun (Lung Mun Oasis)",
-    "to_tc": "銅鑼灣 (摩頓台)",
-    "to_en": "Causeway Bay (Moreton Terrace)",
+    "from_tc": "銅鑼灣 (摩頓台)",
+    "from_en": "Causeway Bay (Moreton Terrace)",
+    "to_tc": "屯門 (龍門居)",
+    "to_en": "Tuen Mun (Lung Mun Oasis)",
     "dir": "I"
   },
   {
@@ -6343,10 +6313,10 @@
     "id": "ctb_N969_I",
     "company": "ctb",
     "route": "N969",
-    "from_tc": "天水圍市中心",
-    "from_en": "Tin Shui Wai Town Centre",
-    "to_tc": "銅鑼灣 (摩頓台)",
-    "to_en": "Causeway Bay (Moreton Terrace)",
+    "from_tc": "銅鑼灣 (摩頓台)",
+    "from_en": "Causeway Bay (Moreton Terrace)",
+    "to_tc": "天水圍市中心",
+    "to_en": "Tin Shui Wai Town Centre",
     "dir": "I"
   },
   {
@@ -6363,10 +6333,10 @@
     "id": "ctb_NA10_I",
     "company": "ctb",
     "route": "NA10",
-    "from_tc": "鴨脷洲 (利樂街)",
-    "from_en": "Ap Lei Chau (Lee Lok Street)",
-    "to_tc": "機場 / 港珠澳大橋香港口岸",
-    "to_en": "Airport / HZMB Hong Kong Port",
+    "from_tc": "機場 / 港珠澳大橋香港口岸",
+    "from_en": "Airport / HZMB Hong Kong Port",
+    "to_tc": "鴨脷洲 (利樂街)",
+    "to_en": "Ap Lei Chau (Lee Lok Street)",
     "dir": "I"
   },
   {
@@ -6383,10 +6353,10 @@
     "id": "ctb_NA11_I",
     "company": "ctb",
     "route": "NA11",
-    "from_tc": "北角碼頭",
-    "from_en": "North Point Ferry Pier",
-    "to_tc": "機場 / 港珠澳大橋香港口岸",
-    "to_en": "Airport / HZMB Hong Kong Port",
+    "from_tc": "機場 / 港珠澳大橋香港口岸",
+    "from_en": "Airport / HZMB Hong Kong Port",
+    "to_tc": "北角碼頭",
+    "to_en": "North Point Ferry Pier",
     "dir": "I"
   },
   {
@@ -6413,10 +6383,10 @@
     "id": "ctb_NA20_I",
     "company": "ctb",
     "route": "NA20",
-    "from_tc": "黃埔花園",
-    "from_en": "Whampoa Garden",
-    "to_tc": "機場 / 港珠澳大橋香港口岸",
-    "to_en": "Airport / HZMB Hong Kong Port",
+    "from_tc": "機場 / 港珠澳大橋香港口岸",
+    "from_en": "Airport / HZMB Hong Kong Port",
+    "to_tc": "黃埔花園",
+    "to_en": "Whampoa Garden",
     "dir": "I"
   },
   {
@@ -6433,10 +6403,10 @@
     "id": "ctb_NA21_I",
     "company": "ctb",
     "route": "NA21",
-    "from_tc": "機場 / 港珠澳大橋香港口岸",
-    "from_en": "Airport / HZMB Hong Kong Port",
-    "to_tc": "大角咀 (海輝道)",
-    "to_en": "Tai Kok Tsui (Hoi Fai Road)",
+    "from_tc": "大角咀 (海輝道)",
+    "from_en": "Tai Kok Tsui (Hoi Fai Road)",
+    "to_tc": "機場 / 港珠澳大橋香港口岸",
+    "to_en": "Airport / HZMB Hong Kong Port",
     "dir": "I"
   },
   {
@@ -6453,10 +6423,10 @@
     "id": "ctb_NA29_I",
     "company": "ctb",
     "route": "NA29",
-    "from_tc": "將軍澳 (寶琳)",
-    "from_en": "Tseung Kwan O (Po Lam)",
-    "to_tc": "機場 / 港珠澳大橋香港口岸",
-    "to_en": "Airport / HZMB Hong Kong Port",
+    "from_tc": "機場 / 港珠澳大橋香港口岸",
+    "from_en": "Airport / HZMB Hong Kong Port",
+    "to_tc": "將軍澳 (寶琳)",
+    "to_en": "Tseung Kwan O (Po Lam)",
     "dir": "I"
   },
   {
@@ -6503,10 +6473,10 @@
     "id": "ctb_S52_I",
     "company": "ctb",
     "route": "S52",
-    "from_tc": "東涌 (逸東邨)",
-    "from_en": "Tung Chung (Yat Tung Estate)",
-    "to_tc": "飛機維修區",
-    "to_en": "Aircraft Maintenance Area",
+    "from_tc": "飛機維修區",
+    "from_en": "Aircraft Maintenance Area",
+    "to_tc": "東涌 (逸東邨)",
+    "to_en": "Tung Chung (Yat Tung Estate)",
     "dir": "I"
   },
   {
@@ -6523,10 +6493,10 @@
     "id": "ctb_S52A_I",
     "company": "ctb",
     "route": "S52A",
-    "from_tc": "裕雅苑",
-    "from_en": "Yu Nga Court",
-    "to_tc": "飛機維修區",
-    "to_en": "Aircraft Maintenance Area",
+    "from_tc": "飛機維修區",
+    "from_en": "Aircraft Maintenance Area",
+    "to_tc": "裕雅苑",
+    "to_en": "Yu Nga Court",
     "dir": "I"
   },
   {
@@ -6563,10 +6533,10 @@
     "id": "ctb_X1_I",
     "company": "ctb",
     "route": "X1",
-    "from_tc": "東涌站",
-    "from_en": "Tung Chung Station",
-    "to_tc": "機場博覽館",
-    "to_en": "AsiaWorld-Expo",
+    "from_tc": "機場博覽館",
+    "from_en": "AsiaWorld-Expo",
+    "to_tc": "東涌站",
+    "to_en": "Tung Chung Station",
     "dir": "I"
   },
   {
@@ -6583,10 +6553,10 @@
     "id": "ctb_X15_I",
     "company": "ctb",
     "route": "X15",
-    "from_tc": "中環 (天星碼頭)",
-    "from_en": "Central (Star Ferry)",
-    "to_tc": "山頂",
-    "to_en": "The Peak",
+    "from_tc": "山頂",
+    "from_en": "The Peak",
+    "to_tc": "中環 (天星碼頭)",
+    "to_en": "Central (Star Ferry)",
     "dir": "I"
   },
   {
@@ -6603,10 +6573,10 @@
     "id": "ctb_X797_I",
     "company": "ctb",
     "route": "X797",
-    "from_tc": "調景嶺站",
-    "from_en": "Tiu Keng Leng Station",
-    "to_tc": "消防及救護學院",
-    "to_en": "Fire and Ambulance Services Academy",
+    "from_tc": "消防及救護學院",
+    "from_en": "Fire and Ambulance Services Academy",
+    "to_tc": "調景嶺站",
+    "to_en": "Tiu Keng Leng Station",
     "dir": "I"
   },
   {
@@ -6633,10 +6603,10 @@
     "id": "ctb_X9_I",
     "company": "ctb",
     "route": "X9",
-    "from_tc": "中環 (天星碼頭)",
-    "from_en": "Central (Star Ferry)",
-    "to_tc": "石澳",
-    "to_en": "Shek O",
+    "from_tc": "石澳",
+    "from_en": "Shek O",
+    "to_tc": "中環 (天星碼頭)",
+    "to_en": "Central (Star Ferry)",
     "dir": "I"
   },
   {

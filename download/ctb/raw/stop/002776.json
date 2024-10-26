@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-09-29T13:59:17+08:00",
+  "generated_timestamp": "2024-10-26T19:52:15+08:00",
   "data": {
     "stop": "002776",
     "name_tc": "基利路",
@@ -9,6 +9,6 @@
     "lat": "22.283896142091",
     "long": "114.21358259053",
     "name_sc": "基利路",
-    "data_timestamp": "2024-09-29T05:00:03+08:00"
+    "data_timestamp": "2024-10-26T05:00:03+08:00"
   }
 }

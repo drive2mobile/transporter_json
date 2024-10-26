@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-09-29T14:02:34+08:00",
+  "generated_timestamp": "2024-10-26T20:02:42+08:00",
   "data": {
     "stop": "002954",
     "name_tc": "大浪灣",
@@ -9,6 +9,6 @@
     "lat": "22.244700042091",
     "long": "114.24562718053",
     "name_sc": "大浪湾",
-    "data_timestamp": "2024-09-29T05:00:03+08:00"
+    "data_timestamp": "2024-10-26T05:00:03+08:00"
   }
 }

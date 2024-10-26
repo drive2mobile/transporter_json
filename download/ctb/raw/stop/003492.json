@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-09-29T14:03:29+08:00",
+  "generated_timestamp": "2024-10-26T20:03:44+08:00",
   "data": {
     "stop": "003492",
     "name_tc": "黃泥頭",
@@ -9,6 +9,6 @@
     "lat": "22.382252152091",
     "long": "114.21779488053",
     "name_sc": "黄泥头",
-    "data_timestamp": "2024-09-29T05:00:03+08:00"
+    "data_timestamp": "2024-10-26T05:00:03+08:00"
   }
 }

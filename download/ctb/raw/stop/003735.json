@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-10-26T20:03:32+08:00",
+  "data": {
+    "stop": "003735",
+    "name_tc": "天賦海灣, 創新路",
+    "name_en": "Providence Bay, Chong San Road",
+    "lat": "22.431454792091",
+    "long": "114.20157168053",
+    "name_sc": "天赋海湾, 创新路",
+    "data_timestamp": "2024-10-26T05:00:03+08:00"
+  }
+}

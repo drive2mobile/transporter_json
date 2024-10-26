@@ -53,9 +53,9 @@ app.get(('/kmb'), async (req, res) =>
 
 app.get(('/ctb'), async (req, res) =>
 {
-    // await downloadRouteList();
-    // await downloadRouteStops();
-    // await downloadStops();
+    await downloadRouteList();
+    await downloadRouteStops();
+    await downloadStops();
 
     await parseJsonCtb();
 
@@ -66,10 +66,10 @@ app.get(('/kmbctb'), async (req, res) =>
 {
     await parseJsonKmbCtb();
 
-    // await deleteNonCoop('kmb', 'tc');
-    // await deleteNonCoop('kmb', 'en');
-    // await deleteNonCoop('ctb', 'tc');
-    // await deleteNonCoop('ctb', 'en');
+    await deleteNonCoop('kmb', 'tc');
+    await deleteNonCoop('kmb', 'en');
+    await deleteNonCoop('ctb', 'tc');
+    await deleteNonCoop('ctb', 'en');
 
     res.send('done');
 })

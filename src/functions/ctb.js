@@ -125,10 +125,10 @@ async function parseJsonCtb()
                 'id': id,
                 'company': company,
                 'route': currRoute['route'],
-                'from_tc': currRoute[`orig_tc`],
-                'from_en': currRoute[`orig_en`],
-                'to_tc': currRoute[`dest_tc`],
-                'to_en': currRoute[`dest_en`],
+                'from_tc': currRoute[`dest_tc`],
+                'from_en': currRoute[`dest_en`],
+                'to_tc': currRoute[`orig_tc`],
+                'to_en': currRoute[`orig_en`],
                 'dir': 'I'
             }
 
@@ -141,15 +141,15 @@ async function parseJsonCtb()
 
                 const readFilePath_stop = `./download/ctb/raw/stop/${currStop['stop']}.json`;
                 const stopJson = await loadJSONFromFile(readFilePath_stop);
-                
+
                 const newStop = {
                     'id': id,
                     'company': company,
                     'route': currStop['route'],
-                    'from_tc': currRoute[`orig_tc`],
-                    'from_en': currRoute[`orig_en`],
-                    'to_tc': currRoute[`dest_tc`],
-                    'to_en': currRoute[`dest_en`],
+                    'from_tc': currRoute[`dest_tc`],
+                    'from_en': currRoute[`dest_en`],
+                    'to_tc': currRoute[`orig_tc`],
+                    'to_en': currRoute[`orig_en`],
                     'dir': currStop['dir'],
                     'seq': currStop['seq'],
                     'stop': currStop['stop'],

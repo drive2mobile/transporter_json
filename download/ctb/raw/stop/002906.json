@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-09-29T13:59:44+08:00",
+  "generated_timestamp": "2024-10-26T20:01:07+08:00",
   "data": {
     "stop": "002906",
     "name_tc": "TKO Spot, 唐明街",
@@ -9,6 +9,6 @@
     "lat": "22.310702812091",
     "long": "114.25902390053",
     "name_sc": "TKO Spot, 唐明街",
-    "data_timestamp": "2024-09-29T05:00:03+08:00"
+    "data_timestamp": "2024-10-26T05:00:03+08:00"
   }
 }

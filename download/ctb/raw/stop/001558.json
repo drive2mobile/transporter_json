@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-10-26T20:02:35+08:00",
+  "data": {
+    "stop": "001558",
+    "name_tc": "豉油街, 彌敦道",
+    "name_en": "Soy Street, Nathan Road",
+    "lat": "22.316763022091",
+    "long": "114.16996217053",
+    "name_sc": "豉油街, 弥敦道",
+    "data_timestamp": "2024-10-26T05:00:03+08:00"
+  }
+}

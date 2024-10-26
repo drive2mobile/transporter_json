@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-09-29T14:00:14+08:00",
+  "generated_timestamp": "2024-10-26T20:01:14+08:00",
   "data": {
     "stop": "003476",
     "name_tc": "天晉 II, 唐俊街",
@@ -9,6 +9,6 @@
     "lat": "22.306719232091",
     "long": "114.26136693053",
     "name_sc": "天晋 II, 唐俊街",
-    "data_timestamp": "2024-09-29T05:00:03+08:00"
+    "data_timestamp": "2024-10-26T05:00:03+08:00"
   }
 }

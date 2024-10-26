@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2024-10-26T20:03:30+08:00",
+  "data": {
+    "stop": "003749",
+    "name_tc": "白石角, 創新路",
+    "name_en": "Pak Shek Kok, Chong San Road",
+    "lat": "22.431417042091",
+    "long": "114.20147127053",
+    "name_sc": "白石角, 创新路",
+    "data_timestamp": "2024-10-26T05:00:03+08:00"
+  }
+}

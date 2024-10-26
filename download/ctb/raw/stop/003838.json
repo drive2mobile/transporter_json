@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-09-29T14:01:46+08:00",
+  "generated_timestamp": "2024-10-26T19:58:33+08:00",
   "data": {
     "stop": "003838",
     "name_tc": "白石角",
@@ -9,6 +9,6 @@
     "lat": "22.431492592091",
     "long": "114.20192418053",
     "name_sc": "白石角",
-    "data_timestamp": "2024-09-29T05:00:03+08:00"
+    "data_timestamp": "2024-10-26T05:00:03+08:00"
   }
 }

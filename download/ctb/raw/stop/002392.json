@@ -1,14 +1,14 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-09-29T13:58:26+08:00",
+  "generated_timestamp": "2024-10-26T19:50:20+08:00",
   "data": {
     "stop": "002392",
     "name_tc": "數碼港",
     "name_en": "Cyberport",
-    "lat": "22.261996412091",
-    "long": "114.13067455053",
+    "lat": "22.261985192091",
+    "long": "114.13067185053",
     "name_sc": "数码港",
-    "data_timestamp": "2024-09-29T05:00:03+08:00"
+    "data_timestamp": "2024-10-26T05:00:03+08:00"
   }
 }

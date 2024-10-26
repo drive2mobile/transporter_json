@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-09-29T14:01:16+08:00",
+  "generated_timestamp": "2024-10-26T19:58:25+08:00",
   "data": {
     "stop": "003831",
     "name_tc": "西沙GO PARK, 海映路",
@@ -9,6 +9,6 @@
     "lat": "22.427089812091",
     "long": "114.26587060053",
     "name_sc": "西沙GO PARK, 海映路",
-    "data_timestamp": "2024-09-29T05:00:03+08:00"
+    "data_timestamp": "2024-10-26T05:00:03+08:00"
   }
 }

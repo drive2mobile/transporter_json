@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-09-29T13:58:57+08:00",
+  "generated_timestamp": "2024-10-26T19:51:18+08:00",
   "data": {
     "stop": "003289",
     "name_tc": "彩福邨",
@@ -9,6 +9,6 @@
     "lat": "22.328706902091",
     "long": "114.21726483053",
     "name_sc": "彩福邨",
-    "data_timestamp": "2024-09-29T05:00:03+08:00"
+    "data_timestamp": "2024-10-26T05:00:03+08:00"
   }
 }

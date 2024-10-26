@@ -1,7 +1,7 @@
 {
   "type": "RouteStop",
   "version": "2.0",
-  "generated_timestamp": "2024-09-29T13:50:07+08:00",
+  "generated_timestamp": "2024-10-26T19:40:14+08:00",
   "data": [
     {
       "co": "CTB",
@@ -9,7 +9,7 @@
       "dir": "I",
       "seq": 1,
       "stop": "001520",
-      "data_timestamp": "2024-09-29T05:00:04+08:00"
+      "data_timestamp": "2024-10-26T05:00:04+08:00"
     },
     {
       "co": "CTB",
@@ -17,7 +17,7 @@
       "dir": "I",
       "seq": 2,
       "stop": "001739",
-      "data_timestamp": "2024-09-29T05:00:04+08:00"
+      "data_timestamp": "2024-10-26T05:00:04+08:00"
     },
     {
       "co": "CTB",
@@ -25,7 +25,7 @@
       "dir": "I",
       "seq": 3,
       "stop": "001497",
-      "data_timestamp": "2024-09-29T05:00:04+08:00"
+      "data_timestamp": "2024-10-26T05:00:04+08:00"
     },
     {
       "co": "CTB",
@@ -33,7 +33,7 @@
       "dir": "I",
       "seq": 4,
       "stop": "001940",
-      "data_timestamp": "2024-09-29T05:00:04+08:00"
+      "data_timestamp": "2024-10-26T05:00:04+08:00"
     },
     {
       "co": "CTB",
@@ -41,7 +41,7 @@
       "dir": "I",
       "seq": 5,
       "stop": "001943",
-      "data_timestamp": "2024-09-29T05:00:04+08:00"
+      "data_timestamp": "2024-10-26T05:00:04+08:00"
     }
   ]
 }
