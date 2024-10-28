@@ -43,9 +43,8 @@ async function parseJsonNlb()
 
     for (var i = 0; i < routeListJson['routes'].length; i++)
     {
-        if (i == 10) { break; }
         const currRoute = routeListJson['routes'][i];
-        var id = `nlb_${currRoute['routeId']}_${currRoute['routeNo']}`;
+        var id = `nlb_${currRoute['routeNo']}_${currRoute['routeId']}`;
 
         const newRoute = {
             id: id,

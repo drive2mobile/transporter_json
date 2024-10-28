@@ -9,7 +9,7 @@
     "to_en": "Tai O"
   },
   {
-    "id": "nlb_2_1",
+    "id": "nlb_1_2",
     "company": "nlb",
     "route": "1",
     "from_tc": "大澳",
@@ -18,7 +18,7 @@
     "to_en": "Mui Wo Ferry Pier"
   },
   {
-    "id": "nlb_3_1R",
+    "id": "nlb_1R_3",
     "company": "nlb",
     "route": "1R",
     "from_tc": "紅磡 (紅鸞道)",
@@ -27,7 +27,7 @@
     "to_en": "Ngong Ping"
   },
   {
-    "id": "nlb_4_2",
+    "id": "nlb_2_4",
     "company": "nlb",
     "route": "2",
     "from_tc": "梅窩碼頭",
@@ -36,7 +36,7 @@
     "to_en": "Ngong Ping"
   },
   {
-    "id": "nlb_5_2",
+    "id": "nlb_2_5",
     "company": "nlb",
     "route": "2",
     "from_tc": "昂坪",
@@ -45,7 +45,7 @@
     "to_en": "Mui Wo Ferry Pier"
   },
   {
-    "id": "nlb_8_3M",
+    "id": "nlb_3M_8",
     "company": "nlb",
     "route": "3M",
     "from_tc": "梅窩 (貝澳開)",
@@ -54,7 +54,7 @@
     "to_en": "Tung Chung Station Bus Terminus"
   },
   {
-    "id": "nlb_7_3M",
+    "id": "nlb_3M_7",
     "company": "nlb",
     "route": "3M",
     "from_tc": "梅窩碼頭",
@@ -63,7 +63,7 @@
     "to_en": "Tung Chung Station Bus Terminus"
   },
   {
-    "id": "nlb_6_3M",
+    "id": "nlb_3M_6",
     "company": "nlb",
     "route": "3M",
     "from_tc": "東涌站巴士總站",
@@ -72,7 +72,7 @@
     "to_en": "Mui Wo Ferry Pier"
   },
   {
-    "id": "nlb_12_4",
+    "id": "nlb_4_12",
     "company": "nlb",
     "route": "4",
     "from_tc": "梅窩碼頭",
@@ -81,12 +81,462 @@
     "to_en": "Tong Fuk (to Shui Hau)"
   },
   {
-    "id": "nlb_9_4",
+    "id": "nlb_4_9",
     "company": "nlb",
     "route": "4",
     "from_tc": "梅窩碼頭",
     "from_en": "Mui Wo Ferry Pier",
     "to_tc": "塘福",
     "to_en": "Tong Fuk"
+  },
+  {
+    "id": "nlb_4_11",
+    "company": "nlb",
+    "route": "4",
+    "from_tc": "塘福 (水口開)",
+    "from_en": "Tong Fuk (from Shui Hau)",
+    "to_tc": "梅窩碼頭",
+    "to_en": "Mui Wo Ferry Pier"
+  },
+  {
+    "id": "nlb_4_10",
+    "company": "nlb",
+    "route": "4",
+    "from_tc": "塘福",
+    "from_en": "Tong Fuk",
+    "to_tc": "梅窩碼頭",
+    "to_en": "Mui Wo Ferry Pier"
+  },
+  {
+    "id": "nlb_7S_70",
+    "company": "nlb",
+    "route": "7S",
+    "from_tc": "梅窩碼頭",
+    "from_en": "Mui Wo Ferry Pier",
+    "to_tc": "禮智園墳場",
+    "to_en": "Lai Chi Yuen Cemetery"
+  },
+  {
+    "id": "nlb_7S_72",
+    "company": "nlb",
+    "route": "7S",
+    "from_tc": "禮智園墳場",
+    "from_en": "Lai Chi Yuen Cemetery",
+    "to_tc": "梅窩碼頭",
+    "to_en": "Mui Wo Ferry Pier"
+  },
+  {
+    "id": "nlb_11_14",
+    "company": "nlb",
+    "route": "11",
+    "from_tc": "大澳",
+    "from_en": "Tai O",
+    "to_tc": "東涌站巴士總站",
+    "to_en": "Tung Chung Station Bus Terminus"
+  },
+  {
+    "id": "nlb_11_17",
+    "company": "nlb",
+    "route": "11",
+    "from_tc": "大澳 (沙咀開)",
+    "from_en": "Tai O (from Sha Tsui)",
+    "to_tc": "東涌站巴士總站",
+    "to_en": "Tung Chung Station Bus Terminus"
+  },
+  {
+    "id": "nlb_11_13",
+    "company": "nlb",
+    "route": "11",
+    "from_tc": "東涌站巴士總站",
+    "from_en": "Tung Chung Station Bus Terminus",
+    "to_tc": "大澳",
+    "to_en": "Tai O"
+  },
+  {
+    "id": "nlb_11_18",
+    "company": "nlb",
+    "route": "11",
+    "from_tc": "大澳 (水口開)",
+    "from_en": "Tai O (from Shui Hau)",
+    "to_tc": "東涌站巴士總站",
+    "to_en": "Tung Chung Station Bus Terminus"
+  },
+  {
+    "id": "nlb_11A_16",
+    "company": "nlb",
+    "route": "11A",
+    "from_tc": "石壁",
+    "from_en": "Shek Pik",
+    "to_tc": "東涌站巴士總站",
+    "to_en": "Tung Chung Station Bus Terminus"
+  },
+  {
+    "id": "nlb_11A_15",
+    "company": "nlb",
+    "route": "11A",
+    "from_tc": "東涌站巴士總站",
+    "from_en": "Tung Chung Station Bus Terminus",
+    "to_tc": "石壁",
+    "to_en": "Shek Pik"
+  },
+  {
+    "id": "nlb_21_20",
+    "company": "nlb",
+    "route": "21",
+    "from_tc": "大澳",
+    "from_en": "Tai O",
+    "to_tc": "昂坪",
+    "to_en": "Ngong Ping"
+  },
+  {
+    "id": "nlb_21_19",
+    "company": "nlb",
+    "route": "21",
+    "from_tc": "昂坪",
+    "from_en": "Ngong Ping",
+    "to_tc": "大澳",
+    "to_en": "Tai O"
+  },
+  {
+    "id": "nlb_23_21",
+    "company": "nlb",
+    "route": "23",
+    "from_tc": "東涌達東路巴士總站",
+    "from_en": "Tung Chung Tat Tung Road Bus Terminus",
+    "to_tc": "昂坪",
+    "to_en": "Ngong Ping"
+  },
+  {
+    "id": "nlb_23_22",
+    "company": "nlb",
+    "route": "23",
+    "from_tc": "昂坪",
+    "from_en": "Ngong Ping",
+    "to_tc": "東涌達東路巴士總站",
+    "to_en": "Tung Chung Tat Tung Road Bus Terminus"
+  },
+  {
+    "id": "nlb_34_23",
+    "company": "nlb",
+    "route": "34",
+    "from_tc": "東涌達東路巴士總站",
+    "from_en": "Tung Chung Tat Tung Road Bus Terminus",
+    "to_tc": "石門甲",
+    "to_en": "Shek Mun Kap"
+  },
+  {
+    "id": "nlb_34_24",
+    "company": "nlb",
+    "route": "34",
+    "from_tc": "石門甲",
+    "from_en": "Shek Mun Kap",
+    "to_tc": "東涌達東路巴士總站",
+    "to_en": "Tung Chung Tat Tung Road Bus Terminus"
+  },
+  {
+    "id": "nlb_34S_71",
+    "company": "nlb",
+    "route": "34S",
+    "from_tc": "東涌達東路巴士總站",
+    "from_en": "Tung Chung Tat Tung Road Bus Terminus",
+    "to_tc": "十八區墳場 (循環線)",
+    "to_en": "Cemetery Area No. 18 (Circular)"
+  },
+  {
+    "id": "nlb_36_101",
+    "company": "nlb",
+    "route": "36",
+    "from_tc": "東涌達東路巴士總站",
+    "from_en": "Tung Chung Tat Tung Road Bus Terminus",
+    "to_tc": "迪士尼樂園",
+    "to_en": "Disneyland"
+  },
+  {
+    "id": "nlb_36_102",
+    "company": "nlb",
+    "route": "36",
+    "from_tc": "迪士尼樂園",
+    "from_en": "Disneyland",
+    "to_tc": "東涌達東路巴士總站",
+    "to_en": "Tung Chung Tat Tung Road Bus Terminus"
+  },
+  {
+    "id": "nlb_36X_100",
+    "company": "nlb",
+    "route": "36X",
+    "from_tc": "滿東邨",
+    "from_en": "Mun Tung Estate",
+    "to_tc": "迪士尼樂園",
+    "to_en": "Disneyland"
+  },
+  {
+    "id": "nlb_37_78",
+    "company": "nlb",
+    "route": "37",
+    "from_tc": "逸東邨",
+    "from_en": "Yat Tung Estate",
+    "to_tc": "迎東邨",
+    "to_en": "Ying Tung Estate"
+  },
+  {
+    "id": "nlb_37_80",
+    "company": "nlb",
+    "route": "37",
+    "from_tc": "迎東邨",
+    "from_en": "Ying Tung Estate",
+    "to_tc": "逸東邨",
+    "to_en": "Yat Tung Estate"
+  },
+  {
+    "id": "nlb_37A_104",
+    "company": "nlb",
+    "route": "37A",
+    "from_tc": "裕雅苑",
+    "from_en": "Yu Nga Court",
+    "to_tc": "東涌站巴士總站 (循環線)",
+    "to_en": "Tung Chung Station Bus Terminus (Circular)"
+  },
+  {
+    "id": "nlb_37H_96",
+    "company": "nlb",
+    "route": "37H",
+    "from_tc": "迎東邨",
+    "from_en": "Ying Tung Estate",
+    "to_tc": "北大嶼山醫院 (循環線)",
+    "to_en": "North Lantau Hospital (Circular)"
+  },
+  {
+    "id": "nlb_37M_82",
+    "company": "nlb",
+    "route": "37M",
+    "from_tc": "迎東邨",
+    "from_en": "Ying Tung Estate",
+    "to_tc": "東涌站巴士總站 (循環線)",
+    "to_en": "Tung Chung Station Bus Terminus (Circular)"
+  },
+  {
+    "id": "nlb_37P_63",
+    "company": "nlb",
+    "route": "37P",
+    "from_tc": "逸東邨 (裕東路)",
+    "from_en": "Yung Yat House (Yu Tung Road)",
+    "to_tc": "映灣園",
+    "to_en": "Caribbean Coast"
+  },
+  {
+    "id": "nlb_37S_75",
+    "company": "nlb",
+    "route": "37S",
+    "from_tc": "東涌發展碼頭",
+    "from_en": "Tung Chung Development Ferry Pier",
+    "to_tc": "東涌站巴士總站",
+    "to_en": "Tung Chung Station Bus Terminus"
+  },
+  {
+    "id": "nlb_38_30",
+    "company": "nlb",
+    "route": "38",
+    "from_tc": "逸東邨",
+    "from_en": "Yat Tung Estate",
+    "to_tc": "東涌站巴士總站 (循環線)",
+    "to_en": "Tung Chung Station Bus Terminus (Circular)"
+  },
+  {
+    "id": "nlb_38X_29",
+    "company": "nlb",
+    "route": "38X",
+    "from_tc": "逸東邨 (裕東路)",
+    "from_en": "Yat Tung Estate (Yu Tung Road)",
+    "to_tc": "東涌站巴士總站 (循環線)",
+    "to_en": "Tung Chung Station Bus Terminus (Circular)"
+  },
+  {
+    "id": "nlb_39M_95",
+    "company": "nlb",
+    "route": "39M",
+    "from_tc": "東涌站巴士總站",
+    "from_en": "Tung Chung Station Bus Terminus",
+    "to_tc": "滿東邨 (循環線)",
+    "to_en": "Mun Tung Estate  (Circular Route)"
+  },
+  {
+    "id": "nlb_A35_91",
+    "company": "nlb",
+    "route": "A35",
+    "from_tc": "大橋香港口岸",
+    "from_en": "HZMB Hong Kong Port",
+    "to_tc": "梅窩碼頭",
+    "to_en": "Mui Wo Ferry Pier"
+  },
+  {
+    "id": "nlb_A35_90",
+    "company": "nlb",
+    "route": "A35",
+    "from_tc": "梅窩碼頭",
+    "from_en": "Mui Wo Ferry Pier",
+    "to_tc": "大橋香港口岸",
+    "to_en": "HZMB Hong Kong Port"
+  },
+  {
+    "id": "nlb_B2_37",
+    "company": "nlb",
+    "route": "B2",
+    "from_tc": "元朗港鐵站",
+    "from_en": "Yuen Long MTR Station",
+    "to_tc": "深圳灣口岸",
+    "to_en": "Shenzhen Bay Port"
+  },
+  {
+    "id": "nlb_B2_38",
+    "company": "nlb",
+    "route": "B2",
+    "from_tc": "深圳灣口岸",
+    "from_en": "Shenzhen Bay Port",
+    "to_tc": "元朗港鐵站",
+    "to_en": "Yuen Long MTR Station"
+  },
+  {
+    "id": "nlb_B2P_33",
+    "company": "nlb",
+    "route": "B2P",
+    "from_tc": "天水圍 (天慈邨)",
+    "from_en": "Tin Shui Wai (Tin Tsz Estate)",
+    "to_tc": "深圳灣口岸",
+    "to_en": "Shenzhen Bay Port"
+  },
+  {
+    "id": "nlb_B2P_34",
+    "company": "nlb",
+    "route": "B2P",
+    "from_tc": "深圳灣口岸",
+    "from_en": "Shenzhen Bay Port",
+    "to_tc": "天水圍 (天慈邨)",
+    "to_en": "Tin Shui Wai (Tin Tsz Estate)"
+  },
+  {
+    "id": "nlb_B2X_36",
+    "company": "nlb",
+    "route": "B2X",
+    "from_tc": "深圳灣口岸",
+    "from_en": "Shenzhen Bay Port",
+    "to_tc": "天水圍 (天耀邨)",
+    "to_en": "Tin Shui Wai (Tin Yiu Estate)"
+  },
+  {
+    "id": "nlb_B2X_35",
+    "company": "nlb",
+    "route": "B2X",
+    "from_tc": "天水圍 (天耀邨)",
+    "from_en": "Tin Shui Wai (Tin Yiu Estate)",
+    "to_tc": "深圳灣口岸",
+    "to_en": "Shenzhen Bay Port"
+  },
+  {
+    "id": "nlb_B4_87",
+    "company": "nlb",
+    "route": "B4",
+    "from_tc": "大橋香港口岸",
+    "from_en": "HZMB Hong Kong Port",
+    "to_tc": "機場 (客運大樓) (循環線)",
+    "to_en": "Airport (Passenger Terminal Building) (Circular)"
+  },
+  {
+    "id": "nlb_B6_89",
+    "company": "nlb",
+    "route": "B6",
+    "from_tc": "滿東邨",
+    "from_en": "Mun Tung Estate",
+    "to_tc": "大橋香港口岸",
+    "to_en": "HZMB Hong Kong Port"
+  },
+  {
+    "id": "nlb_B6_88",
+    "company": "nlb",
+    "route": "B6",
+    "from_tc": "大橋香港口岸",
+    "from_en": "HZMB Hong Kong Port",
+    "to_tc": "滿東邨",
+    "to_en": "Mun Tung Estate"
+  },
+  {
+    "id": "nlb_N1_40",
+    "company": "nlb",
+    "route": "N1",
+    "from_tc": "梅窩碼頭",
+    "from_en": "Mui Wo Ferry Pier",
+    "to_tc": "大澳",
+    "to_en": "Tai O"
+  },
+  {
+    "id": "nlb_N35_92",
+    "company": "nlb",
+    "route": "N35",
+    "from_tc": "梅窩碼頭",
+    "from_en": "Mui Wo Ferry Pier",
+    "to_tc": "大橋香港口岸",
+    "to_en": "HZMB Hong Kong Port"
+  },
+  {
+    "id": "nlb_N35_93",
+    "company": "nlb",
+    "route": "N35",
+    "from_tc": "大橋香港口岸",
+    "from_en": "HZMB Hong Kong Port",
+    "to_tc": "梅窩碼頭",
+    "to_en": "Mui Wo Ferry Pier"
+  },
+  {
+    "id": "nlb_N37_86",
+    "company": "nlb",
+    "route": "N37",
+    "from_tc": "迎東邨",
+    "from_en": "Ying Tung Estate",
+    "to_tc": "東涌站巴士總站 (循環線)",
+    "to_en": "Tung Chung Station Bus Terminus (Circular)"
+  },
+  {
+    "id": "nlb_N38_44",
+    "company": "nlb",
+    "route": "N38",
+    "from_tc": "逸東邨",
+    "from_en": "Yat Tung Estate",
+    "to_tc": "東涌站巴士總站",
+    "to_en": "Tung Chung Station Bus Terminus"
+  },
+  {
+    "id": "nlb_N38_45",
+    "company": "nlb",
+    "route": "N38",
+    "from_tc": "東涌站巴士總站",
+    "from_en": "Tung Chung Station Bus Terminus",
+    "to_tc": "逸東邨",
+    "to_en": "Yat Tung Estate"
+  },
+  {
+    "id": "nlb_NB2_110",
+    "company": "nlb",
+    "route": "NB2",
+    "from_tc": "深圳灣口岸",
+    "from_en": "Shenzhen Bay Port",
+    "to_tc": "元朗港鐵站 (循環線)",
+    "to_en": "Yuen Long MTR Station (Circular)"
+  },
+  {
+    "id": "nlb_X11R_108",
+    "company": "nlb",
+    "route": "X11R",
+    "from_tc": "東涌世茂喜來登酒店",
+    "from_en": "Sheraton Hong Kong Tung Chung Hotel",
+    "to_tc": "大澳",
+    "to_en": "Tai O"
+  },
+  {
+    "id": "nlb_X11R_109",
+    "company": "nlb",
+    "route": "X11R",
+    "from_tc": "大澳",
+    "from_en": "Tai O",
+    "to_tc": "東涌世茂喜來登酒店",
+    "to_en": "Sheraton Hong Kong Tung Chung Hotel"
   }
 ]
