@@ -1,0 +1,11 @@
+{
+  "id": "NT_56K_1",
+  "route_id": 2001029,
+  "region": "NT",
+  "route": "56K",
+  "route_seq": 1,
+  "from_tc": "沙頭角公路, 萬屋邊",
+  "from_en": "Sha Tau Kok Road, Man Uk Pin",
+  "to_tc": "粉嶺站專綫小巴總站",
+  "to_en": "Fanling Station"
+}

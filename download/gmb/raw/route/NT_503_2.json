@@ -1,0 +1,11 @@
+{
+  "id": "NT_503_2",
+  "route_id": 2004461,
+  "region": "NT",
+  "route": "503",
+  "route_seq": 2,
+  "from_tc": "北區醫院",
+  "from_en": "North District Hospital",
+  "to_tc": "皇后山",
+  "to_en": "Queen's Hill"
+}

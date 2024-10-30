@@ -1,0 +1,11 @@
+{
+  "id": "NT_502_2",
+  "route_id": 2001920,
+  "region": "NT",
+  "route": "502",
+  "route_seq": 2,
+  "from_tc": "清河邨公共運輸交匯處",
+  "from_en": "Ching Ho Estate Public Transport Interchange",
+  "to_tc": "大埔那打素醫院",
+  "to_en": "Tai Po Nethersole Hospital"
+}

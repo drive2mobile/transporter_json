@@ -1,0 +1,45 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:04:34.643+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20001573,
+        "name_tc": "港鐵大圍站公共運輸交匯處",
+        "name_sc": "港铁大围站公共运输交汇处",
+        "name_en": "Tai Wai Station Bus Terminus"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20015723,
+        "name_tc": "富健街學心樓外(近樂善堂楊葛小琳中學)",
+        "name_sc": "富健街学心楼外(近乐善堂杨葛小琳中学)",
+        "name_en": "Fu Kin Street, outside Hok Sam House, Lung Hang Estate (near Lok Sin Tong Young Ko Hsiao Lin Secondary School)"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20015749,
+        "name_tc": "富健街善心樓外",
+        "name_sc": "富健街善心楼外",
+        "name_en": "Fu Kin Street, opposite Sin Sam House, Lung Hang Estate"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20015725,
+        "name_tc": "富健街, 仁安醫院外",
+        "name_sc": "富健街, 仁安医院外",
+        "name_en": "Fu Kin Street, outside Union Hospital"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20015726,
+        "name_tc": "顯泰街, 近瑞峰花園",
+        "name_sc": "显泰街, 近瑞峰花园",
+        "name_en": "Hin Tai Street, near Julimount Garden"
+      }
+    ],
+    "data_timestamp": "2024-07-21T00:00:39.367+08:00"
+  }
+}

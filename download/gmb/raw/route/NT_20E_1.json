@@ -1,0 +1,11 @@
+{
+  "id": "NT_20E_1",
+  "route_id": 2001474,
+  "region": "NT",
+  "route": "20E",
+  "route_seq": 1,
+  "from_tc": "大埔墟站",
+  "from_en": "Tai Po Market Station",
+  "to_tc": "山寮(循環線)",
+  "to_en": "Shan Liu (Circular)"
+}

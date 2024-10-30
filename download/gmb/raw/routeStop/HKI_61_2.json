@@ -1,0 +1,115 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:01:55.479+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20000720,
+        "name_tc": "快富街, 友誠大廈外",
+        "name_sc": "快富街, 友诚大厦外",
+        "name_en": "Fife Street, outside Yau Shing Building"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20011368,
+        "name_tc": "亞皆老街, 醫院管理局大樓外",
+        "name_sc": "亚皆老街, 医院管理局大楼外",
+        "name_en": "Argyle Street, outside Hospital Authority Building"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20011369,
+        "name_tc": "亞皆老街, 科發道以東",
+        "name_sc": "亚皆老街, 科发道以东",
+        "name_en": "Argyle Street, west of Forfar Road"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20011371,
+        "name_tc": "英皇道625號",
+        "name_sc": "英皇道625号",
+        "name_en": "No. 625 King's Road"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20011376,
+        "name_tc": "英皇道939號",
+        "name_sc": "英皇道939号",
+        "name_en": "No. 939 King's Road"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20000215,
+        "name_tc": "英皇道, 新威園外",
+        "name_sc": "英皇道, 新威园外",
+        "name_en": "King's Road, outside Sunway Garden"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20011384,
+        "name_tc": "康山道, 康怡廣場外",
+        "name_sc": "康山道, 康怡广场外",
+        "name_en": "Kornhill Road, outside Kornhill Plaza"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20011395,
+        "name_tc": "筲箕灣道, 太安樓外",
+        "name_sc": "筲箕湾道, 太安楼外",
+        "name_en": "Shau Kei Wan Road, outside Tai On Building"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20000118,
+        "name_tc": "筲箕灣道275號",
+        "name_sc": "筲箕湾道275号",
+        "name_en": "No.275 Shau Kei Wan Road"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20011419,
+        "name_tc": "柴灣道27號",
+        "name_sc": "柴湾道27号",
+        "name_en": "No. 27 Chai Wan Road"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20009407,
+        "name_tc": "柴灣道, 宏德居外",
+        "name_sc": "柴湾道, 宏德居外",
+        "name_en": "Chai Wan Road, outside Walton Estate"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20003452,
+        "name_tc": "柴灣道, 漁灣邨外",
+        "name_sc": "柴湾道, 渔湾邨外",
+        "name_en": "Chai Wan Road, outside Yu Wan Estate"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20003427,
+        "name_tc": "小西灣道, 富欣花園外",
+        "name_sc": "小西湾道, 富欣花园外",
+        "name_en": "Siu Sai Wan Road, outside Harmony Garden"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20003428,
+        "name_tc": "富怡道, 培橋小學外",
+        "name_sc": "富怡道, 培桥小学外",
+        "name_en": "Fu Yee Road, outside Pui Kui Primary School"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20011277,
+        "name_tc": "小西灣道, 藍灣半島第3座外",
+        "name_sc": "小西湾道, 蓝湾半岛第3座外",
+        "name_en": "Siu Sai Wan Road, outside Tower 3, Island Resort"
+      }
+    ],
+    "data_timestamp": "2024-10-28T17:26:57.760+08:00"
+  }
+}

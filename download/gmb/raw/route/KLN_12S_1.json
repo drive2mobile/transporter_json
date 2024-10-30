@@ -1,0 +1,11 @@
+{
+  "id": "KLN_12S_1",
+  "route_id": 2002336,
+  "region": "KLN",
+  "route": "12S",
+  "route_seq": 1,
+  "from_tc": "大角咀(櫻桃街)",
+  "from_en": "Tai Kok Tsui (Cherry Street)",
+  "to_tc": "旺角東站(循環線)",
+  "to_en": "Mong Kok East Station(Circular)"
+}

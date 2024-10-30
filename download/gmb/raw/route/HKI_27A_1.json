@@ -1,0 +1,11 @@
+{
+  "id": "HKI_27A_1",
+  "route_id": 2007501,
+  "region": "HKI",
+  "route": "27A",
+  "route_seq": 1,
+  "from_tc": "香港仔 (西安街)",
+  "from_en": "Aberdeen (Sai On Street)",
+  "to_tc": "鴨脷洲 (循環線)",
+  "to_en": "Ap Lei Chau (Circular)"
+}

@@ -1,0 +1,94 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:01:27.613+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20007152,
+        "name_tc": "置富徑, 置富花園",
+        "name_sc": "置富径, 置富花园",
+        "name_en": "Chi Fu Close, Chi Fu Fa Yuen"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20004566,
+        "name_tc": "雅緻洋房",
+        "name_sc": "雅致洋房",
+        "name_en": "Yat Chee Villas"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20000130,
+        "name_tc": "置富道第9座外",
+        "name_sc": "置富道第9座外",
+        "name_en": "Chi Fu Road, outside block no. 9"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20004559,
+        "name_tc": "薄扶林道, 中華廚藝學院",
+        "name_sc": "薄扶林道, 中华厨艺学院",
+        "name_en": "Chinese Cuisine Training Institute, Pok Fu Lam Road"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20004560,
+        "name_tc": "薄扶林道141號",
+        "name_sc": "薄扶林道141号",
+        "name_en": "Pok Fu Lam Road ,house no. 141"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20004561,
+        "name_tc": "薄扶林道, 心光學校",
+        "name_sc": "薄扶林道, 心光学校",
+        "name_en": "Ebenezer School, Pok Fu Lam Road"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20004114,
+        "name_tc": "瑪麗醫院",
+        "name_sc": "玛丽医院",
+        "name_en": "Queen Mary Hospital"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20007066,
+        "name_tc": "薄扶林道, 啟明寺",
+        "name_sc": "薄扶林道, 启明寺",
+        "name_en": "Pok Fu Lam Road, Kai Ming Temple"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20003279,
+        "name_tc": "科士街臨時遊樂場",
+        "name_sc": "科士街临时游乐场",
+        "name_en": "Forbes Street Temporary Playground"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20004591,
+        "name_tc": "爹核士街",
+        "name_sc": "爹核士街",
+        "name_en": "Davis Street"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20016927,
+        "name_tc": "卑路乍街144-148號",
+        "name_sc": "卑路乍街144-148号",
+        "name_en": "Belcher's Street, house no. 144-148"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20009733,
+        "name_tc": "堅尼地城站",
+        "name_sc": "坚尼地城站",
+        "name_en": "Kennedy Town Station"
+      }
+    ],
+    "data_timestamp": "2024-10-28T17:56:17.769+08:00"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "KLN_8S_1",
+  "route_id": 2006317,
+  "region": "KLN",
+  "route": "8S",
+  "route_seq": 1,
+  "from_tc": "尖沙咀(漢口道)",
+  "from_en": "Tsim Sha Tsui (Hankow Road)",
+  "to_tc": "何文田(常富街)",
+  "to_en": "Ho Man Tin (Sheung Foo Street)"
+}

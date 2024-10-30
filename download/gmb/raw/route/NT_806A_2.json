@@ -1,0 +1,11 @@
+{
+  "id": "NT_806A_2",
+  "route_id": 2001821,
+  "region": "NT",
+  "route": "806A",
+  "route_seq": 2,
+  "from_tc": "運頭塘",
+  "from_en": "Wan Tau Tong",
+  "to_tc": "黃泥頭",
+  "to_en": "Wong Nai Tau"
+}

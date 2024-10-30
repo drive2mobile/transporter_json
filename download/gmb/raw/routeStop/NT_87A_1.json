@@ -1,0 +1,80 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:05:02.911+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20014795,
+        "name_tc": "貨櫃碼頭路公共運輸交匯處小巴總站",
+        "name_sc": "货柜码头路公共运输交汇处小巴总站",
+        "name_en": "Container Port Road Public Transport Interchange Minibus Terminus"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20014796,
+        "name_tc": "貨櫃碼頭路,　近　永得利廣場",
+        "name_sc": "货柜码头路,　近　永得利广场",
+        "name_en": "CONTAINER PORT ROAD, near Ever Gain Plaza "
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20014797,
+        "name_tc": "貨櫃碼頭南路,　近　荔景站",
+        "name_sc": "货柜码头南路,　近　荔景站",
+        "name_en": "CONTAINER PORT ROAD SOUTH, near Lai King Station"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20014798,
+        "name_tc": "未命名通道,　近　二號貨櫃碼頭",
+        "name_sc": "未命名通道,　近　二号货柜码头",
+        "name_en": "UNNAMED ACCESS ROAD, near CONTAINER TERMINAL 2"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20014799,
+        "name_tc": "貨櫃碼頭南路,　近　三號貨櫃碼頭",
+        "name_sc": "货柜码头南路,　近　三号货柜码头",
+        "name_en": "CONTAINER PORT ROAD SOUTH, near CONTAINER TERMINAL 3"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20014800,
+        "name_tc": "貨櫃碼頭南路,　近　華潤國際物流中心",
+        "name_sc": "货柜码头南路,　近　华润国际物流中心",
+        "name_en": "CONTAINER PORT ROAD SOUTH, near China Resources Int'l Logistics Centre"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20014801,
+        "name_tc": "貨櫃碼頭南路,　近　葵涌海關大樓",
+        "name_sc": "货柜码头南路,　近　葵涌海關大樓",
+        "name_en": "CONTAINER PORT ROAD SOUTH, near Kwai Chung Customhouse"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20014802,
+        "name_tc": "貨櫃碼頭南路,　近　八號貨櫃碼頭",
+        "name_sc": "货柜码头南路,　近　八号货柜码头",
+        "name_en": "CONTAINER PORT ROAD SOUTH, near Container Terminal 8"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20014803,
+        "name_tc": "昂運路,　近　Ｐ７污水泵房",
+        "name_sc": "昂运路,　近　Ｐ７污水泵房",
+        "name_en": "NGONG WAN ROAD, near P7 Sewage Pumping Station"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20014804,
+        "name_tc": "昂運路,　近　昂船洲公眾貨物裝卸區",
+        "name_sc": "昂运路,　近　昂船洲公众货物装卸区",
+        "name_en": "NGONG WAN ROAD, near Stonecutters Island Public Cargo Working Area"
+      }
+    ],
+    "data_timestamp": "2023-12-24T00:00:33.623+08:00"
+  }
+}

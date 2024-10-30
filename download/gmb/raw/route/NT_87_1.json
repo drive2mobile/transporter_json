@@ -1,0 +1,11 @@
+{
+  "id": "NT_87_1",
+  "route_id": 2006678,
+  "region": "NT",
+  "route": "87",
+  "route_seq": 1,
+  "from_tc": "荃灣(鹹田街)",
+  "from_en": "Tsuen Wan (Ham Tin Street)",
+  "to_tc": "葵盛(盛芳街)",
+  "to_en": "Kwai Shing (Shing Fong Street)"
+}

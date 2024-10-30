@@ -1,0 +1,94 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:02:46.944+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20003373,
+        "name_tc": "旺角(柏景灣)總站",
+        "name_sc": "旺角(柏景湾)总站",
+        "name_en": "Mong Kok (Park Avenue) Terminus"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20012406,
+        "name_tc": "櫻桃街, 銘基書院外",
+        "name_sc": "樱桃街, 铭基书院外",
+        "name_en": "Cherry Street, outside Ming Kei College"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20003132,
+        "name_tc": "新填地街437號",
+        "name_sc": "新填地街437号",
+        "name_en": "437 Reclamation Street"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20000911,
+        "name_tc": "旺角道, 近砵蘭街",
+        "name_sc": "旺角道, 近砵兰街",
+        "name_en": "Mong Kok Road, near Portland Street"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20013238,
+        "name_tc": "洗衣街, 近快富街",
+        "name_sc": "洗衣街, 近快富街 ",
+        "name_en": "Sai Yee Street, Near Fife Street"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20012407,
+        "name_tc": "旺角東站",
+        "name_sc": "旺角东站",
+        "name_en": "Mong Kok East Station"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20012408,
+        "name_tc": "亞皆老街62號",
+        "name_sc": "亚皆老街62号",
+        "name_en": "No. 62 Argyle Street"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20012409,
+        "name_tc": "亞皆老街2A號",
+        "name_sc": "亚皆老街2A号",
+        "name_en": "No. 2A Argyle Street"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20012410,
+        "name_tc": "櫻桃街, 中華基督教銘基書院對面",
+        "name_sc": "樱桃街, 中华基督教铭基书院对面",
+        "name_en": "Cherry Street, opposite to The Church of Christ in China Ming Kei College"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20019963,
+        "name_tc": "海泓道, 海富苑外",
+        "name_sc": "海泓道, 海富苑外",
+        "name_en": "Hoi Wang Road, outside Hoi Fu Court"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20000868,
+        "name_tc": "海泓道, 富榮花園第十座外",
+        "name_sc": "海泓道, 富荣花园第十座外",
+        "name_en": "Hoi Wang Road, outside Block 10 of Charming Garden"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20012411,
+        "name_tc": "旺角(柏景灣)總站",
+        "name_sc": "旺角(柏景湾)总站",
+        "name_en": "Mong Kok (Park Avenue) Terminus"
+      }
+    ],
+    "data_timestamp": "2024-10-28T17:29:08.604+08:00"
+  }
+}

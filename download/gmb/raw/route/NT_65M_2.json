@@ -1,0 +1,11 @@
+{
+  "id": "NT_65M_2",
+  "route_id": 2009115,
+  "region": "NT",
+  "route": "65M",
+  "route_seq": 2,
+  "from_tc": "石門站",
+  "from_en": "Shek Mun Station",
+  "to_tc": "黃泥頭",
+  "to_en": "Wong Nai Tau"
+}

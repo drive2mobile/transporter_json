@@ -1,0 +1,66 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:02:49.203+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20019303,
+        "name_tc": "啟德",
+        "name_sc": "启德",
+        "name_en": "Kai Tak"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20008513,
+        "name_tc": "七寶街, 近六合工業大廈",
+        "name_sc": "七宝街, 近六合工业大厦",
+        "name_en": "Tsat Po Street, near Luk Hop Industrial Building"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20008514,
+        "name_tc": "太子道東, 近采頤花園第五座",
+        "name_sc": "太子道东, 近采颐花园第五座",
+        "name_en": "Prince Edward Road East, near Rhythm Garden Block 5"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20000923,
+        "name_tc": "太子道東, 近彩虹邨紫薇樓",
+        "name_sc": "太子道东, 近彩虹邨紫薇楼",
+        "name_en": "Prince Edward Road East, near Chi Mei House, Choi Hung Estate"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20001058,
+        "name_tc": "彩石里, 近聖若瑟英文小學",
+        "name_sc": "彩石里, 近圣若瑟英文小学",
+        "name_en": "Choi Shek Lane, near St. Joseph's Anglo-Chinese Primary School"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20008515,
+        "name_tc": "彩興路, 近彩興苑彩薈閣",
+        "name_sc": "彩兴路, 近彩兴苑彩荟阁",
+        "name_en": "Choi Hing Road, near Choi Wui House, Choi Hing Court"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20008529,
+        "name_tc": "彩盛里, 近彩興苑彩薈閣",
+        "name_sc": "彩盛里, 近彩兴苑彩荟阁",
+        "name_en": "Choi Shing Lane, near Choi Wui House, Choi Hing Court"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20019765,
+        "name_tc": "明愛樂恩學校",
+        "name_sc": "明爱乐恩学校",
+        "name_en": "Caritas Mother Teresa School"
+      }
+    ],
+    "data_timestamp": "2024-07-31T17:47:24.276+08:00"
+  }
+}

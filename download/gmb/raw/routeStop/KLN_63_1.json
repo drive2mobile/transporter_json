@@ -1,0 +1,129 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:02:38.579+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20012043,
+        "name_tc": "廣田邨巴士總站",
+        "name_sc": "广田邨巴士总站",
+        "name_en": "Kwong Tin Estate Bus Terminus"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20012044,
+        "name_tc": "碧雲道, 廣田商場對面",
+        "name_sc": "碧云道, 广田商场对面",
+        "name_en": "Pik Wan Road, opposite Kwong Tin Commercial Centre"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20012045,
+        "name_tc": "碧雲道, 康柏苑龍柏閣外",
+        "name_sc": "碧云道, 康柏苑龙栢阁外",
+        "name_en": "Pik Wan Road, outside Lung Pak House, Hong Pak Court"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20012062,
+        "name_tc": "碧雲道, 廣田邨廣靖樓對面",
+        "name_sc": "碧云道, 广田邨广靖楼对面",
+        "name_en": "Pik Wan Road, opposite Kwong Ching House, Kwong Tin Estate"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20012063,
+        "name_tc": "碧雲道, 德田邨德瑞樓外",
+        "name_sc": "碧云道, 德田邨德瑞楼外",
+        "name_en": "Pik Wan Road, outside Tak Shui House, Tak Tin Estate"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20012064,
+        "name_tc": "碧雲道, 德田邨多層停車場外",
+        "name_sc": "碧云道, 德田邨多层停车场外",
+        "name_en": "Pik Wan Road, outside Tak Tin Estate Multi-storey Car Park"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20012065,
+        "name_tc": "碧雲道, 德田邨德敬樓外",
+        "name_sc": "碧云道, 德田邨德敬楼外",
+        "name_en": "Pik Wan Road, outside Tak King House, Tak Tin Estate"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20012066,
+        "name_tc": "連德道, 興田邨彩田樓外",
+        "name_sc": "连德道, 兴田邨彩田楼外",
+        "name_en": "Lin Tak Road, outside Choi Tin House, Hing Tin Estate"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20012060,
+        "name_tc": "裕民坊公共運輸交匯處",
+        "name_sc": "裕民坊公共运输交汇处",
+        "name_en": "Yue Man Square Public Transport Interchange"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20012068,
+        "name_tc": "連德道, 彩田樓對面",
+        "name_sc": "连德道, 彩田楼对面",
+        "name_en": "Lin Tak Road, opposite Choi Tin House"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20012069,
+        "name_tc": "連德道, 美田樓對面",
+        "name_sc": "连德道, 美田楼对面",
+        "name_en": "Lin Tak Road, opposite Mei Tin House"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20012070,
+        "name_tc": "碧雲道, 德田邨德敬樓外",
+        "name_sc": "碧云道, 德田邨德敬楼外",
+        "name_en": "Pik Wan Road, outside Tak King House, Tak Tin Estate"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20012073,
+        "name_tc": "碧雲道, 德田邨德樂樓外",
+        "name_sc": "碧云道, 德田邨德乐楼外",
+        "name_en": "Pik Wan Road, outside Tak Lok House, Tak Tin Estate"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20012071,
+        "name_tc": "碧雲道, 德田邨德隆樓對面",
+        "name_sc": "碧云道, 德田邨德隆楼对面",
+        "name_en": "Pik Wan Road, opposite Tak Lung House, Tak Tin Estate"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20012074,
+        "name_tc": "碧雲道, 廣田邨廣靖樓",
+        "name_sc": "碧云道, 广田邨广靖楼",
+        "name_en": "Pik Wan Road, outside Kwong Ching House, Kwong Tin Estate"
+      },
+      {
+        "stop_seq": 16,
+        "stop_id": 20012072,
+        "name_tc": "碧雲道, 廣田商場外",
+        "name_sc": "碧云道, 广田商场外",
+        "name_en": "Pik Wan Road, outside Kwong Tin Commercial Centre"
+      },
+      {
+        "stop_seq": 17,
+        "stop_id": 20012043,
+        "name_tc": "廣田邨巴士總站",
+        "name_sc": "广田邨巴士总站",
+        "name_en": "Kwong Tin Estate Bus Terminus"
+      }
+    ],
+    "data_timestamp": "2024-10-29T16:57:33.270+08:00"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "NT_33_1",
+  "route_id": 2002321,
+  "region": "NT",
+  "route": "33",
+  "route_seq": 1,
+  "from_tc": "元朗(泰豐街)",
+  "from_en": "Yuen Long (Tai Fung Street)",
+  "to_tc": "下白泥",
+  "to_en": "Ha Pak Nai"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "NT_65A_2",
+  "route_id": 2009114,
+  "region": "NT",
+  "route": "65A",
+  "route_seq": 2,
+  "from_tc": "沙田站",
+  "from_en": "Sha Tin Station",
+  "to_tc": "黃泥頭",
+  "to_en": "Wong Nai Tau"
+}

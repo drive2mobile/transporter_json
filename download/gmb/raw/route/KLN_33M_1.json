@@ -1,0 +1,11 @@
+{
+  "id": "KLN_33M_1",
+  "route_id": 2001010,
+  "region": "KLN",
+  "route": "33M",
+  "route_seq": 1,
+  "from_tc": "海港花園",
+  "from_en": "Hilltop Garden",
+  "to_tc": "黃大仙站",
+  "to_en": "Wong Tai Sin Station"
+}

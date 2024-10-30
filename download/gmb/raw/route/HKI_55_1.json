@@ -1,0 +1,11 @@
+{
+  "id": "HKI_55_1",
+  "route_id": 2003771,
+  "region": "HKI",
+  "route": "55",
+  "route_seq": 1,
+  "from_tc": "瑪麗醫院",
+  "from_en": "Queen Mary Hospital",
+  "to_tc": "中環站(干諾道中)(循環線)",
+  "to_en": "Central Station (Connaught Road Central)(Circular)"
+}

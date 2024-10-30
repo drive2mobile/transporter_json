@@ -1,0 +1,11 @@
+{
+  "id": "HKI_27_2",
+  "route_id": 2007498,
+  "region": "HKI",
+  "route": "27",
+  "route_seq": 2,
+  "from_tc": "香港仔 (西安街)",
+  "from_en": "Aberdeen (Sai On Street)",
+  "to_tc": "鴨脷洲 (惠風街)",
+  "to_en": "Ap Lei Chau (Wai Fung Street)"
+}

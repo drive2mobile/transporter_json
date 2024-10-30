@@ -1,0 +1,80 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:03:26.168+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20001212,
+        "name_tc": "碗窰路, 新屋家",
+        "name_sc": "碗窰路, 新屋家",
+        "name_en": "Wun Yiu Road, San Uk Ka"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20008225,
+        "name_tc": "碗窰路, 碗窰",
+        "name_sc": "碗窰路, 碗窰",
+        "name_en": "Wun Yiu Road, Wun Yiu"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20008221,
+        "name_tc": "碗窰路, 沙埔仔",
+        "name_sc": "碗窰路, 沙埔仔",
+        "name_en": "Wun Yiu Road, Sha Po Tsa"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20008222,
+        "name_tc": "達運道, 荔枝山",
+        "name_sc": "達運道, 荔枝山",
+        "name_en": "Tat Wan Road, Lai Chi Shan"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20001193,
+        "name_tc": "大埔墟站專線小巴總站",
+        "name_sc": "大埔墟站专线小巴总站",
+        "name_en": "Tai Po Market Station Minibus Terminus"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20006554,
+        "name_tc": "運頭街, 運頭坊",
+        "name_sc": "运头街, 运头坊",
+        "name_en": "Wan Tau Street, Wan Tau Square"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20008217,
+        "name_tc": "達運道, 荔枝山",
+        "name_sc": "達運道, 荔枝山",
+        "name_en": "Tat Wan Road, Lai Chi Shan"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20008216,
+        "name_tc": "碗窰路, 沙埔仔",
+        "name_sc": "碗窰路, 沙埔仔",
+        "name_en": "Wun Yiu Road, Sha Po Tsa"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20008226,
+        "name_tc": "碗窰路, 碗窰",
+        "name_sc": "碗窰路, 碗窰",
+        "name_en": "Wun Yiu Road, Wun Yiu"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20001212,
+        "name_tc": "碗窰路, 新屋家",
+        "name_sc": "碗窰路, 新屋家",
+        "name_en": "Wun Yiu Road, San Uk Ka"
+      }
+    ],
+    "data_timestamp": "2024-07-31T16:28:25.193+08:00"
+  }
+}

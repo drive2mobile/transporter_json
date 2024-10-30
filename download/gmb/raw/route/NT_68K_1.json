@@ -1,0 +1,11 @@
+{
+  "id": "NT_68K_1",
+  "route_id": 2007765,
+  "region": "NT",
+  "route": "68K",
+  "route_seq": 1,
+  "from_tc": "大圍站公共運輸交匯處",
+  "from_en": "Tai Wai Station Public Transport Interchange",
+  "to_tc": "瑞峰花園",
+  "to_en": "Julimount Garden"
+}

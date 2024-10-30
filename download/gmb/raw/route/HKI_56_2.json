@@ -1,0 +1,11 @@
+{
+  "id": "HKI_56_2",
+  "route_id": 2001129,
+  "region": "HKI",
+  "route": "56",
+  "route_seq": 2,
+  "from_tc": "馬寶道",
+  "from_en": "North Point (Marble Road)",
+  "to_tc": "羅便臣道",
+  "to_en": "Mid-levels (Ronbinson Road)"
+}

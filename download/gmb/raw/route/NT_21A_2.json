@@ -1,0 +1,11 @@
+{
+  "id": "NT_21A_2",
+  "route_id": 2001278,
+  "region": "NT",
+  "route": "21A",
+  "route_seq": 2,
+  "from_tc": "大埔墟",
+  "from_en": "Tai Po Market",
+  "to_tc": "大埔頭",
+  "to_en": "Tai Po Tau"
+}

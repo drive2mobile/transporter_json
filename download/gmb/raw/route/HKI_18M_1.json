@@ -1,0 +1,11 @@
+{
+  "id": "HKI_18M_1",
+  "route_id": 2002317,
+  "region": "HKI",
+  "route": "18M",
+  "route_seq": 1,
+  "from_tc": "柴灣站",
+  "from_en": "Chai Wan Station",
+  "to_tc": "歌連臣角(懲教所)",
+  "to_en": "Cape Collinson (Correctional Institution)"
+}

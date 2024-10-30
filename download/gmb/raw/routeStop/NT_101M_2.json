@@ -1,0 +1,73 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:03:01.375+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20002599,
+        "name_tc": "惠民路公共小巴總站",
+        "name_sc": "惠民路公共小巴总站",
+        "name_en": "Wai Man Road PLB Terminus"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20001144,
+        "name_tc": "普通道, 西貢賽馬會大會堂外",
+        "name_sc": "普通道, 西贡赛马会大会堂外",
+        "name_en": "Po Tung Road, Sai Kung Town Hall"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20001113,
+        "name_tc": "西貢公路, 白沙灣遊艇會外",
+        "name_sc": "西贡公路, 白沙湾游艇会外",
+        "name_en": "Hiram's Highway, outside Hebe Haven Yacht Club"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20009421,
+        "name_tc": "西貢公路, 匡湖居外",
+        "name_sc": "西贡公路, 匡湖居外",
+        "name_en": "Hiram's Highway, outside Marina Cove"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20002437,
+        "name_tc": "西貢公路, 西貢中心小學外",
+        "name_sc": "西贡公路, 西贡中心小学外",
+        "name_en": "Hiram's Highway, outside Sai Kung Central Primary School"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20002601,
+        "name_tc": "清水灣道, 大埔仔村對面",
+        "name_sc": "清水湾道, 大埔仔村对面",
+        "name_en": "Clear Water Bay Road, opposite Tai Po Tsai Tsuen"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20001172,
+        "name_tc": "寶寧路, 將軍澳醫院對面",
+        "name_sc": "宝宁路, 将军澳医院对面",
+        "name_en": "Po Ning Road, opposite Tseung Kwan O Hospital"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20001162,
+        "name_tc": "重華路, 東港城第6座對面",
+        "name_sc": "重华路, 东港城第6座对面",
+        "name_en": "Chung Wa Road, opposite Block 6, East Point City"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20002597,
+        "name_tc": "坑口站公共運輸交匯處",
+        "name_sc": "坑口站公共运输交汇处",
+        "name_en": "Hang Hau Station Public Transport Interchange"
+      }
+    ],
+    "data_timestamp": "2024-09-18T02:32:16.102+08:00"
+  }
+}

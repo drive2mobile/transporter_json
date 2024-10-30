@@ -1,0 +1,11 @@
+{
+  "id": "NT_20S_1",
+  "route_id": 2001460,
+  "region": "NT",
+  "route": "20S",
+  "route_seq": 1,
+  "from_tc": "馬窩",
+  "from_en": "Ma Wo",
+  "to_tc": "大埔墟(循環線)",
+  "to_en": "Tai Po Market (Circular)"
+}

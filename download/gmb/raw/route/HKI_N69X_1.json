@@ -1,0 +1,11 @@
+{
+  "id": "HKI_N69X_1",
+  "route_id": 2000802,
+  "region": "HKI",
+  "route": "N69X",
+  "route_seq": 1,
+  "from_tc": "數碼港",
+  "from_en": "Cyberport",
+  "to_tc": "銅鑼灣(駱克道)",
+  "to_en": "Causeway Bay (Lockhart Road)"
+}

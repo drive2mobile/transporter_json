@@ -1,0 +1,38 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:01:21.872+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20002655,
+        "name_tc": "銅鑼灣利園山道",
+        "name_sc": "铜锣湾利园山道",
+        "name_en": "Causeway Bay Lee Garden Road "
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20004100,
+        "name_tc": "樂活道, 近樂翠台",
+        "name_sc": "乐活道, 近乐翠台",
+        "name_en": "Near Villa Rocha, Broadwood Road"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20003504,
+        "name_tc": "連道, 近禮頓山",
+        "name_sc": "连道, 近礼顿山",
+        "name_en": "Link Road near Leighton Hill"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20002655,
+        "name_tc": "銅鑼灣利園山道",
+        "name_sc": "铜锣湾利园山道",
+        "name_en": "Causeway Bay Lee Garden Road "
+      }
+    ],
+    "data_timestamp": "2024-10-30T13:48:41.287+08:00"
+  }
+}

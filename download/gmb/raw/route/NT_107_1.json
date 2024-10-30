@@ -1,0 +1,11 @@
+{
+  "id": "NT_107_1",
+  "route_id": 2002910,
+  "region": "NT",
+  "route": "107",
+  "route_seq": 1,
+  "from_tc": "靈實醫院",
+  "from_en": "Haven Of Hope Hospital",
+  "to_tc": "寶琳公共運輸交匯處",
+  "to_en": "Po Lam Public Transport Interchange (Circular)"
+}

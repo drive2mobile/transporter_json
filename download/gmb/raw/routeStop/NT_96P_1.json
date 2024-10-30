@@ -1,0 +1,24 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:05:20.419+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20002381,
+        "name_tc": "荃灣西站公共運輸交匯處",
+        "name_sc": "荃湾西站公共运输交汇处",
+        "name_en": "Tsuen Wan West Station Public Transport Interchange"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20017554,
+        "name_tc": "荃灣西站公共運輸交匯處",
+        "name_sc": "荃湾西站公共运输交汇处",
+        "name_en": "Tsuen Wan West Station Public Transport Interchange"
+      }
+    ],
+    "data_timestamp": "2022-10-27T00:05:39.770+08:00"
+  }
+}

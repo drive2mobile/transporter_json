@@ -1,0 +1,11 @@
+{
+  "id": "NT_103_2",
+  "route_id": 2007134,
+  "region": "NT",
+  "route": "103",
+  "route_seq": 2,
+  "from_tc": "觀塘碼頭",
+  "from_en": "Kwun Tong Ferry",
+  "to_tc": "清水灣",
+  "to_en": "Clear Water Bay"
+}

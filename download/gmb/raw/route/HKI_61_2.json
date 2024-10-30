@@ -1,0 +1,11 @@
+{
+  "id": "HKI_61_2",
+  "route_id": 2004084,
+  "region": "HKI",
+  "route": "61",
+  "route_seq": 2,
+  "from_tc": "旺角 (快富街)",
+  "from_en": "Mong Kok (Fife Street)",
+  "to_tc": "小西灣(藍灣半島)",
+  "to_en": "Siu Sai Wan (Island Resort)"
+}

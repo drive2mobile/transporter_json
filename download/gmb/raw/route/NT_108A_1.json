@@ -1,0 +1,11 @@
+{
+  "id": "NT_108A_1",
+  "route_id": 2000993,
+  "region": "NT",
+  "route": "108A",
+  "route_seq": 1,
+  "from_tc": "彩明公共運輸交匯處",
+  "from_en": "Choi Ming Public Transport Interchange",
+  "to_tc": "坑口（北）",
+  "to_en": "Hang Hau (North)"
+}

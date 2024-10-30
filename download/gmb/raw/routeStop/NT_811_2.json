@@ -1,0 +1,94 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:04:52.456+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20015713,
+        "name_tc": "愉翠苑愉欣閣",
+        "name_sc": "愉翠苑愉欣阁",
+        "name_en": "Yu Yan House, Yuet Chui Court"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20002293,
+        "name_tc": "插桅杆街, 欣廷軒外",
+        "name_sc": "插桅杆街, 欣廷轩外",
+        "name_en": "Chap Wai Kon Street, outside Prima Villa"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20015727,
+        "name_tc": "威爾斯親王醫院",
+        "name_sc": "威尔斯亲王医院",
+        "name_en": "Prince of Wales Hospital"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20002259,
+        "name_tc": "銀城街, 銀城商場外",
+        "name_sc": "银城街, 银城商场外",
+        "name_en": "Ngan Shing Street, outside Ngan Shing Commercial Centre"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20001564,
+        "name_tc": "大涌橋路沙田第一城5座對出",
+        "name_sc": "大涌桥路沙田第一城5座对出",
+        "name_en": "Tai Chung Kiu Road outside City One Shatin Block 5"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20015728,
+        "name_tc": "樂景街, 港鐵火炭站外",
+        "name_sc": "乐景街, 港铁火炭站外",
+        "name_en": "Lok King Street, outside Fo Tan Station"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20002230,
+        "name_tc": "樂景街, 銀禧花園對面",
+        "name_sc": "乐景街, 银禧花园对面",
+        "name_en": "Lok King Street, opposite Jubilee Garden"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20015709,
+        "name_tc": "樂信徑迴旋處巴士灣",
+        "name_sc": "乐信径回旋处巴士湾",
+        "name_en": "Bus lay-by at Lok Shun Path roundabout"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20015729,
+        "name_tc": "桂地街, 華耀工業中心外",
+        "name_sc": "桂地街, 华耀工业中心外",
+        "name_en": "Kwei Tei Street, outside Wah Yiu Industrial Centre"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20015730,
+        "name_tc": "桂地街, 近華衛工貿中心",
+        "name_sc": "桂地街, 近华卫工贸中心",
+        "name_en": "Kwei Tei Street, near Wah Wei Industrial Centre"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20019501,
+        "name_tc": "桂地街, 變電站外",
+        "name_sc": "桂地街, 变电站外",
+        "name_en": "Kwei Tei Street, opposite to substation "
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20015706,
+        "name_tc": "穗禾苑",
+        "name_sc": "穗禾苑",
+        "name_en": "Sui Wo Court"
+      }
+    ],
+    "data_timestamp": "2024-08-20T17:28:58.182+08:00"
+  }
+}

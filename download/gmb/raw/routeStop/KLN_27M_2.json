@@ -1,0 +1,87 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:02:22.392+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20000720,
+        "name_tc": "快富街, 友誠大廈外",
+        "name_sc": "快富街, 友诚大厦外",
+        "name_en": "Fife Street, outside Yau Shing Building"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20000912,
+        "name_tc": "亞皆老街113號",
+        "name_sc": "亚皆老街113号",
+        "name_en": "House No. 113 Arygle Street"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20000721,
+        "name_tc": "窩打老道, 萬基大廈外",
+        "name_sc": "窝打老道, 万基大厦外",
+        "name_en": "Waterloo Road, outside Man Kee Mansion"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20000472,
+        "name_tc": "培正道巴士站, 近九龍公共圖書館",
+        "name_sc": "培正道巴士站, 近九龙公共图书馆",
+        "name_en": "Pui Ching Road At Bus Bay Near Kowloon Public Library"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20000723,
+        "name_tc": "佛光街, 香港都會大學對面",
+        "name_sc": "佛光街, 香港都会大学对面",
+        "name_en": "Fat Kwong Street, opposite Hong Kong Metropolitan University"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20000724,
+        "name_tc": "佛光街, 何文田邨雅文樓外",
+        "name_sc": "佛光街, 何文田邨雅文楼外",
+        "name_en": "Fat Kwong Street, outside Nga Man House, Ho Man Tin Estate"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20007740,
+        "name_tc": "佛光街, 冠暉苑高暉閣外",
+        "name_sc": "佛光街, 冠晖苑高晖阁外",
+        "name_en": "Fat Kwong Street, outside Ko Fai House, Kwun Fai Court"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20000726,
+        "name_tc": "信用街, 高山道海關已婚關員宿舍外",
+        "name_sc": "信用街, 高山道海关已婚关员宿舍外",
+        "name_en": "Shun Yung Street, outside Custom & Excise Service Married Quarters"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20000727,
+        "name_tc": "高山道, 高山劇場外",
+        "name_sc": "高山道, 高山剧场外",
+        "name_en": "Ko Shan Road, outside Ko Shan Theatre"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20000731,
+        "name_tc": "靠背壟道, 近樂民新邨樂善樓",
+        "name_sc": "靠背垄道, 近乐民新邨乐善楼",
+        "name_en": "Kau Pui Lung Road, near Lok Seen Lau, Lok Man Sun Chuen"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20000704,
+        "name_tc": "美善同道, 落山道以北",
+        "name_sc": "美善同道, 落山道以北",
+        "name_en": "Maidstaone Road, North Of Lok Shan Road"
+      }
+    ],
+    "data_timestamp": "2024-10-28T17:35:02.409+08:00"
+  }
+}

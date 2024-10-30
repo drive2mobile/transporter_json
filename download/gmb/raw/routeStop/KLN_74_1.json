@@ -1,0 +1,213 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:02:43.096+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20000691,
+        "name_tc": "九龍站",
+        "name_sc": "九龙站",
+        "name_en": "Kowloon Station"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20000694,
+        "name_tc": "渡船街, 近文英樓",
+        "name_sc": "渡船街, 近文英楼 ",
+        "name_en": "Ferry Street, near Man Ying Building"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20013231,
+        "name_tc": "廣東道, 近北海街",
+        "name_sc": "广东道, 近北海街 ",
+        "name_en": "Canton Road, near Pak Hoi Street"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20013199,
+        "name_tc": "眾坊街, 近駿發花園",
+        "name_sc": "众坊街, 近骏发花园 ",
+        "name_en": "PUBLIC SQUARE STREET, near Prosperous Garden"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20020066,
+        "name_tc": "新填地街, 近永星里",
+        "name_sc": "新填地街, 近永星里",
+        "name_en": "Reclaimation Street near Wing Sing Lane"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20013200,
+        "name_tc": "永星里, 近雅達商業大廈",
+        "name_sc": "永星里, 近雅达商业大厦 ",
+        "name_en": "WING SING LANE, near Arthur Commercial Building"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20013201,
+        "name_tc": "彌敦道, 近永星里",
+        "name_sc": "弥敦道, 近永星里 ",
+        "name_en": "NATHAN ROAD, near Wing Sing Lane"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20006085,
+        "name_tc": "窩打老道, 近青年會",
+        "name_sc": "窝打老道, 近青年会",
+        "name_en": "WATERLOO ROAD, near YMCA"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20000626,
+        "name_tc": "窩打老道, 近廣華醫院主座大樓東翼",
+        "name_sc": "窝打老道, 近广华医院主座大楼东翼 ",
+        "name_en": "WATERLOO ROAD, near Kwong Wah Hospital East Wing Main Building"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20006093,
+        "name_tc": "廣華街, 近煙廠街",
+        "name_sc": "广华街, 近烟厂街",
+        "name_en": "Kwong Wah Street near Yin Chong Street"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20000627,
+        "name_tc": "染布房街, 近依利大廈",
+        "name_sc": "染布房街, 近依利大厦 ",
+        "name_en": "YIM PO FONG STREET, near Lisa House"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20007744,
+        "name_tc": "聯運街, 近聯運街休憩處",
+        "name_sc": "联运街, 近联运街休憩处 ",
+        "name_en": "LUEN WAN STREET, near LUEN WAN STREET SITTING-OUT AREA"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20013202,
+        "name_tc": "洗衣街, 近鴻德大廈",
+        "name_sc": "洗衣街, 近鸿德大厦 ",
+        "name_en": "SAI YEE STREET, near Hung Tak Building"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20000628,
+        "name_tc": "太子道西, 近別樹一居",
+        "name_sc": "太子道西, 近别树一居",
+        "name_en": "PRINCE EDWARD ROAD WEST, near Bijou Court"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20013203,
+        "name_tc": "西洋菜南街, 近生發大廈",
+        "name_sc": "西洋菜南街, 近生发大厦 ",
+        "name_en": "SAI YEUNG CHOI STREET SOUTH, near Sang Fat Building"
+      },
+      {
+        "stop_seq": 16,
+        "stop_id": 20013238,
+        "name_tc": "洗衣街, 近快富街",
+        "name_sc": "洗衣街, 近快富街 ",
+        "name_en": "SAI YEE STREET, near FIFE STREET"
+      },
+      {
+        "stop_seq": 17,
+        "stop_id": 20000912,
+        "name_tc": "亞皆老街113號",
+        "name_sc": "亚皆老街113号",
+        "name_en": "House No. 113 Arygle Street"
+      },
+      {
+        "stop_seq": 18,
+        "stop_id": 20000721,
+        "name_tc": "窩打老道, 近萬基大廈",
+        "name_sc": "窝打老道, 近万基大厦 ",
+        "name_en": "WATERLOO ROAD, near Man Kee Mansion "
+      },
+      {
+        "stop_seq": 19,
+        "stop_id": 20013232,
+        "name_tc": "窩打老道, 近何文田街",
+        "name_sc": "窝打老道, 近何文田街 ",
+        "name_en": "WATERLOO ROAD, near Ho Man Tin Street"
+      },
+      {
+        "stop_seq": 20,
+        "stop_id": 20013204,
+        "name_tc": "窩打老道, 近九龍華仁書院",
+        "name_sc": "窝打老道, 近九龙华仁书院 ",
+        "name_en": "WATERLOO ROAD, near Kowloon Wah Yan College"
+      },
+      {
+        "stop_seq": 21,
+        "stop_id": 20013205,
+        "name_tc": "窩打老道, 近油麻地救護站",
+        "name_sc": "窝打老道, 近油麻地救护站 ",
+        "name_en": "WATERLOO ROAD, near Yau Ma Tei Ambulance Depot"
+      },
+      {
+        "stop_seq": 22,
+        "stop_id": 20013206,
+        "name_tc": "窩打老道, 近金輝大廈",
+        "name_sc": "窝打老道, 近金辉大厦 ",
+        "name_en": "WATERLOO ROAD, near Kam Fai Building"
+      },
+      {
+        "stop_seq": 23,
+        "stop_id": 20000870,
+        "name_tc": "上海街, 近文明里休憩花園",
+        "name_sc": "上海街, 近文明里休憩花园 ",
+        "name_en": "SHANGHAI STREET, near MAN MING LANE REST GARDEN"
+      },
+      {
+        "stop_seq": 24,
+        "stop_id": 20013239,
+        "name_tc": "上海街, 近海景絲麗酒店",
+        "name_sc": "上海街, 近海景丝丽酒店 ",
+        "name_en": "SHANGHAI STREET, near Silka Seaview Hotel"
+      },
+      {
+        "stop_seq": 25,
+        "stop_id": 20013207,
+        "name_tc": "上海街, 近西貢街",
+        "name_sc": "上海街, 近西贡街 ",
+        "name_en": "SHANGHAI STREET, near Saigon Street"
+      },
+      {
+        "stop_seq": 26,
+        "stop_id": 20000462,
+        "name_tc": "佐敦道38號",
+        "name_sc": "佐敦道38号 ",
+        "name_en": "House No. 38 Jordon Road"
+      },
+      {
+        "stop_seq": 27,
+        "stop_id": 20010064,
+        "name_tc": "佐敦道, 近西九龍站",
+        "name_sc": "佐敦道, 近西九龙站",
+        "name_en": "Jordan Road, near West Kowloon Station"
+      },
+      {
+        "stop_seq": 28,
+        "stop_id": 20013233,
+        "name_tc": "佐敦道, 近擎天半島",
+        "name_sc": "佐敦道, 近擎天半岛 ",
+        "name_en": "JORDAN ROAD, near Sorrento"
+      },
+      {
+        "stop_seq": 29,
+        "stop_id": 20013208,
+        "name_tc": "九龍站",
+        "name_sc": "九龙站",
+        "name_en": "Kowloon Station"
+      }
+    ],
+    "data_timestamp": "2024-10-28T17:31:49.688+08:00"
+  }
+}

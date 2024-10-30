@@ -1,0 +1,31 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:03:09.398+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20015377,
+        "name_tc": "石角路, 近峻瀅",
+        "name_sc": "石角路, 近峻滢",
+        "name_en": "Shek Kok Road, near The Beaumount"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20002647,
+        "name_tc": "環保大道, 首都外",
+        "name_sc": "环保大道, 首都外",
+        "name_en": "Wan Po Road, outside The Capitol"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20015376,
+        "name_tc": "康城站公共運輸交匯處",
+        "name_sc": "康城站公共运输交汇处",
+        "name_en": "LOHAS Park Station Public Transport Interchange"
+      }
+    ],
+    "data_timestamp": "2024-08-07T13:50:04.984+08:00"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "NT_95_2",
+  "route_id": 2008002,
+  "region": "NT",
+  "route": "95",
+  "route_seq": 2,
+  "from_tc": "海貴路公共運輸交匯處",
+  "from_en": "Hoi Kwai Road Public Transport Interchange",
+  "to_tc": "荃灣中心",
+  "to_en": "Tsuen Wan Centre"
+}

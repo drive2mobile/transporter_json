@@ -1,0 +1,52 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:04:11.201+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20014457,
+        "name_tc": "粉嶺車站路,近粉嶺名都嘉麗閣",
+        "name_sc": "粉岭车站路,近粉岭名都嘉丽阁",
+        "name_en": "FANLING STATION ROAD, near Galaxy Court, FANLING TOWN CENTER"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20001466,
+        "name_tc": "粉嶺樓路, 粉嶺禮賢會中學對面",
+        "name_sc": "粉岭楼路, 粉岭礼贤会中学对面",
+        "name_en": "Fan Leng Lau Road, opposite Fanling Rhenish Church Secondary School"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20014459,
+        "name_tc": "和隆街,近寶榮樓",
+        "name_sc": "和隆街,近宝荣楼",
+        "name_en": "WO LUNG STREET, near Po Wing Building"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20001455,
+        "name_tc": "和滿街小巴總站",
+        "name_sc": "和满街小巴总站",
+        "name_en": "Wo Mun Street Public Light Bus Terminus"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20014460,
+        "name_tc": "沙頭角公路－龍躍頭段,近軍地",
+        "name_sc": "沙头角公路－龙跃头段,近军地",
+        "name_en": "SHA TAU KOK ROAD - LUNG YEUK TAU, near KWAN TEI"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20014617,
+        "name_tc": "軍地(北)",
+        "name_sc": "军地(北)",
+        "name_en": "KWAN TEI (NORTH)"
+      }
+    ],
+    "data_timestamp": "2024-10-25T15:49:52.537+08:00"
+  }
+}

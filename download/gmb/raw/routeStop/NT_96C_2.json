@@ -1,0 +1,45 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:05:19.682+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20002606,
+        "name_tc": "碧堤半島",
+        "name_sc": "碧堤半岛",
+        "name_en": "Bellagio"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20016078,
+        "name_tc": "青山公路-荃灣段近安育路交界",
+        "name_sc": "青山公路-荃湾段近安育路交界",
+        "name_en": "Castle Peak Road-Tsuen Wan near junction with On Yuk Road"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20016079,
+        "name_tc": "青山公路-荃灣段荃德花園外",
+        "name_sc": "青山公路-荃湾段荃德花园外",
+        "name_en": "Castle Peak Road-Tsuen Wan outside Tsuen Tak Garden"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20001872,
+        "name_tc": "青山公路-荃灣段中染大廈外",
+        "name_sc": "青山公路-荃湾段中染大厦外",
+        "name_en": "Castle Peak Road-Tsuen Wan outside CDW Building"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20016007,
+        "name_tc": "荃灣站",
+        "name_sc": "荃湾站",
+        "name_en": "Tsuen Wan Station"
+      }
+    ],
+    "data_timestamp": "2022-10-27T00:05:39.899+08:00"
+  }
+}

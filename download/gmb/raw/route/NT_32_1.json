@@ -1,0 +1,11 @@
+{
+  "id": "NT_32_1",
+  "route_id": 2006577,
+  "region": "NT",
+  "route": "32",
+  "route_seq": 1,
+  "from_tc": "元朗站(北)公共運輸交匯處",
+  "from_en": "Yuen Long  Station (North) Public Transport Interchange",
+  "to_tc": "丹桂村",
+  "to_en": "Tan Kwai Tsuen"
+}

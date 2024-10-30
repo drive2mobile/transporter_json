@@ -1,0 +1,11 @@
+{
+  "id": "NT_88M_1",
+  "route_id": 2008628,
+  "region": "NT",
+  "route": "88M",
+  "route_seq": 1,
+  "from_tc": "葵芳站",
+  "from_en": "Kwai Fong Station",
+  "to_tc": "青衣南 (回程不經新都會廣場) (循環線)",
+  "to_en": "Tsing Yi South (omit Metroplaza on return journey) (Circular)"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "NT_609B_1",
+  "route_id": 2001200,
+  "region": "NT",
+  "route": "609B",
+  "route_seq": 1,
+  "from_tc": "朗善邨",
+  "from_en": "Long Shin Estate",
+  "to_tc": "元朗港鐵站(循環線)",
+  "to_en": "Yuen Long station (Circular)"
+}

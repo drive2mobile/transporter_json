@@ -1,0 +1,11 @@
+{
+  "id": "KLN_37A_1",
+  "route_id": 2003504,
+  "region": "KLN",
+  "route": "37A",
+  "route_seq": 1,
+  "from_tc": "黃大仙公共小型巴士(專綫)服務總站",
+  "from_en": "Wong Tai Sin Public Light Bus (Scheduled) Service Terminus",
+  "to_tc": "慈雲山(北)",
+  "to_en": "Tsz Wan Shan (North)"
+}

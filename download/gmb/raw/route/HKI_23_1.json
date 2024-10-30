@@ -1,0 +1,11 @@
+{
+  "id": "HKI_23_1",
+  "route_id": 2003042,
+  "region": "HKI",
+  "route": "23",
+  "route_seq": 1,
+  "from_tc": "堅尼地城站",
+  "from_en": "Kennedy Town Station",
+  "to_tc": "薄扶林(循環線)",
+  "to_en": "Pok Fu Lam (Circular)"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "NT_610S_1",
+  "route_id": 2001161,
+  "region": "NT",
+  "route": "610S",
+  "route_seq": 1,
+  "from_tc": "天水圍天瑞邨",
+  "from_en": "Tin Shui Wai (Tin Shui Estate)",
+  "to_tc": "尖沙咀海防道",
+  "to_en": "Tsim Sha Tsui (Haipong Road)"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "KLN_26_2",
+  "route_id": 2002815,
+  "region": "KLN",
+  "route": "26",
+  "route_seq": 2,
+  "from_tc": "九龍站",
+  "from_en": "Kowloon Station",
+  "to_tc": "土瓜灣(浙江街)",
+  "to_en": "To Kwa Wan (Chi Kiang Street)"
+}

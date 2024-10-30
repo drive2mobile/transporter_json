@@ -1,0 +1,11 @@
+{
+  "id": "NT_407A_1",
+  "route_id": 2006904,
+  "region": "NT",
+  "route": "407A",
+  "route_seq": 1,
+  "from_tc": "葵芳站(興寧路)",
+  "from_en": "Kwai Fong Station (Hing Ning Road)",
+  "to_tc": "瑪嘉烈醫院",
+  "to_en": "Princess Margaret Hospital"
+}

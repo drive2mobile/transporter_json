@@ -1,0 +1,11 @@
+{
+  "id": "HKI_54M_2",
+  "route_id": 2003685,
+  "region": "HKI",
+  "route": "54M",
+  "route_seq": 2,
+  "from_tc": "瑪麗醫院",
+  "from_en": "Queen Mary Hospital",
+  "to_tc": "堅尼地城站",
+  "to_en": "Kennedy Town Station"
+}

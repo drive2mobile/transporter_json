@@ -1,0 +1,11 @@
+{
+  "id": "NT_87M_2",
+  "route_id": 2006681,
+  "region": "NT",
+  "route": "87M",
+  "route_seq": 2,
+  "from_tc": "貨櫃碼頭南路(四號貨櫃碼頭)",
+  "from_en": "Container Port Road South (Terminal 4)",
+  "to_tc": "葵芳站",
+  "to_en": "Kwai Fong Station"
+}

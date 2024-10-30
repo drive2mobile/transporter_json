@@ -1,0 +1,11 @@
+{
+  "id": "HKI_22X_2",
+  "route_id": 2003048,
+  "region": "HKI",
+  "route": "22X",
+  "route_seq": 2,
+  "from_tc": "中環(中環碼頭)",
+  "from_en": "Central (Central Ferry Piers)",
+  "to_tc": "薄扶林花園",
+  "to_en": "Pok Fu Lam Gardens"
+}

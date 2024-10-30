@@ -1,0 +1,59 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:01:25.069+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20000093,
+        "name_tc": "蘭芳道, 近利園一期",
+        "name_sc": "兰芳道, 近利园一期",
+        "name_en": "Near Lee Garden One, Lan Fong Road"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20000311,
+        "name_tc": "邊寧頓街利園二期外",
+        "name_sc": "边宁顿街利园二期外",
+        "name_en": "Pennington Street outside Lee Gardens Two"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20000121,
+        "name_tc": "大坑道9號",
+        "name_sc": "大坑道9号",
+        "name_en": "9 Tai Hang Road"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20000124,
+        "name_tc": "勵德邨",
+        "name_sc": "励德村",
+        "name_en": "Lai Tak Tsuen"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20000123,
+        "name_tc": "怡景道及大坑道之間勵德邨道",
+        "name_sc": "怡景道及大坑道之间励德村道",
+        "name_en": "Lai Tak Tsuen Road Between Yee King Road And Tai Hang Road"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20000122,
+        "name_tc": "大坑道, 近帝后臺",
+        "name_sc": "大坑道, 近帝后台",
+        "name_en": "Near Grand Deco Tower, Tai Hang Road"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20000093,
+        "name_tc": "蘭芳道, 近利園一期",
+        "name_sc": "兰芳道, 近利园一期",
+        "name_en": "Near Lee Garden One, Lan Fong Road"
+      }
+    ],
+    "data_timestamp": "2024-10-30T13:56:11.367+08:00"
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:03:50.115+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20001327,
+        "name_tc": "青磚圍路, 青磚圍",
+        "name_sc": "青砖围路, 青砖围",
+        "name_en": "Tsing Chuen Wai Road, Tsing Chuen Wai"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20005037,
+        "name_tc": "兆康站北面公共運輸交匯處",
+        "name_sc": "兆康站北面公共运输交汇处",
+        "name_en": "Siu Hong Station North Public Transport Interchange"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20001333,
+        "name_tc": "屯門醫院, 醫院通道",
+        "name_sc": "屯门医院, 医院通道",
+        "name_en": "Tuen Mun Hospital, Access Road"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20001336,
+        "name_tc": "青松觀路, 近青山醫院",
+        "name_sc": "青松观路, 近青山医院",
+        "name_en": "Tsing Chung Koon Road, near Castle Peak Hospital"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20001337,
+        "name_tc": "青松觀路, 近澤豐花園街市商場",
+        "name_sc": "青松观路, 近泽丰花园街市商场",
+        "name_en": "Tsing Chung Koon Road,  near Affluence Garden Commercial Complex "
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20001306,
+        "name_tc": "震寰路, 大興邨興偉樓對面",
+        "name_sc": "震寰路, 大兴邨兴伟楼对面",
+        "name_en": "Tsun Wen Road, opposite to Hing Wai House of Tai Hing Estate"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20007984,
+        "name_tc": "震寰路, 卓爾居外",
+        "name_sc": "震寰路, 卓尔居外 ",
+        "name_en": "Tsun Wen Road,  outside Chelsea Heights"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20007761,
+        "name_tc": "震寰路, 屯門區總部及分區警署外",
+        "name_sc": "震寰路, 屯门区总部及分区警署外",
+        "name_en": "Tsun Wen Road, outside Tuen Mun District Headquarters & Division Police Station"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20001311,
+        "name_tc": "屯門站公共運輸交匯處",
+        "name_sc": "屯门站公共运输交汇处",
+        "name_en": "Tuen Mun Station Public Transport Interchange"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20001338,
+        "name_tc": "屯順街, 屯門市廣場第4座外",
+        "name_sc": "屯顺街, 屯门市广场第4座外",
+        "name_en": "Tuen Shun Street, outside Block 4 of Tuen Mun Town Plaza"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20001322,
+        "name_tc": "屯門鄉事會路, 聖公會聖西門呂明才中學外",
+        "name_sc": "屯门乡事会路, 圣公会圣西门吕明才中学外",
+        "name_en": "Tuen Mun Heung Sze Wui Road, outside SKH St. Simon's Lui Ming Choi Secondary School"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20001324,
+        "name_tc": "震寰路, 大興邨興偉樓外",
+        "name_sc": "震寰路, 大兴邨兴伟楼外",
+        "name_en": "Tsun Wen Road, outside Hing Wai House of Tai Hing Estate"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20001339,
+        "name_tc": "青松觀路, 近澤豐花園",
+        "name_sc": "青松观路, 近泽丰花园",
+        "name_en": "Tsing Chung Koon Road, near Affluence Garden"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20001341,
+        "name_tc": "青松觀路, 近青山醫院",
+        "name_sc": "青松观路, 近青山医院",
+        "name_en": "Tsing Chung Koon Road, near Castle Peak Hospital"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20001333,
+        "name_tc": "屯門醫院, 醫院通道",
+        "name_sc": "屯门医院, 医院通道",
+        "name_en": "Tuen Mun Hospital, Access Road"
+      },
+      {
+        "stop_seq": 16,
+        "stop_id": 20007762,
+        "name_tc": "青麟路, 欣田邨",
+        "name_sc": "青麟路, 欣田邨",
+        "name_en": "Tsing Lun Road, Yan Tin Estate"
+      },
+      {
+        "stop_seq": 17,
+        "stop_id": 20001327,
+        "name_tc": "青磚圍路, 青磚圍",
+        "name_sc": "青砖围路, 青砖围",
+        "name_en": "Tsing Chuen Wai Road, Tsing Chuen Wai"
+      }
+    ],
+    "data_timestamp": "2024-10-16T17:02:28.670+08:00"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:02:15.801+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20016432,
+        "name_tc": "雲漢街, 近南寧大樓",
+        "name_sc": "云汉街, 近南宁大楼",
+        "name_en": "Wan Hon Street, Near Nam Ning Mansion"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20016433,
+        "name_tc": "瑞和街, 近南安大樓",
+        "name_sc": "瑞和街, 近南安大楼",
+        "name_en": "Shui Wo Street, Near Nam On Mansion"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20014072,
+        "name_tc": "裕民坊公共運輸交匯處",
+        "name_sc": "裕民坊公共运输交汇处",
+        "name_en": "Yue Man Square Public Transport Interchange"
+      }
+    ],
+    "data_timestamp": "2024-10-22T12:39:00.276+08:00"
+  }
+}

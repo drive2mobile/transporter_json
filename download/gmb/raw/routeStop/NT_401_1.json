@@ -1,0 +1,87 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:03:43.300+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20002105,
+        "name_tc": "長安巴士總站",
+        "name_sc": "长安巴士总站",
+        "name_en": "Cheung On Bus Terminus"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20002106,
+        "name_tc": "馬頭壩道, 映日灣外",
+        "name_sc": "马头坝道, 映日湾外",
+        "name_en": "Ma Tau Pa Road, outside The Aurora"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20001698,
+        "name_tc": "聯仁街, 寶石大廈3座外",
+        "name_sc": "联仁街, 宝石大厦3座外",
+        "name_en": "Luen Yan Street, outside Block 3, Bo Shek Mansion"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20002101,
+        "name_tc": "關門口街, 仁濟醫院外",
+        "name_sc": "关门口街, 仁济医院外",
+        "name_en": "Kwan Mun Hau Street, outside Yan Chai Hospital "
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20001445,
+        "name_tc": "青山公路荃灣段, 港鐵大窩口站B入口外",
+        "name_sc": "青山公路荃湾段, 港铁大窝口站B入口外",
+        "name_en": "Tai Wo Hau Station, Exit B"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20002080,
+        "name_tc": "青山公路葵涌段570號葵涌公立學校對開",
+        "name_sc": "青山公路葵涌段570号葵涌公立学校对开",
+        "name_en": "Kwai Chung Public School, No.570 Castle Peak Road-Kwai Chung"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20001654,
+        "name_tc": "青山公路葵涌段近屏麗徑",
+        "name_sc": "青山公路葵涌段近屏丽径",
+        "name_en": "Castle Peak Road-Kwai Chung near Ping Lai Path"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20001655,
+        "name_tc": "和宜合道, 近打磚坪街",
+        "name_sc": "和宜合道, 近打砖坪街",
+        "name_en": "Wo Yi Hop Road, near Tai Chuen Ping Street"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20002107,
+        "name_tc": "大白田街, 葵涌花園外",
+        "name_sc": "大白田街, 葵涌花园外",
+        "name_en": "Kwai Chung Fa Yuen"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20001656,
+        "name_tc": "大白田街, 北葵涌診療所",
+        "name_sc": "大白田街, 北葵涌诊疗所",
+        "name_en": "North Kwai Chung Clinic"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20010195,
+        "name_tc": "石蔭巴士總站",
+        "name_sc": "石荫巴士总站",
+        "name_en": "Shek Yam Bus Terminus"
+      }
+    ],
+    "data_timestamp": "2024-09-08T00:00:38.347+08:00"
+  }
+}

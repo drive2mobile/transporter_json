@@ -1,0 +1,11 @@
+{
+  "id": "NT_91_2",
+  "route_id": 2005683,
+  "region": "NT",
+  "route": "91",
+  "route_seq": 2,
+  "from_tc": "荃灣(鹹田街)",
+  "from_en": "Tsuen Wan (Ham Tin Street)",
+  "to_tc": "荔崗街",
+  "to_en": "Lai Kong Street"
+}

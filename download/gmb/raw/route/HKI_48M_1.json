@@ -1,0 +1,11 @@
+{
+  "id": "HKI_48M_1",
+  "route_id": 2003902,
+  "region": "HKI",
+  "route": "48M",
+  "route_seq": 1,
+  "from_tc": "柴灣站(利眾街)",
+  "from_en": "Chai Wan Station (Lee Chung Street)",
+  "to_tc": "東區尤德夫人那打素醫院",
+  "to_en": "Pamela Youde Nethersole Eastern Hospital"
+}

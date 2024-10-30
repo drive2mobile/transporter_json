@@ -1,0 +1,11 @@
+{
+  "id": "HKI_59X_1",
+  "route_id": 2002745,
+  "region": "HKI",
+  "route": "59X",
+  "route_seq": 1,
+  "from_tc": "堅尼地城站",
+  "from_en": "Kennedy Town Station",
+  "to_tc": "葛量洪醫院",
+  "to_en": "Grantham Hospital"
+}

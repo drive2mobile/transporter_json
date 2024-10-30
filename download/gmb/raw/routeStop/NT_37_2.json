@@ -1,0 +1,136 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:03:37.662+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20016838,
+        "name_tc": "牛潭尾路, 近攸潭尾村公所",
+        "name_sc": "牛潭尾路, 近攸潭尾村公所",
+        "name_en": "Ngau Tam Mei Road, Near Ngau Tam Mei Village Office"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20016839,
+        "name_tc": "牛潭尾路, 近攸美花園A座",
+        "name_sc": "牛潭尾路, 近攸美花园A座",
+        "name_en": "Ngau Tam Mei Road, Near Yau Mei Garden Block A"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20016840,
+        "name_tc": "牛潭尾路, 近攸美山莊L座",
+        "name_sc": "牛潭尾路, 近攸美山庄L座",
+        "name_en": "Ngau Tam Mei Road, Near Elegant Park Block L"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20016841,
+        "name_tc": "牛潭尾路, 近御葡萄",
+        "name_sc": "牛潭尾路, 近御葡萄",
+        "name_en": "Ngau Tam Mei Road, Near La Maison Vineyard"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20016842,
+        "name_tc": "新潭路, 近加多利園31",
+        "name_sc": "新潭路, 近加多利园31",
+        "name_en": "San Tam Road, Near Kadoorie Villas 31"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20016843,
+        "name_tc": "新潭路, 近怡安苑1座",
+        "name_sc": "新潭路, 近怡安苑1座",
+        "name_en": "San Tam Road, Near Ian Court Block 1"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20016844,
+        "name_tc": "新潭路, 近首譽",
+        "name_sc": "新潭路, 近首誉",
+        "name_en": "San Tam Road, Near Meister House"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20016845,
+        "name_tc": "新潭路, 近雅麗花園",
+        "name_sc": "新潭路, 近雅丽花园",
+        "name_en": "San Tam Road, Near Elite Garden"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20016846,
+        "name_tc": "新潭路, 近金翠軒",
+        "name_sc": "新潭路, 近金翠轩",
+        "name_en": "San Tam Road, Near 金翠軒"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20016847,
+        "name_tc": "新潭路, 近沙埔污水泵房",
+        "name_sc": "新潭路, 近沙埔污水泵房",
+        "name_en": "San Tam Road, Near Sha Po Sewage Pumping Station"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20016848,
+        "name_tc": "新潭路, 近Park Yoho Venezia",
+        "name_sc": "新潭路, 近Park Yoho Venezia",
+        "name_en": "San Tam Road, Near Park Yoho Venezia"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20016825,
+        "name_tc": "青山公路－潭尾段, 近山水盈",
+        "name_sc": "青山公路－潭尾段, 近山水盈",
+        "name_en": "Castle Peak Road - Tam Mi, Near Crescent Green"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20001286,
+        "name_tc": "青山公路, 近楊屋村",
+        "name_sc": "青山公路, 近杨屋村",
+        "name_en": "Castle Peak Road, near Yeung Uk Tsuen"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20001287,
+        "name_tc": "青山公路元朗段, 近 YOHO Midtown",
+        "name_sc": "青山公路元朗段, 近 YOHO Midtown",
+        "name_en": "Castle Peak Road-Yuen Long, near YOHO Midtown"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20001288,
+        "name_tc": "青山公路, 又新街",
+        "name_sc": "青山公路, 又新街",
+        "name_en": "Castle Peak Road, Yau San Street"
+      },
+      {
+        "stop_seq": 16,
+        "stop_id": 20001289,
+        "name_tc": "青山公路, 大棠路",
+        "name_sc": "青山公路, 大棠路",
+        "name_en": "Castle Peak Road, Tai Tong Road (outside house no.110)"
+      },
+      {
+        "stop_seq": 17,
+        "stop_id": 20015426,
+        "name_tc": "擊壤路, 近擊壤路五人足球場",
+        "name_sc": "击壤路, 近击壤路五人足球场",
+        "name_en": "Kik Yeung Road, near Kik Yueng Road 5-a-side Football Pitch"
+      },
+      {
+        "stop_seq": 18,
+        "stop_id": 20015409,
+        "name_tc": "福康街, 近金寶樓",
+        "name_sc": "福康街, 近金宝楼",
+        "name_en": "Fook Hong Street, near Kam Bo Building"
+      }
+    ],
+    "data_timestamp": "2024-10-25T16:51:06.437+08:00"
+  }
+}

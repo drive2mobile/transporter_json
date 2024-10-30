@@ -1,0 +1,11 @@
+{
+  "id": "NT_88G_1",
+  "route_id": 2008629,
+  "region": "NT",
+  "route": "88G",
+  "route_seq": 1,
+  "from_tc": "葵芳站",
+  "from_en": "Kwai Fong Station",
+  "to_tc": "藍澄灣",
+  "to_en": "Rambler Crest"
+}

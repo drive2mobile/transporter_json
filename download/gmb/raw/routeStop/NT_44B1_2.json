@@ -1,0 +1,94 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:03:54.377+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20007287,
+        "name_tc": "屯門碼頭 (公共小巴總站 - 湖山路)",
+        "name_sc": "屯门码头 (公共小巴总站 - 湖山路)",
+        "name_en": "Tuen Mun Ferry Pier (Public Light Bus (Scheduled Services) Terminus on Wu Shan Road)"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20001376,
+        "name_tc": "湖翠路, 邁亞美海灣外",
+        "name_sc": "湖翠路, 迈亚美海湾外",
+        "name_en": "Wu Chui Road, outside Miami Beach Towers"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20001377,
+        "name_tc": "湖翠路, 海翠花園第2座外",
+        "name_sc": "湖翠路, 海翠花园第2座外",
+        "name_en": "Wu Chui Road, outside Block 2, Pierhead Garden"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20001378,
+        "name_tc": "湖翠路, 美樂花園第10座外",
+        "name_sc": "湖翠路, 美乐花园第10座外",
+        "name_en": "Wu Chui Road, outside Block 10, Melody Garden"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20004519,
+        "name_tc": "龍門路, 蝴蝶輕鐵站外",
+        "name_sc": "龙门路, 蝴蝶轻铁站外",
+        "name_en": "Lung Mun Road, outside Butterfly Light Rail Station"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20001379,
+        "name_tc": "龍門路, 輕鐵車廠站外",
+        "name_sc": "龙门路, 轻铁车厂站外",
+        "name_en": "Lung Mun Road, outside Light Rail Depot Station"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20001380,
+        "name_tc": "龍門路, 龍門輕鐵站外",
+        "name_sc": "龙门路, 龙门轻铁站外",
+        "name_en": "Lung Mun Road, outside Lung Mun LRT Station"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20001381,
+        "name_tc": "海珠路, 豐景園外",
+        "name_sc": "海珠路, 丰景园外",
+        "name_en": "Hoi Chu Road, outside Goodview Garden"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20001382,
+        "name_tc": "海珠路, 翠寧花園外",
+        "name_sc": "海珠路, 翠宁花园外",
+        "name_en": "Hoi Chu Road, outside Tsui Ning Garden"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20001318,
+        "name_tc": "屯門鄉事會路, 近友愛邨",
+        "name_sc": "屯门乡事会路, 近友爱邨",
+        "name_en": "Tuen Mun Heung Sze Wui Road, near Yau Oi Estate"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20001319,
+        "name_tc": "屯門鄉事會路, 市中心輕鐵站外",
+        "name_sc": "屯门乡事会路, 市中心轻铁站外",
+        "name_en": "Tuen Mun Heung Sze Wui Road, outside Town Centre Light Rail Station"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20001406,
+        "name_tc": "落馬洲(新田)公共運輸交匯處",
+        "name_sc": "落马洲(新田)公共运输交汇处",
+        "name_en": "Lok Ma Chau (San Tin) Public Transport Interchange"
+      }
+    ],
+    "data_timestamp": "2024-10-16T17:02:28.684+08:00"
+  }
+}

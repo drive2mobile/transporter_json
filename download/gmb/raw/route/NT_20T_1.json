@@ -1,0 +1,11 @@
+{
+  "id": "NT_20T_1",
+  "route_id": 2001476,
+  "region": "NT",
+  "route": "20T",
+  "route_seq": 1,
+  "from_tc": "大埔墟站",
+  "from_en": "Tai Po Market Station",
+  "to_tc": "慈山寺",
+  "to_en": "Tsz Shan Monastery"
+}

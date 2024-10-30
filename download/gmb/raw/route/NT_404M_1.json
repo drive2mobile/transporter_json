@@ -1,0 +1,11 @@
+{
+  "id": "NT_404M_1",
+  "route_id": 2001888,
+  "region": "NT",
+  "route": "404M",
+  "route_seq": 1,
+  "from_tc": "葵芳站",
+  "from_en": "Kwai Fong Station",
+  "to_tc": "葵喜街(循環線)",
+  "to_en": "Kwai Hei Street (Circular)"
+}

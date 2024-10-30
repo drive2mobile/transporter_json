@@ -1,0 +1,24 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:02:18.059+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20016437,
+        "name_tc": "茜發道, 近麗港城第二期",
+        "name_sc": "茜发道, 近丽港城第二期",
+        "name_en": "Sin Fat Road, Near Laguna City Phase 2"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20016438,
+        "name_tc": "茜發道, 近藍田站",
+        "name_sc": "茜发道, 近蓝田站",
+        "name_en": "Sin Fat Road, Near Lam Tin Station"
+      }
+    ],
+    "data_timestamp": "2024-03-14T11:50:13.721+08:00"
+  }
+}

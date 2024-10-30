@@ -1,0 +1,73 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:04:59.570+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20016724,
+        "name_tc": "石籬(梨貝街)",
+        "name_sc": "石篱(梨贝街)",
+        "name_en": "Shek Lei (Lei Pui Street)"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20016702,
+        "name_tc": "和宜合道雍雅軒外",
+        "name_sc": "和宜合道雍雅轩外",
+        "name_en": "Wo Yi Hop Road outside The Apex"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20011989,
+        "name_tc": "和宜合道97-107號外",
+        "name_sc": "和宜合道97-107号外",
+        "name_en": "Wo Yi Hop Road outside House No. 97-107"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20001679,
+        "name_tc": "和宜合道143號",
+        "name_sc": "和宜合道143号",
+        "name_en": "No.143 Wo Yi Hop Road"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20016710,
+        "name_tc": "和宜合道159-163號外",
+        "name_sc": "和宜合道159-163号外",
+        "name_en": "Wo Yi Hop Road outside House No. 159-163"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20001660,
+        "name_tc": "昌榮路1-7號外",
+        "name_sc": "昌荣路1-7号外",
+        "name_en": "Cheung Wing Road outside House No. 1-7"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20015943,
+        "name_tc": "沙咀道尚翠苑外",
+        "name_sc": "沙咀道尚翠苑外",
+        "name_en": "Sha Tsui Road outside Sheung Chui Court"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20001643,
+        "name_tc": "沙咀道寶石大廈外",
+        "name_sc": "沙咀道宝石大厦外",
+        "name_en": "Sha Tsui Road outside Bo Shek Mansion"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20016725,
+        "name_tc": "荃灣(川龍街)",
+        "name_sc": "荃湾(川龙街)",
+        "name_en": "Tsuen Wan (Chuen Lung Street)"
+      }
+    ],
+    "data_timestamp": "2024-10-23T13:28:56.874+08:00"
+  }
+}

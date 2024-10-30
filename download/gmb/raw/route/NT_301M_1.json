@@ -1,0 +1,11 @@
+{
+  "id": "NT_301M_1",
+  "route_id": 2001889,
+  "region": "NT",
+  "route": "301M",
+  "route_seq": 1,
+  "from_tc": "荃灣西站公共運輸交匯處",
+  "from_en": "Tsuen Wan West StationPublic Transport Interchange",
+  "to_tc": "荃灣站(循環線)",
+  "to_en": "Tsuen Wan Station (Circular)"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:04:40.267+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20015417,
+        "name_tc": "青山公路－新田段, 近東山古廟",
+        "name_sc": "青山公路－新田段, 近东山古庙",
+        "name_en": "Castle Peak Road - San Tin, near Tung Shan Temple"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20015418,
+        "name_tc": "青山公路－新田段, 近新田公共運輸交匯處過境穿梭巴士新田總站",
+        "name_sc": "青山公路－新田段, 近新田公共运输交汇处过境穿梭巴士新田总站",
+        "name_en": "Castle Peak Road - San Tin, near Cross Boundary Shuttle Bus San Tin Terminus, San Tin Public Transport Interchange"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20015419,
+        "name_tc": "落馬洲路, 近潘屋村",
+        "name_sc": "落马洲路, 近潘屋村",
+        "name_en": "Lok Ma Chau Road, near Pun Uk Tsuen"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20015420,
+        "name_tc": "未命名通道, 近落馬洲站",
+        "name_sc": "未命名通道, 近落马洲站",
+        "name_en": "UNNAMED ACCESS ROAD, near Lok Ma Chau Station"
+      }
+    ],
+    "data_timestamp": "2024-03-24T00:00:31.572+08:00"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "HKI_65_2",
+  "route_id": 2008025,
+  "region": "HKI",
+  "route": "65",
+  "route_seq": 2,
+  "from_tc": "北角(堡壘街)",
+  "from_en": "North Point (Fort Street)",
+  "to_tc": "東區尤德夫人那打素醫院",
+  "to_en": "Pamela Youde Nethersole Eastern Hospital"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "NT_20M_1",
+  "route_id": 2001463,
+  "region": "NT",
+  "route": "20M",
+  "route_seq": 1,
+  "from_tc": "鳳園",
+  "from_en": "Fung Yuen",
+  "to_tc": "大埔中心(循環線)",
+  "to_en": "Tai Po Central (Circular)"
+}

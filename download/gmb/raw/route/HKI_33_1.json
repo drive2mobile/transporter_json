@@ -1,0 +1,11 @@
+{
+  "id": "HKI_33_1",
+  "route_id": 2005685,
+  "region": "HKI",
+  "route": "33",
+  "route_seq": 1,
+  "from_tc": "康山",
+  "from_en": "Kornhill",
+  "to_tc": "北角(馬寶道)",
+  "to_en": "North Point (Marble Road)"
+}

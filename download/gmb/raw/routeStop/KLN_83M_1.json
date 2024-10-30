@@ -1,0 +1,66 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:02:50.073+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20016961,
+        "name_tc": "安華街, 近牛頭角街市",
+        "name_sc": "安华街, 近牛头角街市",
+        "name_en": "On Wah Street, near Ngau Tau Kok Market"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20016962,
+        "name_tc": "佐敦谷北道, 近淘大花園P座",
+        "name_sc": "佐敦谷北道, 近淘大花园P座",
+        "name_en": "Jordan Valley Road North, near Amoy Gardens Block P"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20016963,
+        "name_tc": "彩霞道, 近淘大花園Q座",
+        "name_sc": "彩霞道, 近淘大花园Q座",
+        "name_en": "Choi Ha Road, near Amoy Gardens Block Q"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20016964,
+        "name_tc": "彩霞道, 近彩頤居A座",
+        "name_sc": "彩霞道, 近彩颐居A座",
+        "name_en": "Choi Ha Road, near Cheerful Court Block A"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20016965,
+        "name_tc": "彩霞道, 近彩盈邨盈安樓",
+        "name_sc": "彩霞道, 近彩盈邨盈安楼",
+        "name_en": "Choi Ha Road, near Ying On House, Choi Ying Estate"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20016966,
+        "name_tc": "彩德邨通道, 近彩德邨彩誠樓",
+        "name_sc": "彩德邨通道, 近彩德邨彩诚楼",
+        "name_en": "Choi Tak Access Road, near Choi Shing House"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20008527,
+        "name_tc": "彩興里, 近彩興苑彩蕎閣",
+        "name_sc": "彩兴里, 近彩兴苑彩荞阁",
+        "name_en": "Choi Hing Lane, near Choi Hing Court"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20012360,
+        "name_tc": "坪石公共運輸交匯處",
+        "name_sc": "坪石公共运输交汇处",
+        "name_en": "Ping Shek Public Transport Interchange"
+      }
+    ],
+    "data_timestamp": "2024-07-31T11:32:18.339+08:00"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:04:31.241+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20014256,
+        "name_tc": "大圍新村路, 近大圍新村",
+        "name_sc": "大围新村路, 近大围新村 ",
+        "name_en": "TAI WAI NEW VILLAGE ROAD, near TAI WAI NEW VILLAGE"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20016565,
+        "name_tc": "大圍公共運輸交匯處",
+        "name_sc": "大围公共运输交汇处",
+        "name_en": "Tai Wai Station Public Transport Interchange"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20014224,
+        "name_tc": "村南道, 近大圍站",
+        "name_sc": "村南道, 近大围站 ",
+        "name_en": "TSUEN NAM ROAD, near Tai Wai Station"
+      }
+    ],
+    "data_timestamp": "2024-05-26T00:00:40.079+08:00"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "KLN_20M_2",
+  "route_id": 2004990,
+  "region": "KLN",
+  "route": "20M",
+  "route_seq": 2,
+  "from_tc": "黄大仙站",
+  "from_en": "Wong Tai Sin Station",
+  "to_tc": "新蒲崗",
+  "to_en": "新蒲岗"
+}

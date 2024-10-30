@@ -1,0 +1,87 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:01:31.830+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20014492,
+        "name_tc": "香港站小巴總站",
+        "name_sc": "香港站小巴总站",
+        "name_en": "Hong Kong Station Minibus Terminus"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20004107,
+        "name_tc": "民祥街, 近國際金融中心二期",
+        "name_sc": "民祥街, 近國際金融中心二期 ",
+        "name_en": "MAN CHEUNG STREET, near Two International Finance Centre"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20000026,
+        "name_tc": "紅棉路, 香港壁球中心外",
+        "name_sc": "红棉路, 香港壁球中心外",
+        "name_en": "Cotton Tree Drive, outside Hong Kong Squash Centre"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20002713,
+        "name_tc": "羅便臣道1號",
+        "name_sc": "罗便臣道1号",
+        "name_en": "No.1 Robinson Road"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20014543,
+        "name_tc": "干德道, 近Conduit 18",
+        "name_sc": "干德道, 近Conduit 18",
+        "name_en": "CONDUIT ROAD, near Conduit 18"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20014544,
+        "name_tc": "干德道, 近全景大廈第１座",
+        "name_sc": "干德道, 近全景大廈第１座 ",
+        "name_en": "CONDUIT ROAD, near Panorama Block 1"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20014545,
+        "name_tc": "干德道, 近敦皓",
+        "name_sc": "干德道, 近敦皓 ",
+        "name_en": "CONDUIT ROAD, near THE MORGAN"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20014546,
+        "name_tc": "干德道, 近年豐園二座",
+        "name_sc": "干德道, 近年丰园二座 ",
+        "name_en": "CONDUIT ROAD, near Skyline Mansion Block 2"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20014548,
+        "name_tc": "克頓道, 近慧苑Ａ座",
+        "name_sc": "克顿道, 近慧苑Ａ座 ",
+        "name_en": "HATTON ROAD, near Wisdom Court Block A"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20014549,
+        "name_tc": "旭龢道, 近赫頓大廈",
+        "name_sc": "旭和道, 近赫顿大厦 ",
+        "name_en": "KOTEWALL ROAD, near Hatton House"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20014550,
+        "name_tc": "寶珊道, 近寶城大廈Ａ座",
+        "name_sc": "宝珊道, 近宝城大厦Ａ座 ",
+        "name_en": "PO SHAN ROAD, near Po Shan Mansions Block A"
+      }
+    ],
+    "data_timestamp": "2024-10-29T11:53:00.150+08:00"
+  }
+}

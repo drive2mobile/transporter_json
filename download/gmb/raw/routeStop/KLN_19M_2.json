@@ -1,0 +1,73 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:02:13.077+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20000582,
+        "name_tc": "慈雲山道, 沙田坳邨和田樓外",
+        "name_sc": "慈云山道, 沙田坳邨和田楼外",
+        "name_en": "Tsz Wan Shan Road, outside Wo Tin House, Shatin Pass Estate"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20006003,
+        "name_tc": "慈雲山道,中華基督教會基慈小學外",
+        "name_sc": "慈云山道,中华基督教会基慈小学外",
+        "name_en": "Tsz Wan Shan Road, outside CCC Kei Tsz Primary School"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20007059,
+        "name_tc": "慈雲山道, 慈愛苑愛富閣外",
+        "name_sc": "慈云山道, 慈爱苑爱富阁外",
+        "name_en": "Tsz Wan Shan Road, outside Oi Fu House, Tsz Oi Court"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20000594,
+        "name_tc": "慈雲山道, 慈正邨正暉樓外",
+        "name_sc": "慈云山道, 慈正邨正晖楼外",
+        "name_en": "Tsz Wan Shan Road, outside Ching Fai House, Tsz Ching Estate"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20000595,
+        "name_tc": "慈雲山道, 慈正邨正康樓外",
+        "name_sc": "慈云山道, 慈正邨正康楼外",
+        "name_en": "Tsz Wan Shan Road, outside Ching Hong House, Tsz Ching Estate"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20000596,
+        "name_tc": "慈雲山道, 樂華街遊樂場外",
+        "name_sc": "慈云山道, 乐华街游乐场外",
+        "name_en": "Tsz Wan Shan Road, outside Lok Wah Street Playground"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20000598,
+        "name_tc": "斧山道, 新麗花園C座外",
+        "name_sc": "斧山道, 新丽花园C座外",
+        "name_en": "Hammer Hill Road, outside Block C, Sun Lai Garden"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20000599,
+        "name_tc": "斧山道, 東九龍胸肺科診所外",
+        "name_sc": "斧山道, 东九龙胸肺科诊所外",
+        "name_en": "Hammer Hill Road, outside East Kowloon Chest Clinic"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20000588,
+        "name_tc": "鑽石山站公共運輸交匯處",
+        "name_sc": "钻石山站公共运输交汇处",
+        "name_en": "Diamond Hill Station Public Transport Interchange"
+      }
+    ],
+    "data_timestamp": "2024-09-18T03:18:14.747+08:00"
+  }
+}

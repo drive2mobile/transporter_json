@@ -1,0 +1,11 @@
+{
+  "id": "KLN_33A_1",
+  "route_id": 2001008,
+  "region": "KLN",
+  "route": "33A",
+  "route_seq": 1,
+  "from_tc": "海港花園",
+  "from_en": "Hilltop Garden",
+  "to_tc": "鑽石山站",
+  "to_en": "Diamond Hill Station"
+}

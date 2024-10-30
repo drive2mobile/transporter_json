@@ -1,0 +1,11 @@
+{
+  "id": "HKI_25_1",
+  "route_id": 2002020,
+  "region": "HKI",
+  "route": "25",
+  "route_seq": 1,
+  "from_tc": "上寶馬山",
+  "from_en": "Upper Braemar Hill",
+  "to_tc": "銅鑼灣(循環線)",
+  "to_en": "Causeway Bay (Circular)"
+}

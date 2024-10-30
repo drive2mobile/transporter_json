@@ -1,0 +1,115 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:01:52.748+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20009733,
+        "name_tc": "堅尼地城站",
+        "name_sc": "坚尼地城站",
+        "name_en": "Kennedy Town Station"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20000334,
+        "name_tc": "域多利道,英基學校協會西港島中學對面",
+        "name_sc": "域多利道,英基学校协会西港岛中学对面",
+        "name_en": "Victoria Road, opposite English School Foundation West Island School"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20009766,
+        "name_tc": "大口環道, 馮堯敬醫院",
+        "name_sc": "大口环道, 冯尧敬医院",
+        "name_en": "Fung Yiu King Hospital, Sandy Bay Road"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20004596,
+        "name_tc": "沙灣徑",
+        "name_sc": "沙湾径",
+        "name_en": "Sha Wan Drive"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20000335,
+        "name_tc": "域多利道,碧瑤灣第十九座外",
+        "name_sc": "域多利道,碧瑶湾第十九座外",
+        "name_en": "Victoria Road, outside Block 19, Baguio Villa"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20000338,
+        "name_tc": "域多利道,碧瑤灣第二十七座外",
+        "name_sc": "域多利道,碧瑶湾第二十七座外",
+        "name_en": "Victoria Road, outside Block 27, Baguio Villa"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20009805,
+        "name_tc": "域多利道, 域多利道分區電力站對面",
+        "name_sc": "域多利道, 域多利道分区电力站对面",
+        "name_en": "Victoria Road, opposite Victoria Road Zone Sub-station"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20000369,
+        "name_tc": "石排灣道, 興和街",
+        "name_sc": "石排湾道, 兴和街",
+        "name_en": "Hing Wo Street, Shek Pai Wan Road"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20000370,
+        "name_tc": "石排灣道, 田灣街",
+        "name_sc": "石排湾道, 田湾街",
+        "name_en": "Tin Wan Street, Shek Pai Wan Road"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20002494,
+        "name_tc": "香港仔海傍道",
+        "name_sc": "香港仔海傍道",
+        "name_en": "Aberdeen Praya Road"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20000239,
+        "name_tc": "黃竹坑道, 甄沾記大廈",
+        "name_sc": "黄竹坑道, 甄沾记大厦",
+        "name_en": "Yan's Tower, Wong Chuk Hang Road"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20009804,
+        "name_tc": "南朗山道, 南朗山道熟食市場",
+        "name_sc": "南朗山道, 南朗山道熟食市场",
+        "name_en": "Nam Long Shan Road Cooked Food Market, Nam Long Shan Road"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20000342,
+        "name_tc": "南朗山道, 新會商會陳白沙紀念中學外",
+        "name_sc": "南朗山道, 新会商会陈白沙纪念中学外",
+        "name_en": "Nam Long Shan Road, outside San Wui Commercial Society Of Hong Kong Chan Pak Sha School"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20000343,
+        "name_tc": "深灣道, 南濤閣第3座外",
+        "name_sc": "深湾道, 南涛阁第3座外",
+        "name_en": "Shum Wan Road, outside Block 3, South Wave Court"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20000160,
+        "name_tc": "深灣道公共交通總站",
+        "name_sc": "深湾道公共交通总站",
+        "name_en": "Shum Wan Road Public Transport Terminus"
+      }
+    ],
+    "data_timestamp": "2024-10-25T18:35:58.489+08:00"
+  }
+}

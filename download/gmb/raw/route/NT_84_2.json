@@ -1,0 +1,11 @@
+{
+  "id": "NT_84_2",
+  "route_id": 2000964,
+  "region": "NT",
+  "route": "84",
+  "route_seq": 2,
+  "from_tc": "荃灣眾安街",
+  "from_en": "Tsuen Wan Chung On Street",
+  "to_tc": "荃威花園",
+  "to_en": "Allway Gardens"
+}

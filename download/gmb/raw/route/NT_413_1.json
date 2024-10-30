@@ -1,0 +1,11 @@
+{
+  "id": "NT_413_1",
+  "route_id": 2001788,
+  "region": "NT",
+  "route": "413",
+  "route_seq": 1,
+  "from_tc": "青衣公眾碼頭",
+  "from_en": "Tsing Yi Public Pier",
+  "to_tc": "瑪嘉烈醫院",
+  "to_en": "Princess Margaret Hospital"
+}

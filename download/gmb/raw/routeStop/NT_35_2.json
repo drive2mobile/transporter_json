@@ -1,0 +1,73 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:03:36.751+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20007251,
+        "name_tc": "輞井圍小巴總站",
+        "name_sc": "辋井围小巴总站",
+        "name_en": "Mong Tseng Wai Minibus Terminus"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20001276,
+        "name_tc": "流浮山小巴總站",
+        "name_sc": "流浮山小巴总站",
+        "name_en": "Lau Fau Shan Minibus Terminus"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20009436,
+        "name_tc": "屏廈路,近廈村市富怡花園第二期第十座",
+        "name_sc": "屏厦路,近厦村村富怡花园第二期第十座",
+        "name_en": "Ping Ha Road, near Fu Yee Garden Phase 2 Block 10, HA TSUEN SHI"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20001272,
+        "name_tc": "屏廈路,近上章圍一號及二號雨水泵房",
+        "name_sc": "屏厦路,近上章围一号及二号雨水泵房",
+        "name_en": "Ping Ha Road, near Sheung Cheung Wai No.1 and No.2 Stormwater Pumping Station"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20001274,
+        "name_tc": "屏廈路,近世紀中心",
+        "name_sc": "屏厦路,近世纪中心",
+        "name_en": "Ping Ha Road, near Century Centre"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20004135,
+        "name_tc": "青山公路－屏山段,近朗庭園第五座",
+        "name_sc": "青山公路－屏山段,近朗庭园第五座",
+        "name_en": "Castle Peak Road - Ping Shan, near Villa By The Park Block 5"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20001263,
+        "name_tc": "青山公路－元朗段,近建成樓",
+        "name_sc": "青山公路－元朗段,近建成楼",
+        "name_en": "Castle Peak Road - Yuen Long, near Kin Shing Building, Kin Sing Buildingng, outside Chek Wing Court (house no.207 outside Kin Shing Bldg)"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20001253,
+        "name_tc": "同樂街,近金華樓",
+        "name_sc": "同乐街,近金华楼",
+        "name_en": "Tung Lok Street, near Kam Wah Building"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20009903,
+        "name_tc": "泰豐街, 近東昇樓",
+        "name_sc": "泰丰街, 近东升楼 ",
+        "name_en": "Tai fung Street, Near Tung Sing Building"
+      }
+    ],
+    "data_timestamp": "2024-10-28T17:42:04.094+08:00"
+  }
+}

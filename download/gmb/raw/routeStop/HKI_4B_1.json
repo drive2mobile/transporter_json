@@ -1,0 +1,150 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:01:44.788+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20011318,
+        "name_tc": "石排灣邨公共運輸交匯處",
+        "name_sc": "石排湾邨公共运输交汇处",
+        "name_en": "Shek Pai Wan Estate Public Transport Interchange"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20011237,
+        "name_tc": "南寧街,海晶閣外",
+        "name_sc": "南宁街,海晶阁外",
+        "name_en": "Nam Ning Street, outside Hoi Tsing Court"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20009832,
+        "name_tc": "香港仔大道178號",
+        "name_sc": "香港仔大道178号",
+        "name_en": "No.178 Aberdeen Main Road"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20011613,
+        "name_tc": "黃竹坑道23號",
+        "name_sc": "黄竹坑道23号",
+        "name_en": "Wong Chuk Hang Road, house no. 23"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20000240,
+        "name_tc": "黃竹坑道49號",
+        "name_sc": "黄竹坑道49号",
+        "name_en": "Wong Chuk Hang Road, house no. 49"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20011344,
+        "name_tc": "黃竹坑道,近香港仔隧道東行巴士站",
+        "name_sc": "黄竹坑道,近香港仔隧道东行巴士站",
+        "name_en": "Wong Chuk Hang Road, Eastbound Bus Bay Near Aberdeen Tunnel"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20011345,
+        "name_tc": "摩理臣山道 80-82 號",
+        "name_sc": "摩理臣山道 80-82 号",
+        "name_en": "No. 80-82 Morrison Hill Road"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20011343,
+        "name_tc": "灣仔道221號",
+        "name_sc": "湾仔道221号",
+        "name_en": "No.221 Wan Chai Road"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20011347,
+        "name_tc": "灣仔道187號",
+        "name_sc": "湾仔道187号",
+        "name_en": "No.187 Wan Chai Road"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20011348,
+        "name_tc": "灣仔道151號",
+        "name_sc": "湾仔道151号",
+        "name_en": "No.151 Wan Chai Road"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20011628,
+        "name_tc": "莊士敦道168號",
+        "name_sc": "庄士敦道168号",
+        "name_en": "No. 168 Johnston Road"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20011631,
+        "name_tc": "大王東街3-5號",
+        "name_sc": "大王东街3-5号",
+        "name_en": "No. 3-5 Tai Wong Street East"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20011625,
+        "name_tc": "莊士敦道,修頓遊樂場外",
+        "name_sc": "庄士敦道,修顿游乐场外",
+        "name_en": "Johnston Road, outside Southern Playground"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20011588,
+        "name_tc": "灣仔道160號",
+        "name_sc": "湾仔道160号",
+        "name_en": "No.160 Wan Chai Road"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20011592,
+        "name_tc": "摩理臣山道, 跑馬地馬場外",
+        "name_sc": "摩理臣山道, 跑马地马场外",
+        "name_en": "Morrison Hill Road, outside Happy Valley Racecourse"
+      },
+      {
+        "stop_seq": 16,
+        "stop_id": 20011479,
+        "name_tc": "黃竹坑道40號",
+        "name_sc": "黄竹坑道40号",
+        "name_en": "No.40 Wong Chuk Hang Road"
+      },
+      {
+        "stop_seq": 17,
+        "stop_id": 20000361,
+        "name_tc": "香港仔海傍道, 逸港居外",
+        "name_sc": "香港仔海傍道, 逸港居外",
+        "name_en": "Aberdeen Praya Road, outside Ocean Court"
+      },
+      {
+        "stop_seq": 18,
+        "stop_id": 20011480,
+        "name_tc": "香港仔海傍道, 香港仔巴士站對面",
+        "name_sc": "香港仔海傍道, 香港仔巴士站对面",
+        "name_en": "Aberdeen Praya Road, opposite Aberdeen Bus Terminus"
+      },
+      {
+        "stop_seq": 19,
+        "stop_id": 20011481,
+        "name_tc": "西安街12號對面",
+        "name_sc": "西安街12号对面",
+        "name_en": "Sai On Street, opposite No.12"
+      },
+      {
+        "stop_seq": 20,
+        "stop_id": 20011318,
+        "name_tc": "石排灣邨公共運輸交匯處",
+        "name_sc": "石排湾邨公共运输交汇处",
+        "name_en": "Shek Pai Wan Estate Public Transport Interchange"
+      }
+    ],
+    "data_timestamp": "2024-08-22T09:21:06.173+08:00"
+  }
+}

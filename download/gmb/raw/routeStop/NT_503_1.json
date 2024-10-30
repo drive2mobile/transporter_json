@@ -1,0 +1,87 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:04:02.590+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20012604,
+        "name_tc": "皇后山",
+        "name_sc": "皇后山",
+        "name_en": "Queen's Hill"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20019732,
+        "name_tc": "皇后山商場外",
+        "name_sc": "皇后山商场外",
+        "name_en": "Outside Queens Hill Shopping Centre"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20012131,
+        "name_tc": "龍馬路, 近皇后山一號",
+        "name_sc": "龙马路, 近皇后山一号",
+        "name_en": "Lung Ma Road, near One Queens Hill"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20003250,
+        "name_tc": "新屋村/覲龍圍, 沙頭角公路",
+        "name_sc": "新屋村/觐龙围, 沙头角公路",
+        "name_en": "San Uk Tsuen / Kan Lung Wai, Sha Tau Kok Road"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20012122,
+        "name_tc": "馬適路, 近逸峯",
+        "name_sc": "马适路, 近 逸峯",
+        "name_en": "Ma Sik Road, near Green Code"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20012123,
+        "name_tc": "天平路, 近天平邨天朗樓",
+        "name_sc": "天平路, 近天平邨天朗楼",
+        "name_en": "Tin Ping Road, near Tin Long House, Tin Ping Estate"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20012124,
+        "name_tc": "龍琛路, 近天平邨天怡樓",
+        "name_sc": "龙琛路, 近天平邨天怡楼",
+        "name_en": "Lung Sum Avenue, near Tin Yee House, Tin Ping Estate"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20007293,
+        "name_tc": "龍琛路, 龍豐花園外",
+        "name_sc": "龙琛路, 龙丰花园外",
+        "name_en": "Lung Sum Avenue, outside Lung Fung Garden"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20012125,
+        "name_tc": "新運路, 近上水站",
+        "name_sc": "新运路, 近上水站",
+        "name_en": "San Wan Road, near Sheung Shui Station"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20003205,
+        "name_tc": "新豐路,近石湖墟郵政局",
+        "name_sc": "新丰路,近石湖墟邮政局",
+        "name_en": "San Fung Avenue, near Shek Wu Hui Post Office"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20004165,
+        "name_tc": "北區醫院",
+        "name_sc": "北区医院",
+        "name_en": "North District Hospital"
+      }
+    ],
+    "data_timestamp": "2024-10-25T15:34:27.619+08:00"
+  }
+}

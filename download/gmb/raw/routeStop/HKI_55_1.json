@@ -1,0 +1,129 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:01:49.305+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20019072,
+        "name_tc": "瑪麗醫院",
+        "name_sc": "玛丽医院",
+        "name_en": "Queen Mary Hospital"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20012373,
+        "name_tc": "薄扶林道, 近香港大學站C1出口 ",
+        "name_sc": "薄扶林道, 近香港大学站C1出口",
+        "name_en": "Pok Fu Lam Road, near HKU Station Exit C1 "
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20003517,
+        "name_tc": "第三街, 近廣豐里",
+        "name_sc": "第三街, 近广丰里",
+        "name_en": "Third Street, near Kwong Fung Lane"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20003518,
+        "name_tc": "德輔道西, 近朝光街",
+        "name_sc": "德辅道西, 近朝光街",
+        "name_en": "Des Voeux Road West, near Chiu Kwong Street"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20003090,
+        "name_tc": "德輔道西51號外",
+        "name_sc": "德辅道西, 51号外",
+        "name_en": "Des Voeux Road West No.51"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20000294,
+        "name_tc": "干諾道中, 信德中心外",
+        "name_sc": "干诺道中, 信德中心外",
+        "name_en": "Connaught Road Central outside Shun Tak Centre"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20003083,
+        "name_tc": "中環站 (干諾道中), 近砵甸乍街 ",
+        "name_sc": "中环站 (干诺道中), 近砵甸乍街",
+        "name_en": "Central Station (Connaught Road Central), near Pottinger Street "
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20003519,
+        "name_tc": "皇后大道中138號外",
+        "name_sc": "皇后大道中138号外",
+        "name_en": "Queen's Road Central No.138"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20000297,
+        "name_tc": "皇后大道西62號外",
+        "name_sc": "皇后大道西62号外",
+        "name_en": "Queen's Road West No.62"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20000298,
+        "name_tc": "皇后大道西, 近正街",
+        "name_sc": "皇后大道西, 近正街",
+        "name_en": "Queen's Road West, near Centre Street"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20000299,
+        "name_tc": "皇后大道西, 近西邊街",
+        "name_sc": "皇后大道西, 近西边街",
+        "name_en": "Queen's Road West, near Western Street"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20000300,
+        "name_tc": "薄扶林道, 李陞小學外",
+        "name_sc": "薄扶林道, 李陞小学外",
+        "name_en": "Pok Fu Lam Road, outside Li Sing Primary School"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20000008,
+        "name_tc": "薄扶林道, 香港大學西閘",
+        "name_sc": "薄扶林道, 香港大学西闸",
+        "name_en": "Pok Fu Lam Road, West Gate of The University of Hong Kong"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20000009,
+        "name_tc": "薄扶林道, 寶翠園對面",
+        "name_sc": "薄扶林道, 宝翠园对面",
+        "name_en": "Pok Fu Lam Road, opposite The Belcher's"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20000010,
+        "name_tc": "薄扶林道近蒲飛路",
+        "name_sc": "薄扶林道近蒲飞路",
+        "name_en": "Pokfulam Road near Pokfield Road"
+      },
+      {
+        "stop_seq": 16,
+        "stop_id": 20004546,
+        "name_tc": "薄扶林道近摩星嶺道",
+        "name_sc": "薄扶林道近摩星岭道",
+        "name_en": "Pokfulam Road near Mount Davis Road"
+      },
+      {
+        "stop_seq": 17,
+        "stop_id": 20019072,
+        "name_tc": "瑪麗醫院",
+        "name_sc": "玛丽医院",
+        "name_en": "Queen Mary Hospital"
+      }
+    ],
+    "data_timestamp": "2024-10-25T15:02:12.912+08:00"
+  }
+}

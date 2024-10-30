@@ -1,0 +1,11 @@
+{
+  "id": "HKI_44M_1",
+  "route_id": 2002217,
+  "region": "HKI",
+  "route": "44M",
+  "route_seq": 1,
+  "from_tc": "柴灣站",
+  "from_en": "Chai Wan Station",
+  "to_tc": "小西灣邨(循環線)",
+  "to_en": "Siu Sai Wan Estate (Circular)"
+}

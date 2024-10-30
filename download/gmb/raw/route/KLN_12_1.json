@@ -1,0 +1,11 @@
+{
+  "id": "KLN_12_1",
+  "route_id": 2002329,
+  "region": "KLN",
+  "route": "12",
+  "route_seq": 1,
+  "from_tc": "白田",
+  "from_en": "Pak Tin",
+  "to_tc": "旺角東站",
+  "to_en": "Mong Kok East Station"
+}

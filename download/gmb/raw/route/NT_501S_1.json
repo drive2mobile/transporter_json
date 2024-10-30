@@ -1,0 +1,11 @@
+{
+  "id": "NT_501S_1",
+  "route_id": 2001128,
+  "region": "NT",
+  "route": "501S",
+  "route_seq": 1,
+  "from_tc": "上水站",
+  "from_en": "Sheung Shui Station",
+  "to_tc": "裕民坊",
+  "to_en": "Yue Man Square"
+}

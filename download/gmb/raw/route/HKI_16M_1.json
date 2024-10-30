@@ -1,0 +1,11 @@
+{
+  "id": "HKI_16M_1",
+  "route_id": 2002289,
+  "region": "HKI",
+  "route": "16M",
+  "route_seq": 1,
+  "from_tc": "柴灣站",
+  "from_en": "Chai Wan Station",
+  "to_tc": "舂坎角",
+  "to_en": "Chung Hom Kok"
+}

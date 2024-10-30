@@ -1,0 +1,11 @@
+{
+  "id": "KLN_27MS_1",
+  "route_id": 2001002,
+  "region": "KLN",
+  "route": "27MS",
+  "route_seq": 1,
+  "from_tc": "旺角站",
+  "from_en": "Mong Kok Station",
+  "to_tc": "何文田（常樂街） (循環線)",
+  "to_en": "Homantin (Sheung Lok Street) (Circular)"
+}

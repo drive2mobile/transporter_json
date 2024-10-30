@@ -1,0 +1,11 @@
+{
+  "id": "KLN_50_1",
+  "route_id": 2008487,
+  "region": "KLN",
+  "route": "50",
+  "route_seq": 1,
+  "from_tc": "基督教聯合醫院",
+  "from_en": "United Christian Hospital",
+  "to_tc": "裕民坊公共運輸交匯處 (循環線)",
+  "to_en": "Yue Man Square Public Transport Interchange (Circular)"
+}

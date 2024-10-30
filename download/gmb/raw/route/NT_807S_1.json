@@ -1,0 +1,11 @@
+{
+  "id": "NT_807S_1",
+  "route_id": 2001234,
+  "region": "NT",
+  "route": "807S",
+  "route_seq": 1,
+  "from_tc": "港鐵大學站巴士總站",
+  "from_en": "University Station Bus Terminus",
+  "to_tc": "井頭村外",
+  "to_en": "Tseng Tau Tsuen"
+}

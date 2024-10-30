@@ -1,0 +1,11 @@
+{
+  "id": "NT_66K_1",
+  "route_id": 2009117,
+  "region": "NT",
+  "route": "66K",
+  "route_seq": 1,
+  "from_tc": "沙田站",
+  "from_en": "Sha Tin Station",
+  "to_tc": "九肚 (循環線)",
+  "to_en": "Kau To (Circular)"
+}

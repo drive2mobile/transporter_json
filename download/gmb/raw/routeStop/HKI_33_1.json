@@ -1,0 +1,80 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:01:35.989+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20013702,
+        "name_tc": "康盛街,近康怡花園俱樂部",
+        "name_sc": "康盛街,近康怡花园俱乐部",
+        "name_en": "HONG SHING STREET, near Kornhill Recreation Club"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20013703,
+        "name_tc": "基利路,近南豐新邨第５座",
+        "name_sc": "基利路,近南丰新邨第５座",
+        "name_en": "GREIG ROAD, near Nam Fung Sun Chuen Block 5"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20013704,
+        "name_tc": "基利路,近南豐新邨第４座",
+        "name_sc": "基利路,近南丰新邨第４座",
+        "name_en": "GREIG ROAD, near Nam Fung Sun Chuen Block 4"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20018746,
+        "name_tc": "英皇道,近海山樓",
+        "name_sc": "英皇道,近海山楼",
+        "name_en": "KING'S ROAD, near Montane Mansion"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20018747,
+        "name_tc": "英皇道,近太古坊",
+        "name_sc": "英皇道,近太古坊",
+        "name_en": "KING'S ROAD, near Taikoo Place"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20002501,
+        "name_tc": "英皇道,近北角官立小學",
+        "name_sc": "英皇道,近北角官立小学",
+        "name_en": "KING'S ROAD, near North Point Government Primary School"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20013705,
+        "name_tc": "模範里,近模範邨民祥樓",
+        "name_sc": "模范里,近模范邨民祥楼",
+        "name_en": "MODEL LANE, near Man Cheung House, MODEL HOUSING ESTATE"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20013706,
+        "name_tc": "北角街市",
+        "name_sc": "北角街市",
+        "name_en": "North Point Market"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20013707,
+        "name_tc": "兆華大廈",
+        "name_sc": "兆华大厦",
+        "name_en": "Siu Wah Mansion"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20000210,
+        "name_tc": "馬寶道,華禮大廈外",
+        "name_sc": "马宝道,华礼大厦外",
+        "name_en": "Marble Road, outside Wah Lai Mansion"
+      }
+    ],
+    "data_timestamp": "2024-10-28T14:02:08.493+08:00"
+  }
+}

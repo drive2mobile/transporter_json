@@ -1,0 +1,31 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:02:35.000+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20015994,
+        "name_tc": "橫頭磡南道, 近樂富邨宏順樓",
+        "name_sc": "横头磡南道, 近乐富村宏顺楼",
+        "name_en": "Wang Tau Hom South Road, Near Wang Shun House, Lok Fu Estate"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20015995,
+        "name_tc": "金竹里, 近天馬苑駿飛閣",
+        "name_sc": "金竹里, 近天马苑骏飞阁",
+        "name_en": "Kam Chuk Lane, Near Chun Fei House, Tin Ma Court"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20015994,
+        "name_tc": "橫頭磡南道, 近樂富邨宏順樓",
+        "name_sc": "横头磡南道, 近乐富村宏顺楼",
+        "name_en": "Wang Tau Hom South Road, Near Wang Shun House, Lok Fu Estate"
+      }
+    ],
+    "data_timestamp": "2022-06-28T00:01:58.015+08:00"
+  }
+}

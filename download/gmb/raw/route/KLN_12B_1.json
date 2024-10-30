@@ -1,0 +1,11 @@
+{
+  "id": "KLN_12B_1",
+  "route_id": 2002335,
+  "region": "KLN",
+  "route": "12B",
+  "route_seq": 1,
+  "from_tc": "港灣豪庭",
+  "from_en": "Metro Harbour View",
+  "to_tc": "西洋菜南街",
+  "to_en": " Sai Yeung Choi Street South"
+}

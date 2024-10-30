@@ -1,0 +1,59 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:02:04.754+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20000547,
+        "name_tc": "港鐵旺角東站",
+        "name_sc": "港铁旺角东站",
+        "name_en": "Mongkok East Station"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20000545,
+        "name_tc": "洗衣街, 貴華閣外",
+        "name_sc": "洗衣街, 贵华阁外",
+        "name_en": "Sai Yee Street, outside Kwai Wah Court"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20000546,
+        "name_tc": "通菜街, 旺角警署外",
+        "name_sc": "通菜街, 旺角警署外",
+        "name_en": "Tung Choi Street, outside Mong Kok Police Station"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20009667,
+        "name_tc": "棠蔭街,聖道弘爵國際學校外",
+        "name_sc": "棠荫街,圣道弘爵国际学校外",
+        "name_en": "Tong Yan Street, outside Saint Too College"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20009668,
+        "name_tc": "大坑東道,民興樓外",
+        "name_sc": "大坑东道,民兴楼外",
+        "name_en": "Tai Hang Tung Road, outside Man Hing House"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20009669,
+        "name_tc": "大坑西街,石硤尾警署",
+        "name_sc": "大坑西街,石硖尾警署",
+        "name_en": "Tai Hang Sai Street, opposite to Shek Kip Mei Police Station"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20000540,
+        "name_tc": "白雲街, 白田邨巴士總站",
+        "name_sc": "白云街, 白田邨巴士总站",
+        "name_en": "Pak Wan Street, Pak Tin Estate Bus Terminus"
+      }
+    ],
+    "data_timestamp": "2024-10-25T14:45:53.956+08:00"
+  }
+}

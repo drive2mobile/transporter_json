@@ -1,0 +1,59 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:04:12.941+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20001477,
+        "name_tc": "沙頭角公共運輸交匯處",
+        "name_sc": "沙头角公共运输交汇处",
+        "name_en": "Sha Tau Kok Public Transport Interchange"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20004539,
+        "name_tc": "沙頭角公路, 鹿頸路",
+        "name_sc": "沙头角公路, 鹿颈路",
+        "name_en": "Sha Tau Kok Road, Luk Keng Road"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20003242,
+        "name_tc": "沙頭角公路, 上禾坑",
+        "name_sc": "沙头角公路, 上禾坑",
+        "name_en": "Sha Tau Kok Road, Sheung Wo Hang"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20003243,
+        "name_tc": "沙頭角公路, 萬屋邊",
+        "name_sc": "沙头角公路, 万屋边",
+        "name_en": "Sha Tau Kok Road, Man Uk Pin"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20003244,
+        "name_tc": "沙頭角公路, 萊洞",
+        "name_sc": "沙头角公路, 莱洞",
+        "name_en": "Sha Tau Kok Road, Loi Tung"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20019699,
+        "name_tc": "香園圍邊境管制站公共運輸交匯處",
+        "name_sc": "香园围边境管制站公共运输交汇处",
+        "name_en": "Heung Yuen Wai Boundary Control Point Public Transport Interchange"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20019700,
+        "name_tc": "打鼓嶺(松園下)",
+        "name_sc": "打鼓岭(松园下)",
+        "name_en": "Ta Kwu Ling (Tsung Yuen Ha)"
+      }
+    ],
+    "data_timestamp": "2024-10-25T15:40:06.451+08:00"
+  }
+}

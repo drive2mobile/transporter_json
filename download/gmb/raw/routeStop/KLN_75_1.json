@@ -1,0 +1,157 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:02:43.640+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20003008,
+        "name_tc": "西邨路, 富昌邨富旺樓外",
+        "name_sc": "西邨路, 富昌邨富旺楼外",
+        "name_en": "Sai Chuen Road, outside Fu Wong House, Fu Cheong Estate"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20020064,
+        "name_tc": "欽州街西近通州街",
+        "name_sc": "钦州街西近通州街",
+        "name_en": "Yen Chow Street West near Tung Chau Street"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20004127,
+        "name_tc": "欽州街近醫局街",
+        "name_sc": "钦州街近医局街",
+        "name_en": "Yen Chow Street near Yee Kuk Street"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20004140,
+        "name_tc": "欽州街,西九龍中心外",
+        "name_sc": "钦州街,西九龙中心外",
+        "name_en": "Yen Chow Street, outside Dragon Centre"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20010231,
+        "name_tc": "長沙灣道,長沙灣政府合署外",
+        "name_sc": "长沙湾道,长沙湾政府合署外",
+        "name_en": "Cheung Sha Wan Road, outside Cheung Sha Wan Government Offices"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20003082,
+        "name_tc": "長沙灣道, 怡閣苑外",
+        "name_sc": "长沙湾道, 怡阁苑外",
+        "name_en": "Cheung Sha Wan Road, outside Yee Kok Court"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20004141,
+        "name_tc": "長沙灣道近發祥街",
+        "name_sc": "长沙湾道近发祥街",
+        "name_en": "Cheung Sha Wan Road near Fat Cheung Street"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20003117,
+        "name_tc": "長沙灣道, 貿易廣場外",
+        "name_sc": "长沙湾道, 贸易广场外",
+        "name_en": "Cheung Sha Wan Road, outside Trade Square"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20004142,
+        "name_tc": "長沙灣道近長沙灣徑",
+        "name_sc": "长沙湾道, 贸易广场外",
+        "name_en": "Cheung Sha Wan Road, outside Trade Square"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20001926,
+        "name_tc": "長沙灣道909號",
+        "name_sc": "长沙湾道909号",
+        "name_en": "No. 909 Cheung Sha Wan Road"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20002163,
+        "name_tc": "青山道588號",
+        "name_sc": "青山道588号",
+        "name_en": "No. 588 Castle Peak Road"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20002164,
+        "name_tc": "青山道近集輝街",
+        "name_sc": "青山道近集辉街",
+        "name_en": "Castle Peak Road near Tsap Fai Street"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20003138,
+        "name_tc": "青山道近興華街",
+        "name_sc": "青山道近兴华街",
+        "name_en": "Castle Peak Road near Hing Wah Street"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20003139,
+        "name_tc": "青山道近永隆街",
+        "name_sc": "青山道近永隆街",
+        "name_en": "Castle Peak Road near Wing Lung Street"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20003101,
+        "name_tc": "青山道近東京街",
+        "name_sc": "青山道近东京街",
+        "name_en": "Castle Peak Road near Tonkin Street"
+      },
+      {
+        "stop_seq": 16,
+        "stop_id": 20004013,
+        "name_tc": "東京街近元州街",
+        "name_sc": "东京街近元州街",
+        "name_en": "Tonkin Street near Un Chau Street"
+      },
+      {
+        "stop_seq": 17,
+        "stop_id": 20004143,
+        "name_tc": "東京街近長沙灣港鐵站A1出口",
+        "name_sc": "东京街近长沙湾港铁站A1出口",
+        "name_en": "Tonkin Street near Cheung Sha Wan MTR Station Exit A1"
+      },
+      {
+        "stop_seq": 18,
+        "stop_id": 20003128,
+        "name_tc": "荔枝角道麗蘿樓外",
+        "name_sc": "荔枝角道丽萝楼外",
+        "name_en": " Lai Chi Kok Road outside Lai Law House"
+      },
+      {
+        "stop_seq": 19,
+        "stop_id": 20003154,
+        "name_tc": "桂林街81號",
+        "name_sc": "桂林街81号",
+        "name_en": "No. 81 Kweilin Street"
+      },
+      {
+        "stop_seq": 20,
+        "stop_id": 20020065,
+        "name_tc": "欽州街8號",
+        "name_sc": "钦州街8号",
+        "name_en": "No. 8 Yen Chow Street"
+      },
+      {
+        "stop_seq": 21,
+        "stop_id": 20003008,
+        "name_tc": "西邨路, 富昌邨富旺樓外",
+        "name_sc": "西邨路, 富昌邨富旺楼外",
+        "name_en": "Sai Chuen Road, outside Fu Wong House, Fu Cheong Estate"
+      }
+    ],
+    "data_timestamp": "2024-10-25T12:43:48.452+08:00"
+  }
+}

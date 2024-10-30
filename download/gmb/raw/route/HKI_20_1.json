@@ -1,0 +1,11 @@
+{
+  "id": "HKI_20_1",
+  "route_id": 2002320,
+  "region": "HKI",
+  "route": "20",
+  "route_seq": 1,
+  "from_tc": "西灣河(嘉亨灣)公共交通總站",
+  "from_en": "Sai Wan Ho (Grand Promenade) Public Transport Terminus",
+  "to_tc": "柴灣 (豐業街)(循環線)",
+  "to_en": "Chai Wan (Fung Yip Street)(Circular)"
+}

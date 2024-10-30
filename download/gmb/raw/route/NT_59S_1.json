@@ -1,0 +1,11 @@
+{
+  "id": "NT_59S_1",
+  "route_id": 2009180,
+  "region": "NT",
+  "route": "59S",
+  "route_seq": 1,
+  "from_tc": "上水站",
+  "from_en": "Sheung Shui Station",
+  "to_tc": "香園圍邊境管制站",
+  "to_en": "Heung Yuen Wai Boundary Control Point"
+}

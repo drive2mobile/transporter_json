@@ -1,0 +1,11 @@
+{
+  "id": "NT_403_1",
+  "route_id": 2001266,
+  "region": "NT",
+  "route": "403",
+  "route_seq": 1,
+  "from_tc": "梨貝街巴士總站",
+  "from_en": "Lei Pui Street Bus Terminus",
+  "to_tc": "沙田圍",
+  "to_en": "Sha Tin Wai"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "NT_81M_1",
+  "route_id": 2005551,
+  "region": "NT",
+  "route": "81M",
+  "route_seq": 1,
+  "from_tc": "荃灣(兆和街)",
+  "from_en": "Tsuen Wan (Shiu Wo Street)",
+  "to_tc": "石圍角邨",
+  "to_en": "Shek Wai Kok Estate"
+}

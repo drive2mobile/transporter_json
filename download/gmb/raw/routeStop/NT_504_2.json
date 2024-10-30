@@ -1,0 +1,45 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:04:03.761+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20012134,
+        "name_tc": "智昌路, 近上水中心第六座",
+        "name_sc": "智昌路, 近上水中心第六座",
+        "name_en": "Chi Cheong Road, near Sheung Shui Centre Block No. 6"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20012142,
+        "name_tc": "智昌路, 順欣花園第四座對面",
+        "name_sc": "智昌路, 顺欣花园第四座对面",
+        "name_en": "Chi Cheong Road, opposite Sunningdale Garden Block No. 4"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20012127,
+        "name_tc": "龍琛路, 近龍琛路體育館",
+        "name_sc": "龙琛路, 近龙琛路体育馆",
+        "name_en": "Lung Sum Avenue, near Lung Sum Avenue Sports Centre"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20012141,
+        "name_tc": "石湖新村(河北段)通道, 近石湖新村公廁",
+        "name_sc": "石湖新村(河北段)通道, 近石湖新村公厕",
+        "name_en": "Shek Wu San Tsuen (Ho Pak Section) Access Road, near Shek Wu San Tsuen Public Toilet"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20012140,
+        "name_tc": "華山村通道",
+        "name_sc": "华山村通道",
+        "name_en": "Wa Shan Tsuen Access Road"
+      }
+    ],
+    "data_timestamp": "2024-06-28T17:43:11.437+08:00"
+  }
+}

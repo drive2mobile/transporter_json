@@ -1,0 +1,73 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:03:48.796+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20012777,
+        "name_tc": "瑪嘉烈醫院Ｋ座",
+        "name_sc": "玛嘉烈医院Ｋ座",
+        "name_en": "Princess Margaret Hospital Block K"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20012778,
+        "name_tc": "青山公路－葵涌段, 近天際中心",
+        "name_sc": "青山公路－葵涌段, 近天际中心 ",
+        "name_en": "CASTLE PEAK ROAD - KWAI CHUNG, near The Galaxy"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20012779,
+        "name_tc": "和宜合道, 近雍雅軒第一座",
+        "name_sc": "和宜合道, 近雍雅轩第一座 ",
+        "name_en": "WO YI HOP ROAD, near The Apex Tower 1"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20019171,
+        "name_tc": "大隴街, 石籬商場外",
+        "name_sc": "大陇街, 石篱商场外",
+        "name_en": "Tai Loong Street outside Shek Lei Shopping Centre"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20019336,
+        "name_tc": "梨貝街巴士總站",
+        "name_sc": "梨贝街巴士总站",
+        "name_en": "Lei Pui Street Bus Terminus"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20012780,
+        "name_tc": "石排街, 近石籬天主教小學",
+        "name_sc": "石排街, 近石篱天主教小学 ",
+        "name_en": "SHEK PAI STREET, near Shek Lei Catholic Primary School"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20019138,
+        "name_tc": "石排街, 石籬邨石歡樓外",
+        "name_sc": "石排街, 石篱村石欢楼外",
+        "name_en": "Shek Pai Street outside Shek Foon House of Shek Lei Estate"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20019139,
+        "name_tc": "大白田街, 石籬天主教中學對面",
+        "name_sc": "大白田街, 石篱天主教中学对面",
+        "name_en": "Tai Pak Tin Street opposite to Shek Lei Catholic Secondary School"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20001658,
+        "name_tc": "梨木道近石蔭商場",
+        "name_sc": "梨木道近石荫商场",
+        "name_en": "Lei Muk Road near Shek Yam Shopping Centre"
+      }
+    ],
+    "data_timestamp": "2024-04-21T00:00:39.013+08:00"
+  }
+}

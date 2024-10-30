@@ -1,0 +1,11 @@
+{
+  "id": "KLN_12B_2",
+  "route_id": 2002333,
+  "region": "KLN",
+  "route": "12B",
+  "route_seq": 2,
+  "from_tc": "港灣豪庭",
+  "from_en": "Metro Harbour View",
+  "to_tc": "旺角東站",
+  "to_en": "Mong Kok East Station"
+}

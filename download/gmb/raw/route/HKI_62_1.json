@@ -1,0 +1,11 @@
+{
+  "id": "HKI_62_1",
+  "route_id": 2004090,
+  "region": "HKI",
+  "route": "62",
+  "route_seq": 1,
+  "from_tc": "杏花邨公共交通交匯處",
+  "from_en": "Heng Fa Chuen Public Transport Interchange",
+  "to_tc": "小西灣(富怡花園)(循環線)",
+  "to_en": "Siu Sai Wan (Cheerful Garden) (Circular)"
+}

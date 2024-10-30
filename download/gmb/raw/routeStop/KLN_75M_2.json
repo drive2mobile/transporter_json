@@ -1,0 +1,59 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:02:44.804+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20018350,
+        "name_tc": "青山道近發祥街",
+        "name_sc": "青山道近发祥街",
+        "name_en": "Castle Peak Road near Fat Tseung Street"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20016997,
+        "name_tc": "東京街近港鐵長沙灣站A2出口 / 協和小學",
+        "name_sc": "东京街近港铁长沙湾站A2出口 / 协和小学",
+        "name_en": "Tonkin Street near Cheung Sha Wan Station Exit A2 / Heep Woh Primary School"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20018351,
+        "name_tc": "長沙灣道近長沙灣邨",
+        "name_sc": "长沙湾道近长沙湾村",
+        "name_en": "Cheung Sha Wan Road near Cheung Sha Wan Estate"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20018352,
+        "name_tc": "發祥街近港鐵長沙灣站B出口 / 長沙灣遊樂場",
+        "name_sc": "发祥街近港铁长沙湾站B出口 / 长沙湾游乐场",
+        "name_en": "Fat Tseung Street outside Cheung Sha Wan Station Exit B / Cheung Sha Wan Playground"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20018353,
+        "name_tc": "東京街近深水埗公園游泳池",
+        "name_sc": "东京街近深水埗公园游泳池",
+        "name_en": "Tonkin Street near Sham Shui Po Park Swimming Pool"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20018354,
+        "name_tc": "東京街西近庫務大樓 / 富昌邨",
+        "name_sc": "东京街西近库务大楼 / 富昌村",
+        "name_en": "Tonkin Street West near Treasury Building / Fu Cheong Estate"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20018313,
+        "name_tc": "海達公共運輸交匯處",
+        "name_sc": "海达公共运输交汇处",
+        "name_en": "Hoi Tat Public Transport Interchange"
+      }
+    ],
+    "data_timestamp": "2024-10-17T18:00:11.453+08:00"
+  }
+}

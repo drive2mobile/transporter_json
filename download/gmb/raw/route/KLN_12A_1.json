@@ -1,0 +1,11 @@
+{
+  "id": "KLN_12A_1",
+  "route_id": 2002331,
+  "region": "KLN",
+  "route": "12A",
+  "route_seq": 1,
+  "from_tc": "旺角東站",
+  "from_en": "Mong Kok East Station",
+  "to_tc": "大同新邨",
+  "to_en": "Cosmopolitan Estates"
+}

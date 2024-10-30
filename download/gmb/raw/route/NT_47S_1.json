@@ -1,0 +1,11 @@
+{
+  "id": "NT_47S_1",
+  "route_id": 2008852,
+  "region": "NT",
+  "route": "47S",
+  "route_seq": 1,
+  "from_tc": "屯門碼頭",
+  "from_en": "Tuen Mun Pier-Head",
+  "to_tc": "旺角",
+  "to_en": "Mong Kok"
+}

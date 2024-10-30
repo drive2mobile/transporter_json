@@ -1,0 +1,11 @@
+{
+  "id": "HKI_12_1",
+  "route_id": 2002285,
+  "region": "HKI",
+  "route": "12",
+  "route_seq": 1,
+  "from_tc": "觀龍樓",
+  "from_en": "Kwun Lung Lau",
+  "to_tc": "西營盤(循環線)",
+  "to_en": "Sai Ying Pun (Circular)"
+}

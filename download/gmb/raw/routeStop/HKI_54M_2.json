@@ -1,0 +1,31 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:01:48.718+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20019072,
+        "name_tc": "瑪麗醫院",
+        "name_sc": "玛丽医院",
+        "name_en": "Queen Mary Hospital"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20007022,
+        "name_tc": "吉席街, 泓都外",
+        "name_sc": "吉席街, 泓都外",
+        "name_en": "Catchick Street, outside The Merton Tower"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20009733,
+        "name_tc": "堅尼地城站",
+        "name_sc": "坚尼地城站",
+        "name_en": "Kennedy Town Station"
+      }
+    ],
+    "data_timestamp": "2024-10-25T18:35:58.489+08:00"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:03:32.809+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20008023,
+        "name_tc": "青衣站",
+        "name_sc": "青衣站",
+        "name_en": "Tsing Yi Station"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20002048,
+        "name_tc": "青敬路長安邨安湄樓外",
+        "name_sc": "青敬路长安邨安湄楼外",
+        "name_en": "Tsing King Road outside On Mei House, Cheung On Estate"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20002606,
+        "name_tc": "碧堤半島",
+        "name_sc": "碧堤半岛",
+        "name_en": "Bellagio"
+      }
+    ],
+    "data_timestamp": "2024-03-28T15:14:17.586+08:00"
+  }
+}

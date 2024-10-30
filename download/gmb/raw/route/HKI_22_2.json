@@ -1,0 +1,11 @@
+{
+  "id": "HKI_22_2",
+  "route_id": 2003045,
+  "region": "HKI",
+  "route": "22",
+  "route_seq": 2,
+  "from_tc": "中環(交易廣場)",
+  "from_en": "Central (Exchange Square)",
+  "to_tc": "薄扶林花園",
+  "to_en": "Pok Fu Lam Gardens"
+}

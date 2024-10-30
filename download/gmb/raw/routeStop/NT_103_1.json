@@ -1,0 +1,73 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:03:02.906+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20015218,
+        "name_tc": "觀塘渡輪碼頭小巴總站",
+        "name_sc": "观塘渡轮码头小巴总站",
+        "name_en": "Kwun Tong Ferry Pier Light Bus Terminus"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20001973,
+        "name_tc": "寶順路, 將軍澳游泳池外",
+        "name_sc": "宝顺路, 将军澳游泳池外",
+        "name_en": "Po Shun Road, outside Tseung Kwan O Swimming Pool"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20001171,
+        "name_tc": "寶寧路, 厚德邨對面",
+        "name_sc": "宝宁路, 厚德邨对面",
+        "name_en": "Po Ning Road, opposite Hau Tak Estate"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20001140,
+        "name_tc": "寶寧路, 將軍澳醫院外",
+        "name_sc": "宝宁路, 将军澳医院外",
+        "name_en": "Po Ning Road, outside Tseung Kwan O Hospital"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20015222,
+        "name_tc": "坑口道, 將軍澳醫院外",
+        "name_sc": "坑口道, 将军澳医院外",
+        "name_en": "Hang Hau Road, outside Tseung Kwan O Hospital"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20015223,
+        "name_tc": "清水灣道328號",
+        "name_sc": "清水湾道328号",
+        "name_en": "Clear Water Bay Road No. 328"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20014717,
+        "name_tc": "清水灣道, 金碧苑(第一期)外",
+        "name_sc": "清水湾道, 金碧苑(第一期)外",
+        "name_en": "Clear Water Bay Road, outside Golden Cove Lookout Phase I"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20014718,
+        "name_tc": "清水灣道, 近孟公屋路",
+        "name_sc": "清水湾道, 近孟公屋路",
+        "name_en": "Clear Water Bay Road, near Mang Kung Uk Road"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20014731,
+        "name_tc": "清水灣第二灣泳灘",
+        "name_sc": "清水湾第二湾泳滩",
+        "name_en": "Clear Water Bay Second Beach"
+      }
+    ],
+    "data_timestamp": "2024-07-31T17:20:15.802+08:00"
+  }
+}

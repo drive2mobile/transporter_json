@@ -1,0 +1,11 @@
+{
+  "id": "HKI_49M_1",
+  "route_id": 2000989,
+  "region": "HKI",
+  "route": "49M",
+  "route_seq": 1,
+  "from_tc": "天后站",
+  "from_en": "Tin Hau Station",
+  "to_tc": "寶馬山 (循環線)",
+  "to_en": "Breamer Hill (Circular)"
+}

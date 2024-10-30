@@ -1,0 +1,59 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:02:49.784+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20006002,
+        "name_tc": "坪石公共運輸交匯處",
+        "name_sc": "坪石公共运输交汇处",
+        "name_en": "Ping Shek Public Transport Interchange"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20016968,
+        "name_tc": "彩興路, 近彩德邨彩義樓",
+        "name_sc": "彩兴路, 近彩德邨彩义楼",
+        "name_en": "Choi Hing Road, near Choi Yee House, Choi Tak Estate"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20016980,
+        "name_tc": "彩榮路, 近彩德邨彩仁樓",
+        "name_sc": "彩荣路, 近彩德邨彩仁楼",
+        "name_en": "Choi Wing Road, near Choi Yan House, Choi Tak Estate"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20016981,
+        "name_tc": "彩榮路, 近彩德邨彩信樓",
+        "name_sc": "彩荣路, 近彩德邨彩信楼",
+        "name_en": "Choi Wing Road, near Choi Shun House, Choi Tak Estate"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20016982,
+        "name_tc": "彩榮路, 近彩德邨彩賢樓",
+        "name_sc": "彩荣路, 近彩德邨彩贤楼",
+        "name_en": "Choi Wing Road, near Choi Yin House, Choi Tak Estate"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20016983,
+        "name_tc": "彩榮路, 彩福邨彩樂樓對面",
+        "name_sc": "彩荣路, 彩福邨彩乐楼对面",
+        "name_en": "Choi Wing Road, opposite Choi Lok House, Choi Fook Estate"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20016975,
+        "name_tc": "彩榮路, 近彩福邨彩歡樓",
+        "name_sc": "彩荣路, 近彩福邨彩欢楼",
+        "name_en": "Choi Wing Road, near Choi Foon House, Choi Fook Estate"
+      }
+    ],
+    "data_timestamp": "2024-07-31T11:32:18.339+08:00"
+  }
+}

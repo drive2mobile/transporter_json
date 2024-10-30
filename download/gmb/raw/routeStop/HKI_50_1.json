@@ -1,0 +1,80 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:01:46.630+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20007726,
+        "name_tc": "耀東邨巴士總站",
+        "name_sc": "耀东邨巴士总站",
+        "name_en": "Yiu Tung Estate Bus Terminus"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20003550,
+        "name_tc": "耀興道, 東盛苑外",
+        "name_sc": "耀兴道, 东盛苑外",
+        "name_en": "Yiu Hing Road, outside Tung Shing Court"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20003551,
+        "name_tc": "耀興道, 天悅廣場對面",
+        "name_sc": "耀兴道, 天悦广场对面",
+        "name_en": "Yiu Hing Road, opposite Smiling Shau Kei Wan Plaza"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20003552,
+        "name_tc": "西灣河街137號",
+        "name_sc": "西湾河街137号",
+        "name_en": "No. 137 Sai Wan Ho Street"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20016060,
+        "name_tc": "太安街12號",
+        "name_sc": "太安街12号",
+        "name_en": "No.12 Tai On Street"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20003553,
+        "name_tc": "成安街8號",
+        "name_sc": "成安街8号",
+        "name_en": "No. 8 Shing On Street"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20000380,
+        "name_tc": "耀興道, 興東商場對面",
+        "name_sc": "耀兴道, 兴东商场对面",
+        "name_en": "Yiu Hung Road, opposite Hing Tung Shopping Centre"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20000271,
+        "name_tc": "耀興道, 耀熹閣外",
+        "name_sc": "耀兴道, 耀熹阁外",
+        "name_en": "Yiu Hing Road, outside Yiu Hei House"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20000383,
+        "name_tc": "耀興道, 耀華樓外",
+        "name_sc": "耀兴道, 耀华楼外",
+        "name_en": "Yiu Hing Road, outside Yiu Wah House"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20007726,
+        "name_tc": "耀東邨巴士總站",
+        "name_sc": "耀东邨巴士总站",
+        "name_en": "Yiu Tung Estate Bus Terminus"
+      }
+    ],
+    "data_timestamp": "2024-06-30T00:00:36.600+08:00"
+  }
+}

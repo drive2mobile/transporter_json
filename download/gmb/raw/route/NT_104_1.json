@@ -1,0 +1,11 @@
+{
+  "id": "NT_104_1",
+  "route_id": 2007200,
+  "region": "NT",
+  "route": "104",
+  "route_seq": 1,
+  "from_tc": "香港科技大學(南站)",
+  "from_en": "Hong Kong University of Science and Technology (South Station)",
+  "to_tc": "觀塘(循環線)",
+  "to_en": "Kwun Tong(Circular)"
+}

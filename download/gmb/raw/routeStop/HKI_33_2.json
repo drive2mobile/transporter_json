@@ -1,0 +1,108 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:01:36.222+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20000210,
+        "name_tc": "馬寶道,華禮大廈外",
+        "name_sc": "马宝道,华礼大厦外",
+        "name_en": "Marble Road, outside Wah Lai Mansion"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20013708,
+        "name_tc": "渣華道,近海璇第５Ａ座",
+        "name_sc": "渣华道,近海璇第５Ａ座",
+        "name_en": "JAVA ROAD, near Victoria Harbour Tower 5A"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20013709,
+        "name_tc": "渣華道,近柯達大廈（一期及二期）",
+        "name_sc": "渣华道,近柯达大厦（一期及二期）",
+        "name_en": "JAVA ROAD, near Kodak House (House I & House II)"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20013710,
+        "name_tc": "渣華道,近香港中華煤氣有限公司",
+        "name_sc": "渣华道,近香港中华煤气有限公司",
+        "name_en": "JAVA ROAD, near The Hong Kong and China Gas Company Limited"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20013711,
+        "name_tc": "英皇道,近麗華樓",
+        "name_sc": "英皇道,近丽华楼",
+        "name_en": "KING'S ROAD, near Lai Wah Mansion"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20013712,
+        "name_tc": "英皇道,近多寶樓",
+        "name_sc": "英皇道,近多宝楼",
+        "name_en": "KING'S ROAD, near Tor Po Mansion"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20005086,
+        "name_tc": "英皇道,近太古坊康橋大廈",
+        "name_sc": "英皇道,近太古坊康桥大厦",
+        "name_en": "KING'S ROAD, near Cambridge House, TAIKOO PLACE"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20013713,
+        "name_tc": "英皇道,近新威園Ｂ座",
+        "name_sc": "英皇道,近新威园Ｂ座",
+        "name_en": "KING'S ROAD, near Sunway Gardens Block B"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20013714,
+        "name_tc": "基利路,近基利路休憩處",
+        "name_sc": "基利路,近基利路休憩处",
+        "name_en": "GREIG ROAD, near GREIG ROAD SITTING-OUT AREA"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20013715,
+        "name_tc": "基利路,近南豐新邨第３座",
+        "name_sc": "基利路,近南丰新邨第３座",
+        "name_en": "GREIG ROAD, near Nam Fung Sun Chuen Block 3"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20013716,
+        "name_tc": "基利路,近南豐新邨第５座",
+        "name_sc": "基利路,近南丰新邨第５座",
+        "name_en": "GREIG ROAD, near Nam Fung Sun Chuen Block 5"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20013717,
+        "name_tc": "康愉街,近康怡花園Ｊ座",
+        "name_sc": "康愉街,近康怡花园Ｊ座",
+        "name_en": "HONG YUE STREET, near Kornhill Block J"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20013718,
+        "name_tc": "康盛街,近康怡花園Ｆ座",
+        "name_sc": "康盛街,近康怡花园Ｆ座",
+        "name_en": "HONG SHING STREET, near Kornhill Block F"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20013702,
+        "name_tc": "康盛街,近康怡花園俱樂部",
+        "name_sc": "康盛街,近康怡花园俱乐部",
+        "name_en": "HONG SHING STREET, near Kornhill Recreation Club"
+      }
+    ],
+    "data_timestamp": "2024-10-28T14:02:08.493+08:00"
+  }
+}

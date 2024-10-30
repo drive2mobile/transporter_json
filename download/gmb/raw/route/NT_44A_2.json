@@ -1,0 +1,11 @@
+{
+  "id": "NT_44A_2",
+  "route_id": 2003999,
+  "region": "NT",
+  "route": "44A",
+  "route_seq": 2,
+  "from_tc": "上水站",
+  "from_en": "Sheung Shui Station",
+  "to_tc": "屯門站公共交通交匯處",
+  "to_en": "Tuen Mun Station Public Transport Interchange"
+}

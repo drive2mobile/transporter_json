@@ -1,0 +1,80 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:05:14.780+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20013698,
+        "name_tc": "鹹田街, 近寶石大廈第３座",
+        "name_sc": "咸田街, 近宝石大厦第３座",
+        "name_en": "Ham Tin Street, near Bo Shek Mansion Block 3"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20020133,
+        "name_tc": "楊屋道樂悠居對面",
+        "name_sc": "杨屋道乐悠居对面",
+        "name_en": "Yeung Uk Road opposite to Indi Home"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20001690,
+        "name_tc": "葵福路, 晉昇工廠大廈對面",
+        "name_sc": "葵福路, 晋昇工厂大厦对面",
+        "name_en": "Kwai Fuk Road, opposite Chun Shing Factory Estate"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20001817,
+        "name_tc": "葵福路, 葵盛游泳池外",
+        "name_sc": "葵福路, 葵盛游泳池外",
+        "name_en": "Kwai Fuk Road, outside Kwai Shing Swimming Pool"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20015768,
+        "name_tc": "葵福路, 葵涌運動場外",
+        "name_sc": "葵福路, 葵涌运动场外",
+        "name_en": "Kwai Fuk Road, outside Kwai Chung Sports Ground"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20001819,
+        "name_tc": "葵福路, 葵青劇院外",
+        "name_sc": "葵福路, 葵青剧院外",
+        "name_en": "Kwai Fuk Road, outside Kwai Tsing Theatre"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20001427,
+        "name_tc": "荔景山路, 和景樓對面",
+        "name_sc": "荔景山路, 和景楼对面",
+        "name_en": "Lai King Hill Road, opposite Wo King House"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20001428,
+        "name_tc": "荔景山路, 賢麗苑購物中心對面",
+        "name_sc": "荔景山路, 贤丽苑购物中心对面",
+        "name_en": "Lai King Hill Road, opposite Yin Lai Court Shopping Centre"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20020134,
+        "name_tc": "荔景山路201號外",
+        "name_sc": "荔景山路201号外",
+        "name_en": "Lai King Hill Road, outside House No. 201"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20012769,
+        "name_tc": "華景山路, 近華景山莊華景商場",
+        "name_sc": "华景山路, 近华景山庄华景商场 ",
+        "name_en": "Wah King Hill Road, near Wonderland Villas Commercial Complex"
+      }
+    ],
+    "data_timestamp": "2024-10-30T11:55:43.673+08:00"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:05:10.319+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20015985,
+        "name_tc": "興寧路, 近新都會廣場",
+        "name_sc": "兴宁路, 近新都会广场",
+        "name_en": "Hing Ning Road, Near Metroplaza"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20001716,
+        "name_tc": "興芳路, 京寶大廈外",
+        "name_sc": "兴芳路, 京宝大厦外",
+        "name_en": "Hing Fong Road, Outside King Po Mansion"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20015984,
+        "name_tc": "興芳路, 近林士德體育館",
+        "name_sc": "兴芳路, 近林士德体育馆",
+        "name_en": "Hing Fong Road, Near Osman Ramju Sadick Memorial Sports Centre"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20015976,
+        "name_tc": "葵盛圍, 近葵盛東邨盛和樓",
+        "name_sc": "葵盛围, 近葵盛东邨盛和楼",
+        "name_en": "Kwai Shing Circuit, Near Shing Wo House, Kwai Shing East Estate"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20014857,
+        "name_tc": "興芳路, 近葵芳邨葵喜樓",
+        "name_sc": "兴芳路, 近葵芳邨葵喜楼",
+        "name_en": "Hing Fong Road, near Kwai Hei House, Kwai Fong Estate"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20015985,
+        "name_tc": "興寧路, 近新都會廣場",
+        "name_sc": "兴宁路, 近新都会广场",
+        "name_en": "Hing Ning Road, Near Metroplaza"
+      }
+    ],
+    "data_timestamp": "2024-10-22T19:03:26.341+08:00"
+  }
+}

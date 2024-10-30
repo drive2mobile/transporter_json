@@ -1,0 +1,11 @@
+{
+  "id": "NT_27B_2",
+  "route_id": 2007895,
+  "region": "NT",
+  "route": "27B",
+  "route_seq": 2,
+  "from_tc": "沙田(排頭街)(經大學站)",
+  "from_en": "Sha Tin (Pai Tau Street)(via University Station)",
+  "to_tc": "白石角(天賦海灣)",
+  "to_en": "Pak Shek Kok (Providence Bay)"
+}

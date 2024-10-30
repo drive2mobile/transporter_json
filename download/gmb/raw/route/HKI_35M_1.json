@@ -1,0 +1,11 @@
+{
+  "id": "HKI_35M_1",
+  "route_id": 2004092,
+  "region": "HKI",
+  "route": "35M",
+  "route_seq": 1,
+  "from_tc": "香港仔(石排灣)",
+  "from_en": "Aberdeen (Shek Pai Wan)",
+  "to_tc": "灣仔(莊士敦道)",
+  "to_en": "Wan Chai (Johnston Road)"
+}

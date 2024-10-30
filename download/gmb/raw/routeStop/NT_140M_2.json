@@ -1,0 +1,115 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:03:15.207+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20008023,
+        "name_tc": "青衣站專線小巴總站",
+        "name_sc": "青衣站专线小巴总站",
+        "name_en": "Tsing Yi Station GMB Terminus"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20002048,
+        "name_tc": "青敬路長安邨安湄樓外",
+        "name_sc": "青敬路长安邨安湄楼外",
+        "name_en": "Tsing King Road outside On Mei House, Cheung On Estate"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20012320,
+        "name_tc": "青衣西路,　近青衣西路公園",
+        "name_sc": "青衣西路, 近青衣西路公园",
+        "name_en": "Tsing Yi Road West, near Tsing Yi Road West Park"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20002050,
+        "name_tc": "青衣西路, 青華花園外",
+        "name_sc": "青衣西路青华花园外",
+        "name_en": "Tsing Yi Road West outside Tsing Wah Garden"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20001368,
+        "name_tc": "青山公路－大欖段, 近懲教署已婚職員宿舍大欖懲教所職員宿舍七號",
+        "name_sc": "青山公路－大榄段, 近惩教署已婚职员宿舍大榄惩教所职员宿舍七号",
+        "name_en": "Castle Peak Road - Tai Lam, near Tai Lam Correctional Institution Bungalow No.7, CSD Married Staff Quarters"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20012321,
+        "name_tc": "青山公路－大欖段, 近富安居Ｄ１－５座",
+        "name_sc": "青山公路－大榄段,近富安居Ｄ１－５座",
+        "name_en": "Castle Peak Road - Tai Lam, near Fiona Garden Block D1-5"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20001369,
+        "name_tc": "青山公路大欖段, 近青發街",
+        "name_sc": "青山公路大榄段, 近青发街",
+        "name_en": "Castle Peak Road-Tai Lam, near Tsing Fat Street"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20001370,
+        "name_tc": "青山公路－大欖段, 近瑜翠園",
+        "name_sc": "青山公路－大榄段, 近瑜翠园",
+        "name_en": "Castle Peak Road - Tai Lam, near Peridot Court"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20012322,
+        "name_tc": "青山公路－掃管笏段, 近香港黃金海岸二期第１０座",
+        "name_sc": "青山公路－扫管笏段, 近香港黄金海岸二期第１０座",
+        "name_en": "Castle Peak Road - So Kwun Wat, near Hong Kong Gold Coast Phase Ii Tower 10"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20001352,
+        "name_tc": "青山公青山公路－掃管笏段, 近香港黃金海岸黃金海岸遊艇會",
+        "name_sc": "青山公路－扫管笏段, 近香港黄金海岸黄金海岸游艇会",
+        "name_en": "Castle Peak Road - So Kwun Wat, near Gold Coast Yacht And Country Club, Hong Kong Gold Coast"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20002053,
+        "name_tc": "青山公路青山灣段, 黃金海岸第1期外",
+        "name_sc": "青山公路青山湾段, 黄金海岸第1期外",
+        "name_en": "Castle Peak Road-Castle Peak Bay, outside Hong Kong Gold Coast Phase 1"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20001353,
+        "name_tc": "青山公路青山灣段, 舊咖啡灣泳灘停車場外",
+        "name_sc": "青山公路青山湾段, 旧咖啡湾泳滩停车场外",
+        "name_en": "Castle Peak Road-Castle Peak Bay, outside Cafeteria Old Beach Car Park"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20002054,
+        "name_tc": "青山公路青山灣段, 海景花園對面",
+        "name_sc": "青山公路青山湾段, 海景花园对面",
+        "name_en": "Castle Peak Road-Castle Peak Bay, opposite Seaview Garden"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20001354,
+        "name_tc": "青山公路青山灣段, 青山灣花園對面",
+        "name_sc": "青山公路青山湾段, 青山湾花园对面",
+        "name_en": "Castle Peak Road-Castle Peak Bay, opposite Castle Peak Bay Garden"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20001372,
+        "name_tc": "三聖巴士總站",
+        "name_sc": "三圣巴士总站",
+        "name_en": "Sam Shing Bus Terminus"
+      }
+    ],
+    "data_timestamp": "2024-06-04T16:22:08.495+08:00"
+  }
+}

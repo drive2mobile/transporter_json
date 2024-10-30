@@ -1,0 +1,136 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:05:11.165+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20007558,
+        "name_tc": "港珠澳大橋香港口岸公共運輸交匯處地面",
+        "name_sc": "港珠澳大桥香港口岸公共运输交汇处地面",
+        "name_en": "HZMB Hong Kong Port"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20018052,
+        "name_tc": "東輝路民航處總部",
+        "name_sc": "东辉路民航处总部",
+        "name_en": "Cad Headquarters; Tung Fai Road"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20018082,
+        "name_tc": "觀景路, 國泰城外",
+        "name_sc": "观景路, 国泰城外",
+        "name_en": "Scenic Road outside Cathay City"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20007562,
+        "name_tc": "觀景路, 飛機燃料庫對面",
+        "name_sc": "观景路, 飞机燃料库对面",
+        "name_en": "Scenic Road opposite Aviation Fuel Tank Farm"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20018017,
+        "name_tc": "東涌發展碼頭",
+        "name_sc": "东涌发展码头",
+        "name_en": "Tung Chung Development Pier"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20007563,
+        "name_tc": "惠東路, 海堤灣畔對面",
+        "name_sc": "惠东路, 海堤湾畔对面",
+        "name_en": "Wai Tung Road opposite Seaview Crescent"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20007564,
+        "name_tc": "文東路, 藍天海岸外",
+        "name_sc": "文东路, 蓝天海岸外",
+        "name_en": "Man Tung Road outside Coastal Skyline Tower 3"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20007565,
+        "name_tc": "文東路, 映灣園三期第十一座外",
+        "name_sc": "文东路, 映湾园三期第十一座外",
+        "name_en": "Man Tung Road outside Caribbean Coast Phase 3 Tower 11"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20007566,
+        "name_tc": "文東路, 映灣園二期第八座外",
+        "name_sc": "文东路, 映湾园二期第八座外",
+        "name_en": "Man Tung Road outside Caribbean Coast Phase 2 Tower 8"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20007567,
+        "name_tc": "文東路, 映灣園一期第二座外",
+        "name_sc": "文东路, 映湾园一期第二座外",
+        "name_en": "Man Tung Road outside Caribbean Coast Phase 1 Tower 2"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20007568,
+        "name_tc": "迎東路, 昇薈外",
+        "name_sc": "迎东路, 昇荟外",
+        "name_en": "Ying Tung Road outside The Visionary Tower 2"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20007569,
+        "name_tc": "迎東路, 迎東邨外",
+        "name_sc": "迎东路, 迎东邨外",
+        "name_en": "Ying Tung Road opposite Ying Tung Estate"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20007570,
+        "name_tc": "迎東路, 昇薈對面",
+        "name_sc": "迎东路, 昇荟对面",
+        "name_en": "Ying Tung Road opposite The Visionary Tower 2"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20007571,
+        "name_tc": "迎禧路, 映灣園一期外",
+        "name_sc": "迎禧路, 映湾园一期外",
+        "name_en": "Ying Hei Road outside Caribbean Coast Phase 1"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20007572,
+        "name_tc": "觀景路, 飛機燃料庫外",
+        "name_sc": "观景路, 飞机燃料库外",
+        "name_en": "Scenic Road outside Aviation Fuel Tank Farm"
+      },
+      {
+        "stop_seq": 16,
+        "stop_id": 20007561,
+        "name_tc": "東岸路, 國泰城外",
+        "name_sc": "东岸路, 国泰城外",
+        "name_en": "East Coast Road, outside Cathay City"
+      },
+      {
+        "stop_seq": 17,
+        "stop_id": 20018016,
+        "name_tc": "東耀路民航處總部對面",
+        "name_sc": "东耀路民航处总部对面",
+        "name_en": "Opposite to Cad Headquarters; Tung Yiu Road"
+      },
+      {
+        "stop_seq": 18,
+        "stop_id": 20007574,
+        "name_tc": "港珠澳大橋香港口岸旅檢大樓一樓",
+        "name_sc": "港珠澳大桥香港口岸旅检大楼一楼",
+        "name_en": "First floor, Departure Deck, HZMB Hong Kong Port Passenger Clearance Building"
+      }
+    ],
+    "data_timestamp": "2023-01-29T00:00:24.998+08:00"
+  }
+}

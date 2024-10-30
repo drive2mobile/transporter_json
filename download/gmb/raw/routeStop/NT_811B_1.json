@@ -1,0 +1,143 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:04:53.211+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20015772,
+        "name_tc": "耀安邨巴士總站",
+        "name_sc": "耀安邨巴士总站",
+        "name_en": "Yiu On Estate Bus Terminus"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20001228,
+        "name_tc": "恒康街, 曾璧山中學對面",
+        "name_sc": "恒康街, 曾璧山中学对面",
+        "name_en": "Hang Hong Street, opposite Tsang Pik Shan Secondary School"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20002225,
+        "name_tc": "西沙路南行線, 馬鞍山運動場外",
+        "name_sc": "西沙路南行线, 马鞍山运动场外",
+        "name_en": "Sai Sha Road Southbound, outside Ma On Shan Sports Ground"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20002320,
+        "name_tc": "西沙路錦鞍苑外",
+        "name_sc": "西沙路锦鞍苑外",
+        "name_en": "Sai Sha Road, Kam On Court"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20002226,
+        "name_tc": "恆德街南行線, 近大水坑站",
+        "name_sc": "恒德街南行线, 近大水坑站",
+        "name_en": "Hang Tak Street Southbound, near Tai Shui Hang Station"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20002288,
+        "name_tc": "亞公角街, 漁民新村外",
+        "name_sc": "亚公角街, 渔民新村外",
+        "name_en": "A Kung Kok Street, outside Fishermen Village"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20002228,
+        "name_tc": "亞公角街, 沙田醫院外",
+        "name_sc": "亚公角街, 沙田医院外",
+        "name_en": "A Kung Kok Street, outside Shatin Hospital"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20015651,
+        "name_tc": "大涌橋路, 濱景花園對面",
+        "name_sc": "大涌桥路, 滨景花园对面",
+        "name_en": "Tai Chung Kiu Road, opposite Ravana Garden"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20001564,
+        "name_tc": "大涌橋路, 沙田第一城外",
+        "name_sc": "大涌桥路, 沙田第一城外",
+        "name_en": "Tai Chung Kiu Road, outside City One Shatin"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20015773,
+        "name_tc": "長瀝尾街, 嘉里(沙田)貨倉外",
+        "name_sc": "长沥尾街, 嘉里(沙田)货仓外",
+        "name_en": "Cheung Lek Mei Street, outside Kerry Godown (Shatin)"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20015774,
+        "name_tc": "樂景街, 港鐵火炭站對面",
+        "name_sc": "乐景街, 港铁火炭站对面",
+        "name_en": "opposite Fo Tan Station"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20002235,
+        "name_tc": "大涌橋路, 沙田第一城對面",
+        "name_sc": "大涌桥路, 沙田第一城对面",
+        "name_en": "Tai Chung Kiu Road, opposite City One Shatin"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20001567,
+        "name_tc": "大涌橋路, 濱景花園外",
+        "name_sc": "大涌桥路, 滨景花园外",
+        "name_en": "Tai Chung Kiu Road, outside Ravana Garden"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20007687,
+        "name_tc": "亞公角街北行線, 沙田醫院對面",
+        "name_sc": "亚公角街北行线, 沙田医院对面",
+        "name_en": "A Kung Kok Street Northbound, opposite Shatin Hospital"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20002237,
+        "name_tc": "亞公角街, 漁民新村對面",
+        "name_sc": "亚公角街, 渔民新村对面",
+        "name_en": "A Kung Kok Street, opposite Fishermen Village"
+      },
+      {
+        "stop_seq": 16,
+        "stop_id": 20012426,
+        "name_tc": "亞公角街, 近馬鞍山崇真中學",
+        "name_sc": "亚公角街, 近马鞍山崇真中学",
+        "name_en": "A Kung Kok Street, near Ma On Shan Tsung Tsin Secondary School"
+      },
+      {
+        "stop_seq": 17,
+        "stop_id": 20002317,
+        "name_tc": "西沙路, 聽濤雅苑外",
+        "name_sc": "西沙路, 听涛雅苑外",
+        "name_en": "Sai Sha Road, outside Vista Paradiso"
+      },
+      {
+        "stop_seq": 18,
+        "stop_id": 20015646,
+        "name_tc": "西沙路, 近頌安邨頌安商場",
+        "name_sc": "西沙路, 近颂安邨颂安商场",
+        "name_en": "Sai Sha Road, near Chung On Shopping Centre, Chung On Estate"
+      },
+      {
+        "stop_seq": 19,
+        "stop_id": 20015772,
+        "name_tc": "耀安邨巴士總站",
+        "name_sc": "耀安邨巴士总站",
+        "name_en": "Yiu On Estate Bus Terminus"
+      }
+    ],
+    "data_timestamp": "2024-08-20T17:28:58.177+08:00"
+  }
+}

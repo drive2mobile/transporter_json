@@ -1,0 +1,11 @@
+{
+  "id": "NT_608S_1",
+  "route_id": 2010236,
+  "region": "NT",
+  "route": "608S",
+  "route_seq": 1,
+  "from_tc": "七星薈小巴總站",
+  "from_en": "CONCORDIA Tsat Sing Kong Public Light Bus Terminus",
+  "to_tc": "錦上路站公共運輸交滙處(循環線)",
+  "to_en": "Kam Sheung Road Station Public Transport Interchange (Circular)"
+}

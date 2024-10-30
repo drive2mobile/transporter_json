@@ -1,0 +1,11 @@
+{
+  "id": "NT_72_1",
+  "route_id": 2008392,
+  "region": "NT",
+  "route": "72",
+  "route_seq": 1,
+  "from_tc": "錦上路站",
+  "from_en": "Kam Sheung Road MTR Station",
+  "to_tc": "雷公田",
+  "to_en": "Lui Kung Tin"
+}

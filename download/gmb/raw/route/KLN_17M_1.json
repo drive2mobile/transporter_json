@@ -1,0 +1,11 @@
+{
+  "id": "KLN_17M_1",
+  "route_id": 2006679,
+  "region": "KLN",
+  "route": "17M",
+  "route_seq": 1,
+  "from_tc": "九龍醫院",
+  "from_en": "Kowloon Hospital",
+  "to_tc": "通菜街",
+  "to_en": "Tung Choi Street"
+}

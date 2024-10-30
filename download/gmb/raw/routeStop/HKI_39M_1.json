@@ -1,0 +1,80 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:01:38.581+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20000238,
+        "name_tc": "漁安苑道, 彩安閣對面",
+        "name_sc": "渔安苑道, 彩安阁对面",
+        "name_en": "Yue On Court Road, opposite Choi On House"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20004568,
+        "name_tc": "利東邨道, 漁安苑",
+        "name_sc": "利东村道, 渔安苑",
+        "name_en": "Lei Tung Estate Road, Yue On Court"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20000239,
+        "name_tc": "黃竹坑道, 甄沾記大廈",
+        "name_sc": "黄竹坑道, 甄沾记大厦",
+        "name_en": "Yan's Tower, Wong Chuk Hang Road"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20000240,
+        "name_tc": "黃竹坑道, 近塘邊徑",
+        "name_sc": "黄竹坑道, 近塘边径",
+        "name_en": "Wong Chuk Hang Road, near Tong Bin Lane"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20002495,
+        "name_tc": "黃竹坑道, 香港仔隧道收費廣場",
+        "name_sc": "黄竹坑道, 香港仔隧道收费广场",
+        "name_en": "Wong Chuk Hang Road, Aberdeen Tunnel Toll Plaza"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20002496,
+        "name_tc": "摩理臣山道, 近禮頓道",
+        "name_sc": "摩理臣山道, 近礼顿道",
+        "name_en": "Morrison Hill Road, near Leighton Road"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20002497,
+        "name_tc": "禮頓道, 禮頓中心",
+        "name_sc": "礼顿道, 礼顿中心",
+        "name_en": "Leighton Road, Leighton Centre"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20000311,
+        "name_tc": "邊寧頓街, 利園二期",
+        "name_sc": "边宁顿街, 利园二期",
+        "name_en": "Pennington Street Lee Gardens Two"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20000242,
+        "name_tc": "高士威道, 維多利亞公園",
+        "name_sc": "高士威道, 维多利亚公园",
+        "name_en": "Causeway Road, Victoria Park"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20000243,
+        "name_tc": "天后站公共運輸交匯處",
+        "name_sc": "天后站公共运输交汇处",
+        "name_en": "Tin Hau Station Public Transport Interchange"
+      }
+    ],
+    "data_timestamp": "2024-10-30T13:55:16.747+08:00"
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:01:59.673+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20003337,
+        "name_tc": "數碼港公共運輸交匯處",
+        "name_sc": "数码港公共运输交汇处",
+        "name_en": "Cyberport Public Transport Interchange"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20002491,
+        "name_tc": "數碼港道, 數碼港3座對面",
+        "name_sc": "数码港道, 数码港3座对面",
+        "name_en": "Opposite to Cyberport 3, Cyberport Road"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20002492,
+        "name_tc": "數碼港道, 貝沙灣1期對面",
+        "name_sc": "数码港道, 贝沙湾1期对面",
+        "name_en": "Cyperport Road, opposite Bel-air Phase 1"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20004115,
+        "name_tc": "數碼港道, 貝沙灣南灣",
+        "name_sc": "数码港道, 贝沙湾南湾",
+        "name_en": "Bel-Air on the Peak, Cyberport Road"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20007448,
+        "name_tc": "華康街, 聖保羅書院小學",
+        "name_sc": "华康街, 圣保罗书院小学",
+        "name_en": "Wa Hong Street, St. Pauls College Primary School"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20000369,
+        "name_tc": "石排灣道, 萬景樓外",
+        "name_sc": "石排湾道, 万景楼外",
+        "name_en": "Shek Pai Wan Road, outside Man King Building"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20007449,
+        "name_tc": "石排灣道, 田灣街",
+        "name_sc": "石排湾道, 田湾街",
+        "name_en": "Shek Pai Wan Road, Tin Wan Street"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20000326,
+        "name_tc": "香港仔(湖南街)總站, 安泰大廈外",
+        "name_sc": "香港仔(湖南街)总站, 安泰大厦外",
+        "name_en": "Aberdeen (Wu Nam Street) Minibus Terminus, outside On Tai Building"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20007450,
+        "name_tc": "香港仔海傍道, 香港仔魚類批發市場",
+        "name_sc": "香港仔海傍道, 香港仔鱼类批发市场",
+        "name_en": "Aberdeen Praya Road, Aberdeen Wholesale Fish Market"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20000329,
+        "name_tc": "田灣街, 香港仔海傍道",
+        "name_sc": "田湾街, 香港仔海傍道",
+        "name_en": "Tin Wan Street, Aberdeen Praya Road"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20002790,
+        "name_tc": "石排灣道, 華富道",
+        "name_sc": "石排湾道, 华富道",
+        "name_en": "Shek Pai Wan Road, Wa Fu Road"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20007451,
+        "name_tc": "域多利道, 近薄扶林消防局",
+        "name_sc": "域多利道, 近薄扶林消防局",
+        "name_en": "Victoria Road, near Pok Fu Lam Fire Station"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20004117,
+        "name_tc": "域多利道, 近免疫學研究院",
+        "name_sc": "域多利道, 近免疫学研究院",
+        "name_en": "Victoria Road, near Department Of Health Institute Of Immunology"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20004118,
+        "name_tc": "數碼港道, 貝沙灣南灣",
+        "name_sc": "数码港道, 贝沙湾南湾",
+        "name_en": "Bel-Air on the Peak, Cyberport Road"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20003338,
+        "name_tc": "數碼港道, 貝沙灣1期",
+        "name_sc": "数码港道, 贝沙湾1期",
+        "name_en": "Bel-air Phase 1, Cyperport Road"
+      },
+      {
+        "stop_seq": 16,
+        "stop_id": 20003337,
+        "name_tc": "數碼港公共運輸交匯處",
+        "name_sc": "数码港公共运输交汇处",
+        "name_en": "Cyberport Public Transport Interchange"
+      }
+    ],
+    "data_timestamp": "2024-07-31T18:10:17.820+08:00"
+  }
+}

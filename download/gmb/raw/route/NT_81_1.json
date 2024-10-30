@@ -1,0 +1,11 @@
+{
+  "id": "NT_81_1",
+  "route_id": 2005550,
+  "region": "NT",
+  "route": "81",
+  "route_seq": 1,
+  "from_tc": "荃灣(兆和街)",
+  "from_en": "Tsuen Wan (Shiu Wo Street)",
+  "to_tc": "城門水塘",
+  "to_en": "Shing Mun Reservoir"
+}

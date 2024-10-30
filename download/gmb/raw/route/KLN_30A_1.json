@@ -1,0 +1,11 @@
+{
+  "id": "KLN_30A_1",
+  "route_id": 2000996,
+  "region": "KLN",
+  "route": "30A",
+  "route_seq": 1,
+  "from_tc": "澤安邨",
+  "from_en": "Chak On Estate",
+  "to_tc": "旺角站",
+  "to_en": "Mong Kok Station"
+}

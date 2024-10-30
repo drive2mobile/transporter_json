@@ -1,0 +1,11 @@
+{
+  "id": "NT_501C_1",
+  "route_id": 2001095,
+  "region": "NT",
+  "route": "501C",
+  "route_seq": 1,
+  "from_tc": "雍盛苑",
+  "from_en": "Yung Shing Court",
+  "to_tc": "聯和墟 (循環線)",
+  "to_en": "Luen Wo Hui (Circular)"
+}

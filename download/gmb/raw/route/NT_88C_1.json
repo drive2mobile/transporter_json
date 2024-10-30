@@ -1,0 +1,11 @@
+{
+  "id": "NT_88C_1",
+  "route_id": 2008631,
+  "region": "NT",
+  "route": "88C",
+  "route_seq": 1,
+  "from_tc": "葵芳站",
+  "from_en": "Kwai Fong Station",
+  "to_tc": "美景花園",
+  "to_en": "Mayfair Gardens"
+}

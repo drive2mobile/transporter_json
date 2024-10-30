@@ -1,0 +1,11 @@
+{
+  "id": "NT_101M_1",
+  "route_id": 2005453,
+  "region": "NT",
+  "route": "101M",
+  "route_seq": 1,
+  "from_tc": "匡湖居",
+  "from_en": "Marina Cove",
+  "to_tc": "坑口",
+  "to_en": "Hang Hau"
+}

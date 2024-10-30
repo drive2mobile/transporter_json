@@ -1,0 +1,73 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:05:03.709+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20012208,
+        "name_tc": "海貴路公共運輸交匯處",
+        "name_sc": "海贵路公共运输交汇处",
+        "name_en": "Hoi Kwai Road Public Transport Interchange"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20014853,
+        "name_tc": "楊屋道, 楊屋道市政大廈外",
+        "name_sc": "杨屋道, 楊屋道市政大廈外",
+        "name_en": "YEUNG UK ROAD, outside Yeung Uk Road Municipal Services Building"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20014854,
+        "name_tc": "楊屋道, 近明愛賽馬會荃灣診所（西醫及牙醫）",
+        "name_sc": "杨屋道, 近明爱赛马会荃湾诊所（西医及牙医）",
+        "name_en": "YEUNG UK ROAD, near Caritas Jockey Club Tsuen Wan Clinic (Medical & Dental)"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20001690,
+        "name_tc": "葵福路, 晉昇工廠大廈對面",
+        "name_sc": "葵福路, 晋昇工厂大厦对面",
+        "name_en": "Kwai Fuk Road, opposite Chun Shing Factory Estate"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20019601,
+        "name_tc": "葵福路, 近中華傳道會李賢堯紀念中學",
+        "name_sc": "葵福路, 近中华传道会李贤尧纪念中学",
+        "name_en": "KWAI FUK ROAD, near CNEC Lee I Yao Memorial Secondary School"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20014983,
+        "name_tc": "大窩口道, 近新葵興花園Ｂ座",
+        "name_sc": "大窝口道, 近新葵兴花园B座",
+        "name_en": "Tai Wo Hau Road, near Sun Kwai Hing Gardens Block B"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20014856,
+        "name_tc": "興芳路, 近葵芳邨葵信樓",
+        "name_sc": "兴芳路, 近葵芳邨葵信楼",
+        "name_en": "HING FONG ROAD, near Kwai Shun House, KWAI FONG ESTATE"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20014857,
+        "name_tc": "興芳路, 近葵芳邨葵喜樓",
+        "name_sc": "兴芳路, 近葵芳邨葵喜楼",
+        "name_en": "HING FONG ROAD, near Kwai Hei House, KWAI FONG ESTATE"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20014858,
+        "name_tc": "興寧路, 近新都會廣場",
+        "name_sc": "兴宁路, 近新都会广场",
+        "name_en": "HING NING ROAD, near Metroplaza"
+      }
+    ],
+    "data_timestamp": "2024-10-30T11:52:50.946+08:00"
+  }
+}

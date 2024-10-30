@@ -1,0 +1,11 @@
+{
+  "id": "NT_601_1",
+  "route_id": 2008685,
+  "region": "NT",
+  "route": "601",
+  "route_seq": 1,
+  "from_tc": "元朗 (鳳翔路)",
+  "from_en": "Yuen Long (Fung Cheung Road)",
+  "to_tc": "北圍村",
+  "to_en": "Pak Wai Tsuen"
+}

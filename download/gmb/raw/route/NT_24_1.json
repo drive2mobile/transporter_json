@@ -1,0 +1,11 @@
+{
+  "id": "NT_24_1",
+  "route_id": 2009873,
+  "region": "NT",
+  "route": "24",
+  "route_seq": 1,
+  "from_tc": "大埔 (富蝶邨)",
+  "from_en": "Tai Po (Fu Tip Estate)",
+  "to_tc": "大埔 (廣福道) (循環線)",
+  "to_en": "Tai Po (Kwong Fuk Road) (Circular)"
+}

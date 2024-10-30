@@ -1,0 +1,59 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:04:19.497+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20016902,
+        "name_tc": "逢吉鄉路, 近妙覺園",
+        "name_sc": "逢吉乡路, 近妙觉园",
+        "name_en": "Fung Kat Heung Road, Near 妙覺園"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20016847,
+        "name_tc": "新潭路, 近沙埔污水泵房",
+        "name_sc": "新潭路, 近沙埔污水泵房",
+        "name_en": "San Tam Road, Near Sha Po Sewage Pumping Station"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20001280,
+        "name_tc": "青山公路, 近凹頭迴旋處",
+        "name_sc": "青山公路, 近凹头回旋处",
+        "name_en": "Castle Peak Road, Near Au Tau Interchange"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20001286,
+        "name_tc": "青山公路, 近楊屋村",
+        "name_sc": "青山公路, 近杨屋村",
+        "name_en": "Castle Peak Road, Near Yeung Uk Tsuen"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20004199,
+        "name_tc": "青山公路元朗段60號",
+        "name_sc": "青山公路元朗段60号",
+        "name_en": "Castle Peak Road (Yuen Long) Near House No. 60"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20002203,
+        "name_tc": "阜財街, 光華廣場外",
+        "name_sc": "阜财街, 光华广场外",
+        "name_en": "Fau Tsoi Street, Outside Kwong Wah Plaza (Outside House No.34)"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20015764,
+        "name_tc": "鳳翔路, 近鳳庭苑華庭閣",
+        "name_sc": "凤翔路, 近凤庭苑华庭阁",
+        "name_en": "Fung Cheung Road, Near Wah Ting Court, Fung Ting Court"
+      }
+    ],
+    "data_timestamp": "2024-10-25T16:51:06.436+08:00"
+  }
+}

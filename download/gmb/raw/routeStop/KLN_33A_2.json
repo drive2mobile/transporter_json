@@ -1,0 +1,59 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:02:26.265+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20000588,
+        "name_tc": "鑽石山站公共運輸交匯處",
+        "name_sc": "钻石山站公共运输交汇处",
+        "name_en": "Diamond Hill Station Public Transport Interchange"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20000600,
+        "name_tc": "鳳德道, 鳳德邨對面",
+        "name_sc": "凤德道, 凤德邨对面",
+        "name_en": "Fung Tak Road, opposite Fung Tak Estate"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20000786,
+        "name_tc": "蒲崗村道, 富祐大廈外",
+        "name_sc": "蒲岗村道, 富佑大厦外",
+        "name_en": "Po Kong Village Road, outside Fu Yau Building"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20000788,
+        "name_tc": "蒲崗村道, 近蒲英里",
+        "name_sc": "蒲岗村道, 近蒲英里",
+        "name_en": "Po Kong Village Road, near Po Ying Lane"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20000790,
+        "name_tc": "蒲崗村道, 近蒲良里",
+        "name_sc": "蒲岗村道, 近蒲良里",
+        "name_en": "Po Kong Village Road, near Po Leung Lane"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20000794,
+        "name_tc": "豐盛街, 近蒲崗村道",
+        "name_sc": "丰盛街, 近蒲岗村道",
+        "name_en": "Fung Shing Street, near Po Kong Village Road"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20000797,
+        "name_tc": "豐盛街, 海港花園外",
+        "name_sc": "丰盛街, 海港花园外",
+        "name_en": "Fung Shing Street, outside Hill Top Gardens"
+      }
+    ],
+    "data_timestamp": "2022-11-20T00:00:29.899+08:00"
+  }
+}

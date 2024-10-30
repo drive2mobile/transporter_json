@@ -1,14 +1,14 @@
 import { coopRoutes } from "../utilities/constants.js";
 import { downloadJSONFile, loadJSONFromFile, saveJSONToFile } from "../utilities/file_management.js";
 
-async function downloadRouteList()
+async function downloadRouteListCtb()
 {
     const url = 'https://rt.data.gov.hk/v2/transport/citybus/route/ctb';
     const downloadFilePath = './download/ctb/raw/route/routeList.json';
     await downloadJSONFile(url, downloadFilePath);
 }
 
-async function downloadRouteStops()
+async function downloadRouteStopCtb()
 {
     const readFilePath = './download/ctb/raw/route/routeList.json';
     const routeListJson = await loadJSONFromFile(readFilePath);
@@ -31,12 +31,12 @@ async function downloadRouteStops()
 
         if (i % 5 == 0)
         {
-            await new Promise((resolve) => setTimeout(resolve, 200));
+            await new Promise((resolve) => setTimeout(resolve, 100));
         }
     }
 }
 
-async function downloadStops()
+async function downloadStopCtb()
 {
     const readFilePath = './download/ctb/raw/route/routeList.json';
     const routeListJson = await loadJSONFromFile(readFilePath);
@@ -221,4 +221,4 @@ async function parseJsonCtb()
     await saveJSONToFile(`./download/ctb/output/routeStopList_ctb.json`, routeStopList);
 }
 
-export { downloadRouteList, downloadRouteStops, downloadStops, parseJsonCtb }
+export { downloadRouteListCtb, downloadRouteStopCtb, downloadStopCtb, parseJsonCtb }

@@ -1,0 +1,11 @@
+{
+  "id": "HKI_50_1",
+  "route_id": 2000990,
+  "region": "HKI",
+  "route": "50",
+  "route_seq": 1,
+  "from_tc": "耀東邨",
+  "from_en": "Yiu Tung Estate",
+  "to_tc": "西灣河 (循環線)",
+  "to_en": "Sai Wan Ho (Circular)"
+}

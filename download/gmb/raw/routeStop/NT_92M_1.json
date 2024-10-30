@@ -1,0 +1,59 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:05:13.790+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20015765,
+        "name_tc": "華員徑, 近華員邨華信閣",
+        "name_sc": "华员径, 近华员村华信阁",
+        "name_en": "Wah Yuen Drive, near Wah Shun Court, Wah Yuen Chuen"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20020129,
+        "name_tc": "荔灣道, 荔枝角公園體育館對面",
+        "name_sc": "荔湾道, 荔枝角公园体育馆对面",
+        "name_en": "Lai Wan Road, opposite to Lai Chi Kok Park Sports Centre"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20020130,
+        "name_tc": "美荔道, 美孚新邨第6期對出",
+        "name_sc": "美荔道, 美孚新村第6期对出",
+        "name_en": "Mei Lai Road, opposite to Mei Foo Sun Chuen Phase 6"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20013693,
+        "name_tc": "美荔道, 近美孚巴士總站",
+        "name_sc": "美荔道, 近美孚巴士总站",
+        "name_en": "Mei Lai Road, near Mei Foo Bus Terminus"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20020131,
+        "name_tc": "美荔道, 美孚新邨近第6期",
+        "name_sc": "美荔道, 美孚新村近第6期",
+        "name_en": "Mei Lai Road, near Mei Foo Sun Chuen Phase 6"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20013694,
+        "name_tc": "荔灣道, 近荔枝角公園體育館",
+        "name_sc": "荔湾道, 近荔枝角公园体育馆",
+        "name_en": "Lai Wan Road, near Lai Chi Kok Park Sports Centre"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20015765,
+        "name_tc": "華員徑, 近華員邨華信閣",
+        "name_sc": "华员径, 近华员村华信阁",
+        "name_en": "Wah Yuen Drive, near Wah Shun Court, Wah Yuen Chuen"
+      }
+    ],
+    "data_timestamp": "2024-10-30T11:22:40.999+08:00"
+  }
+}

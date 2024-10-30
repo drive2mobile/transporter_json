@@ -1,0 +1,11 @@
+{
+  "id": "HKI_69_1",
+  "route_id": 2000963,
+  "region": "HKI",
+  "route": "69",
+  "route_seq": 1,
+  "from_tc": "數碼港",
+  "from_en": "Cyberport",
+  "to_tc": "鰂魚涌(船塢里)(循環線)",
+  "to_en": "Quarry Bay (Shipyard Lane) (Circular)"
+}

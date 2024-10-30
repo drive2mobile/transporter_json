@@ -1,0 +1,11 @@
+{
+  "id": "HKI_5_2",
+  "route_id": 2004081,
+  "region": "HKI",
+  "route": "5",
+  "route_seq": 2,
+  "from_tc": "銅鑼灣(謝斐道)",
+  "from_en": "Causeway Bay (Jaffe Road)",
+  "to_tc": "香港仔(南寧街)",
+  "to_en": "Aberdeen (Nam Ning Street)"
+}

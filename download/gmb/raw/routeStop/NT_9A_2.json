@@ -1,0 +1,38 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:05:22.386+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20007589,
+        "name_tc": "萬宜水庫東壩",
+        "name_sc": "万宜水库东坝",
+        "name_en": "The East Dam, High Island Reservoir"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20007592,
+        "name_tc": "萬宜水庫西壩",
+        "name_sc": "万宜水库西坝",
+        "name_en": "The West Dam, High Island Reservoir"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20007593,
+        "name_tc": "大網仔路, 上窰",
+        "name_sc": "大网仔路, 上窑",
+        "name_en": "Tai Mong Tsai Road, Sheung Yiu"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20001128,
+        "name_tc": "北潭涌巴士總站",
+        "name_sc": "北潭涌巴士总站",
+        "name_en": "Pak Tam Chung Bus Terminus"
+      }
+    ],
+    "data_timestamp": "2024-04-05T14:41:14.491+08:00"
+  }
+}

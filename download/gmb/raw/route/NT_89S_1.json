@@ -1,0 +1,11 @@
+{
+  "id": "NT_89S_1",
+  "route_id": 2007996,
+  "region": "NT",
+  "route": "89S",
+  "route_seq": 1,
+  "from_tc": "葵芳站",
+  "from_en": "Kwai Fong Station",
+  "to_tc": "葵盛北(循環線)",
+  "to_en": "Kwai Shing North (Circular)"
+}

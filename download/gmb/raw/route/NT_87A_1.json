@@ -1,0 +1,11 @@
+{
+  "id": "NT_87A_1",
+  "route_id": 2006680,
+  "region": "NT",
+  "route": "87A",
+  "route_seq": 1,
+  "from_tc": "貨櫃碼頭路公共運輸交匯處",
+  "from_en": "Container Port Road Public Transport Interchange",
+  "to_tc": "昂運路",
+  "to_en": "Ngong Wan Road"
+}

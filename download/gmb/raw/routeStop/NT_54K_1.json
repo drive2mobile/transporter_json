@@ -1,0 +1,52 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:04:12.248+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20015442,
+        "name_tc": "萃雲路, 近麻笏村",
+        "name_sc": "萃云路, 近麻笏村",
+        "name_en": "Sui Wan Road, Near Ma Wat Tsuen"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20015443,
+        "name_tc": "萃雲路, 近龍躍頭鄉公所",
+        "name_sc": "萃云路, 近龙跃头乡公所",
+        "name_en": "Sui Wan Road, Near Lung Yeuk Tau Village Office"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20018948,
+        "name_tc": "沙頭角公路近安樂村",
+        "name_sc": "沙头角公路近安乐村",
+        "name_en": "Sha Tau Kok Road near On Lok Tsuen"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20014465,
+        "name_tc": "聯和道, 近聯和墟遊樂場",
+        "name_sc": "联和道, 近联和墟游乐场",
+        "name_en": "Luen Wo Road, Near Luen Wo Hui Playground"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20014456,
+        "name_tc": "新運路, 近祥華邨祥頌樓",
+        "name_sc": "新运路, 近祥华村祥颂楼",
+        "name_en": "San Wan Road, Near Cheung Chung House, Cheung Wah Estate"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20015439,
+        "name_tc": "粉嶺站專綫小巴總站",
+        "name_sc": "粉岭站专线小巴总站",
+        "name_en": "Fanling Station Public Light Bus (Scheduled) Service Terminus"
+      }
+    ],
+    "data_timestamp": "2024-10-25T15:50:10.452+08:00"
+  }
+}

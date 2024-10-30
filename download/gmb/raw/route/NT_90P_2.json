@@ -1,0 +1,11 @@
+{
+  "id": "NT_90P_2",
+  "route_id": 2005649,
+  "region": "NT",
+  "route": "90P",
+  "route_seq": 2,
+  "from_tc": "瑪嘉烈醫院",
+  "from_en": "Princess Margaret Hospital",
+  "to_tc": "美孚",
+  "to_en": "Mei Foo"
+}

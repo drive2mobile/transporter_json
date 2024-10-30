@@ -1,0 +1,11 @@
+{
+  "id": "NT_807X_1",
+  "route_id": 2001233,
+  "region": "NT",
+  "route": "807X",
+  "route_seq": 1,
+  "from_tc": "港鐵大學站巴士總站",
+  "from_en": "University Station",
+  "to_tc": "烏溪沙站",
+  "to_en": "Wu Kai Sha Station"
+}

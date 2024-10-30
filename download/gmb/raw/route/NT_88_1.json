@@ -1,0 +1,11 @@
+{
+  "id": "NT_88_1",
+  "route_id": 2005088,
+  "region": "NT",
+  "route": "88",
+  "route_seq": 1,
+  "from_tc": "青衣邨",
+  "from_en": "Tsing Yi Estate",
+  "to_tc": "葵芳站",
+  "to_en": "Kwai Fong Station"
+}

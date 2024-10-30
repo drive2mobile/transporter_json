@@ -1,0 +1,73 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:03:11.069+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20012835,
+        "name_tc": "港鐵調景嶺站小巴總站",
+        "name_sc": "港铁调景岭站小巴总站",
+        "name_en": "Tiu Keng Leng MTR Station Minibus Terminus"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20003049,
+        "name_tc": "彩明街, 近彩明苑彩貴閣",
+        "name_sc": "彩明街, 近彩明苑彩贵阁",
+        "name_en": "Choi Ming Street, Choi Ming Shopping Centre"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20012836,
+        "name_tc": "景嶺路, 近香港知專設計學院",
+        "name_sc": "景岭路, 近香港知专设计学院",
+        "name_en": "CHOI MING STREET, near HKDI"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20012837,
+        "name_tc": "寶邑路, 近將軍澳中心第三座",
+        "name_sc": "宝邑路, 近将军澳中心第三座",
+        "name_en": "PO YAP ROAD, near Park Central Tower 3"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20012838,
+        "name_tc": "唐賢街, 近天晉3A",
+        "name_sc": "唐贤街, 近天晋3A",
+        "name_en": "TONG YIN STREET, near The Wings IIIA"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20012839,
+        "name_tc": "唐賢街, 近帝景灣",
+        "name_sc": "唐贤街,近帝景湾",
+        "name_en": "TONG YIN STREET, near Corinthia by The Sea"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20012840,
+        "name_tc": "唐賢街, 近藍塘傲",
+        "name_sc": "唐贤街, 近蓝塘傲",
+        "name_en": "TONG YIN STREET, near Alto Residences"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20012841,
+        "name_tc": "唐賢街, 近Capri Tower 8",
+        "name_sc": "唐贤街, 近Capri Tower 8",
+        "name_en": "TONG YIN STREET, near Capri Tower 8"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20012842,
+        "name_tc": "港鐵調景嶺站小巴總站",
+        "name_sc": "港铁调景岭站小巴总站",
+        "name_en": "Tiu Keng Leng MTR Station Minibus Terminus"
+      }
+    ],
+    "data_timestamp": "2022-06-23T16:38:14.267+08:00"
+  }
+}

@@ -2,14 +2,15 @@
 import express from "express";
 import cors from "cors"
 import fs from "fs";
-import { downloadRouteList, downloadRouteStops, downloadStops, parseJsonCtb } from "./src/functions/ctb.js";
+import { downloadRouteListCtb, downloadRouteStopCtb, downloadStopCtb, parseJsonCtb } from "./src/functions/ctb.js";
 import { downloadRouteListKmb, downloadRouteStopListKmb, downloadStopListKmb, parseJsonKmb, } from "./src/functions/kmb.js";
 import { downloadJSONFile, loadJSONFromFile } from "./src/utilities/file_management.js";
 import { deleteNonCoop, parseJsonKmbCtb } from "./src/functions/kmbctb.js";
 import { downloadRouteStopListMtrBus, parseJsonMtrBus } from "./src/functions/mtrbus.js";
-import { downloadAndParseRouteListGmb, downloadAndParseRouteStopListGmb, downloadStopGmb, mergeStopCoordinateToRouteStopGmb } from "./src/functions/gmb.js";
+import { downloadGmbRouteList, downloadGmbRouteListGmb, downloadRouteStopListGmb, downloadStopGmb, mergeStopCoordinateToRouteStopGmb, parseRouteListGmb, parseRouteStopListGmb } from "./src/functions/gmb.js";
 import { downloadRouteListNlb, downloadRouteStopNlb, parseJsonNlb } from "./src/functions/nlb.js";
 import { parseUniqueRouteList, parseUniqueRouteMap, parseUniqueRouteStopList } from "./src/functions/parseFinal.js";
+import { processTimetable } from "./src/functions/functions_timetable.js";
 
 const app = express();
 app.use(cors({
@@ -18,46 +19,47 @@ app.use(cors({
     credentials: true
 }));
 
-app.get(('/uniqueRouteList'), async(req, res) => {
+app.get(('/uniqueRouteList'), async (req, res) =>
+{
     const jsonFile = await loadJSONFromFile('download/finalOutput/uniqueRouteList.json');
 
     res.set('Content-Type', 'application/json');
     res.json(jsonFile);
 })
 
-app.get(('/uniqueRouteMap'), async(req, res) => {
+app.get(('/uniqueRouteMap'), async (req, res) =>
+{
     const jsonFile = await loadJSONFromFile('download/finalOutput/uniqueRouteMap.json');
 
     res.set('Content-Type', 'application/json');
     res.json(jsonFile);
 })
 
-app.get(('/uniqueRouteStopList'), async(req, res) => {
+app.get(('/uniqueRouteStopList'), async (req, res) =>
+{
     const jsonFile = await loadJSONFromFile('download/finalOutput/uniqueRouteStopList.json');
 
     res.set('Content-Type', 'application/json');
     res.json(jsonFile);
 })
 
-app.get(('/kmb'), async (req, res) =>
+app.get(('/ctb'), async (req, res) =>
 {
-    // await downloadRouteListKmb();
-    // await downloadRouteStopListKmb();
-    // await new Promise((resolve) => setTimeout(resolve, 5000));
-    // await downloadStopListKmb();
-
-    await parseJsonKmb();
+    await downloadRouteListCtb();
+    await downloadRouteStopCtb();
+    await downloadStopCtb();
+    await parseJsonCtb();
 
     res.send('done');
 })
 
-app.get(('/ctb'), async (req, res) =>
+app.get(('/kmb'), async (req, res) =>
 {
-    await downloadRouteList();
-    await downloadRouteStops();
-    await downloadStops();
-
-    await parseJsonCtb();
+    await downloadRouteListKmb();
+    await downloadRouteStopListKmb();
+    await new Promise((resolve) => setTimeout(resolve, 5000));
+    await downloadStopListKmb();
+    await parseJsonKmb();
 
     res.send('done');
 })
@@ -65,19 +67,15 @@ app.get(('/ctb'), async (req, res) =>
 app.get(('/kmbctb'), async (req, res) =>
 {
     await parseJsonKmbCtb();
-
-    await deleteNonCoop('kmb', 'tc');
-    await deleteNonCoop('kmb', 'en');
-    await deleteNonCoop('ctb', 'tc');
-    await deleteNonCoop('ctb', 'en');
+    await deleteNonCoop('kmb');
+    await deleteNonCoop('ctb');
 
     res.send('done');
 })
 
 app.get(('/mtrbus'), async (req, res) =>
 {
-    // await downloadRouteStopListMtrBus();
-
+    await downloadRouteStopListMtrBus();
     await parseJsonMtrBus('tc');
 
     res.send('done');
@@ -85,11 +83,13 @@ app.get(('/mtrbus'), async (req, res) =>
 
 app.get(('/gmb'), async (req, res) =>
 {
-    // await downloadAndParseRouteListGmb();
-    // await downloadAndParseRouteStopListGmb();
-    // await downloadStopGmb();
-    // await mergeStopCoordinateToRouteStopGmb();
-
+    await downloadGmbRouteList();
+    await downloadGmbRouteListGmb();
+    await parseRouteListGmb();
+    await downloadRouteStopListGmb();
+    await parseRouteStopListGmb();
+    await downloadStopGmb();
+    await mergeStopCoordinateToRouteStopGmb();
     res.send('done');
 })
 
@@ -102,7 +102,8 @@ app.get(('/nlb'), async (req, res) =>
     res.send('done');
 })
 
-app.get(('/parseFinalOutput'), async(req, res) => {
+app.get(('/parseFinalOutput'), async (req, res) =>
+{
     await parseUniqueRouteList();
     await parseUniqueRouteMap();
     await parseUniqueRouteStopList();
@@ -110,105 +111,21 @@ app.get(('/parseFinalOutput'), async(req, res) => {
     res.send('done');
 })
 
-// app.get(('/downloadCtb'), async (req, res) => {
-//     // await deleteFilesInFolder('./download/ctb');
-//     // console.log('delete ctb files finished');
-
-//     // await downloadCtbRoutList();
-//     // await downloadCtbRouteStopFiles();
-//     // await downloadCtbStopFiles();
-
-//     // await createCtbRouteList();
-//     // await createCtbRouteStopList();
-
-//     // res.send('done');
-// })
-
-// app.get(('/downloadmtrbus'), async(req, res) => {
-//     // await deleteFilesInFolder('./download/mtrbus');
-//     // console.log('delete mtrbus files finished');
-
-//     await downloadMtrbusRoutStopList();
-//     await createMtrbusRouteList();
-//     res.send('done');
-// })
-
-// app.get(('/downloadmtr'), async(req, res) => {
-//     // await deleteFilesInFolder('./download/mtr');
-//     // console.log('delete mtr finished');
-
-//     // await downloadMtrRoutStopList();
-//     await createMtrRouteList();
-//     res.send('done');
-// })
-
-// app.get(('/mergedata'), async (req, res) => {
-//     await createTEMPKmbRouteStopList();
-//     await createTEMPCtbRouteStopList();
-//     await createTEMPCtbRouteList();
-
-//     await mergeUniqueRouteList();
-//     await mergeRouteList();
-//     await mergeRouteStopList();
-//     res.send('done');
-// })
-
 // app.get(('/processlocation'), async (req, res) => {
 //     await parseLocationBasedRouteStopList();
 
 //     res.send('done');
 // })
 
-// app.get(('/processtimetable'), async(req, res) => {
-//     var map = await processTimetable();
-//     // res.send(map);
-//     res.send('done');
-// })
+app.get(('/processtimetable'), async(req, res) => {
+    var map = await processTimetable();
+    // res.send(map);
+    res.send('done');
+})
 
 // app.get(('/generatetimestamp'), async(req, res) => {
 //     await generateTimestamp();
 //     res.send('done');
-// })
-
-// // ===== RETRIEVE FUNCTIONS =====
-// app.get(('/uniqueroutelist'), async(req, res) => {
-//     const filePath = 'download/output/FINAL_unique_route_list.json';
-//     const jsonFile = await loadJSONFromFile(filePath);
-
-//     res.set('Content-Type', 'application/json');
-//     res.json(jsonFile);
-// })
-
-// app.get(('/routelist'), async(req, res) => {
-//     const filePath = 'download/output/FINAL_route_list.json';
-//     const jsonFile = await loadJSONFromFile(filePath);
-
-//     res.set('Content-Type', 'application/json');
-//     res.json(jsonFile);
-// })
-
-// app.get(('/routestoplist'), async(req, res) => {
-//     const filePath = 'download/output/FINAL_route_stop_list.json';
-//     const jsonFile = await loadJSONFromFile(filePath);
-
-//     res.set('Content-Type', 'application/json');
-//     res.json(jsonFile);
-// })
-
-// app.get(('/gettimetable'), async(req, res) => {
-//     const filePath = 'download/output/FINAL_timetable.json';
-//     const jsonFile = await loadJSONFromFile(filePath);
-
-//     res.set('Content-Type', 'application/json');
-//     res.json(jsonFile);
-// })
-
-// app.get(('/getlatestversion'), async(req, res) => {
-//     const filePath = 'download/output/FINAL_timestamp.json';
-//     const jsonFile = await loadJSONFromFile(filePath);
-
-//     res.set('Content-Type', 'application/json');
-//     res.json(jsonFile);
 // })
 
 const options = {

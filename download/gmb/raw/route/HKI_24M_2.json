@@ -1,0 +1,11 @@
+{
+  "id": "HKI_24M_2",
+  "route_id": 2002053,
+  "region": "HKI",
+  "route": "24M",
+  "route_seq": 2,
+  "from_tc": "金鐘站(德立街)",
+  "from_en": "Admiralty Station (Drake Street)",
+  "to_tc": "畢拉山",
+  "to_en": "Mount Butler"
+}

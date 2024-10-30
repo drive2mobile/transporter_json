@@ -1,0 +1,11 @@
+{
+  "id": "KLN_52_2",
+  "route_id": 2008000,
+  "region": "KLN",
+  "route": "52",
+  "route_seq": 2,
+  "from_tc": "新蒲崗",
+  "from_en": "San Po Kong",
+  "to_tc": "竹園邨",
+  "to_en": "Chuk Yuen Estate"
+}

@@ -1,0 +1,108 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:01:25.374+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20000093,
+        "name_tc": "蘭芳道, 近利園宏利保險大廈",
+        "name_sc": "兰芳道, 近利园宏利保险大厦",
+        "name_en": "Near The Lee Gardens Manulife Plaza, Lan Fong Road"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20000311,
+        "name_tc": "邊寧頓街利園二期外",
+        "name_sc": "边宁顿街利园二期外",
+        "name_en": "Pennington Street outside Lee Gardens Two"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20000121,
+        "name_tc": "大坑道9號",
+        "name_sc": "大坑道9号",
+        "name_en": "9 Tai Hang Road"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20003496,
+        "name_tc": "大坑道, 香港真光中學對面",
+        "name_sc": "大坑道, 香港真光中学对面",
+        "name_en": "Tai Hang Road opposite True Light Middle School Hong Kong"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20003354,
+        "name_tc": "大坑道27號",
+        "name_sc": "大坑道27号",
+        "name_en": "27 Tai Hang Road"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20003492,
+        "name_tc": "大坑道, 宏豐台外",
+        "name_sc": "大坑道, 宏丰台外",
+        "name_en": "Tai Hang Road outside Wang Fung TerraceTai Hang Road outside Wang Fung Terrace"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20003493,
+        "name_tc": "大坑徑, 柏園對面",
+        "name_sc": "大坑径, 柏园对面",
+        "name_en": "Tai Hang Drive opposite Park Garden"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20000125,
+        "name_tc": "大坑徑,龍華花園對面",
+        "name_sc": "大坑径,龙华花园对面",
+        "name_en": "Opposite to Ronsdale Garden, Tai Hang Drive"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20003494,
+        "name_tc": "大坑徑, 柏園外",
+        "name_sc": "大坑径, 柏园外",
+        "name_en": "Tai Hang Drive outside Park Garden"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20003495,
+        "name_tc": "大坑道, 宏豐台對面",
+        "name_sc": "大坑道, 宏丰台对面",
+        "name_en": "Tai Hang Road opposite Wang Fung Terrace"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20003355,
+        "name_tc": "曼聯閣, 大坑道",
+        "name_sc": "曼联阁, 大坑道",
+        "name_en": "Manchester Lodge, Tai Hang Road"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20003491,
+        "name_tc": "大坑道, 香港真光中學外",
+        "name_sc": "大坑道, 香港真光中学外",
+        "name_en": "Tai Hang Road outside True Light Middle School Hong Kong"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20000122,
+        "name_tc": "大坑道, 帝后臺外",
+        "name_sc": "大坑道, 帝后台外",
+        "name_en": "Outside Grand Deco Tower, 9 Tai Hung Road"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20000093,
+        "name_tc": "蘭芳道, 近利園宏利保險大廈",
+        "name_sc": "兰芳道, 近利园宏利保险大厦",
+        "name_en": "Near The Lee Gardens Manulife Plaza, Lan Fong Road"
+      }
+    ],
+    "data_timestamp": "2024-10-30T13:55:16.799+08:00"
+  }
+}

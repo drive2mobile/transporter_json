@@ -1,0 +1,94 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:02:31.055+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20019864,
+        "name_tc": "東京街, 恒順大廈外",
+        "name_sc": "东京街, 恒顺大厦外",
+        "name_en": "Tonkin Street outside Hang Shun Building"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20019865,
+        "name_tc": "順寧道, 保安道市政大廈對面",
+        "name_sc": "顺宁道, 保安道市政大厦对面",
+        "name_en": "Shun Ning Road opposite Po On Road Municipal Services Building"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20019866,
+        "name_tc": "興華街, 近元州街",
+        "name_sc": "兴华街, 近元州街",
+        "name_en": "Hing Wah Street near Un Chau Street"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20012318,
+        "name_tc": "長義街, 近D2 Place",
+        "name_sc": "长义街, 近D2 Place",
+        "name_en": "Cheung Yee Street near D2 Place"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20012316,
+        "name_tc": "興華街西遊樂場",
+        "name_sc": "兴华街西游乐场 ",
+        "name_en": "Hing Wah Street West Playground"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20019867,
+        "name_tc": "荔盈街, 近海盈邨",
+        "name_sc": "荔盈街, 近海盈村",
+        "name_en": "Lai Ying Street near Hoi Ying Estate"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20019868,
+        "name_tc": "興華街西,碧海藍天二座對出",
+        "name_sc": "兴华街西, 碧海蓝天二座对出",
+        "name_en": "Hing Wah Street West outside Block 2, Aqua Marine"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20019869,
+        "name_tc": "興華街西, 長沙灣臨時家禽批發市場",
+        "name_sc": "兴华街西, 长沙湾临时家禽批发市场",
+        "name_en": "Hing Wah Street West near Cheung Sha Wan Temporary Wholesale Poultry Market"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20019870,
+        "name_tc": "大南西街, 近長義街",
+        "name_sc": "大南西街, 近长义街",
+        "name_en": "Tai Nan West Street near Cheung Yee Street"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20019871,
+        "name_tc": "青山道, 近廣成街(明愛醫院)",
+        "name_sc": "青山道, 近广成街(明爱医院)",
+        "name_en": "Castle Peak Road near Kwong Shing Street (Caritas Medical Centre)"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20019872,
+        "name_tc": "青山道310號",
+        "name_sc": "青山道310号",
+        "name_en": "Castle Peak Road outside House No. 310"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20019864,
+        "name_tc": "東京街, 恒順大廈外",
+        "name_sc": "东京街, 恒顺大厦外",
+        "name_en": "Tonkin Street outside Hang Shun Building"
+      }
+    ],
+    "data_timestamp": "2024-08-07T17:36:10.552+08:00"
+  }
+}

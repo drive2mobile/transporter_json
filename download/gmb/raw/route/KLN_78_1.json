@@ -1,0 +1,11 @@
+{
+  "id": "KLN_78_1",
+  "route_id": 2003438,
+  "region": "KLN",
+  "route": "78",
+  "route_seq": 1,
+  "from_tc": "大角咀(維港灣)公共運輸交匯處",
+  "from_en": "Tai Kok Tsui(Island Harbourview) Public Transport Interchange",
+  "to_tc": "尖沙咀(北京道)(循環線)",
+  "to_en": "Tsim Sha Tsui (Peking Road)(Circular)"
+}

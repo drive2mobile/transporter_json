@@ -1,0 +1,11 @@
+{
+  "id": "KLN_77M_1",
+  "route_id": 2003339,
+  "region": "KLN",
+  "route": "77M",
+  "route_seq": 1,
+  "from_tc": "九龍站",
+  "from_en": "Kowloon Station",
+  "to_tc": "尖東(循環線)",
+  "to_en": "East Tsim Sha Tsui(Circular)"
+}

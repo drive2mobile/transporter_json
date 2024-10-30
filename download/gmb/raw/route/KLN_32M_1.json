@@ -1,0 +1,11 @@
+{
+  "id": "KLN_32M_1",
+  "route_id": 2000992,
+  "region": "KLN",
+  "route": "32M",
+  "route_seq": 1,
+  "from_tc": "龍坪道",
+  "from_en": "Lung Ping Road",
+  "to_tc": "石硤尾 (循環線)",
+  "to_en": "Shek Kip Mei (Circular)"
+}

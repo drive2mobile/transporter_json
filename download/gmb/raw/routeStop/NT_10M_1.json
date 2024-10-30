@@ -1,0 +1,45 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:03:06.546+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20015554,
+        "name_tc": "毓雅里, 仁濟醫院靚次伯紀念中學外",
+        "name_sc": "毓雅里, 仁济医院靓次伯纪念中学外",
+        "name_en": "Yuk Nga Lane, outside Yan Chai Hospital Lan Chi Pat Memorial Secondary School"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20001174,
+        "name_tc": "貿業路, 近寶琳站",
+        "name_sc": "贸业路, 近宝琳站",
+        "name_en": "Mau Yip Road, near Po Lam Station"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20015555,
+        "name_tc": "運隆路, 近將軍澳圖書館",
+        "name_sc": "运隆路, 近将军澳图书馆",
+        "name_en": "Wan Lung Road, near Tseung Kwan O Library"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20015556,
+        "name_tc": "觀塘道, 官塘工業中心2期外",
+        "name_sc": "观塘道, 官塘工业中心2期外",
+        "name_en": "Kwun Tong Road, outside Kwun Tong Industrial Centre Phase 2"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20015557,
+        "name_tc": "裕民坊公共運輸交匯處",
+        "name_sc": "裕民坊公共运输交汇处",
+        "name_en": "Yue Man Square Public Transport Interchange"
+      }
+    ],
+    "data_timestamp": "2024-08-07T13:52:30.682+08:00"
+  }
+}

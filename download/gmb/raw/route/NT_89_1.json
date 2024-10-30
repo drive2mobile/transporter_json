@@ -1,0 +1,11 @@
+{
+  "id": "NT_89_1",
+  "route_id": 2007959,
+  "region": "NT",
+  "route": "89",
+  "route_seq": 1,
+  "from_tc": "荃灣(河背街)",
+  "from_en": "Tsuen Wan (Ho Pui Street)",
+  "to_tc": "石頭街",
+  "to_en": "Shek Tau Street"
+}

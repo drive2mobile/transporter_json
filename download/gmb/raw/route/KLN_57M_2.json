@@ -1,0 +1,11 @@
+{
+  "id": "KLN_57M_2",
+  "route_id": 2004463,
+  "region": "KLN",
+  "route": "57M",
+  "route_seq": 2,
+  "from_tc": "伊利沙伯醫院",
+  "from_en": "Queen Elizabeth Hospital",
+  "to_tc": "佐敦站(南京街)",
+  "to_en": "Jordan Station (Nanking Street)"
+}

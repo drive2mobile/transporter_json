@@ -1,0 +1,38 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:04:58.226+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20001661,
+        "name_tc": "荃灣眾安街",
+        "name_sc": "荃灣众安街",
+        "name_en": "Tsuen Wan Chung On Street"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20001942,
+        "name_tc": "楊屋道荃新天地2期外",
+        "name_sc": "杨屋道荃新天地2期外",
+        "name_en": "Yeung Uk Road outside Citywalk 2"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20007223,
+        "name_tc": "荃景圍家興大廈外",
+        "name_sc": "荃景围家兴大厦外",
+        "name_en": "Tsuen King Circuit outside Joyful Building"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20007153,
+        "name_tc": "荃威花園",
+        "name_sc": "荃威花园",
+        "name_en": "Allway Gardens"
+      }
+    ],
+    "data_timestamp": "2024-10-23T13:28:56.876+08:00"
+  }
+}

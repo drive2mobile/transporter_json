@@ -1,0 +1,38 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:04:39.627+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20016675,
+        "name_tc": "福順街, 近盛屋村廣陵堂",
+        "name_sc": "福顺街, 近盛屋村广陵堂",
+        "name_en": "Fuk Shun Street, Near 廣陵堂, Shing Uk Tsuen"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20007312,
+        "name_tc": "媽橫路, 近朗屏站",
+        "name_sc": "妈横路, 近朗屏站",
+        "name_en": "Ma Wang Road, near Long Ping Station"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20016676,
+        "name_tc": "壽富街, 近元朗政府合署",
+        "name_sc": "寿富街, 近元朗政府合署",
+        "name_en": "Sau Fu Street, Near Yuen Long Government Offices"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20015409,
+        "name_tc": "福康街, 近金寶樓",
+        "name_sc": "福康街, 近金宝楼",
+        "name_en": "Fook Hong Street, near Kam Bo Building"
+      }
+    ],
+    "data_timestamp": "2024-04-07T00:00:47.944+08:00"
+  }
+}

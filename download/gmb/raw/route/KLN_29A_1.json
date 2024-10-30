@@ -1,0 +1,11 @@
+{
+  "id": "KLN_29A_1",
+  "route_id": 2001006,
+  "region": "KLN",
+  "route": "29A",
+  "route_seq": 1,
+  "from_tc": "九龍塘(沙福道)公共交通交匯處",
+  "from_en": "Kowloon Tong (Suffolk Road) Public Transport Interchange",
+  "to_tc": "廣播道 (循環線)",
+  "to_en": "Broadcast Drive (Circular)"
+}

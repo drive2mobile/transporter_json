@@ -1,0 +1,11 @@
+{
+  "id": "NT_7_1",
+  "route_id": 2002339,
+  "region": "NT",
+  "route": "7",
+  "route_seq": 1,
+  "from_tc": "西貢",
+  "from_en": "Sai Kung",
+  "to_tc": "海下",
+  "to_en": "Hoi Ha"
+}

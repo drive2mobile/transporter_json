@@ -1,0 +1,11 @@
+{
+  "id": "HKI_69A_1",
+  "route_id": 2000819,
+  "region": "HKI",
+  "route": "69A",
+  "route_seq": 1,
+  "from_tc": "數碼港",
+  "from_en": "Cyberport",
+  "to_tc": "香港仔(循環線)",
+  "to_en": "Aberdeen(Circular)"
+}

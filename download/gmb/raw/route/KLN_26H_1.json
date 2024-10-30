@@ -1,0 +1,11 @@
+{
+  "id": "KLN_26H_1",
+  "route_id": 2002849,
+  "region": "KLN",
+  "route": "26H",
+  "route_seq": 1,
+  "from_tc": "伊利沙伯醫院",
+  "from_en": "Queen Elizabeth Hospital",
+  "to_tc": "紅磡站(循環線)",
+  "to_en": "Hung Hom Station (Circular)"
+}

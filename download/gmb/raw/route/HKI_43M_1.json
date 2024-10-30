@@ -1,0 +1,11 @@
+{
+  "id": "HKI_43M_1",
+  "route_id": 2002250,
+  "region": "HKI",
+  "route": "43M",
+  "route_seq": 1,
+  "from_tc": "峰華邨",
+  "from_en": "Fung Wah Estate",
+  "to_tc": "柴灣站(循環線)",
+  "to_en": "Chai Wan Station"
+}

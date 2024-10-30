@@ -1,0 +1,122 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:02:27.420+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20013858,
+        "name_tc": "彩禧路, 彩霞邨彩月樓外",
+        "name_sc": "彩禧路, 彩霞邨彩月楼外",
+        "name_en": "Choi Hei Road, outside Choi Yuet House, Choi Ha Estate"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20013859,
+        "name_tc": "彩禧路, 彩禧路公園對面",
+        "name_sc": "彩禧路, 彩禧路公园对面",
+        "name_en": "Choi Hei Road, opposite Choi Hei Road Park"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20013860,
+        "name_tc": "佐敦谷北道, 淘大花園P座對面",
+        "name_sc": "佐敦谷北道, 淘大花园P座对面",
+        "name_en": "Jordan Valley North Road, opposite Block P, Amoy Garden"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20000808,
+        "name_tc": "牛頭角道, 牛頭角市政大廈外",
+        "name_sc": "牛头角道, 牛头角市政大厦外",
+        "name_en": "Ngau Tau Kok Municipal Services Building"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20013861,
+        "name_tc": "安德道, 牛頭角上邨常泰樓對面",
+        "name_sc": "安德道, 牛头角上邨常泰楼对面",
+        "name_en": "On Tak Road, opposite Sheung Tai House, Upper Ngau Tau Kok Estate"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20013862,
+        "name_tc": "安德道, 牛頭角上邨常悅樓外 ",
+        "name_sc": "安德道, 牛头角上邨常悦楼外",
+        "name_en": "On Tak Road, outside Sheung Yuet House, Upper Ngau Tau Kok Estate"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20013863,
+        "name_tc": "安善道, 花園大廈燕子樓外",
+        "name_sc": "安善道, 花园大厦燕子楼外",
+        "name_en": "On Shin Road, outside Yin Chee Lau, Garden Estate"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20013864,
+        "name_tc": "牛頭角道, 花園大廈喜鵲樓外  ",
+        "name_sc": "牛头角道, 花园大厦喜鹊楼外",
+        "name_en": "Ngau Tau Kok Road, outside Hay Cheuk Lau, Garden Estate"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20013836,
+        "name_tc": "牛頭角道, 玉蓮臺外",
+        "name_sc": "牛头角道, 玉莲台外",
+        "name_en": "Ngau Tau Kok Road, outside Lotus Tower"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20000810,
+        "name_tc": "牛頭角道,琼林大廈",
+        "name_sc": "牛头角道,琼林大厦",
+        "name_en": "Kentlum Mansion"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20000633,
+        "name_tc": "康寧道, 康寧閣外",
+        "name_sc": "康宁道, 康宁阁外",
+        "name_en": "Hong Ning Road, outside Hong Ning Court"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20013865,
+        "name_tc": "功樂道, 碧麗苑外",
+        "name_sc": "功乐道, 碧丽苑外",
+        "name_en": "Kung Lok Road, outside Belleve Garden"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20013866,
+        "name_tc": "功樂道, 林景閣外",
+        "name_sc": "功乐道, 林景阁外",
+        "name_en": "Kung Lok Road, outside Woodview Court"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20013867,
+        "name_tc": "功樂道, 鳳儀大廈外",
+        "name_sc": "功乐道, 凤仪大厦外",
+        "name_en": "Kung Lok Road, outside Louisa Tower"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20013868,
+        "name_tc": "康利道, 南康大廈外",
+        "name_sc": "康利道, 南康大厦外",
+        "name_en": "Hong Lee Road, outside Nam Hong Building"
+      },
+      {
+        "stop_seq": 16,
+        "stop_id": 20013869,
+        "name_tc": "康利道, 聖傑靈女子中學外",
+        "name_sc": "康利道, 圣杰灵女子中学外",
+        "name_en": "Hong Lee Road, outside St. Catherine's School For Girls, Kwun Tong"
+      }
+    ],
+    "data_timestamp": "2024-09-11T15:05:31.238+08:00"
+  }
+}

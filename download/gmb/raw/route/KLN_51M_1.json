@@ -1,0 +1,11 @@
+{
+  "id": "KLN_51M_1",
+  "route_id": 2007500,
+  "region": "KLN",
+  "route": "51M",
+  "route_seq": 1,
+  "from_tc": "麗晶花園",
+  "from_en": "Richland Gardens",
+  "to_tc": "九龍灣站(循環線)",
+  "to_en": "Kowloon Bay Station (Circular)"
+}

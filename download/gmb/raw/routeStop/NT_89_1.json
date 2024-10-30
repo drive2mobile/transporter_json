@@ -1,0 +1,45 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:05:08.356+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20015937,
+        "name_tc": "河背街, 近天佑小學",
+        "name_sc": "河背街, 近天佑小学",
+        "name_en": "Ho Pui Street, Near Mary Of Providence Primary School"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20015938,
+        "name_tc": "楊屋道, 近Jumbo iAdvantage",
+        "name_sc": "杨屋道, 近Jumbo iAdvantage",
+        "name_en": "Yeung Uk Road, Near Jumbo iAdvantage"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20015939,
+        "name_tc": "大窩口道, 近大窩口邨富強樓",
+        "name_sc": "大窝口道, 近大窝口邨富强楼",
+        "name_en": "Tai Wo Hau Road, Near Fu Keung House, Tai Wo Hau Estate"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20015940,
+        "name_tc": "大窩口道, 近大窩口邨富安樓",
+        "name_sc": "大窝口道, 近大窝口邨富安楼",
+        "name_en": "Tai Wo Hau Road, Near Fu On House, Tai Wo Hau Estate"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20015941,
+        "name_tc": "石頭街, 近大窩口邨富泰樓",
+        "name_sc": "石头街, 近大窝口邨富泰楼",
+        "name_en": "Shek Tau Street, Near Fu Tai House, Tai Wo Hau Estate"
+      }
+    ],
+    "data_timestamp": "2024-10-23T13:28:56.874+08:00"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "NT_611A_1",
+  "route_id": 2008597,
+  "region": "NT",
+  "route": "611A",
+  "route_seq": 1,
+  "from_tc": "元朗站",
+  "from_en": "Yuen Long Station",
+  "to_tc": "山貝路(循環線)",
+  "to_en": "Shan Pui Road (Circular)"
+}

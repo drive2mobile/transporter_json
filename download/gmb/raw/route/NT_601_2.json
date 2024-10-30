@@ -1,0 +1,11 @@
+{
+  "id": "NT_601_2",
+  "route_id": 2008685,
+  "region": "NT",
+  "route": "601",
+  "route_seq": 2,
+  "from_tc": "北圍村",
+  "from_en": "Pak Wai Tsuen",
+  "to_tc": "元朗 (鳳翔路)",
+  "to_en": "元朗 (凤翔路)"
+}

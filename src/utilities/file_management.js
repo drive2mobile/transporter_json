@@ -34,7 +34,7 @@ async function downloadJSONFile(url, filePath)
 
         await fs.writeFileSync(filePath, jsonString, { flag: 'w' });
         console.log('Downloaded and saved to:', filePath);
-    } 
+    }
     catch (error)
     {
         console.error('Error during download or write: ' + filePath);
@@ -49,7 +49,7 @@ async function returnJson(url)
         const jsonData = response.data;
 
         return jsonData;
-    } 
+    }
     catch (error)
     {
         console.error('Error during download or write: ' + filePath);
@@ -68,7 +68,7 @@ async function saveAndReturnJSONFile(url, filePath)
         console.log('Downloaded and saved to:', filePath);
 
         return jsonData;
-    } 
+    }
     catch (error)
     {
         console.error('Error during download or write: ' + filePath);
@@ -78,29 +78,17 @@ async function saveAndReturnJSONFile(url, filePath)
 
 async function loadJSONFromFile(filePath)
 {
-    return new Promise((resolve, reject) =>
+    try
     {
-        fs.readFile(filePath, 'utf-8', (error, fileData) =>
-        {
-            if (error)
-            {
-                console.error('Error loading JSON file:', error);
-                reject(error);
-                return;
-            }
-
-            try
-            {
-                const jsonData = JSON.parse(fileData);
-                resolve(jsonData);
-            } catch (parseError)
-            {
-                console.error('Error parsing JSON file:', parseError);
-                reject(parseError);
-            }
-        });
-    });
-};
+        const fileData = await fs.promises.readFile(filePath, 'utf-8');
+        return JSON.parse(fileData);
+    } 
+    catch (error)
+    {
+        console.error(error.message);
+        return null;
+    }
+}
 
 async function saveJSONToFile(filePath, data)
 {

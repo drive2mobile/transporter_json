@@ -1,0 +1,52 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:04:25.940+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20011698,
+        "name_tc": "落馬洲管制站",
+        "name_sc": "落马洲管制站",
+        "name_en": "Lok Ma Chau Control Point"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20012434,
+        "name_tc": "窩打老道, 近濤苑",
+        "name_sc": "窝打老道, 近涛苑",
+        "name_en": "Waterloo Road, near Casa Bella"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20000469,
+        "name_tc": "亞皆老街, 近太平道",
+        "name_sc": "亚皆老街, 近太平道",
+        "name_en": "Argyle Street, near Peace Avenue"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20000715,
+        "name_tc": "奶路臣街, 麥花臣遊樂場外",
+        "name_sc": "奶路臣街, 麦花臣游乐场外",
+        "name_en": "Nelson Street, outside Macpherson Playground"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20000717,
+        "name_tc": "洗衣街, 建煌華廈外",
+        "name_sc": "洗衣街, 建煌华厦外",
+        "name_en": "Sai Yee Street, outside Kin Wong Mansion"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20012427,
+        "name_tc": "西洋菜南街,近始創中心",
+        "name_sc": "西洋菜南街,近始创中心",
+        "name_en": "Sai Yeung Choi Street South, near Pioneer Centre"
+      }
+    ],
+    "data_timestamp": "2024-10-28T17:35:02.103+08:00"
+  }
+}

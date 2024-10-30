@@ -1,0 +1,94 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:02:28.701+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20019006,
+        "name_tc": "黃大仙公共小型巴士(專線)服務總站",
+        "name_sc": "黄大仙公共小型巴士(专线)服务总站",
+        "name_en": "Wong Tai Sin Public Light Bus (Scheduled) Service Terminus"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20000819,
+        "name_tc": "鳴鳳街, 伯德大廈對面",
+        "name_sc": "鸣凤街, 伯德大厦对面",
+        "name_en": "Ming Fung Street, opposite Peter's House"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20000603,
+        "name_tc": "鳴鳳街, 鳳凰大樓外",
+        "name_sc": "鸣凤街, 凤凰大楼外",
+        "name_en": "Ming Fung Street, outside Fung Wong Building"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20000820,
+        "name_tc": "雙鳳街, 聖文德書院外",
+        "name_sc": "双凤街, 圣文德书院外",
+        "name_en": "Sheung Fung Street, outside St. Bonaventure College"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20000821,
+        "name_tc": "雙鳳街, 慈樂邨樂誠樓對面",
+        "name_sc": "双凤街, 慈乐邨乐诚楼对面",
+        "name_en": "Sheung Fung Street, opposite Lok Shing House, Tsz Lok Estate"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20000604,
+        "name_tc": "雙鳳街, 慈樂邨樂祥樓外",
+        "name_sc": "双凤街, 慈乐邨乐祥楼外",
+        "name_en": "Sheung Fung Street, outside Lok Cheung House, Tsz Lok Estate"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20001045,
+        "name_tc": "慈雲山道, 德愛中學外",
+        "name_sc": "慈云山道, 德爱中学外",
+        "name_en": "Tsz Wan Shan Road, outside Tak Oi Secondary School"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20000607,
+        "name_tc": "毓華街, 近毓華里",
+        "name_sc": "毓华街, 近毓华里",
+        "name_en": "Yuk Wah Street, near Yuk Wah Crescent"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20000823,
+        "name_tc": "雙鳳街62號",
+        "name_sc": "双凤街62号",
+        "name_en": "No.62 Sheung Fung Street"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20000824,
+        "name_tc": "雙鳳街32-34號",
+        "name_sc": "双凤街32-34号",
+        "name_en": "No.32-34 Sheung Fung Street"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20006016,
+        "name_tc": "鳳德道, 消防局外",
+        "name_sc": "凤德道, 消防局外",
+        "name_en": "Fung Tak Road, outside Fire Station"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20019006,
+        "name_tc": "黃大仙公共小型巴士(專線)服務總站",
+        "name_sc": "黄大仙公共小型巴士(专线)服务总站",
+        "name_en": "Wong Tai Sin Public Light Bus (Scheduled) Service Terminus"
+      }
+    ],
+    "data_timestamp": "2024-09-18T02:35:13.519+08:00"
+  }
+}

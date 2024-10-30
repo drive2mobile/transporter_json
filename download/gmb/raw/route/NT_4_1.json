@@ -1,0 +1,11 @@
+{
+  "id": "NT_4_1",
+  "route_id": 2009018,
+  "region": "NT",
+  "route": "4",
+  "route_seq": 1,
+  "from_tc": "西貢",
+  "from_en": "Sai Kung",
+  "to_tc": "對面海",
+  "to_en": "Tui Min Hoi"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "NT_102_1",
+  "route_id": 2006804,
+  "region": "NT",
+  "route": "102",
+  "route_seq": 1,
+  "from_tc": "坑口站",
+  "from_en": "Hang Hau Station",
+  "to_tc": "新蒲崗",
+  "to_en": "San Po Kong"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "KLN_70_1",
+  "route_id": 2008850,
+  "region": "KLN",
+  "route": "70",
+  "route_seq": 1,
+  "from_tc": "鑽石山站公共運輸交匯處",
+  "from_en": "Diamond Hill Station Public Transport Interchange",
+  "to_tc": "大角咀(維港灣)",
+  "to_en": "Tai Kok Tsui (Island Harbourview)"
+}

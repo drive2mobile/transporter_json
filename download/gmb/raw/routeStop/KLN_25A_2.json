@@ -1,0 +1,66 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:02:19.233+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20014168,
+        "name_tc": "東頭邨(東隆道)小巴總站",
+        "name_sc": "东头村(东隆道)小巴总站 ",
+        "name_en": "Tung Tau Estate (Tung Lung Road) Minibus Terminus"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20014188,
+        "name_tc": "樂善道, 近東匯邨",
+        "name_sc": "乐善道, 近东汇村 ",
+        "name_en": "LOK SIN ROAD, near Tung Wui Estate"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20014189,
+        "name_tc": "沙浦道, 近豪門",
+        "name_sc": "沙浦道, 近豪门 ",
+        "name_en": "SA PO ROAD, near Le Billionnaire"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20014190,
+        "name_tc": "沙浦道, 近富豪東方酒店",
+        "name_sc": "沙浦道, 近富豪东方酒店 ",
+        "name_en": "SA PO ROAD, near Regal Oriental Hotel"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20014191,
+        "name_tc": "衙前圍道, 近南角道",
+        "name_sc": "衙前围道, 近南角道 ",
+        "name_en": "NGA TSIN WAI ROAD, near Nam Kok Road"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20014192,
+        "name_tc": "衙前圍道, 近恩賜樓",
+        "name_sc": "衙前围道, 近恩赐楼 ",
+        "name_en": "NGA TSIN WAI ROAD, near Grace Mansion"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20014193,
+        "name_tc": "蘭開夏道, 近聯嘉閣",
+        "name_sc": "兰开夏道, 近联嘉阁 ",
+        "name_en": "LANCASHIRE ROAD, near Lancas Court"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20003363,
+        "name_tc": "九龍塘(沙福道)公共運輸交匯處",
+        "name_sc": "九龙塘（沙福道）公共运输交汇处",
+        "name_en": "Kowloon Tong (Suffolk Road) Public Transport Interchange"
+      }
+    ],
+    "data_timestamp": "2024-10-22T14:59:34.130+08:00"
+  }
+}

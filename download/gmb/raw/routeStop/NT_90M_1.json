@@ -1,0 +1,122 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:05:11.926+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20015761,
+        "name_tc": "荔崗街, 近浩景臺第四座",
+        "name_sc": "荔岗街, 近浩景台第四座",
+        "name_en": "Lai Kong Street, near Highland Park Block 4"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20001427,
+        "name_tc": "荔景山路, 和景樓對面",
+        "name_sc": "荔景山路, 和景楼对面",
+        "name_en": "Lai King Hill Road, opposite Wo King House"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20015762,
+        "name_tc": "荔景山路, 近荔景邨日景樓",
+        "name_sc": "荔景山路, 近荔景村日景楼",
+        "name_en": "Lai King Hill Road, near Yat King House, Lai King Estate"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20001428,
+        "name_tc": "荔景山路, 賢麗苑購物中心對面",
+        "name_sc": "荔景山路, 贤丽苑购物中心对面",
+        "name_en": "Lai King Hill Road, opposite Yin Lai Court Shopping Centre"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20020128,
+        "name_tc": "葵涌荔景山路201號",
+        "name_sc": "葵涌荔景山路201号",
+        "name_en": "Lai King Hill Road outside House No. 201"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20001783,
+        "name_tc": "荔景山路, 近荔景社區會堂",
+        "name_sc": "荔景山路, 近荔景社区会堂",
+        "name_en": "Lai King Hill Road, near Lai King Community Hall"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20001837,
+        "name_tc": "荔景山路, 張玉瓊晨輝學校對面",
+        "name_sc": "荔景山路, 张玉琼晨辉学校对面",
+        "name_en": "Lai King Hill Road, opposite Winifred Mary Cheung Morninghope School"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20020129,
+        "name_tc": "荔灣道, 荔枝角公園體育館對面",
+        "name_sc": "荔湾道, 荔枝角公园体育馆对面",
+        "name_en": "Lai Wan Road, opposite to Lai Chi Kok Park Sports Centre"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20013663,
+        "name_tc": "美荔道, 美孚新邨近第6期",
+        "name_sc": "美荔道, 美孚新村近第6期",
+        "name_en": "Mei Lai Road, near Mei Foo Sun Chuen Phase 6"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20013693,
+        "name_tc": "美荔道, 近美孚巴士總站",
+        "name_sc": "美荔道, 近美孚巴士总站",
+        "name_en": "Mei Lai Road, near Mei Foo Bus Terminus"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20013694,
+        "name_tc": "荔灣道, 近荔枝角公園體育館",
+        "name_sc": "荔湾道, 近荔枝角公园体育馆",
+        "name_en": "Lai Wan Road, near Lai Chi Kok Park Sports Centre"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20015763,
+        "name_tc": "荔景山路, 近荔景邨安景樓（第６座）",
+        "name_sc": "荔景山路, 近荔景村安景楼（第６座）",
+        "name_en": "Lai King Hill Road, near On King House (Block 6), Lai King Estate"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20001418,
+        "name_tc": "荔景山路, 賢麗苑購物中心外",
+        "name_sc": "荔景山路, 贤丽苑购物中心外",
+        "name_en": "Lai King Hill Road, outside Yin Lai Court Shopping Centre"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20001803,
+        "name_tc": "荔景山路, 日景樓外",
+        "name_sc": "荔景山路, 日景楼外",
+        "name_en": "Lai King Hill Road, outside Yat King House"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20001804,
+        "name_tc": "荔景山路, 和景樓外",
+        "name_sc": "荔景山路, 和景楼外",
+        "name_en": "Lai King Hill Road, outside Wo King House"
+      },
+      {
+        "stop_seq": 16,
+        "stop_id": 20015761,
+        "name_tc": "荔崗街, 近浩景臺第四座",
+        "name_sc": "荔岗街, 近浩景台第四座",
+        "name_en": "Lai Kong Street, near Highland Park Block 4"
+      }
+    ],
+    "data_timestamp": "2024-10-30T11:55:43.673+08:00"
+  }
+}

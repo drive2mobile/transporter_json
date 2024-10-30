@@ -1,0 +1,11 @@
+{
+  "id": "NT_403X_1",
+  "route_id": 2001274,
+  "region": "NT",
+  "route": "403X",
+  "route_seq": 1,
+  "from_tc": "石蔭梨木道",
+  "from_en": "Shek Yam Lei Muk Road",
+  "to_tc": "大圍",
+  "to_en": "Tai Wai"
+}

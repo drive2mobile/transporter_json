@@ -1,0 +1,11 @@
+{
+  "id": "NT_23S_1",
+  "route_id": 2001360,
+  "region": "NT",
+  "route": "23S",
+  "route_seq": 1,
+  "from_tc": "大埔墟站專線小巴總站",
+  "from_en": "Tai Po Market",
+  "to_tc": "打鐵屻通路",
+  "to_en": "Ta Tit Yan"
+}

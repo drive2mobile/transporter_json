@@ -1,0 +1,101 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:02:45.792+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20019204,
+        "name_tc": "基督教聯合醫院小巴總站",
+        "name_sc": "基督教联合医院小巴总站",
+        "name_en": "United Christian Hospital Minibus Terminus"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20015069,
+        "name_tc": "秀雅道, 近秀雅道遊樂場",
+        "name_sc": "秀雅道, 近秀雅道游乐场",
+        "name_en": "SAU NGA ROAD, near  Sau Nga Road Playground"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20015070,
+        "name_tc": "曉光街, 近秀雅道遊樂場",
+        "name_sc": "晓光街, 近秀雅道游乐场",
+        "name_en": "HIU KWONG STREET, near SAU NGA ROAD PLAYGROUND"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20015071,
+        "name_tc": "曉光街, 近曉麗苑曉順閣",
+        "name_sc": "晓光街, 近晓丽苑晓顺阁",
+        "name_en": "HIU KWONG STREET, near Hiu Shun House, Hiu Lai Court"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20015072,
+        "name_tc": "曉光街, 近秀茂坪邨秀潤樓",
+        "name_sc": "晓光街, 近秀茂坪邨秀润楼",
+        "name_en": "HIU KWONG STREET, near Sau Yun House, SAU MAU PING ESTATE"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20015073,
+        "name_tc": "曉光街, 近觀塘官立小學（秀明道）",
+        "name_sc": "晓光街, 近观塘官立小学（秀明道）",
+        "name_en": "HIU KWONG STREET, near Kwun Tong Government Primary School (Sau Ming Road)"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20001020,
+        "name_tc": "曉光街, 秀茂坪南邨外",
+        "name_sc": "晓光街, 秀茂坪南村外 ",
+        "name_en": "Hiu Kwong Street, outside Sau Mau Ping South Estate"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20015074,
+        "name_tc": "啟田道, 近康逸苑康麗閣",
+        "name_sc": "启田道, 近康逸苑康丽阁",
+        "name_en": "KAI TIN ROAD, near Hong Lai House, HONG YAT COURT"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20015075,
+        "name_tc": "啟田道, 近啟田商場",
+        "name_sc": "启田道, 近启田商场",
+        "name_en": "KAI TIN ROAD, near Kai Tin Shopping Centre"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20015076,
+        "name_tc": "鯉魚門道, 近聖安當女書院",
+        "name_sc": "鲤鱼门道, 近圣安当女书院",
+        "name_en": "LEI YUE MUN ROAD, near St. Antonius Girls' College"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20015077,
+        "name_tc": "高超道, 近高俊苑俊滿閣",
+        "name_sc": "高超道, 近高俊苑俊满阁",
+        "name_en": "KO CHIU ROAD, near Chun Moon House, KO CHUN COURT"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20015078,
+        "name_tc": "高超道, 近高怡邨高盛樓",
+        "name_sc": "高超道, 近高怡邨高盛楼",
+        "name_en": "KO CHIU ROAD, near Ko Shing House,  KO YEE ESTATE"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20015079,
+        "name_tc": "大本型",
+        "name_sc": "大本型",
+        "name_en": "Domain"
+      }
+    ],
+    "data_timestamp": "2024-10-29T22:46:34.398+08:00"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:02:46.731+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20004190,
+        "name_tc": "大角咀(維港灣)公共運輸交匯處",
+        "name_sc": "大角咀(维港湾)公共运输交汇处",
+        "name_en": "Tai Kok Tsui (Island Harbourview) Public Transport Interchange"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20000905,
+        "name_tc": "海輝道小巴總站",
+        "name_sc": "海辉道小巴总站",
+        "name_en": "Hoi Fai Road GMB Terminus"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20006101,
+        "name_tc": "海泓道, 海富苑外",
+        "name_sc": "海泓道, 海富苑外",
+        "name_en": "Hoi Wang Road, outside Hoi Fu Court"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20004189,
+        "name_tc": "渡船街28號",
+        "name_sc": "渡船街28号",
+        "name_en": "Ferry Street House No. 28"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20006099,
+        "name_tc": "廣東道佐治五世紀念公園外",
+        "name_sc": "广东道佐治五世纪念公园外",
+        "name_en": "Canton Road outside Geroge V Memorial Park"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20002816,
+        "name_tc": "廣東道港景峰外",
+        "name_sc": "广东道港景峰外",
+        "name_en": "Canton Road outside Victoria Towers"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20006919,
+        "name_tc": "廣東道中港中心外",
+        "name_sc": "广东道中港中心外",
+        "name_en": "Canton Road outside China Hong Kong Centre"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20006105,
+        "name_tc": "北京道誠信大廈外",
+        "name_sc": "北京道诚信大厦外",
+        "name_en": "Peking Road outside Mary Building"
+      }
+    ],
+    "data_timestamp": "2024-10-25T14:48:35.507+08:00"
+  }
+}

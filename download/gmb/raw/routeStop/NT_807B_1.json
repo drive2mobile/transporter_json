@@ -1,0 +1,185 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:04:47.734+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20001231,
+        "name_tc": "海柏花園公共運輸交匯處",
+        "name_sc": "海柏花园公共运输交汇处",
+        "name_en": "Bayshore Towers Public Transport Interchange"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20002281,
+        "name_tc": "西沙路, 雅典居外 ",
+        "name_sc": "西沙路, 雅典居外",
+        "name_en": "Sai Sha Road, outside Villa Athena"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20002282,
+        "name_tc": "西沙路, 烏溪沙新村外",
+        "name_sc": "西沙路, 乌溪沙新村外",
+        "name_en": "Sai Sha Road, outside Wu Kai Sha New Village"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20008085,
+        "name_tc": "烏溪沙站巴士總站",
+        "name_sc": "乌溪沙站巴士总站",
+        "name_en": "Wu Kai Sha Station Bus Terminus"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20002283,
+        "name_tc": "西沙路, 帝琴灣凱弦居外",
+        "name_sc": "西沙路, 帝琴湾凯弦居外",
+        "name_en": "Sai Sha Road, outside Symphony Bay Villa Concerto"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20002285,
+        "name_tc": "西沙路近西澳",
+        "name_sc": "西沙路近西澳",
+        "name_en": "Sai Sha Road, near Sai O"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20005001,
+        "name_tc": "西沙路近泥涌",
+        "name_sc": "西沙路近泥涌",
+        "name_en": "Sai Sha Road, near Nai Chung"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20003420,
+        "name_tc": "西沙路近大洞",
+        "name_sc": "西沙路近大洞",
+        "name_en": "Sai Sha Road, near Tai Tung"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20005008,
+        "name_tc": "西沙路近西徑",
+        "name_sc": "西沙路近西径",
+        "name_en": "Sai Sha Road, near Sai Keng"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20005010,
+        "name_tc": "西沙路近企嶺下",
+        "name_sc": "西沙路近企岭下",
+        "name_en": "Sai Sha Road, near Kei Ling Ha"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20005012,
+        "name_tc": "西沙路近水浪窩",
+        "name_sc": "西沙路近水浪窝",
+        "name_en": "Sai Sha Road, near Shui Long Wo"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20005015,
+        "name_tc": "西沙路近澳頭",
+        "name_sc": "西沙路近澳头",
+        "name_en": "Sai Sha Road, near O Tau"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20003261,
+        "name_tc": "西沙路近黃竹灣",
+        "name_sc": "西沙路近黄竹湾",
+        "name_en": "Sai Sha Road, near Wong Chuk Wan"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20003164,
+        "name_tc": "西沙路近黃竹灣",
+        "name_sc": "西沙路近黄竹湾",
+        "name_en": "Sai Sha Road, near Wong Chuk Wan"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20005016,
+        "name_tc": "西沙路近澳頭",
+        "name_sc": "西沙路近澳头",
+        "name_en": "Sai Sha Road, near O Tau"
+      },
+      {
+        "stop_seq": 16,
+        "stop_id": 20007472,
+        "name_tc": "西沙路, 近澳頭新村",
+        "name_sc": "西沙路, 近澳头新村",
+        "name_en": "Sai Sha Road, near O Tau New Village"
+      },
+      {
+        "stop_seq": 17,
+        "stop_id": 20005013,
+        "name_tc": "西沙路近水浪窩",
+        "name_sc": "西沙路近水浪窝",
+        "name_en": "Sai Sha Road, near Shui Long Wo"
+      },
+      {
+        "stop_seq": 18,
+        "stop_id": 20005011,
+        "name_tc": "西沙路近企嶺下",
+        "name_sc": "西沙路近企岭下",
+        "name_en": "Sai Sha Road, near Kei Ling Ha"
+      },
+      {
+        "stop_seq": 19,
+        "stop_id": 20005009,
+        "name_tc": "西沙路近西徑",
+        "name_sc": "西沙路近西径",
+        "name_en": "Sai Sha Road, near Sai Keng"
+      },
+      {
+        "stop_seq": 20,
+        "stop_id": 20005003,
+        "name_tc": "西沙路近大洞",
+        "name_sc": "西沙路近大洞",
+        "name_en": "Sai Sha Road, near Tai Tung"
+      },
+      {
+        "stop_seq": 21,
+        "stop_id": 20005002,
+        "name_tc": "西沙路近泥涌",
+        "name_sc": "西沙路近泥涌",
+        "name_en": "Sai Sha Road, near Nai Chung"
+      },
+      {
+        "stop_seq": 22,
+        "stop_id": 20002285,
+        "name_tc": "西沙路近西澳",
+        "name_sc": "西沙路近西澳",
+        "name_en": "Sai Sha Road, near Sai O"
+      },
+      {
+        "stop_seq": 23,
+        "stop_id": 20008085,
+        "name_tc": "烏溪沙站巴士總站",
+        "name_sc": "乌溪沙站巴士总站",
+        "name_en": "Wu Kai Sha Station Bus Terminus"
+      },
+      {
+        "stop_seq": 24,
+        "stop_id": 20002250,
+        "name_tc": "西沙路南行線, 雅典居對面",
+        "name_sc": "西沙路南行线, 雅典居对面",
+        "name_en": "Sai Sha Road Southbound, opposite Villa Athena"
+      },
+      {
+        "stop_seq": 25,
+        "stop_id": 20001231,
+        "name_tc": "海柏花園巴士總站",
+        "name_sc": "海柏花園巴士總站",
+        "name_en": "Bayshore Towers Bus Terminus"
+      }
+    ],
+    "data_timestamp": "2024-06-17T16:49:39.185+08:00"
+  }
+}

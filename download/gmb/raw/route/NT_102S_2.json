@@ -1,0 +1,11 @@
+{
+  "id": "NT_102S_2",
+  "route_id": 2003900,
+  "region": "NT",
+  "route": "102S",
+  "route_seq": 2,
+  "from_tc": "新蒲崗",
+  "from_en": "SAN PO KONG",
+  "to_tc": "坑口站公共運輸交匯處",
+  "to_en": "Hang Hau Station Public Transport Interchange"
+}

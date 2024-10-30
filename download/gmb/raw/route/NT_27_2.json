@@ -1,0 +1,11 @@
+{
+  "id": "NT_27_2",
+  "route_id": 2007860,
+  "region": "NT",
+  "route": "27",
+  "route_seq": 2,
+  "from_tc": "沙田(排頭街)",
+  "from_en": "Sha Tin (Pai Tau Street)",
+  "to_tc": "香港科學園",
+  "to_en": "Hong Kong Science Park"
+}

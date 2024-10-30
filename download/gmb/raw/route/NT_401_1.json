@@ -1,0 +1,11 @@
+{
+  "id": "NT_401_1",
+  "route_id": 2003307,
+  "region": "NT",
+  "route": "401",
+  "route_seq": 1,
+  "from_tc": "長安巴士總站",
+  "from_en": "Cheung On Public Transport Terminus",
+  "to_tc": "石蔭",
+  "to_en": "Shek Yam"
+}

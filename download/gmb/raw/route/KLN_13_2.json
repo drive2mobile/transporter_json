@@ -1,0 +1,11 @@
+{
+  "id": "KLN_13_2",
+  "route_id": 2003571,
+  "region": "KLN",
+  "route": "13",
+  "route_seq": 2,
+  "from_tc": "紅磡(紅鸞道)",
+  "from_en": "Hung Hom (Hung Luen Road)",
+  "to_tc": "九龍塘(廣播道)",
+  "to_en": "Kowloon Tong (Broadcast Drive)"
+}

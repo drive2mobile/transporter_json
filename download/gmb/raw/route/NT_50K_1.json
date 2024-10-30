@@ -1,0 +1,11 @@
+{
+  "id": "NT_50K_1",
+  "route_id": 2005323,
+  "region": "NT",
+  "route": "50K",
+  "route_seq": 1,
+  "from_tc": "上水站",
+  "from_en": "Sheung Shui Station",
+  "to_tc": "坑頭",
+  "to_en": "Hang Tau"
+}

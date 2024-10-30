@@ -1,0 +1,11 @@
+{
+  "id": "NT_302_1",
+  "route_id": 2001891,
+  "region": "NT",
+  "route": "302",
+  "route_seq": 1,
+  "from_tc": "碧堤半島",
+  "from_en": "Bellagio",
+  "to_tc": "葵芳(循環線)",
+  "to_en": "Kwai Fong (Circular)"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "HKI_1_1",
+  "route_id": 2006408,
+  "region": "HKI",
+  "route": "1",
+  "route_seq": 1,
+  "from_tc": "山頂(公共交通總站)",
+  "from_en": "The Peak (Public Transport Terminus)",
+  "to_tc": "中環(香港站公共運輸交匯處)",
+  "to_en": "Central (Hong Kong Station Public Transport Interchange)"
+}

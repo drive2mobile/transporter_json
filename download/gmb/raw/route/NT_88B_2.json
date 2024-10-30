@@ -1,0 +1,11 @@
+{
+  "id": "NT_88B_2",
+  "route_id": 2005121,
+  "region": "NT",
+  "route": "88B",
+  "route_seq": 2,
+  "from_tc": "葵芳站",
+  "from_en": "Kwai Fong Station",
+  "to_tc": "翠怡花園",
+  "to_en": "Greenfield Garden"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "HKI_16A_2",
+  "route_id": 2002287,
+  "region": "HKI",
+  "route": "16A",
+  "route_seq": 2,
+  "from_tc": "舂坎角(慈氏護養院)",
+  "from_en": "Chung Hom Kok(Cheshire Home)",
+  "to_tc": "柴灣站",
+  "to_en": "Chai Wan Station"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "KLN_27M_2",
+  "route_id": 2000998,
+  "region": "KLN",
+  "route": "27M",
+  "route_seq": 2,
+  "from_tc": "旺角站",
+  "from_en": "Mong Kok Station",
+  "to_tc": "樂民新村(美善同道)",
+  "to_en": "Lok Man Sun Chuen (Maidstaone Road)"
+}

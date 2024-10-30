@@ -1,0 +1,11 @@
+{
+  "id": "NT_52B_1",
+  "route_id": 2006573,
+  "region": "NT",
+  "route": "52B",
+  "route_seq": 1,
+  "from_tc": "粉嶺站",
+  "from_en": "Fanling Station",
+  "to_tc": "鶴藪",
+  "to_en": "Hok Tau"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "NT_411_1",
+  "route_id": 2005847,
+  "region": "NT",
+  "route": "411",
+  "route_seq": 1,
+  "from_tc": "葵涌(荔崗街)",
+  "from_en": "Kwai Chung (Lai Kong Street)",
+  "to_tc": "深水埗(元州街)",
+  "to_en": "Sham Shui Po (Un Chau Street)"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "NT_11B_1",
+  "route_id": 2004828,
+  "region": "NT",
+  "route": "11B",
+  "route_seq": 1,
+  "from_tc": "香港科技大學(南站)",
+  "from_en": "Hong Kong University of Science and Technology (South Station)",
+  "to_tc": "彩虹站(龍翔道)",
+  "to_en": "Choi Hung Station (Lung Cheung Road)"
+}

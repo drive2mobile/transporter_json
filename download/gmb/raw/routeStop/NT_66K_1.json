@@ -1,0 +1,52 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:04:33.391+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20010695,
+        "name_tc": "沙田站",
+        "name_sc": "沙田站",
+        "name_en": "Sha Tin Station"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20017335,
+        "name_tc": "九肚山路, 近寶栢苑一期第１０座",
+        "name_sc": "九肚山路, 近宝栢苑一期第１０座",
+        "name_en": "Kau To Shan Road, Near Windsor Park Phase 1 Block 10"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20017336,
+        "name_tc": "馬樂徑, 近寶栢苑二期第２８座",
+        "name_sc": "马乐径, 近宝栢苑二期第２８座",
+        "name_en": "Ma Lok Path, Near Windsor Park Phase 2 Block 28"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20017337,
+        "name_tc": "馬鈴徑, 近駿發山莊第２５座",
+        "name_sc": "马铃径, 近骏发山庄第２５座",
+        "name_en": "Ma Ling Path, Near Shatin Knoll Block 25"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20017338,
+        "name_tc": "九肚山路, 近寶栢苑一期第１０座",
+        "name_sc": "九肚山路, 近宝栢苑一期第１０座",
+        "name_en": "Kau To Shan Road, Near Windsor Park Phase 1 Block 10"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20010695,
+        "name_tc": "沙田站",
+        "name_sc": "沙田站",
+        "name_en": "Sha Tin Station"
+      }
+    ],
+    "data_timestamp": "2023-09-10T00:00:48.348+08:00"
+  }
+}

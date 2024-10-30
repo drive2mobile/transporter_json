@@ -1,0 +1,150 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:02:21.171+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20000418,
+        "name_tc": "黃埔花園公共運輸交匯處",
+        "name_sc": "黄埔花园公共运输交汇处",
+        "name_en": "Whampoa Garden Public Transport Interchange"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20010063,
+        "name_tc": "紅樂道, 近海韻軒",
+        "name_sc": "红乐道, 近海韵轩",
+        "name_en": "Hung Lok Road, near Harbourview Horizon"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20006058,
+        "name_tc": "仁勇街, 近香港理工大學學生宿舍胡應湘樓",
+        "name_sc": "仁勇街, 近香港理工大学学生宿舍胡应湘楼",
+        "name_en": "Yan Yung Street, near The Hong Kong Polytechnic University Student Halls of Residence Sir Gordon Wu Wing"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20006074,
+        "name_tc": "紅磡南道, 近紅磡南道休憩花園",
+        "name_sc": "红磡南道, 近红磡南道休憩花园",
+        "name_en": "Hung Hom South Road, near Hung Hom South Road Rest Garden"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20000475,
+        "name_tc": "暢運道, 近紅磡站",
+        "name_sc": "畅运道, 近红磡站",
+        "name_en": "Cheong Wan Road, near Hung Hom Station"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20000685,
+        "name_tc": "柯士甸道, 近好兆年行",
+        "name_sc": "柯士甸道, 近好兆年行",
+        "name_en": "Austin Road, near Austin Tower"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20000478,
+        "name_tc": "柯士甸道, 近耀基大廈",
+        "name_sc": "柯士甸道, 近耀基大厦",
+        "name_en": "Austin Road, near Yiu Kei Mansion"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20000479,
+        "name_tc": "柯士甸道, 近龍堡國際",
+        "name_sc": "柯士甸道, 近龙堡国际",
+        "name_en": "Austin Road, near BP International House"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20010066,
+        "name_tc": "廣東道, 近港景峰",
+        "name_sc": "广东道, 近港景峰",
+        "name_en": "Canton Road, near The Victoria Tower"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20000446,
+        "name_tc": "廣東道, 近中港城第６座",
+        "name_sc": "广东道, 近中港城第６座",
+        "name_en": "Canton Road, near China Hong Kong City Tower 6"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20010067,
+        "name_tc": "柯士甸道西, 近西九龍站",
+        "name_sc": "柯士甸道西, 近西九龙站",
+        "name_en": "Austin Road West, near West Kowloon Station"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20009904,
+        "name_tc": "柯士甸道, 近創德樓",
+        "name_sc": "柯士甸道, 近创德楼",
+        "name_en": "Austin Road, near Chong Tak Building"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20000482,
+        "name_tc": "柯士甸道, 近幸運大廈",
+        "name_sc": "柯士甸道, 近幸运大厦",
+        "name_en": "Austin Road, near Lucky Building"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20000483,
+        "name_tc": "柯士甸道, 近德信學校",
+        "name_sc": "柯士甸道, 近德信学校",
+        "name_en": "Austin Road, near Tak Sun School"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20000484,
+        "name_tc": "柯士甸道, 近槍會山軍營第１４座",
+        "name_sc": "柯士甸道, 近枪会山军营第１４座",
+        "name_en": "Austin Road, near Gun Club Hill Barracks Block 14"
+      },
+      {
+        "stop_seq": 16,
+        "stop_id": 20010463,
+        "name_tc": "安運道, 近紅磡站",
+        "name_sc": "安运道, 近红磡站",
+        "name_en": "On Wan Road, near Hung Hom Station"
+      },
+      {
+        "stop_seq": 17,
+        "stop_id": 20000701,
+        "name_tc": "紅磡南道, 近紅磡灣中心",
+        "name_sc": "红磡南道, 近红磡湾中心",
+        "name_en": "Hung Hom South Road, near Hung Hong Court, near Hunghom Bay Centre"
+      },
+      {
+        "stop_seq": 18,
+        "stop_id": 20018247,
+        "name_tc": "紅磡道, 近民泰街",
+        "name_sc": "红磡道, 近民泰街",
+        "name_en": "Hung Hom Road, outside Man Tai Street"
+      },
+      {
+        "stop_seq": 19,
+        "stop_id": 20000681,
+        "name_tc": "海逸豪園公共交通總站",
+        "name_sc": "海逸豪园公共交通总站",
+        "name_en": "Laguna Verde Public Transport Terminus"
+      },
+      {
+        "stop_seq": 20,
+        "stop_id": 20000418,
+        "name_tc": "黃埔花園公共運輸交匯處",
+        "name_sc": "黄埔花园公共运输交汇处",
+        "name_en": "Whampoa Garden Public Transport Interchange"
+      }
+    ],
+    "data_timestamp": "2024-10-21T15:51:44.940+08:00"
+  }
+}

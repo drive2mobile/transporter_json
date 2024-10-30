@@ -1,0 +1,11 @@
+{
+  "id": "HKI_4B_1",
+  "route_id": 2004096,
+  "region": "HKI",
+  "route": "4B",
+  "route_seq": 1,
+  "from_tc": "香港仔(石排灣)",
+  "from_en": "Aberdeen (Shek Pai Wan)",
+  "to_tc": "灣仔(循環線)",
+  "to_en": "Wan Chai (Circular)"
+}

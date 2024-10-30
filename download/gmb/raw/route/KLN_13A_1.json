@@ -1,0 +1,11 @@
+{
+  "id": "KLN_13A_1",
+  "route_id": 2003606,
+  "region": "KLN",
+  "route": "13A",
+  "route_seq": 1,
+  "from_tc": "樂富",
+  "from_en": "Lok Fu",
+  "to_tc": "九龍塘(廣播道)",
+  "to_en": "Kowloon Tong (Broadcast Drive)"
+}

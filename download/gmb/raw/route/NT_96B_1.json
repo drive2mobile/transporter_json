@@ -1,0 +1,11 @@
+{
+  "id": "NT_96B_1",
+  "route_id": 2008062,
+  "region": "NT",
+  "route": "96B",
+  "route_seq": 1,
+  "from_tc": "麗城花園",
+  "from_en": "Belvedere Garden",
+  "to_tc": "荃灣站(循環線)",
+  "to_en": "Tsuen Wan Station(Circular)"
+}

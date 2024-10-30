@@ -1,0 +1,11 @@
+{
+  "id": "NT_402S_2",
+  "route_id": 2003306,
+  "region": "NT",
+  "route": "402S",
+  "route_seq": 2,
+  "from_tc": "荃灣(眾安街)",
+  "from_en": "Tsuen Wan (Chung On Street)",
+  "to_tc": "長亨",
+  "to_en": "Cheung Hang"
+}

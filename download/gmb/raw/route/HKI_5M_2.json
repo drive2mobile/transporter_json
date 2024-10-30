@@ -1,0 +1,11 @@
+{
+  "id": "HKI_5M_2",
+  "route_id": 2004077,
+  "region": "HKI",
+  "route": "5M",
+  "route_seq": 2,
+  "from_tc": "葛量洪醫院",
+  "from_en": "Grantham Hospital",
+  "to_tc": "黄竹坑站",
+  "to_en": "Wong Chuk Hang Station"
+}

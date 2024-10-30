@@ -1,0 +1,11 @@
+{
+  "id": "NT_403A_1",
+  "route_id": 2001271,
+  "region": "NT",
+  "route": "403A",
+  "route_seq": 1,
+  "from_tc": "石蔭商場",
+  "from_en": "Shek Yam Shopping Centre",
+  "to_tc": "沙田担杆莆街",
+  "to_en": "Sha Tin Tam Kon Po Street"
+}

@@ -1,0 +1,45 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:01:29.227+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20015508,
+        "name_tc": "惠風街, 近順利樓",
+        "name_sc": "惠风街, 近顺利楼",
+        "name_en": "Wai Fung Street, near Shun Lee Building"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20015509,
+        "name_tc": "鴨脷洲大街, 近高寶閣",
+        "name_sc": "鸭脷洲大街, 近高宝阁",
+        "name_en": "Main Street, Ap Lei Chau, near Coble Court"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20012881,
+        "name_tc": "香港仔海傍道, 近逸港居第三座",
+        "name_sc": "香港仔海傍道, 近逸港居第三座 ",
+        "name_en": "Aberdeen Praya Road, near Ocean Court Block 3"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20015510,
+        "name_tc": "香港仔海傍道, 近香港仔海濱公園",
+        "name_sc": "香港仔海傍道, 近香港仔海滨公园",
+        "name_en": "Aberdeen Praya Road, near Aberdeen Promenade"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20015511,
+        "name_tc": "西安街, 近利港中心",
+        "name_sc": "西安街, 近利港中心",
+        "name_en": "Sai On Street, near Port Centre"
+      }
+    ],
+    "data_timestamp": "2023-08-11T12:12:10.048+08:00"
+  }
+}

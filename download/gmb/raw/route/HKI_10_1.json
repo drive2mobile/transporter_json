@@ -1,0 +1,11 @@
+{
+  "id": "HKI_10_1",
+  "route_id": 2006706,
+  "region": "HKI",
+  "route": "10",
+  "route_seq": 1,
+  "from_tc": "銅鑼灣(謝斐道)",
+  "from_en": "Causeway Bay (Jaffe Road)",
+  "to_tc": "數碼港公共運輸交匯處",
+  "to_en": "Cyberport Public Transport Interchange"
+}

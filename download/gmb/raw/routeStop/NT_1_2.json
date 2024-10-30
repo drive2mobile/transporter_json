@@ -1,0 +1,38 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:03:00.911+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20001115,
+        "name_tc": "德福廣場2期地面",
+        "name_sc": "德福广场2期地面 ",
+        "name_en": "Telford Plaza Phase II, Ground Floor"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20001116,
+        "name_tc": "龍翔道, 近牛池灣消防局",
+        "name_sc": "龙翔道, 近牛池湾消防局",
+        "name_en": "Lung Cheung Road, near Ngau Chi Wan Fire Station"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20001999,
+        "name_tc": "井欄樹",
+        "name_sc": "井栏树",
+        "name_en": "Tseng Lan Shue"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20001112,
+        "name_tc": "福民路小巴總站, 經華樓外",
+        "name_sc": "福民路小巴总站, 经华楼外",
+        "name_en": "Fuk Man Road Public Light Bus Terminus, outside King Wah Building"
+      }
+    ],
+    "data_timestamp": "2024-10-22T14:54:39.439+08:00"
+  }
+}

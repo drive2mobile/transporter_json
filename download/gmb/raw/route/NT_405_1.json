@@ -1,0 +1,11 @@
+{
+  "id": "NT_405_1",
+  "route_id": 2001635,
+  "region": "NT",
+  "route": "405",
+  "route_seq": 1,
+  "from_tc": "長亨",
+  "from_en": "Cheung Hang",
+  "to_tc": "茘景南 (循環線)",
+  "to_en": "Lai King South (Circular)"
+}

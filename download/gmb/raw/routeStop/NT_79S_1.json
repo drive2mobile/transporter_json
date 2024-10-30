@@ -1,0 +1,157 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:04:42.292+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20015587,
+        "name_tc": "天水圍北(俊宏軒)小巴總站",
+        "name_sc": "天水围北(俊宏轩)小巴总站",
+        "name_en": "Tin Shiu Wai North (Grandeur Terrace) Minibus Terminus"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20015459,
+        "name_tc": "天瑞路, 近天逸邨逸潭樓",
+        "name_sc": "天瑞路, 近天逸村逸潭楼",
+        "name_en": "Tin Shui Road, near Yat Tam House, Tin Yat Estate"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20015588,
+        "name_tc": "天秀路, 近東華三院天秀墟",
+        "name_sc": "天秀路, 近东华三院天秀墟",
+        "name_en": "Tin Sau Road, near Tung Wah Group Of Hospitals Tin Sau Bazaar"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20015589,
+        "name_tc": "天秀路, 天晴邨晴碧樓對面",
+        "name_sc": "天秀路, 天晴村晴碧楼对面",
+        "name_en": "Tin Sau Road, opp. Ching Pik House, Tin Ching Estate"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20015448,
+        "name_tc": "天葵路, 近香港青年協會李兆基書院",
+        "name_sc": "天葵路, 近香港青年协会李兆基书院",
+        "name_en": "Tin Kwai Road, near HKFYG Lee Shau Kee College"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20015449,
+        "name_tc": "天葵路, 近嘉湖山莊美湖居激活幼稚園",
+        "name_sc": "天葵路, 近嘉湖山庄美湖居激活幼稚园",
+        "name_en": "Tin Kwai Road, near Gigamind Kindergarten and Children's House, Maywood Court, Kingswood Villas"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20015590,
+        "name_tc": "天葵路, 近龍園",
+        "name_sc": "天葵路, 近龙园",
+        "name_en": "Tin Kwai Road, near Dragon Park"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20015591,
+        "name_tc": "嘉恩街, 近天水圍公園",
+        "name_sc": "嘉恩街, 近天水围公园",
+        "name_en": "Ka Yan Street, near Tin Shui Wai Park"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20015451,
+        "name_tc": "天華路, 近天頌苑頌棋閣",
+        "name_sc": "天华路, 近天颂苑颂棋阁",
+        "name_en": "Tin Wah Road, near Chung Ki House, Tin Chung Court"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20001599,
+        "name_tc": "天瑞路, 天瑞商場對面",
+        "name_sc": "天瑞路, 天瑞商场对面",
+        "name_en": "Tin Shui Road, opposite Tin Shui Commercial Complex"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20001600,
+        "name_tc": "天瑞路, 天水圍公園外",
+        "name_sc": "天瑞路, 天水围公园外",
+        "name_en": "Tin Shui Road, outside Tin Shui Wai Park"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20001601,
+        "name_tc": "天湖路, 耀盛樓外",
+        "name_sc": "天湖路, 耀盛楼外",
+        "name_en": "Tin Wu Road, outside Yiu Shing House"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20002749,
+        "name_tc": "天耀路, 耀民樓外",
+        "name_sc": "天耀路, 耀民楼外",
+        "name_en": "Tin Yiu Road, outside Yiu Man House"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20015592,
+        "name_tc": "天福路, 近天耀邨耀逸樓",
+        "name_sc": "天福路, 近天耀村耀逸楼",
+        "name_en": "Tin Fuk Road, near Yiu Yat House, Tin Yiu Estate"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20015593,
+        "name_tc": "朗屏邨巴士總站",
+        "name_sc": "朗屏村巴士总站",
+        "name_en": "Long Ping Estate Bus Terminus"
+      },
+      {
+        "stop_seq": 16,
+        "stop_id": 20015594,
+        "name_tc": "元朗安寧路, 近香港盲人輔導會賽馬會欣康樓",
+        "name_sc": "元朗安宁路, 近香港盲人辅导会赛马会欣康楼",
+        "name_en": "Yuen Long On Ning Road, near The Hong Kong Society For The Blind Jockey Club Yan Hong Building"
+      },
+      {
+        "stop_seq": 17,
+        "stop_id": 20015595,
+        "name_tc": "青山公路－元朗段, 近喜利大廈",
+        "name_sc": "青山公路－元朗段, 近喜利大厦",
+        "name_en": "Castle Peak Road - Yuen Long, near Healey Building"
+      },
+      {
+        "stop_seq": 18,
+        "stop_id": 20015410,
+        "name_tc": "青山公路－元朗段, 近金豪大廈",
+        "name_sc": "青山公路－元朗段, 近金豪大厦",
+        "name_en": "Castle Peak Road - Yuen Long, near Golden Hall Building"
+      },
+      {
+        "stop_seq": 19,
+        "stop_id": 20001282,
+        "name_tc": "元朗站(北)公共運輸交匯處",
+        "name_sc": "元朗站(北)公共运输交汇处",
+        "name_en": "Yuen Long Station (North) Public Transport Interchange"
+      },
+      {
+        "stop_seq": 20,
+        "stop_id": 20015596,
+        "name_tc": "朗日路, 近元朗站",
+        "name_sc": "朗日路, 近元朗站",
+        "name_en": "Long Yat Road, near Yuen Long Station"
+      },
+      {
+        "stop_seq": 21,
+        "stop_id": 20015598,
+        "name_tc": "落馬洲管制站",
+        "name_sc": "落马洲管制站",
+        "name_en": "Lok Ma Chau Control Point"
+      }
+    ],
+    "data_timestamp": "2024-10-25T16:52:13.426+08:00"
+  }
+}

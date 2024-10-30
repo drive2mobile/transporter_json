@@ -1,0 +1,66 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:02:25.287+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20000409,
+        "name_tc": "快富街近西洋菜南街",
+        "name_sc": "快富街近西洋菜南街",
+        "name_en": "Fife Street near Sai Yeung Choi Street South"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20003094,
+        "name_tc": "洗衣街153號",
+        "name_sc": "洗衣街153号",
+        "name_en": "No.153 Sai Yee Street"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20006961,
+        "name_tc": "洗衣街177號",
+        "name_sc": "洗衣街177号",
+        "name_en": "No.177 Sai Yee Street"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20020030,
+        "name_tc": "太子道/水渠道公園",
+        "name_sc": "太子道/水渠道公园",
+        "name_en": "Prince Edward Road/Nullah Road Garden"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20000749,
+        "name_tc": "運動場道近太子港鐵站D出口",
+        "name_sc": "运动场道近太子港铁站D出口",
+        "name_en": "Playing Field Road near Prince Edward MTR Station Exit D"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20006915,
+        "name_tc": "巴域街, 石硤尾街市外",
+        "name_sc": "巴域街, 石硖尾街市外",
+        "name_en": "Nam Cheong Street, outside Public Health Laboratory Centre"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20000752,
+        "name_tc": "南昌街, 石硤尾消防局對面",
+        "name_sc": "南昌街, 石硖尾消防局对面",
+        "name_en": "Nam Cheong Street, opposite Shek Kip Mei Fire Station"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20000745,
+        "name_tc": "澤安道, 澤安邨富澤樓外",
+        "name_sc": "泽安道, 泽安邨富泽楼外",
+        "name_en": "Chak On Road, outside Fu Chak House, Chak On Estate"
+      }
+    ],
+    "data_timestamp": "2024-10-28T17:29:08.605+08:00"
+  }
+}

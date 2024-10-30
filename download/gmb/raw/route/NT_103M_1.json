@@ -1,0 +1,11 @@
+{
+  "id": "NT_103M_1",
+  "route_id": 2007201,
+  "region": "NT",
+  "route": "103M",
+  "route_seq": 1,
+  "from_tc": "將軍澳站公共運輸交匯處",
+  "from_en": "Tseung Kwan O Station Public Transport Interchange",
+  "to_tc": "清水灣",
+  "to_en": "Clear Water Bay"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "HKI_40X_2",
+  "route_id": 2001265,
+  "region": "HKI",
+  "route": "40X",
+  "route_seq": 2,
+  "from_tc": "渣甸街",
+  "from_en": "Jardine's Bazaar",
+  "to_tc": "赤柱監獄",
+  "to_en": "Stanley Prison"
+}

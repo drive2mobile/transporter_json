@@ -1,0 +1,11 @@
+{
+  "id": "NT_42_1",
+  "route_id": 2001012,
+  "region": "NT",
+  "route": "42",
+  "route_seq": 1,
+  "from_tc": "青磚圍",
+  "from_en": "Tsing Chuen Wai",
+  "to_tc": "屯門市中心(循環線)",
+  "to_en": "Tuen Mun Town Centre(Circular)"
+}

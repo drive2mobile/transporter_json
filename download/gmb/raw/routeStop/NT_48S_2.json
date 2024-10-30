@@ -1,0 +1,94 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:03:59.362+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20017029,
+        "name_tc": "弼街, 近旺角機樓",
+        "name_sc": "弼街, 近旺角机楼",
+        "name_en": "Bute Street, Near Mongkok Exchange"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20017041,
+        "name_tc": "屯門市中心巴士總站",
+        "name_sc": "屯门市中心巴士总站",
+        "name_en": "Tuen Mun Town Centre Bus Terminus"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20017042,
+        "name_tc": "屯門鄉事會路, 近安定邨愛定商場",
+        "name_sc": "屯门乡事会路, 近安定村爱定商场",
+        "name_en": "Tuen Mun Heung Sze Wui Road, Near H.A.N.D.S Shopping Centre, On Ting Estate"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20017043,
+        "name_tc": "屯門鄉事會路, 近博愛醫院屯門護養院",
+        "name_sc": "屯门乡事会路, 近博爱医院屯门护养院",
+        "name_en": "Tuen Mun Heung Sze Wui Road, Near Pok Oi Hospital Tuen Mun Nursing Home"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20017044,
+        "name_tc": "海珠路, 近豐景園",
+        "name_sc": "海珠路, 近丰景园",
+        "name_en": "Hoi Chu Road, Near Goodview Garden"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20017045,
+        "name_tc": "湖景路, 近兆禧苑兆禧商場",
+        "name_sc": "湖景路, 近兆禧苑兆禧商场",
+        "name_en": "Wu King Road, Near Siu Hei Court Commercial Centre"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20001378,
+        "name_tc": "湖翠路, 近美樂花園十座",
+        "name_sc": "湖翠路, 近美乐花园十座",
+        "name_en": "Wu Chui Road, Near Melody Garden Block 10"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20017046,
+        "name_tc": "龍門路, 近蝴蝶邨",
+        "name_sc": "龙门路, 近蝴蝶村",
+        "name_en": "Lung Mun Road, Near Butterfly Estate"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20001379,
+        "name_tc": "龍門路, 近港鐵屯門車廠屯門巴士維修中心",
+        "name_sc": "龙门路, 近港铁屯门车厂屯门巴士维修中心",
+        "name_en": "Lung Mun Road, Near Tuen Mun Bus Maintenance Centre, MTR Tuen Mun Depot"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20017047,
+        "name_tc": "龍富路, 近歷奇公園",
+        "name_sc": "龙富路, 近历奇公园",
+        "name_en": "Lung Fu Road, Near Adventure Park"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20001324,
+        "name_tc": "震寰路, 大興邨興偉樓外",
+        "name_sc": "震寰路, 大兴邨兴伟楼外",
+        "name_en": "Tsun Wen Road, Outside Hing Wai House Of Tai Hing Estate"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20017026,
+        "name_tc": "良景邨 良景廣場",
+        "name_sc": "良景村 良景广场",
+        "name_en": "Leung King Plaza, Leung King Estate"
+      }
+    ],
+    "data_timestamp": "2024-10-16T17:02:28.677+08:00"
+  }
+}

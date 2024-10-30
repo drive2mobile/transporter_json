@@ -1,0 +1,11 @@
+{
+  "id": "NT_901_1",
+  "route_id": 2000987,
+  "region": "NT",
+  "route": "901",
+  "route_seq": 1,
+  "from_tc": "港珠澳大橋香港口岸",
+  "from_en": "Ground Floor, HZMB Hong Kong Port",
+  "to_tc": "東涌北(循環線)",
+  "to_en": "Tung Chung North (Circular Route)"
+}

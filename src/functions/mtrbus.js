@@ -12,8 +12,8 @@ async function parseJsonMtrBus()
     const readFilePath = './download/mtrbus/raw/routeStop/routeStopList.json';
     const routeStopListJson = await loadJSONFromFile(readFilePath);
     
+    // Prepare data for parsing route list and route stop list
     var routeStopListMap = {};
-
     for(var i=0 ; i<routeStopListJson.length ; i++)
     {
         const currItem = routeStopListJson[i];
@@ -28,6 +28,7 @@ async function parseJsonMtrBus()
         }
     }
 
+    // Parse route list
     var newRouteList = []
     for (const key in routeStopListMap)
     {
@@ -52,6 +53,7 @@ async function parseJsonMtrBus()
     const filePath = `./download/mtrbus/output/routeList_mtrbus.json`;
     await saveJSONToFile(filePath, newRouteList);
 
+    // Parse route stop list
     var newRouteStopList = {}
     for (const key in routeStopListMap)
     {

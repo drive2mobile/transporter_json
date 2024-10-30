@@ -1,0 +1,11 @@
+{
+  "id": "KLN_25M_1",
+  "route_id": 2006111,
+  "region": "KLN",
+  "route": "25M",
+  "route_seq": 1,
+  "from_tc": "九龍塘(沙福道)公共交通交匯處",
+  "from_en": "Kowloon Tong (Suffolk Road) Public Transport Interchange",
+  "to_tc": "喇沙利道",
+  "to_en": "LA SALLE ROAD"
+}

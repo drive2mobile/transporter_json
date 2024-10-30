@@ -1,0 +1,11 @@
+{
+  "id": "NT_807C_2",
+  "route_id": 2001232,
+  "region": "NT",
+  "route": "807C",
+  "route_seq": 2,
+  "from_tc": "港鐵大學站巴士總站",
+  "from_en": "University Station Bus Terminus",
+  "to_tc": "馬鞍山站",
+  "to_en": "Ma On Shan Station"
+}

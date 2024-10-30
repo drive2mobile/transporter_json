@@ -1,0 +1,80 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:04:32.377+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20001544,
+        "name_tc": "黃泥頭巴士總站",
+        "name_sc": "黄泥头巴士总站",
+        "name_en": "Wong Nai Tau Bus Terminus"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20001545,
+        "name_tc": "小瀝源路, 廣源邨停車場外",
+        "name_sc": "小沥源路, 广源邨停车场外",
+        "name_en": "Siu Lek Yuen Road, outside Kwong Yuen Estate Carpark"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20017323,
+        "name_tc": "牛皮沙街, 近愉翠苑愉勤閣",
+        "name_sc": "牛皮沙街, 近愉翠苑愉勤阁",
+        "name_en": "Ngau Pei Sha Street, Near Yu Kan House, Yu Chui Court"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20017324,
+        "name_tc": "小瀝源路, 近沙田第一城第二十五座",
+        "name_sc": "小沥源路, 近沙田第一城第二十五座",
+        "name_en": "Siu Lek Yuen Road, Near City One Shatin Block 25"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20001505,
+        "name_tc": "㘭背灣街, 近金豪工業大廈金豪工業大厦第二座",
+        "name_sc": "㘭背湾街, 近金豪工业大厦金豪工业大厦第二座",
+        "name_en": "Au Pui Wan Street, Near Kin Ho Industrial Building Block 2"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20017325,
+        "name_tc": "港鐵火炭站巴士總站",
+        "name_sc": "港铁火炭站巴士总站",
+        "name_en": "Fo Tan MTR Station Bus Terminus"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20006610,
+        "name_tc": "小瀝源路, 小瀝源路遊樂場外",
+        "name_sc": "小沥源路, 小沥源路游乐场外",
+        "name_en": "Siu Lek Yuen Road, Outside Siu Lek Yuen Road Playground"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20001550,
+        "name_tc": "牛皮沙街, 愉翠苑對面",
+        "name_sc": "牛皮沙街, 愉翠苑对面",
+        "name_en": "Ngau Pei Sha Street, Opposite Yu Chui Court"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20001551,
+        "name_tc": "小瀝源路, 帝堡城外",
+        "name_sc": "小沥源路, 帝堡城外",
+        "name_en": "Siu Lei Yuen Road, Outside Castello"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20001544,
+        "name_tc": "黃泥頭巴士總站",
+        "name_sc": "黄泥头巴士总站",
+        "name_en": "Wong Nai Tau Bus Terminus"
+      }
+    ],
+    "data_timestamp": "2024-07-31T17:03:19.242+08:00"
+  }
+}

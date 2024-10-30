@@ -1,0 +1,129 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:03:45.227+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20002663,
+        "name_tc": "梨木道寧峰苑對出的停車灣",
+        "name_sc": "梨木道宁峰苑对出的停车湾",
+        "name_en": "Layby on Lei Muk Road outside Ning Fung Court"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20001671,
+        "name_tc": "大白田街近石蔭東邨蔭恆樓的巴士停車灣",
+        "name_sc": "大白田街近石荫东邨荫恒楼的巴士停车湾",
+        "name_en": "Bus Bay on Tai Pak Tin Street near Yam Heng House of Shek Yam East Estate"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20002125,
+        "name_tc": "安蔭邨巴士總站",
+        "name_sc": "安荫邨巴士总站",
+        "name_en": "On Yam Estate Bus Terminus"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20008090,
+        "name_tc": "石排街近安足街的停車灣",
+        "name_sc": "石排街近安足街的停车湾",
+        "name_en": "Layby on Shek Pai Street near On Chuk Street"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20001675,
+        "name_tc": "梨貝街巴士總站",
+        "name_sc": "梨贝街巴士总站",
+        "name_en": "Lei Pui Street Bus Terminus"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20001676,
+        "name_tc": "梨貝街近石籬(二)邨石佳樓",
+        "name_sc": "梨贝街近石篱(二)邨石佳楼",
+        "name_en": "Lei Pui Street near Shek Kai House of Shek Lei (II) Estate"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20002116,
+        "name_tc": "大隴街, 石籬商場外",
+        "name_sc": "大陇街, 石篱商场外",
+        "name_en": "Tai Loong Street, outside Shek Lei Shopping Centre"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20001655,
+        "name_tc": "和宜合道33號",
+        "name_sc": "和宜合道33号",
+        "name_en": "No. 33 Wo Yi Hop Road"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20008050,
+        "name_tc": "和宜合道109-115號",
+        "name_sc": "和宜合道109-115号",
+        "name_en": "No. 109-115 Wo Yi Hop Road"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20001679,
+        "name_tc": "和宜合道143號",
+        "name_sc": "和宜合道143号",
+        "name_en": "No.143 Wo Yi Hop Road"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20001680,
+        "name_tc": "和宜合道157號, 勝利工業大廈外",
+        "name_sc": "和宜合道157号, 胜利工业大厦外",
+        "name_en": "Wo Yi Hop Road No. 157, outside Victory Industrial Building"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20001861,
+        "name_tc": "和宜合道, 和宜合道運動場對面",
+        "name_sc": "和宜合道, 和宜合道运动场对面",
+        "name_en": "Wo Yi Hop Road, opposite Wo Yi Hop Road Sports Ground"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20001862,
+        "name_tc": "和宜合道近梨樹路的巴士停車灣",
+        "name_sc": "和宜合道近梨树路的巴士停车湾",
+        "name_en": "Bus bay on Wo Yi Hop Road near Lei Shu Road"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20001864,
+        "name_tc": "和宜合道, 梨木樹邨竹樹樓外",
+        "name_sc": "和宜合道, 梨木树邨竹树楼外",
+        "name_en": "Wo Yip Hop Road outside Chuk Shue House of Lei Muk Shue Estate"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20002180,
+        "name_tc": "大圍道1號",
+        "name_sc": "大围道1号",
+        "name_en": "No. 1 Tai Wai Road, Sui Wo Study Centre"
+      },
+      {
+        "stop_seq": 16,
+        "stop_id": 20003167,
+        "name_tc": "美田路大圍街市外的巴士停車灣",
+        "name_sc": "美田路大围街市外的巴士停车湾",
+        "name_en": "Bus Bay outside Tai Wai Market, Mei Tin Road"
+      },
+      {
+        "stop_seq": 17,
+        "stop_id": 20001573,
+        "name_tc": "港鐵大圍站公共運輸交匯處",
+        "name_sc": "港铁大围站公共运输交汇处",
+        "name_en": "Tai Wai Station Bus Terminus"
+      }
+    ],
+    "data_timestamp": "2024-10-20T00:00:36.186+08:00"
+  }
+}

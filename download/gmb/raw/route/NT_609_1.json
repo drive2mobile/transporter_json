@@ -1,0 +1,11 @@
+{
+  "id": "NT_609_1",
+  "route_id": 2001196,
+  "region": "NT",
+  "route": "609",
+  "route_seq": 1,
+  "from_tc": "元朗大球場",
+  "from_en": "Yuen Long Stadium",
+  "to_tc": "博愛醫院(循環線)",
+  "to_en": "Pok Oi Hospital (Circular)"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:15:41.492+08:00",
+  "data": {
+    "coordinates": {
+      "wgs84": {
+        "latitude": 22.37495515936712,
+        "longitude": 114.26174461841585
+      },
+      "hk80": {
+        "latitude": 826198.3596809772,
+        "longitude": 845008.6662494984
+      }
+    },
+    "enabled": true,
+    "remarks_tc": null,
+    "remarks_sc": null,
+    "remarks_en": null,
+    "data_timestamp": "2022-11-13T00:00:24.913+08:00"
+  }
+}

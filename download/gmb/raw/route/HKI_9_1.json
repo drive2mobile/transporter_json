@@ -1,0 +1,11 @@
+{
+  "id": "HKI_9_1",
+  "route_id": 2002283,
+  "region": "HKI",
+  "route": "9",
+  "route_seq": 1,
+  "from_tc": "中環(交易廣場)",
+  "from_en": "Central (Exchange Square)",
+  "to_tc": "寶雲道(循環線)",
+  "to_en": "Bowen Road (Circular)"
+}

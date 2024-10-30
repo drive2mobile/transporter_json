@@ -1,0 +1,122 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:03:01.856+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20001963,
+        "name_tc": "康強街, 近康強大樓",
+        "name_sc": "康强街, 近康强大楼",
+        "name_en": "HONG KEUNG STREET, near Hong Keung House "
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20001964,
+        "name_tc": "太子道東, 近泰景工業大樓",
+        "name_sc": "太子道东, 近泰景工业大楼",
+        "name_en": "PRINCE EDWARD ROAD EAST, near Tai King Industrial Building"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20010579,
+        "name_tc": "太子道東, 近采頤花園第七座",
+        "name_sc": "太子道东, 近采颐花园第七座",
+        "name_en": "PRINCE EDWARD ROAD EAST, near Rhythm Garden Block 7"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20000923,
+        "name_tc": "太子道東, 近彩虹邨紫薇樓",
+        "name_sc": "太子道东, 近彩虹邨紫薇楼",
+        "name_en": "Prince Edward Road East, near Chi Mei House, Choi Hung Estate"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20001058,
+        "name_tc": "彩石里, 近聖若瑟英文小學",
+        "name_sc": "彩石里, 近圣若瑟英文小学",
+        "name_en": "Choi Shek Lane, near St. Joseph's Anglo-Chinese Primary School"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20001966,
+        "name_tc": "觀塘道, 近德福花園Ｔ１座",
+        "name_sc": "观塘道, 近德福花园Ｔ１座",
+        "name_en": "KWUN TONG ROAD, near Telford Gardens Block T1"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20001060,
+        "name_tc": "觀塘道, 近牛頭角下邨貴亮樓",
+        "name_sc": "观塘道, 近牛头角下村贵亮楼",
+        "name_en": "KWUN TONG ROAD, near Kwai Leung House, LOWER NGAU TAU KOK ESTATE"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20001968,
+        "name_tc": "觀塘道, 近德明樓",
+        "name_sc": "观塘道, 近德明楼",
+        "name_en": "KWUN TONG ROAD, near Tak Ming Building"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20001969,
+        "name_tc": "觀塘道, 近安祥大樓",
+        "name_sc": "观塘道, 近安祥大楼",
+        "name_en": "KWUN TONG ROAD, near On Cheung House"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20014915,
+        "name_tc": "觀塘道, 近牛頭角站",
+        "name_sc": "观塘道, 近牛头角站",
+        "name_en": "KWUN TONG ROAD, near Ngau Tau Kok Station"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20001970,
+        "name_tc": "觀塘道, 近裕民中心第二座",
+        "name_sc": "观塘道, 近裕民中心第二座",
+        "name_en": "KWUN TONG ROAD, near Yue Man Centre Block 2"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20001972,
+        "name_tc": "鯉魚門道, 近觀塘游泳池",
+        "name_sc": "鲤鱼门道, 近观塘游泳池",
+        "name_en": "LEI YUE MUN ROAD, near Kwun Tong Swimming Pool"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20010574,
+        "name_tc": "將軍澳道, 近觀塘遊樂場",
+        "name_sc": "将军澳道, 近观塘游乐场",
+        "name_en": "TSEUNG KWAN O ROAD, near Kwun Tong Recreation Ground"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20001973,
+        "name_tc": "寶順路近, 景林邨景榕樓",
+        "name_sc": "宝顺路近, 景林村景榕楼",
+        "name_en": "PO SHUN ROAD, near King Yung House, KING LAM ESTATE"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20002563,
+        "name_tc": "重華路, 近厚德邨TKO Gateway",
+        "name_sc": "重华路, 近厚德村TKO Gateway",
+        "name_en": "CHUNG WA ROAD, near TKO Gateway, HAU TAK ESTATE"
+      },
+      {
+        "stop_seq": 16,
+        "stop_id": 20002597,
+        "name_tc": "坑口站公共運輸交匯處",
+        "name_sc": "坑口站公共运输交汇处",
+        "name_en": "Hang Hau Station Public Transport Interchange"
+      }
+    ],
+    "data_timestamp": "2024-09-10T18:26:28.078+08:00"
+  }
+}

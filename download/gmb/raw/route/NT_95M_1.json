@@ -1,0 +1,11 @@
+{
+  "id": "NT_95M_1",
+  "route_id": 2008058,
+  "region": "NT",
+  "route": "95M",
+  "route_seq": 1,
+  "from_tc": "荃灣站",
+  "from_en": "Tsuen Wan Station",
+  "to_tc": "荃灣中心",
+  "to_en": "Tsuen Wan Centre"
+}

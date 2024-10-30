@@ -1,0 +1,45 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:03:53.341+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20007473,
+        "name_tc": "鳴琴路, 寶田商場外",
+        "name_sc": "鸣琴路, 宝田商场外",
+        "name_en": "Ming Kum Road, outside Po Tin Shopping Centre"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20010690,
+        "name_tc": "震寰路, 大興分區警署外",
+        "name_sc": "震寰路, 大兴分区警署外",
+        "name_en": "Tsun Wen Road, outside Tai Hing Divisional Police Station"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20001342,
+        "name_tc": "青麟路, 麒麟輕鐵站外",
+        "name_sc": "青麟路, 麒麟轻铁站外",
+        "name_en": "Tsing Lun Road, outside Kei Lun Light Rail Station"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20010773,
+        "name_tc": "青麟路, 兆康苑兆基閣對面",
+        "name_sc": "青麟路, 兆康苑兆基阁对面",
+        "name_en": "Tsing Lun Road, opposite Siu Kei House, Siu Hong Court"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20001384,
+        "name_tc": "上水站小巴總站",
+        "name_sc": "上水站小巴总站",
+        "name_en": "Sheung Shui Station Public Light Bus Terminus"
+      }
+    ],
+    "data_timestamp": "2024-10-29T22:27:56.717+08:00"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "KLN_72_2",
+  "route_id": 2005880,
+  "region": "KLN",
+  "route": "72",
+  "route_seq": 2,
+  "from_tc": "又一城公共交通總站",
+  "from_en": "Festival Walk Public Transport Terminus",
+  "to_tc": "宏景花園",
+  "to_en": "Grand View Garden"
+}

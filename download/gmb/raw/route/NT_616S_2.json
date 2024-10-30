@@ -1,0 +1,11 @@
+{
+  "id": "NT_616S_2",
+  "route_id": 2004762,
+  "region": "NT",
+  "route": "616S",
+  "route_seq": 2,
+  "from_tc": "落馬洲管制站",
+  "from_en": "Lok Ma Chau Control Point",
+  "to_tc": "旺角",
+  "to_en": "Mong Kok"
+}

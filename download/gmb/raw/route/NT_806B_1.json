@@ -1,0 +1,11 @@
+{
+  "id": "NT_806B_1",
+  "route_id": 2001823,
+  "region": "NT",
+  "route": "806B",
+  "route_seq": 1,
+  "from_tc": "石門",
+  "from_en": "Shek Mun",
+  "to_tc": "運頭塘",
+  "to_en": "Wan Tau Tong"
+}

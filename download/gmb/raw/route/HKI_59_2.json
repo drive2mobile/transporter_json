@@ -1,0 +1,11 @@
+{
+  "id": "HKI_59_2",
+  "route_id": 2002712,
+  "region": "HKI",
+  "route": "59",
+  "route_seq": 2,
+  "from_tc": "深灣道公共交通總站",
+  "from_en": "Shum Wan Road Public Transport Terminus",
+  "to_tc": "堅尼地城站",
+  "to_en": "Kennedy Town Station"
+}

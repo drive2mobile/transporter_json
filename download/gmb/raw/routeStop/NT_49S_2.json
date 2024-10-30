@@ -1,0 +1,108 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:04:00.100+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20005056,
+        "name_tc": "分域街, 近駱克道",
+        "name_sc": "分域街, 近骆克道",
+        "name_en": "Fenwick Street, near Lockhart Road"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20000052,
+        "name_tc": "軒尼詩道145號",
+        "name_sc": "轩尼诗道145号",
+        "name_en": "No.145 Hennessy Road"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20000053,
+        "name_tc": "軒尼詩道347號",
+        "name_sc": "轩尼诗道347号",
+        "name_en": "No.347 Hennessy Road"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20002953,
+        "name_tc": "怡和街, 近百德新街",
+        "name_sc": "怡和街, 近百德新街",
+        "name_en": "Yee Wo Street, near Paterson Street "
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20004572,
+        "name_tc": "告士打道, 中糧大廈",
+        "name_sc": "告士打道, 中粮大厦",
+        "name_en": "Gloucester Road, COFCO Tower"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20007275,
+        "name_tc": "彌敦道, 近山東街",
+        "name_sc": "弥敦道, 近山东街",
+        "name_en": "Nathan Road, near Shan Tung Street"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20002211,
+        "name_tc": "荔枝角道, 美孚新邨第四期外",
+        "name_sc": "荔枝角道, 美孚新邨第四期外",
+        "name_en": "Lai Chi Kok Road, outside Mei Foo San Chuen Phase 4"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20010781,
+        "name_tc": "力生廣場",
+        "name_sc": "力生广场",
+        "name_en": "Lik Sang Plaza"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20001381,
+        "name_tc": "海珠路, 豐景園外",
+        "name_sc": "海珠路, 丰景园外",
+        "name_en": "Hoi Chu Road, outside Goodview Garden"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20001318,
+        "name_tc": "屯門鄉事會路, 近友愛邨",
+        "name_sc": "屯门乡事会路, 近友爱邨",
+        "name_en": "Tuen Mun Heung Sze Wui Road, near Yau Oi Estate"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20001319,
+        "name_tc": "屯門鄉事會路, 市中心輕鐵站外",
+        "name_sc": "屯门乡事会路, 市中心轻铁站外",
+        "name_en": "Tuen Mun Heung Sze Wui Road, outside Town Centre Light Rail Station"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20001324,
+        "name_tc": "震寰路, 大興邨興偉樓外",
+        "name_sc": "震寰路, 大兴邨兴伟楼外",
+        "name_en": "Tsun Wen Road, outside Hing Wai House of Tai Hing Estate"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20001325,
+        "name_tc": "震寰路, 屯門天主教中學外",
+        "name_sc": "震寰路, 屯门天主教中学外",
+        "name_en": "Tsun Wen Road, outside Tuen Mun Catholic Secondary School"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20018083,
+        "name_tc": "青麟路, 近欣田邨",
+        "name_sc": "青麟路, 近欣田邨",
+        "name_en": "Tsing Lun Road, near Yin Tin Estate"
+      }
+    ],
+    "data_timestamp": "2024-10-16T17:02:28.673+08:00"
+  }
+}

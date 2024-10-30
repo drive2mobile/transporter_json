@@ -1,0 +1,11 @@
+{
+  "id": "HKI_24A_1",
+  "route_id": 2002021,
+  "region": "HKI",
+  "route": "24A",
+  "route_seq": 1,
+  "from_tc": "金鐘站(德立街)",
+  "from_en": "Admiralty Station (Drake Street)",
+  "to_tc": "肇輝台(循環線)",
+  "to_en": "Shiu Fai Terrace (Circular)"
+}

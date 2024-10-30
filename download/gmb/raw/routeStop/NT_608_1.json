@@ -1,0 +1,59 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:04:21.133+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20002474,
+        "name_tc": "橫台山村公所, 橫台山遊樂場外",
+        "name_sc": "横台山村公所, 横台山游乐场外",
+        "name_en": "Wang Toi Shan Playground"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20007541,
+        "name_tc": "錦田公路, 石崗菜站",
+        "name_sc": "锦田公路, 石岗菜站",
+        "name_en": "Kam Tin Road, Shek Kong Vegetable Station"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20007542,
+        "name_tc": "錦田公路, 石崗軍營",
+        "name_sc": "锦田公路, 石岗军营",
+        "name_en": "Kam Tin Road, Shek Kong Barracks"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20002366,
+        "name_tc": "錦上路站公共運輸交滙處",
+        "name_sc": "锦上路站公共运输交滙处",
+        "name_en": "Kam Sheung Road Station Public Transport Interchange"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20007543,
+        "name_tc": "錦田公路, 石崗軍營",
+        "name_sc": "锦田公路, 石岗军营",
+        "name_en": "Kam Tin Road, Shek Kong Barracks"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20003179,
+        "name_tc": "錦田公路, 石崗菜站",
+        "name_sc": "锦田公路, 石岗菜站",
+        "name_en": "Kam Tin Road, Shek Kong Vegetable Station"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20002474,
+        "name_tc": "橫台山村公所, 橫台山遊樂場外",
+        "name_sc": "横台山村公所, 横台山游乐场外",
+        "name_en": "Wang Toi Shan Playground"
+      }
+    ],
+    "data_timestamp": "2024-08-23T14:21:36.499+08:00"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "NT_308A_1",
+  "route_id": 2001206,
+  "region": "NT",
+  "route": "308A",
+  "route_seq": 1,
+  "from_tc": "碧堤半島",
+  "from_en": "Bellagio",
+  "to_tc": "青衣站",
+  "to_en": "Tsing Yi Station"
+}

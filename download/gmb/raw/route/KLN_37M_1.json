@@ -1,0 +1,11 @@
+{
+  "id": "KLN_37M_1",
+  "route_id": 2003505,
+  "region": "KLN",
+  "route": "37M",
+  "route_seq": 1,
+  "from_tc": "黃大仙公共小型巴士(專綫)服務總站",
+  "from_en": "Wong Tai Sin Public Light Bus (Scheduled) Service Terminus",
+  "to_tc": "慈民邨(循環線)",
+  "to_en": "Tsz Man Estate(Circular)"
+}

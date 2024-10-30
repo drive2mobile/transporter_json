@@ -1,0 +1,11 @@
+{
+  "id": "NT_86A_1",
+  "route_id": 2008593,
+  "region": "NT",
+  "route": "86A",
+  "route_seq": 1,
+  "from_tc": "荃灣(川龍街)",
+  "from_en": "Tsuen Wan (Chuen Lung Street)",
+  "to_tc": "石籬(梨貝街)",
+  "to_en": "Shek Lei (Lei Pui Street)"
+}

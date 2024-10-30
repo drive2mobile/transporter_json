@@ -1,0 +1,11 @@
+{
+  "id": "NT_17_1",
+  "route_id": 2006673,
+  "region": "NT",
+  "route": "17",
+  "route_seq": 1,
+  "from_tc": "翠林",
+  "from_en": "Tsui Lam",
+  "to_tc": "藍田站",
+  "to_en": "Lam Tin Station"
+}

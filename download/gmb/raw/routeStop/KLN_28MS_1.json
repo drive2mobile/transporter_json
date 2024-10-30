@@ -1,0 +1,206 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:02:23.447+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20000489,
+        "name_tc": "偉景街, 偉景閣A座外",
+        "name_sc": "伟景街, 伟景阁A座外",
+        "name_en": "Wai King Street, outside Block A, Wei Chien Court"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20000733,
+        "name_tc": "土瓜灣道, 新利華中心",
+        "name_sc": "土瓜湾道, 新利华中心",
+        "name_en": "To Kwa Wan Road, New Lee Wah Centre"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20008189,
+        "name_tc": "馬頭角道, 近香港中華煤氣有限公司馬頭角控制中心",
+        "name_sc": "马头角道, 近香港中华煤气有限公司马头角控制中心",
+        "name_en": "Ma Tau Kok Road, near The Hong Kong & China Gas Company Limited Ma Tau Kok Control Centre"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20000772,
+        "name_tc": "欣榮花園",
+        "name_sc": "欣荣花园",
+        "name_en": "Jubilant Place"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20006061,
+        "name_tc": "馬坑涌道",
+        "name_sc": "马坑涌道",
+        "name_en": "Ma Hang Chung Road"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20006062,
+        "name_tc": "天光道, 曉暉華庭",
+        "name_sc": "天光道, 晓晖华庭",
+        "name_en": "Tin Kwong Road near Ma Tau Wai Road"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20000704,
+        "name_tc": "美善同道, 落山道以北",
+        "name_sc": "美善同道, 落山道以北",
+        "name_en": "Tin Kwong Road, Hillville Terrace"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20007535,
+        "name_tc": "樂民新邨, 樂基樓",
+        "name_sc": "乐民新邨, 乐基楼",
+        "name_en": "Lok Man Sun Chuen, Lok Kei House"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20000706,
+        "name_tc": "樂民新邨, 樂愛樓",
+        "name_sc": "乐民新邨, 乐爱楼",
+        "name_en": "Lok Man Sun Chuen, Lok Oi House"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20000707,
+        "name_tc": "高山道, 高山劇場對面",
+        "name_sc": "高山道, 高山剧场对面",
+        "name_en": "Ko Shan Road, opposite Ko Shan Theatre"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20000709,
+        "name_tc": "信用街, 長豐園",
+        "name_sc": "信用街, 长丰园",
+        "name_en": "Shun Yung Street, The Evergreen"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20000710,
+        "name_tc": " 佛光街, 仁風街",
+        "name_sc": " 佛光街, 仁风街",
+        "name_en": " Fat Kwong Street, Yan Fung Street"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20007345,
+        "name_tc": "忠孝街, 近何文田站",
+        "name_sc": " 忠孝街, 近何文田站",
+        "name_en": " CHUNG HAU STREET, near Ho Man Tin Station"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20007352,
+        "name_tc": " 佛光街, 房署大樓",
+        "name_sc": "佛光街, 房署大楼",
+        "name_en": "Fat Kwong Street, Housing Authority Headquarters"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20006076,
+        "name_tc": " 何文田廣場",
+        "name_sc": "何文田广场",
+        "name_en": "Homantin Plaza"
+      },
+      {
+        "stop_seq": 16,
+        "stop_id": 20007008,
+        "name_tc": " 何文田邨公共運輸交匯處",
+        "name_sc": "何文田邨公共运输交汇处",
+        "name_en": "Ho Man Tin Estate Public Transport Interchange"
+      },
+      {
+        "stop_seq": 17,
+        "stop_id": 20006077,
+        "name_tc": " 何文田廣場",
+        "name_sc": "何文田广场",
+        "name_en": "Homantin Plaza"
+      },
+      {
+        "stop_seq": 18,
+        "stop_id": 20000714,
+        "name_tc": "佛光街, 香港都會大學外",
+        "name_sc": "佛光街, 香港都会大学外",
+        "name_en": "Fat Kwong Street, outside Hong Kong Metropolitan University"
+      },
+      {
+        "stop_seq": 19,
+        "stop_id": 20007353,
+        "name_tc": "常盛街, 德蘭中學",
+        "name_sc": "常盛街, 德兰中学",
+        "name_en": "Sheung Shing Street, St. Teresa Secondary School"
+      },
+      {
+        "stop_seq": 20,
+        "stop_id": 20007536,
+        "name_tc": "常盛街, 常樂邨",
+        "name_sc": "常盛街, 常乐邨",
+        "name_en": "Sheung Shing Street, Sheung Lok Estate"
+      },
+      {
+        "stop_seq": 21,
+        "stop_id": 20008388,
+        "name_tc": "常盛街, 常盛閣",
+        "name_sc": "常盛街, 常盛阁 ",
+        "name_en": "Sheung Shing Street, Sheung Shing Court"
+      },
+      {
+        "stop_seq": 22,
+        "stop_id": 20006054,
+        "name_tc": "馬頭圍道近馬坑涌道",
+        "name_sc": "马头围道近马坑涌道",
+        "name_en": "Ma Tau Wai Road naer Ma Hang Chung Road"
+      },
+      {
+        "stop_seq": 23,
+        "stop_id": 20000704,
+        "name_tc": "美善同道, 落山道以北",
+        "name_sc": "美善同道, 落山道以北",
+        "name_en": "Tin Kwong Road, Hillville Terrace"
+      },
+      {
+        "stop_seq": 24,
+        "stop_id": 20000440,
+        "name_tc": "馬頭圍道187號",
+        "name_sc": "马头围道187号",
+        "name_en": "No.187 Ma Tau Wai Road"
+      },
+      {
+        "stop_seq": 25,
+        "stop_id": 20006055,
+        "name_tc": "上鄉道, 炮仗街",
+        "name_sc": "上乡道, 炮仗街",
+        "name_en": "Sheung Keung Road, Pau Chung Street"
+      },
+      {
+        "stop_seq": 26,
+        "stop_id": 20002012,
+        "name_tc": "上鄉道, 長寧街",
+        "name_sc": "上乡道, 长宁街",
+        "name_en": "Sheung Heung Road, Cheung Ning Street"
+      },
+      {
+        "stop_seq": 27,
+        "stop_id": 20000508,
+        "name_tc": "新碼頭街, 紅棉工業大廈",
+        "name_sc": "新码头街, 红棉工业大厦",
+        "name_en": "San Ma Tau Road, Kapok Industrial Building"
+      },
+      {
+        "stop_seq": 28,
+        "stop_id": 20000489,
+        "name_tc": "偉景街, 偉景閣A座外",
+        "name_sc": "伟景街, 伟景阁A座外",
+        "name_en": "Wai King Street, outside Block A, Wei Chien Court"
+      }
+    ],
+    "data_timestamp": "2024-10-28T17:29:08.578+08:00"
+  }
+}

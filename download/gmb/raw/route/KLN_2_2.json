@@ -1,0 +1,11 @@
+{
+  "id": "KLN_2_2",
+  "route_id": 2009246,
+  "region": "KLN",
+  "route": "2",
+  "route_seq": 2,
+  "from_tc": "又一城公共交通交匯處",
+  "from_en": "Festival Walk Public Transport Interchange",
+  "to_tc": "黃埔花園公共運輸交匯處",
+  "to_en": "Whampoa Garden Public Transport Interchange"
+}

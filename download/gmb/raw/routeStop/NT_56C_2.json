@@ -1,0 +1,52 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:04:14.545+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20007260,
+        "name_tc": "小坑村",
+        "name_sc": "小坑村",
+        "name_en": "Siu Hang Tsuen"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20003341,
+        "name_tc": "宣道園",
+        "name_sc": "宣道园",
+        "name_en": "Suen Douh Camp"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20007261,
+        "name_tc": "小坑村通道,新屋村休憩處對面",
+        "name_sc": "小坑村通道,新屋村休憩处对面",
+        "name_en": "Siu Hang Tsuen Access Road, opposite San Uk Tsuen Sitting-out Area"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20004529,
+        "name_tc": "聯發街,燈柱EA8498外",
+        "name_sc": "联发街,灯柱EA8498外",
+        "name_en": "Luen Fat Street (Lamp Post EA8498)"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20001456,
+        "name_tc": "祥頌樓",
+        "name_sc": "祥颂楼",
+        "name_en": "Cheung Chung House"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20007810,
+        "name_tc": "粉嶺站專綫小巴總站",
+        "name_sc": "粉岭站专綫小巴总站",
+        "name_en": "Public Light Bus (Scheduled) Service Terminus at Fanling Station"
+      }
+    ],
+    "data_timestamp": "2024-10-25T15:40:06.920+08:00"
+  }
+}

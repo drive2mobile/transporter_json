@@ -1,0 +1,11 @@
+{
+  "id": "HKI_45S_1",
+  "route_id": 2005292,
+  "region": "HKI",
+  "route": "45S",
+  "route_seq": 1,
+  "from_tc": "西區(第一街)",
+  "from_en": "Western District (First Street)",
+  "to_tc": "干德道(循環線)",
+  "to_en": "Conduit Road (Circular)"
+}

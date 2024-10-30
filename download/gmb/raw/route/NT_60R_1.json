@@ -1,0 +1,11 @@
+{
+  "id": "NT_60R_1",
+  "route_id": 2003673,
+  "region": "NT",
+  "route": "60R",
+  "route_seq": 1,
+  "from_tc": "沙田站",
+  "from_en": "Sha Tin Station",
+  "to_tc": "沙田馬場(彭福公園)",
+  "to_en": "Sha Tin Racecourse (Penfold Park)"
+}

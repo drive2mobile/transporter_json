@@ -1,0 +1,87 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:03:31.198+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20007679,
+        "name_tc": "運頭塘總站",
+        "name_sc": "运头塘总站",
+        "name_en": "Wan Tau Tong Terminus"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20007680,
+        "name_tc": "南運路, 新達廣場外",
+        "name_sc": "南运路, 新达广场外",
+        "name_en": "Nam Wan Road, outside Uptown Plaza"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20001225,
+        "name_tc": "大埔公路, 廣福邨外",
+        "name_sc": "大埔公路, 广福邨外",
+        "name_en": "Tai Po Road, outside Kwong Fuk Estate"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20007683,
+        "name_tc": "創新路, 近溋玥．天賦海灣第一期",
+        "name_sc": "创新路, 近溋玥．天赋海湾第一期",
+        "name_en": "Chong San Road, near Providence Peak Phase 1"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20009019,
+        "name_tc": "創新路, 近溋玥．天賦海灣第二期",
+        "name_sc": "创新路, 近溋玥．天赋海湾第二期",
+        "name_en": "Chong San Road, near Providence Peak Phase 2"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20007094,
+        "name_tc": "創新路, 近雲滙",
+        "name_sc": "创新路, 近云滙",
+        "name_en": "Chong San Road, near St. Martin"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20007049,
+        "name_tc": "創新路, 近科學園第三期",
+        "name_sc": "创新路, 近科学园第三期",
+        "name_en": "Chong San Road, near Science Park Phase 3"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20007047,
+        "name_tc": "創新路, 近科學園第一期",
+        "name_sc": "创新路, 近科学园第一期",
+        "name_en": "Chong San Road, near Science Park Phase 1"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20002414,
+        "name_tc": "科學園路, 近香港生物科技研究院",
+        "name_sc": "科学园路, 近香港生物科技研究院",
+        "name_en": "Science Park Road, near Research Institute Of Biotechnology"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20002415,
+        "name_tc": "科學園路, 水上活動中心外",
+        "name_sc": "科学园路, 水上活动中心外",
+        "name_en": "Science Park Road, outside Water Sports Centre"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20002416,
+        "name_tc": "科學園路, 近馬料水渡輪碼頭",
+        "name_sc": "科学园路, 近马料水渡轮码头",
+        "name_en": "Science Park Road, near Ma Liu Shui Ferry Pier"
+      }
+    ],
+    "data_timestamp": "2024-07-31T16:30:32.486+08:00"
+  }
+}

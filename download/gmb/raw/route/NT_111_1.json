@@ -1,0 +1,11 @@
+{
+  "id": "NT_111_1",
+  "route_id": 2003867,
+  "region": "NT",
+  "route": "111",
+  "route_seq": 1,
+  "from_tc": "寶琳",
+  "from_en": "Po Lam",
+  "to_tc": "新蒲崗",
+  "to_en": "San Po Kong"
+}

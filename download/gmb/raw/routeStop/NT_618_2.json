@@ -1,0 +1,80 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:04:26.391+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20015453,
+        "name_tc": "深圳灣口岸",
+        "name_sc": "深圳湾口岸",
+        "name_en": "Shenzhen Bay Port"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20015454,
+        "name_tc": "天華路, 近天悅邨悅華樓",
+        "name_sc": "天华路, 近天悦村悦华楼",
+        "name_en": "Tin Wah Road, near Yuet Wah House, Tin Yuet Estate"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20001620,
+        "name_tc": "天城路, 伊利沙伯中學舊生會中學外",
+        "name_sc": "天城路, 伊利沙伯中学旧生会中学外",
+        "name_en": "Tin Shing Road, outside QESOSA Secondary School"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20015455,
+        "name_tc": "天龍路, 近龍園",
+        "name_sc": "天龙路, 近龙园",
+        "name_en": "Tin Lung Road, near Dragon Park"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20015456,
+        "name_tc": "天葵路, 近嘉湖山莊麗湖居第五座",
+        "name_sc": "天葵路, 近嘉湖山庄丽湖居第五座",
+        "name_en": "Tin Kwai Road, near Lynwood Court Block 5, Kingswood Villas"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20015457,
+        "name_tc": "天葵路, 近慧景軒第二座",
+        "name_sc": "天葵路, 近慧景轩第二座",
+        "name_en": "Tin Kwai Road, near Vianni Cove Block 2"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20015458,
+        "name_tc": "濕地公園路, 近俊宏軒第七座",
+        "name_sc": "湿地公园路, 近俊宏轩第七座",
+        "name_en": "Wetland Park Road, near Grandeur Terrace Block 7"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20015459,
+        "name_tc": "天瑞路, 近天逸邨逸潭樓",
+        "name_sc": "天瑞路, 近天逸村逸潭楼",
+        "name_en": "Tin Shui Road, near Yat Tam House, Tin Yat Estate"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20015460,
+        "name_tc": "天瑞路, 近天富苑欣富閣",
+        "name_sc": "天瑞路, 近天富苑欣富阁",
+        "name_en": "Tin Shui Road, near Yan Fu House, TIin Fu Court"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20015445,
+        "name_tc": "天恩商場",
+        "name_sc": "天恩商场",
+        "name_en": "Tin Yan Shopping Centre"
+      }
+    ],
+    "data_timestamp": "2024-10-25T16:51:06.427+08:00"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "NT_50A_2",
+  "route_id": 2005322,
+  "region": "NT",
+  "route": "50A",
+  "route_seq": 2,
+  "from_tc": "古洞(南)",
+  "from_en": "Kwu Tung (South)",
+  "to_tc": "上水站",
+  "to_en": "Sheung Shui Station"
+}

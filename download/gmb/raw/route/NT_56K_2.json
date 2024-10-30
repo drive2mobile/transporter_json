@@ -1,0 +1,11 @@
+{
+  "id": "NT_56K_2",
+  "route_id": 2001027,
+  "region": "NT",
+  "route": "56K",
+  "route_seq": 2,
+  "from_tc": "鹿頸",
+  "from_en": "Luk Keng",
+  "to_tc": "粉嶺站",
+  "to_en": "Fanling Station"
+}

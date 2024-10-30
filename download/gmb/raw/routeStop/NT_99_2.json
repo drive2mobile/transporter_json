@@ -1,0 +1,45 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:05:21.841+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20015280,
+        "name_tc": "海濱花園",
+        "name_sc": "海滨花园",
+        "name_en": "Riviera Gardens"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20015281,
+        "name_tc": "永順街海灣花園對面",
+        "name_sc": "永顺街海湾花园对面",
+        "name_en": "Wing Shun Street opposite to Waterside Plaza"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20013529,
+        "name_tc": "永順街荃灣公園外 ",
+        "name_sc": "永顺街荃湾公园外 ",
+        "name_en": "Wing Shun Street outside Tsuen Wan Park"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20015282,
+        "name_tc": "楊屋道荃新天地二期外",
+        "name_sc": "杨屋道荃新天地二期外",
+        "name_en": "Yeung Uk Road opposite outside Citywalk 2"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20012208,
+        "name_tc": "海貴路公共運輸交匯處",
+        "name_sc": "海贵路公共运输交汇处",
+        "name_en": "Hoi Kwai Road Public Transport Interchange"
+      }
+    ],
+    "data_timestamp": "2024-10-23T13:28:56.879+08:00"
+  }
+}

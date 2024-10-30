@@ -1,0 +1,11 @@
+{
+  "id": "HKI_47M_1",
+  "route_id": 2004072,
+  "region": "HKI",
+  "route": "47M",
+  "route_seq": 1,
+  "from_tc": "柴灣站",
+  "from_en": "Chai Wan Station",
+  "to_tc": "柴灣(永平街)(循環線)",
+  "to_en": "Chai Wan (Wing Ping Street) (Circular)"
+}

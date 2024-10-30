@@ -1,0 +1,11 @@
+{
+  "id": "NT_620_1",
+  "route_id": 2008785,
+  "region": "NT",
+  "route": "620",
+  "route_seq": 1,
+  "from_tc": "峻巒交通總匯",
+  "from_en": "Park YOHO Transport Interchange",
+  "to_tc": "錦上路站公共運輸交匯處",
+  "to_en": "Kam Sheung Road Station Public Transport Interchange"
+}

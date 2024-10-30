@@ -1,0 +1,11 @@
+{
+  "id": "NT_403P_1",
+  "route_id": 2001269,
+  "region": "NT",
+  "route": "403P",
+  "route_seq": 1,
+  "from_tc": "石籬梨貝街",
+  "from_en": "Shek Lei Lei Pui Street",
+  "to_tc": "沙田担杆莆街",
+  "to_en": "Sha Tin Tam Kon Po Street"
+}

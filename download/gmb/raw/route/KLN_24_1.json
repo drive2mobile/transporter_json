@@ -1,0 +1,11 @@
+{
+  "id": "KLN_24_1",
+  "route_id": 2008421,
+  "region": "KLN",
+  "route": "24",
+  "route_seq": 1,
+  "from_tc": "藍田 (平田公共運輸交匯處)",
+  "from_en": "Lam Tin (Ping Tin Public Transport Interchange)",
+  "to_tc": "三家村碼頭 (循環線)",
+  "to_en": "Sam Ka Tsuen Ferry (Circular)"
+}

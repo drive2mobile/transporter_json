@@ -1,0 +1,38 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:05:12.351+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20013695,
+        "name_tc": "瑪嘉烈醫院路, 近瑪嘉烈醫院G座",
+        "name_sc": "玛嘉烈医院路, 近玛嘉烈医院G座",
+        "name_en": "PRINCESS MARGARET HOSPITAL ROAD, near Princess Margaret Hospital Block G"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20020129,
+        "name_tc": "荔灣道, 荔枝角公園體育館對面",
+        "name_sc": "荔湾道, 荔枝角公园体育馆对面",
+        "name_en": "Lai Wan Road, opposite to Lai Chi Kok Park Sports Centre"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20020130,
+        "name_tc": "美荔道, 美孚新邨第6期對出",
+        "name_sc": "美荔道, 美孚新村第6期对出",
+        "name_en": "Mei Lai Road, opposite to Mei Foo Sun Chuen Phase 6"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20014386,
+        "name_tc": "美荔道, 近美孚巴士總站",
+        "name_sc": "美荔道, 近美孚巴士总站",
+        "name_en": "MEI LAI ROAD, near Mei Foo Bus Terminus"
+      }
+    ],
+    "data_timestamp": "2024-10-30T11:23:12.676+08:00"
+  }
+}

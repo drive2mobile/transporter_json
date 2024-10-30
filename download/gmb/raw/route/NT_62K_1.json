@@ -1,0 +1,11 @@
+{
+  "id": "NT_62K_1",
+  "route_id": 2003679,
+  "region": "NT",
+  "route": "62K",
+  "route_seq": 1,
+  "from_tc": "沙田站",
+  "from_en": "Sha Tin Station",
+  "to_tc": "沙田山莊",
+  "to_en": "Shatin Lodge"
+}

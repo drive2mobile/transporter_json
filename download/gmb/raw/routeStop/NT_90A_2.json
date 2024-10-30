@@ -1,0 +1,24 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:05:11.690+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20009634,
+        "name_tc": "葵涌醫院",
+        "name_sc": "葵涌医院",
+        "name_en": "Kwai Chung Hospital"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20014386,
+        "name_tc": "美荔道,近美孚巴士總站",
+        "name_sc": "美荔道,近美孚巴士总站",
+        "name_en": "MEI LAI ROAD, near Mei Foo Bus Terminus"
+      }
+    ],
+    "data_timestamp": "2024-10-30T11:22:41.001+08:00"
+  }
+}

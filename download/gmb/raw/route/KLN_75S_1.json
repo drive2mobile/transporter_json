@@ -1,0 +1,11 @@
+{
+  "id": "KLN_75S_1",
+  "route_id": 2010302,
+  "region": "KLN",
+  "route": "75S",
+  "route_seq": 1,
+  "from_tc": "明愛醫院",
+  "from_en": "Caritas Medical Centre",
+  "to_tc": "深水埗(汝州街)",
+  "to_en": "Sham Shui Po (Yu Chau Street)"
+}

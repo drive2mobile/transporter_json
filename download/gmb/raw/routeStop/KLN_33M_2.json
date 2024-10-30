@@ -1,0 +1,94 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:02:26.718+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20000800,
+        "name_tc": "正德街, 黃大仙下邨龍興樓外",
+        "name_sc": "正德街, 黄大仙下邨龙兴楼外",
+        "name_en": "Ching Tak Street, outside Lung Hing House, Lower Wong Tai Sin Estate"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20000801,
+        "name_tc": "東頭村道, 黃大仙下邨龍智樓外",
+        "name_sc": "东头村道, 黄大仙下邨龙智楼外",
+        "name_en": "Tung Tau Tsuen Road, outside Lung Chi House, Lower Wong Tai Sin Estate"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20000802,
+        "name_tc": "沙田坳道, 黃大仙紀律部隊宿舍外",
+        "name_sc": "沙田坳道, 黄大仙纪律部队宿舍外",
+        "name_en": "Shatin Pass Road, outside Wong Tai Sin Police R. & F. Quarters"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20000786,
+        "name_tc": "蒲崗村道, 富祐大廈外",
+        "name_sc": "蒲岗村道, 富佑大厦外",
+        "name_en": "No. 75 Po Kong Village Road, outside Fu Yau Building"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20000787,
+        "name_tc": "蒲崗村道, 近寶明樓",
+        "name_sc": "蒲岗村道, 近宝明楼",
+        "name_en": "Po Kong Village Road, near Po Ming Building"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20000788,
+        "name_tc": "蒲崗村道, 慈華大廈外",
+        "name_sc": "蒲岗村道, 慈华大厦外",
+        "name_en": "Po Kong Village Road, outside Che Wah Building"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20000789,
+        "name_tc": "蒲崗村道, 民豐樓外",
+        "name_sc": "蒲岗村道, 民丰楼外",
+        "name_en": "Po Kong Village Road, outside Man Fung Building"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20000790,
+        "name_tc": "蒲崗村道, 協和書院外",
+        "name_sc": "蒲岗村道, 协和书院外",
+        "name_en": "Po Kong Village Road, outside C.C.C. Heep Wok College"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20000791,
+        "name_tc": "蒲崗村道, 鑽石山火葬場外",
+        "name_sc": "蒲岗村道, 钻石山火葬场外",
+        "name_en": "Po Kong Village Road, outside Diamond Hill Crematorium"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20000794,
+        "name_tc": "豐盛街, 香港海事青年團外",
+        "name_sc": "丰盛街, 香港海事青年团外",
+        "name_en": "Fung Shing Street, outside Hong Kong Sea Cadet Corps"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20007758,
+        "name_tc": "豐盛街, 聖公會基心小學對面",
+        "name_sc": "丰盛街, 圣公会基心小学对面",
+        "name_en": "Fung Shing Street, opposite Sheung Kung Hui Kei Sum Primary School"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20000796,
+        "name_tc": "豐盛街, 海港花園外",
+        "name_sc": "丰盛街, 海港花园外",
+        "name_en": "Fung Shing Street, outside Hill Top Gardens"
+      }
+    ],
+    "data_timestamp": "2024-10-22T14:59:34.136+08:00"
+  }
+}

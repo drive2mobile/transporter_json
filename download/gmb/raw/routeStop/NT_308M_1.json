@@ -1,0 +1,80 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:03:33.073+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20008023,
+        "name_tc": "青衣站",
+        "name_sc": "青衣站",
+        "name_en": "Tsing Yi Station"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20002048,
+        "name_tc": "青敬路長安邨安湄樓外",
+        "name_sc": "青敬路长安邨安湄楼外",
+        "name_en": "Tsing King Road outside On Mei House, Cheung On Estate"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20001888,
+        "name_tc": "青山公路-深井段海韻花園對面",
+        "name_sc": "青山公路-深井段海韵花园对面",
+        "name_en": "Castle Peak Road-Sham Tseng opposite to Rhine Garden"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20001889,
+        "name_tc": "青山公路-深井段麗都花園外",
+        "name_sc": "青山公路-深井段丽都花园外",
+        "name_en": "Castle Peak Road-Sham Tseng outside Lido Garden"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20002087,
+        "name_tc": "浪翠園",
+        "name_sc": "浪翠园",
+        "name_en": "Sea Crest Villa"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20002073,
+        "name_tc": "青山公路-深井段青龍頭深井公眾碼頭對面的路傍",
+        "name_sc": "青山公路-深井段青龙头深井公众码头对面的路傍 ",
+        "name_en": "Castle Peak Road-Sham Tseng, the Lay-by opposite to Sham Tseng Public Pier"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20001893,
+        "name_tc": "青山公路-深井段深井村外",
+        "name_sc": "青山公路-深井段深井村外",
+        "name_en": "Castle Peak Road-Sham Tseng outside Sham Tseng Village"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20001894,
+        "name_tc": "青山公路-深井段海韻花園外",
+        "name_sc": "青山公路-深井段海韵花园外",
+        "name_en": "Castle Peak Road-Sham Tseng outside Rhine Garden"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20008024,
+        "name_tc": "青敬路牙鷹洲花園外的停車灣",
+        "name_sc": "青敬路牙鹰洲花园外的停车湾",
+        "name_en": "Tsing King Road at the lay-by outside Nga Ying Chau Garden"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20008023,
+        "name_tc": "青衣站",
+        "name_sc": "青衣站",
+        "name_en": "Tsing Yi Station"
+      }
+    ],
+    "data_timestamp": "2024-07-29T13:49:08.730+08:00"
+  }
+}

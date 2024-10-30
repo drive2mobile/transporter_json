@@ -1,0 +1,38 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:01:43.781+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20000263,
+        "name_tc": "東區尤德夫人那打素醫院",
+        "name_sc": "东区尤德夫人那打素医院",
+        "name_en": "Pamela Youde Nethersole Eastern Hospital, outside Main Block"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20003443,
+        "name_tc": "泰民街, 樂翠臺外",
+        "name_sc": "泰民街, 乐翠台外",
+        "name_en": "Tai Man Street, outside Neptune Terrace"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20007583,
+        "name_tc": "祥利街近華廈村(下車站)",
+        "name_sc": "祥利街近华厦村(下车站)",
+        "name_en": "Cheung Lee Street, near Wah Ha Estate (Drop Off Stop)"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20000264,
+        "name_tc": "利眾街近華廈邨",
+        "name_sc": "利众街近华厦村",
+        "name_en": "Lee Chung Street, near Wah Ha Estate\t"
+      }
+    ],
+    "data_timestamp": "2022-12-25T00:00:54.946+08:00"
+  }
+}

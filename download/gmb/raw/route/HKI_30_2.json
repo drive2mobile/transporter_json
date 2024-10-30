@@ -1,0 +1,11 @@
+{
+  "id": "HKI_30_2",
+  "route_id": 2003472,
+  "region": "HKI",
+  "route": "30",
+  "route_seq": 2,
+  "from_tc": "跑馬地(冬青道)",
+  "from_en": "Happy Valley (Holly Road)",
+  "to_tc": "銅鑼灣(蘭芳道)",
+  "to_en": "Causeway Bay (Lan Fong Road)"
+}

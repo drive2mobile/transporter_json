@@ -1,0 +1,11 @@
+{
+  "id": "NT_505_1",
+  "route_id": 2009147,
+  "region": "NT",
+  "route": "505",
+  "route_seq": 1,
+  "from_tc": "上水新發街",
+  "from_en": "Sheung Shui San Fat Street",
+  "to_tc": "沙田圓洲角",
+  "to_en": "Sha Tin Yuen Chau Kok"
+}

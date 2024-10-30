@@ -1,0 +1,171 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:01:57.899+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20016081,
+        "name_tc": "康民街",
+        "name_sc": "康民街",
+        "name_en": "Hong Man Street"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20016082,
+        "name_tc": "泰民街",
+        "name_sc": "泰民街",
+        "name_en": "Tai Man Street"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20016083,
+        "name_tc": "樂民道",
+        "name_sc": "乐民道",
+        "name_en": "Lok Man Road"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20000263,
+        "name_tc": "東區尤德夫人那打素醫院",
+        "name_sc": "东区尤德夫人那打素医院",
+        "name_en": "Pamela Youde Nethersole Eastern Hospital, outside Main Block"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20016085,
+        "name_tc": "柴灣道近山翠苑",
+        "name_sc": "柴湾道近山翠苑",
+        "name_en": "Chai Wan Road ( near Shan Tsui Court)"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20000211,
+        "name_tc": "渣華道, 柯達大廈外",
+        "name_sc": "渣华道, 柯达大厦外",
+        "name_en": "Java Road, outside Kodak House"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20016086,
+        "name_tc": "渣華道近北角政府合署",
+        "name_sc": "渣华道近北角政府合署",
+        "name_en": "Java Road (near North Point Government Offices)"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20016087,
+        "name_tc": "英皇道, 麗華樓外",
+        "name_sc": "英皇道, 丽华楼外",
+        "name_en": "King's Road, outside Lai Wah Mansion"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20016088,
+        "name_tc": "英皇道, 太古坊外",
+        "name_sc": "英皇道, 太古坊外",
+        "name_en": "King's Road, oustide Taikoo Place"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20000215,
+        "name_tc": "英皇道, 新威園外",
+        "name_sc": "英皇道, 新威园外",
+        "name_en": "King's Road, outside Sunway Garden"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20016089,
+        "name_tc": "英皇道近惠安苑",
+        "name_sc": "英皇道近惠安苑",
+        "name_en": "King's Road (near Westlands Gardens)"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20016090,
+        "name_tc": "英皇道近仁孚",
+        "name_sc": "英皇道近仁孚",
+        "name_en": "King's Road (outside Zung Fu)"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20016091,
+        "name_tc": "英皇道近太古城中心",
+        "name_sc": "英皇道近太古城中心",
+        "name_en": "King's Road (near Cityplaza)"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20016092,
+        "name_tc": "筲箕灣道近太祥街 ",
+        "name_sc": "筲箕湾道近太祥街 ",
+        "name_en": "Shau Kei Wan Road (near Tai Chong Street)"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20016093,
+        "name_tc": "筲箕灣道, 太安樓外",
+        "name_sc": "筲箕湾道, 太安楼外",
+        "name_en": "Shau Kei Wan Road, outside Tai On Building"
+      },
+      {
+        "stop_seq": 16,
+        "stop_id": 20016094,
+        "name_tc": "筲箕灣道近譽·東",
+        "name_sc": "筲箕湾道近誉·东",
+        "name_en": "Shau Kei Wan Road (near i·UniQ Grand)"
+      },
+      {
+        "stop_seq": 17,
+        "stop_id": 20016095,
+        "name_tc": "筲箕灣道, 嘉兆大廈外",
+        "name_sc": "筲箕湾道, 嘉兆大厦外",
+        "name_en": "Shau Kei Wan Road, outside Casio Mansion"
+      },
+      {
+        "stop_seq": 18,
+        "stop_id": 20016069,
+        "name_tc": "筲箕灣道, 樂融軒外",
+        "name_sc": "筲箕湾道, 乐融轩外",
+        "name_en": "Shau Kei Wan Road, outside Harmony Place"
+      },
+      {
+        "stop_seq": 19,
+        "stop_id": 20016096,
+        "name_tc": "柴灣道近耀園花園大廈",
+        "name_sc": "柴湾道近耀园花园大厦",
+        "name_en": "Chai Wan Road (near Brilliant Court)"
+      },
+      {
+        "stop_seq": 20,
+        "stop_id": 20000263,
+        "name_tc": "東區尤德夫人那打素醫院",
+        "name_sc": "东区尤德夫人那打素医院",
+        "name_en": "Pamela Youde Nethersole Eastern Hospital, outside Main Block"
+      },
+      {
+        "stop_seq": 21,
+        "stop_id": 20016098,
+        "name_tc": "樂民道",
+        "name_sc": "乐民道",
+        "name_en": "Lok Man Road"
+      },
+      {
+        "stop_seq": 22,
+        "stop_id": 20016099,
+        "name_tc": "泰民街",
+        "name_sc": "泰民街",
+        "name_en": "Tai Man Street"
+      },
+      {
+        "stop_seq": 23,
+        "stop_id": 20016081,
+        "name_tc": "康民街",
+        "name_sc": "康民街",
+        "name_en": "Hong Man Street"
+      }
+    ],
+    "data_timestamp": "2024-07-31T18:02:27.278+08:00"
+  }
+}

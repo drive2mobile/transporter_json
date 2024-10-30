@@ -1,0 +1,11 @@
+{
+  "id": "NT_39_2",
+  "route_id": 2007563,
+  "region": "NT",
+  "route": "39",
+  "route_seq": 2,
+  "from_tc": "元朗站",
+  "from_en": "Yuen Long Station",
+  "to_tc": "公庵",
+  "to_en": "Kung Um"
+}

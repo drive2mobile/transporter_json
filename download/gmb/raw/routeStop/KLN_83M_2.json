@@ -1,0 +1,80 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:02:50.288+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20006002,
+        "name_tc": "坪石公共運輸交匯處",
+        "name_sc": "坪石公共运输交汇处",
+        "name_en": "Ping Shek Public Transport Interchange"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20016967,
+        "name_tc": "彩興里, 近聖言中學",
+        "name_sc": "彩兴里, 近圣言中学",
+        "name_en": "Choi Hing Lane, near Sing Yin Secondary School"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20016968,
+        "name_tc": "彩興路, 近彩德邨彩義樓",
+        "name_sc": "彩兴路, 近彩德邨彩义楼",
+        "name_en": "Choi Hing Road, near Choi Yee House, Choi Tak Estate"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20016969,
+        "name_tc": "彩霞道, 近浸信宣道會呂明才小學",
+        "name_sc": "彩霞道, 近浸信宣道会吕明才小学",
+        "name_en": "Choi Ha Road, near Conservative Baptist Lui Ming Choi Primary School"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20016970,
+        "name_tc": "彩霞道, 近彩盈邨盈康樓",
+        "name_sc": "彩霞道, 近彩盈邨盈康楼",
+        "name_en": "Choi Ha Road, near Ying Hong House, Choi Ying Estate"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20016971,
+        "name_tc": "彩霞道, 近彩盈邨盈順樓",
+        "name_sc": "彩霞道, 近彩盈邨盈顺楼",
+        "name_en": "Choi Ha Road, near Ying Shun House, Choi Ying Estate"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20016972,
+        "name_tc": "彩霞道, 近彩霞邨彩日樓",
+        "name_sc": "彩霞道, 近彩霞邨彩日楼",
+        "name_en": "Choi Ha Road, near Choi Yat House, Choi Ha Estate"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20016973,
+        "name_tc": "佐敦谷北道, 近彩霞道休憩處",
+        "name_sc": "佐敦谷北道, 近彩霞道休憩處",
+        "name_en": "Jordan Valley North Road, near Choi Ha Road Sitting Out Area"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20016974,
+        "name_tc": "牛頭角道, 牛頭角市政大廈外",
+        "name_sc": "牛头角道, 牛头角市政大厦外",
+        "name_en": "Ngau Tau Kok Road, outside Ngau Tau Kok Municipal Services Building"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20016961,
+        "name_tc": "安華街, 近牛頭角街市",
+        "name_sc": "安华街, 近牛头角街市",
+        "name_en": "On Wah Street, near Ngau Tau Kok Market"
+      }
+    ],
+    "data_timestamp": "2024-07-31T11:32:18.339+08:00"
+  }
+}

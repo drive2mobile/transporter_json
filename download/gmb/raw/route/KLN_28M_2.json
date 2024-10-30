@@ -1,0 +1,11 @@
+{
+  "id": "KLN_28M_2",
+  "route_id": 2001003,
+  "region": "KLN",
+  "route": "28M",
+  "route_seq": 2,
+  "from_tc": "旺角站",
+  "from_en": "Mong Kok Station",
+  "to_tc": "九龍城（偉恒昌新邨）",
+  "to_en": "Kowloon City (Wyler Gardens)"
+}

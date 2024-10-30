@@ -1,0 +1,108 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:04:06.531+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20001384,
+        "name_tc": "上水站小巴總站",
+        "name_sc": "上水站小巴总站",
+        "name_en": "Sheung Shui Station Public Light Bus Terminus"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20003205,
+        "name_tc": "新豐路,近石湖墟郵政局",
+        "name_sc": "新丰路,近石湖墟邮政局",
+        "name_en": "San Fung Avenue, near Shek Wu Hui Post Office"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20012274,
+        "name_tc": "寶石湖路,近彩蒲苑彩顏閣",
+        "name_sc": "宝石湖路,近彩蒲苑彩颜阁",
+        "name_en": "Po Shek Wu Road, near Choi Ngan House, Choi Po Court"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20013004,
+        "name_tc": "青山公路　－　古洞段,　近　香港哥爾夫球會場地部",
+        "name_sc": "青山公路　－　古洞段,　近　香港哥尔夫球会场地部",
+        "name_en": "CASTLE PEAK ROAD - KWU TUNG, near HONG KONG GOLF CLUB COURSE DEPARTMENT"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20013005,
+        "name_tc": "青山公路　－　古洞段,　近　沙爾德聖保祿女修會聖保祿樂靜院",
+        "name_sc": "青山公路　－　古洞段,　近　沙尔德圣保禄女修会圣保禄乐静院",
+        "name_en": "CASTLE PEAK ROAD - KWU TUNG, near ST PAUL'S HOUSE OF PRAYER"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20013048,
+        "name_tc": "青山公路　－　古洞段,　近　可愛忠實之家",
+        "name_sc": "青山公路　－　古洞段,　近　可爱忠实之家",
+        "name_en": "CASTLE PEAK ROAD - KWU TUNG, near HOME OF LOVING FAITHFULNESS"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20013045,
+        "name_tc": "河上鄉路,　近　羅湖懲教所",
+        "name_sc": "河上乡路,　近　罗湖惩教所",
+        "name_en": "HO SHEUNG HEUNG ROAD, near LO WU CORRECTIONAL INSTITUTION"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20013034,
+        "name_tc": "河上鄉排峰路,　近　河上鄉　居石侯公祠",
+        "name_sc": "河上乡排峰路,　近　河上乡　居石侯公祠",
+        "name_en": "HO SHEUNG HEUNG PAI FUNG ROAD, near Hau Ku Shek Ancestral Hall, HO SHEUNG HEUNG"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20013033,
+        "name_tc": "青山公路　－　古洞段,　近　可愛忠實之家",
+        "name_sc": "青山公路　－　古洞段,　近　可爱忠实之家",
+        "name_en": "CASTLE PEAK ROAD - KWU TUNG, near HOME OF LOVING FAITHFULNESS"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20013005,
+        "name_tc": "青山公路　－　古洞段,　近　沙爾德聖保祿女修會聖保祿樂靜院",
+        "name_sc": "青山公路　－　古洞段,　近　沙尔德圣保禄女修会圣保禄乐静院",
+        "name_en": "CASTLE PEAK ROAD - KWU TUNG, near ST PAUL'S HOUSE OF PRAYER"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20013009,
+        "name_tc": "青山公路　－　古洞段,　近　高爾夫景園第三座",
+        "name_sc": "青山公路　－　古洞段,　近　高尔夫景园第三座",
+        "name_en": "CASTLE PEAK ROAD - KWU TUNG, near Golf Parkview Block 3"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20012281,
+        "name_tc": "寶石湖路,近彩蒲苑彩顏閣",
+        "name_sc": "宝石湖路,近彩蒲苑彩颜阁",
+        "name_en": "Po Shek Wu Road, near Choi Ngan House, Choi Po Court"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20007525,
+        "name_tc": "新豐路,近石湖墟郵政局",
+        "name_sc": "新丰路,近石湖墟邮政局",
+        "name_en": "SAN FUNG AVENUE, near Shek Wu Hui Post Office"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20001384,
+        "name_tc": "上水站小巴總站",
+        "name_sc": "上水站小巴总站",
+        "name_en": "Sheung Shui Station Public Light Bus Terminus"
+      }
+    ],
+    "data_timestamp": "2024-10-29T22:27:56.717+08:00"
+  }
+}

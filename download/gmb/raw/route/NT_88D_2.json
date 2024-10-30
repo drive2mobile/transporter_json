@@ -1,0 +1,11 @@
+{
+  "id": "NT_88D_2",
+  "route_id": 2005979,
+  "region": "NT",
+  "route": "88D",
+  "route_seq": 2,
+  "from_tc": "葵芳站",
+  "from_en": "Kwai Fong Station",
+  "to_tc": "宏福花園",
+  "to_en": "Tivoli Garden"
+}

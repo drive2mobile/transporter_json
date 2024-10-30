@@ -1,0 +1,11 @@
+{
+  "id": "NT_64K_2",
+  "route_id": 2008227,
+  "region": "NT",
+  "route": "64K",
+  "route_seq": 2,
+  "from_tc": "大圍站(村南道)",
+  "from_en": "Tai Wai Station (Tsuen Nam Road)",
+  "to_tc": "富山",
+  "to_en": "Fu Shan"
+}

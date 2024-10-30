@@ -1,0 +1,11 @@
+{
+  "id": "NT_502_1",
+  "route_id": 2002019,
+  "region": "NT",
+  "route": "502",
+  "route_seq": 1,
+  "from_tc": "大埔中心",
+  "from_en": "Tai Po Centre",
+  "to_tc": "清河邨",
+  "to_en": "Ching Ho Estate"
+}

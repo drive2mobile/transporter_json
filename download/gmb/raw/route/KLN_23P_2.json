@@ -1,0 +1,11 @@
+{
+  "id": "KLN_23P_2",
+  "route_id": 2009477,
+  "region": "KLN",
+  "route": "23P",
+  "route_seq": 2,
+  "from_tc": "藍田站 (茜發道)",
+  "from_en": "Lam Tin Station (Sin Fat Road)",
+  "to_tc": "高嶺道",
+  "to_en": "Ko Ling Road"
+}

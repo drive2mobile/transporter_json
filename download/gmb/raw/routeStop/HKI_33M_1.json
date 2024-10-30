@@ -1,0 +1,31 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:01:36.503+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20013699,
+        "name_tc": "康盛街,近康怡花園Ｂ座",
+        "name_sc": "康盛街,近康怡花园Ｂ座",
+        "name_en": "HONG SHING STREET, near Kornhill Block B"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20014419,
+        "name_tc": "康安街,近康怡花園Ｋ座",
+        "name_sc": "康安街,近康怡花园Ｋ座",
+        "name_en": "HONG ON STREET, near Kornhill Block K"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20013699,
+        "name_tc": "康盛街,近康怡花園Ｂ座",
+        "name_sc": "康盛街,近康怡花园Ｂ座",
+        "name_en": "HONG SHING STREET, near Kornhill Block B"
+      }
+    ],
+    "data_timestamp": "2024-07-07T00:00:10.699+08:00"
+  }
+}

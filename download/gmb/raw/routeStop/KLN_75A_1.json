@@ -1,0 +1,52 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:02:43.841+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20003008,
+        "name_tc": "深水埗 (富昌邨)",
+        "name_sc": "深水埗 (富昌邨)",
+        "name_en": "Fu Cheong Estate"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20020064,
+        "name_tc": "欽州街西近通州街",
+        "name_sc": "钦州街西近通州街",
+        "name_en": "Yen Chow Street West near Tung Chau Street"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20004127,
+        "name_tc": "欽州街",
+        "name_sc": "钦州街",
+        "name_en": "Yen Chow Street "
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20003154,
+        "name_tc": "桂林街",
+        "name_sc": "桂林街",
+        "name_en": " Kweilin Street"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20003080,
+        "name_tc": "欽州街",
+        "name_sc": "钦州街",
+        "name_en": "Yen Chow Street"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20003008,
+        "name_tc": "深水埗 (富昌邨)",
+        "name_sc": "深水埗 (富昌邨)",
+        "name_en": "Fu Cheong Estate"
+      }
+    ],
+    "data_timestamp": "2024-10-25T12:44:11.598+08:00"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:04:35.642+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20015714,
+        "name_tc": "排頭街, 港鐵沙田站外",
+        "name_sc": "排头街, 港铁沙田站外",
+        "name_en": "Pai Tau Street, outside Shatin Station"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20015751,
+        "name_tc": "山尾街, 沙田商業中心對面",
+        "name_sc": "山尾街, 沙田商业中心对面",
+        "name_en": "Shan Mei Street, opposite Shatin Galleria"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20015752,
+        "name_tc": "穗禾路, 穗禾苑二期",
+        "name_sc": "穗禾路, 穗禾苑二期",
+        "name_en": "Sui Wo Road, Sui Wo Court Phase II"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20015753,
+        "name_tc": "穗禾路, 豐景花園C座",
+        "name_sc": "穗禾路, 丰景花园C座",
+        "name_en": "Sui Wo Road, Scenery Garden, Block C"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20015754,
+        "name_tc": "穗禾路, 華翠園第25座",
+        "name_sc": "穗禾路, 华翠园第25座",
+        "name_en": "Sui Wo Road, Greenwood Terrace Block 25"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20015742,
+        "name_tc": "穗禾路, 近沙田渣甸山花園",
+        "name_sc": "穗禾路, 近沙田渣甸山花园",
+        "name_en": "Sui Wo Road, Ville de Jardin"
+      }
+    ],
+    "data_timestamp": "2024-07-21T00:00:39.447+08:00"
+  }
+}

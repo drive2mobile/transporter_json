@@ -1,0 +1,11 @@
+{
+  "id": "KLN_29B_1",
+  "route_id": 2001007,
+  "region": "KLN",
+  "route": "29B",
+  "route_seq": 1,
+  "from_tc": "九龍塘(沙福道)公共交通交匯處",
+  "from_en": "Kowloon Tong (Suffolk Road) Public Transport Interchange",
+  "to_tc": "筆架山 (循環線)",
+  "to_en": "Beacon Hill"
+}

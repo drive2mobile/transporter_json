@@ -1,0 +1,11 @@
+{
+  "id": "KLN_79K_1",
+  "route_id": 2004725,
+  "region": "KLN",
+  "route": "79K",
+  "route_seq": 1,
+  "from_tc": "旺角(柏景灣)",
+  "from_en": "Mong Kok (Park Avenue)",
+  "to_tc": "旺角東站(循環線)",
+  "to_en": "Mong Kok East Station(Circular)"
+}

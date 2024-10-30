@@ -1,0 +1,129 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:03:22.695+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20006957,
+        "name_tc": "鳳園",
+        "name_sc": "凤园",
+        "name_en": "Fung Yuen"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20008251,
+        "name_tc": "鳳園路, 嵐山主要入口",
+        "name_sc": "凤园路, 岚山主要入口",
+        "name_en": "Fung Yuen Road, Mont Vert Main Entrance"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20008252,
+        "name_tc": "鳳園, 流坑村",
+        "name_sc": "凤园, 流坑村",
+        "name_en": "Fung Yuen Road, Lau Hang Tsuen"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20008253,
+        "name_tc": "鳳園, 田心村",
+        "name_sc": "凤园, 田心村",
+        "name_en": "Fung Yuen Road, Tin Sam Tsuen"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20001217,
+        "name_tc": "汀角路, 近漁角",
+        "name_sc": "汀角路, 近渔角",
+        "name_en": "Ting Kok Road, near Yue Kok"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20001218,
+        "name_tc": "汀角路西行, 近救恩書院的巴士停車灣",
+        "name_sc": "汀角路西行, 近救恩书院的巴士停车湾",
+        "name_en": "Ting Kok Road, westbound bus lay-by near Kau Yan College"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20001220,
+        "name_tc": "南運路, 新興花園",
+        "name_sc": "南运路, 新兴花园",
+        "name_en": "Nam Wan Road Sun Hing Garden"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20007677,
+        "name_tc": "廣福邨, 廣智樓",
+        "name_sc": "广福邨, 广智楼",
+        "name_en": "Kwong Fuk Estate, Kwong Chi House"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20007228,
+        "name_tc": "運頭街, 大埔墟街市",
+        "name_sc": "运头街, 大埔墟街市",
+        "name_en": "Wan Tau Street, Tai Po Hui Market"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20001193,
+        "name_tc": "大埔墟站專線小巴總站",
+        "name_sc": "大埔墟站专线小巴总站",
+        "name_en": "Tai Po Market Station Minibus Terminus"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20001244,
+        "name_tc": "南運路, 大埔超級城",
+        "name_sc": "南运路, 大埔超級城",
+        "name_en": "Chung Nga Road, outside Sacred Heart of Mary Catholic Primary School"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20001245,
+        "name_tc": "汀角路, 怡雅苑",
+        "name_sc": "汀角路, 怡雅苑",
+        "name_en": "Ting Kok Road, Yee Nga Court"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20006552,
+        "name_tc": "汀角路, 近漁角",
+        "name_sc": "汀角路, 近渔角",
+        "name_en": "Ting Kok Road, near Yue Kok"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20008254,
+        "name_tc": "鳳園, 田心村",
+        "name_sc": "凤园, 田心村",
+        "name_en": "Fung Yuen Road, Tin Sam Tsuen"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20008255,
+        "name_tc": "鳳園, 流坑村",
+        "name_sc": "凤园, 流坑村",
+        "name_en": "Fung Yuen Road, Lau Hang Tsuen"
+      },
+      {
+        "stop_seq": 16,
+        "stop_id": 20008256,
+        "name_tc": "鳳園路, 嵐山主要入口",
+        "name_sc": "凤园路, 岚山主要入口",
+        "name_en": "Fung Yuen Road, Mont Vert Main Entrance"
+      },
+      {
+        "stop_seq": 17,
+        "stop_id": 20006957,
+        "name_tc": "鳳園",
+        "name_sc": "凤园",
+        "name_en": "Fung Yuen"
+      }
+    ],
+    "data_timestamp": "2024-07-31T16:28:25.193+08:00"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "NT_20K_1",
+  "route_id": 2001478,
+  "region": "NT",
+  "route": "20K",
+  "route_seq": 1,
+  "from_tc": "沙欄路",
+  "from_en": "Sha Lan Road",
+  "to_tc": "大埔墟",
+  "to_en": "Tai Po Market"
+}

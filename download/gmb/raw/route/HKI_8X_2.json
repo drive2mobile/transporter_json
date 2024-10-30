@@ -1,0 +1,11 @@
+{
+  "id": "HKI_8X_2",
+  "route_id": 2004087,
+  "region": "HKI",
+  "route": "8X",
+  "route_seq": 2,
+  "from_tc": "中環(交易廣場)",
+  "from_en": "Central (Exchange Square)",
+  "to_tc": "碧瑤灣(下)",
+  "to_en": "Baguio Villas (Lower)"
+}

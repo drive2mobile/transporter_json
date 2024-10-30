@@ -1,0 +1,11 @@
+{
+  "id": "NT_56C_1",
+  "route_id": 2001025,
+  "region": "NT",
+  "route": "56C",
+  "route_seq": 1,
+  "from_tc": "粉嶺站",
+  "from_en": "Fanling Station",
+  "to_tc": "小坑村",
+  "to_en": "Siu Hang Tsuen"
+}

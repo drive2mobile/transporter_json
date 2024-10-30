@@ -1,0 +1,11 @@
+{
+  "id": "KLN_23C_1",
+  "route_id": 2008391,
+  "region": "KLN",
+  "route": "23C",
+  "route_seq": 1,
+  "from_tc": "藍田站 (茜發道)",
+  "from_en": "Lam Tin Station (Sin Fat Road)",
+  "to_tc": "油塘站 (茶果嶺道)(循環線)",
+  "to_en": "Yau Tong Station (Cha Kwo Ling Road)(Circular)"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "NT_409S_1",
+  "route_id": 2008655,
+  "region": "NT",
+  "route": "409S",
+  "route_seq": 1,
+  "from_tc": "青衣(長亨)",
+  "from_en": "Tsing Yi (Cheung Hang)",
+  "to_tc": "荃灣(荃灣街市街)經德海街(循環線)",
+  "to_en": "Tsuen Wan (Tsuen Wan Market Street) via Tak Hoi Street(Circular)"
+}

@@ -1,0 +1,108 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:02:23.213+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20000409,
+        "name_tc": "快富街近西洋菜南街",
+        "name_sc": "快富街近西洋菜南街",
+        "name_en": "Fife Street near Sai Yeung Choi Street South"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20000912,
+        "name_tc": "亞皆老街, 嘉麗園",
+        "name_sc": "亚皆老街, 嘉丽园",
+        "name_en": "Argyle Street, Glen Haven"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20000721,
+        "name_tc": "窩打老道, 萬基大廈外",
+        "name_sc": "窝打老道, 万基大厦外",
+        "name_en": "Waterloo Road, outside Man Kee Mansion"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20000472,
+        "name_tc": "培正道巴士站, 近九龍公共圖書館",
+        "name_sc": "培正道巴士站, 近九龙公共图书馆",
+        "name_en": "Pui Ching Road At Bus Bay Near Kowloon Public Library"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20007353,
+        "name_tc": "常盛街, 德蘭中學",
+        "name_sc": "常盛街, 德兰中学",
+        "name_en": "Sheung Shing Street, St. Teresa Secondary School"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20007536,
+        "name_tc": "常盛街, 常樂邨",
+        "name_sc": "常盛街, 常乐邨",
+        "name_en": "Sheung Shing Street, Sheung Lok Estate"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20008388,
+        "name_tc": "常盛街, 常盛閣",
+        "name_sc": "常盛街, 常盛阁 ",
+        "name_en": "Sheung Shing Street, Sheung Shing Court"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20006054,
+        "name_tc": "天光道,近新亞中學",
+        "name_sc": "天光道,近新亚中学",
+        "name_en": "TIN KWONG ROAD, near NEW ASIA MIDDLE SCHOOL"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20000440,
+        "name_tc": "馬頭圍道187號",
+        "name_sc": "马头围道187号",
+        "name_en": "No.187 Ma Tau Wai Road"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20006055,
+        "name_tc": "上鄉道, 炮仗街",
+        "name_sc": "上乡道, 炮仗街",
+        "name_en": "Sheung Keung Road, Pau Chung Street"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20002012,
+        "name_tc": "上鄉道, 長寧街",
+        "name_sc": "上乡道, 长宁街",
+        "name_en": "Sheung Heung Road, Cheung Ning Street"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20000733,
+        "name_tc": "土瓜灣道, 新利華中心",
+        "name_sc": "土瓜湾道, 新利华中心",
+        "name_en": "To Kwa Wan Road, New Lee Wah Centre"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20000508,
+        "name_tc": "新碼頭街, 紅棉工業大廈",
+        "name_sc": "新码头街, 红棉工业大厦",
+        "name_en": "San Ma Tau Road, Kapok Industrial Building"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20000489,
+        "name_tc": "偉景街, 偉景閣A座外",
+        "name_sc": "伟景街, 伟景阁A座外",
+        "name_en": "Wai King Street, outside Block A, Wei Chien Court"
+      }
+    ],
+    "data_timestamp": "2024-10-28T17:35:02.409+08:00"
+  }
+}

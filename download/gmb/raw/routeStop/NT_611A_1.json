@@ -1,0 +1,31 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:04:24.737+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20001282,
+        "name_tc": "元朗站(北)公共運輸交匯處",
+        "name_sc": "元朗站(北)公共运输交汇处",
+        "name_en": "Yuen Long Station (North) Public Transport Interchange"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20016744,
+        "name_tc": "山貝路, 近采葉庭13座",
+        "name_sc": "山贝路, 近采叶庭13座",
+        "name_en": "Shan Pui Road, Near The Parcville Tower 13"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20001282,
+        "name_tc": "元朗站(北)公共運輸交匯處",
+        "name_sc": "元朗站(北)公共运输交汇处",
+        "name_en": "Yuen Long Station (North) Public Transport Interchange"
+      }
+    ],
+    "data_timestamp": "2024-10-25T16:51:06.436+08:00"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "KLN_20_1",
+  "route_id": 2004989,
+  "region": "KLN",
+  "route": "20",
+  "route_seq": 1,
+  "from_tc": "新蒲崗",
+  "from_en": "San Po Kong",
+  "to_tc": "慈雲山(北)(循環線)",
+  "to_en": "Tsz Wan Shan (North) (Circular)"
+}

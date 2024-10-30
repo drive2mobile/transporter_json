@@ -1,0 +1,11 @@
+{
+  "id": "NT_114A_1",
+  "route_id": 2005155,
+  "region": "NT",
+  "route": "114A",
+  "route_seq": 1,
+  "from_tc": "將軍澳站",
+  "from_en": "Tseung Kwan O Station",
+  "to_tc": "海天晉(循環線)",
+  "to_en": "Ocean Wings(Circular)"
+}

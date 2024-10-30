@@ -1,0 +1,11 @@
+{
+  "id": "HKI_32_2",
+  "route_id": 2005689,
+  "region": "HKI",
+  "route": "32",
+  "route_seq": 2,
+  "from_tc": "筲箕灣站",
+  "from_en": "Shau Kei Wan Station",
+  "to_tc": "康山",
+  "to_en": "Kornhill"
+}

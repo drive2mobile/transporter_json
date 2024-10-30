@@ -1,0 +1,108 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:03:28.406+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20012903,
+        "name_tc": "馬鞍山(海栢花園)小巴總站",
+        "name_sc": "马鞍山(海栢花园)小巴总站",
+        "name_en": "Ma On Shan (Bayshore Towers) Minibus Terminus"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20012904,
+        "name_tc": "鞍駿街,　近　馬鞍山公園",
+        "name_sc": "鞍骏街,　近　马鞍山公园",
+        "name_en": "ON CHUN STREET, near MA ON SHAN PARK"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20012905,
+        "name_tc": "西沙路, 新港城外",
+        "name_sc": "西沙路, 新港城外",
+        "name_en": "Sai Sha Road, outside Sunshine City"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20001235,
+        "name_tc": "西沙路, 福安花園對面",
+        "name_sc": "西沙路, 福安花园对面",
+        "name_en": "Sai Sha Road, opposite Fok On Garden"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20012906,
+        "name_tc": "恒康街, 曾璧山中學外",
+        "name_sc": "恒康街, 曾璧山中学外",
+        "name_en": "Hang Hong Street, outside Tsang Pik Shan Secondary School"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20012907,
+        "name_tc": "恆康街,　近　馬鞍山聖若瑟中學",
+        "name_sc": "恒康街,　近　马鞍山圣若瑟中学",
+        "name_en": "HANG HONG STREET, near Ma On Shan St. Joseph's Secondary School"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20012908,
+        "name_tc": "恒康街, 耀安邨耀平樓外",
+        "name_sc": "恒康街, 耀安邨耀平楼外",
+        "name_en": "Hang Hong Street, outside Yiu On Estate Bus Terminus"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20008783,
+        "name_tc": "大埔公路－元洲仔段,近廣福公園",
+        "name_sc": "大埔公路－元洲仔段,近广福公园",
+        "name_en": "TAI PO ROAD - YUEN CHAU TSAI, near Kwong Fuk Park"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20012887,
+        "name_tc": "廣福道, 近廣福大樓",
+        "name_sc": "广福道, 近广福大楼 ",
+        "name_en": "Kwong Fuk Road, near Kwong Fuk Building"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20012910,
+        "name_tc": "寶鄉街,　近　寶鄉橋休憩處",
+        "name_sc": "宝乡街,　近　宝乡桥休憩处",
+        "name_en": "PO HEUNG STREET, near Po Heung Bridge Sitting-out Area"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20001243,
+        "name_tc": "大埔太和路, 大埔中心外",
+        "name_sc": "大埔太和路, 大埔中心外",
+        "name_en": "Tai Po Tai Wo Road, outside Tai Po Centre"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20001244,
+        "name_tc": "南運路, 大埔超級城",
+        "name_sc": "南运路, 大埔超级城",
+        "name_en": "Nam Wan Road, Tai Po Mega Mall"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20001245,
+        "name_tc": "汀角路,　近　中華聖潔會靈風中學",
+        "name_sc": "汀角路,　近　中华圣洁会灵风中学",
+        "name_en": "TING KOK ROAD, near China Holiness Church Living Spirit College"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20012901,
+        "name_tc": "香港教育大學小巴總站",
+        "name_sc": "香港教育大学小巴总站",
+        "name_en": "The Education University of Hong Kong Minibus Terminus"
+      }
+    ],
+    "data_timestamp": "2024-08-07T13:55:12.867+08:00"
+  }
+}

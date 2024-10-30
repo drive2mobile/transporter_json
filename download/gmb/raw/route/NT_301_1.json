@@ -1,0 +1,11 @@
+{
+  "id": "NT_301_1",
+  "route_id": 2001689,
+  "region": "NT",
+  "route": "301",
+  "route_seq": 1,
+  "from_tc": "祈德尊新邨",
+  "from_en": "Clague Garden Estate",
+  "to_tc": "荃灣站(循環線)",
+  "to_en": "Tsuen Wan Station(Circular)"
+}

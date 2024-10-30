@@ -1,0 +1,11 @@
+{
+  "id": "NT_44_1",
+  "route_id": 2003966,
+  "region": "NT",
+  "route": "44",
+  "route_seq": 1,
+  "from_tc": "屯門碼頭",
+  "from_en": "Tuen Mun Ferry Pier",
+  "to_tc": "上水站",
+  "to_en": "Sheung Shui Station"
+}

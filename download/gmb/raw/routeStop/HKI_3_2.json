@@ -1,0 +1,80 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:01:32.040+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20014550,
+        "name_tc": "寶珊道, 近寶城大廈Ａ座",
+        "name_sc": "宝珊道, 近宝城大厦Ａ座 ",
+        "name_en": "PO SHAN ROAD, near Po Shan Mansions Block A"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20014551,
+        "name_tc": "旭龢道, 近旭龢道食水配水庫",
+        "name_sc": "旭和道, 近旭和道食水配水库 ",
+        "name_en": "KOTEWALL ROAD, near Kotewall Road Fresh Water Service Reservoir"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20014552,
+        "name_tc": "旭龢道, 近香港大學校長寓所",
+        "name_sc": "旭龢道, 近香港大学校长寓所",
+        "name_en": "KOTEWALL ROAD, near The University of Hong Kong University Lodge"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20014553,
+        "name_tc": "干德道, 近干德道休憩花園",
+        "name_sc": "干德道, 近干德道休憩花园 ",
+        "name_en": "CONDUIT ROAD, near CONDUIT ROAD REST GARDEN"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20012963,
+        "name_tc": "干德道, 近殷樺花園２期",
+        "name_sc": "干德道, 近殷桦花园２期 ",
+        "name_en": "Conduit Road, near Blessings Garden Phase 2"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20012964,
+        "name_tc": "干德道, 近The Icon",
+        "name_sc": "干德道, 近The Icon ",
+        "name_en": "Conduit Road, near The Icon"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20012965,
+        "name_tc": "干德道, 近美景臺Ｂ座",
+        "name_sc": "干德道, 近美景台Ｂ座 ",
+        "name_en": "CONDUIT ROAD, near Elegant Garden Block B"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20014491,
+        "name_tc": "雪廠街, 近印刷行",
+        "name_sc": "雪廠街, 近印刷行 ",
+        "name_en": "ICE HOUSE STREET, near Printing House"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20000024,
+        "name_tc": "畢打街, 近中環站 D1 出口",
+        "name_sc": "毕打街, 近中环站 D1 出口",
+        "name_en": "Pedder Street, near Central Station Exit D1"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20014492,
+        "name_tc": "香港站小巴總站",
+        "name_sc": "香港站小巴总站",
+        "name_en": "Hong Kong Station Minibus Terminus"
+      }
+    ],
+    "data_timestamp": "2024-10-29T11:53:00.150+08:00"
+  }
+}

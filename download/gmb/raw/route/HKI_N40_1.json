@@ -1,0 +1,11 @@
+{
+  "id": "HKI_N40_1",
+  "route_id": 2001264,
+  "region": "HKI",
+  "route": "N40",
+  "route_seq": 1,
+  "from_tc": "赤柱村",
+  "from_en": "Stanley Village",
+  "to_tc": "渣甸街",
+  "to_en": "Jardine's Bazaar"
+}

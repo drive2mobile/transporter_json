@@ -1,0 +1,11 @@
+{
+  "id": "NT_313_2",
+  "route_id": 2004296,
+  "region": "NT",
+  "route": "313",
+  "route_seq": 2,
+  "from_tc": "瑪嘉烈醫院",
+  "from_en": "Princess Margaret Hospital",
+  "to_tc": "荃灣(曹公街)",
+  "to_en": "Tsuen Wan (Tso Kung Street)"
+}

@@ -1,0 +1,171 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:02:41.476+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20017067,
+        "name_tc": "奧運站公共運輸交匯處",
+        "name_sc": "奥运站公共运输交汇处",
+        "name_en": "Olympic Station Public Transport Interchange"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20017068,
+        "name_tc": "大角咀道7號",
+        "name_sc": "大角咀道7号",
+        "name_en": "No.7 Tai Kok Tsui Road"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20017049,
+        "name_tc": "大角咀道, 興旺大廈外",
+        "name_sc": "大角咀道, 兴旺大厦外",
+        "name_en": "Tai Kok Tsui Road, outside Hing Wong Mansion"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20001082,
+        "name_tc": "大角咀道, 大同新邨大公樓外\t",
+        "name_sc": "大角咀道, 大同新邨大公楼外",
+        "name_en": "Tai Kok Tsui Road, outside Tai Kung Building, Tai Tung Sun Tseun"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20017050,
+        "name_tc": "大角咀道191號",
+        "name_sc": "大角咀道191号",
+        "name_en": "No.191 Tai Kok Tsui Road"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20017051,
+        "name_tc": "醫局街, 森明大樓外",
+        "name_sc": "医局街, 森明大楼外",
+        "name_en": "Yee Kuk Street, outside Shum Ming Building"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20017052,
+        "name_tc": "界限街13D號, 南楓樓對面",
+        "name_sc": "界限街13D号, 南枫楼对面",
+        "name_en": "No.13D Boundary Street , opposite Nam Fung House"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20017054,
+        "name_tc": "界限街, 恆順大樓外",
+        "name_sc": "界限街, 恒顺大楼外",
+        "name_en": "Boundary Street, outside Hang Shun Building"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20017053,
+        "name_tc": "汝州街, 永泰樓對面",
+        "name_sc": "汝州街, 永泰楼对面",
+        "name_en": "Yu Chau Street, opposite Wing Tai Building"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20015159,
+        "name_tc": "界限街, 九龍麗東酒店對面",
+        "name_sc": "界限街, 九龙丽东酒店对面",
+        "name_en": "Boundary Street, opposite Newton Hotel Kowloon"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20015160,
+        "name_tc": "界限街, 旺角大球場對面",
+        "name_sc": "界限街, 旺角大球场对面",
+        "name_en": "Boundary Street, opposite Mong Kok Stadium"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20017060,
+        "name_tc": "界限街埃索油站",
+        "name_sc": "界限街埃索油站",
+        "name_en": "Boundary Street, Esso Petrol Station"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20017061,
+        "name_tc": "界限街, 僑園對面",
+        "name_sc": "界限街, 侨园对面",
+        "name_en": "Boundary Street, opposite Overseas Court"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20017062,
+        "name_tc": "界限街, 碧華花園第6座外",
+        "name_sc": "界限街, 碧华花园第6座外",
+        "name_en": "Boundary Street, outside Block 6, Beverly Villas"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20014210,
+        "name_tc": "界限街, 辰龍閣外",
+        "name_sc": "界限街, 辰龙阁外",
+        "name_en": "Boundary Street, outside Lee's Mansion"
+      },
+      {
+        "stop_seq": 16,
+        "stop_id": 20015112,
+        "name_tc": "太子道西, 國華樓外",
+        "name_sc": "太子道西, 国华楼外",
+        "name_en": "Prince Edward Road West, outside Kwok Hwa Building"
+      },
+      {
+        "stop_seq": 17,
+        "stop_id": 20017063,
+        "name_tc": "太子道東, 啟德政府大樓對面",
+        "name_sc": "太子道东, 启德政府大楼对面",
+        "name_en": "Prince Edward Road East, opposite Kai Tak Government Building"
+      },
+      {
+        "stop_seq": 18,
+        "stop_id": 20017064,
+        "name_tc": "彩虹道, 天主教伍華中學外",
+        "name_sc": "彩虹道, 天主教伍华中学外",
+        "name_en": "Choi Hung Road, outside Ng Wah Catholic Secondary School"
+      },
+      {
+        "stop_seq": 19,
+        "stop_id": 20012384,
+        "name_tc": "彩虹道, 寶興大廈對面",
+        "name_sc": "彩虹道, 宝兴大厦对面",
+        "name_en": "Choi Hung Road, opposite Po Hing Mansion"
+      },
+      {
+        "stop_seq": 20,
+        "stop_id": 20017065,
+        "name_tc": "彩虹道, 啟德花園外",
+        "name_sc": "彩虹道, 启德花园外",
+        "name_en": "Choi Hung Road, outside Kai Tak Garden"
+      },
+      {
+        "stop_seq": 21,
+        "stop_id": 20001093,
+        "name_tc": "彩虹道, 黃大仙區警署外",
+        "name_sc": "彩虹道, 黄大仙区警署外",
+        "name_en": "Choi Hung Road, outside Wong Tai Sin Police Station"
+      },
+      {
+        "stop_seq": 22,
+        "stop_id": 20013975,
+        "name_tc": "鳳德道, 鳳德邨斑鳳樓外",
+        "name_sc": "凤德道, 凤德邨斑凤楼外",
+        "name_en": "Fung Tak Road, outside Ban Fung House"
+      },
+      {
+        "stop_seq": 23,
+        "stop_id": 20000588,
+        "name_tc": "鑽石山站公共運輸交匯處",
+        "name_sc": "钻石山站公共运输交汇处",
+        "name_en": "Diamond Hill Station Public Transport Interchange"
+      }
+    ],
+    "data_timestamp": "2024-10-28T17:26:57.758+08:00"
+  }
+}

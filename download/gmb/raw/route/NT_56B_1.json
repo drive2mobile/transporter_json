@@ -1,0 +1,11 @@
+{
+  "id": "NT_56B_1",
+  "route_id": 2001023,
+  "region": "NT",
+  "route": "56B",
+  "route_seq": 1,
+  "from_tc": "粉嶺站",
+  "from_en": "Fanling Station",
+  "to_tc": "丹竹坑",
+  "to_en": "Tan Chuk Hang"
+}

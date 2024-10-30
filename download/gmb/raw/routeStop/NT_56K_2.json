@@ -1,0 +1,87 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:04:14.993+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20020070,
+        "name_tc": "新娘潭路近鹿頸路的停車灣(總站)",
+        "name_sc": "新娘潭路近鹿颈路的停车湾(总站)",
+        "name_en": "The Public Car Park at Bride's Pool Road near Luk Keng Road (Terminus)"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20001483,
+        "name_tc": "鹿頸路, 近鹿頸黃屋",
+        "name_sc": "鹿颈路, 近鹿颈黄屋",
+        "name_en": "Luk Keng Road, near Luk Keng Wong Uk"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20004539,
+        "name_tc": "沙頭角公路, 鹿頸路",
+        "name_sc": "沙头角公路, 鹿颈路",
+        "name_en": "Sha Tau Kok Road, Luk Keng Road"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20003242,
+        "name_tc": "沙頭角公路, 上禾坑",
+        "name_sc": "沙头角公路, 上禾坑",
+        "name_en": "Sha Tau Kok Road, Sheung Wo Hang"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20003243,
+        "name_tc": "沙頭角公路, 萬屋邊",
+        "name_sc": "沙头角公路, 万屋边",
+        "name_en": "Sha Tau Kok Road, Man Uk Pin"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20003244,
+        "name_tc": "沙頭角公路, 萊洞",
+        "name_sc": "沙头角公路, 莱洞",
+        "name_en": "Sha Tau Kok Road, Loi Tung"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20003245,
+        "name_tc": "沙頭角公路, 馬尾下",
+        "name_sc": "沙头角公路, 马尾下",
+        "name_en": "Sha Tau Kok Road, Ma Mei Ha"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20003246,
+        "name_tc": "沙頭角公路, 坪輋路",
+        "name_sc": "沙头角公路, 坪輋路",
+        "name_en": "Sha Tau Kok Road, Ping Che Road"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20007809,
+        "name_tc": "聯和道, 聯和墟街市外",
+        "name_sc": "联和道, 联和墟街市外",
+        "name_en": "Luen Wo Road, outside Luen Wo Hui Market"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20001456,
+        "name_tc": "新運路, 近祥華邨祥頌樓",
+        "name_sc": "新运路, 近祥华村祥颂楼",
+        "name_en": "San Wan Road, Near Cheung Chung House, Cheung Wah Estate"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20007810,
+        "name_tc": "粉嶺站專綫小巴總站",
+        "name_sc": "粉岭站专綫小巴总站",
+        "name_en": "Fanling Station Public Light Bus (Scheduled) Service Terminus"
+      }
+    ],
+    "data_timestamp": "2024-10-25T15:41:12.984+08:00"
+  }
+}

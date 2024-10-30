@@ -1,0 +1,11 @@
+{
+  "id": "NT_20B_1",
+  "route_id": 2005484,
+  "region": "NT",
+  "route": "20B",
+  "route_seq": 1,
+  "from_tc": "大埔墟站",
+  "from_en": "Tai Po Market Station",
+  "to_tc": "洞梓",
+  "to_en": "Tung Tsz"
+}

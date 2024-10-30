@@ -1,0 +1,45 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:04:11.500+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20014617,
+        "name_tc": "軍地(北)",
+        "name_sc": "军地(北)",
+        "name_en": "KWAN TEI (NORTH)"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20014464,
+        "name_tc": "沙頭角公路－龍躍頭段, 近軍地",
+        "name_sc": "沙头角公路－龙跃头段, 近军地",
+        "name_en": "SHA TAU KOK ROAD - LUNG YEUK TAU, near KWAN TEI"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20014465,
+        "name_tc": "聯和道, 近聯和墟遊樂場",
+        "name_sc": "联和道, 近联和墟游乐场",
+        "name_en": "LUEN WO ROAD, near Luen Wo Hui Playground"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20014456,
+        "name_tc": "新運路, 近祥華邨祥頌樓",
+        "name_sc": "新运路, 近祥华邨祥颂楼",
+        "name_en": "SAN WAN ROAD, near Cheung Chung House, CHEUNG WAH ESTATE"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20014457,
+        "name_tc": "粉嶺車站路, 近粉嶺名都嘉麗閣",
+        "name_sc": "粉岭车站路, 近粉岭名都嘉丽阁",
+        "name_en": "FANLING STATION ROAD, near Galaxy Court, FANLING TOWN CENTER"
+      }
+    ],
+    "data_timestamp": "2024-10-25T15:49:52.537+08:00"
+  }
+}

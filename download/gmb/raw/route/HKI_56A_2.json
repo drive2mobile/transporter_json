@@ -1,0 +1,11 @@
+{
+  "id": "HKI_56A_2",
+  "route_id": 2001130,
+  "region": "HKI",
+  "route": "56A",
+  "route_seq": 2,
+  "from_tc": "天后站",
+  "from_en": "Tin Hau Station",
+  "to_tc": "羅便臣道",
+  "to_en": "Mid-Levels (Robinson Road)"
+}

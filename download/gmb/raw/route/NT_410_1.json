@@ -1,0 +1,11 @@
+{
+  "id": "NT_410_1",
+  "route_id": 2005056,
+  "region": "NT",
+  "route": "410",
+  "route_seq": 1,
+  "from_tc": "瑪嘉烈醫院",
+  "from_en": "Princess Margaret Hospital",
+  "to_tc": "東北葵涌",
+  "to_en": "Northeast Kwai Chung"
+}

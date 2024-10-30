@@ -1,0 +1,11 @@
+{
+  "id": "HKI_32A_1",
+  "route_id": 2005688,
+  "region": "HKI",
+  "route": "32A",
+  "route_seq": 1,
+  "from_tc": "康景花園",
+  "from_en": "Mount Parker Lodge",
+  "to_tc": "英皇道(太古城中心)(循環線)",
+  "to_en": "Kings Road (City Plaza) (Circular)"
+}

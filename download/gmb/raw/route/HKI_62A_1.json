@@ -1,0 +1,11 @@
+{
+  "id": "HKI_62A_1",
+  "route_id": 2004091,
+  "region": "HKI",
+  "route": "62A",
+  "route_seq": 1,
+  "from_tc": "小西灣(藍灣半島)公共運輸交匯處",
+  "from_en": "Siu Sai Wan (Island Resort) Public Transport Interchange",
+  "to_tc": "杏花邨公共交通交匯處",
+  "to_en": "Heng Fa Chuen Public Transport Interchange"
+}

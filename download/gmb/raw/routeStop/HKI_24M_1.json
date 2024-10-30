@@ -1,0 +1,73 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:01:28.142+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20000140,
+        "name_tc": "畢拉山道111號M座對面",
+        "name_sc": "毕拉山道111号M座对面",
+        "name_en": "No.111 Mount Bulter Road, opposite Block M"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20003522,
+        "name_tc": "畢拉山道, 渣甸園外",
+        "name_sc": "毕拉山道, 渣甸园外",
+        "name_en": "Mount Bulter Road, outside Jardine Court"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20003523,
+        "name_tc": "大坑道, 近藍塘道",
+        "name_sc": "大坑道, 近蓝塘道",
+        "name_en": "Tai Hang Road near Blue Pool Road"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20003524,
+        "name_tc": "司徒拔道, 港安醫院外",
+        "name_sc": "司徒拔道, 港安医院外",
+        "name_en": "Stubbs Road, near Aia Building Access Road"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20003525,
+        "name_tc": "司徒拔道, 嶺南中學外",
+        "name_sc": "司徒拔道, 岭南中学外",
+        "name_en": "Stubbs Road, outside Ling Nan College"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20000136,
+        "name_tc": "皇后大道東, 近香港華仁書院",
+        "name_sc": "皇后大道东, 近香港华仁书院",
+        "name_en": "Queen's Road East, near Wah Yan College, Hong Kong"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20000137,
+        "name_tc": "皇后大道東213號",
+        "name_sc": "皇后大道东213号",
+        "name_en": "No.213 Queen's Road East"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20000139,
+        "name_tc": "駱克道, 盧押道以西",
+        "name_sc": "骆克道, 卢押道以西",
+        "name_en": "Lockhart Road, West Of Luard Road"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20000066,
+        "name_tc": "德立街, 近港鐵站入口",
+        "name_sc": "德立街, 近港铁站入口",
+        "name_en": "Drake Street, near MTR exit"
+      }
+    ],
+    "data_timestamp": "2024-10-29T16:35:11.269+08:00"
+  }
+}

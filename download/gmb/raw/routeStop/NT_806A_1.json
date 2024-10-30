@@ -1,0 +1,213 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:04:45.306+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20001544,
+        "name_tc": "黃泥頭巴士總站",
+        "name_sc": "黄泥头巴士总站",
+        "name_en": "Wong Nai Tau Bus Terminus"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20001545,
+        "name_tc": "小瀝源路, 廣源邨停車場外",
+        "name_sc": "小沥源路, 广源邨停车场外",
+        "name_en": "Siu Lek Yuen Road, outside Kwong Yuen Estate Carpark"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20007673,
+        "name_tc": "小瀝源路, 廣柏樓外",
+        "name_sc": "小沥源路, 广柏楼外",
+        "name_en": "Siu Lek Yuen Road, outside Kwong Pak House"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20002289,
+        "name_tc": "廣善街, 廣榕樓外",
+        "name_sc": "广善街, 广榕楼外",
+        "name_en": "Kwong Sin Street, outside Kwong Yung House"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20002290,
+        "name_tc": "廣善街, 近香港恒生大學",
+        "name_sc": "广善街, 近香港恒生大学",
+        "name_en": "Kwong Sin Street, near The Hang Seng University of Hong Kong"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20007674,
+        "name_tc": "牛皮沙街, 近牛皮沙村",
+        "name_sc": "牛皮沙街, 近牛皮沙村",
+        "name_en": "Ngau Pei Sha Street, near Ngau Pei Sha Village"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20001547,
+        "name_tc": "牛皮沙街, 愉翠苑外",
+        "name_sc": "牛皮沙街, 愉翠苑外",
+        "name_en": "Ngau Pei Sha Street, outside Yu Chui Court"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20002293,
+        "name_tc": "插桅杆街, 欣廷軒外",
+        "name_sc": "插桅杆街, 欣廷轩外",
+        "name_en": "Chap Wai Kon Street, outside Prima Villa"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20007675,
+        "name_tc": "銀城街, 圓洲角普通科門診診所外",
+        "name_sc": "银城街, 圆洲角普通科门诊诊所外",
+        "name_en": "Ngan Shing Street, outside Yuen Chau Kok General Out-Patient Clinic"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20002327,
+        "name_tc": "銀城街, 第一城",
+        "name_sc": "银城街, 第一城",
+        "name_en": "Ngan Shing Street, City One"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20002235,
+        "name_tc": "大涌橋路, 沙田第一城對面",
+        "name_sc": "大涌桥路, 沙田第一城对面",
+        "name_en": "Tai Chung Kiu Road, opposite City One Shatin"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20001567,
+        "name_tc": "大涌橋路, 濱景花園外",
+        "name_sc": "大涌桥路, 滨景花园外",
+        "name_en": "Tai Chung Kiu Road, outside Ravana Garden"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20003336,
+        "name_tc": "科學園路, 水上活動中心對面",
+        "name_sc": "科学园路, 水上活动中心对面",
+        "name_en": "Science Park Road, opposite Water Sports Centre"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20002981,
+        "name_tc": "科學園路, 近香港生物科技研究院",
+        "name_sc": "科学园路, 近香港生物科技研究院",
+        "name_en": "Science Park Road, near Research Institute Of Biotechnology"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20007046,
+        "name_tc": "創新路, 近科學園第一期",
+        "name_sc": "创新路, 近科学园第一期",
+        "name_en": "Chong San Road, near Science Park Phase 1"
+      },
+      {
+        "stop_seq": 16,
+        "stop_id": 20007048,
+        "name_tc": "創新路, 近科學園第三期",
+        "name_sc": "创新路, 近科学园第三期",
+        "name_en": "Chong San Road, near Science Park Phase 3"
+      },
+      {
+        "stop_seq": 17,
+        "stop_id": 20007095,
+        "name_tc": "創新路, 近雲滙",
+        "name_sc": "创新路, 近云滙",
+        "name_en": "Chong San Road, near St. Martin"
+      },
+      {
+        "stop_seq": 18,
+        "stop_id": 20008776,
+        "name_tc": "科進路, 逸瓏灣外",
+        "name_sc": "科进路, 逸珑湾外",
+        "name_en": "Fo Chun Road, outside Mayfair by the Sea"
+      },
+      {
+        "stop_seq": 19,
+        "stop_id": 20007097,
+        "name_tc": "科進路溋玥‧天賦海灣外",
+        "name_sc": "科进路溋玥‧天赋海湾外",
+        "name_en": "Fo Chun Road, outside Providence Peak "
+      },
+      {
+        "stop_seq": 20,
+        "stop_id": 20007676,
+        "name_tc": "創新路天賦海灣1期對面 ",
+        "name_sc": "创新路天赋海湾1期对面",
+        "name_en": "Chong San Road opposite to Providence Peak (Phase 1)"
+      },
+      {
+        "stop_seq": 21,
+        "stop_id": 20008783,
+        "name_tc": "大埔公路, 廣福公園外",
+        "name_sc": "大埔公路, 广福公园外",
+        "name_en": "Tai Po Road, outside Kwong Fuk Park"
+      },
+      {
+        "stop_seq": 22,
+        "stop_id": 20008787,
+        "name_tc": "廣福道, 王肇枝中學外",
+        "name_sc": "广福道, 王肇枝中学外",
+        "name_en": "Kwong Fuk Road, outside Wong Shiu Chi Secondary School"
+      },
+      {
+        "stop_seq": 23,
+        "stop_id": 20003030,
+        "name_tc": "廣福道, 運頭角里",
+        "name_sc": "广福道, 运头角里",
+        "name_en": "Kwong Fuk Road, Wan Tau Kok Lane"
+      },
+      {
+        "stop_seq": 24,
+        "stop_id": 20001241,
+        "name_tc": "廣福道, 近廣福大廈",
+        "name_sc": "广福道, 近广福大厦",
+        "name_en": "Kwong Fuk Road, near Kwong Fuk Building"
+      },
+      {
+        "stop_seq": 25,
+        "stop_id": 20002523,
+        "name_tc": "寶鄉街, 近寶鄉橋",
+        "name_sc": "宝乡街, 近宝乡桥",
+        "name_en": "Po Heung Street, near Po Heung Bridge"
+      },
+      {
+        "stop_seq": 26,
+        "stop_id": 20008814,
+        "name_tc": "大埔太和路, 大埔中心外",
+        "name_sc": "大埔太和路, 大埔中心外",
+        "name_en": "Tai Po Tai Wo Road, outside Tai Po Centre"
+      },
+      {
+        "stop_seq": 27,
+        "stop_id": 20008822,
+        "name_tc": "南運路, 近廣智樓",
+        "name_sc": "南运路, 近广智楼",
+        "name_en": "Nam Wan Road, near Kwong Chi House"
+      },
+      {
+        "stop_seq": 28,
+        "stop_id": 20008832,
+        "name_tc": "南運路, 近運來樓",
+        "name_sc": "南运路, 近运来楼",
+        "name_en": "Nam Wan Road, near Wan Loi House"
+      },
+      {
+        "stop_seq": 29,
+        "stop_id": 20007679,
+        "name_tc": "運頭塘總站",
+        "name_sc": "运头塘总站",
+        "name_en": "Wan Tau Tong Terminus"
+      }
+    ],
+    "data_timestamp": "2024-08-20T17:28:58.182+08:00"
+  }
+}

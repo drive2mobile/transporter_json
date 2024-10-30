@@ -1,0 +1,38 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:04:39.401+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20015409,
+        "name_tc": "福康街, 近金寶樓",
+        "name_sc": "福康街, 近金宝楼",
+        "name_en": "Fook Hong Street, near Kam Bo Building"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20004200,
+        "name_tc": "安樂路, 近大橋",
+        "name_sc": "安乐路, 近大桥",
+        "name_en": "On Lok Road, near Tai Kiu"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20016674,
+        "name_tc": "福喜街, 近楊屋新村休憩處",
+        "name_sc": "福喜街, 近杨屋新村休憩处",
+        "name_en": "Fuk Hi Street, Near Yeung Uk San Tsuen Sitting-Out Area"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20016675,
+        "name_tc": "福順街, 近盛屋村廣陵堂",
+        "name_sc": "福顺街, 近盛屋村广陵堂",
+        "name_en": "Fuk Shun Street, Near 廣陵堂, Shing Uk Tsuen"
+      }
+    ],
+    "data_timestamp": "2024-04-07T00:00:47.944+08:00"
+  }
+}

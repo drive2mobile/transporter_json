@@ -1,0 +1,11 @@
+{
+  "id": "KLN_30B_1",
+  "route_id": 2000995,
+  "region": "KLN",
+  "route": "30B",
+  "route_seq": 1,
+  "from_tc": "澤安邨",
+  "from_en": "Chak On Estate",
+  "to_tc": "石硤尾站 (循環線)",
+  "to_en": "Shek Kip Mei Station (Circular)"
+}

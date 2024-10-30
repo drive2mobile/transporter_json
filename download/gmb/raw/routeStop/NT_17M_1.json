@@ -1,0 +1,31 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:03:18.411+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20014766,
+        "name_tc": "翠琳巴士總站",
+        "name_sc": "翠琳巴士总站",
+        "name_en": "Tsui Lam Bus Terminus"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20014774,
+        "name_tc": "寶豐路,近旭輝臺第一座",
+        "name_sc": "宝丰路,近旭辉台第一座 ",
+        "name_en": "PO FUNG ROAD, near Radiant Towers Block 1"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20001174,
+        "name_tc": "貿業路, 近寶琳站",
+        "name_sc": "贸业路, 近宝琳站",
+        "name_en": "Mau Yip Road, near Po Lam Station"
+      }
+    ],
+    "data_timestamp": "2024-07-31T17:44:17.066+08:00"
+  }
+}

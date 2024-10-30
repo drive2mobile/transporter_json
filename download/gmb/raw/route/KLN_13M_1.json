@@ -1,0 +1,11 @@
+{
+  "id": "KLN_13M_1",
+  "route_id": 2003603,
+  "region": "KLN",
+  "route": "13M",
+  "route_seq": 1,
+  "from_tc": "紅磡(紅鸞道)",
+  "from_en": "Hung Hom (Hung Luen Road)",
+  "to_tc": "紅磡站(循環線)",
+  "to_en": "Hung Hom Station (Circular)"
+}

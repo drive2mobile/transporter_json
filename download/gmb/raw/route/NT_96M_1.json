@@ -1,0 +1,11 @@
+{
+  "id": "NT_96M_1",
+  "route_id": 2008091,
+  "region": "NT",
+  "route": "96M",
+  "route_seq": 1,
+  "from_tc": "荃灣站",
+  "from_en": "Tsuen Wan Station",
+  "to_tc": "青龍頭",
+  "to_en": "Tsing Lung Tau"
+}

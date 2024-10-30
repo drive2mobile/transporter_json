@@ -1,0 +1,11 @@
+{
+  "id": "NT_12_2",
+  "route_id": 2004764,
+  "region": "NT",
+  "route": "12",
+  "route_seq": 2,
+  "from_tc": "寶琳",
+  "from_en": "Po Lam",
+  "to_tc": "西貢",
+  "to_en": "Sai Kung"
+}

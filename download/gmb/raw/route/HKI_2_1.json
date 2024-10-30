@@ -1,0 +1,11 @@
+{
+  "id": "HKI_2_1",
+  "route_id": 2006475,
+  "region": "HKI",
+  "route": "2",
+  "route_seq": 1,
+  "from_tc": "中環(香港站)",
+  "from_en": "Central (Hong Kong Station)",
+  "to_tc": "舊山頂道(循環線)",
+  "to_en": "Old Peak Road (Circular)"
+}

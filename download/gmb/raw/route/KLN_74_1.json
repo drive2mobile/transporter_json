@@ -1,0 +1,11 @@
+{
+  "id": "KLN_74_1",
+  "route_id": 2005385,
+  "region": "KLN",
+  "route": "74",
+  "route_seq": 1,
+  "from_tc": "九龍站",
+  "from_en": "KOWLOON STATION",
+  "to_tc": "旺角(聯運街)(循環線)",
+  "to_en": "Mong Kok (Luen Wan Street) (Circular)"
+}

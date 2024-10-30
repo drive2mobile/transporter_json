@@ -1,0 +1,11 @@
+{
+  "id": "HKI_65A_1",
+  "route_id": 2008060,
+  "region": "HKI",
+  "route": "65A",
+  "route_seq": 1,
+  "from_tc": "柴灣(康民街)",
+  "from_en": "Chai Wan (Hong Man Street)",
+  "to_tc": "鰂魚涌(途經東區尤德夫人那打素醫院)(循環線)",
+  "to_en": "Quarry Bay (via Pamela Youde Nethersole Eastern Hospital)(Circular)"
+}

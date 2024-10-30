@@ -1,0 +1,11 @@
+{
+  "id": "NT_810_1",
+  "route_id": 2010280,
+  "region": "NT",
+  "route": "810",
+  "route_seq": 1,
+  "from_tc": "沙田市中心(不經保泰街)",
+  "from_en": "Sha Tin Central (re-routed to omit Po Tai Street)",
+  "to_tc": "馬鞍山(雅典居)(循環線)",
+  "to_en": "Ma On Shan (Villa Athena)(Circular)"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "HKI_54_1",
+  "route_id": 2009842,
+  "region": "HKI",
+  "route": "54",
+  "route_seq": 1,
+  "from_tc": "中環(碼頭)",
+  "from_en": "Central (Ferry Piers)",
+  "to_tc": "瑪麗醫院",
+  "to_en": "Queen Mary Hospital"
+}

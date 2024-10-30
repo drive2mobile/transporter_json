@@ -1,0 +1,45 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:04:30.404+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20014224,
+        "name_tc": "村南道, 近大圍站",
+        "name_sc": "村南道, 近大围站 ",
+        "name_en": "TSUEN NAM ROAD, near Tai Wai Station"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20014225,
+        "name_tc": "大圍道, 近金禧花園第６座",
+        "name_sc": "大围道, 近金禧花园第６座 ",
+        "name_en": "TAI WAI ROAD, near Grandeur Garden Block 6"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20014226,
+        "name_tc": "美田路, 近美田路休憩處",
+        "name_sc": "美田路, 近美田路休憩处 ",
+        "name_en": "MEI TIN ROAD, near Mei Tin Road Sitting-out Area"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20014227,
+        "name_tc": "香粉寮街, 近美田邨美全樓",
+        "name_sc": "香粉寮街, 近美田村美全楼 ",
+        "name_en": "HEUNG FAN LIU STREET, near Mei Chuen House, Mei Tin Estate"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20014231,
+        "name_tc": "美田邨, 美田商場",
+        "name_sc": "美田邨, 美田商场",
+        "name_en": "Mei Tin Shopping Centre, Mei Tin Estate"
+      }
+    ],
+    "data_timestamp": "2024-08-07T09:19:47.838+08:00"
+  }
+}

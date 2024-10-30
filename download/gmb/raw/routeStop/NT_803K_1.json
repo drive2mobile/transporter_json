@@ -1,0 +1,24 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:04:43.716+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20001573,
+        "name_tc": "港鐵大圍站公共運輸交匯處",
+        "name_sc": "港铁大围站公共运输交汇处",
+        "name_en": "Tai Wai Station Bus Terminus"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20002241,
+        "name_tc": "顯田街, 近梁文燕紀念中學",
+        "name_sc": "显田街, 近梁文燕纪念中学",
+        "name_en": "Hin Tin Street, near Helen Liang Memorial Secondary School (Shatin)"
+      }
+    ],
+    "data_timestamp": "2024-09-29T00:01:46.481+08:00"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:03:06.329+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20003387,
+        "name_tc": "名成街, 東港城對面",
+        "name_sc": "名成街, 东港城对面",
+        "name_en": "Ming Shing Street, opposite East Point City"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20001140,
+        "name_tc": "寶寧路, 坑口(北)公共運輸交匯處外",
+        "name_sc": "宝宁路, 坑口(北)公共运输交汇处外",
+        "name_en": "Po Ning Road, outside Hang Hau (North) Public Transport Interchange"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20003178,
+        "name_tc": "蓬萊路, 清水灣半島1期第五座外",
+        "name_sc": "蓬莱路, 清水湾半岛1期第五座外",
+        "name_en": "Pung Loi Road, near Oscar by the Sea Block 5"
+      }
+    ],
+    "data_timestamp": "2024-07-31T17:28:48.365+08:00"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "KLN_28MS_1",
+  "route_id": 2001005,
+  "region": "KLN",
+  "route": "28MS",
+  "route_seq": 1,
+  "from_tc": "九龍城(偉恒昌新邨)",
+  "from_en": "Kowloon City (Wyler Gardens)",
+  "to_tc": "何文田站 (循環線)",
+  "to_en": "Ho Man Tin Station (Circular)"
+}

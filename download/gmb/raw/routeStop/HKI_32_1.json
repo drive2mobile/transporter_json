@@ -1,0 +1,108 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:01:33.895+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20013702,
+        "name_tc": "康盛街,近康怡花園俱樂部",
+        "name_sc": "康盛街,近康怡花园俱乐部",
+        "name_en": "HONG SHING STREET, near Kornhill Recreation Club"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20013703,
+        "name_tc": "基利路,近南豐新邨第５座",
+        "name_sc": "基利路,近南丰新邨第５座",
+        "name_en": "GREIG ROAD, near Nam Fung Sun Chuen Block 5"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20018742,
+        "name_tc": "基利路,近南豐新邨第 3 座",
+        "name_sc": "基利路,近南丰新村第 3 座",
+        "name_en": "GREIG ROAD, near Nam Fung Sun Chuen Block 3"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20016089,
+        "name_tc": "英皇道,近惠安苑",
+        "name_sc": "英皇道,近惠安苑",
+        "name_en": "KING'S ROAD, near Westlands Gardens"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20018743,
+        "name_tc": "英皇道,近仁孚工業大廈",
+        "name_sc": "英皇道,近仁孚工业大厦",
+        "name_en": "KING'S ROAD, near Zung Fu Industrial Building"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20013737,
+        "name_tc": "英皇道,近高山臺太古城中心",
+        "name_sc": "英皇道,近高山台太古城中心",
+        "name_en": "KING'S ROAD, near Cityplaza, KAO SHAN TERRACE, TAIKOO SHING"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20013744,
+        "name_tc": "筲箕灣道,近興祥大樓",
+        "name_sc": "筲箕湾道,近兴祥大楼",
+        "name_en": "SHAU KEI WAN ROAD, near Hing Cheong Building"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20011395,
+        "name_tc": "筲箕灣道,近太安樓",
+        "name_sc": "筲箕湾道,近太安楼",
+        "name_en": "SHAU KEI WAN ROAD, near Tai On Building"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20013745,
+        "name_tc": "筲箕灣道,近Island Residence",
+        "name_sc": "筲箕湾道,近Island Residence",
+        "name_en": "SHAU KEI WAN ROAD, near Island Residence"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20013746,
+        "name_tc": "筲箕灣道,近南華大廈",
+        "name_sc": "筲箕湾道,近南华大厦",
+        "name_en": "SHAU KEI WAN ROAD, near Nam Wah Building"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20013747,
+        "name_tc": "筲箕灣道,近譽都",
+        "name_sc": "筲箕湾道,近誉都",
+        "name_en": "SHAU KEI WAN ROAD, near i.UniQ Residence"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20013748,
+        "name_tc": "筲箕灣道,近筲箕灣中心３座",
+        "name_sc": "筲箕湾道,近筲箕湾中心３座",
+        "name_en": "SHAU KEI WAN ROAD, near Shau Kei Wan Centre Block 3"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20013749,
+        "name_tc": "工廠街,近筲箕灣中心１座",
+        "name_sc": "工厂街,近筲箕湾中心１座",
+        "name_en": "FACTORY STREET, near Shau Kei Wan Centre Block 1"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20013750,
+        "name_tc": "望隆街,近峻峰花園Ｄ座",
+        "name_sc": "望隆街,近峻峰花园Ｄ座",
+        "name_en": "MONG LUNG STREET, near Perfect Mount Gardens Block D"
+      }
+    ],
+    "data_timestamp": "2024-06-20T10:32:37.493+08:00"
+  }
+}

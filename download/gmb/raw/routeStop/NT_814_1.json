@@ -1,0 +1,185 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-10-30T20:04:55.803+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20013016,
+        "name_tc": "麗坪路, 近配水庫小巴總站",
+        "name_sc": "丽坪路, 近配水库小巴总站",
+        "name_en": "Lai Ping Road, GMB Terminus near service reservoir"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20013017,
+        "name_tc": "麗坪路, 近雲端",
+        "name_sc": "丽坪路, 近云端",
+        "name_en": "Lai Ping Road, near St Moritz"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20013018,
+        "name_tc": "麗坪路, 近澐灃",
+        "name_sc": "丽坪路, 近沄沣",
+        "name_en": "Lai Ping Road, near La Vetta"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20013134,
+        "name_tc": "麗坪路, 玖瓏山對面",
+        "name_sc": "丽坪路, 玖珑山对面",
+        "name_en": "Lai Ping Road, opposite Dragons Range"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20013020,
+        "name_tc": "大埔公路, 近麗坪路",
+        "name_sc": "大埔公路, 近丽坪路",
+        "name_en": "Tai Po Road, near Lai Ping Road"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20013021,
+        "name_tc": "大埔公路, 近九肚山路",
+        "name_sc": "大埔公路, 近九肚山路",
+        "name_en": "Tai Po Road, near Kau To Shan Road"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20013022,
+        "name_tc": "樂信徑, 駿景園外",
+        "name_sc": "乐信径, 骏景园外",
+        "name_en": "Lok Shun Path, outside Royal Ascot"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20013133,
+        "name_tc": "樂景街, 火炭站對面",
+        "name_sc": "乐景街, 火炭站对面",
+        "name_en": "Lok King Street, opposite Fo Tan Station"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20001506,
+        "name_tc": "源禾路, 沙田運動場外",
+        "name_sc": "源禾路, 沙田运动场外",
+        "name_en": "Yuen Wo Road, otuside Sha Tin Sports Ground"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20013024,
+        "name_tc": "源禾路, 沙田賽馬會泳池外",
+        "name_sc": "源禾路, 沙田赛马会泳池外",
+        "name_en": "Yuen Wo Road, outside Sha Tin Jockey Club Swimming pool"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20001569,
+        "name_tc": "担杆莆街, 唐寧大廈對面",
+        "name_sc": "担杆莆街, 唐宁大厦对面",
+        "name_en": "Tam Kon Po Street, opposite Tong Ning Building"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20001570,
+        "name_tc": "白鶴汀街, 帝都酒店外",
+        "name_sc": "白鹤汀街, 帝都酒店外",
+        "name_en": "Pak Hok Ting Street, outside Royal Park Hotel"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20002119,
+        "name_tc": "沙田正街, 希爾頓中心",
+        "name_sc": "沙田正街, 希尔顿中心",
+        "name_en": "Sha Tin Centre Street, outside Hilton Plaza"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20001549,
+        "name_tc": "橫壆街, 好運中心外",
+        "name_sc": "横壆街, 好运中心外",
+        "name_en": "Wang Pok Street, outside Lucky Plaza"
+      },
+      {
+        "stop_seq": 15,
+        "stop_id": 20001518,
+        "name_tc": "源禾路, 瀝源邨外",
+        "name_sc": "源禾路, 沥源邨外",
+        "name_en": "Yuen Wo Road, outside Lek Yuen Estate"
+      },
+      {
+        "stop_seq": 16,
+        "stop_id": 20002312,
+        "name_tc": "源禾路, 禾輋邨外",
+        "name_sc": "源禾路, 禾輋邨外",
+        "name_en": "Yuen Wo Road, outside Wo Che Estate"
+      },
+      {
+        "stop_seq": 17,
+        "stop_id": 20002229,
+        "name_tc": "樂景街, 火炭站外",
+        "name_sc": "乐景街, 火炭站外",
+        "name_en": "Lok King Street, outside Fo Tan Station"
+      },
+      {
+        "stop_seq": 18,
+        "stop_id": 20013025,
+        "name_tc": "樂信徑, 駿景園對面",
+        "name_sc": "乐信径, 骏景园对面",
+        "name_en": "Lok Shun Path, opposite Royal Ascot"
+      },
+      {
+        "stop_seq": 19,
+        "stop_id": 20002841,
+        "name_tc": "樂信徑迴旋處",
+        "name_sc": "乐信径回旋处",
+        "name_en": "Lok Shun Path roundabout"
+      },
+      {
+        "stop_seq": 20,
+        "stop_id": 20013026,
+        "name_tc": "大埔公路, 近九肚山路",
+        "name_sc": "大埔公路, 近九肚山路",
+        "name_en": "Tai Po Road, near Kau To Shan Road"
+      },
+      {
+        "stop_seq": 21,
+        "stop_id": 20013027,
+        "name_tc": "大埔公路, 近麗坪路",
+        "name_sc": "大埔公路, 近丽坪路",
+        "name_en": "Tai Po Road, near Lai Ping Road"
+      },
+      {
+        "stop_seq": 22,
+        "stop_id": 20013028,
+        "name_tc": "麗坪路, 玖瓏山外",
+        "name_sc": "丽坪路, 玖珑山外",
+        "name_en": "Lai Ping Road, outside Dragons Range"
+      },
+      {
+        "stop_seq": 23,
+        "stop_id": 20013029,
+        "name_tc": "麗坪路, 近尚珩",
+        "name_sc": "丽坪路, 近尚珩",
+        "name_en": "Lai Ping Road, outside La Cresta"
+      },
+      {
+        "stop_seq": 24,
+        "stop_id": 20013030,
+        "name_tc": "麗坪路, 近九肚山峰",
+        "name_sc": "丽坪路, 近九肚山峰",
+        "name_en": "Lai Ping Road, outside Kau To Highland"
+      },
+      {
+        "stop_seq": 25,
+        "stop_id": 20013132,
+        "name_tc": "麗坪路, 近配水庫小巴總站",
+        "name_sc": "丽坪路, 近配水库小巴总站",
+        "name_en": "Lai Ping Road, GMB Terminus near service reservoir"
+      }
+    ],
+    "data_timestamp": "2024-08-07T13:57:23.935+08:00"
+  }
+}

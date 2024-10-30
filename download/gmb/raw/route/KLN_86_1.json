@@ -1,0 +1,11 @@
+{
+  "id": "KLN_86_1",
+  "route_id": 2005319,
+  "region": "KLN",
+  "route": "86",
+  "route_seq": 1,
+  "from_tc": "郵輪碼頭",
+  "from_en": "Cruise Terminal",
+  "to_tc": "九龍灣(德福花園)(循環線)",
+  "to_en": "Kowloon Bay (Telford Garden) (Circular)"
+}
