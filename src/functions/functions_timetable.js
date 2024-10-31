@@ -97,7 +97,7 @@ async function processTimetable()
                     {
                         'weekday': weekday,
                         'type':'timeRange',
-                        'time': frequencyMap[tripID]['time'],
+                        'timeRange': frequencyMap[tripID]['timeRange'],
                         'frequency': frequencyMap[tripID]['frequency']
                     }
                 );
