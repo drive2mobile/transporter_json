@@ -6,7 +6,7 @@ async function processTimetable()
     const data1 = fs.readFileSync('./download/timetable/frequencies.txt', 'utf8');
     const lines1 = data1.split(/\r?\n/);
 
-    // Generate frequency map: for specific trip_id e.g. 07:10-08:00 25mins
+    // Generate frequency map: e.g. [frequencyID]:{ startTime: '07:10-08:00, 'frequency':'25' }
     var frequencyMap = {};
     lines1.forEach((line, index) =>
     {
@@ -18,14 +18,14 @@ async function processTimetable()
             const timeTo = currLine[2] != undefined ? currLine[2].substring(0, 5) : "";
             const frequency = currLine[3] != undefined ? Math.round(parseInt(currLine[3]) / 60) : 0;
 
-            frequencyMap[frequencyID] = { 'startTime': timeFrom + ' - ' + timeTo, 'frequency': frequency };
+            frequencyMap[frequencyID] = { 'timeRange': timeFrom + ' - ' + timeTo, 'frequency': frequency };
         }
     });
     const filePath0 = './download/timetable/TEMP_frequencyMap.json';
     await saveJSONToFile(filePath0, frequencyMap);
 
 
-    // Generate route map: 'route_id': [kmb12A] 
+    // Generate route map: [routeID]: { 'meta':'kmb12A', 'from':'ABC', 'to':'DEF' }]
     const data2 = fs.readFileSync('./download/timetable/routes.txt', 'utf8');
     const lines2 = data2.split(/\r?\n/);
 
@@ -55,7 +55,7 @@ async function processTimetable()
     await saveJSONToFile(filePath1, routesMap);
 
 
-    // Mapping frequency to route
+    // Mapping frequency to route 
     const data3 = fs.readFileSync('./download/timetable/trips.txt', 'utf8');
     const lines3 = data3.split(/\r?\n/);
 
@@ -70,10 +70,10 @@ async function processTimetable()
             const weekday = currLine[1] != undefined ? currLine[1] : "";
             const tripID = currLine[2] != undefined ? currLine[2] : "";
 
-            var startTime = "";
+            var time = "";
             var dir = "";
             var key = "";
-            try { startTime = tripID.split('-')[3].slice(0, 2) + ':' + tripID.split('-')[3].slice(2); } catch (e) { }
+            try { time = tripID.split('-')[3].slice(0, 2) + ':' + tripID.split('-')[3].slice(2); } catch (e) { }
             try { dir = tripID.split('-')[1]; } catch (e) { }
             try { key = routesMap[routeID]['meta'] + '_' + dir; } catch (e) { }
 
@@ -96,13 +96,14 @@ async function processTimetable()
                 timeTableMap[key]['schedule'][weekday].push(
                     {
                         'weekday': weekday,
-                        'startTime': frequencyMap[tripID]['startTime'],
+                        'type':'timeRange',
+                        'time': frequencyMap[tripID]['time'],
                         'frequency': frequencyMap[tripID]['frequency']
                     }
                 );
             }
             else
-                timeTableMap[key]['schedule'][weekday].push({ 'weekday': weekday, 'startTime': startTime });
+                timeTableMap[key]['schedule'][weekday].push({ 'weekday': weekday, 'type':'departure', 'time': time });
         }
     });
 
