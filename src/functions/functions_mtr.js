@@ -61,10 +61,10 @@ async function createMtrRouteList()
         item['route_id'] = route_id;
         item['route'] = route;
         item['direction'] = direction;
-        item['orig_en'] = firstStop['English Name'] + ' (' + mtrRouteNameEn[route] + ')';
-        item['orig_tc'] = firstStop['Chinese Name'] + ' (' + mtrRouteNameTc[route] + ')';
-        item['dest_en'] = lastStop['English Name'] + ' (' + mtrRouteNameEn[route] + ')';
-        item['dest_tc'] = lastStop['Chinese Name'] + ' (' + mtrRouteNameTc[route] + ')';
+        item['from_en'] = firstStop['English Name'] + ' (' + mtrRouteNameEn[route] + ')';
+        item['from_tc'] = firstStop['Chinese Name'] + ' (' + mtrRouteNameTc[route] + ')';
+        item['to_en'] = lastStop['English Name'] + ' (' + mtrRouteNameEn[route] + ')';
+        item['to_tc'] = lastStop['Chinese Name'] + ' (' + mtrRouteNameTc[route] + ')';
 
         newRouteList.push(item);
     }
@@ -104,10 +104,10 @@ async function createMtrRouteList()
             newStop['route_id'] = route_id;
             newStop['route'] = route;
             newStop['direction'] = direction;
-            newStop['orig_en'] = firstStop['English Name'] + ' (' + mtrRouteNameEn[route] + ')';
-            newStop['orig_tc'] = firstStop['Chinese Name'] + ' (' + mtrRouteNameTc[route] + ')';
-            newStop['dest_en'] = lastStop['English Name'] + ' (' + mtrRouteNameEn[route] + ')';
-            newStop['dest_tc'] = lastStop['Chinese Name'] + ' (' + mtrRouteNameTc[route] + ')';
+            newStop['from_en'] = firstStop['English Name'] + ' (' + mtrRouteNameEn[route] + ')';
+            newStop['from_tc'] = firstStop['Chinese Name'] + ' (' + mtrRouteNameTc[route] + ')';
+            newStop['to_en'] = lastStop['English Name'] + ' (' + mtrRouteNameEn[route] + ')';
+            newStop['to_tc'] = lastStop['Chinese Name'] + ' (' + mtrRouteNameTc[route] + ')';
             newStop['name_en'] = currArray[j]['English Name'];
             newStop['name_tc'] = currArray[j]['Chinese Name'];
             newStop['seq'] = currArray[j]['Sequence'].substring(0, currArray[j]['Sequence'].length - 3);;
