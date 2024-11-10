@@ -98,7 +98,7 @@ app.get(('/parseFinalOutput'), async (req, res) =>
 })
 
 // ===== LOCALHOST TESTING SERVER =====
-app.listen('8081', () =>
+app.listen('8082', () =>
 {
     console.log('port at 8081');
 });

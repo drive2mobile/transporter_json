@@ -155,5 +155,28 @@ const mtrRouteNameEn = {
     'DRL':'Disneyland Resort Line'
 };
 
+const dest = {
+    'AEL_DT':'香港',
+    'AEL_UT':'博覽館',
+    'TCL_DT':'香港',
+    'TCL_UT':'東涌',
+    'TML_DT':'烏溪沙',
+    'TML_UT':'屯門',
+    'TKL_DT':'NOP',
+    'TKL_UT':'POA',
+    'EAL_LMC-UT':'LMC',
+    'EAL_LMC-DT':'ADM',
+    'EAL_UT':'LOW',
+    'EAL_DT':'ADM',
+    'SIL_UT':'SOH',
+    'SIL_DT':'ADM',
+    'TWL_UT':'TSW',
+    'TWL_DT':'CEN',
+    'ISL_UT':'CHW',
+    'ISL_DT':'KET',
+    'KTL_UT':'TIK',
+    'KTL_DT':''
+}
+
 
 export { stationLocation, routeName, mtrRouteNameTc, mtrRouteNameEn }

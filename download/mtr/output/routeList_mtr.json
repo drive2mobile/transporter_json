@@ -4,239 +4,199 @@
     "route_id": "mtr_AEL_DOWN",
     "route": "AEL",
     "direction": "DOWN",
-    "from_en": "AsiaWorld-Expo (Airport Express)",
-    "from_tc": "博覽館 (機場快線)",
-    "to_en": "Hong Kong (Airport Express)",
-    "to_tc": "香港 (機場快線)"
+    "from_en": "AsiaWorld-Expo",
+    "from_tc": "博覽館",
+    "to_en": "Hong Kong",
+    "to_tc": "香港"
   },
   {
     "company": "mtr",
     "route_id": "mtr_AEL_UP",
     "route": "AEL",
     "direction": "UP",
-    "from_en": "Hong Kong (Airport Express)",
-    "from_tc": "香港 (機場快線)",
-    "to_en": "AsiaWorld-Expo (Airport Express)",
-    "to_tc": "博覽館 (機場快線)"
+    "from_en": "Hong Kong",
+    "from_tc": "香港",
+    "to_en": "AsiaWorld-Expo",
+    "to_tc": "博覽館"
   },
   {
     "company": "mtr",
     "route_id": "mtr_DRL_DOWN",
     "route": "DRL",
     "direction": "DOWN",
-    "from_en": "Sunny Bay (Disneyland Resort Line)",
-    "from_tc": "欣澳 (迪士尼線)",
-    "to_en": "Disneyland Resort (Disneyland Resort Line)",
-    "to_tc": "迪士尼 (迪士尼線)"
+    "from_en": "Sunny Bay",
+    "from_tc": "欣澳",
+    "to_en": "Disneyland Resort",
+    "to_tc": "迪士尼"
   },
   {
     "company": "mtr",
     "route_id": "mtr_DRL_UP",
     "route": "DRL",
     "direction": "UP",
-    "from_en": "Disneyland Resort (Disneyland Resort Line)",
-    "from_tc": "迪士尼 (迪士尼線)",
-    "to_en": "Sunny Bay (Disneyland Resort Line)",
-    "to_tc": "欣澳 (迪士尼線)"
+    "from_en": "Disneyland Resort",
+    "from_tc": "迪士尼",
+    "to_en": "Sunny Bay",
+    "to_tc": "欣澳"
   },
   {
     "company": "mtr",
     "route_id": "mtr_EAL_DOWN",
     "route": "EAL",
     "direction": "DOWN",
-    "from_en": "Lo Wu (East Rail Line)",
-    "from_tc": "羅湖 (東鐵線)",
-    "to_en": "Admiralty (East Rail Line)",
-    "to_tc": "金鐘 (東鐵線)"
-  },
-  {
-    "company": "mtr",
-    "route_id": "mtr_EAL-LMC_DOWN",
-    "route": "EAL-LMC",
-    "direction": "DOWN",
-    "from_en": "Lok Ma Chau (East Rail Line Lok Ma Chau)",
-    "from_tc": "落馬洲 (東鐵線 落馬洲)",
-    "to_en": "Admiralty (East Rail Line Lok Ma Chau)",
-    "to_tc": "金鐘 (東鐵線 落馬洲)"
-  },
-  {
-    "company": "mtr",
-    "route_id": "mtr_EAL-LMC_UP",
-    "route": "EAL-LMC",
-    "direction": "UP",
-    "from_en": "Admiralty (East Rail Line Lok Ma Chau)",
-    "from_tc": "金鐘 (東鐵線 落馬洲)",
-    "to_en": "Lok Ma Chau (East Rail Line Lok Ma Chau)",
-    "to_tc": "落馬洲 (東鐵線 落馬洲)"
+    "from_en": "Lo Wu/Lok Ma Chau",
+    "from_tc": "羅湖/落馬洲",
+    "to_en": "Admiralty",
+    "to_tc": "金鐘"
   },
   {
     "company": "mtr",
     "route_id": "mtr_EAL_UP",
     "route": "EAL",
-    "direction": "UP",
-    "from_en": "Admiralty (East Rail Line)",
-    "from_tc": "金鐘 (東鐵線)",
-    "to_en": "Lo Wu (East Rail Line)",
-    "to_tc": "羅湖 (東鐵線)"
+    "direction": "DOWN",
+    "from_en": "Admiralty",
+    "from_tc": "金鐘",
+    "to_en": "Lo Wu/Lok Ma Chau",
+    "to_tc": "羅湖/落馬洲"
   },
   {
     "company": "mtr",
     "route_id": "mtr_ISL_DOWN",
     "route": "ISL",
     "direction": "DOWN",
-    "from_en": "Chai Wan (Island Line)",
-    "from_tc": "柴灣 (港島線)",
-    "to_en": "Kennedy Town (Island Line)",
-    "to_tc": "堅尼地城 (港島線)"
+    "from_en": "Chai Wan",
+    "from_tc": "柴灣",
+    "to_en": "Kennedy Town",
+    "to_tc": "堅尼地城"
   },
   {
     "company": "mtr",
     "route_id": "mtr_ISL_UP",
     "route": "ISL",
     "direction": "UP",
-    "from_en": "Kennedy Town (Island Line)",
-    "from_tc": "堅尼地城 (港島線)",
-    "to_en": "Chai Wan (Island Line)",
-    "to_tc": "柴灣 (港島線)"
+    "from_en": "Kennedy Town",
+    "from_tc": "堅尼地城",
+    "to_en": "Chai Wan",
+    "to_tc": "柴灣"
   },
   {
     "company": "mtr",
     "route_id": "mtr_KTL_DOWN",
     "route": "KTL",
     "direction": "DOWN",
-    "from_en": "Tiu Keng Leng (Kwun Tong Line)",
-    "from_tc": "調景嶺 (觀塘線)",
-    "to_en": "Whampoa (Kwun Tong Line)",
-    "to_tc": "黃埔 (觀塘線)"
+    "from_en": "Tiu Keng Leng",
+    "from_tc": "調景嶺",
+    "to_en": "Whampoa",
+    "to_tc": "黃埔"
   },
   {
     "company": "mtr",
     "route_id": "mtr_KTL_UP",
     "route": "KTL",
     "direction": "UP",
-    "from_en": "Whampoa (Kwun Tong Line)",
-    "from_tc": "黃埔 (觀塘線)",
-    "to_en": "Tiu Keng Leng (Kwun Tong Line)",
-    "to_tc": "調景嶺 (觀塘線)"
+    "from_en": "Whampoa",
+    "from_tc": "黃埔",
+    "to_en": "Tiu Keng Leng",
+    "to_tc": "調景嶺"
   },
   {
     "company": "mtr",
     "route_id": "mtr_TML_UP",
     "route": "TML",
     "direction": "UP",
-    "from_en": "Wu Kai Sha (Tuen Ma Line)",
-    "from_tc": "烏溪沙 (屯馬線)",
-    "to_en": "Tuen Mun (Tuen Ma Line)",
-    "to_tc": "屯門 (屯馬線)"
+    "from_en": "Wu Kai Sha",
+    "from_tc": "烏溪沙",
+    "to_en": "Tuen Mun",
+    "to_tc": "屯門"
   },
   {
     "company": "mtr",
     "route_id": "mtr_TML_DOWN",
     "route": "TML",
     "direction": "DOWN",
-    "from_en": "Tuen Mun (Tuen Ma Line)",
-    "from_tc": "屯門 (屯馬線)",
-    "to_en": "Wu Kai Sha (Tuen Ma Line)",
-    "to_tc": "烏溪沙 (屯馬線)"
+    "from_en": "Tuen Mun",
+    "from_tc": "屯門",
+    "to_en": "Wu Kai Sha",
+    "to_tc": "烏溪沙"
   },
   {
     "company": "mtr",
     "route_id": "mtr_TCL_DOWN",
     "route": "TCL",
     "direction": "DOWN",
-    "from_en": "Tung Chung (Tung Chung Line)",
-    "from_tc": "東涌 (東涌線)",
-    "to_en": "Hong Kong (Tung Chung Line)",
-    "to_tc": "香港 (東涌線)"
+    "from_en": "Tung Chung",
+    "from_tc": "東涌",
+    "to_en": "Hong Kong",
+    "to_tc": "香港"
   },
   {
     "company": "mtr",
     "route_id": "mtr_TCL_UP",
     "route": "TCL",
     "direction": "UP",
-    "from_en": "Hong Kong (Tung Chung Line)",
-    "from_tc": "香港 (東涌線)",
-    "to_en": "Tung Chung (Tung Chung Line)",
-    "to_tc": "東涌 (東涌線)"
+    "from_en": "Hong Kong",
+    "from_tc": "香港",
+    "to_en": "Tung Chung",
+    "to_tc": "東涌"
   },
   {
     "company": "mtr",
     "route_id": "mtr_TKL_DOWN",
     "route": "TKL",
     "direction": "DOWN",
-    "from_en": "Po Lam (Tseung Kwan O Line)",
-    "from_tc": "寶琳 (將軍澳線)",
-    "to_en": "North Point (Tseung Kwan O Line)",
-    "to_tc": "北角 (將軍澳線)"
-  },
-  {
-    "company": "mtr",
-    "route_id": "mtr_TKL-TKS_DOWN",
-    "route": "TKL-TKS",
-    "direction": "DOWN",
-    "from_en": "LOHAS Park (Tseung Kwan O Line LOHAS Park)",
-    "from_tc": "康城 (將軍澳線 康城)",
-    "to_en": "Tiu Keng Leng (Tseung Kwan O Line LOHAS Park)",
-    "to_tc": "調景嶺 (將軍澳線 康城)"
-  },
-  {
-    "company": "mtr",
-    "route_id": "mtr_TKL-TKS_UP",
-    "route": "TKL-TKS",
-    "direction": "UP",
-    "from_en": "Tiu Keng Leng (Tseung Kwan O Line LOHAS Park)",
-    "from_tc": "調景嶺 (將軍澳線 康城)",
-    "to_en": "LOHAS Park (Tseung Kwan O Line LOHAS Park)",
-    "to_tc": "康城 (將軍澳線 康城)"
+    "from_en": "Po Lam/LOHAS Park",
+    "from_tc": "寶琳/康城",
+    "to_en": "North Point",
+    "to_tc": "北角"
   },
   {
     "company": "mtr",
     "route_id": "mtr_TKL_UP",
     "route": "TKL",
-    "direction": "UP",
-    "from_en": "North Point (Tseung Kwan O Line)",
-    "from_tc": "北角 (將軍澳線)",
-    "to_en": "Po Lam (Tseung Kwan O Line)",
-    "to_tc": "寶琳 (將軍澳線)"
+    "direction": "DOWN",
+    "from_en": "Tiu Keng Leng/North Point",
+    "from_tc": "調景嶺/北角",
+    "to_en": "Po Lam",
+    "to_tc": "寶琳"
   },
   {
     "company": "mtr",
     "route_id": "mtr_TWL_DOWN",
     "route": "TWL",
     "direction": "DOWN",
-    "from_en": "Tsuen Wan (Tsuen Wan Line)",
-    "from_tc": "荃灣 (荃灣線)",
-    "to_en": "Central (Tsuen Wan Line)",
-    "to_tc": "中環 (荃灣線)"
+    "from_en": "Tsuen Wan",
+    "from_tc": "荃灣",
+    "to_en": "Central",
+    "to_tc": "中環"
   },
   {
     "company": "mtr",
     "route_id": "mtr_TWL_UP",
     "route": "TWL",
     "direction": "UP",
-    "from_en": "Central (Tsuen Wan Line)",
-    "from_tc": "中環 (荃灣線)",
-    "to_en": "Tsuen Wan (Tsuen Wan Line)",
-    "to_tc": "荃灣 (荃灣線)"
+    "from_en": "Central",
+    "from_tc": "中環",
+    "to_en": "Tsuen Wan",
+    "to_tc": "荃灣"
   },
   {
     "company": "mtr",
     "route_id": "mtr_SIL_UP",
     "route": "SIL",
     "direction": "UP",
-    "from_en": "Admiralty (South Island Line)",
-    "from_tc": "金鐘 (南港島線)",
-    "to_en": "South Horizons (South Island Line)",
-    "to_tc": "海怡半島 (南港島線)"
+    "from_en": "Admiralty",
+    "from_tc": "金鐘",
+    "to_en": "South Horizons",
+    "to_tc": "海怡半島"
   },
   {
     "company": "mtr",
     "route_id": "mtr_SIL_DOWN",
     "route": "SIL",
     "direction": "DOWN",
-    "from_en": "South Horizons (South Island Line)",
-    "from_tc": "海怡半島 (南港島線)",
-    "to_en": "Admiralty (South Island Line)",
-    "to_tc": "金鐘 (南港島線)"
+    "from_en": "South Horizons",
+    "from_tc": "海怡半島",
+    "to_en": "Admiralty",
+    "to_tc": "金鐘"
   }
 ]

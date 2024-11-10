@@ -1,7 +1,8 @@
-import { mtrRouteNameEn, mtrRouteNameTc, routeName, stationLocation } from "./mtrMetaData.js";
+import { stationLocation } from "./mtrMetaData.js";
 import { downloadCsvAndConvertJson, downloadJSONFile, loadJSONFromFile, saveJSONToFile } from "../utilities/file_management.js";
 
-async function downloadMtrRoutStopList(){
+async function downloadMtrRoutStopList()
+{
     const url = 'https://opendata.mtr.com.hk/data/mtr_lines_and_stations.csv';
     const downloadFilePath = './download/mtr/raw/routeStopList.json';
     await downloadCsvAndConvertJson(url, downloadFilePath);
@@ -10,120 +11,107 @@ async function downloadMtrRoutStopList(){
 async function createMtrRouteList()
 {
     const readFilePath = './download/mtr/raw/routeStopList.json';
-    const ARRAY_route_stop_list = await loadJSONFromFile(readFilePath);
-    
-    var routeStopListMap = {};
+    const RAW_stop_list = await loadJSONFromFile(readFilePath);
 
-    for(var i=0 ; i<ARRAY_route_stop_list.length ; i++)
+    const addedStationMap = {};
+    const routeStopListUnsorted = {};
+
+    for (var i = 0; i < RAW_stop_list.length; i++)
     {
-        const currItem = ARRAY_route_stop_list[i];
+        const currItem = RAW_stop_list[i];
         if (currItem['Line Code'] != '')
         {
-            const route_id_temp = currItem['Line Code'] + '_' + currItem['Direction']; 
+            const directionArr = currItem['Direction'].split('-');
+            var route_id_temp = '';
+            var stop_id_temp = '';
 
-            if (route_id_temp in routeStopListMap)
-                routeStopListMap[route_id_temp].push(currItem);
+            if (directionArr.length == 2)
+            {
+                route_id_temp = currItem['Line Code'] + '_' + (directionArr[1] == 'UT' ? 'UP' : 'DOWN');
+                stop_id_temp = currItem['Line Code'] + '_' + currItem['Station Code'] + '_' + (directionArr[1] == 'UT' ? 'UP' : 'DOWN');
+            }
             else
             {
-                var newArr = [currItem];
-                routeStopListMap[route_id_temp] = newArr;
+                route_id_temp = currItem['Line Code'] + '_' + (directionArr[0] == 'UT' ? 'UP' : 'DOWN');
+                stop_id_temp = currItem['Line Code'] + '_' + currItem['Station Code'] + '_' + (directionArr[0] == 'UT' ? 'UP' : 'DOWN');
+            }
+
+            var insertItem = {}
+            try
+            {
+                insertItem = {
+                    "company": "mtr",
+                    "route_id": `mtr_${route_id_temp}`,
+                    "route": currItem['Line Code'],
+                    "direction": directionArr[0] == 'UT' ? 'UP' : 'DOWN',
+                    "name_en": currItem['English Name'],
+                    "name_tc": currItem['Chinese Name'],
+                    "seq": currItem['Sequence'].toString().split('.')[0],
+                    "stop": currItem['Station Code'],
+                    "lat": stationLocation[currItem['Station Code']]['lat'],
+                    "long": stationLocation[currItem['Station Code']]['long']
+                }
+            }
+            catch (error)
+            {
+                console.log(error);
+                console.log(currItem);
+            }
+
+            if (stop_id_temp in addedStationMap == false)
+            {
+                if (route_id_temp in routeStopListUnsorted)
+                    routeStopListUnsorted[route_id_temp].push(insertItem);
+                else
+                {
+                    var newArr = [insertItem];
+                    routeStopListUnsorted[route_id_temp] = newArr;
+                }
+
+                addedStationMap[stop_id_temp] = stop_id_temp;
             }
         }
     }
 
-    var newRouteList = [];
-    for (const key in routeStopListMap)
+    const routeStopListSorted = {};
+    for (const key in routeStopListUnsorted)
     {
-        var currArray = routeStopListMap[key];
-        var firstStop = currArray[0];
-        var lastStop = currArray[currArray.length-1];
+        const currArray = routeStopListUnsorted[key];
+        const sorted = [...currArray].sort((a, b) => {
+            return parseInt(a.seq) - parseInt(b.seq);
+        });
+        routeStopListSorted[key] = sorted;
+    }
 
-        const directionArr = firstStop['Direction'].split('-');
-        console.log(directionArr);
-        var route_id = '';
-        var route = '';
-        var direction = ''
-        if (directionArr.length == 2)
-        {
-            route = firstStop['Line Code'] + '-' + directionArr[0];
-            direction = directionArr[1] == 'UT' ? 'UP' : 'DOWN';
-            route_id = 'mtr_' + firstStop['Line Code']+'-'+directionArr[0] + '_' + direction;
-        }
-        else
-        {
-            route = firstStop['Line Code'];
-            direction = firstStop['Direction'] == 'UT' ? 'UP' : 'DOWN';
-            route_id = 'mtr_' + firstStop['Line Code'] + '_' + direction;
-        }
+    const filePath2 = './download/mtr/output/routeStopList_mtr.json';
+    await saveJSONToFile(filePath2, routeStopListSorted);
 
-        var item = {};
-        item['company'] = 'mtr';
-        item['route_id'] = route_id;
-        item['route'] = route;
-        item['direction'] = direction;
-        item['from_en'] = firstStop['English Name'] + ' (' + mtrRouteNameEn[route] + ')';
-        item['from_tc'] = firstStop['Chinese Name'] + ' (' + mtrRouteNameTc[route] + ')';
-        item['to_en'] = lastStop['English Name'] + ' (' + mtrRouteNameEn[route] + ')';
-        item['to_tc'] = lastStop['Chinese Name'] + ' (' + mtrRouteNameTc[route] + ')';
+    // PARSE ROUTE LIST
+    var newRouteList = [];
+    for (const key in routeStopListSorted)
+    {
+        var currArray = routeStopListSorted[key];
+        var firstStop1 = currArray[0];
+        var firstStop2 = currArray[0]['seq'] == currArray[1]['seq'] ? currArray[1] : null;
+        var lastStop1 = currArray[currArray.length-1];
+        var lastStop2 = currArray[currArray.length-1]['seq'] == currArray[currArray.length-2]['seq'] ? currArray[currArray.length-2] : null;
 
-        newRouteList.push(item);
+
+        var insertItem = {};
+        insertItem['company'] = 'mtr';
+        insertItem['route_id'] = firstStop1['route_id'];
+        insertItem['route'] = firstStop1['route'];
+        insertItem['direction'] = firstStop1['direction'];
+        insertItem['from_en'] = firstStop1['name_en'] + (firstStop2 ? `/${firstStop2['name_en']}` : '');
+        insertItem['from_tc'] = firstStop1['name_tc'] + (firstStop2 ? `/${firstStop2['name_tc']}` : '');
+        insertItem['to_en'] = lastStop1['name_en'] + (lastStop2 ? `/${lastStop2['name_en']}` : '');
+        insertItem['to_tc'] = lastStop1['name_tc'] + (lastStop2 ? `/${lastStop2['name_tc']}` : '');
+
+        newRouteList.push(insertItem);
     }
 
     const filePath = './download/mtr/output/routeList_mtr.json';
     await saveJSONToFile(filePath, newRouteList);
-
-    var newRouteStopList = {}
-    for (const key in routeStopListMap)
-    {
-        var currArray = routeStopListMap[key];
-        var firstStop = currArray[0];
-        var lastStop = currArray[currArray.length-1];
-
-        var newRouteArray = [];
-        for (var j=0 ; j<currArray.length ; j++)
-        {
-            const directionArr = firstStop['Direction'].split('-');
-            var route_id = '';
-            var route = '';
-            var direction = ''
-            if (directionArr.length == 2)
-            {
-                route = firstStop['Line Code'] + '-' + directionArr[0];
-                direction = directionArr[1] == 'UT' ? 'UP' : 'DOWN';
-                route_id = 'mtr_' + firstStop['Line Code']+'-'+directionArr[0] + '_' + direction;
-            }
-            else
-            {
-                route = firstStop['Line Code'];
-                direction = firstStop['Direction'] == 'UT' ? 'UP' : 'DOWN';
-                route_id = 'mtr_' + firstStop['Line Code'] + '_' + direction;
-            }
-
-            var newStop = {};
-            newStop['company'] = 'mtr';
-            newStop['route_id'] = route_id;
-            newStop['route'] = route;
-            newStop['direction'] = direction;
-            newStop['from_en'] = firstStop['English Name'] + ' (' + mtrRouteNameEn[route] + ')';
-            newStop['from_tc'] = firstStop['Chinese Name'] + ' (' + mtrRouteNameTc[route] + ')';
-            newStop['to_en'] = lastStop['English Name'] + ' (' + mtrRouteNameEn[route] + ')';
-            newStop['to_tc'] = lastStop['Chinese Name'] + ' (' + mtrRouteNameTc[route] + ')';
-            newStop['name_en'] = currArray[j]['English Name'];
-            newStop['name_tc'] = currArray[j]['Chinese Name'];
-            newStop['seq'] = currArray[j]['Sequence'].substring(0, currArray[j]['Sequence'].length - 3);;
-            newStop['stop'] = currArray[j]['Station Code'];
-            var currStationLatLong = stationLocation[currArray[j]['Station Code']];
-            newStop['lat'] = currStationLatLong['lat'];
-            newStop['long'] = currStationLatLong['long'];
-           
-            newRouteArray.push(newStop);
-        }
-
-        newRouteStopList[route_id] = newRouteArray;
-    }
-
-    const filePath2 = './download/mtr/output/routeStopList_mtr.json';
-    await saveJSONToFile(filePath2, newRouteStopList);
 }
 
 export { downloadMtrRoutStopList, createMtrRouteList }
