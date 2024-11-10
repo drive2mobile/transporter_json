@@ -1,15 +1,15 @@
 import { mtrRouteNameEn, mtrRouteNameTc, routeName, stationLocation } from "./mtrMetaData.js";
-import { downloadCsvAndConvertJson, downloadJSONFile, loadJSONFromFile, saveJSONToFile } from "./functions_utilities.js";
+import { downloadCsvAndConvertJson, downloadJSONFile, loadJSONFromFile, saveJSONToFile } from "../utilities/file_management.js";
 
 async function downloadMtrRoutStopList(){
     const url = 'https://opendata.mtr.com.hk/data/mtr_lines_and_stations.csv';
-    const downloadFilePath = './download/mtr/RAW_route_stop_list.json';
+    const downloadFilePath = './download/mtr/raw/routeStopList.json';
     await downloadCsvAndConvertJson(url, downloadFilePath);
 }
 
 async function createMtrRouteList()
 {
-    const readFilePath = './download/mtr/RAW_route_stop_list.json';
+    const readFilePath = './download/mtr/raw/routeStopList.json';
     const ARRAY_route_stop_list = await loadJSONFromFile(readFilePath);
     
     var routeStopListMap = {};
@@ -31,7 +31,7 @@ async function createMtrRouteList()
         }
     }
 
-    var newRouteList = {}
+    var newRouteList = [];
     for (const key in routeStopListMap)
     {
         var currArray = routeStopListMap[key];
@@ -39,6 +39,7 @@ async function createMtrRouteList()
         var lastStop = currArray[currArray.length-1];
 
         const directionArr = firstStop['Direction'].split('-');
+        console.log(directionArr);
         var route_id = '';
         var route = '';
         var direction = ''
@@ -46,13 +47,13 @@ async function createMtrRouteList()
         {
             route = firstStop['Line Code'] + '-' + directionArr[0];
             direction = directionArr[1] == 'UT' ? 'UP' : 'DOWN';
-            route_id = 'mtr' + firstStop['Line Code']+'-'+directionArr[0] + '_' + direction + '1';
+            route_id = 'mtr_' + firstStop['Line Code']+'-'+directionArr[0] + '_' + direction;
         }
         else
         {
             route = firstStop['Line Code'];
             direction = firstStop['Direction'] == 'UT' ? 'UP' : 'DOWN';
-            route_id = 'mtr' + firstStop['Line Code'] + '_' + direction + '1';
+            route_id = 'mtr_' + firstStop['Line Code'] + '_' + direction;
         }
 
         var item = {};
@@ -62,15 +63,13 @@ async function createMtrRouteList()
         item['direction'] = direction;
         item['orig_en'] = firstStop['English Name'] + ' (' + mtrRouteNameEn[route] + ')';
         item['orig_tc'] = firstStop['Chinese Name'] + ' (' + mtrRouteNameTc[route] + ')';
-        item['orig_sc'] = firstStop['Chinese Name'] + ' (' + mtrRouteNameTc[route] + ')';
         item['dest_en'] = lastStop['English Name'] + ' (' + mtrRouteNameEn[route] + ')';
         item['dest_tc'] = lastStop['Chinese Name'] + ' (' + mtrRouteNameTc[route] + ')';
-        item['dest_sc'] = lastStop['Chinese Name'] + ' (' + mtrRouteNameTc[route] + ')';
 
-        newRouteList[route_id] = item;
+        newRouteList.push(item);
     }
 
-    const filePath = './download/mtr/TEMP_route_list.json';
+    const filePath = './download/mtr/output/routeList_mtr.json';
     await saveJSONToFile(filePath, newRouteList);
 
     var newRouteStopList = {}
@@ -91,13 +90,13 @@ async function createMtrRouteList()
             {
                 route = firstStop['Line Code'] + '-' + directionArr[0];
                 direction = directionArr[1] == 'UT' ? 'UP' : 'DOWN';
-                route_id = 'mtr' + firstStop['Line Code']+'-'+directionArr[0] + '_' + direction + '1';
+                route_id = 'mtr_' + firstStop['Line Code']+'-'+directionArr[0] + '_' + direction;
             }
             else
             {
                 route = firstStop['Line Code'];
                 direction = firstStop['Direction'] == 'UT' ? 'UP' : 'DOWN';
-                route_id = 'mtr' + firstStop['Line Code'] + '_' + direction + '1';
+                route_id = 'mtr_' + firstStop['Line Code'] + '_' + direction;
             }
 
             var newStop = {};
@@ -107,13 +106,10 @@ async function createMtrRouteList()
             newStop['direction'] = direction;
             newStop['orig_en'] = firstStop['English Name'] + ' (' + mtrRouteNameEn[route] + ')';
             newStop['orig_tc'] = firstStop['Chinese Name'] + ' (' + mtrRouteNameTc[route] + ')';
-            newStop['orig_sc'] = firstStop['Chinese Name'] + ' (' + mtrRouteNameTc[route] + ')';
             newStop['dest_en'] = lastStop['English Name'] + ' (' + mtrRouteNameEn[route] + ')';
             newStop['dest_tc'] = lastStop['Chinese Name'] + ' (' + mtrRouteNameTc[route] + ')';
-            newStop['dest_sc'] = lastStop['Chinese Name'] + ' (' + mtrRouteNameTc[route] + ')';
             newStop['name_en'] = currArray[j]['English Name'];
             newStop['name_tc'] = currArray[j]['Chinese Name'];
-            newStop['name_sc'] = currArray[j]['Chinese Name'];
             newStop['seq'] = currArray[j]['Sequence'].substring(0, currArray[j]['Sequence'].length - 3);;
             newStop['stop'] = currArray[j]['Station Code'];
             var currStationLatLong = stationLocation[currArray[j]['Station Code']];
@@ -126,7 +122,7 @@ async function createMtrRouteList()
         newRouteStopList[route_id] = newRouteArray;
     }
 
-    const filePath2 = './download/mtr/TEMP_route_stop_list.json';
+    const filePath2 = './download/mtr/output/routeStopList_mtr.json';
     await saveJSONToFile(filePath2, newRouteStopList);
 }
 

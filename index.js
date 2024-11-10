@@ -8,6 +8,7 @@ import { downloadGmbRouteList, downloadGmbRouteListGmb, downloadRouteStopListGmb
 import { downloadRouteListNlb, downloadRouteStopNlb, parseJsonNlb } from "./src/functions/nlb.js";
 import { generateVersion, parseUniqueRouteList, parseUniqueRouteMap, parseUniqueRouteStopList, parseUniqueRouteStopListByLocation } from "./src/functions/parseFinal.js";
 import { processTimetable } from "./src/functions/timetable.js";
+import { createMtrRouteList, downloadMtrRoutStopList } from "./src/functions/functions_mtr.js";
 
 const app = express();
 app.use(cors({
@@ -71,6 +72,15 @@ app.get(('/nlb'), async (req, res) =>
     await downloadRouteListNlb();
     await downloadRouteStopNlb();
     await parseJsonNlb();
+
+    res.send('done');
+})
+
+
+app.get(('/mtr'), async (req, res) =>
+{
+    await downloadMtrRoutStopList();
+    await createMtrRouteList();
 
     res.send('done');
 })
