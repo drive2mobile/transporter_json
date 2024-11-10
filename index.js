@@ -1,16 +1,13 @@
-#!/usr/bin/env node --experimental-modules
 import express from "express";
 import cors from "cors"
-import fs from "fs";
 import { downloadRouteListCtb, downloadRouteStopCtb, downloadStopCtb, parseJsonCtb } from "./src/functions/ctb.js";
 import { downloadRouteListKmb, downloadRouteStopListKmb, downloadStopListKmb, parseJsonKmb, } from "./src/functions/kmb.js";
-import { downloadJSONFile, loadJSONFromFile } from "./src/utilities/file_management.js";
 import { deleteNonCoop, parseJsonKmbCtb } from "./src/functions/kmbctb.js";
 import { downloadRouteStopListMtrBus, parseJsonMtrBus } from "./src/functions/mtrbus.js";
 import { downloadGmbRouteList, downloadGmbRouteListGmb, downloadRouteStopListGmb, downloadStopGmb, mergeStopCoordinateToRouteStopGmb, parseRouteListGmb, parseRouteStopListGmb } from "./src/functions/gmb.js";
 import { downloadRouteListNlb, downloadRouteStopNlb, parseJsonNlb } from "./src/functions/nlb.js";
-import { parseUniqueRouteList, parseUniqueRouteMap, parseUniqueRouteStopList } from "./src/functions/parseFinal.js";
-import { processTimetable } from "./src/functions/functions_timetable.js";
+import { generateVersion, parseUniqueRouteList, parseUniqueRouteMap, parseUniqueRouteStopList, parseUniqueRouteStopListByLocation } from "./src/functions/parseFinal.js";
+import { processTimetable } from "./src/functions/timetable.js";
 
 const app = express();
 app.use(cors({
@@ -18,30 +15,6 @@ app.use(cors({
     methods: ['POST', 'GET'],
     credentials: true
 }));
-
-app.get(('/uniqueRouteList'), async (req, res) =>
-{
-    const jsonFile = await loadJSONFromFile('download/finalOutput/uniqueRouteList.json');
-
-    res.set('Content-Type', 'application/json');
-    res.json(jsonFile);
-})
-
-app.get(('/uniqueRouteMap'), async (req, res) =>
-{
-    const jsonFile = await loadJSONFromFile('download/finalOutput/uniqueRouteMap.json');
-
-    res.set('Content-Type', 'application/json');
-    res.json(jsonFile);
-})
-
-app.get(('/uniqueRouteStopList'), async (req, res) =>
-{
-    const jsonFile = await loadJSONFromFile('download/finalOutput/uniqueRouteStopList.json');
-
-    res.set('Content-Type', 'application/json');
-    res.json(jsonFile);
-})
 
 app.get(('/ctb'), async (req, res) =>
 {
@@ -95,8 +68,8 @@ app.get(('/gmb'), async (req, res) =>
 
 app.get(('/nlb'), async (req, res) =>
 {
-    // await downloadRouteListNlb();
-    // await downloadRouteStopNlb();
+    await downloadRouteListNlb();
+    await downloadRouteStopNlb();
     await parseJsonNlb();
 
     res.send('done');
@@ -107,37 +80,12 @@ app.get(('/parseFinalOutput'), async (req, res) =>
     await parseUniqueRouteList();
     await parseUniqueRouteMap();
     await parseUniqueRouteStopList();
+    await parseUniqueRouteStopListByLocation();
+    await processTimetable();
+    await generateVersion();
 
     res.send('done');
 })
-
-// app.get(('/processlocation'), async (req, res) => {
-//     await parseLocationBasedRouteStopList();
-
-//     res.send('done');
-// })
-
-app.get(('/processtimetable'), async(req, res) => {
-    var map = await processTimetable();
-    // res.send(map);
-    res.send('done');
-})
-
-// app.get(('/generatetimestamp'), async(req, res) => {
-//     await generateTimestamp();
-//     res.send('done');
-// })
-
-const options = {
-    key: fs.readFileSync('./ssl/key.pem'),
-    cert: fs.readFileSync('./ssl/cert.crt')
-};
-
-// ===== PRODUCTION HTTPS SERVER =====
-// const server = https.createServer(options, app);
-// server.listen(8081, () => {
-//     console.log(`HTTPS server is running on port 8081`);
-// });
 
 // ===== LOCALHOST TESTING SERVER =====
 app.listen('8081', () =>

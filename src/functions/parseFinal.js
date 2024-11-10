@@ -1,4 +1,5 @@
 import { loadJSONFromFile, saveJSONToFile } from "../utilities/file_management.js";
+import { roundDownLatLong } from "../utilities/location.js";
 
 async function parseUniqueRouteList()
 {
@@ -154,5 +155,60 @@ async function parseUniqueRouteStopList()
     await saveJSONToFile(saveFilePath, uniqueRouteStopList);
 }
 
-export { parseUniqueRouteList, parseUniqueRouteMap, parseUniqueRouteStopList }
+async function parseUniqueRouteStopListByLocation()
+{
+    var routeStopListByLocation = {};
+
+    const routeStopListPath = './download/finalOutput/uniqueRouteStopList.json';
+    const routeStopListJson = await loadJSONFromFile(routeStopListPath);
+
+    for (const key in routeStopListJson)
+    {
+        for (var i=0 ; i<routeStopListJson[key].length ; i++)
+        {
+            const currItem = routeStopListJson[key][i];
+
+            var lat = currItem['lat'];
+            var lon = currItem['long'];
+
+            var lat_roundDown = roundDownLatLong(lat);
+            var lon_roundDown = roundDownLatLong(lon);
+
+            var latLonKey = lat_roundDown + ',' + lon_roundDown;
+
+            if (routeStopListByLocation[latLonKey])
+            {
+                routeStopListByLocation[latLonKey].push(currItem);
+            }
+            else
+            {
+                routeStopListByLocation[latLonKey] = [];
+                routeStopListByLocation[latLonKey].push(currItem);
+            }
+        }
+    }  
+    
+    const filePath = './download/finalOutput/uniqueRouteStopListByLocation.json';
+    await saveJSONToFile(filePath, routeStopListByLocation);
+}
+
+async function generateVersion()
+{
+    const currentDate = new Date();
+    const year = currentDate.getFullYear();
+    const month = String(currentDate.getMonth() + 1).padStart(2, '0');
+    const day = String(currentDate.getDate()).padStart(2, '0');
+    const hours = String(currentDate.getHours()).padStart(2, '0');
+    const minutes = String(currentDate.getMinutes()).padStart(2, '0');
+    const seconds = String(currentDate.getSeconds()).padStart(2, '0');
+
+    const dateString = `${year}${month}${day}_${hours}${minutes}${seconds}`;
+
+    const timestampArr = { version: dateString }
+
+    const filePath = './download/finalOutput/version.json';
+    await saveJSONToFile(filePath, timestampArr);
+}
+
+export { parseUniqueRouteList, parseUniqueRouteMap, parseUniqueRouteStopList, parseUniqueRouteStopListByLocation, generateVersion }
 
