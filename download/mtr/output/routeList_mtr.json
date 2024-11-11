@@ -1,9 +1,8 @@
 [
   {
     "company": "mtr",
-    "route_id": "mtr_AEL_DOWN",
+    "id": "mtr_AEL",
     "route": "AEL",
-    "direction": "DOWN",
     "from_en": "AsiaWorld-Expo",
     "from_tc": "博覽館",
     "to_en": "Hong Kong",
@@ -11,19 +10,8 @@
   },
   {
     "company": "mtr",
-    "route_id": "mtr_AEL_UP",
-    "route": "AEL",
-    "direction": "UP",
-    "from_en": "Hong Kong",
-    "from_tc": "香港",
-    "to_en": "AsiaWorld-Expo",
-    "to_tc": "博覽館"
-  },
-  {
-    "company": "mtr",
-    "route_id": "mtr_DRL_DOWN",
+    "id": "mtr_DRL",
     "route": "DRL",
-    "direction": "DOWN",
     "from_en": "Sunny Bay",
     "from_tc": "欣澳",
     "to_en": "Disneyland Resort",
@@ -31,19 +19,8 @@
   },
   {
     "company": "mtr",
-    "route_id": "mtr_DRL_UP",
-    "route": "DRL",
-    "direction": "UP",
-    "from_en": "Disneyland Resort",
-    "from_tc": "迪士尼",
-    "to_en": "Sunny Bay",
-    "to_tc": "欣澳"
-  },
-  {
-    "company": "mtr",
-    "route_id": "mtr_EAL_DOWN",
+    "id": "mtr_EAL",
     "route": "EAL",
-    "direction": "DOWN",
     "from_en": "Lo Wu/Lok Ma Chau",
     "from_tc": "羅湖/落馬洲",
     "to_en": "Admiralty",
@@ -51,19 +28,8 @@
   },
   {
     "company": "mtr",
-    "route_id": "mtr_EAL_UP",
-    "route": "EAL",
-    "direction": "DOWN",
-    "from_en": "Admiralty",
-    "from_tc": "金鐘",
-    "to_en": "Lo Wu/Lok Ma Chau",
-    "to_tc": "羅湖/落馬洲"
-  },
-  {
-    "company": "mtr",
-    "route_id": "mtr_ISL_DOWN",
+    "id": "mtr_ISL",
     "route": "ISL",
-    "direction": "DOWN",
     "from_en": "Chai Wan",
     "from_tc": "柴灣",
     "to_en": "Kennedy Town",
@@ -71,19 +37,8 @@
   },
   {
     "company": "mtr",
-    "route_id": "mtr_ISL_UP",
-    "route": "ISL",
-    "direction": "UP",
-    "from_en": "Kennedy Town",
-    "from_tc": "堅尼地城",
-    "to_en": "Chai Wan",
-    "to_tc": "柴灣"
-  },
-  {
-    "company": "mtr",
-    "route_id": "mtr_KTL_DOWN",
+    "id": "mtr_KTL",
     "route": "KTL",
-    "direction": "DOWN",
     "from_en": "Tiu Keng Leng",
     "from_tc": "調景嶺",
     "to_en": "Whampoa",
@@ -91,19 +46,8 @@
   },
   {
     "company": "mtr",
-    "route_id": "mtr_KTL_UP",
-    "route": "KTL",
-    "direction": "UP",
-    "from_en": "Whampoa",
-    "from_tc": "黃埔",
-    "to_en": "Tiu Keng Leng",
-    "to_tc": "調景嶺"
-  },
-  {
-    "company": "mtr",
-    "route_id": "mtr_TML_UP",
+    "id": "mtr_TML",
     "route": "TML",
-    "direction": "UP",
     "from_en": "Wu Kai Sha",
     "from_tc": "烏溪沙",
     "to_en": "Tuen Mun",
@@ -111,19 +55,8 @@
   },
   {
     "company": "mtr",
-    "route_id": "mtr_TML_DOWN",
-    "route": "TML",
-    "direction": "DOWN",
-    "from_en": "Tuen Mun",
-    "from_tc": "屯門",
-    "to_en": "Wu Kai Sha",
-    "to_tc": "烏溪沙"
-  },
-  {
-    "company": "mtr",
-    "route_id": "mtr_TCL_DOWN",
+    "id": "mtr_TCL",
     "route": "TCL",
-    "direction": "DOWN",
     "from_en": "Tung Chung",
     "from_tc": "東涌",
     "to_en": "Hong Kong",
@@ -131,19 +64,8 @@
   },
   {
     "company": "mtr",
-    "route_id": "mtr_TCL_UP",
-    "route": "TCL",
-    "direction": "UP",
-    "from_en": "Hong Kong",
-    "from_tc": "香港",
-    "to_en": "Tung Chung",
-    "to_tc": "東涌"
-  },
-  {
-    "company": "mtr",
-    "route_id": "mtr_TKL_DOWN",
+    "id": "mtr_TKL",
     "route": "TKL",
-    "direction": "DOWN",
     "from_en": "Po Lam/LOHAS Park",
     "from_tc": "寶琳/康城",
     "to_en": "North Point",
@@ -151,19 +73,8 @@
   },
   {
     "company": "mtr",
-    "route_id": "mtr_TKL_UP",
-    "route": "TKL",
-    "direction": "DOWN",
-    "from_en": "Tiu Keng Leng/North Point",
-    "from_tc": "調景嶺/北角",
-    "to_en": "Po Lam",
-    "to_tc": "寶琳"
-  },
-  {
-    "company": "mtr",
-    "route_id": "mtr_TWL_DOWN",
+    "id": "mtr_TWL",
     "route": "TWL",
-    "direction": "DOWN",
     "from_en": "Tsuen Wan",
     "from_tc": "荃灣",
     "to_en": "Central",
@@ -171,32 +82,11 @@
   },
   {
     "company": "mtr",
-    "route_id": "mtr_TWL_UP",
-    "route": "TWL",
-    "direction": "UP",
-    "from_en": "Central",
-    "from_tc": "中環",
-    "to_en": "Tsuen Wan",
-    "to_tc": "荃灣"
-  },
-  {
-    "company": "mtr",
-    "route_id": "mtr_SIL_UP",
+    "id": "mtr_SIL",
     "route": "SIL",
-    "direction": "UP",
     "from_en": "Admiralty",
     "from_tc": "金鐘",
     "to_en": "South Horizons",
     "to_tc": "海怡半島"
-  },
-  {
-    "company": "mtr",
-    "route_id": "mtr_SIL_DOWN",
-    "route": "SIL",
-    "direction": "DOWN",
-    "from_en": "South Horizons",
-    "from_tc": "海怡半島",
-    "to_en": "Admiralty",
-    "to_tc": "金鐘"
   }
 ]

@@ -1,4 +1,4 @@
-import { stationLocation } from "./mtrMetaData.js";
+import { mtrRouteNameEn, mtrRouteNameTc, stationLocation } from "./mtrMetaData.js";
 import { downloadCsvAndConvertJson, downloadJSONFile, loadJSONFromFile, saveJSONToFile } from "../utilities/file_management.js";
 
 async function downloadMtrRoutStopList()
@@ -22,18 +22,18 @@ async function createMtrRouteList()
         if (currItem['Line Code'] != '')
         {
             const directionArr = currItem['Direction'].split('-');
-            var route_id_temp = '';
+            var id_temp = '';
             var stop_id_temp = '';
 
             if (directionArr.length == 2)
             {
-                route_id_temp = currItem['Line Code'] + '_' + (directionArr[1] == 'UT' ? 'UP' : 'DOWN');
-                stop_id_temp = currItem['Line Code'] + '_' + currItem['Station Code'] + '_' + (directionArr[1] == 'UT' ? 'UP' : 'DOWN');
+                id_temp = 'mtr_' + currItem['Line Code'];
+                stop_id_temp = currItem['Line Code'] + '_' + currItem['Station Code'];
             }
             else
             {
-                route_id_temp = currItem['Line Code'] + '_' + (directionArr[0] == 'UT' ? 'UP' : 'DOWN');
-                stop_id_temp = currItem['Line Code'] + '_' + currItem['Station Code'] + '_' + (directionArr[0] == 'UT' ? 'UP' : 'DOWN');
+                id_temp = 'mtr_' + currItem['Line Code'];
+                stop_id_temp = currItem['Line Code'] + '_' + currItem['Station Code'];
             }
 
             var insertItem = {}
@@ -41,9 +41,10 @@ async function createMtrRouteList()
             {
                 insertItem = {
                     "company": "mtr",
-                    "route_id": `mtr_${route_id_temp}`,
+                    "id": id_temp,
                     "route": currItem['Line Code'],
-                    "direction": directionArr[0] == 'UT' ? 'UP' : 'DOWN',
+                    "route_name_tc": mtrRouteNameTc[currItem['Line Code']],
+                    "route_name_en": mtrRouteNameEn[currItem['Line Code']],
                     "name_en": currItem['English Name'],
                     "name_tc": currItem['Chinese Name'],
                     "seq": currItem['Sequence'].toString().split('.')[0],
@@ -60,12 +61,12 @@ async function createMtrRouteList()
 
             if (stop_id_temp in addedStationMap == false)
             {
-                if (route_id_temp in routeStopListUnsorted)
-                    routeStopListUnsorted[route_id_temp].push(insertItem);
+                if (id_temp in routeStopListUnsorted)
+                    routeStopListUnsorted[id_temp].push(insertItem);
                 else
                 {
                     var newArr = [insertItem];
-                    routeStopListUnsorted[route_id_temp] = newArr;
+                    routeStopListUnsorted[id_temp] = newArr;
                 }
 
                 addedStationMap[stop_id_temp] = stop_id_temp;
@@ -99,7 +100,7 @@ async function createMtrRouteList()
 
         var insertItem = {};
         insertItem['company'] = 'mtr';
-        insertItem['route_id'] = firstStop1['route_id'];
+        insertItem['id'] = firstStop1['id'];
         insertItem['route'] = firstStop1['route'];
         insertItem['direction'] = firstStop1['direction'];
         insertItem['from_en'] = firstStop1['name_en'] + (firstStop2 ? `/${firstStop2['name_en']}` : '');
