@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:02:35.000+08:00",
+  "generated_timestamp": "2024-11-16T20:01:02.200+08:00",
   "data": {
     "route_stops": [
       {
@@ -20,12 +20,19 @@
       },
       {
         "stop_seq": 3,
+        "stop_id": 20000973,
+        "name_tc": "橫頭磡東道, 近橫頭磡邨宏德樓",
+        "name_sc": "横头磡东道, 近横头磡邨宏德楼",
+        "name_en": "Wang Tau Hom East Road, near Wang Tak House, Wang Tau Hom Estate"
+      },
+      {
+        "stop_seq": 4,
         "stop_id": 20015994,
         "name_tc": "橫頭磡南道, 近樂富邨宏順樓",
         "name_sc": "横头磡南道, 近乐富村宏顺楼",
         "name_en": "Wang Tau Hom South Road, Near Wang Shun House, Lok Fu Estate"
       }
     ],
-    "data_timestamp": "2022-06-28T00:01:58.015+08:00"
+    "data_timestamp": "2024-10-31T15:56:15.669+08:00"
   }
 }

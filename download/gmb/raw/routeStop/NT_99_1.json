@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:05:21.610+08:00",
+  "generated_timestamp": "2024-11-16T20:08:30.142+08:00",
   "data": {
     "route_stops": [
       {
@@ -47,6 +47,6 @@
         "name_en": "Riviera Gardens"
       }
     ],
-    "data_timestamp": "2024-10-23T13:28:56.879+08:00"
+    "data_timestamp": "2024-11-06T17:51:23.584+08:00"
   }
 }

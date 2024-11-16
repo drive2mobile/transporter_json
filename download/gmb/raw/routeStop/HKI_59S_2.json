@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:01:54.253+08:00",
+  "generated_timestamp": "2024-11-16T19:58:43.233+08:00",
   "data": {
     "route_stops": [
       {
@@ -61,6 +61,6 @@
         "name_en": "Tung Sing Tung Sing Road, outside Goodview Centre"
       }
     ],
-    "data_timestamp": "2024-09-15T00:01:39.719+08:00"
+    "data_timestamp": "2024-11-15T17:08:57.000+08:00"
   }
 }

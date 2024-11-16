@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:02:48.646+08:00",
+  "generated_timestamp": "2024-11-16T20:01:36.637+08:00",
   "data": {
     "route_stops": [
       {
@@ -75,6 +75,6 @@
         "name_en": "Hoi Lai Estate"
       }
     ],
-    "data_timestamp": "2024-07-31T16:37:01.299+08:00"
+    "data_timestamp": "2024-11-05T10:04:10.345+08:00"
   }
 }

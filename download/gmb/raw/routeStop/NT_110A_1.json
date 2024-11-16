@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:03:08.147+08:00",
+  "generated_timestamp": "2024-11-16T20:02:07.768+08:00",
   "data": {
     "route_stops": [
       {
@@ -75,6 +75,6 @@
         "name_en": "Kai Cheung Road outside Hong Kong Auxiliary Police Headquarters"
       }
     ],
-    "data_timestamp": "2024-09-30T17:49:34.482+08:00"
+    "data_timestamp": "2024-11-13T15:05:22.072+08:00"
   }
 }

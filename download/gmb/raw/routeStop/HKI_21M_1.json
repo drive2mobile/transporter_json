@@ -1,15 +1,15 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:01:25.374+08:00",
+  "generated_timestamp": "2024-11-16T19:57:07.861+08:00",
   "data": {
     "route_stops": [
       {
         "stop_seq": 1,
         "stop_id": 20000093,
-        "name_tc": "蘭芳道, 近利園宏利保險大廈",
-        "name_sc": "兰芳道, 近利园宏利保险大厦",
-        "name_en": "Near The Lee Gardens Manulife Plaza, Lan Fong Road"
+        "name_tc": "蘭芳道, 近利園一期",
+        "name_sc": "兰芳道, 近利园一期",
+        "name_en": "Near Lee Garden One, Lan Fong Road"
       },
       {
         "stop_seq": 2,
@@ -42,9 +42,9 @@
       {
         "stop_seq": 6,
         "stop_id": 20003492,
-        "name_tc": "大坑道, 宏豐台外",
-        "name_sc": "大坑道, 宏丰台外",
-        "name_en": "Tai Hang Road outside Wang Fung TerraceTai Hang Road outside Wang Fung Terrace"
+        "name_tc": "大坑道, 近宏豐臺",
+        "name_sc": "大坑道, 近宏丰台",
+        "name_en": "Near Wang Fung Terrace, Tai Hang Road"
       },
       {
         "stop_seq": 7,
@@ -77,9 +77,9 @@
       {
         "stop_seq": 11,
         "stop_id": 20003355,
-        "name_tc": "曼聯閣, 大坑道",
-        "name_sc": "曼联阁, 大坑道",
-        "name_en": "Manchester Lodge, Tai Hang Road"
+        "name_tc": "大坑道, 近優悠台",
+        "name_sc": "大坑道, 近优悠台",
+        "name_en": "Near C.C. Lodge, Tai Hang Road"
       },
       {
         "stop_seq": 12,
@@ -91,18 +91,18 @@
       {
         "stop_seq": 13,
         "stop_id": 20000122,
-        "name_tc": "大坑道, 帝后臺外",
-        "name_sc": "大坑道, 帝后台外",
-        "name_en": "Outside Grand Deco Tower, 9 Tai Hung Road"
+        "name_tc": "大坑道, 近帝后臺",
+        "name_sc": "大坑道, 近帝后台",
+        "name_en": "Near Grand Deco Tower, Tai Hang Road"
       },
       {
         "stop_seq": 14,
         "stop_id": 20000093,
-        "name_tc": "蘭芳道, 近利園宏利保險大廈",
-        "name_sc": "兰芳道, 近利园宏利保险大厦",
-        "name_en": "Near The Lee Gardens Manulife Plaza, Lan Fong Road"
+        "name_tc": "蘭芳道, 近利園一期",
+        "name_sc": "兰芳道, 近利园一期",
+        "name_en": "Near Lee Garden One, Lan Fong Road"
       }
     ],
-    "data_timestamp": "2024-10-30T13:55:16.799+08:00"
+    "data_timestamp": "2024-11-05T17:55:13.580+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:03:46.129+08:00",
+  "generated_timestamp": "2024-11-16T20:03:57.973+08:00",
   "data": {
     "route_stops": [
       {
@@ -68,6 +68,6 @@
         "name_en": "Princess Margaret Hospital Road, near Princess Margaret Hospital Block P"
       }
     ],
-    "data_timestamp": "2024-10-30T11:17:17.712+08:00"
+    "data_timestamp": "2024-11-05T17:32:49.868+08:00"
   }
 }

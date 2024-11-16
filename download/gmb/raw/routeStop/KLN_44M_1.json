@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:02:31.871+08:00",
+  "generated_timestamp": "2024-11-16T20:00:52.885+08:00",
   "data": {
     "route_stops": [
       {
@@ -33,6 +33,6 @@
         "name_en": "NGONG SHUNG ROAD near Hoi Hong Lau, Government Dockyard"
       }
     ],
-    "data_timestamp": "2024-08-07T17:33:18.060+08:00"
+    "data_timestamp": "2024-11-05T09:59:43.813+08:00"
   }
 }

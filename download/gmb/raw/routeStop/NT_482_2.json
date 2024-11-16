@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:03:58.827+08:00",
+  "generated_timestamp": "2024-11-16T20:04:32.567+08:00",
   "data": {
     "route_stops": [
       {
@@ -26,6 +26,6 @@
         "name_en": "Tam Kon Po Street, outside Sha Tin Town Hall"
       }
     ],
-    "data_timestamp": "2024-10-20T00:01:54.265+08:00"
+    "data_timestamp": "2024-11-05T16:48:06.216+08:00"
   }
 }

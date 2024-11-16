@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:01:25.069+08:00",
+  "generated_timestamp": "2024-11-16T19:57:07.332+08:00",
   "data": {
     "route_stops": [
       {
@@ -54,6 +54,6 @@
         "name_en": "Near Lee Garden One, Lan Fong Road"
       }
     ],
-    "data_timestamp": "2024-10-30T13:56:11.367+08:00"
+    "data_timestamp": "2024-11-05T17:54:40.209+08:00"
   }
 }

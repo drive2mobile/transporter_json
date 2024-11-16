@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:04:10.680+08:00",
+  "generated_timestamp": "2024-11-16T20:04:57.774+08:00",
   "data": {
     "route_stops": [
       {
@@ -40,6 +40,6 @@
         "name_en": "Hok Tau Wai Minibus Terminus"
       }
     ],
-    "data_timestamp": "2024-10-25T15:49:52.537+08:00"
+    "data_timestamp": "2024-11-07T10:33:55.971+08:00"
   }
 }

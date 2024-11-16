@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:04:31.667+08:00",
+  "generated_timestamp": "2024-11-16T20:05:57.849+08:00",
   "data": {
     "route_stops": [
       {
@@ -40,6 +40,6 @@
         "name_en": "LOWER SHING MUN ROAD, near FU SHAN CREMATORIUM"
       }
     ],
-    "data_timestamp": "2024-06-20T00:00:28.811+08:00"
+    "data_timestamp": "2024-11-13T17:02:06.467+08:00"
   }
 }

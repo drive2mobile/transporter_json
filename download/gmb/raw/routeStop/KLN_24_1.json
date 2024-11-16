@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:02:18.348+08:00",
+  "generated_timestamp": "2024-11-16T19:59:59.524+08:00",
   "data": {
     "route_stops": [
       {
@@ -201,6 +201,6 @@
         "name_en": "Ping Tin Public Transport Interchange"
       }
     ],
-    "data_timestamp": "2024-10-29T22:46:34.406+08:00"
+    "data_timestamp": "2024-11-13T18:31:15.160+08:00"
   }
 }

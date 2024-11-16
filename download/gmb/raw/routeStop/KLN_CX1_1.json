@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:03:00.417+08:00",
+  "generated_timestamp": "2024-11-16T20:01:51.391+08:00",
   "data": {
     "route_stops": [
       {
@@ -68,6 +68,6 @@
         "name_en": "Wui Man Road, outside Austin Station Exit D"
       }
     ],
-    "data_timestamp": "2024-10-21T15:01:09.485+08:00"
+    "data_timestamp": "2024-11-15T19:00:58.774+08:00"
   }
 }

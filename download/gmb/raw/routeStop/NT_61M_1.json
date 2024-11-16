@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:04:26.610+08:00",
+  "generated_timestamp": "2024-11-16T20:05:42.328+08:00",
   "data": {
     "route_stops": [
       {
@@ -19,6 +19,6 @@
         "name_en": "Tai Wai Station Public Transport Interchange"
       }
     ],
-    "data_timestamp": "2024-07-20T00:00:12.079+08:00"
+    "data_timestamp": "2024-11-13T18:13:12.899+08:00"
   }
 }

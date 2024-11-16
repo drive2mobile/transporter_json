@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:02:47.605+08:00",
+  "generated_timestamp": "2024-11-16T20:01:33.854+08:00",
   "data": {
     "route_stops": [
       {
@@ -26,6 +26,6 @@
         "name_en": "King Tung Street, Kingsford Terrace"
       }
     ],
-    "data_timestamp": "2024-07-31T15:36:59.883+08:00"
+    "data_timestamp": "2024-10-31T19:35:40.972+08:00"
   }
 }

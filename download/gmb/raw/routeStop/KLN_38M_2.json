@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:02:29.155+08:00",
+  "generated_timestamp": "2024-11-16T20:00:42.971+08:00",
   "data": {
     "route_stops": [
       {
@@ -33,6 +33,6 @@
         "name_en": "Wing Chuk Street, outside Toa Yuen House, Chuk Yuen North Estate"
       }
     ],
-    "data_timestamp": "2024-07-31T18:11:44.275+08:00"
+    "data_timestamp": "2024-10-31T15:47:13.816+08:00"
   }
 }

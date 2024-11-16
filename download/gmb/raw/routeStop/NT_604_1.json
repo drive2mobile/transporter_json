@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:04:19.717+08:00",
+  "generated_timestamp": "2024-11-16T20:05:23.184+08:00",
   "data": {
     "route_stops": [
       {
@@ -40,6 +40,6 @@
         "name_en": "Shan Ha Tsuen Minibus Terminus"
       }
     ],
-    "data_timestamp": "2024-10-25T16:51:06.436+08:00"
+    "data_timestamp": "2024-11-13T16:43:36.138+08:00"
   }
 }

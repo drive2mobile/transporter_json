@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:04:42.292+08:00",
+  "generated_timestamp": "2024-11-16T20:06:27.819+08:00",
   "data": {
     "route_stops": [
       {
@@ -133,16 +133,16 @@
       {
         "stop_seq": 19,
         "stop_id": 20001282,
-        "name_tc": "元朗站(北)公共運輸交匯處",
-        "name_sc": "元朗站(北)公共运输交汇处",
-        "name_en": "Yuen Long Station (North) Public Transport Interchange"
+        "name_tc": "朗日路, 近元朗站",
+        "name_sc": "朗日路, 近元朗站",
+        "name_en": "Long Yat Road, near Yuen Long Station"
       },
       {
         "stop_seq": 20,
         "stop_id": 20015596,
-        "name_tc": "朗日路, 近元朗站",
-        "name_sc": "朗日路, 近元朗站",
-        "name_en": "Long Yat Road, near Yuen Long Station"
+        "name_tc": "東頭村",
+        "name_sc": "东头村",
+        "name_en": "Yung Tau Tsuen"
       },
       {
         "stop_seq": 21,
@@ -152,6 +152,6 @@
         "name_en": "Lok Ma Chau Control Point"
       }
     ],
-    "data_timestamp": "2024-10-25T16:52:13.426+08:00"
+    "data_timestamp": "2024-11-13T16:52:01.736+08:00"
   }
 }

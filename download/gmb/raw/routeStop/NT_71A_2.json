@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:04:37.613+08:00",
+  "generated_timestamp": "2024-11-16T20:06:15.016+08:00",
   "data": {
     "route_stops": [
       {
@@ -110,6 +110,6 @@
         "name_en": "Kam Po Road, near Cheung Po Tsuen Village Office"
       }
     ],
-    "data_timestamp": "2024-05-30T10:50:42.559+08:00"
+    "data_timestamp": "2024-11-13T13:56:23.462+08:00"
   }
 }

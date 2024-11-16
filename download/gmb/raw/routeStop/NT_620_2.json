@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:04:27.822+08:00",
+  "generated_timestamp": "2024-11-16T20:05:46.142+08:00",
   "data": {
     "route_stops": [
       {
@@ -26,6 +26,6 @@
         "name_en": "Park YOHO Transport Interchange"
       }
     ],
-    "data_timestamp": "2024-05-30T10:48:46.398+08:00"
+    "data_timestamp": "2024-11-13T13:56:22.985+08:00"
   }
 }

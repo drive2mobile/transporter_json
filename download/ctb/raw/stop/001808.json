@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-10-26T19:50:25+08:00",
+  "generated_timestamp": "2024-11-16T19:37:52+08:00",
   "data": {
     "stop": "001808",
     "name_tc": "海逸豪園",
@@ -9,6 +9,6 @@
     "lat": "22.307798872091",
     "long": "114.19221990053",
     "name_sc": "海逸豪园",
-    "data_timestamp": "2024-10-26T05:00:03+08:00"
+    "data_timestamp": "2024-11-16T05:00:03+08:00"
   }
 }

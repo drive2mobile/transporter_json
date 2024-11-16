@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:02:48.952+08:00",
+  "generated_timestamp": "2024-11-16T20:01:37.517+08:00",
   "data": {
     "route_stops": [
       {
@@ -27,12 +27,12 @@
       },
       {
         "stop_seq": 4,
-        "stop_id": 20019766,
-        "name_tc": "坪石一樓公共運輸交匯處",
-        "name_sc": "坪石一楼公共运输交汇处",
-        "name_en": "Pink Shek 1/F Public Transport Interchange"
+        "stop_id": 20012360,
+        "name_tc": "坪石公共運輸交匯處一樓",
+        "name_sc": "坪石公共运输交汇处一楼",
+        "name_en": "Ping Shek Public Transport Interchange 1/F"
       }
     ],
-    "data_timestamp": "2024-07-08T00:00:18.164+08:00"
+    "data_timestamp": "2024-11-15T18:45:17.699+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:05:08.585+08:00",
+  "generated_timestamp": "2024-11-16T20:07:50.525+08:00",
   "data": {
     "route_stops": [
       {
@@ -27,12 +27,19 @@
       },
       {
         "stop_seq": 4,
+        "stop_id": 20020260,
+        "name_tc": "沙咀道王子工業大廈外",
+        "name_sc": "沙咀道王子工业大厦外",
+        "name_en": "Sha Tsui Road outside Wong's Factory Building"
+      },
+      {
+        "stop_seq": 5,
         "stop_id": 20015937,
         "name_tc": "河背街, 近天佑小學",
         "name_sc": "河背街, 近天佑小学",
         "name_en": "Ho Pui Street, Near Mary Of Providence Primary School"
       }
     ],
-    "data_timestamp": "2024-10-23T13:28:56.874+08:00"
+    "data_timestamp": "2024-11-05T16:44:51.228+08:00"
   }
 }

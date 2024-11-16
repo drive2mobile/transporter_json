@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:02:06.208+08:00",
+  "generated_timestamp": "2024-11-16T19:59:27.169+08:00",
   "data": {
     "route_stops": [
       {
@@ -173,6 +173,6 @@
         "name_en": "Hung Hom (Hung Luen Road) GMB Terminus"
       }
     ],
-    "data_timestamp": "2024-10-28T17:29:08.578+08:00"
+    "data_timestamp": "2024-11-15T19:03:37.996+08:00"
   }
 }

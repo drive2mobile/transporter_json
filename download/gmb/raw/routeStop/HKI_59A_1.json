@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:01:53.257+08:00",
+  "generated_timestamp": "2024-11-16T19:58:40.609+08:00",
   "data": {
     "route_stops": [
       {
@@ -47,6 +47,6 @@
         "name_en": "Shum Wan Road, outside Block 3, South Wave Court"
       }
     ],
-    "data_timestamp": "2024-09-15T00:01:21.610+08:00"
+    "data_timestamp": "2024-11-15T17:33:04.398+08:00"
   }
 }

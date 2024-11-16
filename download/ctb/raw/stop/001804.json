@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-10-26T19:50:27+08:00",
+  "generated_timestamp": "2024-11-16T19:37:54+08:00",
   "data": {
     "stop": "001804",
     "name_tc": "機利士南路",
@@ -9,6 +9,6 @@
     "lat": "22.307347652091",
     "long": "114.18452885053",
     "name_sc": "机利士南路",
-    "data_timestamp": "2024-10-26T05:00:03+08:00"
+    "data_timestamp": "2024-11-16T05:00:03+08:00"
   }
 }

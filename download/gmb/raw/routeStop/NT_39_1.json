@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:03:41.385+08:00",
+  "generated_timestamp": "2024-11-16T20:03:44.646+08:00",
   "data": {
     "route_stops": [
       {
@@ -13,26 +13,40 @@
       },
       {
         "stop_seq": 2,
+        "stop_id": 20020328,
+        "name_tc": "十八鄉路，近原築第二座",
+        "name_sc": "十八乡路，近原筑第二座",
+        "name_en": "Shap Pat Heung Road near La Grove Block No. 2"
+      },
+      {
+        "stop_seq": 3,
         "stop_id": 20015544,
         "name_tc": "十八鄉路, 近溱柏第十座",
         "name_sc": "十八乡路, 近溱柏第十座",
         "name_en": "Shap Pat Heung Road, near Park Signature Tower 10"
       },
       {
-        "stop_seq": 3,
+        "stop_seq": 4,
+        "stop_id": 20020327,
+        "name_tc": "元朗體育路，近銀田花園",
+        "name_sc": "元朗体育路，近银田花园",
+        "name_en": "Yuen Long Tai Yuk Road near Silver Field Garden"
+      },
+      {
+        "stop_seq": 5,
         "stop_id": 20015546,
         "name_tc": "鳳翔路, 近鳳庭苑華庭閣",
         "name_sc": "凤翔路, 近凤庭苑华庭阁",
         "name_en": "Fung Cheung Road, near Wah Ting Court, Fung Ting Court"
       },
       {
-        "stop_seq": 4,
+        "stop_seq": 6,
         "stop_id": 20007415,
         "name_tc": "元朗港鐵站",
         "name_sc": "元朗港铁站",
         "name_en": "Yuen Long Station"
       }
     ],
-    "data_timestamp": "2024-03-18T14:17:12.436+08:00"
+    "data_timestamp": "2024-11-13T13:51:12.382+08:00"
   }
 }

@@ -27,6 +27,15 @@
     "to_en": "Ngong Ping"
   },
   {
+    "id": "nlb_2_5",
+    "company": "nlb",
+    "route": "2",
+    "from_tc": "昂坪",
+    "from_en": "Ngong Ping",
+    "to_tc": "梅窩碼頭",
+    "to_en": "Mui Wo Ferry Pier"
+  },
+  {
     "id": "nlb_2_4",
     "company": "nlb",
     "route": "2",
@@ -36,11 +45,11 @@
     "to_en": "Ngong Ping"
   },
   {
-    "id": "nlb_2_5",
+    "id": "nlb_3M_6",
     "company": "nlb",
-    "route": "2",
-    "from_tc": "昂坪",
-    "from_en": "Ngong Ping",
+    "route": "3M",
+    "from_tc": "東涌站巴士總站",
+    "from_en": "Tung Chung Station Bus Terminus",
     "to_tc": "梅窩碼頭",
     "to_en": "Mui Wo Ferry Pier"
   },
@@ -63,11 +72,20 @@
     "to_en": "Tung Chung Station Bus Terminus"
   },
   {
-    "id": "nlb_3M_6",
+    "id": "nlb_4_9",
     "company": "nlb",
-    "route": "3M",
-    "from_tc": "東涌站巴士總站",
-    "from_en": "Tung Chung Station Bus Terminus",
+    "route": "4",
+    "from_tc": "梅窩碼頭",
+    "from_en": "Mui Wo Ferry Pier",
+    "to_tc": "塘福",
+    "to_en": "Tong Fuk"
+  },
+  {
+    "id": "nlb_4_10",
+    "company": "nlb",
+    "route": "4",
+    "from_tc": "塘福",
+    "from_en": "Tong Fuk",
     "to_tc": "梅窩碼頭",
     "to_en": "Mui Wo Ferry Pier"
   },
@@ -81,29 +99,11 @@
     "to_en": "Tong Fuk (to Shui Hau)"
   },
   {
-    "id": "nlb_4_9",
-    "company": "nlb",
-    "route": "4",
-    "from_tc": "梅窩碼頭",
-    "from_en": "Mui Wo Ferry Pier",
-    "to_tc": "塘福",
-    "to_en": "Tong Fuk"
-  },
-  {
     "id": "nlb_4_11",
     "company": "nlb",
     "route": "4",
     "from_tc": "塘福 (水口開)",
     "from_en": "Tong Fuk (from Shui Hau)",
-    "to_tc": "梅窩碼頭",
-    "to_en": "Mui Wo Ferry Pier"
-  },
-  {
-    "id": "nlb_4_10",
-    "company": "nlb",
-    "route": "4",
-    "from_tc": "塘福",
-    "from_en": "Tong Fuk",
     "to_tc": "梅窩碼頭",
     "to_en": "Mui Wo Ferry Pier"
   },
@@ -162,15 +162,6 @@
     "to_en": "Tung Chung Station Bus Terminus"
   },
   {
-    "id": "nlb_11A_16",
-    "company": "nlb",
-    "route": "11A",
-    "from_tc": "石壁",
-    "from_en": "Shek Pik",
-    "to_tc": "東涌站巴士總站",
-    "to_en": "Tung Chung Station Bus Terminus"
-  },
-  {
     "id": "nlb_11A_15",
     "company": "nlb",
     "route": "11A",
@@ -180,13 +171,13 @@
     "to_en": "Shek Pik"
   },
   {
-    "id": "nlb_21_20",
+    "id": "nlb_11A_16",
     "company": "nlb",
-    "route": "21",
-    "from_tc": "大澳",
-    "from_en": "Tai O",
-    "to_tc": "昂坪",
-    "to_en": "Ngong Ping"
+    "route": "11A",
+    "from_tc": "石壁",
+    "from_en": "Shek Pik",
+    "to_tc": "東涌站巴士總站",
+    "to_en": "Tung Chung Station Bus Terminus"
   },
   {
     "id": "nlb_21_19",
@@ -196,6 +187,15 @@
     "from_en": "Ngong Ping",
     "to_tc": "大澳",
     "to_en": "Tai O"
+  },
+  {
+    "id": "nlb_21_20",
+    "company": "nlb",
+    "route": "21",
+    "from_tc": "大澳",
+    "from_en": "Tai O",
+    "to_tc": "昂坪",
+    "to_en": "Ngong Ping"
   },
   {
     "id": "nlb_23_21",
@@ -360,15 +360,6 @@
     "to_en": "Mun Tung Estate  (Circular Route)"
   },
   {
-    "id": "nlb_A35_91",
-    "company": "nlb",
-    "route": "A35",
-    "from_tc": "大橋香港口岸",
-    "from_en": "HZMB Hong Kong Port",
-    "to_tc": "梅窩碼頭",
-    "to_en": "Mui Wo Ferry Pier"
-  },
-  {
     "id": "nlb_A35_90",
     "company": "nlb",
     "route": "A35",
@@ -376,6 +367,15 @@
     "from_en": "Mui Wo Ferry Pier",
     "to_tc": "大橋香港口岸",
     "to_en": "HZMB Hong Kong Port"
+  },
+  {
+    "id": "nlb_A35_91",
+    "company": "nlb",
+    "route": "A35",
+    "from_tc": "大橋香港口岸",
+    "from_en": "HZMB Hong Kong Port",
+    "to_tc": "梅窩碼頭",
+    "to_en": "Mui Wo Ferry Pier"
   },
   {
     "id": "nlb_B2_37",
@@ -396,15 +396,6 @@
     "to_en": "Yuen Long MTR Station"
   },
   {
-    "id": "nlb_B2P_33",
-    "company": "nlb",
-    "route": "B2P",
-    "from_tc": "天水圍 (天慈邨)",
-    "from_en": "Tin Shui Wai (Tin Tsz Estate)",
-    "to_tc": "深圳灣口岸",
-    "to_en": "Shenzhen Bay Port"
-  },
-  {
     "id": "nlb_B2P_34",
     "company": "nlb",
     "route": "B2P",
@@ -414,13 +405,13 @@
     "to_en": "Tin Shui Wai (Tin Tsz Estate)"
   },
   {
-    "id": "nlb_B2X_36",
+    "id": "nlb_B2P_33",
     "company": "nlb",
-    "route": "B2X",
-    "from_tc": "深圳灣口岸",
-    "from_en": "Shenzhen Bay Port",
-    "to_tc": "天水圍 (天耀邨)",
-    "to_en": "Tin Shui Wai (Tin Yiu Estate)"
+    "route": "B2P",
+    "from_tc": "天水圍 (天慈邨)",
+    "from_en": "Tin Shui Wai (Tin Tsz Estate)",
+    "to_tc": "深圳灣口岸",
+    "to_en": "Shenzhen Bay Port"
   },
   {
     "id": "nlb_B2X_35",
@@ -432,6 +423,15 @@
     "to_en": "Shenzhen Bay Port"
   },
   {
+    "id": "nlb_B2X_36",
+    "company": "nlb",
+    "route": "B2X",
+    "from_tc": "深圳灣口岸",
+    "from_en": "Shenzhen Bay Port",
+    "to_tc": "天水圍 (天耀邨)",
+    "to_en": "Tin Shui Wai (Tin Yiu Estate)"
+  },
+  {
     "id": "nlb_B4_87",
     "company": "nlb",
     "route": "B4",
@@ -439,15 +439,6 @@
     "from_en": "HZMB Hong Kong Port",
     "to_tc": "機場 (客運大樓) (循環線)",
     "to_en": "Airport (Passenger Terminal Building) (Circular)"
-  },
-  {
-    "id": "nlb_B6_89",
-    "company": "nlb",
-    "route": "B6",
-    "from_tc": "滿東邨",
-    "from_en": "Mun Tung Estate",
-    "to_tc": "大橋香港口岸",
-    "to_en": "HZMB Hong Kong Port"
   },
   {
     "id": "nlb_B6_88",
@@ -459,6 +450,15 @@
     "to_en": "Mun Tung Estate"
   },
   {
+    "id": "nlb_B6_89",
+    "company": "nlb",
+    "route": "B6",
+    "from_tc": "滿東邨",
+    "from_en": "Mun Tung Estate",
+    "to_tc": "大橋香港口岸",
+    "to_en": "HZMB Hong Kong Port"
+  },
+  {
     "id": "nlb_N1_40",
     "company": "nlb",
     "route": "N1",
@@ -468,15 +468,6 @@
     "to_en": "Tai O"
   },
   {
-    "id": "nlb_N35_92",
-    "company": "nlb",
-    "route": "N35",
-    "from_tc": "梅窩碼頭",
-    "from_en": "Mui Wo Ferry Pier",
-    "to_tc": "大橋香港口岸",
-    "to_en": "HZMB Hong Kong Port"
-  },
-  {
     "id": "nlb_N35_93",
     "company": "nlb",
     "route": "N35",
@@ -484,6 +475,15 @@
     "from_en": "HZMB Hong Kong Port",
     "to_tc": "梅窩碼頭",
     "to_en": "Mui Wo Ferry Pier"
+  },
+  {
+    "id": "nlb_N35_92",
+    "company": "nlb",
+    "route": "N35",
+    "from_tc": "梅窩碼頭",
+    "from_en": "Mui Wo Ferry Pier",
+    "to_tc": "大橋香港口岸",
+    "to_en": "HZMB Hong Kong Port"
   },
   {
     "id": "nlb_N37_86",

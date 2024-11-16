@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-10-26T19:51:22+08:00",
+  "generated_timestamp": "2024-11-16T19:38:30+08:00",
   "data": {
     "stop": "002554",
     "name_tc": "怡和街",
@@ -9,6 +9,6 @@
     "lat": "22.279929702091",
     "long": "114.18500787053",
     "name_sc": "怡和街",
-    "data_timestamp": "2024-10-26T05:00:03+08:00"
+    "data_timestamp": "2024-11-16T05:00:03+08:00"
   }
 }

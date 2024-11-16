@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:05:02.412+08:00",
+  "generated_timestamp": "2024-11-16T20:07:26.742+08:00",
   "data": {
     "route_stops": [
       {
@@ -20,33 +20,40 @@
       },
       {
         "stop_seq": 3,
+        "stop_id": 20019601,
+        "name_tc": "葵福路, 中華傳道會李賢堯紀念中學外",
+        "name_sc": "葵福路, 中华传道会李贤尧纪念中学外",
+        "name_en": "Kwai Fuk Road, outside CNEC Lee I Yao Memorial Secondary School"
+      },
+      {
+        "stop_seq": 4,
         "stop_id": 20014776,
         "name_tc": "葵盛圍, 近葵盛西邨第十座",
         "name_sc": "葵盛围, 近葵盛西邨第十座",
         "name_en": "KWAI SHING CIRCUIT, near Kwai Shing West Estate Block 10"
       },
       {
-        "stop_seq": 4,
+        "stop_seq": 5,
         "stop_id": 20014777,
         "name_tc": "葵盛圍, 近順德聯誼總會李兆基中學",
         "name_sc": "葵盛围, 近顺德联谊总会李兆基中学",
         "name_en": "KWAI SHING CIRCUIT, near Shun Tak Fraternal Association Lee Shau Kee College"
       },
       {
-        "stop_seq": 5,
+        "stop_seq": 6,
         "stop_id": 20014778,
         "name_tc": "葵盛圍, 近葵盛圍遊樂場",
         "name_sc": "葵盛围, 近葵盛围游乐场",
         "name_en": "KWAI SHING CIRCUIT, near KWAI SHING CIRCUIT PLAYGROUND"
       },
       {
-        "stop_seq": 6,
+        "stop_seq": 7,
         "stop_id": 20014779,
         "name_tc": "盛芳街, 近協德大廈",
         "name_sc": "盛芳街, 近协德大厦",
         "name_en": "SHING FONG STREET, near Hip Tak Building"
       }
     ],
-    "data_timestamp": "2024-10-30T11:52:50.946+08:00"
+    "data_timestamp": "2024-11-05T17:33:10.092+08:00"
   }
 }

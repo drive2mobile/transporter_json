@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:02:42.612+08:00",
+  "generated_timestamp": "2024-11-16T20:01:21.050+08:00",
   "data": {
     "route_stops": [
       {
@@ -124,6 +124,6 @@
         "name_en": "Hammer Hill Road, outside Grand View Garden Commercial And Car Park Block"
       }
     ],
-    "data_timestamp": "2024-08-07T13:48:07.408+08:00"
+    "data_timestamp": "2024-11-15T19:03:37.999+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:03:19.123+08:00",
+  "generated_timestamp": "2024-11-16T20:02:44.706+08:00",
   "data": {
     "route_stops": [
       {
@@ -23,7 +23,7 @@
         "stop_id": 20000568,
         "name_tc": "清水灣道, 彩雲商場",
         "name_sc": "清水湾道, 彩云商场",
-        "name_en": "Clear Water Bay Road, outside Choi Wan Commercial Complex"
+        "name_en": "Choi Wan Commercial Complex, Clear Water Bay Road\t"
       },
       {
         "stop_seq": 4,
@@ -89,6 +89,6 @@
         "name_en": "Fuk Man Road Public Light Bus Terminus, outside King Wah Building"
       }
     ],
-    "data_timestamp": "2024-09-10T18:26:28.076+08:00"
+    "data_timestamp": "2024-11-15T18:15:35.645+08:00"
   }
 }

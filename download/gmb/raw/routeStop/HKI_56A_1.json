@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:01:50.133+08:00",
+  "generated_timestamp": "2024-11-16T19:58:32.942+08:00",
   "data": {
     "route_stops": [
       {
@@ -110,6 +110,6 @@
         "name_en": "Pennington Street outside Lee Gardens Two"
       }
     ],
-    "data_timestamp": "2024-10-30T13:55:16.747+08:00"
+    "data_timestamp": "2024-11-05T17:54:40.191+08:00"
   }
 }

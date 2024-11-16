@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:03:41.170+08:00",
+  "generated_timestamp": "2024-11-16T20:03:44.363+08:00",
   "data": {
     "route_stops": [
       {
@@ -35,9 +35,9 @@
       {
         "stop_seq": 5,
         "stop_id": 20016844,
-        "name_tc": "新潭路, 近首譽",
-        "name_sc": "新潭路, 近首誉",
-        "name_en": "San Tam Road, Near Meister House"
+        "name_tc": "新潭路, 近朗廈",
+        "name_sc": "新潭路, 近朗厦",
+        "name_en": "San Tam Road, Near Long Ha"
       },
       {
         "stop_seq": 6,
@@ -104,12 +104,26 @@
       },
       {
         "stop_seq": 15,
+        "stop_id": 20015426,
+        "name_tc": "擊壤路, 近擊壤路五人足球場",
+        "name_sc": "击壤路, 近击壤路五人足球场",
+        "name_en": "Kik Yeung Road, near Kik Yueng Road 5-a-side Football Pitch"
+      },
+      {
+        "stop_seq": 16,
+        "stop_id": 20015427,
+        "name_tc": "元朗安寧路, 近大橋",
+        "name_sc": "元朗安宁路, 近大桥",
+        "name_en": "Yuen Long On Ning Road, near Tai Kiu"
+      },
+      {
+        "stop_seq": 17,
         "stop_id": 20015409,
         "name_tc": "福康街, 近金寶樓",
         "name_sc": "福康街, 近金宝楼",
         "name_en": "Fook Hong Street, near Kam Bo Building"
       }
     ],
-    "data_timestamp": "2024-10-25T16:51:06.437+08:00"
+    "data_timestamp": "2024-11-15T19:24:38.822+08:00"
   }
 }

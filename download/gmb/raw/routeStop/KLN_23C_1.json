@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:02:16.742+08:00",
+  "generated_timestamp": "2024-11-16T19:59:54.548+08:00",
   "data": {
     "route_stops": [
       {
@@ -152,6 +152,6 @@
         "name_en": "Sin Fat Road, Near Lam Tin Station"
       }
     ],
-    "data_timestamp": "2024-09-10T18:39:17.034+08:00"
+    "data_timestamp": "2024-11-13T18:30:25.986+08:00"
   }
 }

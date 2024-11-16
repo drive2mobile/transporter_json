@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:02:31.568+08:00",
+  "generated_timestamp": "2024-11-16T20:00:52.484+08:00",
   "data": {
     "route_stops": [
       {
@@ -47,6 +47,6 @@
         "name_en": "Cheung Sha Wan Plaza Minibus Terminus"
       }
     ],
-    "data_timestamp": "2024-08-07T17:33:18.060+08:00"
+    "data_timestamp": "2024-11-05T10:04:10.649+08:00"
   }
 }

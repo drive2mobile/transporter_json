@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:05:02.698+08:00",
+  "generated_timestamp": "2024-11-16T20:07:27.472+08:00",
   "data": {
     "route_stops": [
       {
@@ -61,6 +61,6 @@
         "name_en": "HAM TIN STREET, near Shek Pik Resettlers' Playground, Tsuen Wan"
       }
     ],
-    "data_timestamp": "2024-10-30T11:52:50.946+08:00"
+    "data_timestamp": "2024-11-05T17:33:10.092+08:00"
   }
 }

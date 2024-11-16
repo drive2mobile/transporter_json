@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:03:17.508+08:00",
+  "generated_timestamp": "2024-11-16T20:02:39.750+08:00",
   "data": {
     "route_stops": [
       {
@@ -47,6 +47,6 @@
         "name_en": "Lam Tin Station Public Transport Interchange"
       }
     ],
-    "data_timestamp": "2024-10-29T22:46:34.396+08:00"
+    "data_timestamp": "2024-10-31T13:50:00.051+08:00"
   }
 }

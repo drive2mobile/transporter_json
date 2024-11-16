@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:02:05.697+08:00",
+  "generated_timestamp": "2024-11-16T19:59:24.169+08:00",
   "data": {
     "route_stops": [
       {
@@ -33,6 +33,6 @@
         "name_en": "Mongkok East Station"
       }
     ],
-    "data_timestamp": "2024-10-28T17:30:42.640+08:00"
+    "data_timestamp": "2024-11-06T18:03:54.729+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:05:08.879+08:00",
+  "generated_timestamp": "2024-11-16T20:07:50.804+08:00",
   "data": {
     "route_stops": [
       {
@@ -34,12 +34,19 @@
       },
       {
         "stop_seq": 5,
+        "stop_id": 20020261,
+        "name_tc": "大窩口, 道遊樂場外",
+        "name_sc": "大窝口, 道游乐场外",
+        "name_en": "Tai Wo Hau Road, outside Playground"
+      },
+      {
+        "stop_seq": 6,
         "stop_id": 20015970,
         "name_tc": "葵興政府合署",
         "name_sc": "葵兴政府合署",
         "name_en": "Kwai Hing Government Offices"
       }
     ],
-    "data_timestamp": "2024-10-23T13:28:56.874+08:00"
+    "data_timestamp": "2024-11-05T16:44:51.228+08:00"
   }
 }

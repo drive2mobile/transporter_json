@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:01:48.060+08:00",
+  "generated_timestamp": "2024-11-16T19:58:24.746+08:00",
   "data": {
     "route_stops": [
       {
@@ -180,6 +180,6 @@
         "name_en": "YUE FAI ROAD, near Aberdeen Main Road"
       }
     ],
-    "data_timestamp": "2024-09-18T02:42:18.441+08:00"
+    "data_timestamp": "2024-11-15T17:08:20.667+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:02:28.158+08:00",
+  "generated_timestamp": "2024-11-16T20:00:39.513+08:00",
   "data": {
     "route_stops": [
       {
@@ -49,11 +49,11 @@
       {
         "stop_seq": 7,
         "stop_id": 20003365,
-        "name_tc": "慈雲山 (北) (巴士站)",
-        "name_sc": "慈云山 (北) (巴士站)",
-        "name_en": "Tsz Wan Shan (North) (Bus Stop)"
+        "name_tc": "慈雲山 (北) 巴士總站",
+        "name_sc": "慈云山 (北) 巴士总站",
+        "name_en": "Tsz Wan Shan (North) Bus Terminus"
       }
     ],
-    "data_timestamp": "2024-07-31T15:33:17.638+08:00"
+    "data_timestamp": "2024-11-05T17:44:41.028+08:00"
   }
 }

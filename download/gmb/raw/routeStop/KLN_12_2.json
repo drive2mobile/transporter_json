@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:02:04.754+08:00",
+  "generated_timestamp": "2024-11-16T19:59:20.171+08:00",
   "data": {
     "route_stops": [
       {
@@ -54,6 +54,6 @@
         "name_en": "Pak Wan Street, Pak Tin Estate Bus Terminus"
       }
     ],
-    "data_timestamp": "2024-10-25T14:45:53.956+08:00"
+    "data_timestamp": "2024-11-06T18:03:54.729+08:00"
   }
 }

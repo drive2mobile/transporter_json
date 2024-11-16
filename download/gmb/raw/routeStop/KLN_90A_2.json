@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:02:59.443+08:00",
+  "generated_timestamp": "2024-11-16T20:01:49.984+08:00",
   "data": {
     "route_stops": [
       {
@@ -82,6 +82,6 @@
         "name_en": "Yau Tong (Yau Lai Estate) Minibus Terminus"
       }
     ],
-    "data_timestamp": "2024-10-22T14:54:39.444+08:00"
+    "data_timestamp": "2024-11-07T14:26:37.617+08:00"
   }
 }

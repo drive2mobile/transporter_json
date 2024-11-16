@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:01:30.866+08:00",
+  "generated_timestamp": "2024-11-16T19:57:29.951+08:00",
   "data": {
     "route_stops": [
       {
@@ -54,6 +54,6 @@
         "name_en": "Ap Lei Chau Bridge Road, near Lei Fook House Low Block, Ap Lei Chau Estate"
       }
     ],
-    "data_timestamp": "2024-08-22T09:21:06.166+08:00"
+    "data_timestamp": "2024-11-15T17:08:57.000+08:00"
   }
 }

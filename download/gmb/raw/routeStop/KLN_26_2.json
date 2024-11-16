@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:02:20.918+08:00",
+  "generated_timestamp": "2024-11-16T20:00:09.871+08:00",
   "data": {
     "route_stops": [
       {
@@ -124,6 +124,6 @@
         "name_en": "Chi Kiang Street, near I-Feng Mansions Block B"
       }
     ],
-    "data_timestamp": "2024-10-25T14:08:15.162+08:00"
+    "data_timestamp": "2024-11-15T19:00:58.797+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:02:07.496+08:00",
+  "generated_timestamp": "2024-11-16T19:59:31.798+08:00",
   "data": {
     "route_stops": [
       {
@@ -14,9 +14,9 @@
       {
         "stop_seq": 2,
         "stop_id": 20000566,
-        "name_tc": "清水灣道彩雲商場",
-        "name_sc": "清水湾道彩云商场",
-        "name_en": "Clear Water Bay Road Choi Wan Commercial Complex"
+        "name_tc": "清水灣道, 彩雲商場\t",
+        "name_sc": "清水湾道, 彩云商场\t",
+        "name_en": "Choi Wan Commercial Complex, Clear Water Bay Road\t"
       },
       {
         "stop_seq": 3,
@@ -28,9 +28,9 @@
       {
         "stop_seq": 4,
         "stop_id": 20000568,
-        "name_tc": "清水灣道彩雲商場",
-        "name_sc": "清水湾道彩云商场",
-        "name_en": "Clear Water Bay Road Choi Wan Commercial Complex"
+        "name_tc": "清水灣道, 彩雲商場\t",
+        "name_sc": "清水湾道, 彩云商场\t",
+        "name_en": "Choi Wan Commercial Complex, Clear Water Bay Road"
       },
       {
         "stop_seq": 5,
@@ -41,12 +41,19 @@
       },
       {
         "stop_seq": 6,
+        "stop_id": 20020196,
+        "name_tc": " 牛池灣街基督教勵行會對面",
+        "name_sc": "牛池湾街基督教励行会对面",
+        "name_en": "Ngau Chi Wan Street opposite Christian Action"
+      },
+      {
+        "stop_seq": 7,
         "stop_id": 20012353,
         "name_tc": "牛池灣街彩雲邨豐澤樓對面",
         "name_sc": "牛池湾街 彩云邨丰泽楼对面",
         "name_en": "Ngau Chi Wan Street opposite Fung Chak House, Choi Wan Estate"
       }
     ],
-    "data_timestamp": "2024-07-31T17:28:46.624+08:00"
+    "data_timestamp": "2024-11-15T18:15:35.641+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:02:08.010+08:00",
+  "generated_timestamp": "2024-11-16T19:59:34.714+08:00",
   "data": {
     "route_stops": [
       {
@@ -16,16 +16,16 @@
         "stop_id": 20000566,
         "name_tc": "清水灣道, 彩雲商場",
         "name_sc": "清水湾道, 彩云商场",
-        "name_en": "Clear Water Bay Road, Choi Wan Commercial Complex Phase Iib"
+        "name_en": "Choi Wan Commercial Complex, Clear Water Bay Road"
       },
       {
         "stop_seq": 3,
         "stop_id": 20012360,
-        "name_tc": "坪石公共運輸交匯處",
-        "name_sc": "坪石公共运输交汇处",
-        "name_en": "Ping Shek Public Transport Interchange"
+        "name_tc": "坪石公共運輸交匯處一樓",
+        "name_sc": "坪石公共运输交汇处一楼",
+        "name_en": "Ping Shek Public Transport Interchange 1/F"
       }
     ],
-    "data_timestamp": "2024-09-10T18:26:28.098+08:00"
+    "data_timestamp": "2024-11-15T18:15:35.641+08:00"
   }
 }

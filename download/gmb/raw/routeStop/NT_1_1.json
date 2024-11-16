@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:03:00.640+08:00",
+  "generated_timestamp": "2024-11-16T20:01:51.911+08:00",
   "data": {
     "route_stops": [
       {
@@ -42,9 +42,9 @@
       {
         "stop_seq": 6,
         "stop_id": 20000566,
-        "name_tc": "清水灣道, 彩雲商場2期B外",
-        "name_sc": "清水湾道, 彩云商场2期B外",
-        "name_en": "Clear Water Bay Road, outside Choi Wan Commercial Complex Phase Iib"
+        "name_tc": "清水灣道, 彩雲商場\t",
+        "name_sc": "清水湾道, 彩云商场\t",
+        "name_en": "Choi Wan Commercial Complex, Clear Water Bay Road\t"
       },
       {
         "stop_seq": 7,
@@ -61,6 +61,6 @@
         "name_en": "Telford Plaza Phase IL, Ground Floor"
       }
     ],
-    "data_timestamp": "2024-10-22T14:54:39.439+08:00"
+    "data_timestamp": "2024-11-15T18:15:35.643+08:00"
   }
 }

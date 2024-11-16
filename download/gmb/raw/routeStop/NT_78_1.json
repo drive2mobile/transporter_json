@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:04:41.173+08:00",
+  "generated_timestamp": "2024-11-16T20:06:24.580+08:00",
   "data": {
     "route_stops": [
       {
@@ -33,6 +33,6 @@
         "name_en": "Pat Heung Road, (near Tai Lam Bus-Bus Interchange) Minibus Terminus"
       }
     ],
-    "data_timestamp": "2024-08-23T14:21:36.497+08:00"
+    "data_timestamp": "2024-11-13T13:56:21.478+08:00"
   }
 }

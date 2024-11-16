@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-10-26T19:58:48+08:00",
+  "generated_timestamp": "2024-11-16T19:43:04+08:00",
   "data": {
     "stop": "001519",
     "name_tc": "藍田站",
@@ -9,6 +9,6 @@
     "lat": "22.307091882091",
     "long": "114.23347123053",
     "name_sc": "蓝田站",
-    "data_timestamp": "2024-10-26T05:00:03+08:00"
+    "data_timestamp": "2024-11-16T05:00:03+08:00"
   }
 }

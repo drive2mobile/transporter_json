@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:01:47.134+08:00",
+  "generated_timestamp": "2024-11-16T19:58:18.579+08:00",
   "data": {
     "route_stops": [
       {
@@ -75,6 +75,6 @@
         "name_en": "Wah Kwai Estate Bus Terminus"
       }
     ],
-    "data_timestamp": "2024-06-23T00:00:22.885+08:00"
+    "data_timestamp": "2024-11-15T17:06:05.798+08:00"
   }
 }

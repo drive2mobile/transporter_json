@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-10-26T20:05:42+08:00",
+  "generated_timestamp": "2024-11-16T19:47:37+08:00",
   "data": {
     "stop": "001422",
     "name_tc": "紅磡站",
@@ -9,6 +9,6 @@
     "lat": "22.303929492091",
     "long": "114.18202110053",
     "name_sc": "红磡站",
-    "data_timestamp": "2024-10-26T05:00:03+08:00"
+    "data_timestamp": "2024-11-16T05:00:03+08:00"
   }
 }

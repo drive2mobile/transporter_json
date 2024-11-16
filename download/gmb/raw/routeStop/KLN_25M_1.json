@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:02:19.965+08:00",
+  "generated_timestamp": "2024-11-16T20:00:06.246+08:00",
   "data": {
     "route_stops": [
       {
@@ -26,6 +26,6 @@
         "name_en": "LA SALLE ROAD, near Beverly Villas Block 6"
       }
     ],
-    "data_timestamp": "2024-07-28T00:03:50.946+08:00"
+    "data_timestamp": "2024-11-15T19:03:38.009+08:00"
   }
 }

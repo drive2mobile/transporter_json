@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-10-26T20:01:57+08:00",
+  "generated_timestamp": "2024-11-16T19:45:48+08:00",
   "data": {
     "stop": "002209",
     "name_tc": "利東邨",
@@ -9,6 +9,6 @@
     "lat": "22.240744842091",
     "long": "114.15645911053",
     "name_sc": "利东邨",
-    "data_timestamp": "2024-10-26T05:00:03+08:00"
+    "data_timestamp": "2024-11-16T05:00:03+08:00"
   }
 }

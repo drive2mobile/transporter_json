@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:01:28.962+08:00",
+  "generated_timestamp": "2024-11-16T19:57:19.843+08:00",
   "data": {
     "route_stops": [
       {
@@ -42,9 +42,9 @@
       {
         "stop_seq": 6,
         "stop_id": 20012244,
-        "name_tc": "嶺南小學",
-        "name_sc": "岭南小学",
-        "name_en": "Lingnan Primary School"
+        "name_tc": "司徒拔道, 近司徒拔道休憩處",
+        "name_sc": "司徒拔道, 近司徒拔道休憩处",
+        "name_en": "Near Stubbs Road Sitting-out Area, Stubbs Road"
       },
       {
         "stop_seq": 7,
@@ -112,9 +112,9 @@
       {
         "stop_seq": 16,
         "stop_id": 20012257,
-        "name_tc": "嶺南小學",
-        "name_sc": "岭南小学",
-        "name_en": "Lingnan Primary School"
+        "name_tc": "司徒拔道, 近司徒拔道花園",
+        "name_sc": "司徒拔道, 近司徒拔道花园",
+        "name_en": "Near Stubbs Road Garden, Stubbs Road"
       },
       {
         "stop_seq": 17,
@@ -145,6 +145,6 @@
         "name_en": "Lee Garden Road, outside Phoenix Apartments"
       }
     ],
-    "data_timestamp": "2024-07-31T09:45:46.244+08:00"
+    "data_timestamp": "2024-10-31T10:04:12.117+08:00"
   }
 }

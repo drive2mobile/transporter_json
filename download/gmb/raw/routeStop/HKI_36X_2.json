@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:01:37.788+08:00",
+  "generated_timestamp": "2024-11-16T19:57:44.705+08:00",
   "data": {
     "route_stops": [
       {
@@ -75,6 +75,6 @@
         "name_en": "PING LAN STREET, near Fa Chau Mansion"
       }
     ],
-    "data_timestamp": "2024-08-22T09:19:50.134+08:00"
+    "data_timestamp": "2024-11-15T17:33:04.794+08:00"
   }
 }

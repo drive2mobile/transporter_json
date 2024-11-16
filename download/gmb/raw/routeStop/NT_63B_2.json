@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:04:29.958+08:00",
+  "generated_timestamp": "2024-11-16T20:05:53.545+08:00",
   "data": {
     "route_stops": [
       {
@@ -21,9 +21,9 @@
       {
         "stop_seq": 3,
         "stop_id": 20014226,
-        "name_tc": "美田路, 近美田路休憩處",
-        "name_sc": "美田路, 近美田路休憩处 ",
-        "name_en": "MEI TIN ROAD, near Mei Tin Road Sitting-out Area"
+        "name_tc": "美田路, 美林邨對面",
+        "name_sc": "美田路, 美林村对面",
+        "name_en": "Mei Tin Road opposite Mei Lam Estate"
       },
       {
         "stop_seq": 4,
@@ -33,6 +33,6 @@
         "name_en": "PIK TIN STREET, near Granville Garden Tower 3"
       }
     ],
-    "data_timestamp": "2024-06-20T00:00:10.984+08:00"
+    "data_timestamp": "2024-11-13T17:03:10.406+08:00"
   }
 }

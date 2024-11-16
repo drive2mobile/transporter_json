@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:03:46.363+08:00",
+  "generated_timestamp": "2024-11-16T20:03:58.367+08:00",
   "data": {
     "route_stops": [
       {
@@ -47,6 +47,6 @@
         "name_en": "Cheung Wang Estate Minibus Terminus"
       }
     ],
-    "data_timestamp": "2024-10-30T11:52:50.938+08:00"
+    "data_timestamp": "2024-11-05T17:32:49.868+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-10-26T19:43:06+08:00",
+  "generated_timestamp": "2024-11-16T19:36:14+08:00",
   "data": {
     "stop": "001249",
     "name_tc": "北角碼頭",
@@ -9,6 +9,6 @@
     "lat": "22.293287872091",
     "long": "114.20149753053",
     "name_sc": "北角码头",
-    "data_timestamp": "2024-10-26T05:00:03+08:00"
+    "data_timestamp": "2024-11-16T05:00:03+08:00"
   }
 }

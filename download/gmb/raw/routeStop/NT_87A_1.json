@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:05:02.911+08:00",
+  "generated_timestamp": "2024-11-16T20:07:27.893+08:00",
   "data": {
     "route_stops": [
       {
@@ -75,6 +75,6 @@
         "name_en": "NGONG WAN ROAD, near Stonecutters Island Public Cargo Working Area"
       }
     ],
-    "data_timestamp": "2023-12-24T00:00:33.623+08:00"
+    "data_timestamp": "2024-11-05T17:39:08.917+08:00"
   }
 }

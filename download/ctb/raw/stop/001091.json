@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-10-26T19:52:37+08:00",
+  "generated_timestamp": "2024-11-16T19:39:00+08:00",
   "data": {
     "stop": "001091",
     "name_tc": "豫苑, 柏道",
@@ -9,6 +9,6 @@
     "lat": "22.284372122091",
     "long": "114.14469393053",
     "name_sc": "豫苑, 柏道",
-    "data_timestamp": "2024-10-26T05:00:03+08:00"
+    "data_timestamp": "2024-11-16T05:00:03+08:00"
   }
 }

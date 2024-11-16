@@ -1,21 +1,21 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:02:42.855+08:00",
+  "generated_timestamp": "2024-11-16T20:01:22.135+08:00",
   "data": {
     "route_stops": [
       {
         "stop_seq": 1,
         "stop_id": 20013966,
-        "name_tc": "又一城",
-        "name_sc": "又一城",
-        "name_en": "Festival Walk"
+        "name_tc": "又一城公共交通總站",
+        "name_sc": "又一城公共交通总站",
+        "name_en": "Festival Walk Public Transport Terminus"
       },
       {
         "stop_seq": 2,
         "stop_id": 20013967,
-        "name_tc": "歌和老街, 近畢架山峰 Mount Beacon Tower 1",
-        "name_sc": "歌和老街, 近毕架山峰 Mount Beacon Tower 1 ",
+        "name_tc": "歌和老街, 近畢架山峰",
+        "name_sc": "歌和老街, 近毕架山峰",
         "name_en": "Cornwall Street, Near Mount Beacon Tower 1"
       },
       {
@@ -210,11 +210,11 @@
       {
         "stop_seq": 30,
         "stop_id": 20013966,
-        "name_tc": "又一城",
-        "name_sc": "又一城",
-        "name_en": "Festival Walk"
+        "name_tc": "又一城公共交通總站",
+        "name_sc": "又一城公共交通总站",
+        "name_en": "Festival Walk Public Transport Terminus"
       }
     ],
-    "data_timestamp": "2024-08-07T13:48:07.408+08:00"
+    "data_timestamp": "2024-11-15T19:03:37.999+08:00"
   }
 }

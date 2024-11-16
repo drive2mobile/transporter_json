@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:04:04.285+08:00",
+  "generated_timestamp": "2024-11-16T20:04:48.014+08:00",
   "data": {
     "route_stops": [
       {
@@ -131,6 +131,6 @@
         "name_en": "San Fat Street MiniBus Terminus "
       }
     ],
-    "data_timestamp": "2024-10-25T15:49:52.537+08:00"
+    "data_timestamp": "2024-11-07T10:35:10.064+08:00"
   }
 }

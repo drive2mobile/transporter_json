@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:04:43.716+08:00",
+  "generated_timestamp": "2024-11-16T20:06:33.073+08:00",
   "data": {
     "route_stops": [
       {
@@ -13,12 +13,40 @@
       },
       {
         "stop_seq": 2,
+        "stop_id": 20002254,
+        "name_tc": "車公廟路, 車公廟路遊樂場外",
+        "name_sc": "车公庙路, 车公庙路游乐场外",
+        "name_en": "Che Kung Miu Road, outside  Che Kung Miu Road Playground"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20020335,
+        "name_tc": "車公廟路, 顯耀邨顯耀樓",
+        "name_sc": "车公庙路, 显耀村显耀楼",
+        "name_en": "Che Kung Miu Road, Hin Yiu House Hin Yiu Estate"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20014240,
+        "name_tc": "車公廟路, 顯徑邨顯揚樓",
+        "name_sc": "车公庙路, 显径村显扬楼",
+        "name_en": "Che Kung Miu Road, Hin Yeung House Hin Keng Estate"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20014241,
+        "name_tc": "車公廟路, 顯徑商場",
+        "name_sc": "车公庙路, 显径商场",
+        "name_en": "Che Kung Miu Road, Hin Keng Shopping Centre"
+      },
+      {
+        "stop_seq": 6,
         "stop_id": 20002241,
         "name_tc": "顯田街, 近梁文燕紀念中學",
         "name_sc": "显田街, 近梁文燕纪念中学",
         "name_en": "Hin Tin Street, near Helen Liang Memorial Secondary School (Shatin)"
       }
     ],
-    "data_timestamp": "2024-09-29T00:01:46.481+08:00"
+    "data_timestamp": "2024-11-13T18:14:14.385+08:00"
   }
 }

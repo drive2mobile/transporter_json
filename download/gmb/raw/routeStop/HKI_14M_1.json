@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:01:21.872+08:00",
+  "generated_timestamp": "2024-11-16T19:56:54.222+08:00",
   "data": {
     "route_stops": [
       {
@@ -33,6 +33,6 @@
         "name_en": "Causeway Bay Lee Garden Road "
       }
     ],
-    "data_timestamp": "2024-10-30T13:48:41.287+08:00"
+    "data_timestamp": "2024-10-31T10:07:16.671+08:00"
   }
 }

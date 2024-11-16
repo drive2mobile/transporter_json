@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:03:35.166+08:00",
+  "generated_timestamp": "2024-11-16T20:03:36.337+08:00",
   "data": {
     "route_stops": [
       {
@@ -131,6 +131,6 @@
         "name_en": "Yuen Long Station"
       }
     ],
-    "data_timestamp": "2024-01-19T15:15:13.153+08:00"
+    "data_timestamp": "2024-11-13T13:50:45.098+08:00"
   }
 }

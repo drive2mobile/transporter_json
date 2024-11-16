@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:03:15.504+08:00",
+  "generated_timestamp": "2024-11-16T20:02:33.192+08:00",
   "data": {
     "route_stops": [
       {
@@ -89,6 +89,6 @@
         "name_en": "Tsui Lam Indoor Creation Centre"
       }
     ],
-    "data_timestamp": "2024-08-07T09:42:12.852+08:00"
+    "data_timestamp": "2024-11-15T18:03:59.328+08:00"
   }
 }

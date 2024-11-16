@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:03:04.156+08:00",
+  "generated_timestamp": "2024-11-16T20:01:58.442+08:00",
   "data": {
     "route_stops": [
       {
@@ -103,6 +103,6 @@
         "name_en": "Hong Sing Garden Bus Terminus, outside King Ling College"
       }
     ],
-    "data_timestamp": "2024-10-25T14:11:24.671+08:00"
+    "data_timestamp": "2024-11-15T18:45:17.702+08:00"
   }
 }

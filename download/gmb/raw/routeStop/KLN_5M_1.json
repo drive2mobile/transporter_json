@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:02:37.581+08:00",
+  "generated_timestamp": "2024-11-16T20:01:09.700+08:00",
   "data": {
     "route_stops": [
       {
@@ -82,6 +82,6 @@
         "name_en": "Hok Yu Lane, outside Happy Court"
       }
     ],
-    "data_timestamp": "2024-10-28T17:35:02.442+08:00"
+    "data_timestamp": "2024-11-15T19:00:58.784+08:00"
   }
 }

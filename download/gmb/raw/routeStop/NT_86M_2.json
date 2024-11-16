@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:05:02.189+08:00",
+  "generated_timestamp": "2024-11-16T20:07:24.765+08:00",
   "data": {
     "route_stops": [
       {
@@ -75,6 +75,6 @@
         "name_en": "Tsuen Wan (Chuen Lung Street)"
       }
     ],
-    "data_timestamp": "2024-07-29T13:49:08.724+08:00"
+    "data_timestamp": "2024-11-06T17:55:13.494+08:00"
   }
 }

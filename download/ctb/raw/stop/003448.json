@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-10-26T20:02:57+08:00",
+  "generated_timestamp": "2024-11-16T19:41:34+08:00",
   "data": {
     "stop": "003448",
     "name_tc": "聯仁街",
@@ -9,6 +9,6 @@
     "lat": "22.367548172091",
     "long": "114.11726856053",
     "name_sc": "联仁街",
-    "data_timestamp": "2024-10-26T05:00:03+08:00"
+    "data_timestamp": "2024-11-16T05:00:03+08:00"
   }
 }

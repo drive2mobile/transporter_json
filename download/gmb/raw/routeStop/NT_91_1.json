@@ -1,45 +1,66 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:05:12.657+08:00",
+  "generated_timestamp": "2024-11-16T20:08:01.692+08:00",
   "data": {
     "route_stops": [
       {
         "stop_seq": 1,
         "stop_id": 20013664,
-        "name_tc": "荔崗街,近瑪嘉烈醫院荔景大樓",
-        "name_sc": "荔岗街,近玛嘉烈医院荔景大楼",
+        "name_tc": "荔崗街, 近瑪嘉烈醫院荔景大樓",
+        "name_sc": "荔岗街, 近玛嘉烈医院荔景大楼",
         "name_en": "LAI KONG STREET, near Princess Margaret Hospital Lai King Building"
       },
       {
         "stop_seq": 2,
         "stop_id": 20001814,
-        "name_tc": "荔景山路,近荔景邨嶺南鍾榮光博士紀念中學",
-        "name_sc": "荔景山路,近荔景邨岭南钟荣光博士纪念中学",
+        "name_tc": "荔景山路, 近荔景邨嶺南鍾榮光博士紀念中學",
+        "name_sc": "荔景山路, 近荔景邨岭南钟荣光博士纪念中学",
         "name_en": "LAI KING HILL ROAD, near Lingnam Dr. Chung Wing Kwong Memorial Secondary School, LAI KING ESTATE"
       },
       {
         "stop_seq": 3,
+        "stop_id": 20001815,
+        "name_tc": "葵福路, 葵涌運動場對面",
+        "name_sc": "葵福路, 葵涌运动场对面",
+        "name_en": "Kwai Fuk Road, opposite Kwai Chung Sport Ground"
+      },
+      {
+        "stop_seq": 4,
         "stop_id": 20001816,
         "name_tc": "葵福路, 葵盛泳池對面",
         "name_sc": "葵福路, 葵盛泳池对面",
         "name_en": "Kwai Fuk Road, opposite Kwai Shing swimming pool"
       },
       {
-        "stop_seq": 4,
+        "stop_seq": 5,
         "stop_id": 20001696,
         "name_tc": "葵福路, 晉昇工廠大廈外",
         "name_sc": "葵福路, 晋昇工厂大厦外",
         "name_en": "Kwai Fuk Road, outside Chun Shing Factory Estate"
       },
       {
-        "stop_seq": 5,
+        "stop_seq": 6,
+        "stop_id": 20014791,
+        "name_tc": "楊屋道, 樂悠居外",
+        "name_sc": "杨屋道, 樂悠居外",
+        "name_en": "YEUNG UK ROAD, outside Indi Home"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20020132,
+        "name_tc": "沙咀道328號外",
+        "name_sc": "沙咀道328号外",
+        "name_en": "Sha Tsui Road outside House No. 328"
+      },
+      {
+        "stop_seq": 8,
         "stop_id": 20013698,
-        "name_tc": "鹹田街,近寶石大廈第３座",
-        "name_sc": "咸田街,近宝石大厦第３座",
+        "name_tc": "鹹田街, 近寶石大廈第３座",
+        "name_sc": "咸田街, 近宝石大厦第３座",
         "name_en": "HAM TIN STREET, near Bo Shek Mansion Block 3"
       }
     ],
-    "data_timestamp": "2024-10-30T11:55:43.675+08:00"
+    "data_timestamp": "2024-11-05T17:32:49.866+08:00"
   }
 }

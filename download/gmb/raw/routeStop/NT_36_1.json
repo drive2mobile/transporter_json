@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:03:36.971+08:00",
+  "generated_timestamp": "2024-11-16T20:03:39.360+08:00",
   "data": {
     "route_stops": [
       {
@@ -55,26 +55,68 @@
       },
       {
         "stop_seq": 8,
+        "stop_id": 20016820,
+        "name_tc": "青山公路－潭尾段, 近悅富豪苑Merry Garden House 1",
+        "name_sc": "青山公路－潭尾段, 近悦富豪苑Merry Garden House 1",
+        "name_en": "Castle Peak Road - Tam Mi, Near Merry Garden House 1"
+      },
+      {
+        "stop_seq": 9,
+        "stop_id": 20016831,
+        "name_tc": "青山公路－潭尾段, 近雅麗花園",
+        "name_sc": "青山公路－潭尾段, 近雅丽花园",
+        "name_en": "Castle Peak Road - Tam Mi, Near Elite Garden"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20015412,
+        "name_tc": "青山公路－潭尾段, 近金翠軒",
+        "name_sc": "青山公路－潭尾段, 近金翠轩",
+        "name_en": "Castle Peak Road - Tam Mi, near 金翠軒"
+      },
+      {
+        "stop_seq": 11,
+        "stop_id": 20016823,
+        "name_tc": "青山公路－潭尾段, 近冠珍興記醬園有限公司",
+        "name_sc": "青山公路－潭尾段, 近冠珍兴记酱园有限公司",
+        "name_en": "Castle Peak Road - Tam Mi, Near Koon Chun Hing Kee Soy & Sauce Factory Ltd."
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20016824,
+        "name_tc": "青山公路－潭尾段, 近Park Yoho",
+        "name_sc": "青山公路－潭尾段, 近Park Yoho",
+        "name_en": "Castle Peak Road - Tam Mi, Near Park Yoho"
+      },
+      {
+        "stop_seq": 13,
+        "stop_id": 20016825,
+        "name_tc": "青山公路－潭尾段, 近山水盈",
+        "name_sc": "青山公路－潭尾段, 近山水盈",
+        "name_en": "Castle Peak Road - Tam Mi, Near Crescent Green"
+      },
+      {
+        "stop_seq": 14,
+        "stop_id": 20001286,
+        "name_tc": "青山公路, 近楊屋村",
+        "name_sc": "青山公路, 近杨屋村",
+        "name_en": "Castle Peak Road, near Yeung Uk Tsuen"
+      },
+      {
+        "stop_seq": 15,
         "stop_id": 20001287,
         "name_tc": "青山公路元朗段, 近 YOHO Midtown",
         "name_sc": "青山公路元朗段, 近 YOHO Midtown",
         "name_en": "Castle Peak Road-Yuen Long, near YOHO Midtown"
       },
       {
-        "stop_seq": 9,
-        "stop_id": 20015427,
-        "name_tc": "元朗安寧路, 近大橋",
-        "name_sc": "元朗安宁路, 近大桥",
-        "name_en": "Yuen Long On Ning Road, near Tai Kiu"
-      },
-      {
-        "stop_seq": 10,
+        "stop_seq": 16,
         "stop_id": 20015409,
         "name_tc": "福康街, 近金寶樓",
         "name_sc": "福康街, 近金宝楼",
         "name_en": "Fook Hong Street, near Kam Bo Building"
       }
     ],
-    "data_timestamp": "2024-10-20T00:00:47.870+08:00"
+    "data_timestamp": "2024-11-15T19:17:19.661+08:00"
   }
 }

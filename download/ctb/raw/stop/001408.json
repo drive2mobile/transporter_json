@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-10-26T19:59:41+08:00",
+  "generated_timestamp": "2024-11-16T19:43:25+08:00",
   "data": {
     "stop": "001408",
     "name_tc": "麗港城",
@@ -9,6 +9,6 @@
     "lat": "22.307201162091",
     "long": "114.22885730053",
     "name_sc": "丽港城",
-    "data_timestamp": "2024-10-26T05:00:03+08:00"
+    "data_timestamp": "2024-11-16T05:00:03+08:00"
   }
 }

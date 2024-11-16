@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:03:05.268+08:00",
+  "generated_timestamp": "2024-11-16T20:01:59.656+08:00",
   "data": {
     "route_stops": [
       {
@@ -75,6 +75,6 @@
         "name_en": "Haven Of Hope Road, outside Haven Of Hope Hospital"
       }
     ],
-    "data_timestamp": "2024-08-07T09:42:12.849+08:00"
+    "data_timestamp": "2024-11-15T18:03:59.047+08:00"
   }
 }

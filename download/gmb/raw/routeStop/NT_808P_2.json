@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:04:50.366+08:00",
+  "generated_timestamp": "2024-11-16T20:06:56.473+08:00",
   "data": {
     "route_stops": [
       {
@@ -96,6 +96,6 @@
         "name_en": "Heng On Estate Bus Terminus"
       }
     ],
-    "data_timestamp": "2024-10-06T00:00:16.318+08:00"
+    "data_timestamp": "2024-11-07T10:33:55.962+08:00"
   }
 }

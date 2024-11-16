@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:02:29.482+08:00",
+  "generated_timestamp": "2024-11-16T20:00:44.863+08:00",
   "data": {
     "route_stops": [
       {
@@ -76,12 +76,12 @@
       },
       {
         "stop_seq": 11,
-        "stop_id": 20012389,
+        "stop_id": 20000831,
         "name_tc": "港鐵樂富站小巴總站",
-        "name_sc": "港鐵樂富站小巴總站",
-        "name_en": "Lok Fu MTR Station Minibus Terminus"
+        "name_sc": "港铁乐富站小巴总站",
+        "name_en": "'Lok Fu MTR Station Minibus Terminus "
       }
     ],
-    "data_timestamp": "2024-07-31T11:25:20.035+08:00"
+    "data_timestamp": "2024-11-06T18:25:10.281+08:00"
   }
 }

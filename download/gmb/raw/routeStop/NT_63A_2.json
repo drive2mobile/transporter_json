@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:04:29.503+08:00",
+  "generated_timestamp": "2024-11-16T20:05:50.697+08:00",
   "data": {
     "route_stops": [
       {
@@ -21,9 +21,9 @@
       {
         "stop_seq": 3,
         "stop_id": 20016564,
-        "name_tc": "美田路, 近美田路休憩處\t",
-        "name_sc": "美田路, 近美田路休憩处\t",
-        "name_en": "MEI TIN ROAD, near Mei Tin Road Sitting-out Area\t"
+        "name_tc": "美田路, 美林邨對面",
+        "name_sc": "美田路, 美林村对面",
+        "name_en": "Mei Tin Road opposite Mei Lam Estate"
       },
       {
         "stop_seq": 4,
@@ -33,6 +33,6 @@
         "name_en": "Mei Chung Court Minibus Terminus"
       }
     ],
-    "data_timestamp": "2024-06-20T00:00:10.931+08:00"
+    "data_timestamp": "2024-11-13T17:02:06.467+08:00"
   }
 }

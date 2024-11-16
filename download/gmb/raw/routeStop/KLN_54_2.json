@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:02:35.443+08:00",
+  "generated_timestamp": "2024-11-16T20:01:04.172+08:00",
   "data": {
     "route_stops": [
       {
@@ -55,19 +55,26 @@
       },
       {
         "stop_seq": 8,
+        "stop_id": 20020162,
+        "name_tc": "牛池灣公共交通總站",
+        "name_sc": "牛池湾公共交通总站",
+        "name_en": "Ngau Chi Wan Public Transport Terminus"
+      },
+      {
+        "stop_seq": 9,
         "stop_id": 20000983,
         "name_tc": "秀茂坪道, 近順天邨天池樓",
         "name_sc": "秀茂坪道, 近顺天邨天池楼",
         "name_en": "Sau Mau Ping Road, near Tin Chi House, Shun Tin Estate"
       },
       {
-        "stop_seq": 9,
+        "stop_seq": 10,
         "stop_id": 20000953,
         "name_tc": "順安道, 近順天邨天榮樓",
         "name_sc": "顺安道, 近顺天邨天荣楼",
         "name_en": "Shun On Road, near Tin Wing House, Shun Tin Estate"
       }
     ],
-    "data_timestamp": "2024-10-22T14:59:34.136+08:00"
+    "data_timestamp": "2024-11-15T18:15:35.643+08:00"
   }
 }

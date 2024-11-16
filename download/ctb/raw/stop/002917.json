@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-10-26T20:00:13+08:00",
+  "generated_timestamp": "2024-11-16T19:44:14+08:00",
   "data": {
     "stop": "002917",
     "name_tc": "調景嶺站",
@@ -9,6 +9,6 @@
     "lat": "22.304894682091",
     "long": "114.25161911053",
     "name_sc": "调景岭站",
-    "data_timestamp": "2024-10-26T05:00:03+08:00"
+    "data_timestamp": "2024-11-16T05:00:03+08:00"
   }
 }

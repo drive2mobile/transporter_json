@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:03:19.376+08:00",
+  "generated_timestamp": "2024-11-16T20:02:45.869+08:00",
   "data": {
     "route_stops": [
       {
@@ -70,9 +70,9 @@
       {
         "stop_seq": 10,
         "stop_id": 20000566,
-        "name_tc": "清水灣道, 彩雲商場2期B外",
-        "name_sc": "清水湾道, 彩云商场2期B外",
-        "name_en": "Clear Water Bay Road, outside Choi Wan Commercial Complex Phase Iib"
+        "name_tc": "清水灣道, 彩雲商場\t",
+        "name_sc": "清水湾道, 彩云商场\t",
+        "name_en": "Choi Wan Commercial Complex, Clear Water Bay Road\t"
       },
       {
         "stop_seq": 11,
@@ -96,6 +96,6 @@
         "name_en": "Diamond Hill (Choi Hung Road) Public Transport Interchange"
       }
     ],
-    "data_timestamp": "2024-09-10T18:26:28.076+08:00"
+    "data_timestamp": "2024-11-15T18:16:10.096+08:00"
   }
 }

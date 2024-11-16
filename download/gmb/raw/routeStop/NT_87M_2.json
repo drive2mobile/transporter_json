@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:05:04.213+08:00",
+  "generated_timestamp": "2024-11-16T20:07:32.881+08:00",
   "data": {
     "route_stops": [
       {
@@ -14,39 +14,46 @@
       {
         "stop_seq": 2,
         "stop_id": 20014798,
-        "name_tc": "未命名通道,　近　二號貨櫃碼頭",
-        "name_sc": "未命名通道,　近　二号货柜码头",
+        "name_tc": "未命名通道, 近二號貨櫃碼頭",
+        "name_sc": "未命名通道, 近二号货柜码头",
         "name_en": "UNNAMED ACCESS ROAD, near CONTAINER TERMINAL 2"
       },
       {
         "stop_seq": 3,
         "stop_id": 20014820,
-        "name_tc": "貨櫃碼頭南路,　近　荔景站",
-        "name_sc": "货柜码头南路,　近　荔景站",
+        "name_tc": "貨櫃碼頭南路, 近荔景站",
+        "name_sc": "货柜码头南路, 近荔景站",
         "name_en": "CONTAINER PORT ROAD SOUTH, near Lai King Station"
       },
       {
         "stop_seq": 4,
         "stop_id": 20014812,
-        "name_tc": "貨櫃碼頭路,　近　永得利廣場",
-        "name_sc": "货柜码头路,　近　永得利广场",
+        "name_tc": "貨櫃碼頭路, 近永得利廣場",
+        "name_sc": "货柜码头路, 近永得利广场",
         "name_en": "CONTAINER PORT ROAD, near Ever Gain Plaza "
       },
       {
         "stop_seq": 5,
         "stop_id": 20014813,
-        "name_tc": "貨櫃碼頭路,　近　葵順街遊樂場　",
-        "name_sc": "货柜码头路,　近　葵顺街游乐场　",
+        "name_tc": "貨櫃碼頭路, 近葵順街遊樂場　",
+        "name_sc": "货柜码头路, 近葵顺街游乐场　",
         "name_en": "CONTAINER PORT ROAD, near KWAI SHUN STREET PLAYGROUND"
       },
       {
         "stop_seq": 6,
+        "stop_id": 20014849,
+        "name_tc": "葵富路, 近新葵芳花園",
+        "name_sc": "葵富路, 近新葵芳花园",
+        "name_en": "KWAI FOO ROAD, near New Kwai Fong Gardens"
+      },
+      {
+        "stop_seq": 7,
         "stop_id": 20014816,
-        "name_tc": "興寧路,　近　葵涌廣場",
-        "name_sc": "兴宁路,　近　葵涌广场",
+        "name_tc": "興寧路, 近葵涌廣場",
+        "name_sc": "兴宁路, 近葵涌广场",
         "name_en": "HING NING ROAD, near Kwai Chung Plaza"
       }
     ],
-    "data_timestamp": "2023-12-24T00:00:35.511+08:00"
+    "data_timestamp": "2024-11-05T17:40:10.074+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-10-26T19:58:47+08:00",
+  "generated_timestamp": "2024-11-16T19:43:04+08:00",
   "data": {
     "stop": "001510",
     "name_tc": "觀塘站",
@@ -9,6 +9,6 @@
     "lat": "22.311633112091",
     "long": "114.22761751053",
     "name_sc": "观塘站",
-    "data_timestamp": "2024-10-26T05:00:03+08:00"
+    "data_timestamp": "2024-11-16T05:00:03+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:02:23.447+08:00",
+  "generated_timestamp": "2024-11-16T20:00:19.458+08:00",
   "data": {
     "route_stops": [
       {
@@ -201,6 +201,6 @@
         "name_en": "Wai King Street, outside Block A, Wei Chien Court"
       }
     ],
-    "data_timestamp": "2024-10-28T17:29:08.578+08:00"
+    "data_timestamp": "2024-10-31T18:00:24.515+08:00"
   }
 }

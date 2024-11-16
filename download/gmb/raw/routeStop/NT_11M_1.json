@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:03:12.898+08:00",
+  "generated_timestamp": "2024-11-16T20:02:24.366+08:00",
   "data": {
     "route_stops": [
       {
@@ -26,6 +26,6 @@
         "name_en": "Hong Kong University of Science and Technology (North Station)"
       }
     ],
-    "data_timestamp": "2024-07-31T17:28:48.481+08:00"
+    "data_timestamp": "2024-11-15T18:03:59.677+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:02:39.758+08:00",
+  "generated_timestamp": "2024-11-16T20:01:14.428+08:00",
   "data": {
     "route_stops": [
       {
@@ -40,6 +40,6 @@
         "name_en": "Sheung Yee Road, near Modular Integrated Construction Display Centre, Zero Carbon Building"
       }
     ],
-    "data_timestamp": "2024-09-02T12:44:07.239+08:00"
+    "data_timestamp": "2024-11-13T15:05:22.072+08:00"
   }
 }

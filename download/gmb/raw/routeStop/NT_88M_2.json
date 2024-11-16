@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:05:08.125+08:00",
+  "generated_timestamp": "2024-11-16T20:07:47.038+08:00",
   "data": {
     "route_stops": [
       {
@@ -40,6 +40,6 @@
         "name_en": "New Kwai Fong Gardens"
       }
     ],
-    "data_timestamp": "2024-06-03T15:39:49.374+08:00"
+    "data_timestamp": "2024-11-05T17:22:10.617+08:00"
   }
 }

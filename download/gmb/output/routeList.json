@@ -1965,8 +1965,8 @@
     "route_seq": 1,
     "from_tc": "曉暉花園",
     "from_en": "Scenic View",
-    "to_tc": "坪石公共運輸交匯處",
-    "to_en": "Ping Shek Public Transport Interchange"
+    "to_tc": "坪石公共運輸交匯處一樓",
+    "to_en": "Ping Shek Public Transport Interchange 1/F"
   },
   {
     "id": "KLN_16B_2",
@@ -1974,8 +1974,8 @@
     "region": "KLN",
     "route": "16B",
     "route_seq": 2,
-    "from_tc": "坪石公共運輸交匯處",
-    "from_en": "Ping Shek Public Transport Interchange",
+    "from_tc": "坪石公共運輸交匯處一樓",
+    "from_en": "Ping Shek Public Transport Interchange 1/F",
     "to_tc": "曉暉花園",
     "to_en": "Scenic View"
   },
@@ -3681,8 +3681,8 @@
     "route_seq": 1,
     "from_tc": "彩興苑",
     "from_en": "Choi Hing Court",
-    "to_tc": "坪石一樓公共運輸交匯處",
-    "to_en": "Pink Shek 1/F Public Transport Interchange"
+    "to_tc": "坪石公共運輸交匯處一樓",
+    "to_en": "Ping Shek Public Transport Interchange 1/F"
   },
   {
     "id": "KLN_82_2",
@@ -7958,8 +7958,8 @@
     "region": "NT",
     "route": "73",
     "route_seq": 1,
-    "from_tc": "朗屏站(媽橫路)",
-    "from_en": "Long Ping Station (Ma Wang Road)",
+    "from_tc": "元朗(福康街)小巴總站",
+    "from_en": "Yuen Long (Fook Hong Street) Public Light Bus Terminus",
     "to_tc": "崇山新村",
     "to_en": "Sung Shan San Tsuen"
   },
@@ -8218,7 +8218,7 @@
   },
   {
     "id": "NT_804_1",
-    "route_id": 2010276,
+    "route_id": 2010275,
     "region": "NT",
     "route": "804",
     "route_seq": 1,

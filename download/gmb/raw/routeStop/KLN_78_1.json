@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:02:46.500+08:00",
+  "generated_timestamp": "2024-11-16T20:01:31.128+08:00",
   "data": {
     "route_stops": [
       {
@@ -131,6 +131,6 @@
         "name_en": "Tai Kok Tsui (Island Harbourview) Public Transport Interchange"
       }
     ],
-    "data_timestamp": "2024-10-25T14:48:35.514+08:00"
+    "data_timestamp": "2024-11-15T19:00:58.775+08:00"
   }
 }

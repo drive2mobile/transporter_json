@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:02:14.751+08:00",
+  "generated_timestamp": "2024-11-16T19:59:49.242+08:00",
   "data": {
     "route_stops": [
       {
@@ -47,6 +47,6 @@
         "name_en": "Hong Keung Street, outside On Keung Building"
       }
     ],
-    "data_timestamp": "2024-07-31T15:36:59.884+08:00"
+    "data_timestamp": "2024-10-31T15:50:38.560+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:04:26.391+08:00",
+  "generated_timestamp": "2024-11-16T20:05:41.283+08:00",
   "data": {
     "route_stops": [
       {
@@ -75,6 +75,6 @@
         "name_en": "Tin Yan Shopping Centre"
       }
     ],
-    "data_timestamp": "2024-10-25T16:51:06.427+08:00"
+    "data_timestamp": "2024-11-13T14:47:44.460+08:00"
   }
 }

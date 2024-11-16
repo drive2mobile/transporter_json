@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:03:47.793+08:00",
+  "generated_timestamp": "2024-11-16T20:04:01.697+08:00",
   "data": {
     "route_stops": [
       {
@@ -77,46 +77,53 @@
       {
         "stop_seq": 11,
         "stop_id": 20016878,
-        "name_tc": "楊屋道, 近御凱荃新天地２",
-        "name_sc": "杨屋道, 近御凯荃新天地２",
-        "name_en": "Yeung Uk Road, Near Citywalk 2, The Dynasty"
+        "name_tc": "楊屋道, 近荃新天地２",
+        "name_sc": "杨屋道, 近荃新天地２",
+        "name_en": "Yeung Uk Road, Near Citywalk 2"
       },
       {
         "stop_seq": 12,
+        "stop_id": 20020133,
+        "name_tc": "楊屋道, 樂悠居對面",
+        "name_sc": "杨屋道, 乐悠居对面",
+        "name_en": "Yeung Uk Road opposite to Indi Home"
+      },
+      {
+        "stop_seq": 13,
         "stop_id": 20008024,
         "name_tc": "青敬路, 近牙鷹洲花園",
         "name_sc": "青敬路, 近牙鹰洲花园",
         "name_en": "Tsing King Road, Near Nga Ying Chau Garden"
       },
       {
-        "stop_seq": 13,
+        "stop_seq": 14,
         "stop_id": 20016875,
         "name_tc": "青綠街, 近青衣市政大廈",
         "name_sc": "青绿街, 近青衣市政大厦",
         "name_en": "Tsing Luk Street, Near Tsing Yi Municipal Services Building"
       },
       {
-        "stop_seq": 14,
+        "stop_seq": 15,
         "stop_id": 20001742,
         "name_tc": "青綠街, 近青衣商場",
         "name_sc": "青绿街, 近青衣商场",
         "name_en": "Tsing Luk Street, near Tsing Yi Shopping Centre"
       },
       {
-        "stop_seq": 15,
+        "stop_seq": 16,
         "stop_id": 20016876,
         "name_tc": "寮肚路, 長亨巴士總站對面",
         "name_sc": "寮肚路, 长亨巴士总站对面",
         "name_en": "Liu To Road, Opposite Cheung Hang Bus Terminus"
       },
       {
-        "stop_seq": 16,
+        "stop_seq": 17,
         "stop_id": 20016849,
         "name_tc": "亨美街, 近長亨邨聖公會何澤芸小學",
         "name_sc": "亨美街, 近长亨村圣公会何泽芸小学",
         "name_en": "Hang Mei Street, Near S.K.H. Ho Chak Wan Primary School, Cheung Hang Estate"
       }
     ],
-    "data_timestamp": "2024-10-23T13:28:56.879+08:00"
+    "data_timestamp": "2024-11-06T17:51:24.186+08:00"
   }
 }

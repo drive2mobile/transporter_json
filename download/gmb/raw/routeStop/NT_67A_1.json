@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:04:33.615+08:00",
+  "generated_timestamp": "2024-11-16T20:06:03.254+08:00",
   "data": {
     "route_stops": [
       {
@@ -47,6 +47,6 @@
         "name_en": "Sha Tin Station"
       }
     ],
-    "data_timestamp": "2024-08-20T17:28:58.176+08:00"
+    "data_timestamp": "2024-11-07T10:33:55.965+08:00"
   }
 }

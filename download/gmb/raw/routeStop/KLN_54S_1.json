@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:02:35.932+08:00",
+  "generated_timestamp": "2024-11-16T20:01:06.149+08:00",
   "data": {
     "route_stops": [
       {
@@ -83,26 +83,33 @@
       },
       {
         "stop_seq": 12,
+        "stop_id": 20020162,
+        "name_tc": "牛池灣公共交通總站",
+        "name_sc": "牛池湾公共交通总站",
+        "name_en": "Ngau Chi Wan Public Transport Terminus"
+      },
+      {
+        "stop_seq": 13,
         "stop_id": 20000955,
         "name_tc": "新清水灣道, 近彩雲邨彩雲邨伴月樓",
         "name_sc": "新清水湾道, 近彩云邨彩云邨伴月楼",
         "name_en": "New Clear Water Bay Road, near Boon Yuet House, Choi Wan Estate"
       },
       {
-        "stop_seq": 13,
+        "stop_seq": 14,
         "stop_id": 20000952,
         "name_tc": "利安道, 近順利邨利恒樓",
         "name_sc": "利安道, 近顺利邨利恒楼",
         "name_en": "Lee On Road, near Lee Hang House, Shun Lee Estate"
       },
       {
-        "stop_seq": 14,
+        "stop_seq": 15,
         "stop_id": 20010135,
         "name_tc": "利安里, 近香港扶幼會盛德中心學校",
         "name_sc": "利安里, 近香港扶幼会盛德中心学校",
         "name_en": "Lee On Lane, near Society of Boy's Centre Shing Tak Centre School"
       }
     ],
-    "data_timestamp": "2024-09-10T18:26:28.076+08:00"
+    "data_timestamp": "2024-11-15T18:15:35.643+08:00"
   }
 }

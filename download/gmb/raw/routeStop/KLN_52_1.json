@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:02:34.462+08:00",
+  "generated_timestamp": "2024-11-16T20:01:01.442+08:00",
   "data": {
     "route_stops": [
       {
@@ -20,19 +20,26 @@
       },
       {
         "stop_seq": 3,
+        "stop_id": 20000968,
+        "name_tc": "大有街23號",
+        "name_sc": "大有街23号",
+        "name_en": "No. 23 Tai Yau Street"
+      },
+      {
+        "stop_seq": 4,
         "stop_id": 20000969,
         "name_tc": "大有街, 近善美工業大廈",
         "name_sc": "大有街, 近善美工业大厦",
         "name_en": "Tai Yau Street, Near Perfect Industrial Building"
       },
       {
-        "stop_seq": 4,
+        "stop_seq": 5,
         "stop_id": 20012703,
         "name_tc": "康強街, 近安強大樓",
         "name_sc": "康强街, 近安强大楼",
         "name_en": "Hong Keung Street, Near On Keung Building"
       }
     ],
-    "data_timestamp": "2024-07-31T15:33:52.334+08:00"
+    "data_timestamp": "2024-11-05T17:44:41.175+08:00"
   }
 }

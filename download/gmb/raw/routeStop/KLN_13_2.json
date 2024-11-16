@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:02:06.500+08:00",
+  "generated_timestamp": "2024-11-16T19:59:28.374+08:00",
   "data": {
     "route_stops": [
       {
@@ -175,9 +175,9 @@
       {
         "stop_seq": 25,
         "stop_id": 20006066,
-        "name_tc": "橫頭磡東道港鐵樂富站外",
-        "name_sc": "横头磡东道港铁乐富站外",
-        "name_en": "Wang Tau Hom East Road, outside Lok Fu MTR Station "
+        "name_tc": "橫頭磡東道, 港鐵樂富站外",
+        "name_sc": "横头磡东道, 港铁乐富站外",
+        "name_en": "Wang Tau Hom East Road, outside Lok Fu MTR Station"
       },
       {
         "stop_seq": 26,
@@ -222,6 +222,6 @@
         "name_en": "Broadcast Drive, outside Jumbo Court"
       }
     ],
-    "data_timestamp": "2024-10-28T17:29:08.578+08:00"
+    "data_timestamp": "2024-11-15T19:03:37.996+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:03:06.329+08:00",
+  "generated_timestamp": "2024-11-16T20:02:02.713+08:00",
   "data": {
     "route_stops": [
       {
@@ -26,6 +26,6 @@
         "name_en": "Pung Loi Road, near Oscar by the Sea Block 5"
       }
     ],
-    "data_timestamp": "2024-07-31T17:28:48.365+08:00"
+    "data_timestamp": "2024-11-15T18:03:59.675+08:00"
   }
 }

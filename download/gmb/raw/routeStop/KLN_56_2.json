@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:02:36.376+08:00",
+  "generated_timestamp": "2024-11-16T20:01:06.965+08:00",
   "data": {
     "route_stops": [
       {
@@ -68,6 +68,6 @@
         "name_en": "Richland Gardens Minibus Terminus"
       }
     ],
-    "data_timestamp": "2024-09-30T17:49:34.473+08:00"
+    "data_timestamp": "2024-11-13T15:05:22.065+08:00"
   }
 }
