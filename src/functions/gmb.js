@@ -131,6 +131,7 @@ async function parseRouteStopListGmb()
 
             const newStop = {
                 'id': id,
+                'stop_id': `${id}_${routeStopList['data']['route_stops'][j]['stop_id']}`,
                 'route_id': routeList[i]['route_id'],
                 'company': 'gmb',
                 'region': routeList[i]['region'],

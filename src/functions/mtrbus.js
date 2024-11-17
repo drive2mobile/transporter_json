@@ -68,6 +68,7 @@ async function parseJsonMtrBus()
             var newStop = {};
             newStop['company'] = 'mtrbus';
             newStop['id'] = id;
+            newStop['stop_id'] = `mtrbus_${firstStop['ROUTE_ID']}_${firstStop['DIRECTION']}_${currArray[j]['STATION_ID']}`
             newStop['route'] = firstStop['ROUTE_ID'];
             newStop['dir'] = firstStop['DIRECTION'];
             newStop['from_tc'] = firstStop[`STATION_NAME_CHI`];

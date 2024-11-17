@@ -42,7 +42,7 @@ async function kmbctb()
 async function mtrbus()
 {
     await downloadRouteStopListMtrBus();
-    await parseJsonMtrBus('tc');
+    await parseJsonMtrBus();
 
     console.log('MTRBUS Finished');
 }
@@ -114,7 +114,7 @@ async function main()
     if (arg == 'mtr' || arg == 'all')
         await mtr();
 
-    if (arg == 'parseFinal' || arg == 'all')
+    if (arg == 'parsefinal' || arg == 'all')
         await parseFinal();
 }
 

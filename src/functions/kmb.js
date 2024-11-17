@@ -95,6 +95,7 @@ async function parseJsonKmb()
 
             const newStop = {
                 'id': id,
+                'stop_id': `${company}_${currStop['route']}_${currStop['bound']}_${currStop['stop']}_${currStop['service_type']}`,
                 'company': company,
                 'route': currStop['route'],
                 'from_tc': routeListObject[id]['from_tc'],

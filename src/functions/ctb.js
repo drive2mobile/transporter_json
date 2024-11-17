@@ -144,6 +144,7 @@ async function parseJsonCtb()
 
                 const newStop = {
                     'id': id,
+                    'stop_id': `${company}_${currStop['route']}_${currStop['dir']}_${currStop['stop']}`,
                     'company': company,
                     'route': currStop['route'],
                     'from_tc': currRoute[`dest_tc`],
@@ -195,6 +196,7 @@ async function parseJsonCtb()
 
                 const newStop = {
                     'id': id,
+                    'stop_id': `${company}_${currStop['route']}_${currStop['dir']}_${currStop['stop']}`,
                     'company': company,
                     'route': currStop['route'],
                     'from_tc': currRoute[`orig_tc`],
