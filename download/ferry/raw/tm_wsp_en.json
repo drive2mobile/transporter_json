@@ -1,0 +1,230 @@
+[
+  {
+    "Direction": "Tap Mun to Wong Shek",
+    "Service Date": "Mondays to Fridays except public holidays",
+    "Service Hour": "7:45 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tap Mun to Wong Shek",
+    "Service Date": "Mondays to Fridays except public holidays",
+    "Service Hour": "10:00 a.m.",
+    "Remark": "1,2"
+  },
+  {
+    "Direction": "Tap Mun to Wong Shek",
+    "Service Date": "Mondays to Fridays except public holidays",
+    "Service Hour": "11:45 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tap Mun to Wong Shek",
+    "Service Date": "Mondays to Fridays except public holidays",
+    "Service Hour": "1:45 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tap Mun to Wong Shek",
+    "Service Date": "Mondays to Fridays except public holidays",
+    "Service Hour": "3:45 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tap Mun to Wong Shek",
+    "Service Date": "Mondays to Fridays except public holidays",
+    "Service Hour": "4:20 p.m.",
+    "Remark": "1,2"
+  },
+  {
+    "Direction": "Tap Mun to Wong Shek",
+    "Service Date": "Mondays to Fridays except public holidays",
+    "Service Hour": "6:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Wong Shek to Tap Mun",
+    "Service Date": "Mondays to Fridays except public holidays",
+    "Service Hour": "8:30 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Wong Shek to Tap Mun",
+    "Service Date": "Mondays to Fridays except public holidays",
+    "Service Hour": "10:35 a.m.",
+    "Remark": "1,2"
+  },
+  {
+    "Direction": "Wong Shek to Tap Mun",
+    "Service Date": "Mondays to Fridays except public holidays",
+    "Service Hour": "12:30 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Wong Shek to Tap Mun",
+    "Service Date": "Mondays to Fridays except public holidays",
+    "Service Hour": "2:30 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Wong Shek to Tap Mun",
+    "Service Date": "Mondays to Fridays except public holidays",
+    "Service Hour": "4:30 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Wong Shek to Tap Mun",
+    "Service Date": "Mondays to Fridays except public holidays",
+    "Service Hour": "4:55 p.m.",
+    "Remark": "1,2"
+  },
+  {
+    "Direction": "Wong Shek to Tap Mun",
+    "Service Date": "Mondays to Fridays except public holidays",
+    "Service Hour": "6:30 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tap Mun to Wong Shek",
+    "Service Date": "Saturdays, Sundays and public holidays",
+    "Service Hour": "8:00 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tap Mun to Wong Shek",
+    "Service Date": "Saturdays, Sundays and public holidays",
+    "Service Hour": "9:00 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tap Mun to Wong Shek",
+    "Service Date": "Saturdays, Sundays and public holidays",
+    "Service Hour": "10:00 a.m.",
+    "Remark": "1,2"
+  },
+  {
+    "Direction": "Tap Mun to Wong Shek",
+    "Service Date": "Saturdays, Sundays and public holidays",
+    "Service Hour": "11:00 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tap Mun to Wong Shek",
+    "Service Date": "Saturdays, Sundays and public holidays",
+    "Service Hour": "12:00 noon",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tap Mun to Wong Shek",
+    "Service Date": "Saturdays, Sundays and public holidays",
+    "Service Hour": "1:05 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tap Mun to Wong Shek",
+    "Service Date": "Saturdays, Sundays and public holidays",
+    "Service Hour": "2:00 p.m.",
+    "Remark": "2"
+  },
+  {
+    "Direction": "Tap Mun to Wong Shek",
+    "Service Date": "Saturdays, Sundays and public holidays",
+    "Service Hour": "3:05 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tap Mun to Wong Shek",
+    "Service Date": "Saturdays, Sundays and public holidays",
+    "Service Hour": "4:05 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tap Mun to Wong Shek",
+    "Service Date": "Saturdays, Sundays and public holidays",
+    "Service Hour": "4:20 p.m.",
+    "Remark": "1,2"
+  },
+  {
+    "Direction": "Tap Mun to Wong Shek",
+    "Service Date": "Saturdays, Sundays and public holidays",
+    "Service Hour": "5:05 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tap Mun to Wong Shek",
+    "Service Date": "Saturdays, Sundays and public holidays",
+    "Service Hour": "6:05 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Wong Shek to Tap Mun",
+    "Service Date": "Saturdays, Sundays and public holidays",
+    "Service Hour": "8:30 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Wong Shek to Tap Mun",
+    "Service Date": "Saturdays, Sundays and public holidays",
+    "Service Hour": "9:30 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Wong Shek to Tap Mun",
+    "Service Date": "Saturdays, Sundays and public holidays",
+    "Service Hour": "10:35 a.m.",
+    "Remark": "1,2"
+  },
+  {
+    "Direction": "Wong Shek to Tap Mun",
+    "Service Date": "Saturdays, Sundays and public holidays",
+    "Service Hour": "11:30 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Wong Shek to Tap Mun",
+    "Service Date": "Saturdays, Sundays and public holidays",
+    "Service Hour": "12:30 p.m.",
+    "Remark": "2"
+  },
+  {
+    "Direction": "Wong Shek to Tap Mun",
+    "Service Date": "Saturdays, Sundays and public holidays",
+    "Service Hour": "1:30 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Wong Shek to Tap Mun",
+    "Service Date": "Saturdays, Sundays and public holidays",
+    "Service Hour": "2:35 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Wong Shek to Tap Mun",
+    "Service Date": "Saturdays, Sundays and public holidays",
+    "Service Hour": "3:35 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Wong Shek to Tap Mun",
+    "Service Date": "Saturdays, Sundays and public holidays",
+    "Service Hour": "4:35 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Wong Shek to Tap Mun",
+    "Service Date": "Saturdays, Sundays and public holidays",
+    "Service Hour": "4:55 p.m.",
+    "Remark": "1,2"
+  },
+  {
+    "Direction": "Wong Shek to Tap Mun",
+    "Service Date": "Saturdays, Sundays and public holidays",
+    "Service Hour": "5:35 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Wong Shek to Tap Mun",
+    "Service Date": "Saturdays, Sundays and public holidays",
+    "Service Hour": "6:35 p.m.",
+    "Remark": ""
+  }
+]

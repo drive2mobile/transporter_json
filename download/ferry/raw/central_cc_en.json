@@ -1,0 +1,974 @@
+[
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "12:30 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "1:30 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "4:15 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "6:10 a.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "7:00 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "7:40 a.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "8:00 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "8:40 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "9:00 a.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "9:45 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "10:15 a.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "10:45 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "11:15 a.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "11:45 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "12:15 p.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "12:45 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "1:15 p.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "1:45 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "2:15 p.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "2:45 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "3:15 p.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "3:45 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "4:15 p.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "4:45 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "5:20 p.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "5:40 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "6:00 p.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "6:20 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "6:45 p.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "7:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "7:15 p.m.",
+    "Remark": "2"
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "7:30 p.m.",
+    "Remark": "3"
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "7:40 p.m.",
+    "Remark": "4"
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "8:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "8:30 p.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "9:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "9:30 p.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "10:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "10:30 p.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "11:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "11:30 p.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "11:45 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "2:20 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "5:10 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "5:50 a.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "6:20 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "6:40 a.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "7:00 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "7:15 a.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "7:45 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "7:50 a.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "7:55 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "8:10 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "8:20 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "8:40 a.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "9:00 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "9:30 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "10:00 a.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "10:45 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "11:15 a.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "11:45 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "12:15 p.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "12:45 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "1:15 p.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "1:45 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "2:15 p.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "2:45 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "3:15 p.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "3:45 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "4:15 p.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "4:45 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "5:15 p.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "5:40 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "6:20 p.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "7:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "7:30 p.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "8:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "8:30 p.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "9:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "9:30 p.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "10:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "10:30 p.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "11:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "11:30 p.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Service Hour": "11:45 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "12:30 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "1:30 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "4:15 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "6:30 a.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "7:00 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "7:30 a.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "8:00 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "8:30 a.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "9:00 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "9:30 a.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "10:00 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "10:30 a.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "11:00 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "11:30 a.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "12:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "12:30 p.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "1:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "1:30 p.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "2:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "2:30 p.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "3:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "3:30 p.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "4:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "4:30 p.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "5:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "5:30 p.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "6:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "6:30 p.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "7:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "7:30 p.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "8:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "8:30 p.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "9:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "9:30 p.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "10:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "10:30 p.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "11:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "11:30 p.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Central to Cheung Chau",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "11:55 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "2:20 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "5:10 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "6:00 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "6:30 a.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "7:00 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "7:30 a.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "8:00 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "8:30 a.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "9:00 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "9:30 a.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "10:00 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "10:30 a.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "11:00 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "11:30 a.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "12:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "12:30 p.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "1:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "1:30 p.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "2:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "2:30 p.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "3:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "3:30 p.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "4:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "4:30 p.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "5:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "5:30 p.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "6:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "6:30 p.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "7:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "7:30 p.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "8:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "8:30 p.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "9:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "9:30 p.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "10:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "10:30 p.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "11:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Cheung Chau to Central",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "11:30 p.m.",
+    "Remark": "1"
+  }
+]

@@ -1,0 +1,992 @@
+[
+  {
+    "Direction": "Tuen Mun to Tai O",
+    "Service Date": "Mondays to Fridays except public holidays",
+    "Service Hour": "7:00 a.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Tuen Mun to Tai O",
+    "Service Date": "Mondays to Fridays except public holidays",
+    "Service Hour": "8:00 a.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Tuen Mun to Tai O",
+    "Service Date": "Mondays to Fridays except public holidays",
+    "Service Hour": "9:00 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tuen Mun to Tai O",
+    "Service Date": "Mondays to Fridays except public holidays",
+    "Service Hour": "11:00 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tuen Mun to Tai O",
+    "Service Date": "Mondays to Fridays except public holidays",
+    "Service Hour": "3:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tuen Mun to Tai O",
+    "Service Date": "Mondays to Fridays except public holidays",
+    "Service Hour": "5:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tuen Mun to Tai O",
+    "Service Date": "Mondays to Fridays except public holidays",
+    "Service Hour": "7:00 p.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Tung Chung to Tai O",
+    "Service Date": "Mondays to Fridays except public holidays",
+    "Service Hour": "9:25 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tung Chung to Tai O",
+    "Service Date": "Mondays to Fridays except public holidays",
+    "Service Hour": "11:25 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tung Chung to Tai O",
+    "Service Date": "Mondays to Fridays except public holidays",
+    "Service Hour": "3:25 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tung Chung to Tai O",
+    "Service Date": "Mondays to Fridays except public holidays",
+    "Service Hour": "5:25 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Sha Lo Wan to Tai O",
+    "Service Date": "Mondays to Fridays except public holidays",
+    "Service Hour": "9:37 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Sha Lo Wan to Tai O",
+    "Service Date": "Mondays to Fridays except public holidays",
+    "Service Hour": "11:37 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Sha Lo Wan to Tai O",
+    "Service Date": "Mondays to Fridays except public holidays",
+    "Service Hour": "3:37 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Sha Lo Wan to Tai O",
+    "Service Date": "Mondays to Fridays except public holidays",
+    "Service Hour": "5:37 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tai O to Tuen Mun",
+    "Service Date": "Mondays to Fridays except public holidays",
+    "Service Hour": "10:00 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tai O to Tuen Mun",
+    "Service Date": "Mondays to Fridays except public holidays",
+    "Service Hour": "2:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tai O to Tuen Mun",
+    "Service Date": "Mondays to Fridays except public holidays",
+    "Service Hour": "4:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tai O to Tuen Mun",
+    "Service Date": "Mondays to Fridays except public holidays",
+    "Service Hour": "6:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Sha Lo Wan to Tuen Mun",
+    "Service Date": "Mondays to Fridays except public holidays",
+    "Service Hour": "10:22 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Sha Lo Wan to Tuen Mun",
+    "Service Date": "Mondays to Fridays except public holidays",
+    "Service Hour": "2:22 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Sha Lo Wan to Tuen Mun",
+    "Service Date": "Mondays to Fridays except public holidays",
+    "Service Hour": "4:22 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Sha Lo Wan to Tuen Mun",
+    "Service Date": "Mondays to Fridays except public holidays",
+    "Service Hour": "6:22 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tung Chungn to Tuen Mun",
+    "Service Date": "Mondays to Fridays except public holidays",
+    "Service Hour": "7:30 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tung Chungn to Tuen Mun",
+    "Service Date": "Mondays to Fridays except public holidays",
+    "Service Hour": "8:30 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tung Chungn to Tuen Mun",
+    "Service Date": "Mondays to Fridays except public holidays",
+    "Service Hour": "10:33 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tung Chungn to Tuen Mun",
+    "Service Date": "Mondays to Fridays except public holidays",
+    "Service Hour": "2:33 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tung Chungn to Tuen Mun",
+    "Service Date": "Mondays to Fridays except public holidays",
+    "Service Hour": "4:33 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tung Chungn to Tuen Mun",
+    "Service Date": "Mondays to Fridays except public holidays",
+    "Service Hour": "6:33 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tung Chungn to Tuen Mun",
+    "Service Date": "Mondays to Fridays except public holidays",
+    "Service Hour": "7:30 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tuen Mun to Tai O",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "7:00 a.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Tuen Mun to Tai O",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "8:00 a.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Tuen Mun to Tai O",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "9:00 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tuen Mun to Tai O",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "9:10 a.m.",
+    "Remark": "2"
+  },
+  {
+    "Direction": "Tuen Mun to Tai O",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "11:00 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tuen Mun to Tai O",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "11:10 a.m.",
+    "Remark": "2,4"
+  },
+  {
+    "Direction": "Tuen Mun to Tai O",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "3:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tuen Mun to Tai O",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "5:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tuen Mun to Tai O",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "7:00 p.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Tung Chung to Tai O",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "9:25 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tung Chung to Tai O",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "9:35 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tung Chung to Tai O",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "10:00 a.m.",
+    "Remark": "5"
+  },
+  {
+    "Direction": "Tung Chung to Tai O",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "11:25 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tung Chung to Tai O",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "11:50 a.m.",
+    "Remark": "4"
+  },
+  {
+    "Direction": "Tung Chung to Tai O",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "12:00 p.m.",
+    "Remark": "5"
+  },
+  {
+    "Direction": "Tung Chung to Tai O",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "3:25 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tung Chung to Tai O",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "4:00 p.m.",
+    "Remark": "5"
+  },
+  {
+    "Direction": "Tung Chung to Tai O",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "5:25 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Sha Lo Wan to Tai O",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "9:37 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Sha Lo Wan to Tai O",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "9:47 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Sha Lo Wan to Tai O",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "10:15 a.m.",
+    "Remark": "5"
+  },
+  {
+    "Direction": "Sha Lo Wan to Tai O",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "11:37 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Sha Lo Wan to Tai O",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "12:10 p.m.",
+    "Remark": "4"
+  },
+  {
+    "Direction": "Sha Lo Wan to Tai O",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "12:15 p.m.",
+    "Remark": "5"
+  },
+  {
+    "Direction": "Sha Lo Wan to Tai O",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "3:37 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Sha Lo Wan to Tai O",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "4:15 p.m.",
+    "Remark": "5"
+  },
+  {
+    "Direction": "Sha Lo Wan to Tai O",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "5:37 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tai O to Tuen Mun",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "10:00 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tai O to Tuen Mun",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "11:00 a.m.",
+    "Remark": "1,5"
+  },
+  {
+    "Direction": "Tai O to Tuen Mun",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "2:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tai O to Tuen Mun",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "3:00 p.m.",
+    "Remark": "1,5"
+  },
+  {
+    "Direction": "Tai O to Tuen Mun",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "3:45 p.m.",
+    "Remark": "2,4"
+  },
+  {
+    "Direction": "Tai O to Tuen Mun",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "4:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tai O to Tuen Mun",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "4:30 p.m.",
+    "Remark": "2"
+  },
+  {
+    "Direction": "Tai O to Tuen Mun",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "5:00 p.m.",
+    "Remark": "1,5"
+  },
+  {
+    "Direction": "Tai O to Tuen Mun",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "5:30 p.m.",
+    "Remark": "2,3"
+  },
+  {
+    "Direction": "Tai O to Tuen Mun",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "5:45 p.m.",
+    "Remark": "2"
+  },
+  {
+    "Direction": "Tai O to Tuen Mun",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "6:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tai O to Tuen Mun",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "6:10 p.m.",
+    "Remark": "2"
+  },
+  {
+    "Direction": "Tai O to Tuen Mun",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "6:30 p.m.",
+    "Remark": "2,4"
+  },
+  {
+    "Direction": "Sha Lo Wan to Tuen Mun",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "10:22 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Sha Lo Wan to Tuen Mun",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "11:30 p.m.",
+    "Remark": "5"
+  },
+  {
+    "Direction": "Sha Lo Wan to Tuen Mun",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "2:22 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Sha Lo Wan to Tuen Mun",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "3:30 p.m.",
+    "Remark": "5"
+  },
+  {
+    "Direction": "Sha Lo Wan to Tuen Mun",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "4:20 p.m.",
+    "Remark": "4"
+  },
+  {
+    "Direction": "Sha Lo Wan to Tuen Mun",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "4:22 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Sha Lo Wan to Tuen Mun",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "4:52 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Sha Lo Wan to Tuen Mun",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "5:30 p.m.",
+    "Remark": "5"
+  },
+  {
+    "Direction": "Sha Lo Wan to Tuen Mun",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "6:07 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Sha Lo Wan to Tuen Mun",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "6:22 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Sha Lo Wan to Tuen Mun",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "6:32 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Sha Lo Wan to Tuen Mun",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "7:05 p.m.",
+    "Remark": "4"
+  },
+  {
+    "Direction": "Tung Chungn to Tuen Mun",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "7:30 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tung Chungn to Tuen Mun",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "8:30 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tung Chungn to Tuen Mun",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "10:33 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tung Chungn to Tuen Mun",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "2:33 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tung Chungn to Tuen Mun",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "4:40 p.m.",
+    "Remark": "4"
+  },
+  {
+    "Direction": "Tung Chungn to Tuen Mun",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "4:33 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tung Chungn to Tuen Mun",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "5:03 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tung Chungn to Tuen Mun",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "6:18 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tung Chungn to Tuen Mun",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "6:33 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tung Chungn to Tuen Mun",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "6:43 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tung Chungn to Tuen Mun",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "7:25 p.m.",
+    "Remark": "4"
+  },
+  {
+    "Direction": "Tung Chungn to Tuen Mun",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "7:30 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tuen Mun to Tai O",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "7:00 a.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Tuen Mun to Tai O",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "8:30 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tuen Mun to Tai O",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "8:40 a.m.",
+    "Remark": "2"
+  },
+  {
+    "Direction": "Tuen Mun to Tai O",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "10:30 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tuen Mun to Tai O",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "10:40 a.m.",
+    "Remark": "2,4"
+  },
+  {
+    "Direction": "Tuen Mun to Tai O",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "12:30 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tuen Mun to Tai O",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "12:40 p.m.",
+    "Remark": "2,4"
+  },
+  {
+    "Direction": "Tuen Mun to Tai O",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "3:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tuen Mun to Tai O",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "5:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tuen Mun to Tai O",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "7:00 p.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Tung Chung to Tai O",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "8:55 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tung Chung to Tai O",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "9:05 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tung Chung to Tai O",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "10:00 a.m.",
+    "Remark": "5"
+  },
+  {
+    "Direction": "Tung Chung to Tai O",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "10:55 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tung Chung to Tai O",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "11:20 a.m.",
+    "Remark": "4"
+  },
+  {
+    "Direction": "Tung Chung to Tai O",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "12:00 p.m.",
+    "Remark": "5"
+  },
+  {
+    "Direction": "Tung Chung to Tai O",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "12:55 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tung Chung to Tai O",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "1:20 p.m.",
+    "Remark": "4"
+  },
+  {
+    "Direction": "Tung Chung to Tai O",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "3:25 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tung Chung to Tai O",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "4:00 p.m.",
+    "Remark": "5"
+  },
+  {
+    "Direction": "Tung Chung to Tai O",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "5:25 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Sha Lo Wan to Tai O",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "9:07 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Sha Lo Wan to Tai O",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "9:17 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Sha Lo Wan to Tai O",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "10:15 a.m.",
+    "Remark": "5"
+  },
+  {
+    "Direction": "Sha Lo Wan to Tai O",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "11:07 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Sha Lo Wan to Tai O",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "11:40 a.m.",
+    "Remark": "4"
+  },
+  {
+    "Direction": "Sha Lo Wan to Tai O",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "12:15 p.m.",
+    "Remark": "5"
+  },
+  {
+    "Direction": "Sha Lo Wan to Tai O",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "1:07 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Sha Lo Wan to Tai O",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "1:40 p.m.",
+    "Remark": "4"
+  },
+  {
+    "Direction": "Sha Lo Wan to Tai O",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "3:37 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Sha Lo Wan to Tai O",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "4:15 p.m.",
+    "Remark": "5"
+  },
+  {
+    "Direction": "Sha Lo Wan to Tai O",
+    "Service Date": "Saturdays except public holidays",
+    "Service Hour": "5:37 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tai O to Tuen Mun",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "9:30 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tai O to Tuen Mun",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "11:00 a.m.",
+    "Remark": "1,5"
+  },
+  {
+    "Direction": "Tai O to Tuen Mun",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "11:30 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tai O to Tuen Mun",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "2:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tai O to Tuen Mun",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "3:00 p.m.",
+    "Remark": "1,5"
+  },
+  {
+    "Direction": "Tai O to Tuen Mun",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "3:45 p.m.",
+    "Remark": "2,4"
+  },
+  {
+    "Direction": "Tai O to Tuen Mun",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "4:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tai O to Tuen Mun",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "4:30 p.m.",
+    "Remark": "2"
+  },
+  {
+    "Direction": "Tai O to Tuen Mun",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "5:00 p.m.",
+    "Remark": "1,5"
+  },
+  {
+    "Direction": "Tai O to Tuen Mun",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "5:30 p.m.",
+    "Remark": "2,3"
+  },
+  {
+    "Direction": "Tai O to Tuen Mun",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "5:45 p.m.",
+    "Remark": "2"
+  },
+  {
+    "Direction": "Tai O to Tuen Mun",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "6:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tai O to Tuen Mun",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "6:10 p.m.",
+    "Remark": "2"
+  },
+  {
+    "Direction": "Tai O to Tuen Mun",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "6:30 p.m.",
+    "Remark": "2,4"
+  },
+  {
+    "Direction": "Sha Lo Wan to Tuen Mun",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "9:52 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Sha Lo Wan to Tuen Mun",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "11:30 a.m.",
+    "Remark": "5"
+  },
+  {
+    "Direction": "Sha Lo Wan to Tuen Mun",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "11:52 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Sha Lo Wan to Tuen Mun",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "2:22 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Sha Lo Wan to Tuen Mun",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "3:30 p.m.",
+    "Remark": "5"
+  },
+  {
+    "Direction": "Sha Lo Wan to Tuen Mun",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "4:20 p.m.",
+    "Remark": "4"
+  },
+  {
+    "Direction": "Sha Lo Wan to Tuen Mun",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "4:22 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Sha Lo Wan to Tuen Mun",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "4:52 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Sha Lo Wan to Tuen Mun",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "5:30 p.m.",
+    "Remark": "5"
+  },
+  {
+    "Direction": "Sha Lo Wan to Tuen Mun",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "6:07 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Sha Lo Wan to Tuen Mun",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "6:22 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Sha Lo Wan to Tuen Mun",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "6:32 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Sha Lo Wan to Tuen Mun",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "7:05 p.m.",
+    "Remark": "4"
+  },
+  {
+    "Direction": "Tung Chungn to Tuen Mun",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "7:30 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tung Chungn to Tuen Mun",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "10:03 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tung Chungn to Tuen Mun",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "12:03 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tung Chungn to Tuen Mun",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "2:33 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tung Chungn to Tuen Mun",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "4:40 p.m.",
+    "Remark": "4"
+  },
+  {
+    "Direction": "Tung Chungn to Tuen Mun",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "4:33p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tung Chungn to Tuen Mun",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "5:03 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tung Chungn to Tuen Mun",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "6:18 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tung Chungn to Tuen Mun",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "6:33 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tung Chungn to Tuen Mun",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "6:43 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Tung Chungn to Tuen Mun",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "7:25 p.m.",
+    "Remark": "4"
+  },
+  {
+    "Direction": "Tung Chungn to Tuen Mun",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "7:30 p.m.",
+    "Remark": ""
+  }
+]

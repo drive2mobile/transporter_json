@@ -7,6 +7,7 @@ import { downloadRouteListNlb, downloadRouteStopNlb, parseJsonNlb } from "./src/
 import { generateVersion, parseUniqueRouteList, parseUniqueRouteMap, parseUniqueRouteStopList, parseUniqueRouteStopListByLocation } from "./src/functions/parseFinal.js";
 import { processTimetable } from "./src/functions/timetable.js";
 import { createMtrRouteList, downloadMtrRoutStopList } from "./src/functions/functions_mtr.js";
+import { downloadFerryJson, parseRouteStopListFerry } from "./src/functions/ferry.js";
 
 
 async function ctb()
@@ -77,6 +78,13 @@ async function mtr()
     console.log('MTR Finished');
 }
 
+async function ferry()
+{
+    await downloadFerryJson();
+    await parseRouteStopListFerry();
+    console.log('Ferry Finished');
+}
+
 async function parseFinal()
 {
     await parseUniqueRouteList();
@@ -113,6 +121,9 @@ async function main()
 
     if (arg == 'mtr' || arg == 'all')
         await mtr();
+
+    if (arg == 'ferry')
+        await ferry();
 
     if (arg == 'parsefinal' || arg == 'all')
         await parseFinal();

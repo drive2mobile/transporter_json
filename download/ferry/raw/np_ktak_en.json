@@ -1,0 +1,938 @@
+[
+  {
+    "Direction": "North Point to Kwun Tong",
+    "Service Date": "Mondays to Fridays (except public holidays)",
+    "Service Hour": "7:00 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "North Point to Kwun Tong",
+    "Service Date": "Mondays to Fridays (except public holidays)",
+    "Service Hour": "7:30 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "North Point to Kwun Tong",
+    "Service Date": "Mondays to Fridays (except public holidays)",
+    "Service Hour": "8:00 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "North Point to Kwun Tong",
+    "Service Date": "Mondays to Fridays (except public holidays)",
+    "Service Hour": "8:30 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "North Point to Kwun Tong",
+    "Service Date": "Mondays to Fridays (except public holidays)",
+    "Service Hour": "9:00 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "North Point to Kwun Tong",
+    "Service Date": "Mondays to Fridays (except public holidays)",
+    "Service Hour": "9:30 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "North Point to Kwun Tong",
+    "Service Date": "Mondays to Fridays (except public holidays)",
+    "Service Hour": "10:00 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "North Point to Kwun Tong",
+    "Service Date": "Mondays to Fridays (except public holidays)",
+    "Service Hour": "10:30 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "North Point to Kwun Tong",
+    "Service Date": "Mondays to Fridays (except public holidays)",
+    "Service Hour": "11:00 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "North Point to Kwun Tong",
+    "Service Date": "Mondays to Fridays (except public holidays)",
+    "Service Hour": "11:30 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "North Point to Kwun Tong",
+    "Service Date": "Mondays to Fridays (except public holidays)",
+    "Service Hour": "12:00 noon",
+    "Remark": ""
+  },
+  {
+    "Direction": "North Point to Kwun Tong",
+    "Service Date": "Mondays to Fridays (except public holidays)",
+    "Service Hour": "12:30 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "North Point to Kwun Tong",
+    "Service Date": "Mondays to Fridays (except public holidays)",
+    "Service Hour": "1:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "North Point to Kwun Tong",
+    "Service Date": "Mondays to Fridays (except public holidays)",
+    "Service Hour": "1:30 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "North Point to Kwun Tong",
+    "Service Date": "Mondays to Fridays (except public holidays)",
+    "Service Hour": "2:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "North Point to Kwun Tong",
+    "Service Date": "Mondays to Fridays (except public holidays)",
+    "Service Hour": "2:30 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "North Point to Kwun Tong",
+    "Service Date": "Mondays to Fridays (except public holidays)",
+    "Service Hour": "3:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "North Point to Kwun Tong",
+    "Service Date": "Mondays to Fridays (except public holidays)",
+    "Service Hour": "3:30 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "North Point to Kwun Tong",
+    "Service Date": "Mondays to Fridays (except public holidays)",
+    "Service Hour": "4:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "North Point to Kwun Tong",
+    "Service Date": "Mondays to Fridays (except public holidays)",
+    "Service Hour": "4:30 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "North Point to Kwun Tong",
+    "Service Date": "Mondays to Fridays (except public holidays)",
+    "Service Hour": "5:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "North Point to Kwun Tong",
+    "Service Date": "Mondays to Fridays (except public holidays)",
+    "Service Hour": "5:30 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "North Point to Kwun Tong",
+    "Service Date": "Mondays to Fridays (except public holidays)",
+    "Service Hour": "6:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "North Point to Kwun Tong",
+    "Service Date": "Mondays to Fridays (except public holidays)",
+    "Service Hour": "6:30 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "North Point to Kwun Tong",
+    "Service Date": "Mondays to Fridays (except public holidays)",
+    "Service Hour": "7:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "North Point to Kwun Tong",
+    "Service Date": "Mondays to Fridays (except public holidays)",
+    "Service Hour": "7:30 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to North Point",
+    "Service Date": "Mondays to Fridays (except public holidays)",
+    "Service Hour": "7:15 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to North Point",
+    "Service Date": "Mondays to Fridays (except public holidays)",
+    "Service Hour": "7:45 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to North Point",
+    "Service Date": "Mondays to Fridays (except public holidays)",
+    "Service Hour": "8:15 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to North Point",
+    "Service Date": "Mondays to Fridays (except public holidays)",
+    "Service Hour": "8:45 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to North Point",
+    "Service Date": "Mondays to Fridays (except public holidays)",
+    "Service Hour": "9:15 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to North Point",
+    "Service Date": "Mondays to Fridays (except public holidays)",
+    "Service Hour": "9:45 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to North Point",
+    "Service Date": "Mondays to Fridays (except public holidays)",
+    "Service Hour": "10:15 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to North Point",
+    "Service Date": "Mondays to Fridays (except public holidays)",
+    "Service Hour": "10:45 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to North Point",
+    "Service Date": "Mondays to Fridays (except public holidays)",
+    "Service Hour": "11:15 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to North Point",
+    "Service Date": "Mondays to Fridays (except public holidays)",
+    "Service Hour": "11:45 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to North Point",
+    "Service Date": "Mondays to Fridays (except public holidays)",
+    "Service Hour": "12:15 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to North Point",
+    "Service Date": "Mondays to Fridays (except public holidays)",
+    "Service Hour": "12:45 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to North Point",
+    "Service Date": "Mondays to Fridays (except public holidays)",
+    "Service Hour": "1:15 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to North Point",
+    "Service Date": "Mondays to Fridays (except public holidays)",
+    "Service Hour": "1:45 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to North Point",
+    "Service Date": "Mondays to Fridays (except public holidays)",
+    "Service Hour": "2:15 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to North Point",
+    "Service Date": "Mondays to Fridays (except public holidays)",
+    "Service Hour": "2:45 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to North Point",
+    "Service Date": "Mondays to Fridays (except public holidays)",
+    "Service Hour": "3:15 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to North Point",
+    "Service Date": "Mondays to Fridays (except public holidays)",
+    "Service Hour": "3:45 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to North Point",
+    "Service Date": "Mondays to Fridays (except public holidays)",
+    "Service Hour": "4:15 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to North Point",
+    "Service Date": "Mondays to Fridays (except public holidays)",
+    "Service Hour": "4:45 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to North Point",
+    "Service Date": "Mondays to Fridays (except public holidays)",
+    "Service Hour": "5:15 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to North Point",
+    "Service Date": "Mondays to Fridays (except public holidays)",
+    "Service Hour": "5:45 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to North Point",
+    "Service Date": "Mondays to Fridays (except public holidays)",
+    "Service Hour": "6:15 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to North Point",
+    "Service Date": "Mondays to Fridays (except public holidays)",
+    "Service Hour": "6:45 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to North Point",
+    "Service Date": "Mondays to Fridays (except public holidays)",
+    "Service Hour": "7:15 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to North Point",
+    "Service Date": "Mondays to Fridays (except public holidays)",
+    "Service Hour": "7:45 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "North Point to Kwun Tong",
+    "Service Date": "Saturdays (except public holidays)",
+    "Service Hour": "7:00 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "North Point to Kwun Tong",
+    "Service Date": "Saturdays (except public holidays)",
+    "Service Hour": "7:30 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "North Point to Kwun Tong",
+    "Service Date": "Saturdays (except public holidays)",
+    "Service Hour": "8:00 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "North Point to Kwun Tong",
+    "Service Date": "Saturdays (except public holidays)",
+    "Service Hour": "8:30 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "North Point to Kwun Tong",
+    "Service Date": "Saturdays (except public holidays)",
+    "Service Hour": "9:00 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "North Point to Kwun Tong",
+    "Service Date": "Saturdays (except public holidays)",
+    "Service Hour": "10:00 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "North Point to Kwun Tong",
+    "Service Date": "Saturdays (except public holidays)",
+    "Service Hour": "11:00 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "North Point to Kwun Tong",
+    "Service Date": "Saturdays (except public holidays)",
+    "Service Hour": "12:00 noon",
+    "Remark": ""
+  },
+  {
+    "Direction": "North Point to Kwun Tong",
+    "Service Date": "Saturdays (except public holidays)",
+    "Service Hour": "1:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "North Point to Kwun Tong",
+    "Service Date": "Saturdays (except public holidays)",
+    "Service Hour": "2:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "North Point to Kwun Tong",
+    "Service Date": "Saturdays (except public holidays)",
+    "Service Hour": "3:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "North Point to Kwun Tong",
+    "Service Date": "Saturdays (except public holidays)",
+    "Service Hour": "4:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "North Point to Kwun Tong",
+    "Service Date": "Saturdays (except public holidays)",
+    "Service Hour": "5:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "North Point to Kwun Tong",
+    "Service Date": "Saturdays (except public holidays)",
+    "Service Hour": "6:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "North Point to Kwun Tong",
+    "Service Date": "Saturdays (except public holidays)",
+    "Service Hour": "7:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to Kai Tak",
+    "Service Date": "Saturdays (except public holidays)",
+    "Service Hour": "9:15 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to Kai Tak",
+    "Service Date": "Saturdays (except public holidays)",
+    "Service Hour": "10:15 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to Kai Tak",
+    "Service Date": "Saturdays (except public holidays)",
+    "Service Hour": "11:15 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to Kai Tak",
+    "Service Date": "Saturdays (except public holidays)",
+    "Service Hour": "12:15 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to Kai Tak",
+    "Service Date": "Saturdays (except public holidays)",
+    "Service Hour": "1:15 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to Kai Tak",
+    "Service Date": "Saturdays (except public holidays)",
+    "Service Hour": "2:15 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to Kai Tak",
+    "Service Date": "Saturdays (except public holidays)",
+    "Service Hour": "3:15 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to Kai Tak",
+    "Service Date": "Saturdays (except public holidays)",
+    "Service Hour": "4:15 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to Kai Tak",
+    "Service Date": "Saturdays (except public holidays)",
+    "Service Hour": "5:15 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to Kai Tak",
+    "Service Date": "Saturdays (except public holidays)",
+    "Service Hour": "6:15 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to Kai Tak",
+    "Service Date": "Saturdays (except public holidays)",
+    "Service Hour": "7:15 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kai Tak to Kwun Tong",
+    "Service Date": "Saturdays (except public holidays)",
+    "Service Hour": "9:25 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kai Tak to Kwun Tong",
+    "Service Date": "Saturdays (except public holidays)",
+    "Service Hour": "10:25 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kai Tak to Kwun Tong",
+    "Service Date": "Saturdays (except public holidays)",
+    "Service Hour": "11:25 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kai Tak to Kwun Tong",
+    "Service Date": "Saturdays (except public holidays)",
+    "Service Hour": "12:25 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kai Tak to Kwun Tong",
+    "Service Date": "Saturdays (except public holidays)",
+    "Service Hour": "1:25 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kai Tak to Kwun Tong",
+    "Service Date": "Saturdays (except public holidays)",
+    "Service Hour": "2:25 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kai Tak to Kwun Tong",
+    "Service Date": "Saturdays (except public holidays)",
+    "Service Hour": "3:25 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kai Tak to Kwun Tong",
+    "Service Date": "Saturdays (except public holidays)",
+    "Service Hour": "4:25 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kai Tak to Kwun Tong",
+    "Service Date": "Saturdays (except public holidays)",
+    "Service Hour": "5:25 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kai Tak to Kwun Tong",
+    "Service Date": "Saturdays (except public holidays)",
+    "Service Hour": "6:25 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kai Tak to Kwun Tong",
+    "Service Date": "Saturdays (except public holidays)",
+    "Service Hour": "7:25 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to North Point",
+    "Service Date": "Saturdays (except public holidays)",
+    "Service Hour": "7:15 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to North Point",
+    "Service Date": "Saturdays (except public holidays)",
+    "Service Hour": "7:45 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to North Point",
+    "Service Date": "Saturdays (except public holidays)",
+    "Service Hour": "8:15 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to North Point",
+    "Service Date": "Saturdays (except public holidays)",
+    "Service Hour": "8:45 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to North Point",
+    "Service Date": "Saturdays (except public holidays)",
+    "Service Hour": "9:35 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to North Point",
+    "Service Date": "Saturdays (except public holidays)",
+    "Service Hour": "10:35 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to North Point",
+    "Service Date": "Saturdays (except public holidays)",
+    "Service Hour": "11:35 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to North Point",
+    "Service Date": "Saturdays (except public holidays)",
+    "Service Hour": "12:35 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to North Point",
+    "Service Date": "Saturdays (except public holidays)",
+    "Service Hour": "1:35 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to North Point",
+    "Service Date": "Saturdays (except public holidays)",
+    "Service Hour": "2:35 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to North Point",
+    "Service Date": "Saturdays (except public holidays)",
+    "Service Hour": "3:35 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to North Point",
+    "Service Date": "Saturdays (except public holidays)",
+    "Service Hour": "4:35 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to North Point",
+    "Service Date": "Saturdays (except public holidays)",
+    "Service Hour": "5:35 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to North Point",
+    "Service Date": "Saturdays (except public holidays)",
+    "Service Hour": "6:35 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to North Point",
+    "Service Date": "Saturdays (except public holidays)",
+    "Service Hour": "7:35 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "North Point to Kwun Tong",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "7:00 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "North Point to Kwun Tong",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "8:00 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "North Point to Kwun Tong",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "9:00 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "North Point to Kwun Tong",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "10:00 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "North Point to Kwun Tong",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "11:00 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "North Point to Kwun Tong",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "12:00 noon",
+    "Remark": ""
+  },
+  {
+    "Direction": "North Point to Kwun Tong",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "1:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "North Point to Kwun Tong",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "2:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "North Point to Kwun Tong",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "3:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "North Point to Kwun Tong",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "4:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "North Point to Kwun Tong",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "5:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "North Point to Kwun Tong",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "6:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "North Point to Kwun Tong",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "7:00 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to Kai Tak",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "7:15 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to Kai Tak",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "8:15 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to Kai Tak",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "9:15 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to Kai Tak",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "10:15 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to Kai Tak",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "11:15 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to Kai Tak",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "12:15 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to Kai Tak",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "1:15 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to Kai Tak",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "2:15 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to Kai Tak",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "3:15 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to Kai Tak",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "4:15 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to Kai Tak",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "5:15 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to Kai Tak",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "6:15 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to Kai Tak",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "7:15 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kai Tak to Kwun Tong",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "7:25 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kai Tak to Kwun Tong",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "8:25 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kai Tak to Kwun Tong",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "9:25 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kai Tak to Kwun Tong",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "10:25 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kai Tak to Kwun Tong",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "11:25 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kai Tak to Kwun Tong",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "12:25 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kai Tak to Kwun Tong",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "1:25 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kai Tak to Kwun Tong",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "2:25 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kai Tak to Kwun Tong",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "3:25 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kai Tak to Kwun Tong",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "4:25 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kai Tak to Kwun Tong",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "5:25 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kai Tak to Kwun Tong",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "6:25 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kai Tak to Kwun Tong",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "7:25 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to North Point",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "7:35 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to North Point",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "8:35 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to North Point",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "9:35 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to North Point",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "10:35 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to North Point",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "11:35 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to North Point",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "12:35 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to North Point",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "1:35 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to North Point",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "2:35 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to North Point",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "3:35 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to North Point",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "4:35 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to North Point",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "5:35 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to North Point",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "6:35 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Kwun Tong to North Point",
+    "Service Date": "Sundays and public holidays",
+    "Service Hour": "7:35 p.m.",
+    "Remark": ""
+  }
+]

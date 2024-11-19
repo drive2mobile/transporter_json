@@ -1,0 +1,326 @@
+[
+  {
+    "Direction": "Central to Sok Kwu Wan",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Timetable": "7:20 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Central to Sok Kwu Wan",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Timetable": "8:35 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Central to Sok Kwu Wan",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Timetable": "10:20 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Central to Sok Kwu Wan",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Timetable": "11:50 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Central to Sok Kwu Wan",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Timetable": "1:50 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Central to Sok Kwu Wan",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Timetable": "3:20 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Central to Sok Kwu Wan",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Timetable": "4:50 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Central to Sok Kwu Wan",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Timetable": "6:45 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Central to Sok Kwu Wan",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Timetable": "8:20 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Central to Sok Kwu Wan",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Timetable": "9:50 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Central to Sok Kwu Wan",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Timetable": "11:30 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Sok Kwu Wan to Central",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Timetable": "6:45 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Sok Kwu Wan to Central",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Timetable": "8:00 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Sok Kwu Wan to Central",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Timetable": "9:35 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Sok Kwu Wan to Central",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Timetable": "11:05 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Sok Kwu Wan to Central",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Timetable": "12:40 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Sok Kwu Wan to Central",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Timetable": "2:35 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Sok Kwu Wan to Central",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Timetable": "4:05 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Sok Kwu Wan to Central",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Timetable": "5:35 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Sok Kwu Wan to Central",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Timetable": "7:35 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Sok Kwu Wan to Central",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Timetable": "9:05 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Sok Kwu Wan to Central",
+    "Service Date": "Mondays to Saturdays except public holidays",
+    "Timetable": "10:40 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Central to Sok Kwu Wan",
+    "Service Date": "Sundays and public holidays",
+    "Timetable": "7:20 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Central to Sok Kwu Wan",
+    "Service Date": "Sundays and public holidays",
+    "Timetable": "8:35 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Central to Sok Kwu Wan",
+    "Service Date": "Sundays and public holidays",
+    "Timetable": "10:20 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Central to Sok Kwu Wan",
+    "Service Date": "Sundays and public holidays",
+    "Timetable": "11:50 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Central to Sok Kwu Wan",
+    "Service Date": "Sundays and public holidays",
+    "Timetable": "12:50 p.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Central to Sok Kwu Wan",
+    "Service Date": "Sundays and public holidays",
+    "Timetable": "1:50 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Central to Sok Kwu Wan",
+    "Service Date": "Sundays and public holidays",
+    "Timetable": "2:35 p.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Central to Sok Kwu Wan",
+    "Service Date": "Sundays and public holidays",
+    "Timetable": "3:20 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Central to Sok Kwu Wan",
+    "Service Date": "Sundays and public holidays",
+    "Timetable": "4:05 p.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Central to Sok Kwu Wan",
+    "Service Date": "Sundays and public holidays",
+    "Timetable": "4:50 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Central to Sok Kwu Wan",
+    "Service Date": "Sundays and public holidays",
+    "Timetable": "5:35 p.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Central to Sok Kwu Wan",
+    "Service Date": "Sundays and public holidays",
+    "Timetable": "6:45 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Central to Sok Kwu Wan",
+    "Service Date": "Sundays and public holidays",
+    "Timetable": "7:20 p.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Central to Sok Kwu Wan",
+    "Service Date": "Sundays and public holidays",
+    "Timetable": "8:20 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Central to Sok Kwu Wan",
+    "Service Date": "Sundays and public holidays",
+    "Timetable": "9:50 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Central to Sok Kwu Wan",
+    "Service Date": "Sundays and public holidays",
+    "Timetable": "11:30 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Sok Kwu Wan to Central",
+    "Service Date": "Sundays and public holidays",
+    "Timetable": "6:45 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Sok Kwu Wan to Central",
+    "Service Date": "Sundays and public holidays",
+    "Timetable": "8:00 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Sok Kwu Wan to Central",
+    "Service Date": "Sundays and public holidays",
+    "Timetable": "9:35 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Sok Kwu Wan to Central",
+    "Service Date": "Sundays and public holidays",
+    "Timetable": "11:05 a.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Sok Kwu Wan to Central",
+    "Service Date": "Sundays and public holidays",
+    "Timetable": "12:40 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Sok Kwu Wan to Central",
+    "Service Date": "Sundays and public holidays",
+    "Timetable": "1:50 p.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Sok Kwu Wan to Central",
+    "Service Date": "Sundays and public holidays",
+    "Timetable": "2:35 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Sok Kwu Wan to Central",
+    "Service Date": "Sundays and public holidays",
+    "Timetable": "3:20 p.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Sok Kwu Wan to Central",
+    "Service Date": "Sundays and public holidays",
+    "Timetable": "4:05 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Sok Kwu Wan to Central",
+    "Service Date": "Sundays and public holidays",
+    "Timetable": "4:50 p.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Sok Kwu Wan to Central",
+    "Service Date": "Sundays and public holidays",
+    "Timetable": "5:35 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Sok Kwu Wan to Central",
+    "Service Date": "Sundays and public holidays",
+    "Timetable": "6:35 p.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Sok Kwu Wan to Central",
+    "Service Date": "Sundays and public holidays",
+    "Timetable": "7:35 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Sok Kwu Wan to Central",
+    "Service Date": "Sundays and public holidays",
+    "Timetable": "8:20 p.m.",
+    "Remark": "1"
+  },
+  {
+    "Direction": "Sok Kwu Wan to Central",
+    "Service Date": "Sundays and public holidays",
+    "Timetable": "9:05 p.m.",
+    "Remark": ""
+  },
+  {
+    "Direction": "Sok Kwu Wan to Central",
+    "Service Date": "Sundays and public holidays",
+    "Timetable": "10:40 p.m.",
+    "Remark": ""
+  }
+]
