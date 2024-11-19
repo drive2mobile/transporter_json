@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-10-26T20:05:12+08:00",
+  "generated_timestamp": "2024-11-16T19:47:16+08:00",
   "data": {
     "stop": "003762",
     "name_tc": "M+, 博物館道",
@@ -9,6 +9,6 @@
     "lat": "22.301781402091",
     "long": "114.15858138053",
     "name_sc": "M+, 博物馆道",
-    "data_timestamp": "2024-10-26T05:00:03+08:00"
+    "data_timestamp": "2024-11-16T05:00:03+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:05:18.549+08:00",
+  "generated_timestamp": "2024-11-17T10:28:07.428+08:00",
   "data": {
     "route_stops": [
       {
@@ -47,6 +47,6 @@
         "name_en": "Tsing Lung Tau (Lung Yue Road)"
       }
     ],
-    "data_timestamp": "2024-10-23T13:28:56.879+08:00"
+    "data_timestamp": "2024-11-06T17:55:13.506+08:00"
   }
 }

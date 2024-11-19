@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:02:35.239+08:00",
+  "generated_timestamp": "2024-11-17T10:25:36.449+08:00",
   "data": {
     "route_stops": [
       {
@@ -13,47 +13,54 @@
       },
       {
         "stop_seq": 2,
+        "stop_id": 20020161,
+        "name_tc": "利安道西行線近利業樓",
+        "name_sc": "利安道西行线近利业楼",
+        "name_en": "Lee On Road westbound outside Lee Yip House"
+      },
+      {
+        "stop_seq": 3,
         "stop_id": 20000952,
         "name_tc": "利安道, 近順利邨利恒樓",
         "name_sc": "利安道, 近顺利邨利恒楼",
         "name_en": "Lee On Road, near Lee Hang House, Shun Lee Estate"
       },
       {
-        "stop_seq": 3,
+        "stop_seq": 4,
         "stop_id": 20001117,
         "name_tc": "清水灣道, 近坪石邨鑽石樓",
         "name_sc": "清水湾道, 近坪石邨钻石楼",
         "name_en": "Clear Water Bay Road, near Tsuen Shek House, Ping Shek Estate"
       },
       {
-        "stop_seq": 4,
+        "stop_seq": 5,
         "stop_id": 20000975,
         "name_tc": "彩虹道, 近永濟工業大廈",
         "name_sc": "彩虹道, 近永济工业大厦",
         "name_en": "Choi Hung Road, near Wing Chai Industrial Building"
       },
       {
-        "stop_seq": 5,
+        "stop_seq": 6,
         "stop_id": 20000976,
         "name_tc": "沙田㘭道, 近黃大仙下邨龍達樓",
         "name_sc": "沙田㘭道, 近黄大仙下邨龙达楼",
         "name_en": "Shatin Pass Road, near Lung Tat House, Lower Wong Tai Sin Estate"
       },
       {
-        "stop_seq": 6,
+        "stop_seq": 7,
         "stop_id": 20004134,
         "name_tc": "東頭村道, 近黃大仙下邨龍滿樓",
         "name_sc": "东头村道, 近黄大仙下邨龙满楼",
         "name_en": "Tung Tau Tsuen Road, near Lung Moon House, Lower Wong Tai Sin Estate"
       },
       {
-        "stop_seq": 7,
+        "stop_seq": 8,
         "stop_id": 20000973,
         "name_tc": "橫頭磡東道, 近橫頭磡邨宏德樓",
         "name_sc": "横头磡东道, 近横头磡邨宏德楼",
         "name_en": "Wang Tau Hom East Road, near Wang Tak House, Wang Tau Hom Estate"
       }
     ],
-    "data_timestamp": "2024-10-22T14:59:34.136+08:00"
+    "data_timestamp": "2024-11-15T18:15:35.643+08:00"
   }
 }

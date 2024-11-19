@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-10-26T19:48:31+08:00",
+  "generated_timestamp": "2024-11-16T19:36:45+08:00",
   "data": {
     "stop": "001685",
     "name_tc": "美孚",
@@ -9,6 +9,6 @@
     "lat": "22.337260762091",
     "long": "114.13995054053",
     "name_sc": "美孚",
-    "data_timestamp": "2024-10-26T05:00:03+08:00"
+    "data_timestamp": "2024-11-16T05:00:03+08:00"
   }
 }

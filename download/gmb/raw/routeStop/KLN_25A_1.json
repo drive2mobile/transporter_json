@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:02:19.015+08:00",
+  "generated_timestamp": "2024-11-17T10:25:19.157+08:00",
   "data": {
     "route_stops": [
       {
@@ -117,6 +117,6 @@
         "name_en": "Tung Tau Estate (Tung Lung Road) Minibus Terminus"
       }
     ],
-    "data_timestamp": "2024-10-22T14:59:34.130+08:00"
+    "data_timestamp": "2024-11-15T19:03:38.009+08:00"
   }
 }

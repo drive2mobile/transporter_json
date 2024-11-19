@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:01:42.415+08:00",
+  "generated_timestamp": "2024-11-17T10:24:45.947+08:00",
   "data": {
     "route_stops": [
       {
@@ -91,9 +91,9 @@
       {
         "stop_seq": 13,
         "stop_id": 20006946,
-        "name_tc": "屋蘭士街",
-        "name_sc": "屋兰士街",
-        "name_en": "Oaklands Avenue"
+        "name_tc": "羅便臣道, 屋蘭士街",
+        "name_sc": "罗便臣道, 屋兰士街",
+        "name_en": "Robinson Road, Oaklands Avenue"
       },
       {
         "stop_seq": 14,
@@ -117,6 +117,6 @@
         "name_en": "First Street, near Centre Street Market"
       }
     ],
-    "data_timestamp": "2024-10-29T16:35:11.257+08:00"
+    "data_timestamp": "2024-10-31T18:54:15.260+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-10-26T19:58:14+08:00",
+  "generated_timestamp": "2024-11-16T19:43:13+08:00",
   "data": {
     "stop": "001323",
     "name_tc": "電照街",
@@ -9,6 +9,6 @@
     "lat": "22.292679562091",
     "long": "114.20283216053",
     "name_sc": "电照街",
-    "data_timestamp": "2024-10-26T05:00:03+08:00"
+    "data_timestamp": "2024-11-16T05:00:03+08:00"
   }
 }

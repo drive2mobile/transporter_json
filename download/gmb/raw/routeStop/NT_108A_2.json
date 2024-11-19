@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:03:05.892+08:00",
+  "generated_timestamp": "2024-11-17T10:26:02.115+08:00",
   "data": {
     "route_stops": [
       {
@@ -124,6 +124,6 @@
         "name_en": "Choi Ming Public Transport Interchange"
       }
     ],
-    "data_timestamp": "2024-07-31T17:28:48.365+08:00"
+    "data_timestamp": "2024-11-15T18:03:59.674+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:03:07.045+08:00",
+  "generated_timestamp": "2024-11-17T10:26:03.405+08:00",
   "data": {
     "route_stops": [
       {
@@ -112,9 +112,9 @@
       {
         "stop_seq": 16,
         "stop_id": 20000566,
-        "name_tc": "彩雲邨",
-        "name_sc": "彩云村",
-        "name_en": "Choi Wan Estate"
+        "name_tc": "清水灣道, 彩雲商場",
+        "name_sc": "清水湾道, 彩云商场",
+        "name_en": "Choi Wan Commercial Complex, Clear Water Bay Road\t"
       },
       {
         "stop_seq": 17,
@@ -131,6 +131,6 @@
         "name_en": "Lung Cheung Road, outside Hung Ngok House, Choi Hung Estate "
       }
     ],
-    "data_timestamp": "2024-09-10T18:26:28.076+08:00"
+    "data_timestamp": "2024-11-15T18:15:35.643+08:00"
   }
 }

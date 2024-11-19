@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:02:47.383+08:00",
+  "generated_timestamp": "2024-11-17T10:25:49.260+08:00",
   "data": {
     "route_stops": [
       {
@@ -27,17 +27,17 @@
       },
       {
         "stop_seq": 4,
-        "stop_id": 20002395,
-        "name_tc": "彩虹道, 嘉榮工廠大廈對面",
-        "name_sc": "彩虹道, 嘉荣工厂大厦对面",
-        "name_en": "Choi Hung Road, opposite Ka Wing Factory Building"
-      },
-      {
-        "stop_seq": 5,
         "stop_id": 20002394,
         "name_tc": "彩虹道, 新蒲崗巴士總站對面",
         "name_sc": "彩虹道, 新蒲岗巴士总站对面",
         "name_en": "Choi Hung Road, opposite San Po Kong Bus Terminal"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20002395,
+        "name_tc": "彩虹道, 嘉榮工廠大廈對面",
+        "name_sc": "彩虹道, 嘉荣工厂大厦对面",
+        "name_en": "Choi Hung Road, opposite Ka Wing Factory Building"
       },
       {
         "stop_seq": 6,
@@ -68,6 +68,6 @@
         "name_en": "King Tung Street, Kingsford Terrace"
       }
     ],
-    "data_timestamp": "2024-10-22T14:59:34.138+08:00"
+    "data_timestamp": "2024-10-31T19:36:10.740+08:00"
   }
 }

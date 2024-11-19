@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:03:57.702+08:00",
+  "generated_timestamp": "2024-11-17T10:26:53.156+08:00",
   "data": {
     "route_stops": [
       {
@@ -54,6 +54,6 @@
         "name_en": "Tsuen Wan Market Street"
       }
     ],
-    "data_timestamp": "2024-10-20T00:01:47.972+08:00"
+    "data_timestamp": "2024-11-13T18:13:12.899+08:00"
   }
 }

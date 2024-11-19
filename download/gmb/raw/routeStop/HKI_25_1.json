@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:01:28.613+08:00",
+  "generated_timestamp": "2024-11-17T10:24:34.375+08:00",
   "data": {
     "route_stops": [
       {
@@ -21,9 +21,9 @@
       {
         "stop_seq": 3,
         "stop_id": 20009182,
-        "name_tc": "雲景道,峰景大廈外",
-        "name_sc": "云景道,峰景大厦外",
-        "name_en": "Cloud View Road, outside Hilltop Mansion"
+        "name_tc": "雲景道,近峯景",
+        "name_sc": "云景道,近峰景",
+        "name_en": "Near Hilltop, Cloud View Road"
       },
       {
         "stop_seq": 4,
@@ -103,6 +103,6 @@
         "name_en": "Upper Braemar Hill Bus Terminus"
       }
     ],
-    "data_timestamp": "2024-10-30T13:55:16.796+08:00"
+    "data_timestamp": "2024-11-05T17:54:40.192+08:00"
   }
 }

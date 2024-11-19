@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:02:28.701+08:00",
+  "generated_timestamp": "2024-11-17T10:25:29.986+08:00",
   "data": {
     "route_stops": [
       {
@@ -62,33 +62,40 @@
       },
       {
         "stop_seq": 9,
+        "stop_id": 20020183,
+        "name_tc": "毓華街56號",
+        "name_sc": "毓华街56号",
+        "name_en": "No. 56 Yuk Wah Street"
+      },
+      {
+        "stop_seq": 10,
         "stop_id": 20000823,
         "name_tc": "雙鳳街62號",
         "name_sc": "双凤街62号",
         "name_en": "No.62 Sheung Fung Street"
       },
       {
-        "stop_seq": 10,
+        "stop_seq": 11,
         "stop_id": 20000824,
         "name_tc": "雙鳳街32-34號",
         "name_sc": "双凤街32-34号",
         "name_en": "No.32-34 Sheung Fung Street"
       },
       {
-        "stop_seq": 11,
+        "stop_seq": 12,
         "stop_id": 20006016,
-        "name_tc": "鳳德道, 消防局外",
-        "name_sc": "凤德道, 消防局外",
-        "name_en": "Fung Tak Road, outside Fire Station"
+        "name_tc": "鳳德道, 黃大仙消防局外",
+        "name_sc": "凤德道, 黄大仙消防局外",
+        "name_en": "Fung Tak Road, outside Wong Tai Sin Fire Station"
       },
       {
-        "stop_seq": 12,
+        "stop_seq": 13,
         "stop_id": 20019006,
         "name_tc": "黃大仙公共小型巴士(專線)服務總站",
         "name_sc": "黄大仙公共小型巴士(专线)服务总站",
         "name_en": "Wong Tai Sin Public Light Bus (Scheduled) Service Terminus"
       }
     ],
-    "data_timestamp": "2024-09-18T02:35:13.519+08:00"
+    "data_timestamp": "2024-10-31T15:48:13.651+08:00"
   }
 }

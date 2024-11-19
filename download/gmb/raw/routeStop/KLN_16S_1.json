@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:02:08.426+08:00",
+  "generated_timestamp": "2024-11-17T10:25:11.560+08:00",
   "data": {
     "route_stops": [
       {
@@ -30,7 +30,7 @@
         "stop_id": 20000566,
         "name_tc": "清水灣道, 彩雲商場",
         "name_sc": "清水湾道, 彩云商场",
-        "name_en": "Clear Water Bay Road, Choi Wan Commercial Complex Phase Iib"
+        "name_en": "Choi Wan Commercial Complex, Clear Water Bay Road\t"
       },
       {
         "stop_seq": 5,
@@ -61,6 +61,6 @@
         "name_en": "Fung Shing Street, outside Aria"
       }
     ],
-    "data_timestamp": "2024-07-31T17:28:46.624+08:00"
+    "data_timestamp": "2024-11-15T18:15:35.641+08:00"
   }
 }

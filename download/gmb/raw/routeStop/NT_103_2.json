@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:03:03.145+08:00",
+  "generated_timestamp": "2024-11-17T10:25:59.442+08:00",
   "data": {
     "route_stops": [
       {
@@ -89,6 +89,6 @@
         "name_en": "Clear Water Bay Second Beach"
       }
     ],
-    "data_timestamp": "2024-07-31T17:20:15.802+08:00"
+    "data_timestamp": "2024-11-15T18:03:59.675+08:00"
   }
 }

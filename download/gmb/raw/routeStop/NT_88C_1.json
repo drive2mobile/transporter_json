@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:05:05.909+08:00",
+  "generated_timestamp": "2024-11-17T10:27:55.177+08:00",
   "data": {
     "route_stops": [
       {
@@ -13,19 +13,33 @@
       },
       {
         "stop_seq": 2,
+        "stop_id": 20020271,
+        "name_tc": "興芳路, 葵涌運動場對面",
+        "name_sc": "兴芳路, 葵涌运动场对面",
+        "name_en": "Hing Fong Road opposite to Kwai Chung Sports Ground"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20020272,
+        "name_tc": "葵青路近行人天橋巴士避車處",
+        "name_sc": "葵青路近行人天桥巴士避车处",
+        "name_en": "Kwai Tsing Road bus layby near the footbridge"
+      },
+      {
+        "stop_seq": 4,
         "stop_id": 20001746,
         "name_tc": "青衣路, 長青商場對面",
         "name_sc": "青衣路, 长青商场对面",
         "name_en": "Tsing Yi Road, Opposite Cheung Ching Shopping Centre"
       },
       {
-        "stop_seq": 3,
+        "stop_seq": 5,
         "stop_id": 20016828,
         "name_tc": "美景花園小巴總站",
         "name_sc": "美景花园小巴总站",
         "name_en": "Mayfair Gardens Minibus Terminus"
       }
     ],
-    "data_timestamp": "2024-06-03T15:39:49.374+08:00"
+    "data_timestamp": "2024-11-05T17:23:10.026+08:00"
   }
 }

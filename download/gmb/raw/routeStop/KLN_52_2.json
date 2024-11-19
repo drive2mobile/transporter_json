@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:02:34.763+08:00",
+  "generated_timestamp": "2024-11-17T10:25:35.965+08:00",
   "data": {
     "route_stops": [
       {
@@ -26,6 +26,6 @@
         "name_en": "Ngan Chuk Lane, Near Sau Yuen House, Chuk Yuen (South) Estate"
       }
     ],
-    "data_timestamp": "2024-07-31T15:33:52.334+08:00"
+    "data_timestamp": "2024-11-05T17:44:41.175+08:00"
   }
 }

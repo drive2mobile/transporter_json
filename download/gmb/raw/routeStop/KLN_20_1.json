@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:02:14.248+08:00",
+  "generated_timestamp": "2024-11-17T10:25:14.570+08:00",
   "data": {
     "route_stops": [
       {
@@ -118,54 +118,68 @@
       },
       {
         "stop_seq": 17,
+        "stop_id": 20020183,
+        "name_tc": "毓華街56號",
+        "name_sc": "毓华街56号",
+        "name_en": "No. 56 Yuk Wah Street"
+      },
+      {
+        "stop_seq": 18,
         "stop_id": 20012711,
         "name_tc": "毓華街, 慈樂邨樂滿樓外",
         "name_sc": "毓华街, 慈乐邨乐满楼外",
         "name_en": "Yuk Wah Street, outside Lok Moon House, Tsz Lok Estate"
       },
       {
-        "stop_seq": 18,
+        "stop_seq": 19,
         "stop_id": 20012712,
         "name_tc": "崇華街, 翠明樓外",
         "name_sc": "崇华街, 翠明楼外",
         "name_en": "Shung Wah Street, outside Tsui Ming Building"
       },
       {
-        "stop_seq": 19,
+        "stop_seq": 20,
         "stop_id": 20000824,
         "name_tc": "雙鳳街34號",
         "name_sc": "双凤街34号",
         "name_en": "No. 34 Sheung Fung Street"
       },
       {
-        "stop_seq": 20,
+        "stop_seq": 21,
         "stop_id": 20012713,
         "name_tc": "鳳德道71號",
         "name_sc": "凤德道71号",
         "name_en": "No.71 Fung Tak Road"
       },
       {
-        "stop_seq": 21,
+        "stop_seq": 22,
         "stop_id": 20000968,
         "name_tc": "大有街23號",
         "name_sc": "大有街23号",
         "name_en": "No. 23 Tai Yau Street"
       },
       {
-        "stop_seq": 22,
+        "stop_seq": 23,
+        "stop_id": 20020184,
+        "name_tc": "大有街24號對面",
+        "name_sc": "大有街24号对面",
+        "name_en": "Opposite to No. 24 Tai Yau Street"
+      },
+      {
+        "stop_seq": 24,
         "stop_id": 20000969,
         "name_tc": "大有街31號",
         "name_sc": "大有街31号",
         "name_en": "No. 31 Tai Yau Street"
       },
       {
-        "stop_seq": 23,
+        "stop_seq": 25,
         "stop_id": 20012714,
         "name_tc": "康強街, 安強大樓外",
         "name_sc": "康强街, 安强大楼外",
         "name_en": "Hong Keung Street, outside On Keung Building"
       }
     ],
-    "data_timestamp": "2024-07-31T18:11:44.272+08:00"
+    "data_timestamp": "2024-11-05T17:44:41.175+08:00"
   }
 }

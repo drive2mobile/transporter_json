@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:04:40.481+08:00",
+  "generated_timestamp": "2024-11-17T10:27:31.987+08:00",
   "data": {
     "route_stops": [
       {
@@ -33,6 +33,6 @@
         "name_en": "Castle Peak Road - San Tin, near Man Tin Cheung Park"
       }
     ],
-    "data_timestamp": "2024-03-24T00:00:31.572+08:00"
+    "data_timestamp": "2024-11-13T16:52:01.716+08:00"
   }
 }

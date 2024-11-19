@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:01:32.481+08:00",
+  "generated_timestamp": "2024-11-17T10:24:38.467+08:00",
   "data": {
     "route_stops": [
       {
@@ -21,16 +21,16 @@
       {
         "stop_seq": 3,
         "stop_id": 20010308,
-        "name_tc": "成和道16號(近郵政局)",
-        "name_sc": "成和道16号(近邮政局) ",
-        "name_en": "No. 16 Sing Woo Road (Near Police Station)"
+        "name_tc": "成和道, 近跑馬地郵政局",
+        "name_sc": "成和道, 近跑马地邮政局",
+        "name_en": "Near Happy Valley Post Office, Sing Woo Road"
       },
       {
         "stop_seq": 4,
         "stop_id": 20010309,
-        "name_tc": "山村道32號(近豐寧大廈, 百佳超市)",
-        "name_sc": "山村道32号(近丰宁大厦, 百佳超市) ",
-        "name_en": "No. 32 Village Road (Near Fine Mansion, ParknShop)"
+        "name_tc": "山村道, 近豐寧大廈",
+        "name_sc": "山村道, 近丰宁大厦",
+        "name_en": "Near Fine Mansion, Village Road"
       },
       {
         "stop_seq": 5,
@@ -61,6 +61,6 @@
         "name_en": "Lan Fong Road No. 2-16 Terminus"
       }
     ],
-    "data_timestamp": "2024-10-30T12:28:49.873+08:00"
+    "data_timestamp": "2024-10-31T10:08:10.012+08:00"
   }
 }

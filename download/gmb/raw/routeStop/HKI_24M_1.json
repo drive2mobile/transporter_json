@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:01:28.142+08:00",
+  "generated_timestamp": "2024-11-17T10:24:33.341+08:00",
   "data": {
     "route_stops": [
       {
@@ -35,9 +35,9 @@
       {
         "stop_seq": 5,
         "stop_id": 20003525,
-        "name_tc": "司徒拔道, 嶺南中學外",
-        "name_sc": "司徒拔道, 岭南中学外",
-        "name_en": "Stubbs Road, outside Ling Nan College"
+        "name_tc": "司徒拔道, 近司徒拔道花園",
+        "name_sc": "司徒拔道, 近司徒拔道花园",
+        "name_en": "Near Stubbs Road Garden, Stubbs Road"
       },
       {
         "stop_seq": 6,
@@ -68,6 +68,6 @@
         "name_en": "Drake Street, near MTR exit"
       }
     ],
-    "data_timestamp": "2024-10-29T16:35:11.269+08:00"
+    "data_timestamp": "2024-11-15T17:33:04.992+08:00"
   }
 }

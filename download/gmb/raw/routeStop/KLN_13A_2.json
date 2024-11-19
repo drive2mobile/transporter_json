@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:02:06.984+08:00",
+  "generated_timestamp": "2024-11-17T10:25:10.211+08:00",
   "data": {
     "route_stops": [
       {
@@ -37,7 +37,7 @@
         "stop_id": 20006066,
         "name_tc": "橫頭磡東道, 港鐵樂富站外",
         "name_sc": "横头磡东道, 港铁乐富站外",
-        "name_en": "Wang Tau Hom East Road, outside Lok Fu MTR Station "
+        "name_en": "Wang Tau Hom East Road, outside Lok Fu MTR Station"
       },
       {
         "stop_seq": 6,
@@ -47,6 +47,6 @@
         "name_en": "Lok Fu MTR Station Minibus Terminus "
       }
     ],
-    "data_timestamp": "2024-07-31T11:26:10.209+08:00"
+    "data_timestamp": "2024-11-15T19:03:37.996+08:00"
   }
 }

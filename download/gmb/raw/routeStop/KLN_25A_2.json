@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:02:19.233+08:00",
+  "generated_timestamp": "2024-11-17T10:25:19.368+08:00",
   "data": {
     "route_stops": [
       {
@@ -61,6 +61,6 @@
         "name_en": "Kowloon Tong (Suffolk Road) Public Transport Interchange"
       }
     ],
-    "data_timestamp": "2024-10-22T14:59:34.130+08:00"
+    "data_timestamp": "2024-11-15T19:03:38.009+08:00"
   }
 }

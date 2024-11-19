@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:04:39.627+08:00",
+  "generated_timestamp": "2024-11-17T10:27:31.109+08:00",
   "data": {
     "route_stops": [
       {
@@ -33,6 +33,6 @@
         "name_en": "Fook Hong Street, near Kam Bo Building"
       }
     ],
-    "data_timestamp": "2024-04-07T00:00:47.944+08:00"
+    "data_timestamp": "2024-11-15T19:17:19.637+08:00"
   }
 }

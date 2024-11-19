@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:01:24.088+08:00",
+  "generated_timestamp": "2024-11-17T10:24:28.921+08:00",
   "data": {
     "route_stops": [
       {
@@ -13,61 +13,68 @@
       },
       {
         "stop_seq": 2,
+        "stop_id": 20006958,
+        "name_tc": "干諾道中, 近大會堂",
+        "name_sc": "干諾道中, 近大會堂 ",
+        "name_en": "Connaught Road Central outside City Hall "
+      },
+      {
+        "stop_seq": 3,
         "stop_id": 20000026,
         "name_tc": "紅棉路, 香港壁球中心外",
         "name_sc": "红棉路, 香港壁球中心外",
         "name_en": "Cotton Tree Drive, outside Hong Kong Squash Centre"
       },
       {
-        "stop_seq": 3,
+        "stop_seq": 4,
         "stop_id": 20014495,
         "name_tc": "麥當勞道, 近基督教女青年會總部",
         "name_sc": "麥當勞道, 近基督教女青年會總部 ",
-        "name_en": "MACDONNELL ROAD, near Y.W.C.A. Headquarters"
-      },
-      {
-        "stop_seq": 4,
-        "stop_id": 20014496,
-        "name_tc": "麥當勞道, 近半山樓",
-        "name_sc": "麥當勞道, 近半山樓 ",
-        "name_en": "MACDONNELL ROAD, near Hill View"
+        "name_en": "Macdonnell Road, near Y.W.C.A. Headquarters"
       },
       {
         "stop_seq": 5,
-        "stop_id": 20014497,
-        "name_tc": "麥當勞道, 近聖保羅男女中學",
-        "name_sc": "麥當勞道, 近聖保羅男女中學 ",
-        "name_en": "MACDONNELL ROAD, near St. Paul's Co-educational College."
+        "stop_id": 20014496,
+        "name_tc": "麥當勞道, 近半山樓",
+        "name_sc": "麥當勞道, 近半山樓 ",
+        "name_en": "Macdonnell Road, near Hill View"
       },
       {
         "stop_seq": 6,
-        "stop_id": 20014498,
-        "name_tc": "麥當勞道, 近麥堅尼大廈",
-        "name_sc": "麥當勞道, 近麥堅尼大廈 ",
-        "name_en": "MACDONNELL ROAD, near Mackenny Court"
+        "stop_id": 20014497,
+        "name_tc": "麥當勞道, 近聖保羅男女中學",
+        "name_sc": "麥當勞道, 近聖保羅男女中學 ",
+        "name_en": "Macdonnell Road, near St. Paul's Co-educational College"
       },
       {
         "stop_seq": 7,
-        "stop_id": 20014491,
-        "name_tc": "雪廠街, 近印刷行",
-        "name_sc": "雪廠街, 近印刷行 ",
-        "name_en": "ICE HOUSE STREET, near Printing House"
+        "stop_id": 20014498,
+        "name_tc": "麥當勞道, 近麥堅尼大廈",
+        "name_sc": "麥當勞道, 近麥堅尼大廈 ",
+        "name_en": "Macdonnell Road, near Mackenny Court"
       },
       {
         "stop_seq": 8,
+        "stop_id": 20014491,
+        "name_tc": "雪廠街, 近印刷行",
+        "name_sc": "雪廠街, 近印刷行 ",
+        "name_en": "Ice House Street, near Printing House"
+      },
+      {
+        "stop_seq": 9,
         "stop_id": 20000024,
         "name_tc": "畢打街, 近中環站 D1 出口",
         "name_sc": "毕打街, 近中环站 D1 出口",
         "name_en": "Pedder Street, near Central Station Exit D1"
       },
       {
-        "stop_seq": 9,
+        "stop_seq": 10,
         "stop_id": 20014492,
         "name_tc": "香港站小巴總站",
         "name_sc": "香港站小巴总站",
         "name_en": "Hong Kong Station Minibus Terminus"
       }
     ],
-    "data_timestamp": "2024-10-29T11:53:00.147+08:00"
+    "data_timestamp": "2024-11-06T16:47:49.219+08:00"
   }
 }

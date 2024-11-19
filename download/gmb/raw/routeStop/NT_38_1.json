@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:03:40.579+08:00",
+  "generated_timestamp": "2024-11-17T10:26:33.454+08:00",
   "data": {
     "route_stops": [
       {
@@ -35,9 +35,9 @@
       {
         "stop_seq": 5,
         "stop_id": 20016844,
-        "name_tc": "新潭路, 近首譽",
-        "name_sc": "新潭路, 近首誉",
-        "name_en": "San Tam Road, Near Meister House"
+        "name_tc": "新潭路, 近朗廈",
+        "name_sc": "新潭路, 近朗厦",
+        "name_en": "San Tam Road, Near Long Ha"
       },
       {
         "stop_seq": 6,
@@ -96,6 +96,6 @@
         "name_en": "Fook Hong Street, near Kam Bo Building"
       }
     ],
-    "data_timestamp": "2024-10-20T00:01:20.228+08:00"
+    "data_timestamp": "2024-11-15T19:17:19.669+08:00"
   }
 }

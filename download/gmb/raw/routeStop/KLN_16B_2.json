@@ -1,15 +1,15 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:02:08.223+08:00",
+  "generated_timestamp": "2024-11-17T10:25:11.333+08:00",
   "data": {
     "route_stops": [
       {
         "stop_seq": 1,
         "stop_id": 20012360,
-        "name_tc": "坪石公共運輸交匯處",
-        "name_sc": "坪石公共运输交汇处",
-        "name_en": "Ping Shek Public Transport Interchange"
+        "name_tc": "坪石公共運輸交匯處一樓",
+        "name_sc": "坪石公共运输交汇处一楼",
+        "name_en": "Ping Shek Public Transport Interchange 1/F"
       },
       {
         "stop_seq": 2,
@@ -26,6 +26,6 @@
         "name_en": "Fung Shing Street, outside Block 1, Scenic View"
       }
     ],
-    "data_timestamp": "2024-09-10T18:26:28.098+08:00"
+    "data_timestamp": "2024-11-15T18:15:35.641+08:00"
   }
 }

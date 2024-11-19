@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:04:39.845+08:00",
+  "generated_timestamp": "2024-11-17T10:27:31.318+08:00",
   "data": {
     "route_stops": [
       {
@@ -33,6 +33,6 @@
         "name_en": "蔡福善堂, Wang Chau Tung Tau Wai"
       }
     ],
-    "data_timestamp": "2024-04-07T00:00:54.795+08:00"
+    "data_timestamp": "2024-11-15T19:17:19.637+08:00"
   }
 }

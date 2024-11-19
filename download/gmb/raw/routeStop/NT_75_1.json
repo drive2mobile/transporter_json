@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:04:40.267+08:00",
+  "generated_timestamp": "2024-11-17T10:27:31.769+08:00",
   "data": {
     "route_stops": [
       {
@@ -27,12 +27,19 @@
       },
       {
         "stop_seq": 4,
+        "stop_id": 20020334,
+        "name_tc": "落馬洲路, 近下灣漁民新村",
+        "name_sc": "落马洲路, 近下湾渔民新村",
+        "name_en": "Lok Ma Chau Road, near Ha Wan Fisherman Tsuen"
+      },
+      {
+        "stop_seq": 5,
         "stop_id": 20015420,
         "name_tc": "未命名通道, 近落馬洲站",
         "name_sc": "未命名通道, 近落马洲站",
         "name_en": "UNNAMED ACCESS ROAD, near Lok Ma Chau Station"
       }
     ],
-    "data_timestamp": "2024-03-24T00:00:31.572+08:00"
+    "data_timestamp": "2024-11-13T16:52:01.716+08:00"
   }
 }

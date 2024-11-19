@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:05:03.928+08:00",
+  "generated_timestamp": "2024-11-17T10:27:53.232+08:00",
   "data": {
     "route_stops": [
       {
@@ -47,6 +47,6 @@
         "name_en": "CONTAINER TERMINAL 4"
       }
     ],
-    "data_timestamp": "2023-12-24T00:00:35.511+08:00"
+    "data_timestamp": "2024-11-05T17:40:10.074+08:00"
   }
 }

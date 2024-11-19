@@ -1,7 +1,7 @@
 {
   "type": "RouteList",
   "version": "1.0",
-  "generated_timestamp": "2024-10-01T23:36:38+08:00",
+  "generated_timestamp": "2024-11-16T19:25:13+08:00",
   "data": [
     {
       "route": "1",
@@ -642,6 +642,28 @@
       "dest_sc": "牛头角"
     },
     {
+      "route": "6E",
+      "bound": "O",
+      "service_type": "1",
+      "orig_en": "CHEUNG SHA WAN (SO UK ESTATE)",
+      "orig_tc": "長沙灣(蘇屋邨)",
+      "orig_sc": "长沙湾(苏屋邨)",
+      "dest_en": "LEI YUE MUN ESTATE",
+      "dest_tc": "鯉魚門邨",
+      "dest_sc": "鲤鱼门邨"
+    },
+    {
+      "route": "6E",
+      "bound": "I",
+      "service_type": "1",
+      "orig_en": "LEI YUE MUN ESTATE",
+      "orig_tc": "鯉魚門邨",
+      "orig_sc": "鲤鱼门邨",
+      "dest_en": "CHEUNG SHA WAN (SO UK ESTATE)",
+      "dest_tc": "長沙灣(蘇屋邨)",
+      "dest_sc": "长沙湾(苏屋邨)"
+    },
+    {
       "route": "6F",
       "bound": "O",
       "service_type": "1",
@@ -684,6 +706,17 @@
       "dest_en": "CHEUNG SHA WAN (SO UK ESTATE)",
       "dest_tc": "長沙灣(蘇屋邨)",
       "dest_sc": "长沙湾(苏屋邨)"
+    },
+    {
+      "route": "6R",
+      "bound": "O",
+      "service_type": "1",
+      "orig_en": "MEI FOO (MEI LAI ROAD)",
+      "orig_tc": "美孚(美荔道)",
+      "orig_sc": "美孚(美荔道)",
+      "dest_en": "NGONG SHUEN CHAU BARRACKS (CIRCULAR)",
+      "dest_tc": "昂船洲軍營(循環線)",
+      "dest_sc": "昂船洲军营(循环线)"
     },
     {
       "route": "6X",
@@ -1267,17 +1300,6 @@
       "dest_en": "SHUN LEE (CIRCULAR)",
       "dest_tc": "順利(循環線)",
       "dest_sc": "顺利(循环线)"
-    },
-    {
-      "route": "14S",
-      "bound": "O",
-      "service_type": "1",
-      "orig_en": "YAU TONG",
-      "orig_tc": "油塘",
-      "orig_sc": "油塘",
-      "dest_en": "TSEUNG KWAN O CHINESE PERMANENT CEMETERY(CIRCULAR)",
-      "dest_tc": "將軍澳墳場(循環線)",
-      "dest_sc": "将军澳坟场(循环线)"
     },
     {
       "route": "14X",
@@ -2749,7 +2771,7 @@
       "orig_en": "TSING YI MARKET",
       "orig_tc": "青衣街市",
       "orig_sc": "青衣街市",
-      "dest_en": "TSUEN WAN WEST STATION",
+      "dest_en": "TSUEN WAN WEST",
       "dest_tc": "荃灣西站",
       "dest_sc": "荃湾西站"
     },
@@ -3978,9 +4000,9 @@
       "route": "65K",
       "bound": "O",
       "service_type": "1",
-      "orig_en": "LAM KAM ROAD (KADOORIE FARM)",
-      "orig_tc": "林錦公路(嘉道理農場)",
-      "orig_sc": "林锦公路(嘉道理农场)",
+      "orig_en": "NG TUNG CHAI (PAK NGAU SHEK)",
+      "orig_tc": "梧桐寨 (白牛石)",
+      "orig_sc": "梧桐寨 (白牛石)",
       "dest_en": "TAI PO CENTRAL",
       "dest_tc": "大埔中心",
       "dest_sc": "大埔中心"
@@ -4391,6 +4413,17 @@
       "dest_en": "CHING HO (CIRCULAR)",
       "dest_tc": "清河(循環線)",
       "dest_sc": "清河(循环线)"
+    },
+    {
+      "route": "70K",
+      "bound": "O",
+      "service_type": "2",
+      "orig_en": "SHEUNG SHUI (CHING HO)",
+      "orig_tc": "上水(清河)",
+      "orig_sc": "上水(清河)",
+      "dest_en": "FANLING (WAH MING)",
+      "dest_tc": "粉嶺(華明)",
+      "dest_sc": "粉岭(华明)"
     },
     {
       "route": "70R",
@@ -5818,42 +5851,20 @@
       "orig_en": "MEI TIN",
       "orig_tc": "美田",
       "orig_sc": "美田",
-      "dest_en": "YUEN CHAU KOK",
-      "dest_tc": "圓洲角",
-      "dest_sc": "圆洲角"
+      "dest_en": "YU CHUI COURT",
+      "dest_tc": "愉翠苑",
+      "dest_sc": "愉翠苑"
     },
     {
       "route": "82K",
       "bound": "I",
       "service_type": "1",
-      "orig_en": "YUEN CHAU KOK",
-      "orig_tc": "圓洲角",
-      "orig_sc": "圆洲角",
+      "orig_en": "YU CHUI COURT",
+      "orig_tc": "愉翠苑",
+      "orig_sc": "愉翠苑",
       "dest_en": "MEI TIN",
       "dest_tc": "美田",
       "dest_sc": "美田"
-    },
-    {
-      "route": "82P",
-      "bound": "O",
-      "service_type": "1",
-      "orig_en": "SHEK MUN ESTATE",
-      "orig_tc": "碩門邨",
-      "orig_sc": "硕门邨",
-      "dest_en": "DIAMOND HILL STATION",
-      "dest_tc": "鑽石山站",
-      "dest_sc": "钻石山站"
-    },
-    {
-      "route": "82P",
-      "bound": "I",
-      "service_type": "1",
-      "orig_en": "DIAMOND HILL STATION",
-      "orig_tc": "鑽石山站",
-      "orig_sc": "钻石山站",
-      "dest_en": "SHEK MUN ESTATE",
-      "dest_tc": "碩門邨",
-      "dest_sc": "硕门邨"
     },
     {
       "route": "82X",
@@ -7322,9 +7333,9 @@
       "route": "98S",
       "bound": "O",
       "service_type": "1",
-      "orig_en": "LOHAS PARK STATION",
-      "orig_tc": "康城站",
-      "orig_sc": "康城站",
+      "orig_en": "HANG HAU (NORTH) (TSEUNG KWAN O HOSPITAL)",
+      "orig_tc": "坑口(北)(將軍澳醫院)",
+      "orig_sc": "坑口(北)(将军澳医院)",
       "dest_en": "MEI FOO",
       "dest_tc": "美孚",
       "dest_sc": "美孚"
@@ -7336,9 +7347,9 @@
       "orig_en": "MEI FOO",
       "orig_tc": "美孚",
       "orig_sc": "美孚",
-      "dest_en": "LOHAS PARK STATION",
-      "dest_tc": "康城站",
-      "dest_sc": "康城站"
+      "dest_en": "HANG HAU (NORTH) (TSEUNG KWAN O HOSPITAL)",
+      "dest_tc": "坑口(北)(將軍澳醫院)",
+      "dest_sc": "坑口(北)(将军澳医院)"
     },
     {
       "route": "99",
@@ -7831,28 +7842,6 @@
       "orig_en": "PING SHEK / CHOI HUNG STATION",
       "orig_tc": "坪石 / 彩虹站",
       "orig_sc": "坪石 / 彩虹站",
-      "dest_en": "CENTRAL (MACAU FERRY)",
-      "dest_tc": "中環(港澳碼頭)",
-      "dest_sc": "中环(港澳码头)"
-    },
-    {
-      "route": "111",
-      "bound": "O",
-      "service_type": "3",
-      "orig_en": "MA TAU CHUNG ROAD",
-      "orig_tc": "馬頭涌道",
-      "orig_sc": "马头涌道",
-      "dest_en": "CENTRAL (MACAU FERRY)",
-      "dest_tc": "中環(港澳碼頭)",
-      "dest_sc": "中环(港澳码头)"
-    },
-    {
-      "route": "111",
-      "bound": "O",
-      "service_type": "9",
-      "orig_en": "NING YUEN STREET, SAN PO KONG",
-      "orig_tc": "新蒲崗寧遠街",
-      "orig_sc": "新蒲岗宁远街",
       "dest_en": "CENTRAL (MACAU FERRY)",
       "dest_tc": "中環(港澳碼頭)",
       "dest_sc": "中环(港澳码头)"
@@ -8653,12 +8642,12 @@
       "route": "224X",
       "bound": "O",
       "service_type": "3",
-      "orig_en": "KAI TAK (KAI CHING ESTATE)",
-      "orig_tc": "啟德(啟晴邨)",
-      "orig_sc": "启德(启晴邨)",
-      "dest_en": "KAI YIP",
-      "dest_tc": "啟業",
-      "dest_sc": "启业"
+      "orig_en": "KAI TAK BUS TERMINUS",
+      "orig_tc": "啟德巴士總站",
+      "orig_sc": "启德巴士总站",
+      "dest_en": "TSIM SHA TSUI EAST (CIRCULAR)",
+      "dest_tc": "尖沙咀東(循環線)",
+      "dest_sc": "尖沙咀东(循环线)"
     },
     {
       "route": "225R",
@@ -11334,28 +11323,6 @@
       "dest_sc": "广源"
     },
     {
-      "route": "281M",
-      "bound": "O",
-      "service_type": "1",
-      "orig_en": "SUN TIN WAI",
-      "orig_tc": "新田圍",
-      "orig_sc": "新田围",
-      "dest_en": "KOWLOON TONG STATION",
-      "dest_tc": "九龍塘站",
-      "dest_sc": "九龙塘站"
-    },
-    {
-      "route": "281M",
-      "bound": "I",
-      "service_type": "1",
-      "orig_en": "KOWLOON TONG STATION",
-      "orig_tc": "九龍塘站",
-      "orig_sc": "九龙塘站",
-      "dest_en": "SUN TIN WAI",
-      "dest_tc": "新田圍",
-      "dest_sc": "新田围"
-    },
-    {
       "route": "281X",
       "bound": "O",
       "service_type": "1",
@@ -11475,17 +11442,6 @@
       "dest_en": "LEE ON",
       "dest_tc": "利安",
       "dest_sc": "利安"
-    },
-    {
-      "route": "286M",
-      "bound": "O",
-      "service_type": "1",
-      "orig_en": "MA ON SHAN TOWN CENTRE",
-      "orig_tc": "馬鞍山市中心",
-      "orig_sc": "马鞍山市中心",
-      "dest_en": "DIAMOND HILL STATION (CIRCULAR)",
-      "dest_tc": "鑽石山站(循環線)",
-      "dest_sc": "钻石山站(循环线)"
     },
     {
       "route": "286P",
@@ -11983,28 +11939,6 @@
       "dest_sc": "百胜角(循环线)"
     },
     {
-      "route": "298C",
-      "bound": "O",
-      "service_type": "1",
-      "orig_en": "LOHAS PARK STATION",
-      "orig_tc": "康城站",
-      "orig_sc": "康城站",
-      "dest_en": "MEI FOO",
-      "dest_tc": "美孚",
-      "dest_sc": "美孚"
-    },
-    {
-      "route": "298C",
-      "bound": "I",
-      "service_type": "1",
-      "orig_en": "MEI FOO",
-      "orig_tc": "美孚",
-      "orig_sc": "美孚",
-      "dest_en": "LOHAS PARK STATION",
-      "dest_tc": "康城站",
-      "dest_sc": "康城站"
-    },
-    {
       "route": "298E",
       "bound": "O",
       "service_type": "1",
@@ -12033,17 +11967,17 @@
       "orig_en": "HANG HAU (NORTH) (TSEUNG KWAN O HOSPITAL)",
       "orig_tc": "坑口(北)(將軍澳醫院)",
       "orig_sc": "坑口(北)(将军澳医院)",
-      "dest_en": "CHEUNG SHA WAN (KOM TSUN STREET)",
-      "dest_tc": "長沙灣(甘泉街)",
-      "dest_sc": "长沙湾(甘泉街)"
+      "dest_en": "MEI FOO",
+      "dest_tc": "美孚",
+      "dest_sc": "美孚"
     },
     {
       "route": "298X",
       "bound": "I",
       "service_type": "1",
-      "orig_en": "CHEUNG SHA WAN (KOM TSUN STREET)",
-      "orig_tc": "長沙灣(甘泉街)",
-      "orig_sc": "长沙湾(甘泉街)",
+      "orig_en": "MEI FOO",
+      "orig_tc": "美孚",
+      "orig_sc": "美孚",
       "dest_en": "HANG HAU (NORTH) (TSEUNG KWAN O HOSPITAL)",
       "dest_tc": "坑口(北)(將軍澳醫院)",
       "dest_sc": "坑口(北)(将军澳医院)"
@@ -13180,6 +13114,28 @@
       "dest_en": "FU TIP BUS TERMINUS",
       "dest_tc": "富蝶總站",
       "dest_sc": "富蝶总站"
+    },
+    {
+      "route": "907D",
+      "bound": "O",
+      "service_type": "1",
+      "orig_en": "TAI PO (TING TAI ROAD)",
+      "orig_tc": "大埔 (汀太路)",
+      "orig_sc": "大埔 (汀太路)",
+      "dest_en": "SIU SAI WAN",
+      "dest_tc": "小西灣",
+      "dest_sc": "小西湾"
+    },
+    {
+      "route": "907D",
+      "bound": "I",
+      "service_type": "1",
+      "orig_en": "SIU SAI WAN",
+      "orig_tc": "小西灣",
+      "orig_sc": "小西湾",
+      "dest_en": "TAI PO (TING TAI ROAD)",
+      "dest_tc": "大埔 (汀太路)",
+      "dest_sc": "大埔 (汀太路)"
     },
     {
       "route": "914",
@@ -14669,7 +14625,29 @@
     {
       "route": "A47X",
       "bound": "O",
+      "service_type": "2",
+      "orig_en": "TAI PO (TAI WO)",
+      "orig_tc": "大埔(太和)",
+      "orig_sc": "大埔(太和)",
+      "dest_en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
+      "dest_tc": "機場(地面運輸中心)",
+      "dest_sc": "机场(地面运输中心)"
+    },
+    {
+      "route": "A47X",
+      "bound": "O",
       "service_type": "3",
+      "orig_en": "TAI PO (TAI WO)",
+      "orig_tc": "大埔(太和)",
+      "orig_sc": "大埔(太和)",
+      "dest_en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
+      "dest_tc": "機場(地面運輸中心)",
+      "dest_sc": "机场(地面运输中心)"
+    },
+    {
+      "route": "A47X",
+      "bound": "O",
+      "service_type": "4",
       "orig_en": "TAI PO (TAI WO)",
       "orig_tc": "大埔(太和)",
       "orig_sc": "大埔(太和)",
@@ -14691,7 +14669,29 @@
     {
       "route": "A47X",
       "bound": "I",
+      "service_type": "2",
+      "orig_en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
+      "orig_tc": "機場(地面運輸中心)",
+      "orig_sc": "机场(地面运输中心)",
+      "dest_en": "TAI PO (TAI WO)",
+      "dest_tc": "大埔(太和)",
+      "dest_sc": "大埔(太和)"
+    },
+    {
+      "route": "A47X",
+      "bound": "I",
       "service_type": "3",
+      "orig_en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
+      "orig_tc": "機場(地面運輸中心)",
+      "orig_sc": "机场(地面运输中心)",
+      "dest_en": "TAI PO (TAI WO)",
+      "dest_tc": "大埔(太和)",
+      "dest_sc": "大埔(太和)"
+    },
+    {
+      "route": "A47X",
+      "bound": "I",
+      "service_type": "4",
       "orig_en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
       "orig_tc": "機場(地面運輸中心)",
       "orig_sc": "机场(地面运输中心)",
@@ -15737,9 +15737,9 @@
       "route": "N307",
       "bound": "O",
       "service_type": "1",
-      "orig_en": "TAI PO CENTRAL",
-      "orig_tc": "大埔中心",
-      "orig_sc": "大埔中心",
+      "orig_en": "TAI WO",
+      "orig_tc": "太和",
+      "orig_sc": "太和",
       "dest_en": "SHEUNG WAN",
       "dest_tc": "上環",
       "dest_sc": "上环"
@@ -15751,9 +15751,9 @@
       "orig_en": "CENTRAL (MACAU FERRY)",
       "orig_tc": "中環(港澳碼頭)",
       "orig_sc": "中环(港澳码头)",
-      "dest_en": "TAI PO CENTRAL",
-      "dest_tc": "大埔中心",
-      "dest_sc": "大埔中心"
+      "dest_en": "TAI WO",
+      "dest_tc": "太和",
+      "dest_sc": "太和"
     },
     {
       "route": "N31",
@@ -16359,6 +16359,72 @@
       "dest_en": "YUEN LONG (WEST)",
       "dest_tc": "元朗(西)",
       "dest_sc": "元朗(西)"
+    },
+    {
+      "route": "PB1",
+      "bound": "O",
+      "service_type": "1",
+      "orig_en": "YUEN LONG (YOHO MALL I)",
+      "orig_tc": "元朗(形點)",
+      "orig_sc": "元朗(形点)",
+      "dest_en": "TSUEN WAN(From Yuen Long) (Circular)",
+      "dest_tc": "荃灣  (由元朗出發 循環行走)",
+      "dest_sc": "荃湾  (由元朗出发 循环行走)"
+    },
+    {
+      "route": "PB2",
+      "bound": "O",
+      "service_type": "1",
+      "orig_en": "MA WAN",
+      "orig_tc": "馬灣",
+      "orig_sc": "马湾",
+      "dest_en": "CENTRAL(From Ma Wan) (Circular)",
+      "dest_tc": "中環 (由馬灣出發 循環行走)",
+      "dest_sc": "中环 (由马湾出发 循环行走)"
+    },
+    {
+      "route": "PB3",
+      "bound": "O",
+      "service_type": "1",
+      "orig_en": "TAI PO MEGA MALL (TAI WO ROAD)",
+      "orig_tc": "大埔超級城(太和路)",
+      "orig_sc": "大埔超级城(太和路)",
+      "dest_en": "TSUEN WAN(From Tai Po) (Circular)",
+      "dest_tc": "荃灣 (由大埔出發 循環行走)",
+      "dest_sc": "荃湾 (由大埔出发 循环行走)"
+    },
+    {
+      "route": "PB4",
+      "bound": "O",
+      "service_type": "1",
+      "orig_en": "TUEN MUN STATION",
+      "orig_tc": "屯門站",
+      "orig_sc": "屯门站",
+      "dest_en": "TSUEN WAN (From Tuen Mun) (Circular)",
+      "dest_tc": "荃灣(由屯門出發 循環行走)",
+      "dest_sc": "荃湾(由屯门出发 循环行走)"
+    },
+    {
+      "route": "PB5",
+      "bound": "O",
+      "service_type": "1",
+      "orig_en": "SHA TIN TOWN HALL",
+      "orig_tc": "沙田大會堂",
+      "orig_sc": "沙田大会堂",
+      "dest_en": "SAI KUNG (From Sha Tin) (Circular)",
+      "dest_tc": "西貢 (由沙田出發 循環行走)",
+      "dest_sc": "西贡 (由沙田出发 循环行走)"
+    },
+    {
+      "route": "PB6",
+      "bound": "O",
+      "service_type": "1",
+      "orig_en": "TSEUNG KWAN O (TONG CHUN STREET)",
+      "orig_tc": "將軍澳(唐俊街)",
+      "orig_sc": "将军澳(唐俊街)",
+      "dest_en": "CENTRAL (From Tseung Kwan O)(Circular)",
+      "dest_tc": "中環(由將軍澳出發循環行走)",
+      "dest_sc": "中环(由将军澳出发循环行走)"
     },
     {
       "route": "R33",

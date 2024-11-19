@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:03:48.796+08:00",
+  "generated_timestamp": "2024-11-17T10:26:44.081+08:00",
   "data": {
     "route_stops": [
       {
@@ -68,6 +68,6 @@
         "name_en": "Lei Muk Road near Shek Yam Shopping Centre"
       }
     ],
-    "data_timestamp": "2024-04-21T00:00:39.013+08:00"
+    "data_timestamp": "2024-11-06T17:53:05.956+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:04:28.509+08:00",
+  "generated_timestamp": "2024-11-17T10:27:20.040+08:00",
   "data": {
     "route_stops": [
       {
@@ -33,6 +33,6 @@
         "name_en": "Fung Cheung Road Green Minibus Terminus"
       }
     ],
-    "data_timestamp": "2024-05-30T10:48:46.393+08:00"
+    "data_timestamp": "2024-11-13T13:56:22.920+08:00"
   }
 }

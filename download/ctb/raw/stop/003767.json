@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-10-26T19:57:39+08:00",
+  "generated_timestamp": "2024-11-16T19:42:05+08:00",
   "data": {
     "stop": "003767",
     "name_tc": "NOVO LAND, 欣寶路",
@@ -9,6 +9,6 @@
     "lat": "22.411996442091",
     "long": "113.97034985053",
     "name_sc": "NOVO LAND, 欣宝路",
-    "data_timestamp": "2024-10-26T05:00:03+08:00"
+    "data_timestamp": "2024-11-16T05:00:03+08:00"
   }
 }

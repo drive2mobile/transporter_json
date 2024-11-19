@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:02:35.706+08:00",
+  "generated_timestamp": "2024-11-17T10:25:37.009+08:00",
   "data": {
     "route_stops": [
       {
@@ -13,33 +13,47 @@
       },
       {
         "stop_seq": 2,
+        "stop_id": 20020161,
+        "name_tc": "利安道西行線近利業樓",
+        "name_sc": "利安道西行线近利业楼",
+        "name_en": "Lee On Road westbound outside Lee Yip House"
+      },
+      {
+        "stop_seq": 3,
         "stop_id": 20000952,
         "name_tc": "利安道, 近順利邨利恒樓",
         "name_sc": "利安道, 近顺利邨利恒楼",
         "name_en": "Lee On Road, near Lee Hang House, Shun Lee Estate"
       },
       {
-        "stop_seq": 3,
+        "stop_seq": 4,
         "stop_id": 20006002,
         "name_tc": "清水灣道, 近清水灣道8號",
         "name_sc": "清水湾道, 近清水湾道8号",
         "name_en": "Clear Water Bay Road, near 8 Clear Water Bay Road"
       },
       {
-        "stop_seq": 4,
+        "stop_seq": 5,
         "stop_id": 20000983,
         "name_tc": "秀茂坪道, 近順天邨天池樓",
         "name_sc": "秀茂坪道, 近顺天邨天池楼",
         "name_en": "Sau Mau Ping Road, near Tin Chi House, Shun Tin Estate"
       },
       {
-        "stop_seq": 5,
+        "stop_seq": 6,
+        "stop_id": 20020164,
+        "name_tc": "順安道西行線近天韻樓",
+        "name_sc": "顺安道西行线近天韵楼",
+        "name_en": "Shun On Road westbound near Tin Wan House"
+      },
+      {
+        "stop_seq": 7,
         "stop_id": 20000953,
         "name_tc": "順安道, 近順天邨天榮樓",
         "name_sc": "顺安道, 近顺天邨天荣楼",
         "name_en": "Shun On Road, near Tin Wing House, Shun Tin Estate"
       }
     ],
-    "data_timestamp": "2024-07-31T15:36:59.890+08:00"
+    "data_timestamp": "2024-10-31T12:01:37.474+08:00"
   }
 }

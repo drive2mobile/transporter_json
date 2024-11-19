@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:05:07.383+08:00",
+  "generated_timestamp": "2024-11-17T10:27:56.704+08:00",
   "data": {
     "route_stops": [
       {
@@ -40,6 +40,6 @@
         "name_en": "Rambler Crest Tower 3"
       }
     ],
-    "data_timestamp": "2024-06-03T15:39:49.374+08:00"
+    "data_timestamp": "2024-11-05T17:25:34.860+08:00"
   }
 }

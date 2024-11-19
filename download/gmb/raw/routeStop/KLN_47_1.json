@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:02:33.067+08:00",
+  "generated_timestamp": "2024-11-17T10:25:34.279+08:00",
   "data": {
     "route_stops": [
       {
@@ -96,6 +96,6 @@
         "name_en": "Lee On Road, near Lee Ming House, Shun Lee Estate"
       }
     ],
-    "data_timestamp": "2024-09-30T17:51:15.443+08:00"
+    "data_timestamp": "2024-11-13T15:05:22.088+08:00"
   }
 }

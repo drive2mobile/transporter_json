@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:03:02.183+08:00",
+  "generated_timestamp": "2024-11-17T10:25:58.465+08:00",
   "data": {
     "route_stops": [
       {
@@ -173,6 +173,6 @@
         "name_en": "NGAN O ROAD, near Hei Ming House, YUK MING COURT"
       }
     ],
-    "data_timestamp": "2024-09-10T18:26:28.078+08:00"
+    "data_timestamp": "2024-11-15T18:02:50.419+08:00"
   }
 }

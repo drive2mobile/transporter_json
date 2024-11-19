@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:05:12.898+08:00",
+  "generated_timestamp": "2024-11-17T10:28:02.473+08:00",
   "data": {
     "route_stops": [
       {
@@ -13,40 +13,47 @@
       },
       {
         "stop_seq": 2,
+        "stop_id": 20020133,
+        "name_tc": "楊屋道樂悠居對面",
+        "name_sc": "杨屋道乐悠居对面",
+        "name_en": "Yeung Uk Road opposite to Indi Home"
+      },
+      {
+        "stop_seq": 3,
         "stop_id": 20001690,
         "name_tc": "葵福路, 晉昇工廠大廈對面",
         "name_sc": "葵福路, 晋昇工厂大厦对面",
         "name_en": "Kwai Fuk Road, opposite Chun Shing Factory Estate"
       },
       {
-        "stop_seq": 3,
+        "stop_seq": 4,
         "stop_id": 20001817,
         "name_tc": "葵福路, 葵盛游泳池外",
         "name_sc": "葵福路, 葵盛游泳池外",
         "name_en": "Kwai Fuk Road, outside Kwai Shing Swimming Pool"
       },
       {
-        "stop_seq": 4,
+        "stop_seq": 5,
         "stop_id": 20001818,
         "name_tc": "葵福路, 葵涌運動場外",
         "name_sc": "葵福路, 葵涌运动场外",
         "name_en": "Kwai Fuk Road, outside Kwai Chung Sports Ground"
       },
       {
-        "stop_seq": 5,
+        "stop_seq": 6,
         "stop_id": 20001819,
         "name_tc": "葵福路, 葵青劇院外",
         "name_sc": "葵福路, 葵青剧院外",
         "name_en": "Kwai Fuk Road, outside Kwai Tsing Theatre"
       },
       {
-        "stop_seq": 6,
+        "stop_seq": 7,
         "stop_id": 20013664,
         "name_tc": "荔崗街,近瑪嘉烈醫院荔景大樓",
         "name_sc": "荔岗街,近玛嘉烈医院荔景大楼",
         "name_en": "LAI KONG STREET, near Princess Margaret Hospital Lai King Building"
       }
     ],
-    "data_timestamp": "2024-10-30T11:55:43.675+08:00"
+    "data_timestamp": "2024-11-05T17:32:49.866+08:00"
   }
 }

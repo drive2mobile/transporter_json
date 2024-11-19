@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:01:56.439+08:00",
+  "generated_timestamp": "2024-11-17T10:24:59.872+08:00",
   "data": {
     "route_stops": [
       {
@@ -96,6 +96,6 @@
         "name_en": "Queen Mary Hospital, outside Block K"
       }
     ],
-    "data_timestamp": "2024-09-17T10:42:13.929+08:00"
+    "data_timestamp": "2024-11-15T17:08:56.993+08:00"
   }
 }

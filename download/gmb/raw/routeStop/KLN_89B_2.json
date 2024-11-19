@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:02:52.818+08:00",
+  "generated_timestamp": "2024-11-17T10:25:53.583+08:00",
   "data": {
     "route_stops": [
       {
@@ -110,6 +110,6 @@
         "name_en": "On Yan Street, near Hang Tai House"
       }
     ],
-    "data_timestamp": "2024-10-22T14:16:10.201+08:00"
+    "data_timestamp": "2024-10-31T17:21:02.020+08:00"
   }
 }

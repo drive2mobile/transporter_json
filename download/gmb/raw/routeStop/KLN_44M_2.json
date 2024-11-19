@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:02:32.101+08:00",
+  "generated_timestamp": "2024-11-17T10:25:33.240+08:00",
   "data": {
     "route_stops": [
       {
@@ -13,26 +13,40 @@
       },
       {
         "stop_seq": 2,
+        "stop_id": 20012318,
+        "name_tc": "長義街, 近D2 Place",
+        "name_sc": "长义街, 近D2 Place",
+        "name_en": "Cheung Yee Street near D2 Place"
+      },
+      {
+        "stop_seq": 3,
         "stop_id": 20012316,
         "name_tc": "興華街西, 興華街西遊樂場外",
         "name_sc": "兴华街西, 兴华街西游乐场外 ",
         "name_en": "HING WAH STREET WEST, outside Hing Wah Street West Playground"
       },
       {
-        "stop_seq": 3,
+        "stop_seq": 4,
         "stop_id": 20012317,
         "name_tc": "興華街西近信德中旅船務管理有限公司",
         "name_sc": "兴华街西近信德中旅船务管理有限公司 ",
         "name_en": "HING WAH STREET WEST near Shun Tak-China Travel Ship Management Limited"
       },
       {
-        "stop_seq": 4,
+        "stop_seq": 5,
+        "stop_id": 20020227,
+        "name_tc": "昂船路昂船洲污水處理廠外",
+        "name_sc": "昂船路昂船洲污水处理厂外",
+        "name_en": "Ngong Shung Road outside Stonecutters Island Sewage Treatment Works"
+      },
+      {
+        "stop_seq": 6,
         "stop_id": 20012307,
         "name_tc": "昂船路近政府船塢海康樓",
         "name_sc": "昂船路近政府船坞海康楼",
         "name_en": "NGONG SHUNG ROAD near Hoi Hong Lau, Government Dockyard"
       }
     ],
-    "data_timestamp": "2024-08-07T17:33:18.060+08:00"
+    "data_timestamp": "2024-11-05T10:04:10.649+08:00"
   }
 }

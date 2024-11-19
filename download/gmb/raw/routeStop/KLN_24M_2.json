@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:02:18.790+08:00",
+  "generated_timestamp": "2024-11-17T10:25:18.910+08:00",
   "data": {
     "route_stops": [
       {
@@ -82,6 +82,6 @@
         "name_en": "Pik Wan Road, Near Pik Wan Road Sitting - Out Area"
       }
     ],
-    "data_timestamp": "2024-10-29T22:46:34.406+08:00"
+    "data_timestamp": "2024-11-13T18:30:25.994+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:03:41.612+08:00",
+  "generated_timestamp": "2024-11-17T10:26:34.180+08:00",
   "data": {
     "route_stops": [
       {
@@ -33,6 +33,6 @@
         "name_en": "Kung Um Road, near Pui Hong Kui"
       }
     ],
-    "data_timestamp": "2024-03-18T14:17:12.436+08:00"
+    "data_timestamp": "2024-11-13T13:51:12.382+08:00"
   }
 }

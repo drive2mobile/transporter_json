@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:05:06.139+08:00",
+  "generated_timestamp": "2024-11-17T10:27:55.467+08:00",
   "data": {
     "route_stops": [
       {
@@ -40,6 +40,6 @@
         "name_en": "Kwai Yan Road, Near Kwai Fong Station"
       }
     ],
-    "data_timestamp": "2024-06-03T15:39:49.374+08:00"
+    "data_timestamp": "2024-11-05T17:23:10.026+08:00"
   }
 }

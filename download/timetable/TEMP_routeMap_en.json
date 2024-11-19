@@ -2604,77 +2604,77 @@
     "to": "TUEN MUN (LUNG MUN OASIS)"
   },
   "1723": {
-    "meta": "NLB_1",
+    "meta": "nlb_1",
     "from": "MUI WO FERRY PIER",
     "to": "TAI O"
   },
   "1724": {
-    "meta": "NLB_11",
+    "meta": "nlb_11",
     "from": "TUNG CHUNG STATION BUS TERMINUS",
     "to": "TAI O"
   },
   "1725": {
-    "meta": "NLB_2",
+    "meta": "nlb_2",
     "from": "MUI WO FERRY PIER",
     "to": "NGONG PING"
   },
   "1726": {
-    "meta": "NLB_21",
+    "meta": "nlb_21",
     "from": "TAI O",
     "to": "NGONG PING"
   },
   "1727": {
-    "meta": "NLB_23",
+    "meta": "nlb_23",
     "from": "TUNG CHUNG TAT TUNG ROAD BUS TERMINUS",
     "to": "NGONG PING"
   },
   "1728": {
-    "meta": "NLB_34",
+    "meta": "nlb_34",
     "from": "TUNG CHUNG TAT TUNG ROAD BUS TERMINUS",
     "to": "SHEK MUN KAP"
   },
   "1729": {
-    "meta": "NLB_36",
+    "meta": "nlb_36",
     "from": "TUNG CHUNG TAT TUNG ROAD BUS TERMINUS",
     "to": "DISNEYLAND"
   },
   "1731": {
-    "meta": "NLB_38",
+    "meta": "nlb_38",
     "from": "YAT TUNG ESTATE",
     "to": "TUNG CHUNG STATION BUS TERMINUS (CIRCULAR)"
   },
   "1732": {
-    "meta": "NLB_3M",
+    "meta": "nlb_3M",
     "from": "MUI WO FERRY PIER",
     "to": "TUNG CHUNG STATION BUS TERMINUS"
   },
   "1733": {
-    "meta": "NLB_4",
+    "meta": "nlb_4",
     "from": "MUI WO FERRY PIER",
     "to": "SHUI HAU"
   },
   "1734": {
-    "meta": "NLB_A35",
+    "meta": "nlb_A35",
     "from": "MUI WO FERRY PIER",
     "to": "HZMB HONG KONG PORT"
   },
   "1735": {
-    "meta": "NLB_B2",
+    "meta": "nlb_B2",
     "from": "YUEN LONG STATION",
     "to": "SHENZHEN BAY PORT"
   },
   "1736": {
-    "meta": "NLB_N1",
+    "meta": "nlb_N1",
     "from": "MUI WO FERRY PIER",
     "to": "TAI O"
   },
   "1737": {
-    "meta": "NLB_N35",
+    "meta": "nlb_N35",
     "from": "MUI WO FERRY PIER",
     "to": "HZMB HONG KONG PORT"
   },
   "1738": {
-    "meta": "NLB_N38",
+    "meta": "nlb_N38",
     "from": "YAT TUNG ESTATE",
     "to": "TUNG CHUNG STATION BUS TERMINUS"
   },
@@ -3102,12 +3102,12 @@
     "to": "TIN SHUI WAI (TIN SHUI ESTATE)"
   },
   "1959": {
-    "meta": "NLB_37P",
+    "meta": "nlb_37P",
     "from": "YUNG YAT HOUSE (YU TUNG ROAD)",
     "to": "CARIBBEAN COAST"
   },
   "1961": {
-    "meta": "NLB_38X",
+    "meta": "nlb_38X",
     "from": "YAT TUNG ESTATE (YU TUNG ROAD)",
     "to": "TUNG CHUNG STATION BUS TERMINUS (CIRCULAR)"
   },
@@ -3447,12 +3447,12 @@
     "to": "SIU SAI WAN (ISLAND RESORT)"
   },
   "8068": {
-    "meta": "NLB_B2P",
+    "meta": "nlb_B2P",
     "from": "TIN SHUI WAI (TIN TSZ ESTATE)",
     "to": "SHENZHEN BAY PORT"
   },
   "8071": {
-    "meta": "NLB_1R",
+    "meta": "nlb_1R",
     "from": "HUNG HOM (HUNG LUEN ROAD)",
     "to": "NGONG PING"
   },
@@ -3836,7 +3836,7 @@
     "to": "TAI WAI STATION"
   },
   "8186": {
-    "meta": "NLB_B2X",
+    "meta": "nlb_B2X",
     "from": "TIN SHUI WAI (TIN YIU ESTATE)",
     "to": "SHENZHEN BAY PORT"
   },
@@ -3911,7 +3911,7 @@
     "to": "TSUI LAI GARDEN"
   },
   "8205": {
-    "meta": "NLB_37",
+    "meta": "nlb_37",
     "from": "YAT TUNG ESTATE",
     "to": "YING TUNG ESTATE (VIA CHUNG MUN ROAD)"
   },
@@ -4011,7 +4011,7 @@
     "to": "CHOI FOOK (VIA NGAU TAU KOK TERMINUS)"
   },
   "8232": {
-    "meta": "NLB_11A",
+    "meta": "nlb_11A",
     "from": "TUNG CHUNG STATION BUS TERMINUS",
     "to": "SHEK PIK"
   },
@@ -4201,7 +4201,7 @@
     "to": "KWUN TONG FERRY PIER"
   },
   "8290": {
-    "meta": "NLB_37H",
+    "meta": "nlb_37H",
     "from": "YING TUNG ESTATE",
     "to": "NORTH LANTAU HOSPITAL (CIRCULAR)"
   },
@@ -4326,7 +4326,7 @@
     "to": "AIRPORT (PASSENGER TERMINAL BUILDING) (TERMINATED AT YU NGA SHOPPING CENTRE)"
   },
   "8327": {
-    "meta": "NLB_34",
+    "meta": "nlb_34",
     "from": "SHEK MUN KAP",
     "to": "TUNG CHUNG TAT TUNG ROAD BUS TERMINUS (OMIT CHEK LAP KOK NEW VILLAGE)"
   },
@@ -4346,7 +4346,7 @@
     "to": "ADMIRALTY (RODNEY STREET) (OMIT FULLVIEW GARDEN)"
   },
   "8331": {
-    "meta": "NLB_37M",
+    "meta": "nlb_37M",
     "from": "YING TUNG ESTATE",
     "to": "TUNG CHUNG TOWN CENTRE (CIRCULAR) (OMIT YU NGA COURT AND YU NGA SHOPPING CENTRE)"
   },
@@ -4701,7 +4701,7 @@
     "to": "SO KWUN WAT"
   },
   "8424": {
-    "meta": "NLB_37S",
+    "meta": "nlb_37S",
     "from": "TUNG CHUNG DEVELOPMENT FERRY PIER",
     "to": "TUNG CHUNG STATION BUS TERMINUS"
   },
@@ -5036,7 +5036,7 @@
     "to": "LAM TIN STATION"
   },
   "8533": {
-    "meta": "NLB_4",
+    "meta": "nlb_4",
     "from": "MUI WO FERRY PIER",
     "to": "TONG FUK"
   },
@@ -5145,82 +5145,82 @@
     "to": "CAUSEWAY BAY (VICTORIA PARK)"
   },
   "8560": {
-    "meta": "NLB_11",
+    "meta": "nlb_11",
     "from": "TUNG CHUNG STATION BUS TERMINUS",
     "to": "TAI O (VIA SHA TSUI CORRECTIONAL INSTITUTION)"
   },
   "8561": {
-    "meta": "NLB_11",
+    "meta": "nlb_11",
     "from": "TUNG CHUNG STATION BUS TERMINUS",
     "to": "TAI O (VIA TONG FUK CORRECTIONAL INSTITUTION)"
   },
   "8562": {
-    "meta": "NLB_11",
+    "meta": "nlb_11",
     "from": "TUNG CHUNG STATION BUS TERMINUS",
     "to": "TAI O (VIA SHA TSUI CORRECTIONAL INSTITUTION AND TONG FUK CORRECTIONAL INSTITUTION)"
   },
   "8563": {
-    "meta": "NLB_11",
+    "meta": "nlb_11",
     "from": "SHUI HAU",
     "to": "TUNG CHUNG STATION BUS TERMINUS (SCHOOL DAY SERVICE)"
   },
   "8564": {
-    "meta": "NLB_11",
+    "meta": "nlb_11",
     "from": "SHUI HAU",
     "to": "TUNG CHUNG STATION BUS TERMINUS"
   },
   "8565": {
-    "meta": "NLB_11A",
+    "meta": "nlb_11A",
     "from": "TUNG CHUNG STATION BUS TERMINUS",
     "to": "SHEK PIK (VIA TONG FUK CORRECTIONAL INSTITUTION)"
   },
   "8566": {
-    "meta": "NLB_11",
+    "meta": "nlb_11",
     "from": "TUNG CHUNG STATION BUS TERMINUS",
     "to": "TAI O (VIA NORTH LANTAU HOSPITAL)"
   },
   "8567": {
-    "meta": "NLB_1",
+    "meta": "nlb_1",
     "from": "MUI WO FERRY PIER",
     "to": "TAI O (VIA SHA TSUI CORRECTIONAL INSTITUTION)"
   },
   "8568": {
-    "meta": "NLB_1",
+    "meta": "nlb_1",
     "from": "MUI WO FERRY PIER",
     "to": "TAI O (VIA MUI WO OLD TOWN)"
   },
   "8569": {
-    "meta": "NLB_1",
+    "meta": "nlb_1",
     "from": "MUI WO FERRY PIER",
     "to": "TAI O (VIA SHA TSUI CORRECTIONAL INSTITUTION AND MUI WO OLD TOWN)"
   },
   "8570": {
-    "meta": "NLB_1",
+    "meta": "nlb_1",
     "from": "MUI WO FERRY PIER",
     "to": "TAI O (VIA TONG FUK CORRECTIONAL INSTITUTION)"
   },
   "8571": {
-    "meta": "NLB_3M",
+    "meta": "nlb_3M",
     "from": "MUI WO FERRY PIER",
     "to": "TUNG CHUNG STATION BUS TERMINUS (VIA NORTH LANTAU HOSPITAL)"
   },
   "8572": {
-    "meta": "NLB_3M",
+    "meta": "nlb_3M",
     "from": "PUI O (LO WAI TSUEN)",
     "to": "TUNG CHUNG STATION BUS TERMINUS"
   },
   "8573": {
-    "meta": "NLB_4",
+    "meta": "nlb_4",
     "from": "TONG FUK",
     "to": "MUI WO FERRY PIER (VIA MUI WO OLD TOWN)"
   },
   "8574": {
-    "meta": "NLB_A35",
+    "meta": "nlb_A35",
     "from": "MUI WO FERRY PIER",
     "to": "HZMB HONG KONG PORT (VIA MUI WO OLD TOWN)"
   },
   "8575": {
-    "meta": "NLB_A35",
+    "meta": "nlb_A35",
     "from": "MUI WO FERRY PIER",
     "to": "HZMB HONG KONG PORT (VIA TUNG CHUNG TOWN CENTRE)"
   },
@@ -5460,7 +5460,7 @@
     "to": "SHAU KEI WAN"
   },
   "8633": {
-    "meta": "NLB_B4",
+    "meta": "nlb_B4",
     "from": "HZMB HONG KONG PORT",
     "to": "AIRPORT (PASSENGER TERMINAL BUILDING) (CIRCULAR)"
   },
@@ -5470,7 +5470,7 @@
     "to": "SUNNY BAY STATION"
   },
   "8635": {
-    "meta": "NLB_B6",
+    "meta": "nlb_B6",
     "from": "MUN TUNG ESTATE",
     "to": "HZMB HONG KONG PORT"
   },
@@ -5515,7 +5515,7 @@
     "to": "YU CHUI COURT"
   },
   "8645": {
-    "meta": "NLB_39M",
+    "meta": "nlb_39M",
     "from": "TUNG CHUNG STATION BUS TERMINUS",
     "to": "MUN TUNG ESTATE (CIRCULAR)"
   },
@@ -5730,7 +5730,7 @@
     "to": "AIRCRAFT MAINTENANCE AREAIS"
   },
   "8707": {
-    "meta": "NLB_N37",
+    "meta": "nlb_N37",
     "from": "YING TUNG ESTATE",
     "to": "TUNG CHUNG TOWN CENTRE (CIRCULAR)"
   },
@@ -6368,12 +6368,12 @@
     "to": "LAM TIN (KWONG TIN ESTATE)"
   },
   "1000069": {
-    "meta": "NLB_11",
+    "meta": "nlb_11",
     "from": "SHA TSUI CORRECTIONAL INSTITUTION",
     "to": "TUNG CHUNG STATION BUS TERMINUS"
   },
   "1000070": {
-    "meta": "NLB_11",
+    "meta": "nlb_11",
     "from": "SHA TSUI CORRECTIONAL INSTITUTION",
     "to": "TUNG CHUNG STATION BUS TERMINUS (VIA TONG FUK CORRECTIONAL INSTITUTION)"
   },
@@ -6643,12 +6643,12 @@
     "to": "LEI YUE MUN ESTATE"
   },
   "1000207": {
-    "meta": "NLB_36",
+    "meta": "nlb_36",
     "from": "SIU HO WAN",
     "to": "TUNG CHUNG TAT TUNG ROAD BUS TERMINUS"
   },
   "1000208": {
-    "meta": "NLB_36X",
+    "meta": "nlb_36X",
     "from": "MUN TUNG ESTATE",
     "to": "DISNEYLAND"
   },
@@ -6908,7 +6908,7 @@
     "to": "MONG KOK (PARK AVENUE)"
   },
   "1000267": {
-    "meta": "NLB_37",
+    "meta": "nlb_37",
     "from": "YAT TUNG ESTATE",
     "to": "YING TUNG ESTATE (OMIT CHUNG MUN ROAD & TUNG CHUNG TOWN CENTRE)"
   },
@@ -7028,7 +7028,7 @@
     "to": "MONG KOK EAST STATION"
   },
   "1000291": {
-    "meta": "NLB_37H",
+    "meta": "nlb_37H",
     "from": "MUN TUNG ESTATE",
     "to": "YING TUNG ESTATE"
   },
@@ -7288,12 +7288,12 @@
     "to": "LEK YUEN (VIA WETLAND PARK ROAD"
   },
   "1000358": {
-    "meta": "NLB_37M",
+    "meta": "nlb_37M",
     "from": "YING TUNG ESTATE",
     "to": "TUNG CHUNG TOWN CENTRE (CIRCULAR)"
   },
   "1000359": {
-    "meta": "NLB_37A",
+    "meta": "nlb_37A",
     "from": "YU NGA COURT",
     "to": "TUNG CHUNG STATION"
   },
@@ -7538,7 +7538,7 @@
     "to": "HONG KONG PALACE MUSEUM (CIRCULAR)"
   },
   "1000436": {
-    "meta": "NLB_37A",
+    "meta": "nlb_37A",
     "from": "YU NGA COURT",
     "to": "TUNG CHUNG STATION (TO TUNG CHUNG STATION ONLY)"
   },
@@ -7558,7 +7558,7 @@
     "to": "KWUN TONG FERRY"
   },
   "1000442": {
-    "meta": "NLB_X11R",
+    "meta": "nlb_X11R",
     "from": "SHERATON HONG KONG TUNG CHUNG HOTEL",
     "to": "TAI O"
   },
@@ -7603,7 +7603,7 @@
     "to": "MEI TIN"
   },
   "1000451": {
-    "meta": "NLB_39M",
+    "meta": "nlb_39M",
     "from": "MUN TUNG ESTATE",
     "to": "TUNG CHUNG STATION BUS TERMINUS"
   },

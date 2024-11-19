@@ -638,6 +638,28 @@
     "serviceType": "1"
   },
   {
+    "id": "kmb_6E_O_1",
+    "company": "kmb",
+    "route": "6E",
+    "from_tc": "長沙灣(蘇屋邨)",
+    "from_en": "CHEUNG SHA WAN (SO UK ESTATE)",
+    "to_tc": "鯉魚門邨",
+    "to_en": "LEI YUE MUN ESTATE",
+    "dir": "I",
+    "serviceType": "1"
+  },
+  {
+    "id": "kmb_6E_I_1",
+    "company": "kmb",
+    "route": "6E",
+    "from_tc": "鯉魚門邨",
+    "from_en": "LEI YUE MUN ESTATE",
+    "to_tc": "長沙灣(蘇屋邨)",
+    "to_en": "CHEUNG SHA WAN (SO UK ESTATE)",
+    "dir": "I",
+    "serviceType": "1"
+  },
+  {
     "id": "kmb_6F_O_1",
     "company": "kmb",
     "route": "6F",
@@ -678,6 +700,17 @@
     "from_en": "LEI YUE MUN ESTATE",
     "to_tc": "長沙灣(蘇屋邨)",
     "to_en": "CHEUNG SHA WAN (SO UK ESTATE)",
+    "dir": "I",
+    "serviceType": "1"
+  },
+  {
+    "id": "kmb_6R_O_1",
+    "company": "kmb",
+    "route": "6R",
+    "from_tc": "美孚(美荔道)",
+    "from_en": "MEI FOO (MEI LAI ROAD)",
+    "to_tc": "昂船洲軍營(循環線)",
+    "to_en": "NGONG SHUEN CHAU BARRACKS (CIRCULAR)",
     "dir": "I",
     "serviceType": "1"
   },
@@ -1261,17 +1294,6 @@
     "from_en": "YAU TONG",
     "to_tc": "順利(循環線)",
     "to_en": "SHUN LEE (CIRCULAR)",
-    "dir": "I",
-    "serviceType": "1"
-  },
-  {
-    "id": "kmb_14S_O_1",
-    "company": "kmb",
-    "route": "14S",
-    "from_tc": "油塘",
-    "from_en": "YAU TONG",
-    "to_tc": "將軍澳墳場(循環線)",
-    "to_en": "TSEUNG KWAN O CHINESE PERMANENT CEMETERY(CIRCULAR)",
     "dir": "I",
     "serviceType": "1"
   },
@@ -2745,7 +2767,7 @@
     "from_tc": "青衣街市",
     "from_en": "TSING YI MARKET",
     "to_tc": "荃灣西站",
-    "to_en": "TSUEN WAN WEST STATION",
+    "to_en": "TSUEN WAN WEST",
     "dir": "I",
     "serviceType": "2"
   },
@@ -3974,8 +3996,8 @@
     "id": "kmb_65K_O_1",
     "company": "kmb",
     "route": "65K",
-    "from_tc": "林錦公路(嘉道理農場)",
-    "from_en": "LAM KAM ROAD (KADOORIE FARM)",
+    "from_tc": "梧桐寨 (白牛石)",
+    "from_en": "NG TUNG CHAI (PAK NGAU SHEK)",
     "to_tc": "大埔中心",
     "to_en": "TAI PO CENTRAL",
     "dir": "I",
@@ -4387,6 +4409,17 @@
     "to_en": "CHING HO (CIRCULAR)",
     "dir": "I",
     "serviceType": "1"
+  },
+  {
+    "id": "kmb_70K_O_2",
+    "company": "kmb",
+    "route": "70K",
+    "from_tc": "上水(清河)",
+    "from_en": "SHEUNG SHUI (CHING HO)",
+    "to_tc": "粉嶺(華明)",
+    "to_en": "FANLING (WAH MING)",
+    "dir": "I",
+    "serviceType": "2"
   },
   {
     "id": "kmb_70R_O_1",
@@ -5813,8 +5846,8 @@
     "route": "82K",
     "from_tc": "美田",
     "from_en": "MEI TIN",
-    "to_tc": "圓洲角",
-    "to_en": "YUEN CHAU KOK",
+    "to_tc": "愉翠苑",
+    "to_en": "YU CHUI COURT",
     "dir": "I",
     "serviceType": "1"
   },
@@ -5822,32 +5855,10 @@
     "id": "kmb_82K_I_1",
     "company": "kmb",
     "route": "82K",
-    "from_tc": "圓洲角",
-    "from_en": "YUEN CHAU KOK",
+    "from_tc": "愉翠苑",
+    "from_en": "YU CHUI COURT",
     "to_tc": "美田",
     "to_en": "MEI TIN",
-    "dir": "I",
-    "serviceType": "1"
-  },
-  {
-    "id": "kmb_82P_O_1",
-    "company": "kmb",
-    "route": "82P",
-    "from_tc": "碩門邨",
-    "from_en": "SHEK MUN ESTATE",
-    "to_tc": "鑽石山站",
-    "to_en": "DIAMOND HILL STATION",
-    "dir": "I",
-    "serviceType": "1"
-  },
-  {
-    "id": "kmb_82P_I_1",
-    "company": "kmb",
-    "route": "82P",
-    "from_tc": "鑽石山站",
-    "from_en": "DIAMOND HILL STATION",
-    "to_tc": "碩門邨",
-    "to_en": "SHEK MUN ESTATE",
     "dir": "I",
     "serviceType": "1"
   },
@@ -7318,8 +7329,8 @@
     "id": "kmb_98S_O_1",
     "company": "kmb",
     "route": "98S",
-    "from_tc": "康城站",
-    "from_en": "LOHAS PARK STATION",
+    "from_tc": "坑口(北)(將軍澳醫院)",
+    "from_en": "HANG HAU (NORTH) (TSEUNG KWAN O HOSPITAL)",
     "to_tc": "美孚",
     "to_en": "MEI FOO",
     "dir": "I",
@@ -7331,8 +7342,8 @@
     "route": "98S",
     "from_tc": "美孚",
     "from_en": "MEI FOO",
-    "to_tc": "康城站",
-    "to_en": "LOHAS PARK STATION",
+    "to_tc": "坑口(北)(將軍澳醫院)",
+    "to_en": "HANG HAU (NORTH) (TSEUNG KWAN O HOSPITAL)",
     "dir": "I",
     "serviceType": "1"
   },
@@ -7830,28 +7841,6 @@
     "to_en": "CENTRAL (MACAU FERRY)",
     "dir": "I",
     "serviceType": "1"
-  },
-  {
-    "id": "kmbctb_111_O_3",
-    "company": "kmbctb",
-    "route": "111",
-    "from_tc": "馬頭涌道",
-    "from_en": "MA TAU CHUNG ROAD",
-    "to_tc": "中環(港澳碼頭)",
-    "to_en": "CENTRAL (MACAU FERRY)",
-    "dir": "I",
-    "serviceType": "3"
-  },
-  {
-    "id": "kmbctb_111_O_9",
-    "company": "kmbctb",
-    "route": "111",
-    "from_tc": "新蒲崗寧遠街",
-    "from_en": "NING YUEN STREET, SAN PO KONG",
-    "to_tc": "中環(港澳碼頭)",
-    "to_en": "CENTRAL (MACAU FERRY)",
-    "dir": "I",
-    "serviceType": "9"
   },
   {
     "id": "kmbctb_111_I_1",
@@ -8649,10 +8638,10 @@
     "id": "kmb_224X_O_3",
     "company": "kmb",
     "route": "224X",
-    "from_tc": "啟德(啟晴邨)",
-    "from_en": "KAI TAK (KAI CHING ESTATE)",
-    "to_tc": "啟業",
-    "to_en": "KAI YIP",
+    "from_tc": "啟德巴士總站",
+    "from_en": "KAI TAK BUS TERMINUS",
+    "to_tc": "尖沙咀東(循環線)",
+    "to_en": "TSIM SHA TSUI EAST (CIRCULAR)",
     "dir": "I",
     "serviceType": "3"
   },
@@ -11330,28 +11319,6 @@
     "serviceType": "1"
   },
   {
-    "id": "kmb_281M_O_1",
-    "company": "kmb",
-    "route": "281M",
-    "from_tc": "新田圍",
-    "from_en": "SUN TIN WAI",
-    "to_tc": "九龍塘站",
-    "to_en": "KOWLOON TONG STATION",
-    "dir": "I",
-    "serviceType": "1"
-  },
-  {
-    "id": "kmb_281M_I_1",
-    "company": "kmb",
-    "route": "281M",
-    "from_tc": "九龍塘站",
-    "from_en": "KOWLOON TONG STATION",
-    "to_tc": "新田圍",
-    "to_en": "SUN TIN WAI",
-    "dir": "I",
-    "serviceType": "1"
-  },
-  {
     "id": "kmb_281X_O_1",
     "company": "kmb",
     "route": "281X",
@@ -11469,17 +11436,6 @@
     "from_en": "CHEUNG SHA WAN (HOI TAT ESTATE)",
     "to_tc": "利安",
     "to_en": "LEE ON",
-    "dir": "I",
-    "serviceType": "1"
-  },
-  {
-    "id": "kmb_286M_O_1",
-    "company": "kmb",
-    "route": "286M",
-    "from_tc": "馬鞍山市中心",
-    "from_en": "MA ON SHAN TOWN CENTRE",
-    "to_tc": "鑽石山站(循環線)",
-    "to_en": "DIAMOND HILL STATION (CIRCULAR)",
     "dir": "I",
     "serviceType": "1"
   },
@@ -11979,28 +11935,6 @@
     "serviceType": "1"
   },
   {
-    "id": "kmb_298C_O_1",
-    "company": "kmb",
-    "route": "298C",
-    "from_tc": "康城站",
-    "from_en": "LOHAS PARK STATION",
-    "to_tc": "美孚",
-    "to_en": "MEI FOO",
-    "dir": "I",
-    "serviceType": "1"
-  },
-  {
-    "id": "kmb_298C_I_1",
-    "company": "kmb",
-    "route": "298C",
-    "from_tc": "美孚",
-    "from_en": "MEI FOO",
-    "to_tc": "康城站",
-    "to_en": "LOHAS PARK STATION",
-    "dir": "I",
-    "serviceType": "1"
-  },
-  {
     "id": "kmb_298E_O_1",
     "company": "kmb",
     "route": "298E",
@@ -12028,8 +11962,8 @@
     "route": "298X",
     "from_tc": "坑口(北)(將軍澳醫院)",
     "from_en": "HANG HAU (NORTH) (TSEUNG KWAN O HOSPITAL)",
-    "to_tc": "長沙灣(甘泉街)",
-    "to_en": "CHEUNG SHA WAN (KOM TSUN STREET)",
+    "to_tc": "美孚",
+    "to_en": "MEI FOO",
     "dir": "I",
     "serviceType": "1"
   },
@@ -12037,8 +11971,8 @@
     "id": "kmb_298X_I_1",
     "company": "kmb",
     "route": "298X",
-    "from_tc": "長沙灣(甘泉街)",
-    "from_en": "CHEUNG SHA WAN (KOM TSUN STREET)",
+    "from_tc": "美孚",
+    "from_en": "MEI FOO",
     "to_tc": "坑口(北)(將軍澳醫院)",
     "to_en": "HANG HAU (NORTH) (TSEUNG KWAN O HOSPITAL)",
     "dir": "I",
@@ -13174,6 +13108,28 @@
     "from_en": "ADMIRALTY STATION",
     "to_tc": "富蝶總站",
     "to_en": "FU TIP BUS TERMINUS",
+    "dir": "I",
+    "serviceType": "1"
+  },
+  {
+    "id": "kmb_907D_O_1",
+    "company": "kmb",
+    "route": "907D",
+    "from_tc": "大埔 (汀太路)",
+    "from_en": "TAI PO (TING TAI ROAD)",
+    "to_tc": "小西灣",
+    "to_en": "SIU SAI WAN",
+    "dir": "I",
+    "serviceType": "1"
+  },
+  {
+    "id": "kmb_907D_I_1",
+    "company": "kmb",
+    "route": "907D",
+    "from_tc": "小西灣",
+    "from_en": "SIU SAI WAN",
+    "to_tc": "大埔 (汀太路)",
+    "to_en": "TAI PO (TING TAI ROAD)",
     "dir": "I",
     "serviceType": "1"
   },
@@ -14663,6 +14619,17 @@
     "serviceType": "1"
   },
   {
+    "id": "kmb_A47X_O_2",
+    "company": "kmb",
+    "route": "A47X",
+    "from_tc": "大埔(太和)",
+    "from_en": "TAI PO (TAI WO)",
+    "to_tc": "機場(地面運輸中心)",
+    "to_en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
+    "dir": "I",
+    "serviceType": "2"
+  },
+  {
     "id": "kmb_A47X_O_3",
     "company": "kmb",
     "route": "A47X",
@@ -14672,6 +14639,17 @@
     "to_en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
     "dir": "I",
     "serviceType": "3"
+  },
+  {
+    "id": "kmb_A47X_O_4",
+    "company": "kmb",
+    "route": "A47X",
+    "from_tc": "大埔(太和)",
+    "from_en": "TAI PO (TAI WO)",
+    "to_tc": "機場(地面運輸中心)",
+    "to_en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
+    "dir": "I",
+    "serviceType": "4"
   },
   {
     "id": "kmb_A47X_I_1",
@@ -14685,6 +14663,17 @@
     "serviceType": "1"
   },
   {
+    "id": "kmb_A47X_I_2",
+    "company": "kmb",
+    "route": "A47X",
+    "from_tc": "機場(地面運輸中心)",
+    "from_en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
+    "to_tc": "大埔(太和)",
+    "to_en": "TAI PO (TAI WO)",
+    "dir": "I",
+    "serviceType": "2"
+  },
+  {
     "id": "kmb_A47X_I_3",
     "company": "kmb",
     "route": "A47X",
@@ -14694,6 +14683,17 @@
     "to_en": "TAI PO (TAI WO)",
     "dir": "I",
     "serviceType": "3"
+  },
+  {
+    "id": "kmb_A47X_I_4",
+    "company": "kmb",
+    "route": "A47X",
+    "from_tc": "機場(地面運輸中心)",
+    "from_en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
+    "to_tc": "大埔(太和)",
+    "to_en": "TAI PO (TAI WO)",
+    "dir": "I",
+    "serviceType": "4"
   },
   {
     "id": "kmb_B1_O_1",
@@ -15733,8 +15733,8 @@
     "id": "kmb_N307_O_1",
     "company": "kmb",
     "route": "N307",
-    "from_tc": "大埔中心",
-    "from_en": "TAI PO CENTRAL",
+    "from_tc": "太和",
+    "from_en": "TAI WO",
     "to_tc": "上環",
     "to_en": "SHEUNG WAN",
     "dir": "I",
@@ -15746,8 +15746,8 @@
     "route": "N307",
     "from_tc": "中環(港澳碼頭)",
     "from_en": "CENTRAL (MACAU FERRY)",
-    "to_tc": "大埔中心",
-    "to_en": "TAI PO CENTRAL",
+    "to_tc": "太和",
+    "to_en": "TAI WO",
     "dir": "I",
     "serviceType": "1"
   },
@@ -16353,6 +16353,72 @@
     "from_en": "CAUSEWAY BAY (TIN HAU)",
     "to_tc": "元朗(西)",
     "to_en": "YUEN LONG (WEST)",
+    "dir": "I",
+    "serviceType": "1"
+  },
+  {
+    "id": "kmb_PB1_O_1",
+    "company": "kmb",
+    "route": "PB1",
+    "from_tc": "元朗(形點)",
+    "from_en": "YUEN LONG (YOHO MALL I)",
+    "to_tc": "荃灣  (由元朗出發 循環行走)",
+    "to_en": "TSUEN WAN(From Yuen Long) (Circular)",
+    "dir": "I",
+    "serviceType": "1"
+  },
+  {
+    "id": "kmb_PB2_O_1",
+    "company": "kmb",
+    "route": "PB2",
+    "from_tc": "馬灣",
+    "from_en": "MA WAN",
+    "to_tc": "中環 (由馬灣出發 循環行走)",
+    "to_en": "CENTRAL(From Ma Wan) (Circular)",
+    "dir": "I",
+    "serviceType": "1"
+  },
+  {
+    "id": "kmb_PB3_O_1",
+    "company": "kmb",
+    "route": "PB3",
+    "from_tc": "大埔超級城(太和路)",
+    "from_en": "TAI PO MEGA MALL (TAI WO ROAD)",
+    "to_tc": "荃灣 (由大埔出發 循環行走)",
+    "to_en": "TSUEN WAN(From Tai Po) (Circular)",
+    "dir": "I",
+    "serviceType": "1"
+  },
+  {
+    "id": "kmb_PB4_O_1",
+    "company": "kmb",
+    "route": "PB4",
+    "from_tc": "屯門站",
+    "from_en": "TUEN MUN STATION",
+    "to_tc": "荃灣(由屯門出發 循環行走)",
+    "to_en": "TSUEN WAN (From Tuen Mun) (Circular)",
+    "dir": "I",
+    "serviceType": "1"
+  },
+  {
+    "id": "kmb_PB5_O_1",
+    "company": "kmb",
+    "route": "PB5",
+    "from_tc": "沙田大會堂",
+    "from_en": "SHA TIN TOWN HALL",
+    "to_tc": "西貢 (由沙田出發 循環行走)",
+    "to_en": "SAI KUNG (From Sha Tin) (Circular)",
+    "dir": "I",
+    "serviceType": "1"
+  },
+  {
+    "id": "kmb_PB6_O_1",
+    "company": "kmb",
+    "route": "PB6",
+    "from_tc": "將軍澳(唐俊街)",
+    "from_en": "TSEUNG KWAN O (TONG CHUN STREET)",
+    "to_tc": "中環(由將軍澳出發循環行走)",
+    "to_en": "CENTRAL (From Tseung Kwan O)(Circular)",
     "dir": "I",
     "serviceType": "1"
   },

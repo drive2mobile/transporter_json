@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:03:44.871+08:00",
+  "generated_timestamp": "2024-11-17T10:26:37.277+08:00",
   "data": {
     "route_stops": [
       {
@@ -117,6 +117,6 @@
         "name_en": "Lei Pui Street Bus Terminus"
       }
     ],
-    "data_timestamp": "2024-10-20T00:00:20.488+08:00"
+    "data_timestamp": "2024-11-05T17:29:32.248+08:00"
   }
 }

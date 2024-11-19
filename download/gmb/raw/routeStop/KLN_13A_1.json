@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:02:06.741+08:00",
+  "generated_timestamp": "2024-11-17T10:25:09.987+08:00",
   "data": {
     "route_stops": [
       {
@@ -47,6 +47,6 @@
         "name_en": "Broadcast Drive, outside Jumbo Court"
       }
     ],
-    "data_timestamp": "2024-07-31T11:26:10.209+08:00"
+    "data_timestamp": "2024-11-15T19:03:37.996+08:00"
   }
 }

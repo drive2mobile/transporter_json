@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:02:24.850+08:00",
+  "generated_timestamp": "2024-11-17T10:25:24.716+08:00",
   "data": {
     "route_stops": [
       {
@@ -117,6 +117,6 @@
         "name_en": "ASHLEY ROAD, near PEKING ROAD SITTING-OUT AREA"
       }
     ],
-    "data_timestamp": "2024-10-25T14:45:53.950+08:00"
+    "data_timestamp": "2024-11-07T10:30:11.407+08:00"
   }
 }

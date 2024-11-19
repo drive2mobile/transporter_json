@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-10-26T19:48:28+08:00",
+  "generated_timestamp": "2024-11-16T19:36:43+08:00",
   "data": {
     "stop": "001649",
     "name_tc": "MegaBox, 宏照道",
@@ -9,6 +9,6 @@
     "lat": "22.321241952091",
     "long": "114.20897841053",
     "name_sc": "MegaBox, 宏照道",
-    "data_timestamp": "2024-10-26T05:00:03+08:00"
+    "data_timestamp": "2024-11-16T05:00:03+08:00"
   }
 }

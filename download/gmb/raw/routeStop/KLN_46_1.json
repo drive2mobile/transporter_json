@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:02:32.565+08:00",
+  "generated_timestamp": "2024-11-17T10:25:33.737+08:00",
   "data": {
     "route_stops": [
       {
@@ -131,6 +131,6 @@
         "name_en": "Kai Yan Street, near SKH Kowloon Bay Kei Lok Primary School"
       }
     ],
-    "data_timestamp": "2024-10-28T17:31:49.688+08:00"
+    "data_timestamp": "2024-11-15T19:00:58.784+08:00"
   }
 }

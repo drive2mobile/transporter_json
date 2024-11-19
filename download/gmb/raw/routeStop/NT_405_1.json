@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:03:45.681+08:00",
+  "generated_timestamp": "2024-11-17T10:26:38.817+08:00",
   "data": {
     "route_stops": [
       {
@@ -75,6 +75,6 @@
         "name_en": "Liu To Road, Cheung Hang Estate Bus Terminus"
       }
     ],
-    "data_timestamp": "2024-10-30T11:52:50.938+08:00"
+    "data_timestamp": "2024-11-05T17:22:10.617+08:00"
   }
 }

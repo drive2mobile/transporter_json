@@ -88,35 +88,46 @@ async function parseJsonKmb()
         else
             company = 'kmb';
 
-        const id = `${company}_${currStop['route']}_${currStop['bound']}_${currStop['service_type']}`;
-
-        const newStop = {
-            'id':id,
-            'company': company,
-            'route': currStop['route'],
-            'from_tc': routeListObject[id]['from_tc'],
-            'from_en': routeListObject[id]['from_en'],
-            'to_tc': routeListObject[id]['to_tc'],
-            'to_en': routeListObject[id]['to_en'],
-            'dir': currStop['bound'],
-            'seq': currStop['seq'],
-            'stop': currStop['stop'],
-            'serviceType': currStop['service_type'],
-            'name_tc': stopListObject[currStop['stop']][`name_tc`],
-            'name_en': stopListObject[currStop['stop']][`name_en`],
-            'lat': stopListObject[currStop['stop']]['lat'],
-            'long': stopListObject[currStop['stop']]['long'],
-        }
-
-        if (id in routeStopList == false)
+        try
         {
-            const newArr = [];
-            newArr.push(newStop);
-            routeStopList[id] = newArr;
+            const id = `${company}_${currStop['route']}_${currStop['bound']}_${currStop['service_type']}`;
+
+
+            const newStop = {
+                'id': id,
+                'stop_id': `${company}_${currStop['route']}_${currStop['bound']}_${currStop['stop']}_${currStop['service_type']}`,
+                'company': company,
+                'route': currStop['route'],
+                'from_tc': routeListObject[id]['from_tc'],
+                'from_en': routeListObject[id]['from_en'],
+                'to_tc': routeListObject[id]['to_tc'],
+                'to_en': routeListObject[id]['to_en'],
+                'dir': currStop['bound'],
+                'seq': currStop['seq'],
+                'stop': currStop['stop'],
+                'serviceType': currStop['service_type'],
+                'name_tc': stopListObject[currStop['stop']][`name_tc`],
+                'name_en': stopListObject[currStop['stop']][`name_en`],
+                'lat': stopListObject[currStop['stop']]['lat'],
+                'long': stopListObject[currStop['stop']]['long'],
+            }
+
+            if (id in routeStopList == false)
+            {
+                const newArr = [];
+                newArr.push(newStop);
+                routeStopList[id] = newArr;
+            }
+            else
+            {
+                routeStopList[id].push(newStop);
+            }
+
+
         }
-        else
+        catch(err)
         {
-            routeStopList[id].push(newStop);
+
         }
     }
 

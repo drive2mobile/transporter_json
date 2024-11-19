@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:02:46.731+08:00",
+  "generated_timestamp": "2024-11-17T10:25:48.501+08:00",
   "data": {
     "route_stops": [
       {
@@ -61,6 +61,6 @@
         "name_en": "Peking Road outside Mary Building"
       }
     ],
-    "data_timestamp": "2024-10-25T14:48:35.507+08:00"
+    "data_timestamp": "2024-11-07T10:29:20.182+08:00"
   }
 }

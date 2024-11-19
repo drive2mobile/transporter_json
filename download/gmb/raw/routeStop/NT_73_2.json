@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:04:38.521+08:00",
+  "generated_timestamp": "2024-11-17T10:27:30.141+08:00",
   "data": {
     "route_stops": [
       {
@@ -27,12 +27,19 @@
       },
       {
         "stop_seq": 4,
+        "stop_id": 20020326,
+        "name_tc": "大樹下西路保良局李兆基青年綠洲外",
+        "name_sc": "大树下西路保良局李兆基青年绿洲外",
+        "name_en": "Tai Shu Ha Road West outside Po Leung Kuk Lee Sha Kee Youth Oasis"
+      },
+      {
+        "stop_seq": 5,
         "stop_id": 20007312,
         "name_tc": "媽橫路, 近朗屏站",
         "name_sc": "妈横路, 近朗屏站",
         "name_en": "Ma Wang Road, near Long Ping Station"
       }
     ],
-    "data_timestamp": "2024-04-07T00:00:40.467+08:00"
+    "data_timestamp": "2024-11-15T19:17:19.637+08:00"
   }
 }

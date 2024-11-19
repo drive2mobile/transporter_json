@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:03:45.914+08:00",
+  "generated_timestamp": "2024-11-17T10:26:39.062+08:00",
   "data": {
     "route_stops": [
       {
@@ -49,9 +49,9 @@
       {
         "stop_seq": 7,
         "stop_id": 20001680,
-        "name_tc": "和宜合道157號, 勝利工業大廈外",
-        "name_sc": "和宜合道157号, 胜利工业大厦外",
-        "name_en": "Wo Yi Hop Road No. 157, outside Victory Industrial Building"
+        "name_tc": "和宜合道163號, 華寶工業大廈外",
+        "name_sc": "和宜合道163号, 华宝工业大厦外",
+        "name_en": "Wo Yi Hop Road No. 163, outside Grand Industrial Building"
       },
       {
         "stop_seq": 8,
@@ -77,9 +77,9 @@
       {
         "stop_seq": 11,
         "stop_id": 20014948,
-        "name_tc": "葵涌道, 近珍寶大樓",
-        "name_sc": "葵涌道, 近珍宝大楼",
-        "name_en": "Kwai Chung Road, near Chun Po Building"
+        "name_tc": "葵涌道, 近德昌大廈",
+        "name_sc": "葵涌道, 近德昌大厦",
+        "name_en": "Kwai Chung Road, near Tak Cheong Building"
       },
       {
         "stop_seq": 12,
@@ -110,6 +110,6 @@
         "name_en": "Shek Pai Street, near Shek On House, Shek Lei (I) Estate"
       }
     ],
-    "data_timestamp": "2024-10-30T11:12:35.210+08:00"
+    "data_timestamp": "2024-11-06T17:53:05.466+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:03:36.751+08:00",
+  "generated_timestamp": "2024-11-17T10:26:32.160+08:00",
   "data": {
     "route_stops": [
       {
@@ -68,6 +68,6 @@
         "name_en": "Tai fung Street, Near Tung Sing Building"
       }
     ],
-    "data_timestamp": "2024-10-28T17:42:04.094+08:00"
+    "data_timestamp": "2024-11-13T14:31:25.336+08:00"
   }
 }

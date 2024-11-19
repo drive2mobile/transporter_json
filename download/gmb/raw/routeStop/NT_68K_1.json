@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:04:34.643+08:00",
+  "generated_timestamp": "2024-11-17T10:27:26.028+08:00",
   "data": {
     "route_stops": [
       {
@@ -40,6 +40,6 @@
         "name_en": "Hin Tai Street, near Julimount Garden"
       }
     ],
-    "data_timestamp": "2024-07-21T00:00:39.367+08:00"
+    "data_timestamp": "2024-11-13T18:13:12.899+08:00"
   }
 }

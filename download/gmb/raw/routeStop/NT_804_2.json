@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:04:44.402+08:00",
+  "generated_timestamp": "2024-11-17T10:27:35.912+08:00",
   "data": {
     "route_stops": [
       {
@@ -138,6 +138,6 @@
         "name_en": "Kwong Yuen Estate Bus Terminus"
       }
     ],
-    "data_timestamp": "2024-09-29T00:02:01.097+08:00"
+    "data_timestamp": "2024-11-13T18:13:12.895+08:00"
   }
 }

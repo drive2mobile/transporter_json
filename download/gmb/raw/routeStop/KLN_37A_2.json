@@ -1,15 +1,15 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:02:28.450+08:00",
+  "generated_timestamp": "2024-11-17T10:25:29.769+08:00",
   "data": {
     "route_stops": [
       {
         "stop_seq": 1,
         "stop_id": 20003365,
-        "name_tc": "慈雲山 (北) (巴士站)",
-        "name_sc": "慈云山 (北) (巴士站)",
-        "name_en": "Tsz Wan Shan (North) (Bus Stop)"
+        "name_tc": "慈雲山 (北) 巴士總站",
+        "name_sc": "慈云山 (北) 巴士总站",
+        "name_en": "Tsz Wan Shan (North) Bus Terminus"
       },
       {
         "stop_seq": 2,
@@ -42,9 +42,9 @@
       {
         "stop_seq": 6,
         "stop_id": 20006016,
-        "name_tc": "鳳德道, 消防局外",
-        "name_sc": "凤德道, 消防局外",
-        "name_en": "Fung Tak Road, outside Fire Station"
+        "name_tc": "鳳德道, 黃大仙消防局外",
+        "name_sc": "凤德道, 黄大仙消防局外",
+        "name_en": "Fung Tak Road, outside Wong Tai Sin Fire Station"
       },
       {
         "stop_seq": 7,
@@ -54,6 +54,6 @@
         "name_en": "Wong Tai Sin Public Light Bus (Scheduled) Service Terminus"
       }
     ],
-    "data_timestamp": "2024-07-31T15:33:17.638+08:00"
+    "data_timestamp": "2024-11-05T17:44:41.028+08:00"
   }
 }

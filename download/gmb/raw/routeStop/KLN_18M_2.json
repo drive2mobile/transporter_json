@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:02:09.167+08:00",
+  "generated_timestamp": "2024-11-17T10:25:12.222+08:00",
   "data": {
     "route_stops": [
       {
@@ -40,6 +40,6 @@
         "name_en": "Wong Tai Sin Public Light Bus (Scheduled) Service Terminus"
       }
     ],
-    "data_timestamp": "2024-07-31T18:11:44.274+08:00"
+    "data_timestamp": "2024-11-05T17:44:40.896+08:00"
   }
 }

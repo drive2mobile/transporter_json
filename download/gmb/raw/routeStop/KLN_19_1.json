@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:02:12.002+08:00",
+  "generated_timestamp": "2024-11-17T10:25:12.453+08:00",
   "data": {
     "route_stops": [
       {
@@ -33,6 +33,6 @@
         "name_en": "Diamond Hill Station Public Transport Interchange"
       }
     ],
-    "data_timestamp": "2024-07-31T18:11:44.270+08:00"
+    "data_timestamp": "2024-11-05T17:44:41.134+08:00"
   }
 }

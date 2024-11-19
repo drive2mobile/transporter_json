@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:02:18.565+08:00",
+  "generated_timestamp": "2024-11-17T10:25:18.598+08:00",
   "data": {
     "route_stops": [
       {
@@ -75,6 +75,6 @@
         "name_en": "Yau Tong Public Transport Interchange"
       }
     ],
-    "data_timestamp": "2024-10-29T22:46:34.406+08:00"
+    "data_timestamp": "2024-11-13T18:30:25.994+08:00"
   }
 }

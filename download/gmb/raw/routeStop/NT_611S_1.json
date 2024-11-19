@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:04:25.454+08:00",
+  "generated_timestamp": "2024-11-17T10:27:17.141+08:00",
   "data": {
     "route_stops": [
       {
@@ -33,6 +33,6 @@
         "name_en": "Shan Pui Road Near United Court"
       }
     ],
-    "data_timestamp": "2024-10-04T09:46:11.524+08:00"
+    "data_timestamp": "2024-11-15T19:24:38.825+08:00"
   }
 }

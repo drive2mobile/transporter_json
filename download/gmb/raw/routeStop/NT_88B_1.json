@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:05:05.387+08:00",
+  "generated_timestamp": "2024-11-17T10:27:54.638+08:00",
   "data": {
     "route_stops": [
       {
@@ -40,6 +40,6 @@
         "name_en": "KWAI FONG STATION"
       }
     ],
-    "data_timestamp": "2024-09-29T00:00:21.769+08:00"
+    "data_timestamp": "2024-11-05T17:26:11.608+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:03:43.300+08:00",
+  "generated_timestamp": "2024-11-17T10:26:35.751+08:00",
   "data": {
     "route_stops": [
       {
@@ -82,6 +82,6 @@
         "name_en": "Shek Yam Bus Terminus"
       }
     ],
-    "data_timestamp": "2024-09-08T00:00:38.347+08:00"
+    "data_timestamp": "2024-11-06T17:55:13.488+08:00"
   }
 }

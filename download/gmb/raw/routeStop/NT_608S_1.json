@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:04:21.358+08:00",
+  "generated_timestamp": "2024-11-17T10:27:13.414+08:00",
   "data": {
     "route_stops": [
       {
@@ -40,6 +40,6 @@
         "name_en": "CONCORDIA Tsat Sing Kong Public Light Bus Terminus"
       }
     ],
-    "data_timestamp": "2024-08-31T00:00:12.846+08:00"
+    "data_timestamp": "2024-11-13T13:56:23.595+08:00"
   }
 }

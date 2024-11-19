@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:01:46.413+08:00",
+  "generated_timestamp": "2024-11-17T10:24:50.136+08:00",
   "data": {
     "route_stops": [
       {
@@ -110,6 +110,6 @@
         "name_en": "Nam Ning Street, outside Hoi Tsing Court"
       }
     ],
-    "data_timestamp": "2024-08-22T09:21:06.181+08:00"
+    "data_timestamp": "2024-11-15T17:33:04.796+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:02:14.007+08:00",
+  "generated_timestamp": "2024-11-17T10:25:14.330+08:00",
   "data": {
     "route_stops": [
       {
@@ -159,6 +159,6 @@
         "name_en": "Whampoa Garden Public Transport Interchange"
       }
     ],
-    "data_timestamp": "2024-08-07T13:48:07.408+08:00"
+    "data_timestamp": "2024-10-31T16:02:05.292+08:00"
   }
 }

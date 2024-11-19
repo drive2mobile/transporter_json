@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:01:32.267+08:00",
+  "generated_timestamp": "2024-11-17T10:24:38.246+08:00",
   "data": {
     "route_stops": [
       {
@@ -28,9 +28,9 @@
       {
         "stop_seq": 4,
         "stop_id": 20010301,
-        "name_tc": "成和道9號(近祥勝茶餐廳)",
-        "name_sc": "成和道9号(近祥胜茶餐厅)",
-        "name_en": "Sing Woo Road No.9 (Near Cheung Sing Café)"
+        "name_tc": "成和道, 近成和大廈對面",
+        "name_sc": "成和道, 近成和大厦对面",
+        "name_en": "Near opposite of Sing Woo Building, Sing Woo Road"
       },
       {
         "stop_seq": 5,
@@ -47,6 +47,6 @@
         "name_en": "Holly Road Terminus"
       }
     ],
-    "data_timestamp": "2024-10-30T12:28:49.873+08:00"
+    "data_timestamp": "2024-10-31T10:08:10.012+08:00"
   }
 }

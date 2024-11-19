@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:03:14.009+08:00",
+  "generated_timestamp": "2024-11-17T10:26:10.088+08:00",
   "data": {
     "route_stops": [
       {
@@ -180,6 +180,6 @@
         "name_en": "Po Lam Public Transport Interchange"
       }
     ],
-    "data_timestamp": "2024-10-22T14:15:19.820+08:00"
+    "data_timestamp": "2024-11-15T18:15:35.639+08:00"
   }
 }

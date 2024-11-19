@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:02:41.476+08:00",
+  "generated_timestamp": "2024-11-17T10:25:42.930+08:00",
   "data": {
     "route_stops": [
       {
@@ -133,9 +133,9 @@
       {
         "stop_seq": 19,
         "stop_id": 20012384,
-        "name_tc": "彩虹道, 寶興大廈對面",
-        "name_sc": "彩虹道, 宝兴大厦对面",
-        "name_en": "Choi Hung Road, opposite Po Hing Mansion"
+        "name_tc": "彩虹道, 樂善堂黃仲銘中學外",
+        "name_sc": "彩虹道, 乐善堂黄仲铭中学外",
+        "name_en": "Choi Hung Road, Lok Sin Tong Wong Chung Ming Secondary School"
       },
       {
         "stop_seq": 20,
@@ -166,6 +166,6 @@
         "name_en": "Diamond Hill Station Public Transport Interchange"
       }
     ],
-    "data_timestamp": "2024-10-28T17:26:57.758+08:00"
+    "data_timestamp": "2024-11-15T18:57:11.803+08:00"
   }
 }

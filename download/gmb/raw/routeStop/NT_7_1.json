@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:04:36.086+08:00",
+  "generated_timestamp": "2024-11-17T10:27:27.779+08:00",
   "data": {
     "route_stops": [
       {
@@ -33,6 +33,6 @@
         "name_en": "Hoi Ha Road, Entrance Of Hai Ha Village"
       }
     ],
-    "data_timestamp": "2024-07-31T17:27:36.949+08:00"
+    "data_timestamp": "2024-11-15T18:15:35.623+08:00"
   }
 }

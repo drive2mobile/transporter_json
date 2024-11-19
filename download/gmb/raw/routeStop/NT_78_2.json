@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:04:41.411+08:00",
+  "generated_timestamp": "2024-11-17T10:27:32.898+08:00",
   "data": {
     "route_stops": [
       {
@@ -47,6 +47,6 @@
         "name_en": "Lok Ma Chau (San Tin) Public Transport Interchange"
       }
     ],
-    "data_timestamp": "2024-08-23T14:21:36.497+08:00"
+    "data_timestamp": "2024-11-13T13:56:21.478+08:00"
   }
 }

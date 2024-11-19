@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:05:06.630+08:00",
+  "generated_timestamp": "2024-11-17T10:27:55.904+08:00",
   "data": {
     "route_stops": [
       {
@@ -54,6 +54,6 @@
         "name_en": "Tivoli Garden Minibus Terminus"
       }
     ],
-    "data_timestamp": "2024-10-30T11:31:16.356+08:00"
+    "data_timestamp": "2024-11-05T17:25:34.968+08:00"
   }
 }

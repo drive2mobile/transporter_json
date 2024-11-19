@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:01:27.382+08:00",
+  "generated_timestamp": "2024-11-17T10:24:32.648+08:00",
   "data": {
     "route_stops": [
       {
@@ -68,6 +68,6 @@
         "name_en": "Chi Fu Close, Chi Fu Fa Yuen"
       }
     ],
-    "data_timestamp": "2024-10-28T17:56:17.769+08:00"
+    "data_timestamp": "2024-11-15T17:08:56.982+08:00"
   }
 }

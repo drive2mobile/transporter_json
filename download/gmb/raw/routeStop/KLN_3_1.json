@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:02:24.625+08:00",
+  "generated_timestamp": "2024-11-17T10:25:24.425+08:00",
   "data": {
     "route_stops": [
       {
@@ -40,6 +40,6 @@
         "name_en": "Chung Wui Street, outside Chung Wo Building"
       }
     ],
-    "data_timestamp": "2024-10-22T11:32:39.354+08:00"
+    "data_timestamp": "2024-11-07T10:29:20.186+08:00"
   }
 }

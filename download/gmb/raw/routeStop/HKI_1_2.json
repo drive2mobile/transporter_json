@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:01:19.843+08:00",
+  "generated_timestamp": "2024-11-17T10:24:25.005+08:00",
   "data": {
     "route_stops": [
       {
@@ -13,33 +13,47 @@
       },
       {
         "stop_seq": 2,
+        "stop_id": 20004107,
+        "name_tc": "民祥街, 近國際金融中心二期",
+        "name_sc": "民祥街, 近國際金融中心二期 ",
+        "name_en": "Man Cheung Street, near Two International Finance Centre Shopping Mall"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20006958,
+        "name_tc": "干諾道中, 近大會堂",
+        "name_sc": "干諾道中, 近大會堂 ",
+        "name_en": "Connaught Road Central outside City Hall "
+      },
+      {
+        "stop_seq": 4,
         "stop_id": 20000026,
         "name_tc": "紅棉路, 香港壁球中心外",
         "name_sc": "红棉路, 香港壁球中心外",
         "name_en": "Cotton Tree Drive, outside Hong Kong Squash Centre"
       },
       {
-        "stop_seq": 3,
+        "stop_seq": 5,
         "stop_id": 20014493,
         "name_tc": "山頂道, 近摘星閣第７座",
         "name_sc": "山頂道, 近摘星閣第７座 ",
         "name_en": "PEAK ROAD, near Sky Court Block 7"
       },
       {
-        "stop_seq": 4,
+        "stop_seq": 6,
         "stop_id": 20014494,
         "name_tc": "加列山道, 近明德國際醫院",
         "name_sc": "加列山道, 近明德國際醫院 ",
         "name_en": "MOUNT KELLETT ROAD, near Matilda International Hospital Sharp House"
       },
       {
-        "stop_seq": 5,
+        "stop_seq": 7,
         "stop_id": 20014489,
         "name_tc": "山頂廣場（下層巴士總站）",
         "name_sc": "山顶广场（下层巴士总站）",
         "name_en": "The Peak Galleria (Bus Terminus under)"
       }
     ],
-    "data_timestamp": "2024-10-29T11:53:00.147+08:00"
+    "data_timestamp": "2024-11-06T16:47:49.219+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:04:30.168+08:00",
+  "generated_timestamp": "2024-11-17T10:27:21.656+08:00",
   "data": {
     "route_stops": [
       {
@@ -33,6 +33,6 @@
         "name_en": "TSUEN NAM ROAD, near Tai Wai Station"
       }
     ],
-    "data_timestamp": "2024-08-07T09:19:47.838+08:00"
+    "data_timestamp": "2024-11-13T17:02:06.468+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:01:28.376+08:00",
+  "generated_timestamp": "2024-11-17T10:24:34.134+08:00",
   "data": {
     "route_stops": [
       {
@@ -42,9 +42,9 @@
       {
         "stop_seq": 6,
         "stop_id": 20003526,
-        "name_tc": "司徒拔道, 近嶺南小學",
-        "name_sc": "司徒拔道, 近岭南小学",
-        "name_en": "Stubbs Road, near Ling Nan Primary School"
+        "name_tc": "司徒拔道, 近司徒拔道休憩處",
+        "name_sc": "司徒拔道, 近司徒拔道休憩处",
+        "name_en": "Near Stubbs Road Sitting-out Area, Stubbs Road"
       },
       {
         "stop_seq": 7,
@@ -75,6 +75,6 @@
         "name_en": "No.111 Mount Bulter Road, opposite Block M"
       }
     ],
-    "data_timestamp": "2024-10-29T16:35:11.269+08:00"
+    "data_timestamp": "2024-11-15T17:33:04.992+08:00"
   }
 }

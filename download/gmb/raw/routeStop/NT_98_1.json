@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:05:21.174+08:00",
+  "generated_timestamp": "2024-11-17T10:28:10.017+08:00",
   "data": {
     "route_stops": [
       {
@@ -54,6 +54,6 @@
         "name_en": "Ho Pui Street, near Mary of Providence Primary School"
       }
     ],
-    "data_timestamp": "2024-10-30T11:13:32.212+08:00"
+    "data_timestamp": "2024-11-05T17:32:49.866+08:00"
   }
 }

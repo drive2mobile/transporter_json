@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:04:36.606+08:00",
+  "generated_timestamp": "2024-11-17T10:27:28.272+08:00",
   "data": {
     "route_stops": [
       {
@@ -124,6 +124,6 @@
         "name_en": "Shek Wu Tong (Ho Pui) Minibus Terminus"
       }
     ],
-    "data_timestamp": "2024-09-24T10:28:19.124+08:00"
+    "data_timestamp": "2024-11-15T19:17:19.641+08:00"
   }
 }

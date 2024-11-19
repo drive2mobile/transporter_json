@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:02:12.233+08:00",
+  "generated_timestamp": "2024-11-17T10:25:12.682+08:00",
   "data": {
     "route_stops": [
       {
@@ -49,23 +49,23 @@
       {
         "stop_seq": 7,
         "stop_id": 20000597,
-        "name_tc": "蒲崗村道南行線富仁樓外",
-        "name_sc": "蒲岗村道南行线富仁楼外",
-        "name_en": "Po Kong Village Road southbound outside Fu Yun House"
+        "name_tc": "蒲崗村道, 富仁樓外",
+        "name_sc": "蒲岗村道, 富仁楼外",
+        "name_en": "Po Kong Village Road, outside Fu Yun House"
       },
       {
         "stop_seq": 8,
         "stop_id": 20002676,
-        "name_tc": "蒲崗村道南行線蒲崗村道與瓊東街交界以北約20米",
-        "name_sc": "蒲岗村道南行线蒲岗村道与琼东街交界以北约20米",
-        "name_en": "Po Kong Village Road southbound at a point about 20 metres north of its junction with King Tung Street"
+        "name_tc": "蒲崗村道, 瓊軒苑外",
+        "name_sc": "蒲岗村道, 琼轩苑外",
+        "name_en": "Po Kong Village Road, outside King Hin Court"
       },
       {
         "stop_seq": 9,
         "stop_id": 20002677,
-        "name_tc": "鳳德道西行線近其與上元街交界處(近電燈柱AA 2576-5號)",
-        "name_sc": "凤德道西行线近其与上元街交界处(近电灯柱AA 2576-5号)",
-        "name_en": "Fung Tak Road westbound near its junction with Sheung Yuen Street(near L.P. AA 2576-5)"
+        "name_tc": "鳳德道, 南連園池外",
+        "name_sc": "凤德道, 南连园池外",
+        "name_en": "Fung Tak Road, outside Nan Lian Garden"
       },
       {
         "stop_seq": 10,
@@ -77,9 +77,9 @@
       {
         "stop_seq": 11,
         "stop_id": 20000600,
-        "name_tc": "凤德道西行线近其与龙蟠街交界处(近电灯柱AA7094-8号)",
-        "name_sc": "凤德道西行线近其与龙蟠街交界处(近电灯柱AA7094-8号)",
-        "name_en": "Fung Tak Road westbound near its junction with Lung Poon Street(near L.P. AA7094-8)"
+        "name_tc": "鳳德道, 鳳德邨對面",
+        "name_sc": "凤德道, 凤德村对面",
+        "name_en": "Fung Tak Road, opposite to Fung Tak Estate"
       },
       {
         "stop_seq": 12,
@@ -103,6 +103,6 @@
         "name_en": "Yi Lun Street, outside Pak Lok House"
       }
     ],
-    "data_timestamp": "2024-07-31T15:33:52.334+08:00"
+    "data_timestamp": "2024-11-05T17:45:10.027+08:00"
   }
 }

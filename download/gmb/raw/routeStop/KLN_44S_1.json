@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:02:32.339+08:00",
+  "generated_timestamp": "2024-11-17T10:25:33.450+08:00",
   "data": {
     "route_stops": [
       {
@@ -42,39 +42,53 @@
       {
         "stop_seq": 6,
         "stop_id": 20012345,
-        "name_tc": "青山道, 廣成街",
-        "name_sc": "青山道, 广成街 ",
-        "name_en": "CASTLE PEAK ROAD, Kwong Shing Street"
+        "name_tc": "青山道, 近廣成街(明愛醫院)",
+        "name_sc": "青山道, 近广成街(明爱医院)",
+        "name_en": "Castle Peak Road near Kwong Shing Street (Caritas Medical Centre)"
       },
       {
         "stop_seq": 7,
+        "stop_id": 20020229,
+        "name_tc": "青山道368號",
+        "name_sc": "青山道368号",
+        "name_en": "No. 368 Castle Peak Road"
+      },
+      {
+        "stop_seq": 8,
         "stop_id": 20012346,
         "name_tc": "青山道, 發祥大廈外",
         "name_sc": "青山道, 发祥大厦外 ",
         "name_en": "CASTLE PEAK ROAD, outside Fat Tseung Building"
       },
       {
-        "stop_seq": 8,
+        "stop_seq": 9,
         "stop_id": 20012347,
         "name_tc": "永隆街, 恒輝閣外",
         "name_sc": "永隆街, 恒辉阁外 ",
         "name_en": "WING LUN STREET, outside Hand Fair Court"
       },
       {
-        "stop_seq": 9,
+        "stop_seq": 10,
         "stop_id": 20012348,
         "name_tc": "元州街, 元州商場外",
         "name_sc": "元州街,  元州商场外 ",
         "name_en": "UN CHAU STREET, outside Un Chau Shopping Centre"
       },
       {
-        "stop_seq": 10,
+        "stop_seq": 11,
+        "stop_id": 20020230,
+        "name_tc": "興華街西遊樂場",
+        "name_sc": "兴华街西游乐场",
+        "name_en": "Hing Wah Street West Playground"
+      },
+      {
+        "stop_seq": 12,
         "stop_id": 20012349,
         "name_tc": "海麗邨",
         "name_sc": "海丽邨",
         "name_en": "Hoi Lai Estate"
       }
     ],
-    "data_timestamp": "2023-10-19T12:34:48.902+08:00"
+    "data_timestamp": "2024-11-05T10:05:10.716+08:00"
   }
 }

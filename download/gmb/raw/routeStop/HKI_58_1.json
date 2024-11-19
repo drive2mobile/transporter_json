@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:01:51.213+08:00",
+  "generated_timestamp": "2024-11-17T10:24:54.842+08:00",
   "data": {
     "route_stops": [
       {
@@ -75,6 +75,6 @@
         "name_en": "Wu Nam Street, outside On Tai Building"
       }
     ],
-    "data_timestamp": "2024-09-15T00:00:21.643+08:00"
+    "data_timestamp": "2024-11-15T17:08:56.993+08:00"
   }
 }

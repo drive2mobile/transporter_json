@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:04:47.025+08:00",
+  "generated_timestamp": "2024-11-17T10:27:38.489+08:00",
   "data": {
     "route_stops": [
       {
@@ -194,6 +194,6 @@
         "name_en": "Pak Shek Kok Public Transport Terminus"
       }
     ],
-    "data_timestamp": "2024-07-31T16:25:27.913+08:00"
+    "data_timestamp": "2024-11-07T10:33:55.959+08:00"
   }
 }

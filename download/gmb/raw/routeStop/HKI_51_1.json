@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:01:46.847+08:00",
+  "generated_timestamp": "2024-11-17T10:24:50.597+08:00",
   "data": {
     "route_stops": [
       {
@@ -68,6 +68,6 @@
         "name_en": "Tin Wan Estate Road, outside Tin Chak House"
       }
     ],
-    "data_timestamp": "2024-06-23T00:00:16.630+08:00"
+    "data_timestamp": "2024-11-15T17:06:05.798+08:00"
   }
 }

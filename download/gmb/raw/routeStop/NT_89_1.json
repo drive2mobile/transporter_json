@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:05:08.356+08:00",
+  "generated_timestamp": "2024-11-17T10:27:57.656+08:00",
   "data": {
     "route_stops": [
       {
@@ -40,6 +40,6 @@
         "name_en": "Shek Tau Street, Near Fu Tai House, Tai Wo Hau Estate"
       }
     ],
-    "data_timestamp": "2024-10-23T13:28:56.874+08:00"
+    "data_timestamp": "2024-11-05T16:44:51.228+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-10-26T20:04:07+08:00",
+  "generated_timestamp": "2024-11-16T19:46:17+08:00",
   "data": {
     "stop": "003319",
     "name_tc": "長宏邨",
@@ -9,6 +9,6 @@
     "lat": "22.357352502091",
     "long": "114.09614481053",
     "name_sc": "长宏邨",
-    "data_timestamp": "2024-10-26T05:00:03+08:00"
+    "data_timestamp": "2024-11-16T05:00:03+08:00"
   }
 }

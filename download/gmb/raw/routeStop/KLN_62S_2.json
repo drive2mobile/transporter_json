@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:02:38.351+08:00",
+  "generated_timestamp": "2024-11-17T10:25:39.929+08:00",
   "data": {
     "route_stops": [
       {
@@ -89,6 +89,6 @@
         "name_en": "Kwong Tin Estate Bus Terminus"
       }
     ],
-    "data_timestamp": "2024-10-29T22:46:34.409+08:00"
+    "data_timestamp": "2024-11-13T15:05:22.065+08:00"
   }
 }

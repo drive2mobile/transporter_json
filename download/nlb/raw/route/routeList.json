@@ -28,6 +28,15 @@
       "specialRoute": 0
     },
     {
+      "routeId": "5",
+      "routeNo": "2",
+      "routeName_c": "昂坪 > 梅窩碼頭",
+      "routeName_s": "昂坪 > 梅窝码头",
+      "routeName_e": "Ngong Ping > Mui Wo Ferry Pier",
+      "overnightRoute": 0,
+      "specialRoute": 0
+    },
+    {
       "routeId": "4",
       "routeNo": "2",
       "routeName_c": "梅窩碼頭  > 昂坪",
@@ -37,11 +46,11 @@
       "specialRoute": 0
     },
     {
-      "routeId": "5",
-      "routeNo": "2",
-      "routeName_c": "昂坪 > 梅窩碼頭",
-      "routeName_s": "昂坪 > 梅窝码头",
-      "routeName_e": "Ngong Ping > Mui Wo Ferry Pier",
+      "routeId": "6",
+      "routeNo": "3M",
+      "routeName_c": "東涌站巴士總站 > 梅窩碼頭",
+      "routeName_s": "东涌站巴士总站 > 梅窝码头",
+      "routeName_e": "Tung Chung Station Bus Terminus > Mui Wo Ferry Pier",
       "overnightRoute": 0,
       "specialRoute": 0
     },
@@ -64,11 +73,20 @@
       "specialRoute": 0
     },
     {
-      "routeId": "6",
-      "routeNo": "3M",
-      "routeName_c": "東涌站巴士總站 > 梅窩碼頭",
-      "routeName_s": "东涌站巴士总站 > 梅窝码头",
-      "routeName_e": "Tung Chung Station Bus Terminus > Mui Wo Ferry Pier",
+      "routeId": "9",
+      "routeNo": "4",
+      "routeName_c": "梅窩碼頭  > 塘福",
+      "routeName_s": "梅窝码头  > 塘福",
+      "routeName_e": "Mui Wo Ferry Pier > Tong Fuk",
+      "overnightRoute": 0,
+      "specialRoute": 0
+    },
+    {
+      "routeId": "10",
+      "routeNo": "4",
+      "routeName_c": "塘福 > 梅窩碼頭",
+      "routeName_s": "塘福 > 梅窝码头",
+      "routeName_e": "Tong Fuk > Mui Wo Ferry Pier",
       "overnightRoute": 0,
       "specialRoute": 0
     },
@@ -82,29 +100,11 @@
       "specialRoute": 0
     },
     {
-      "routeId": "9",
-      "routeNo": "4",
-      "routeName_c": "梅窩碼頭  > 塘福",
-      "routeName_s": "梅窝码头  > 塘福",
-      "routeName_e": "Mui Wo Ferry Pier > Tong Fuk",
-      "overnightRoute": 0,
-      "specialRoute": 0
-    },
-    {
       "routeId": "11",
       "routeNo": "4",
       "routeName_c": "塘福 (水口開) > 梅窩碼頭",
       "routeName_s": "塘福 (水口开) > 梅窝码头",
       "routeName_e": "Tong Fuk (from Shui Hau) > Mui Wo Ferry Pier",
-      "overnightRoute": 0,
-      "specialRoute": 0
-    },
-    {
-      "routeId": "10",
-      "routeNo": "4",
-      "routeName_c": "塘福 > 梅窩碼頭",
-      "routeName_s": "塘福 > 梅窝码头",
-      "routeName_e": "Tong Fuk > Mui Wo Ferry Pier",
       "overnightRoute": 0,
       "specialRoute": 0
     },
@@ -163,15 +163,6 @@
       "specialRoute": 0
     },
     {
-      "routeId": "16",
-      "routeNo": "11A",
-      "routeName_c": "石壁 > 東涌站巴士總站",
-      "routeName_s": "石壁 > 东涌站巴士总站",
-      "routeName_e": "Shek Pik > Tung Chung Station Bus Terminus",
-      "overnightRoute": 0,
-      "specialRoute": 0
-    },
-    {
       "routeId": "15",
       "routeNo": "11A",
       "routeName_c": "東涌站巴士總站 > 石壁",
@@ -181,11 +172,11 @@
       "specialRoute": 0
     },
     {
-      "routeId": "20",
-      "routeNo": "21",
-      "routeName_c": "大澳 > 昂坪",
-      "routeName_s": "大澳 > 昂坪",
-      "routeName_e": "Tai O > Ngong Ping",
+      "routeId": "16",
+      "routeNo": "11A",
+      "routeName_c": "石壁 > 東涌站巴士總站",
+      "routeName_s": "石壁 > 东涌站巴士总站",
+      "routeName_e": "Shek Pik > Tung Chung Station Bus Terminus",
       "overnightRoute": 0,
       "specialRoute": 0
     },
@@ -195,6 +186,15 @@
       "routeName_c": "昂坪 > 大澳",
       "routeName_s": "昂坪 > 大澳",
       "routeName_e": "Ngong Ping > Tai O",
+      "overnightRoute": 0,
+      "specialRoute": 0
+    },
+    {
+      "routeId": "20",
+      "routeNo": "21",
+      "routeName_c": "大澳 > 昂坪",
+      "routeName_s": "大澳 > 昂坪",
+      "routeName_e": "Tai O > Ngong Ping",
       "overnightRoute": 0,
       "specialRoute": 0
     },
@@ -361,20 +361,20 @@
       "specialRoute": 0
     },
     {
-      "routeId": "91",
-      "routeNo": "A35",
-      "routeName_c": "大橋香港口岸 > 梅窩碼頭",
-      "routeName_s": "大桥香港口岸 > 梅窝码头",
-      "routeName_e": "HZMB Hong Kong Port > Mui Wo Ferry Pier",
-      "overnightRoute": 0,
-      "specialRoute": 0
-    },
-    {
       "routeId": "90",
       "routeNo": "A35",
       "routeName_c": "梅窩碼頭 > 大橋香港口岸",
       "routeName_s": "梅窝码头 > 大桥香港口岸",
       "routeName_e": "Mui Wo Ferry Pier > HZMB Hong Kong Port",
+      "overnightRoute": 0,
+      "specialRoute": 0
+    },
+    {
+      "routeId": "91",
+      "routeNo": "A35",
+      "routeName_c": "大橋香港口岸 > 梅窩碼頭",
+      "routeName_s": "大桥香港口岸 > 梅窝码头",
+      "routeName_e": "HZMB Hong Kong Port > Mui Wo Ferry Pier",
       "overnightRoute": 0,
       "specialRoute": 0
     },
@@ -397,15 +397,6 @@
       "specialRoute": 0
     },
     {
-      "routeId": "33",
-      "routeNo": "B2P",
-      "routeName_c": "天水圍 (天慈邨) > 深圳灣口岸",
-      "routeName_s": "天水围 (天慈邨) > 深圳湾口岸",
-      "routeName_e": "Tin Shui Wai (Tin Tsz Estate) > Shenzhen Bay Port",
-      "overnightRoute": 0,
-      "specialRoute": 0
-    },
-    {
       "routeId": "34",
       "routeNo": "B2P",
       "routeName_c": "深圳灣口岸 > 天水圍 (天慈邨)",
@@ -415,11 +406,11 @@
       "specialRoute": 0
     },
     {
-      "routeId": "36",
-      "routeNo": "B2X",
-      "routeName_c": "深圳灣口岸 > 天水圍 (天耀邨)",
-      "routeName_s": "深圳湾口岸 > 天水围 (天耀邨)",
-      "routeName_e": "Shenzhen Bay Port > Tin Shui Wai (Tin Yiu Estate)",
+      "routeId": "33",
+      "routeNo": "B2P",
+      "routeName_c": "天水圍 (天慈邨) > 深圳灣口岸",
+      "routeName_s": "天水围 (天慈邨) > 深圳湾口岸",
+      "routeName_e": "Tin Shui Wai (Tin Tsz Estate) > Shenzhen Bay Port",
       "overnightRoute": 0,
       "specialRoute": 0
     },
@@ -433,20 +424,20 @@
       "specialRoute": 0
     },
     {
+      "routeId": "36",
+      "routeNo": "B2X",
+      "routeName_c": "深圳灣口岸 > 天水圍 (天耀邨)",
+      "routeName_s": "深圳湾口岸 > 天水围 (天耀邨)",
+      "routeName_e": "Shenzhen Bay Port > Tin Shui Wai (Tin Yiu Estate)",
+      "overnightRoute": 0,
+      "specialRoute": 0
+    },
+    {
       "routeId": "87",
       "routeNo": "B4",
       "routeName_c": "大橋香港口岸 > 機場 (客運大樓) (循環線)",
       "routeName_s": "大桥香港口岸 > 机场 (客运大楼) (循环线)",
       "routeName_e": "HZMB Hong Kong Port > Airport (Passenger Terminal Building) (Circular)",
-      "overnightRoute": 0,
-      "specialRoute": 0
-    },
-    {
-      "routeId": "89",
-      "routeNo": "B6",
-      "routeName_c": "滿東邨 > 大橋香港口岸",
-      "routeName_s": "满东邨 > 大桥香港口岸",
-      "routeName_e": "Mun Tung Estate > HZMB Hong Kong Port",
       "overnightRoute": 0,
       "specialRoute": 0
     },
@@ -460,6 +451,15 @@
       "specialRoute": 0
     },
     {
+      "routeId": "89",
+      "routeNo": "B6",
+      "routeName_c": "滿東邨 > 大橋香港口岸",
+      "routeName_s": "满东邨 > 大桥香港口岸",
+      "routeName_e": "Mun Tung Estate > HZMB Hong Kong Port",
+      "overnightRoute": 0,
+      "specialRoute": 0
+    },
+    {
       "routeId": "40",
       "routeNo": "N1",
       "routeName_c": "梅窩碼頭  > 大澳",
@@ -469,20 +469,20 @@
       "specialRoute": 0
     },
     {
-      "routeId": "92",
-      "routeNo": "N35",
-      "routeName_c": "梅窩碼頭 > 大橋香港口岸",
-      "routeName_s": "梅窝码头 > 大桥香港口岸",
-      "routeName_e": "Mui Wo Ferry Pier > HZMB Hong Kong Port",
-      "overnightRoute": 1,
-      "specialRoute": 0
-    },
-    {
       "routeId": "93",
       "routeNo": "N35",
       "routeName_c": "大橋香港口岸 > 梅窩碼頭",
       "routeName_s": "大桥香港口岸 > 梅窝码头",
       "routeName_e": "HZMB Hong Kong Port > Mui Wo Ferry Pier",
+      "overnightRoute": 1,
+      "specialRoute": 0
+    },
+    {
+      "routeId": "92",
+      "routeNo": "N35",
+      "routeName_c": "梅窩碼頭 > 大橋香港口岸",
+      "routeName_s": "梅窝码头 > 大桥香港口岸",
+      "routeName_e": "Mui Wo Ferry Pier > HZMB Hong Kong Port",
       "overnightRoute": 1,
       "specialRoute": 0
     },

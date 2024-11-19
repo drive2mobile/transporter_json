@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:02:33.806+08:00",
+  "generated_timestamp": "2024-11-17T10:25:34.973+08:00",
   "data": {
     "route_stops": [
       {
@@ -47,6 +47,6 @@
         "name_en": "Shun On Road, near Tin Wing House, Shun Tin Estate"
       }
     ],
-    "data_timestamp": "2024-10-15T09:55:15.394+08:00"
+    "data_timestamp": "2024-10-31T12:01:37.474+08:00"
   }
 }

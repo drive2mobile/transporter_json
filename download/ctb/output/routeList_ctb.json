@@ -1990,13 +1990,23 @@
     "dir": "O"
   },
   {
+    "id": "ctb_608P_I",
+    "company": "ctb",
+    "route": "608P",
+    "from_tc": "啟德",
+    "from_en": "Kai Tak",
+    "to_tc": "小西灣 (藍灣半島)",
+    "to_en": "Siu Sai Wan (Island Resort)",
+    "dir": "I"
+  },
+  {
     "id": "ctb_608P_O",
     "company": "ctb",
     "route": "608P",
     "from_tc": "小西灣 (藍灣半島)",
     "from_en": "Siu Sai Wan (Island Resort)",
-    "to_tc": "九龍城 (盛德街)",
-    "to_en": "Kowloon City (Shing Tak Street)",
+    "to_tc": "啟德",
+    "to_en": "Kai Tak",
     "dir": "O"
   },
   {
@@ -3250,26 +3260,6 @@
     "dir": "O"
   },
   {
-    "id": "ctb_795P_I",
-    "company": "ctb",
-    "route": "795P",
-    "from_tc": "長沙灣 (海達)",
-    "from_en": "Cheung Sha Wan (Hoi Tat)",
-    "to_tc": "將軍澳工業邨",
-    "to_en": "Tseung Kwan O Industrial Estate",
-    "dir": "I"
-  },
-  {
-    "id": "ctb_795P_O",
-    "company": "ctb",
-    "route": "795P",
-    "from_tc": "將軍澳工業邨",
-    "from_en": "Tseung Kwan O Industrial Estate",
-    "to_tc": "長沙灣 (海達)",
-    "to_en": "Cheung Sha Wan (Hoi Tat)",
-    "dir": "O"
-  },
-  {
     "id": "ctb_795X_I",
     "company": "ctb",
     "route": "795X",
@@ -3415,26 +3405,6 @@
     "route": "798A",
     "from_tc": "將軍澳 (康盛花園)",
     "from_en": "Tseung Kwan O (Hong Sing Garden)",
-    "to_tc": "沙田站",
-    "to_en": "Sha Tin Station",
-    "dir": "O"
-  },
-  {
-    "id": "ctb_798B_I",
-    "company": "ctb",
-    "route": "798B",
-    "from_tc": "沙田站",
-    "from_en": "Sha Tin Station",
-    "to_tc": "日出康城",
-    "to_en": "LOHAS Park",
-    "dir": "I"
-  },
-  {
-    "id": "ctb_798B_O",
-    "company": "ctb",
-    "route": "798B",
-    "from_tc": "日出康城",
-    "from_en": "LOHAS Park",
     "to_tc": "沙田站",
     "to_en": "Sha Tin Station",
     "dir": "O"

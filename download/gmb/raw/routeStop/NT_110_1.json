@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:03:07.854+08:00",
+  "generated_timestamp": "2024-11-17T10:26:04.024+08:00",
   "data": {
     "route_stops": [
       {
@@ -250,6 +250,6 @@
         "name_en": "Tiu Keng Leng Station Public Transport Interchange"
       }
     ],
-    "data_timestamp": "2024-10-22T14:59:34.128+08:00"
+    "data_timestamp": "2024-11-13T15:05:22.072+08:00"
   }
 }

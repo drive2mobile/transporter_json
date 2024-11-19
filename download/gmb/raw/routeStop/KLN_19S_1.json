@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:02:13.296+08:00",
+  "generated_timestamp": "2024-11-17T10:25:13.626+08:00",
   "data": {
     "route_stops": [
       {
@@ -23,14 +23,14 @@
         "stop_id": 20000590,
         "name_tc": "蒲崗村道, 富山邨富仁樓對面",
         "name_sc": "蒲岗村道, 富山邨富仁楼对面",
-        "name_en": "Po Kong Village Road. Opposite Fu Yan House, Fu Shan Estate"
+        "name_en": "Po Kong Village Road, opposite to Fu Yan House, Fu Shan Estate"
       },
       {
         "stop_seq": 4,
         "stop_id": 20000591,
         "name_tc": "慈雲山道, 德愛中學對面",
         "name_sc": "慈云山道, 德爱中学对面",
-        "name_en": "Tsz Wan Shan Road, opposite Tak Oi Secondary School"
+        "name_en": "Tsz Wan Shan Road, opposite to Tak Oi Secondary School"
       },
       {
         "stop_seq": 5,
@@ -40,6 +40,6 @@
         "name_en": "Wai Wah Street, outside Tsz Wan Shan Shopping Centre"
       }
     ],
-    "data_timestamp": "2024-07-31T18:11:44.270+08:00"
+    "data_timestamp": "2024-11-05T17:44:41.134+08:00"
   }
 }

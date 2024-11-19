@@ -58,6 +58,7 @@ async function processTimetable()
             else if (company == 'LRTFeeder') { company = 'mtrbus'; }
             else if (company == 'LWB') { company = 'kmb'; }
             else if (company == 'FERRY') { company = 'ferry'; }
+            else if (company == 'NLB') { company = 'nlb'; }
 
             const routeNumber = currLine[2] != undefined ? currLine[2] : "";
             const from = currLine[3] != undefined ? currLine[3].split(' - ')[0] : "";
@@ -89,6 +90,7 @@ async function processTimetable()
             else if (company == 'LRTFeeder') { company = 'mtrbus'; }
             else if (company == 'LWB') { company = 'kmb'; }
             else if (company == 'FERRY') { company = 'ferry'; }
+            else if (company == 'NLB') { company = 'nlb'; }
 
             const routeNumber = currLine[2] != undefined ? currLine[2] : "";
             const from = currLine[3] != undefined ? currLine[3].split(' - ')[0] : "";

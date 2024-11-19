@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:03:04.522+08:00",
+  "generated_timestamp": "2024-11-17T10:26:00.836+08:00",
   "data": {
     "route_stops": [
       {
@@ -145,6 +145,6 @@
         "name_en": "Ko Shan Road, outside Ko Shan Theatre"
       }
     ],
-    "data_timestamp": "2024-10-25T14:11:24.671+08:00"
+    "data_timestamp": "2024-11-15T18:45:17.702+08:00"
   }
 }

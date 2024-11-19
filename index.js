@@ -1,5 +1,3 @@
-import express from "express";
-import cors from "cors"
 import { downloadRouteListCtb, downloadRouteStopCtb, downloadStopCtb, parseJsonCtb } from "./src/functions/ctb.js";
 import { downloadRouteListKmb, downloadRouteStopListKmb, downloadStopListKmb, parseJsonKmb, } from "./src/functions/kmb.js";
 import { deleteNonCoop, parseJsonKmbCtb } from "./src/functions/kmbctb.js";
@@ -10,24 +8,18 @@ import { generateVersion, parseUniqueRouteList, parseUniqueRouteMap, parseUnique
 import { processTimetable } from "./src/functions/timetable.js";
 import { createMtrRouteList, downloadMtrRoutStopList } from "./src/functions/functions_mtr.js";
 
-const app = express();
-app.use(cors({
-    origin: '*',
-    methods: ['POST', 'GET'],
-    credentials: true
-}));
 
-app.get(('/ctb'), async (req, res) =>
+async function ctb()
 {
     await downloadRouteListCtb();
     await downloadRouteStopCtb();
     await downloadStopCtb();
     await parseJsonCtb();
 
-    res.send('done');
-})
+    console.log('CTB Finished');
+}
 
-app.get(('/kmb'), async (req, res) =>
+async function kmb()
 {
     await downloadRouteListKmb();
     await downloadRouteStopListKmb();
@@ -35,27 +27,27 @@ app.get(('/kmb'), async (req, res) =>
     await downloadStopListKmb();
     await parseJsonKmb();
 
-    res.send('done');
-})
+    console.log('KMB Finished');
+}
 
-app.get(('/kmbctb'), async (req, res) =>
+async function kmbctb()
 {
     await parseJsonKmbCtb();
     await deleteNonCoop('kmb');
     await deleteNonCoop('ctb');
 
-    res.send('done');
-})
+    console.log('KMBCTB Finished');
+}
 
-app.get(('/mtrbus'), async (req, res) =>
+async function mtrbus()
 {
     await downloadRouteStopListMtrBus();
-    await parseJsonMtrBus('tc');
+    await parseJsonMtrBus();
 
-    res.send('done');
-})
+    console.log('MTRBUS Finished');
+}
 
-app.get(('/gmb'), async (req, res) =>
+async function gmb()
 {
     await downloadGmbRouteList();
     await downloadGmbRouteListGmb();
@@ -64,28 +56,28 @@ app.get(('/gmb'), async (req, res) =>
     await parseRouteStopListGmb();
     await downloadStopGmb();
     await mergeStopCoordinateToRouteStopGmb();
-    res.send('done');
-})
 
-app.get(('/nlb'), async (req, res) =>
+    console.log('GMB Finished');
+}
+
+async function nlb()
 {
     await downloadRouteListNlb();
     await downloadRouteStopNlb();
     await parseJsonNlb();
 
-    res.send('done');
-})
+    console.log('NLB Finished');
+}
 
-
-app.get(('/mtr'), async (req, res) =>
+async function mtr()
 {
     await downloadMtrRoutStopList();
     await createMtrRouteList();
 
-    res.send('done');
-})
+    console.log('MTR Finished');
+}
 
-app.get(('/parseFinalOutput'), async (req, res) =>
+async function parseFinal()
 {
     await parseUniqueRouteList();
     await parseUniqueRouteMap();
@@ -94,12 +86,36 @@ app.get(('/parseFinalOutput'), async (req, res) =>
     await processTimetable();
     await generateVersion();
 
-    res.send('done');
-})
+    console.log('Final Output Finished');
+}
 
-// ===== LOCALHOST TESTING SERVER =====
-app.listen('8082', () =>
+async function main()
 {
-    console.log('port at 8081');
-});
+    const arg = process.argv[2]?.toLowerCase();
 
+    if (arg == 'ctb' || arg == 'all')
+        await ctb();
+
+    if (arg == 'kmb' || arg == 'all')
+        await kmb();
+
+    if (arg == 'kmbctb' || arg == 'all')
+        await kmbctb();
+
+    if (arg == 'mtrbus' || arg == 'all')
+        await mtrbus();
+
+    if (arg == 'gmb' || arg == 'all')
+        await gmb();
+
+    if (arg == 'nlb' || arg == 'all')
+        await nlb();
+
+    if (arg == 'mtr' || arg == 'all')
+        await mtr();
+
+    if (arg == 'parsefinal' || arg == 'all')
+        await parseFinal();
+}
+
+main();

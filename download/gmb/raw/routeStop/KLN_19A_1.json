@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:02:12.453+08:00",
+  "generated_timestamp": "2024-11-17T10:25:12.901+08:00",
   "data": {
     "route_stops": [
       {
@@ -20,19 +20,47 @@
       },
       {
         "stop_seq": 3,
+        "stop_id": 20002677,
+        "name_tc": "鳳德道, 南連園池外",
+        "name_sc": "凤德道, 南连园池外",
+        "name_en": "Fung Tak Road, outside Nan Lian Garden"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20020182,
+        "name_tc": "鳳德道, 靈糧堂幼稚園外",
+        "name_sc": "凤德道, 灵粮堂幼稚园外",
+        "name_en": "Fung Tak Road, outside Ling Liang Kindergarten"
+      },
+      {
+        "stop_seq": 5,
         "stop_id": 20000588,
         "name_tc": "鑽石山站公共運輸交匯處",
         "name_sc": "钻石山站公共运输交汇处",
         "name_en": "Diamond Hill Station Public Transport Interchange"
       },
       {
-        "stop_seq": 4,
+        "stop_seq": 6,
+        "stop_id": 20006035,
+        "name_tc": "鳳德道, 志蓮淨苑外",
+        "name_sc": "凤德道, 志莲净苑外",
+        "name_en": "Fung Tak Road, outside Chi Lin Nunnery "
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20002675,
+        "name_tc": "鳳德道, 斧山公園外",
+        "name_sc": "凤德道, 斧山公园外",
+        "name_en": "Fung Tak Road, outside Hammer Hill Park"
+      },
+      {
+        "stop_seq": 8,
         "stop_id": 20001099,
         "name_tc": "斧山道, 宏景花園綜合大樓及停車場外",
         "name_sc": "斧山道, 宏景花园综合大楼及停车场外",
         "name_en": "Hammer Hill Road, outside Grand View Garden Commercial And Car Park Block"
       }
     ],
-    "data_timestamp": "2024-07-31T18:11:44.270+08:00"
+    "data_timestamp": "2024-11-05T17:44:41.134+08:00"
   }
 }

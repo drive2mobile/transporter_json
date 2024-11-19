@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:04:38.870+08:00",
+  "generated_timestamp": "2024-11-17T10:27:30.371+08:00",
   "data": {
     "route_stops": [
       {
@@ -40,6 +40,6 @@
         "name_en": "Yuen Long (Sung Shan San Tsuen)"
       }
     ],
-    "data_timestamp": "2024-04-07T00:00:41.313+08:00"
+    "data_timestamp": "2024-11-15T19:17:19.637+08:00"
   }
 }

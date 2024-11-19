@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:02:07.795+08:00",
+  "generated_timestamp": "2024-11-17T10:25:10.863+08:00",
   "data": {
     "route_stops": [
       {
@@ -20,33 +20,47 @@
       },
       {
         "stop_seq": 3,
-        "stop_id": 20000566,
-        "name_tc": "清水灣道, 彩雲商場",
-        "name_sc": "清水湾道, 彩云商场",
-        "name_en": "Clear Water Bay Road, Choi Wan Commercial Complex"
+        "stop_id": 20012352,
+        "name_tc": "牛池灣街彩雲邨玉宇樓對面",
+        "name_sc": "牛池湾街彩云邨玉宇楼对面",
+        "name_en": "Ngau Chi Wan Street opposite Yok Yu House Choi Wan Estate"
       },
       {
         "stop_seq": 4,
+        "stop_id": 20020196,
+        "name_tc": " 牛池灣街基督教勵行會對面",
+        "name_sc": "牛池湾街基督教励行会对面",
+        "name_en": "Ngau Chi Wan Street opposite Christian Action"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20000566,
+        "name_tc": "清水灣道, 彩雲商場",
+        "name_sc": "清水湾道, 彩云商场",
+        "name_en": "Choi Wan Commercial Complex, Clear Water Bay Road\t"
+      },
+      {
+        "stop_seq": 6,
         "stop_id": 20012351,
         "name_tc": "清水灣道坪石邨紅石樓外",
         "name_sc": "清水湾道坪石邨红石楼外",
         "name_en": "Clear Water Bay Road outside Hung Shek House, Ping Shek Estate"
       },
       {
-        "stop_seq": 5,
+        "stop_seq": 7,
         "stop_id": 20000568,
         "name_tc": "清水灣道, 彩雲商場",
         "name_sc": "清水湾道, 彩云商场",
         "name_en": "Clear Water Bay Road, Choi Wan Commercial Complex"
       },
       {
-        "stop_seq": 6,
+        "stop_seq": 8,
         "stop_id": 20012356,
         "name_tc": "豐盛街, 豐盛街紀律部隊宿舍1座外",
         "name_sc": "丰盛街, 丰盛街纪律部队宿舍1座外",
         "name_en": "Fung Shing Street, outside Fung Shing Street Disciplined Services Quarters"
       }
     ],
-    "data_timestamp": "2024-07-31T17:28:46.624+08:00"
+    "data_timestamp": "2024-11-15T18:15:35.641+08:00"
   }
 }

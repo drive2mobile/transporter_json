@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:01:27.903+08:00",
+  "generated_timestamp": "2024-11-17T10:24:33.128+08:00",
   "data": {
     "route_stops": [
       {
@@ -14,9 +14,9 @@
       {
         "stop_seq": 2,
         "stop_id": 20000307,
-        "name_tc": "皇后大道東, 太古廣場三座外 ",
-        "name_sc": "皇后大道東, 太古廣場三座外 ",
-        "name_en": "Queen's RoQueen's Road East, outside Three Pacific Placead East Junction With Queensway"
+        "name_tc": "皇后大道東, 近太古廣場三座 ",
+        "name_sc": "皇后大道东, 近太古广场三座",
+        "name_en": "Near Three Pacific Place, Queen's Road East"
       },
       {
         "stop_seq": 3,
@@ -35,9 +35,9 @@
       {
         "stop_seq": 5,
         "stop_id": 20000134,
-        "name_tc": "司徒拔道, 近友邦大廈入口",
-        "name_sc": "司徒拔道, 近友邦大厦入口",
-        "name_en": "Stubbs Road, near Aia Building Access Road"
+        "name_tc": "司徒拔道, 近友邦大廈",
+        "name_sc": "司徒拔道, 近友邦大厦",
+        "name_en": "Near AIA Building, Stubbs Road"
       },
       {
         "stop_seq": 6,
@@ -63,9 +63,9 @@
       {
         "stop_seq": 9,
         "stop_id": 20000139,
-        "name_tc": "駱克道, 盧押道以西",
-        "name_sc": "骆克道, 卢押道以西",
-        "name_en": "Lockhart Road, West Of Luard Road"
+        "name_tc": "駱克道, 近盧押道",
+        "name_sc": "骆克道, 近卢押道",
+        "name_en": "Lockhart Road near Luard Road"
       },
       {
         "stop_seq": 10,
@@ -75,6 +75,6 @@
         "name_en": "Drake Street, near MTR exit"
       }
     ],
-    "data_timestamp": "2024-10-29T16:35:11.269+08:00"
+    "data_timestamp": "2024-11-15T17:33:04.992+08:00"
   }
 }

@@ -66,6 +66,7 @@ async function parseJsonNlb()
 
             const newStop = {
                 'id': id,
+                'stop_id': `nlb_${currRoute['routeId']}_${currRoute['routeNo']}_${currStop['stopId']}`,
                 'company': 'nlb',
                 'route_id': currRoute['routeId'],
                 'route': currRoute['routeNo'],

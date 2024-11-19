@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:04:36.936+08:00",
+  "generated_timestamp": "2024-11-17T10:27:28.526+08:00",
   "data": {
     "route_stops": [
       {
@@ -152,6 +152,6 @@
         "name_en": "Yuen Long Tai Hang Street, Near Tai Hang Building Block B"
       }
     ],
-    "data_timestamp": "2024-09-24T10:28:19.124+08:00"
+    "data_timestamp": "2024-11-15T19:17:19.641+08:00"
   }
 }

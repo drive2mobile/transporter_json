@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:02:19.457+08:00",
+  "generated_timestamp": "2024-11-17T10:25:19.590+08:00",
   "data": {
     "route_stops": [
       {
@@ -72,7 +72,7 @@
         "stop_id": 20012430,
         "name_tc": "窩打老道, 近仁園",
         "name_sc": "窝打老道, 近仁园 ",
-        "name_en": "WATERLOO ROAD, near 仁園"
+        "name_en": "WATERLOO ROAD, near Yan Yuen"
       },
       {
         "stop_seq": 11,
@@ -82,6 +82,6 @@
         "name_en": "Kowloon Tong (Suffolk Road) Public Transport Interchange"
       }
     ],
-    "data_timestamp": "2024-10-21T14:14:32.322+08:00"
+    "data_timestamp": "2024-11-15T19:03:38.009+08:00"
   }
 }

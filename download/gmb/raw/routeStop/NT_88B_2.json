@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:05:05.621+08:00",
+  "generated_timestamp": "2024-11-17T10:27:54.959+08:00",
   "data": {
     "route_stops": [
       {
@@ -27,26 +27,33 @@
       },
       {
         "stop_seq": 4,
+        "stop_id": 20020273,
+        "name_tc": "青衣鄉事會路與涌美路交界以南青衣鄉事會路巴士避車處",
+        "name_sc": "青衣乡事会路与涌美路交界以南青衣乡事会路巴士避车处",
+        "name_en": "Tsing Yi Heung Sze Wui Road at the bus layby south of its junction with Chung Mei Road"
+      },
+      {
+        "stop_seq": 5,
         "stop_id": 20012808,
         "name_tc": "青衣鄉事會路, 近青衣已婚警察宿舍Ａ座",
         "name_sc": "青衣乡事会路, 近青衣已婚警察宿舍Ａ座 ",
         "name_en": "TSING YI HEUNG SZE WUI ROAD, near Tsing Yi Police Married Quarters Block A"
       },
       {
-        "stop_seq": 5,
+        "stop_seq": 6,
         "stop_id": 20012811,
         "name_tc": "楓樹窩路, 近海悅花園商場",
         "name_sc": "枫树窝路, 近海悦花园商场 ",
         "name_en": "FUNG SHUE WO ROAD, near Shopping Centre, SERENE GARDEN"
       },
       {
-        "stop_seq": 6,
+        "stop_seq": 7,
         "stop_id": 20012809,
         "name_tc": "楓樹窩路, 近翠怡花園第七座",
         "name_sc": "枫树窝路, 近翠怡花园第七座 ",
         "name_en": "FUNG SHUE WO ROAD, near Greenfield Garden Block 7"
       }
     ],
-    "data_timestamp": "2024-09-29T00:00:21.769+08:00"
+    "data_timestamp": "2024-11-05T17:26:11.608+08:00"
   }
 }

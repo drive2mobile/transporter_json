@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-10-26T20:01:11+08:00",
+  "generated_timestamp": "2024-11-16T19:46:55+08:00",
   "data": {
     "stop": "003501",
     "name_tc": "三聖",
@@ -9,6 +9,6 @@
     "lat": "22.381530142091",
     "long": "113.97700097053",
     "name_sc": "三圣",
-    "data_timestamp": "2024-10-26T05:00:03+08:00"
+    "data_timestamp": "2024-11-16T05:00:03+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:02:24.113+08:00",
+  "generated_timestamp": "2024-11-17T10:25:23.941+08:00",
   "data": {
     "route_stops": [
       {
@@ -180,6 +180,6 @@
         "name_en": "Festival Walk"
       }
     ],
-    "data_timestamp": "2024-08-07T13:49:10.340+08:00"
+    "data_timestamp": "2024-10-31T16:02:05.292+08:00"
   }
 }

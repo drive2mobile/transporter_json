@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-10-30T20:01:52.748+08:00",
+  "generated_timestamp": "2024-11-17T10:24:56.218+08:00",
   "data": {
     "route_stops": [
       {
@@ -14,8 +14,8 @@
       {
         "stop_seq": 2,
         "stop_id": 20000334,
-        "name_tc": "域多利道,英基學校協會西港島中學對面",
-        "name_sc": "域多利道,英基学校协会西港岛中学对面",
+        "name_tc": "域多利道, 英基學校協會西島中學對面",
+        "name_sc": "域多利道, 英基学校协会西岛中学对面",
         "name_en": "Victoria Road, opposite English School Foundation West Island School"
       },
       {
@@ -110,6 +110,6 @@
         "name_en": "Shum Wan Road Public Transport Terminus"
       }
     ],
-    "data_timestamp": "2024-10-25T18:35:58.489+08:00"
+    "data_timestamp": "2024-11-15T17:09:11.877+08:00"
   }
 }
