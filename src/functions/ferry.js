@@ -401,6 +401,7 @@ async function parseRouteStopListFerry()
                     if (direction in masterList_tc == false) 
                     {
                         masterList_tc[direction] = {
+                            route: direction,
                             lat1: ferryCoordination?.[direction]?.['lat1'] || '',
                             long1: ferryCoordination?.[direction]?.['long1'] || '',
                             lat2: ferryCoordination?.[direction]?.['lat2'] || '',
