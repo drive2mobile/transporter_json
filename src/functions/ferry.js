@@ -1,4 +1,5 @@
 import { downloadCsvAndConvertJson, loadJSONFromFile, saveJSONToFile } from "../utilities/file_management.js";
+import { ferryCoordination } from "./ferryMetaData.js";
 
 
 const downloadList = [
@@ -66,285 +67,285 @@ const downloadList = [
         lang: 'tc'
     },
 
-    {
-        job: '坪洲 - 梅窩 - 芝蔴灣 - 長洲渡輪服務(航班時間表)(英文)',
-        url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Fen%2Fcontent_1408%2Fopendata%2Fferry_pc_mw_cmw_cc_timetable_eng.csv',
-        path: './download/ferry/raw/pc_mw_cmw_cc_en.json',
-        key: 'pc_mw_cmw_cc',
-        lang: 'en'
-    },
+    // {
+    //     job: '坪洲 - 梅窩 - 芝蔴灣 - 長洲渡輪服務(航班時間表)(英文)',
+    //     url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Fen%2Fcontent_1408%2Fopendata%2Fferry_pc_mw_cmw_cc_timetable_eng.csv',
+    //     path: './download/ferry/raw/pc_mw_cmw_cc_en.json',
+    //     key: 'pc_mw_cmw_cc',
+    //     lang: 'en'
+    // },
 
-    {
-        job: '坪洲 - 梅窩 - 芝蔴灣 - 長洲渡輪服務(航班時間表)(繁體中文)',
-        url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Ftc%2Fcontent_1408%2Fopendata%2Fferry_pc_mw_cmw_cc_timetable_chi.csv',
-        path: './download/ferry/raw/pc_mw_cmw_cc_tc.json',
-        key: 'pc_mw_cmw_cc',
-        lang: 'tc'
-    },
+    // {
+    //     job: '坪洲 - 梅窩 - 芝蔴灣 - 長洲渡輪服務(航班時間表)(繁體中文)',
+    //     url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Ftc%2Fcontent_1408%2Fopendata%2Fferry_pc_mw_cmw_cc_timetable_chi.csv',
+    //     path: './download/ferry/raw/pc_mw_cmw_cc_tc.json',
+    //     key: 'pc_mw_cmw_cc',
+    //     lang: 'tc'
+    // },
 
-    {
-        job: '中環 - 長洲渡輪服務(航班時間表)(英文)',
-        url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Fen%2Fcontent_1408%2Fopendata%2Fferry_central_cc_timetable_eng.csv',
-        path: './download/ferry/raw/central_cc_en.json',
-        key: 'central_cc',
-        lang: 'en'
-    },
+    // {
+    //     job: '中環 - 長洲渡輪服務(航班時間表)(英文)',
+    //     url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Fen%2Fcontent_1408%2Fopendata%2Fferry_central_cc_timetable_eng.csv',
+    //     path: './download/ferry/raw/central_cc_en.json',
+    //     key: 'central_cc',
+    //     lang: 'en'
+    // },
 
-    {
-        job: '中環 - 長洲渡輪服務(航班時間表)(繁體中文)',
-        url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Ftc%2Fcontent_1408%2Fopendata%2Fferry_central_cc_timetable_chi.csv',
-        path: './download/ferry/raw/central_cc_tc.json',
-        key: 'central_cc',
-        lang: 'tc'
-    },
+    // {
+    //     job: '中環 - 長洲渡輪服務(航班時間表)(繁體中文)',
+    //     url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Ftc%2Fcontent_1408%2Fopendata%2Fferry_central_cc_timetable_chi.csv',
+    //     path: './download/ferry/raw/central_cc_tc.json',
+    //     key: 'central_cc',
+    //     lang: 'tc'
+    // },
 
-    {
-        job: '中環 - 愉景灣渡輪服務(航班時間表)(英文)',
-        url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Fen%2Fcontent_1408%2Fopendata%2Fferry_central_db_timetable_eng.csv',
-        path: './download/ferry/raw/central_db_en.json',
-        key: 'central_db',
-        lang: 'en'
-    },
+    // {
+    //     job: '中環 - 愉景灣渡輪服務(航班時間表)(英文)',
+    //     url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Fen%2Fcontent_1408%2Fopendata%2Fferry_central_db_timetable_eng.csv',
+    //     path: './download/ferry/raw/central_db_en.json',
+    //     key: 'central_db',
+    //     lang: 'en'
+    // },
 
-    {
-        job: '中環 - 愉景灣渡輪服務(航班時間表)(繁體中文)',
-        url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Ftc%2Fcontent_1408%2Fopendata%2Fferry_central_db_timetable_chi.csv',
-        path: './download/ferry/raw/central_db_tc.json',
-        key: 'central_db',
-        lang: 'tc'
-    },
+    // {
+    //     job: '中環 - 愉景灣渡輪服務(航班時間表)(繁體中文)',
+    //     url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Ftc%2Fcontent_1408%2Fopendata%2Fferry_central_db_timetable_chi.csv',
+    //     path: './download/ferry/raw/central_db_tc.json',
+    //     key: 'central_db',
+    //     lang: 'tc'
+    // },
 
-    {
-        job: '馬灣 - 中環渡輪服務(航班時間表)(英文)',
-        url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Fen%2Fcontent_1408%2Fopendata%2Fferry_mawan_c_timetable_eng.csv',
-        path: './download/ferry/raw/mawan_c_en.json',
-        key: 'mawan_c',
-        lang: 'en'
-    },
+    // {
+    //     job: '馬灣 - 中環渡輪服務(航班時間表)(英文)',
+    //     url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Fen%2Fcontent_1408%2Fopendata%2Fferry_mawan_c_timetable_eng.csv',
+    //     path: './download/ferry/raw/mawan_c_en.json',
+    //     key: 'mawan_c',
+    //     lang: 'en'
+    // },
 
-    {
-        job: '馬灣 - 中環渡輪服務(航班時間表)(繁體中文)',
-        url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Ftc%2Fcontent_1408%2Fopendata%2Fferry_mawan_c_timetable_chi.csv',
-        path: './download/ferry/raw/mawan_c_tc.json',
-        key: 'mawan_c',
-        lang: 'tc'
-    },
+    // {
+    //     job: '馬灣 - 中環渡輪服務(航班時間表)(繁體中文)',
+    //     url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Ftc%2Fcontent_1408%2Fopendata%2Fferry_mawan_c_timetable_chi.csv',
+    //     path: './download/ferry/raw/mawan_c_tc.json',
+    //     key: 'mawan_c',
+    //     lang: 'tc'
+    // },
 
-    {
-        job: '馬灣 - 荃灣渡輪服務(航班時間表)(英文)',
-        url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Fen%2Fcontent_1408%2Fopendata%2Fferry_mawan_tw_timetable_eng.csv',
-        path: './download/ferry/raw/mawan_tw_en.json',
-        key: 'mawan_tw',
-        lang: 'en'
-    },
+    // {
+    //     job: '馬灣 - 荃灣渡輪服務(航班時間表)(英文)',
+    //     url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Fen%2Fcontent_1408%2Fopendata%2Fferry_mawan_tw_timetable_eng.csv',
+    //     path: './download/ferry/raw/mawan_tw_en.json',
+    //     key: 'mawan_tw',
+    //     lang: 'en'
+    // },
 
-    {
-        job: '馬灣 - 荃灣渡輪服務(航班時間表)(繁體中文)',
-        url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Fen%2Fcontent_1408%2Fopendata%2Fferry_mawan_tw_timetable_eng.csv',
-        path: './download/ferry/raw/mawan_tw_tc.json',
-        key: 'mawan_tw',
-        lang: 'tc'
-    },
+    // {
+    //     job: '馬灣 - 荃灣渡輪服務(航班時間表)(繁體中文)',
+    //     url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Fen%2Fcontent_1408%2Fopendata%2Fferry_mawan_tw_timetable_eng.csv',
+    //     path: './download/ferry/raw/mawan_tw_tc.json',
+    //     key: 'mawan_tw',
+    //     lang: 'tc'
+    // },
 
-    {
-        job: '北角 - 紅磡渡輪服務(航班時間表)(英文)',
-        url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Fen%2Fcontent_1408%2Fopendata%2Fferry_np_hh_timetable_eng.csv',
-        path: './download/ferry/raw/np_hh_en.json',
-        key: 'np_hh',
-        lang: 'en'
-    },
+    // {
+    //     job: '北角 - 紅磡渡輪服務(航班時間表)(英文)',
+    //     url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Fen%2Fcontent_1408%2Fopendata%2Fferry_np_hh_timetable_eng.csv',
+    //     path: './download/ferry/raw/np_hh_en.json',
+    //     key: 'np_hh',
+    //     lang: 'en'
+    // },
 
-    {
-        job: '北角 - 紅磡渡輪服務(航班時間表)(繁體中文)',
-        url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Ftc%2Fcontent_1408%2Fopendata%2Fferry_np_hh_timetable_chi.csv',
-        path: './download/ferry/raw/np_hh_tc.json',
-        key: 'np_hh',
-        lang: 'tc'
-    },
+    // {
+    //     job: '北角 - 紅磡渡輪服務(航班時間表)(繁體中文)',
+    //     url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Ftc%2Fcontent_1408%2Fopendata%2Fferry_np_hh_timetable_chi.csv',
+    //     path: './download/ferry/raw/np_hh_tc.json',
+    //     key: 'np_hh',
+    //     lang: 'tc'
+    // },
 
-    {
-        job: '北角 - 九龍城渡輪服務(航班時間表)(英文)',
-        url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Fen%2Fcontent_1408%2Fopendata%2Fferry_np_klnc_timetable_eng.csv',
-        path: './download/ferry/raw/np_klnc_en.json',
-        key: 'np_klnc',
-        lang: 'en'
-    },
+    // {
+    //     job: '北角 - 九龍城渡輪服務(航班時間表)(英文)',
+    //     url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Fen%2Fcontent_1408%2Fopendata%2Fferry_np_klnc_timetable_eng.csv',
+    //     path: './download/ferry/raw/np_klnc_en.json',
+    //     key: 'np_klnc',
+    //     lang: 'en'
+    // },
 
-    {
-        job: '北角 - 九龍城渡輪服務(航班時間表)(繁體中文)',
-        url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Ftc%2Fcontent_1408%2Fopendata%2Fferry_np_klnc_timetable_chi.csv',
-        path: './download/ferry/raw/np_klnc_tc.json',
-        key: 'np_klnc',
-        lang: 'tc'
-    },
+    // {
+    //     job: '北角 - 九龍城渡輪服務(航班時間表)(繁體中文)',
+    //     url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Ftc%2Fcontent_1408%2Fopendata%2Fferry_np_klnc_timetable_chi.csv',
+    //     path: './download/ferry/raw/np_klnc_tc.json',
+    //     key: 'np_klnc',
+    //     lang: 'tc'
+    // },
 
-    {
-        job: '北角 - 觀塘 - 啟德渡輪服務(航班時間表)(英文)',
-        url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Fen%2Fcontent_1408%2Fopendata%2Fferry_np_ktak_timetable_eng.csv',
-        path: './download/ferry/raw/np_ktak_en.json',
-        key: 'np_ktak',
-        lang: 'en'
-    },
+    // {
+    //     job: '北角 - 觀塘 - 啟德渡輪服務(航班時間表)(英文)',
+    //     url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Fen%2Fcontent_1408%2Fopendata%2Fferry_np_ktak_timetable_eng.csv',
+    //     path: './download/ferry/raw/np_ktak_en.json',
+    //     key: 'np_ktak',
+    //     lang: 'en'
+    // },
 
-    {
-        job: '北角 - 觀塘 - 啟德渡輪服務(航班時間表)(繁體中文)',
-        url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Ftc%2Fcontent_1408%2Fopendata%2Fferry_np_ktak_timetable_chi.csv',
-        path: './download/ferry/raw/np_ktak_tc.json',
-        key: 'np_ktak',
-        lang: 'tc'
-    },
+    // {
+    //     job: '北角 - 觀塘 - 啟德渡輪服務(航班時間表)(繁體中文)',
+    //     url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Ftc%2Fcontent_1408%2Fopendata%2Fferry_np_ktak_timetable_chi.csv',
+    //     path: './download/ferry/raw/np_ktak_tc.json',
+    //     key: 'np_ktak',
+    //     lang: 'tc'
+    // },
 
-    {
-        job: '西灣河 - 觀塘渡輪服務(航班時間表)(英文)',
-        url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Fen%2Fcontent_1408%2Fopendata%2Fferry_swh_kt_timetable_eng.csv',
-        path: './download/ferry/raw/swh_kt_en.json',
-        key: 'swh_kt',
-        lang: 'en'
-    },
+    // {
+    //     job: '西灣河 - 觀塘渡輪服務(航班時間表)(英文)',
+    //     url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Fen%2Fcontent_1408%2Fopendata%2Fferry_swh_kt_timetable_eng.csv',
+    //     path: './download/ferry/raw/swh_kt_en.json',
+    //     key: 'swh_kt',
+    //     lang: 'en'
+    // },
 
-    {
-        job: '西灣河 - 觀塘渡輪服務(航班時間表)(繁體中文)',
-        url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Ftc%2Fcontent_1408%2Fopendata%2Fferry_swh_kt_timetable_chi.csv',
-        path: './download/ferry/raw/swh_kt_tc.json',
-        key: 'swh_kt',
-        lang: 'tc'
-    },
+    // {
+    //     job: '西灣河 - 觀塘渡輪服務(航班時間表)(繁體中文)',
+    //     url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Ftc%2Fcontent_1408%2Fopendata%2Fferry_swh_kt_timetable_chi.csv',
+    //     path: './download/ferry/raw/swh_kt_tc.json',
+    //     key: 'swh_kt',
+    //     lang: 'tc'
+    // },
 
-    {
-        job: '西灣河 - 三家村渡輪服務(航班時間表)(英文)',
-        url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Fen%2Fcontent_1408%2Fopendata%2Fferry_swh_skt_timetable_eng.csv',
-        path: './download/ferry/raw/swh_skt_en.json',
-        key: 'swh_skt',
-        lang: 'en'
-    },
+    // {
+    //     job: '西灣河 - 三家村渡輪服務(航班時間表)(英文)',
+    //     url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Fen%2Fcontent_1408%2Fopendata%2Fferry_swh_skt_timetable_eng.csv',
+    //     path: './download/ferry/raw/swh_skt_en.json',
+    //     key: 'swh_skt',
+    //     lang: 'en'
+    // },
 
-    {
-        job: '西灣河 - 三家村渡輪服務(航班時間表)(繁體中文)',
-        url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Ftc%2Fcontent_1408%2Fopendata%2Fferry_swh_skt_timetable_chi.csv',
-        path: './download/ferry/raw/swh_skt_tc.json',
-        key: 'swh_skt',
-        lang: 'tc'
-    },
+    // {
+    //     job: '西灣河 - 三家村渡輪服務(航班時間表)(繁體中文)',
+    //     url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Ftc%2Fcontent_1408%2Fopendata%2Fferry_swh_skt_timetable_chi.csv',
+    //     path: './download/ferry/raw/swh_skt_tc.json',
+    //     key: 'swh_skt',
+    //     lang: 'tc'
+    // },
 
-    {
-        job: '愉景灣—梅窩渡輪服務(航班時間表)(英文)',
-        url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Fen%2Fcontent_1408%2Fopendata%2Fferry_db_mw_timetable_eng.csv',
-        path: './download/ferry/raw/db_mw_en.json',
-        key: 'db_mw',
-        lang: 'en'
-    },
+    // {
+    //     job: '愉景灣—梅窩渡輪服務(航班時間表)(英文)',
+    //     url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Fen%2Fcontent_1408%2Fopendata%2Fferry_db_mw_timetable_eng.csv',
+    //     path: './download/ferry/raw/db_mw_en.json',
+    //     key: 'db_mw',
+    //     lang: 'en'
+    // },
 
-    {
-        job: '愉景灣—梅窩渡輪服務(航班時間表)(繁體中文)',
-        url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Ftc%2Fcontent_1408%2Fopendata%2Fferry_db_mw_timetable_chi.csv',
-        path: './download/ferry/raw/db_mw_tc.json',
-        key: 'db_mw',
-        lang: 'tc'
-    },
+    // {
+    //     job: '愉景灣—梅窩渡輪服務(航班時間表)(繁體中文)',
+    //     url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Ftc%2Fcontent_1408%2Fopendata%2Fferry_db_mw_timetable_chi.csv',
+    //     path: './download/ferry/raw/db_mw_tc.json',
+    //     key: 'db_mw',
+    //     lang: 'tc'
+    // },
 
-    {
-        job: '屯門—東涌—沙螺灣—大澳渡輪服務(航班時間表)(英文)',
-        url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Fen%2Fcontent_1408%2Fopendata%2Fferry_tm_tc_slw_to_timetable_eng.csv',
-        path: './download/ferry/raw/tm_tc_slw_to_en.json',
-        key: 'tm_tc_slw_to',
-        lang: 'en'
-    },
+    // {
+    //     job: '屯門—東涌—沙螺灣—大澳渡輪服務(航班時間表)(英文)',
+    //     url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Fen%2Fcontent_1408%2Fopendata%2Fferry_tm_tc_slw_to_timetable_eng.csv',
+    //     path: './download/ferry/raw/tm_tc_slw_to_en.json',
+    //     key: 'tm_tc_slw_to',
+    //     lang: 'en'
+    // },
 
-    {
-        job: '屯門—東涌—沙螺灣—大澳渡輪服務(航班時間表)(繁體中文)',
-        url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Ftc%2Fcontent_1408%2Fopendata%2Fferry_tm_tc_slw_to_timetable_chi.csv',
-        path: './download/ferry/raw/tm_tc_slw_to_tc.json',
-        key: 'tm_tc_slw_to',
-        lang: 'tc'
-    },
+    // {
+    //     job: '屯門—東涌—沙螺灣—大澳渡輪服務(航班時間表)(繁體中文)',
+    //     url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Ftc%2Fcontent_1408%2Fopendata%2Fferry_tm_tc_slw_to_timetable_chi.csv',
+    //     path: './download/ferry/raw/tm_tc_slw_to_tc.json',
+    //     key: 'tm_tc_slw_to',
+    //     lang: 'tc'
+    // },
 
-    {
-        job: '香港仔—索罟灣（經模達）渡輪服務(航班時間表)(英文)',
-        url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Fen%2Fcontent_1408%2Fopendata%2Fferry_abd_skw_timetable_eng.csv',
-        path: './download/ferry/raw/abd_skw_en.json',
-        key: 'abd_skw',
-        lang: 'en'
-    },
+    // {
+    //     job: '香港仔—索罟灣（經模達）渡輪服務(航班時間表)(英文)',
+    //     url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Fen%2Fcontent_1408%2Fopendata%2Fferry_abd_skw_timetable_eng.csv',
+    //     path: './download/ferry/raw/abd_skw_en.json',
+    //     key: 'abd_skw',
+    //     lang: 'en'
+    // },
 
-    {
-        job: '香港仔—索罟灣（經模達）渡輪服務(航班時間表)(繁體中文)',
-        url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Ftc%2Fcontent_1408%2Fopendata%2Fferry_abd_skw_timetable_chi.csv',
-        path: './download/ferry/raw/abd_skw_tc.json',
-        key: 'abd_skw',
-        lang: 'tc'
-    },
+    // {
+    //     job: '香港仔—索罟灣（經模達）渡輪服務(航班時間表)(繁體中文)',
+    //     url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Ftc%2Fcontent_1408%2Fopendata%2Fferry_abd_skw_timetable_chi.csv',
+    //     path: './download/ferry/raw/abd_skw_tc.json',
+    //     key: 'abd_skw',
+    //     lang: 'tc'
+    // },
 
-    {
-        job: '香港仔—北角村—榕樹灣渡輪服務(航班時間表)(英文)',
-        url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Fen%2Fcontent_1408%2Fopendata%2Fferry_abd_ysw_timetable_eng.csv',
-        path: './download/ferry/raw/abd_ysw_en.json',
-        key: 'abd_ysw',
-        lang: 'en'
-    },
+    // {
+    //     job: '香港仔—北角村—榕樹灣渡輪服務(航班時間表)(英文)',
+    //     url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Fen%2Fcontent_1408%2Fopendata%2Fferry_abd_ysw_timetable_eng.csv',
+    //     path: './download/ferry/raw/abd_ysw_en.json',
+    //     key: 'abd_ysw',
+    //     lang: 'en'
+    // },
 
-    {
-        job: '香港仔—北角村—榕樹灣渡輪服務(航班時間表)(繁體中文)',
-        url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Ftc%2Fcontent_1408%2Fopendata%2Fferry_abd_ysw_timetable_chi.csv',
-        path: './download/ferry/raw/abd_ysw_tc.json',
-        key: 'abd_ysw',
-        lang: 'tc'
-    },
-    {
-        job: '中環—紅磡渡輪服務(航班時間表)(英文)',
-        url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Fen%2Fcontent_1408%2Fopendata%2Fferry_c_hh_timetable_eng.csv',
-        path: './download/ferry/raw/c_hh_en.json',
-        key: 'c_hh',
-        lang: 'en'
-    },
-    {
-        job: '中環—紅磡渡輪服務(航班時間表)(繁體中文)',
-        url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Ftc%2Fcontent_1408%2Fopendata%2Fferry_c_hh_timetable_chi.csv',
-        path: './download/ferry/raw/c_hh_tc.json',
-        key: 'c_hh',
-        lang: 'tc'
-    },
-    {
-        job: '馬料水—塔門渡輪服務(航班時間表)(英文)',
-        url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Fen%2Fcontent_4912%2Fopendata%2Fferry_mls_tm_timetable_eng.csv',
-        path: './download/ferry/raw/mls_tm_en.json',
-        key: 'mls_tm',
-        lang: 'en'
-    },
-    {
-        job: '馬料水—塔門渡輪服務(航班時間表)(繁體中文)',
-        url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Ftc%2Fcontent_4912%2Fopendata%2Fferry_mls_tm_timetable_chi.csv',
-        path: './download/ferry/raw/mls_tm_tc.json',
-        key: 'mls_tm',
-        lang: 'tc'
-    },
-    {
-        job: '馬料水—東平洲渡輪服務(航班時間表)(英文)',
-        url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Fen%2Fcontent_4912%2Fopendata%2Fferry_mls_tpc_timetable_eng.csv',
-        path: './download/ferry/raw/mls_tpc_en.json',
-        key: 'mls_tpc',
-        lang: 'en'
-    },
-    {
-        job: '馬料水—東平洲渡輪服務(航班時間表)(繁體中文)',
-        url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Ftc%2Fcontent_4912%2Fopendata%2Fferry_mls_tpc_timetable_chi.csv',
-        path: './download/ferry/raw/mls_tpc_tc.json',
-        key: 'mls_tpc',
-        lang: 'tc'
-    },
-    {
-        job: '塔門—黃石碼頭渡輪服務(航班時間表)(英文)',
-        url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Fen%2Fcontent_4912%2Fopendata%2Fferry_tm_wsp_timetable_eng.csv',
-        path: './download/ferry/raw/tm_wsp_en.json',
-        key: 'tm_wsp',
-        lang: 'en'
-    },
-    {
-        job: '塔門—黃石碼頭渡輪服務(航班時間表)(繁體中文)',
-        url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Ftc%2Fcontent_4912%2Fopendata%2Fferry_tm_wsp_timetable_chi.csv',
-        path: './download/ferry/raw/tm_wsp_tc.json',
-        key: 'tm_wsp',
-        lang: 'tc'
-    }
+    // {
+    //     job: '香港仔—北角村—榕樹灣渡輪服務(航班時間表)(繁體中文)',
+    //     url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Ftc%2Fcontent_1408%2Fopendata%2Fferry_abd_ysw_timetable_chi.csv',
+    //     path: './download/ferry/raw/abd_ysw_tc.json',
+    //     key: 'abd_ysw',
+    //     lang: 'tc'
+    // },
+    // {
+    //     job: '中環—紅磡渡輪服務(航班時間表)(英文)',
+    //     url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Fen%2Fcontent_1408%2Fopendata%2Fferry_c_hh_timetable_eng.csv',
+    //     path: './download/ferry/raw/c_hh_en.json',
+    //     key: 'c_hh',
+    //     lang: 'en'
+    // },
+    // {
+    //     job: '中環—紅磡渡輪服務(航班時間表)(繁體中文)',
+    //     url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Ftc%2Fcontent_1408%2Fopendata%2Fferry_c_hh_timetable_chi.csv',
+    //     path: './download/ferry/raw/c_hh_tc.json',
+    //     key: 'c_hh',
+    //     lang: 'tc'
+    // },
+    // {
+    //     job: '馬料水—塔門渡輪服務(航班時間表)(英文)',
+    //     url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Fen%2Fcontent_4912%2Fopendata%2Fferry_mls_tm_timetable_eng.csv',
+    //     path: './download/ferry/raw/mls_tm_en.json',
+    //     key: 'mls_tm',
+    //     lang: 'en'
+    // },
+    // {
+    //     job: '馬料水—塔門渡輪服務(航班時間表)(繁體中文)',
+    //     url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Ftc%2Fcontent_4912%2Fopendata%2Fferry_mls_tm_timetable_chi.csv',
+    //     path: './download/ferry/raw/mls_tm_tc.json',
+    //     key: 'mls_tm',
+    //     lang: 'tc'
+    // },
+    // {
+    //     job: '馬料水—東平洲渡輪服務(航班時間表)(英文)',
+    //     url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Fen%2Fcontent_4912%2Fopendata%2Fferry_mls_tpc_timetable_eng.csv',
+    //     path: './download/ferry/raw/mls_tpc_en.json',
+    //     key: 'mls_tpc',
+    //     lang: 'en'
+    // },
+    // {
+    //     job: '馬料水—東平洲渡輪服務(航班時間表)(繁體中文)',
+    //     url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Ftc%2Fcontent_4912%2Fopendata%2Fferry_mls_tpc_timetable_chi.csv',
+    //     path: './download/ferry/raw/mls_tpc_tc.json',
+    //     key: 'mls_tpc',
+    //     lang: 'tc'
+    // },
+    // {
+    //     job: '塔門—黃石碼頭渡輪服務(航班時間表)(英文)',
+    //     url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Fen%2Fcontent_4912%2Fopendata%2Fferry_tm_wsp_timetable_eng.csv',
+    //     path: './download/ferry/raw/tm_wsp_en.json',
+    //     key: 'tm_wsp',
+    //     lang: 'en'
+    // },
+    // {
+    //     job: '塔門—黃石碼頭渡輪服務(航班時間表)(繁體中文)',
+    //     url: 'https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fwww.td.gov.hk%2Ffilemanager%2Ftc%2Fcontent_4912%2Fopendata%2Fferry_tm_wsp_timetable_chi.csv',
+    //     path: './download/ferry/raw/tm_wsp_tc.json',
+    //     key: 'tm_wsp',
+    //     lang: 'tc'
+    // }
 ]
 
 async function downloadFerryJson()
@@ -380,64 +381,82 @@ async function parseRouteStopListFerry()
                 const remark = jsonObject[j]['備註'] || ' ';
 
                 const directionArray = direction.split(' 至 ');
-                locationObject[directionArray[0]] = directionArray[0];
-                locationObject[directionArray[1]] = directionArray[1];
+
+
+                locationObject[direction] =
+                {
+                    "from_tc": directionArray[0],
+                    "to_tc": directionArray[1],
+                    "from_en": "XXX",
+                    "to_en": "XXX",
+                    "from_lat": "",
+                    "from_long": "",
+                    "to_lat": "",
+                    "to_long": ""
+                }
+                // locationObject[directionArray[1]] = directionArray[1];
 
                 if (direction && serviceDay && serviceTime && remark)
                 {
                     if (direction in masterList_tc == false) 
                     {
-                        masterList_tc[direction] = {};
+                        masterList_tc[direction] = {
+                            lat1: ferryCoordination?.[direction]?.['lat1'] || '',
+                            long1: ferryCoordination?.[direction]?.['long1'] || '',
+                            lat2: ferryCoordination?.[direction]?.['lat2'] || '',
+                            long2: ferryCoordination?.[direction]?.['long2'] || '',
+                            schedule: {}
+                        };
                     }
 
-                    if (serviceDay in masterList_tc[direction] == false)
+                    if (serviceDay in masterList_tc[direction]['schedule'] == false)
                     {
-                        masterList_tc[direction][serviceDay] = [];
+                        masterList_tc[direction]['schedule'][serviceDay] = [];
                     }
 
-                    masterList_tc[direction][serviceDay].push(
+                    masterList_tc[direction]['schedule'][serviceDay].push(
                         { time: serviceTime, remark: remark }
                     );
                 }
             }
         }
-        else if (downloadList[i].lang == 'en')
-        {
-            for (var j = 0; j < jsonObject.length; j++)
-            {
-                const direction = jsonObject[j]['Direction'] || '';
-                const serviceDay = jsonObject[j]['Service Date'] || '';
-                const serviceTime = timeFormatter(jsonObject[j]['Service Hour']) || timeFormatter(jsonObject[j]['班次']) || '';
-                const remark = jsonObject[j]['Remark'] || ' ';
+        // else if (downloadList[i].lang == 'en')
+        // {
+        //     for (var j = 0; j < jsonObject.length; j++)
+        //     {
+        //         const direction = jsonObject[j]['Direction'] || '';
+        //         const serviceDay = jsonObject[j]['Service Date'] || '';
+        //         const serviceTime = timeFormatter(jsonObject[j]['Service Hour']) || timeFormatter(jsonObject[j]['班次']) || '';
+        //         const remark = jsonObject[j]['Remark'] || ' ';
 
-                dayObject[serviceDay] = serviceDay;
-                timeObject[serviceTime] = serviceTime;
+        //         dayObject[serviceDay] = serviceDay;
+        //         timeObject[serviceTime] = serviceTime;
 
-                if (direction && serviceDay && serviceTime && remark)
-                {
-                    if (direction in masterList_en == false) 
-                    {
-                        masterList_en[direction] = {};
-                    }
+        //         if (direction && serviceDay && serviceTime && remark)
+        //         {
+        //             if (direction in masterList_en == false) 
+        //             {
+        //                 masterList_en[direction] = {};
+        //             }
 
-                    if (serviceDay in masterList_en[direction] == false)
-                    {
-                        masterList_en[direction][serviceDay] = [];
-                    }
+        //             if (serviceDay in masterList_en[direction] == false)
+        //             {
+        //                 masterList_en[direction][serviceDay] = [];
+        //             }
 
-                    masterList_en[direction][serviceDay].push(
-                        { time: serviceTime, remark: remark }
-                    );
-                }
-            }
-        }
+        //             masterList_en[direction][serviceDay].push(
+        //                 { time: serviceTime, remark: remark }
+        //             );
+        //         }
+        //     }
+        // }
     }
 
     await saveJSONToFile(`./download/ferry/output/routeListFerry_tc.json`, masterList_tc);
-    await saveJSONToFile(`./download/ferry/output/routeListFerry_en.json`, masterList_en);
-    await saveJSONToFile(`./download/ferry/output/dayObject.json`, dayObject);
-    await saveJSONToFile(`./download/ferry/output/timeObject.json`, timeObject);
-    await saveJSONToFile(`./download/ferry/output/locationObject.json`, locationObject);
+    // await saveJSONToFile(`./download/ferry/output/routeListFerry_en.json`, masterList_en);
+    // await saveJSONToFile(`./download/ferry/output/dayObject.json`, dayObject);
+    // await saveJSONToFile(`./download/ferry/output/timeObject.json`, timeObject);
+    // await saveJSONToFile(`./download/ferry/output/locationObject.json`, locationObject);
 }
 
 function serviceDayFormatter(serviceDay_in)
@@ -486,7 +505,7 @@ function timeFormatter(time_in)
         {
             val11 = val10.substring(0, 4) + ' ' + val10.substring(4);
         }
-        else if (val11.length == 7 && val11.substring(4, 5) != ' ' &&val11.substring(5, 6) != ' ')
+        else if (val11.length == 7 && val11.substring(4, 5) != ' ' && val11.substring(5, 6) != ' ')
         {
             val11 = val10.substring(0, 5) + ' ' + val10.substring(5);
         }

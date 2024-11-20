@@ -80,7 +80,7 @@ async function mtr()
 
 async function ferry()
 {
-    // await downloadFerryJson();
+    await downloadFerryJson();
     await parseRouteStopListFerry();
     console.log('Ferry Finished');
 }
