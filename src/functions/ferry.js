@@ -380,78 +380,57 @@ async function parseRouteStopListFerry()
                 const serviceTime = timeFormatter(jsonObject[j]['服務時段']) || timeFormatter(jsonObject[j]['班次']) || '';
                 const remark = jsonObject[j]['備註'] || ' ';
 
-                const directionArray = direction.split(' 至 ');
+                // const directionArray = direction.split(' 至 ');
 
-                timeObject[serviceTime] = serviceTime;
+                // timeObject[serviceTime] = serviceTime;
 
-                locationObject[direction] =
-                {
-                    "from_tc": directionArray[0],
-                    "to_tc": directionArray[1],
-                    "from_en": "XXX",
-                    "to_en": "XXX",
-                    "from_lat": "",
-                    "from_long": "",
-                    "to_lat": "",
-                    "to_long": ""
-                }
+                // locationObject[direction] =
+                // {
+                //     "from_tc": directionArray[0],
+                //     "to_tc": directionArray[1],
+                //     "from_en": "XXX",
+                //     "to_en": "XXX",
+                //     "from_lat": "",
+                //     "from_long": "",
+                //     "to_lat": "",
+                //     "to_long": ""
+                // }
                 // locationObject[directionArray[1]] = directionArray[1];
 
                 if (direction && serviceDay && serviceTime && remark)
                 {
-                    if (direction in masterList_tc == false) 
+                    const route_id = ferryCoordination?.[direction]?.['route_id'] || '';
+
+                    if (route_id in masterList_tc == false) 
                     {
-                        masterList_tc[direction] = {
-                            route: direction,
-                            lat1: ferryCoordination?.[direction]?.['lat1'] || '',
-                            long1: ferryCoordination?.[direction]?.['long1'] || '',
-                            lat2: ferryCoordination?.[direction]?.['lat2'] || '',
-                            long2: ferryCoordination?.[direction]?.['long2'] || '',
+                        masterList_tc[route_id] = {
+                            route_id: route_id,
+                            route_tc: ferryCoordination?.[direction]?.['route_tc'] || '',
+                            route_en: ferryCoordination?.[direction]?.['route_en'] || '',
+                            from_tc: ferryCoordination?.[direction]?.['from_tc'] || '',
+                            to_tc: ferryCoordination?.[direction]?.['to_tc'] || '',
+                            from_en: ferryCoordination?.[direction]?.['from_en'] || '',
+                            to_en: ferryCoordination?.[direction]?.['to_en'] || '',
+                            from_lat: ferryCoordination?.[direction]?.['from_lat'] || '',
+                            from_long: ferryCoordination?.[direction]?.['from_long'] || '',
+                            to_lat: ferryCoordination?.[direction]?.['to_lat'] || '',
+                            to_long: ferryCoordination?.[direction]?.['to_long'] || '',
                             schedule: {}
                         };
                     }
 
-                    if (serviceDay in masterList_tc[direction]['schedule'] == false)
+                    if (serviceDay in masterList_tc[route_id]['schedule'] == false)
                     {
-                        masterList_tc[direction]['schedule'][serviceDay] = [];
+                        masterList_tc[route_id]['schedule'][serviceDay] = [];
                     }
 
-                    masterList_tc[direction]['schedule'][serviceDay].push(
+                    masterList_tc[route_id]['schedule'][serviceDay].push(
                         { time: serviceTime, remark: remark }
                     );
                 }
             }
         }
-        // else if (downloadList[i].lang == 'en')
-        // {
-        //     for (var j = 0; j < jsonObject.length; j++)
-        //     {
-        //         const direction = jsonObject[j]['Direction'] || '';
-        //         const serviceDay = jsonObject[j]['Service Date'] || '';
-        //         const serviceTime = timeFormatter(jsonObject[j]['Service Hour']) || timeFormatter(jsonObject[j]['班次']) || '';
-        //         const remark = jsonObject[j]['Remark'] || ' ';
 
-        //         dayObject[serviceDay] = serviceDay;
-        //         timeObject[serviceTime] = serviceTime;
-
-        //         if (direction && serviceDay && serviceTime && remark)
-        //         {
-        //             if (direction in masterList_en == false) 
-        //             {
-        //                 masterList_en[direction] = {};
-        //             }
-
-        //             if (serviceDay in masterList_en[direction] == false)
-        //             {
-        //                 masterList_en[direction][serviceDay] = [];
-        //             }
-
-        //             masterList_en[direction][serviceDay].push(
-        //                 { time: serviceTime, remark: remark }
-        //             );
-        //         }
-        //     }
-        // }
     }
 
     await saveJSONToFile(`./download/ferry/output/routeListFerry_tc.json`, masterList_tc);

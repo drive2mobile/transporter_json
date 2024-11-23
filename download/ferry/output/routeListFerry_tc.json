@@ -1,10 +1,16 @@
 {
-  "中環 至 坪洲": {
-    "route": "中環 至 坪洲",
-    "lat1": "22.287466046041473",
-    "long1": "114.1603246783918",
-    "lat2": "22.284213020678916",
-    "long2": "114.03791815599665",
+  "central_to_pc": {
+    "route_id": "central_to_pc",
+    "route_tc": "中環 至 坪洲",
+    "route_en": "Central to Peng Chau",
+    "from_tc": "中環",
+    "to_tc": "坪洲",
+    "from_en": "Central",
+    "to_en": "Peng Chau",
+    "from_lat": "22.287466046041473",
+    "from_long": "114.1603246783918",
+    "to_lat": "22.284213020678916",
+    "to_long": "114.03791815599665",
     "schedule": {
       "星期一至六(公眾假期除外)": [
         {
@@ -212,12 +218,18 @@
       ]
     }
   },
-  "坪洲 至 中環": {
-    "route": "坪洲 至 中環",
-    "lat1": "22.284213020678916",
-    "long1": "114.03791815599665",
-    "lat2": "22.287466046041473",
-    "long2": "114.1603246783918",
+  "pc_to_central": {
+    "route_id": "pc_to_central",
+    "route_tc": "坪洲 至 中環",
+    "route_en": "Peng Chau to Central",
+    "from_tc": "坪洲",
+    "to_tc": "中環",
+    "from_en": "Peng Chau",
+    "to_en": "Central",
+    "from_lat": "22.284213020678916",
+    "from_long": "114.03791815599665",
+    "to_lat": "22.287466046041473",
+    "to_long": "114.1603246783918",
     "schedule": {
       "星期一至六(公眾假期除外)": [
         {
@@ -429,12 +441,18 @@
       ]
     }
   },
-  "坪洲 至 喜靈洲": {
-    "route": "坪洲 至 喜靈洲",
-    "lat1": "22.284598870123695",
-    "long1": "114.03716509474397",
-    "lat2": "22.257935542892653",
-    "long2": "114.02774126067487",
+  "pc_to_hlc": {
+    "route_id": "pc_to_hlc",
+    "route_tc": "坪洲 至 喜靈洲",
+    "route_en": "Peng Chau to Hei Ling Chau",
+    "from_tc": "坪洲",
+    "to_tc": "喜靈洲",
+    "from_en": "Peng Chau",
+    "to_en": "Hei Ling Chau",
+    "from_lat": "22.284598870123695",
+    "from_long": "114.03716509474397",
+    "to_lat": "22.257935542892653",
+    "to_long": "114.02774126067487",
     "schedule": {
       "星期一至六(公眾假期除外)": [
         {
@@ -522,12 +540,18 @@
       ]
     }
   },
-  "喜靈洲 至 坪洲": {
-    "route": "喜靈洲 至 坪洲",
-    "lat1": "22.257935542892653",
-    "long1": "114.02774126067487",
-    "lat2": "22.284598870123695",
-    "long2": "114.03716509474397",
+  "hlc_to_pc": {
+    "route_id": "hlc_to_pc",
+    "route_tc": "喜靈洲 至 坪洲",
+    "route_en": "Hei Ling Chau to Peng Chau",
+    "from_tc": "喜靈洲",
+    "to_tc": "坪洲",
+    "from_en": "Hei Ling Chau",
+    "to_en": "Peng Chau",
+    "from_lat": "22.257935542892653",
+    "from_long": "114.02774126067487",
+    "to_lat": "22.284598870123695",
+    "to_long": "114.03716509474397",
     "schedule": {
       "星期一至六(公眾假期除外)": [
         {
@@ -615,12 +639,18 @@
       ]
     }
   },
-  "中環 至 榕樹灣": {
-    "route": "中環 至 榕樹灣",
-    "lat1": "22.287931277286948",
-    "long1": "114.15841453633554",
-    "lat2": "22.226528637942263",
-    "long2": "114.10909639624232",
+  "central_to_ysw": {
+    "route_id": "central_to_ysw",
+    "route_tc": "中環 至 榕樹灣",
+    "route_en": "Central to Yung Shue Wan",
+    "from_tc": "中環",
+    "to_tc": "榕樹灣",
+    "from_en": "Central",
+    "to_en": "Yung Shue Wan",
+    "from_lat": "22.287931277286948",
+    "from_long": "114.15841453633554",
+    "to_lat": "22.226528637942263",
+    "to_long": "114.10909639624232",
     "schedule": {
       "星期一至六(公眾假期除外)": [
         {
@@ -880,12 +910,18 @@
       ]
     }
   },
-  "榕樹灣 至 中環": {
-    "route": "榕樹灣 至 中環",
-    "lat1": "22.226528637942263",
-    "long1": "114.10909639624232",
-    "lat2": "22.287931277286948",
-    "long2": "114.15841453633554",
+  "ysw_to_central": {
+    "route_id": "ysw_to_central",
+    "route_tc": "榕樹灣 至 中環",
+    "route_en": "Yung Shue Wan to Central",
+    "from_tc": "榕樹灣",
+    "to_tc": "中環",
+    "from_en": "Yung Shue Wan",
+    "to_en": "Central",
+    "from_lat": "22.226528637942263",
+    "from_long": "114.10909639624232",
+    "to_lat": "22.287931277286948",
+    "to_long": "114.15841453633554",
     "schedule": {
       "星期一至六(公眾假期除外)": [
         {
@@ -1141,12 +1177,18 @@
       ]
     }
   },
-  "中環 至 索罟灣": {
-    "route": "中環 至 索罟灣",
-    "lat1": "22.28793443549847",
-    "long1": "114.15842876358667",
-    "lat2": "22.205580951664242",
-    "long2": "114.13116697797898",
+  "central_to_skw": {
+    "route_id": "central_to_skw",
+    "route_tc": "中環 至 索罟灣",
+    "route_en": "Central to Sok Kwu Wan",
+    "from_tc": "中環",
+    "to_tc": "索罟灣",
+    "from_en": "Central",
+    "to_en": "Sok Kwu Wan",
+    "from_lat": "22.28793443549847",
+    "from_long": "114.15842876358667",
+    "to_lat": "22.205580951664242",
+    "to_long": "114.13116697797898",
     "schedule": {
       "星期一至六(公眾假期除外)": [
         {
@@ -1262,12 +1304,18 @@
       ]
     }
   },
-  "索罟灣 至 中環": {
-    "route": "索罟灣 至 中環",
-    "lat1": "22.205580951664242",
-    "long1": "114.13116697797898",
-    "lat2": "22.28793443549847",
-    "long2": "114.15842876358667",
+  "skw_to_central": {
+    "route_id": "skw_to_central",
+    "route_tc": "索罟灣 至 中環",
+    "route_en": "Sok Kwu Wan to Central",
+    "from_tc": "索罟灣",
+    "to_tc": "中環",
+    "from_en": "Sok Kwu Wan",
+    "to_en": "Central",
+    "from_lat": "22.205580951664242",
+    "from_long": "114.13116697797898",
+    "to_lat": "22.28793443549847",
+    "to_long": "114.15842876358667",
     "schedule": {
       "星期一至六(公眾假期除外)": [
         {
@@ -1383,12 +1431,18 @@
       ]
     }
   },
-  "中環 至 梅窩": {
-    "route": "中環 至 梅窩",
-    "lat1": "22.287468951716303",
-    "long1": "114.16032468805086",
-    "lat2": "22.265069622030296",
-    "long2": "114.00212335873759",
+  "central_to_mw": {
+    "route_id": "central_to_mw",
+    "route_tc": "中環 至 梅窩",
+    "route_en": "Central to Mui Wo",
+    "from_tc": "中環",
+    "to_tc": "梅窩",
+    "from_en": "Central",
+    "to_en": "Mui Wo",
+    "from_lat": "22.287468951716303",
+    "from_long": "114.16032468805086",
+    "to_lat": "22.265069622030296",
+    "to_long": "114.00212335873759",
     "schedule": {
       "星期一至五(公眾假期除外)": [
         {
@@ -1509,6 +1563,118 @@
         },
         {
           "time": "10:45 PM",
+          "remark": " "
+        },
+        {
+          "time": "11:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "7:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "7:50 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:10 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:50 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:10 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:50 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:10 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "8:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "8:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "9:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "9:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "10:30 PM",
           "remark": " "
         },
         {
@@ -1755,15 +1921,91 @@
           "time": "11:40 PM",
           "remark": " "
         }
+      ],
+      "星期六、日及公眾假期": [
+        {
+          "time": "7:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "1:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "8:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "9:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "10:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "11:30 PM",
+          "remark": " "
+        }
       ]
     }
   },
-  "梅窩 至 中環": {
-    "route": "梅窩 至 中環",
-    "lat1": "22.265069622030296",
-    "long1": "114.00212335873759",
-    "lat2": "22.287468951716303",
-    "long2": "114.16032468805086",
+  "mw_to_central": {
+    "route_id": "mw_to_central",
+    "route_tc": "梅窩 至 中環",
+    "route_en": "Mui Wo to Central",
+    "from_tc": "梅窩",
+    "to_tc": "中環",
+    "from_en": "Mui Wo",
+    "to_en": "Central",
+    "from_lat": "22.265069622030296",
+    "from_long": "114.00212335873759",
+    "to_lat": "22.287468951716303",
+    "to_long": "114.16032468805086",
     "schedule": {
       "星期一至五(公眾假期除外)": [
         {
@@ -1884,6 +2126,118 @@
         },
         {
           "time": "11:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "7:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "7:20 AM",
+          "remark": " "
+        },
+        {
+          "time": "7:40 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:20 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:40 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:20 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:40 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "8:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "8:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "9:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "10:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "11:00 PM",
           "remark": " "
         }
       ],
@@ -2122,15 +2476,91 @@
           "time": "11:30 PM",
           "remark": " "
         }
+      ],
+      "星期六、日及公眾假期": [
+        {
+          "time": "7:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "8:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "9:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "10:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "11:00 PM",
+          "remark": " "
+        }
       ]
     }
   },
-  "長洲 至 梅窩": {
-    "route": "長洲 至 梅窩",
-    "lat1": "22.265069622030296",
-    "long1": "114.00212335873759",
-    "lat2": "22.287468951716303",
-    "long2": "114.16032468805086",
+  "cc_to_mw": {
+    "route_id": "cc_to_mw",
+    "route_tc": "長洲 至 梅窩",
+    "route_en": "Cheung Chau to Mui Wo",
+    "from_tc": "長洲",
+    "to_tc": "梅窩",
+    "from_en": "Cheung Chau",
+    "to_en": "Mui Wo",
+    "from_lat": "22.265069622030296",
+    "from_long": "114.00212335873759",
+    "to_lat": "22.287468951716303",
+    "to_long": "114.16032468805086",
     "schedule": {
       "每天": [
         {
@@ -2156,12 +2586,18 @@
       ]
     }
   },
-  "梅窩 至 坪洲": {
-    "route": "梅窩 至 坪洲",
-    "lat1": "",
-    "long1": "",
-    "lat2": "",
-    "long2": "",
+  "mu_to_pc": {
+    "route_id": "mu_to_pc",
+    "route_tc": "梅窩 至 坪洲",
+    "route_en": "Mui Wo to Peng Chau",
+    "from_tc": "梅窩",
+    "to_tc": "坪洲",
+    "from_en": "Mui Wo",
+    "to_en": "Peng Chau",
+    "from_lat": "22.265069622030296",
+    "from_long": "114.00212335873759",
+    "to_lat": "22.287468951716303",
+    "to_long": "114.16032468805086",
     "schedule": {
       "每天": [
         {
@@ -2207,12 +2643,18 @@
       ]
     }
   },
-  "坪洲 至 梅窩": {
-    "route": "坪洲 至 梅窩",
-    "lat1": "22.265069622030296",
-    "long1": "114.00212335873759",
-    "lat2": "22.287468951716303",
-    "long2": "114.16032468805086",
+  "pc_to_mu": {
+    "route_id": "pc_to_mu",
+    "route_tc": "坪洲 至 梅窩",
+    "route_en": "Peng Chau to Mui Wo",
+    "from_tc": "坪洲",
+    "to_tc": "梅窩",
+    "from_en": "Peng Chau",
+    "to_en": "Mui Wo",
+    "from_lat": "22.265069622030296",
+    "from_long": "114.00212335873759",
+    "to_lat": "22.287468951716303",
+    "to_long": "114.16032468805086",
     "schedule": {
       "每天": [
         {
@@ -2264,12 +2706,18 @@
       ]
     }
   },
-  "梅窩 至 芝蔴灣": {
-    "route": "梅窩 至 芝蔴灣",
-    "lat1": "22.265069622030296",
-    "long1": "114.00212335873759",
-    "lat2": "22.287468951716303",
-    "long2": "114.16032468805086",
+  "mw_to_cmw": {
+    "route_id": "mw_to_cmw",
+    "route_tc": "梅窩 至 芝蔴灣",
+    "route_en": "Mui Wo to Chi Ma Wan",
+    "from_tc": "梅窩",
+    "to_tc": "芝蔴灣",
+    "from_en": "Mui Wo",
+    "to_en": "Chi Ma Wan",
+    "from_lat": "22.265069622030296",
+    "from_long": "114.00212335873759",
+    "to_lat": "22.287468951716303",
+    "to_long": "114.16032468805086",
     "schedule": {
       "每天": [
         {
@@ -2299,12 +2747,18 @@
       ]
     }
   },
-  "芝蔴灣 至 長洲": {
-    "route": "芝蔴灣 至 長洲",
-    "lat1": "22.265069622030296",
-    "long1": "114.00212335873759",
-    "lat2": "22.287468951716303",
-    "long2": "114.16032468805086",
+  "cmw_to_cc": {
+    "route_id": "cmw_to_cc",
+    "route_tc": "芝蔴灣 至 長洲",
+    "route_en": "Chi Ma Wan to Cheung Chau",
+    "from_tc": "芝蔴灣",
+    "to_tc": "長洲",
+    "from_en": "Chi Ma Wan",
+    "to_en": "Cheung Chau",
+    "from_lat": "22.265069622030296",
+    "from_long": "114.00212335873759",
+    "to_lat": "22.287468951716303",
+    "to_long": "114.16032468805086",
     "schedule": {
       "每天": [
         {
@@ -2334,12 +2788,18 @@
       ]
     }
   },
-  "長洲 至 芝蔴灣": {
-    "route": "長洲 至 芝蔴灣",
-    "lat1": "22.265069622030296",
-    "long1": "114.00212335873759",
-    "lat2": "22.287468951716303",
-    "long2": "114.16032468805086",
+  "cc_to_cmw": {
+    "route_id": "cc_to_cmw",
+    "route_tc": "長洲 至 芝蔴灣",
+    "route_en": "Cheung Chau to Chi Ma Wan",
+    "from_tc": "長洲",
+    "to_tc": "芝蔴灣",
+    "from_en": "Cheung Chau",
+    "to_en": "Chi Ma Wan",
+    "from_lat": "22.265069622030296",
+    "from_long": "114.00212335873759",
+    "to_lat": "22.287468951716303",
+    "to_long": "114.16032468805086",
     "schedule": {
       "每天": [
         {
@@ -2365,12 +2825,18 @@
       ]
     }
   },
-  "芝蔴灣 至 梅窩": {
-    "route": "芝蔴灣 至 梅窩",
-    "lat1": "22.265069622030296",
-    "long1": "114.00212335873759",
-    "lat2": "22.287468951716303",
-    "long2": "114.16032468805086",
+  "cmw_to_mw": {
+    "route_id": "cmw_to_mw",
+    "route_tc": "芝蔴灣 至 梅窩",
+    "route_en": "Chi Ma Wan to Mui Wo",
+    "from_tc": "芝蔴灣",
+    "to_tc": "梅窩",
+    "from_en": "Chi Ma Wan",
+    "to_en": "Mui Wo",
+    "from_lat": "22.265069622030296",
+    "from_long": "114.00212335873759",
+    "to_lat": "22.287468951716303",
+    "to_long": "114.16032468805086",
     "schedule": {
       "每天": [
         {
@@ -2396,12 +2862,18 @@
       ]
     }
   },
-  "梅窩 至 長洲": {
-    "route": "梅窩 至 長洲",
-    "lat1": "22.265069622030296",
-    "long1": "114.00212335873759",
-    "lat2": "22.287468951716303",
-    "long2": "114.16032468805086",
+  "mw_to_cc": {
+    "route_id": "mw_to_cc",
+    "route_tc": "梅窩 至 長洲",
+    "route_en": "Mui Wo to Cheung Chau",
+    "from_tc": "梅窩",
+    "to_tc": "長洲",
+    "from_en": "Mui Wo",
+    "to_en": "Cheung Chau",
+    "from_lat": "22.265069622030296",
+    "from_long": "114.00212335873759",
+    "to_lat": "22.287468951716303",
+    "to_long": "114.16032468805086",
     "schedule": {
       "每天": [
         {
@@ -2419,12 +2891,18 @@
       ]
     }
   },
-  "中環 至 長洲": {
-    "route": "中環 至 長洲",
-    "lat1": "22.265069622030296",
-    "long1": "114.00212335873759",
-    "lat2": "22.287468951716303",
-    "long2": "114.16032468805086",
+  "central_to_cc": {
+    "route_id": "central_to_cc",
+    "route_tc": "中環 至 長洲",
+    "route_en": "Central to Cheung Chau",
+    "from_tc": "中環",
+    "to_tc": "長洲",
+    "from_en": "Central",
+    "to_en": "Cheung Chau",
+    "from_lat": "22.265069622030296",
+    "from_long": "114.00212335873759",
+    "to_lat": "22.287468951716303",
+    "to_long": "114.16032468805086",
     "schedule": {
       "星期一至六(公眾假期除外)": [
         {
@@ -2756,12 +3234,18 @@
       ]
     }
   },
-  "長洲 至 中環": {
-    "route": "長洲 至 中環",
-    "lat1": "22.265069622030296",
-    "long1": "114.00212335873759",
-    "lat2": "22.287468951716303",
-    "long2": "114.16032468805086",
+  "cc_to_central": {
+    "route_id": "cc_to_central",
+    "route_tc": "長洲 至 中環",
+    "route_en": "Cheung Chau to Central",
+    "from_tc": "長洲",
+    "to_tc": "中環",
+    "from_en": "Cheung Chau",
+    "to_en": "Central",
+    "from_lat": "22.265069622030296",
+    "from_long": "114.00212335873759",
+    "to_lat": "22.287468951716303",
+    "to_long": "114.16032468805086",
     "schedule": {
       "星期一至六(公眾假期除外)": [
         {
@@ -3093,12 +3577,18 @@
       ]
     }
   },
-  "中環 至 愉景灣": {
-    "route": "中環 至 愉景灣",
-    "lat1": "",
-    "long1": "",
-    "lat2": "",
-    "long2": "",
+  "central_to_discovery_bay": {
+    "route_id": "central_to_discovery_bay",
+    "route_tc": "中環 至 愉景灣",
+    "route_en": "Central to Discovery Bay",
+    "from_tc": "中環",
+    "to_tc": "愉景灣",
+    "from_en": "Central",
+    "to_en": "Discovery Bay",
+    "from_lat": "22.265069622030296",
+    "from_long": "114.00212335873759",
+    "to_lat": "22.287468951716303",
+    "to_long": "114.16032468805086",
     "schedule": {
       "星期一至星期一至五(公眾假期除外)": [
         {
@@ -3576,12 +4066,18 @@
       ]
     }
   },
-  "愉景灣 至 中環": {
-    "route": "愉景灣 至 中環",
-    "lat1": "",
-    "long1": "",
-    "lat2": "",
-    "long2": "",
+  "discovery_bay_to_central": {
+    "route_id": "discovery_bay_to_central",
+    "route_tc": "愉景灣 至 中環",
+    "route_en": "Discovery Bay to Central",
+    "from_tc": "愉景灣",
+    "to_tc": "中環",
+    "from_en": "Discovery Bay",
+    "to_en": "Central",
+    "from_lat": "22.265069622030296",
+    "from_long": "114.00212335873759",
+    "to_lat": "22.287468951716303",
+    "to_long": "114.16032468805086",
     "schedule": {
       "星期一至星期一至五(公眾假期除外)": [
         {
@@ -4075,398 +4571,18 @@
       ]
     }
   },
-  "馬灣 至 中環": {
-    "route": "馬灣 至 中環",
-    "lat1": "",
-    "long1": "",
-    "lat2": "",
-    "long2": "",
-    "schedule": {
-      "星期一至五(公眾假期除外)": [
-        {
-          "time": "6:30 AM",
-          "remark": " "
-        },
-        {
-          "time": "7:00 AM",
-          "remark": " "
-        },
-        {
-          "time": "7:20 AM",
-          "remark": " "
-        },
-        {
-          "time": "7:40 AM",
-          "remark": " "
-        },
-        {
-          "time": "8:00 AM",
-          "remark": " "
-        },
-        {
-          "time": "8:20 AM",
-          "remark": " "
-        },
-        {
-          "time": "8:40 AM",
-          "remark": " "
-        },
-        {
-          "time": "9:00 AM",
-          "remark": " "
-        },
-        {
-          "time": "9:20 AM",
-          "remark": " "
-        },
-        {
-          "time": "9:40 AM",
-          "remark": " "
-        },
-        {
-          "time": "10:00 AM",
-          "remark": " "
-        },
-        {
-          "time": "11:00 AM",
-          "remark": " "
-        },
-        {
-          "time": "12:00 PM",
-          "remark": " "
-        },
-        {
-          "time": "1:00 PM",
-          "remark": " "
-        },
-        {
-          "time": "2:00 PM",
-          "remark": " "
-        },
-        {
-          "time": "3:00 PM",
-          "remark": " "
-        },
-        {
-          "time": "4:00 PM",
-          "remark": " "
-        },
-        {
-          "time": "5:00 PM",
-          "remark": " "
-        },
-        {
-          "time": "5:30 PM",
-          "remark": " "
-        },
-        {
-          "time": "6:00 PM",
-          "remark": " "
-        },
-        {
-          "time": "6:30 PM",
-          "remark": " "
-        },
-        {
-          "time": "7:00 PM",
-          "remark": " "
-        },
-        {
-          "time": "7:30 PM",
-          "remark": " "
-        },
-        {
-          "time": "8:00 PM",
-          "remark": " "
-        },
-        {
-          "time": "8:30 PM",
-          "remark": " "
-        },
-        {
-          "time": "9:00 PM",
-          "remark": " "
-        },
-        {
-          "time": "10:00 PM",
-          "remark": " "
-        },
-        {
-          "time": "11:00 PM",
-          "remark": " "
-        }
-      ],
-      "星期六、日及公眾假期": [
-        {
-          "time": "7:00 AM",
-          "remark": " "
-        },
-        {
-          "time": "8:00 AM",
-          "remark": " "
-        },
-        {
-          "time": "9:00 AM",
-          "remark": " "
-        },
-        {
-          "time": "10:00 AM",
-          "remark": " "
-        },
-        {
-          "time": "11:00 AM",
-          "remark": " "
-        },
-        {
-          "time": "12:00 PM",
-          "remark": " "
-        },
-        {
-          "time": "1:00 PM",
-          "remark": " "
-        },
-        {
-          "time": "2:00 PM",
-          "remark": " "
-        },
-        {
-          "time": "3:00 PM",
-          "remark": " "
-        },
-        {
-          "time": "4:00 PM",
-          "remark": " "
-        },
-        {
-          "time": "5:00 PM",
-          "remark": " "
-        },
-        {
-          "time": "6:00 PM",
-          "remark": " "
-        },
-        {
-          "time": "7:00 PM",
-          "remark": " "
-        },
-        {
-          "time": "8:00 PM",
-          "remark": " "
-        },
-        {
-          "time": "9:00 PM",
-          "remark": " "
-        },
-        {
-          "time": "10:00 PM",
-          "remark": " "
-        },
-        {
-          "time": "11:00 PM",
-          "remark": " "
-        }
-      ]
-    }
-  },
-  "中環 至 馬灣": {
-    "route": "中環 至 馬灣",
-    "lat1": "",
-    "long1": "",
-    "lat2": "",
-    "long2": "",
-    "schedule": {
-      "星期一至五(公眾假期除外)": [
-        {
-          "time": "7:00 AM",
-          "remark": " "
-        },
-        {
-          "time": "7:30 AM",
-          "remark": " "
-        },
-        {
-          "time": "7:50 AM",
-          "remark": " "
-        },
-        {
-          "time": "8:10 AM",
-          "remark": " "
-        },
-        {
-          "time": "8:30 AM",
-          "remark": " "
-        },
-        {
-          "time": "8:50 AM",
-          "remark": " "
-        },
-        {
-          "time": "9:10 AM",
-          "remark": " "
-        },
-        {
-          "time": "9:30 AM",
-          "remark": " "
-        },
-        {
-          "time": "9:50 AM",
-          "remark": " "
-        },
-        {
-          "time": "10:10 AM",
-          "remark": " "
-        },
-        {
-          "time": "10:30 AM",
-          "remark": " "
-        },
-        {
-          "time": "11:30 AM",
-          "remark": " "
-        },
-        {
-          "time": "12:30 PM",
-          "remark": " "
-        },
-        {
-          "time": "1:30 PM",
-          "remark": " "
-        },
-        {
-          "time": "2:30 PM",
-          "remark": " "
-        },
-        {
-          "time": "3:30 PM",
-          "remark": " "
-        },
-        {
-          "time": "4:30 PM",
-          "remark": " "
-        },
-        {
-          "time": "5:30 PM",
-          "remark": " "
-        },
-        {
-          "time": "6:00 PM",
-          "remark": " "
-        },
-        {
-          "time": "6:30 PM",
-          "remark": " "
-        },
-        {
-          "time": "7:00 PM",
-          "remark": " "
-        },
-        {
-          "time": "7:30 PM",
-          "remark": " "
-        },
-        {
-          "time": "8:00 PM",
-          "remark": " "
-        },
-        {
-          "time": "8:30 PM",
-          "remark": " "
-        },
-        {
-          "time": "9:00 PM",
-          "remark": " "
-        },
-        {
-          "time": "9:30 PM",
-          "remark": " "
-        },
-        {
-          "time": "10:30 PM",
-          "remark": " "
-        },
-        {
-          "time": "11:30 PM",
-          "remark": " "
-        }
-      ],
-      "星期六、日及公眾假期": [
-        {
-          "time": "7:30 AM",
-          "remark": " "
-        },
-        {
-          "time": "8:30 AM",
-          "remark": " "
-        },
-        {
-          "time": "9:30 AM",
-          "remark": " "
-        },
-        {
-          "time": "10:30 AM",
-          "remark": " "
-        },
-        {
-          "time": "11:30 AM",
-          "remark": " "
-        },
-        {
-          "time": "12:30 AM",
-          "remark": " "
-        },
-        {
-          "time": "1:30 PM",
-          "remark": " "
-        },
-        {
-          "time": "2:30 PM",
-          "remark": " "
-        },
-        {
-          "time": "3:30 PM",
-          "remark": " "
-        },
-        {
-          "time": "4:30 PM",
-          "remark": " "
-        },
-        {
-          "time": "5:30 PM",
-          "remark": " "
-        },
-        {
-          "time": "6:30 PM",
-          "remark": " "
-        },
-        {
-          "time": "7:30 PM",
-          "remark": " "
-        },
-        {
-          "time": "8:30 PM",
-          "remark": " "
-        },
-        {
-          "time": "9:30 PM",
-          "remark": " "
-        },
-        {
-          "time": "10:30 PM",
-          "remark": " "
-        },
-        {
-          "time": "11:30 PM",
-          "remark": " "
-        }
-      ]
-    }
-  },
-  "北角 至 紅磡": {
-    "route": "北角 至 紅磡",
-    "lat1": "",
-    "long1": "",
-    "lat2": "",
-    "long2": "",
+  "np_to_hh": {
+    "route_id": "np_to_hh",
+    "route_tc": "北角 至 紅磡",
+    "route_en": "North Point to Hung Hom",
+    "from_tc": "北角",
+    "to_tc": "紅磡",
+    "from_en": "North Point",
+    "to_en": "Hung Hom",
+    "from_lat": "22.265069622030296",
+    "from_long": "114.00212335873759",
+    "to_lat": "22.287468951716303",
+    "to_long": "114.16032468805086",
     "schedule": {
       "每日": [
         {
@@ -4580,12 +4696,18 @@
       ]
     }
   },
-  "紅磡 至 北角": {
-    "route": "紅磡 至 北角",
-    "lat1": "",
-    "long1": "",
-    "lat2": "",
-    "long2": "",
+  "hh_to_np": {
+    "route_id": "hh_to_np",
+    "route_tc": "紅磡 至 北角",
+    "route_en": "Hung Hom to North Point",
+    "from_tc": "紅磡",
+    "to_tc": "北角",
+    "from_en": "Hung Hom",
+    "to_en": "North Point",
+    "from_lat": "22.265069622030296",
+    "from_long": "114.00212335873759",
+    "to_lat": "22.287468951716303",
+    "to_long": "114.16032468805086",
     "schedule": {
       "每日": [
         {
@@ -4703,12 +4825,18 @@
       ]
     }
   },
-  "北角 至 九龍城": {
-    "route": "北角 至 九龍城",
-    "lat1": "",
-    "long1": "",
-    "lat2": "",
-    "long2": "",
+  "np_to_kowloon_city": {
+    "route_id": "np_to_kowloon_city",
+    "route_tc": "北角 至 九龍城",
+    "route_en": "North Point to Kowloon City",
+    "from_tc": "北角",
+    "to_tc": "九龍城",
+    "from_en": "North Point",
+    "to_en": "Kowloon City",
+    "from_lat": "22.265069622030296",
+    "from_long": "114.00212335873759",
+    "to_lat": "22.287468951716303",
+    "to_long": "114.16032468805086",
     "schedule": {
       "每日": [
         {
@@ -4822,12 +4950,18 @@
       ]
     }
   },
-  "九龍城 至 北角": {
-    "route": "九龍城 至 北角",
-    "lat1": "",
-    "long1": "",
-    "lat2": "",
-    "long2": "",
+  "kowloon_city_to_np": {
+    "route_id": "kowloon_city_to_np",
+    "route_tc": "九龍城 至 北角",
+    "route_en": "Kowloon City to North Point",
+    "from_tc": "九龍城",
+    "to_tc": "北角",
+    "from_en": "Kowloon City",
+    "to_en": "North Point",
+    "from_lat": "22.265069622030296",
+    "from_long": "114.00212335873759",
+    "to_lat": "22.287468951716303",
+    "to_long": "114.16032468805086",
     "schedule": {
       "每日": [
         {
@@ -4945,12 +5079,18 @@
       ]
     }
   },
-  "北角 至 觀塘": {
-    "route": "北角 至 觀塘",
-    "lat1": "",
-    "long1": "",
-    "lat2": "",
-    "long2": "",
+  "np_to_kt": {
+    "route_id": "np_to_kt",
+    "route_tc": "北角 至 觀塘",
+    "route_en": "North Point to Kwun Tong",
+    "from_tc": "北角",
+    "to_tc": "觀塘",
+    "from_en": "North Point",
+    "to_en": "Kwun Tong",
+    "from_lat": "22.265069622030296",
+    "from_long": "114.00212335873759",
+    "to_lat": "22.287468951716303",
+    "to_long": "114.16032468805086",
     "schedule": {
       "星期一至五(公眾假期除外)": [
         {
@@ -5172,12 +5312,18 @@
       ]
     }
   },
-  "觀塘 至 北角": {
-    "route": "觀塘 至 北角",
-    "lat1": "",
-    "long1": "",
-    "lat2": "",
-    "long2": "",
+  "kt_to_np": {
+    "route_id": "kt_to_np",
+    "route_tc": "觀塘 至 北角 ",
+    "route_en": "Kwun Tong to North Point",
+    "from_tc": "觀塘",
+    "to_tc": "北角",
+    "from_en": "Kwun Tong",
+    "to_en": "North Point",
+    "from_lat": "22.265069622030296",
+    "from_long": "114.00212335873759",
+    "to_lat": "22.287468951716303",
+    "to_long": "114.16032468805086",
     "schedule": {
       "星期一至五(公眾假期除外)": [
         {
@@ -5403,12 +5549,18 @@
       ]
     }
   },
-  "北角 經 觀塘": {
-    "route": "北角 經 觀塘",
-    "lat1": "",
-    "long1": "",
-    "lat2": "",
-    "long2": "",
+  "": {
+    "route_id": "",
+    "route_tc": "",
+    "route_en": "",
+    "from_tc": "",
+    "to_tc": "",
+    "from_en": "",
+    "to_en": "",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": "",
     "schedule": {
       "星期六(公眾假期除外)": [
         {
@@ -5418,12 +5570,18 @@
       ]
     }
   },
-  "觀塘 至 啟德": {
-    "route": "觀塘 至 啟德",
-    "lat1": "",
-    "long1": "",
-    "lat2": "",
-    "long2": "",
+  "kt_to_kt": {
+    "route_id": "kt_to_kt",
+    "route_tc": "觀塘 至 啟德 ",
+    "route_en": "Kai Tak to Kwun Tong",
+    "from_tc": "觀塘",
+    "to_tc": "啟德",
+    "from_en": "Kwun Tong",
+    "to_en": "Kai Tak",
+    "from_lat": "22.265069622030296",
+    "from_long": "114.00212335873759",
+    "to_lat": "22.287468951716303",
+    "to_long": "114.16032468805086",
     "schedule": {
       "星期六(公眾假期除外)": [
         {
@@ -5468,6 +5626,50 @@
         },
         {
           "time": "7:15 PM",
+          "remark": " "
+        },
+        {
+          "time": "9:25 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:25 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:25 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:25 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:25 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:25 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:25 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:25 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:25 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:25 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:25 PM",
           "remark": " "
         }
       ],
@@ -5523,64 +5725,7 @@
         {
           "time": "7:15 PM",
           "remark": " "
-        }
-      ]
-    }
-  },
-  "啟德 至 觀塘": {
-    "route": "啟德 至 觀塘",
-    "lat1": "",
-    "long1": "",
-    "lat2": "",
-    "long2": "",
-    "schedule": {
-      "星期六(公眾假期除外)": [
-        {
-          "time": "9:25 AM",
-          "remark": " "
         },
-        {
-          "time": "10:25 AM",
-          "remark": " "
-        },
-        {
-          "time": "11:25 AM",
-          "remark": " "
-        },
-        {
-          "time": "12:25 PM",
-          "remark": " "
-        },
-        {
-          "time": "1:25 PM",
-          "remark": " "
-        },
-        {
-          "time": "2:25 PM",
-          "remark": " "
-        },
-        {
-          "time": "3:25 PM",
-          "remark": " "
-        },
-        {
-          "time": "4:25 PM",
-          "remark": " "
-        },
-        {
-          "time": "5:25 PM",
-          "remark": " "
-        },
-        {
-          "time": "6:25 PM",
-          "remark": " "
-        },
-        {
-          "time": "7:25 PM",
-          "remark": " "
-        }
-      ],
-      "星期日及公眾假期": [
         {
           "time": "7:25 AM",
           "remark": " "
@@ -5636,12 +5781,18 @@
       ]
     }
   },
-  "西灣河 至 觀塘": {
-    "route": "西灣河 至 觀塘",
-    "lat1": "",
-    "long1": "",
-    "lat2": "",
-    "long2": "",
+  "swh_to_kt": {
+    "route_id": "swh_to_kt",
+    "route_tc": "西灣河 至 觀塘",
+    "route_en": "Sai Wan Ho to Kwun Tong",
+    "from_tc": "西灣河",
+    "to_tc": "觀塘",
+    "from_en": "Sai Wan Ho",
+    "to_en": "Kwun Tong",
+    "from_lat": "22.265069622030296",
+    "from_long": "114.00212335873759",
+    "to_lat": "22.287468951716303",
+    "to_long": "114.16032468805086",
     "schedule": {
       "每日": [
         {
@@ -5777,12 +5928,18 @@
       ]
     }
   },
-  "觀塘 至 西灣河": {
-    "route": "觀塘 至 西灣河",
-    "lat1": "",
-    "long1": "",
-    "lat2": "",
-    "long2": "",
+  "kt_to_swh": {
+    "route_id": "kt_to_swh",
+    "route_tc": "觀塘 至 西灣河",
+    "route_en": "Kwun Tong to Sai Wan Ho",
+    "from_tc": "觀塘",
+    "to_tc": "西灣河",
+    "from_en": "Kwun Tong",
+    "to_en": "Sai Wan Ho",
+    "from_lat": "22.265069622030296",
+    "from_long": "114.00212335873759",
+    "to_lat": "22.287468951716303",
+    "to_long": "114.16032468805086",
     "schedule": {
       "每日": [
         {
@@ -5908,12 +6065,18 @@
       ]
     }
   },
-  "西灣河 至 三家村": {
-    "route": "西灣河 至 三家村",
-    "lat1": "",
-    "long1": "",
-    "lat2": "",
-    "long2": "",
+  "swh_to_skt": {
+    "route_id": "swh_to_skt",
+    "route_tc": "西灣河 至 三家村",
+    "route_en": "Sai Wan Ho to Sam Ka Tsuen",
+    "from_tc": "西灣河",
+    "to_tc": "三家村",
+    "from_en": "Sai Wan Ho",
+    "to_en": "Sam Ka Tsuen",
+    "from_lat": "22.265069622030296",
+    "from_long": "114.00212335873759",
+    "to_lat": "22.287468951716303",
+    "to_long": "114.16032468805086",
     "schedule": {
       "每日": [
         {
@@ -6051,12 +6214,18 @@
       ]
     }
   },
-  "三家村 至 西灣河": {
-    "route": "三家村 至 西灣河",
-    "lat1": "",
-    "long1": "",
-    "lat2": "",
-    "long2": "",
+  "skt_to_swh": {
+    "route_id": "skt_to_swh",
+    "route_tc": "三家村 至 西灣河",
+    "route_en": "Sam Ka Tsuen to Sai Wan Ho",
+    "from_tc": "三家村",
+    "to_tc": "西灣河",
+    "from_en": "Sam Ka Tsuen",
+    "to_en": "Sai Wan Ho",
+    "from_lat": "22.265069622030296",
+    "from_long": "114.00212335873759",
+    "to_lat": "22.287468951716303",
+    "to_long": "114.16032468805086",
     "schedule": {
       "每日": [
         {
@@ -6194,12 +6363,18 @@
       ]
     }
   },
-  "梅窩 至 愉景灣 經 坪洲": {
-    "route": "梅窩 至 愉景灣 經 坪洲",
-    "lat1": "",
-    "long1": "",
-    "lat2": "",
-    "long2": "",
+  "mw_to_discovery_bay_via_pc": {
+    "route_id": "mw_to_discovery_bay_via_pc",
+    "route_tc": "梅窩 至 愉景灣 經 坪洲",
+    "route_en": "Mui Wo to Discovery Bay via Peng Chau",
+    "from_tc": "梅窩",
+    "to_tc": "愉景灣 經 坪洲",
+    "from_en": "Mui Wo",
+    "to_en": "Discovery Bay via Peng Chau",
+    "from_lat": "22.265069622030296",
+    "from_long": "114.00212335873759",
+    "to_lat": "22.287468951716303",
+    "to_long": "114.16032468805086",
     "schedule": {
       "星期一至五(學校假期除外)": [
         {
@@ -6209,12 +6384,18 @@
       ]
     }
   },
-  "坪洲 至 愉景灣": {
-    "route": "坪洲 至 愉景灣",
-    "lat1": "",
-    "long1": "",
-    "lat2": "",
-    "long2": "",
+  "pc_to_discovery_bay": {
+    "route_id": "pc_to_discovery_bay",
+    "route_tc": "坪洲 至 愉景灣",
+    "route_en": "Peng Chau to Discovery Bay",
+    "from_tc": "坪洲",
+    "to_tc": "愉景灣",
+    "from_en": "Peng Chau",
+    "to_en": "Discovery Bay",
+    "from_lat": "22.265069622030296",
+    "from_long": "114.00212335873759",
+    "to_lat": "22.287468951716303",
+    "to_long": "114.16032468805086",
     "schedule": {
       "星期一至五(學校假期除外)": [
         {
@@ -6224,12 +6405,18 @@
       ]
     }
   },
-  "愉景灣 至梅窩 經 坪洲": {
-    "route": "愉景灣 至梅窩 經 坪洲",
-    "lat1": "",
-    "long1": "",
-    "lat2": "",
-    "long2": "",
+  "discovery_bay_to_mw_via_pc": {
+    "route_id": "discovery_bay_to_mw_via_pc",
+    "route_tc": "愉景灣 至梅窩 經 坪洲",
+    "route_en": "Discovery Bay to Mui Wovia Peng Chau",
+    "from_tc": "愉景灣",
+    "to_tc": "梅窩 經 坪洲",
+    "from_en": "Discovery Bay",
+    "to_en": "Mui Wo via Peng Chau",
+    "from_lat": "22.265069622030296",
+    "from_long": "114.00212335873759",
+    "to_lat": "22.287468951716303",
+    "to_long": "114.16032468805086",
     "schedule": {
       "星期一至五(學校假期除外)": [
         {
@@ -6239,12 +6426,18 @@
       ]
     }
   },
-  "愉景灣 至 梅窩": {
-    "route": "愉景灣 至 梅窩",
-    "lat1": "",
-    "long1": "",
-    "lat2": "",
-    "long2": "",
+  "discovery_bay_to_mw": {
+    "route_id": "discovery_bay_to_mw",
+    "route_tc": "愉景灣 至 梅窩",
+    "route_en": "Discovery Bay to Mui Wo",
+    "from_tc": "愉景灣",
+    "to_tc": "梅窩",
+    "from_en": "Discovery Bay",
+    "to_en": "Mui Wo",
+    "from_lat": "22.265069622030296",
+    "from_long": "114.00212335873759",
+    "to_lat": "22.287468951716303",
+    "to_long": "114.16032468805086",
     "schedule": {
       "星期六、日及公眾假期": [
         {
@@ -6286,12 +6479,18 @@
       ]
     }
   },
-  "梅窩 至 愉景灣": {
-    "route": "梅窩 至 愉景灣",
-    "lat1": "",
-    "long1": "",
-    "lat2": "",
-    "long2": "",
+  "mw_to_discovery_bay": {
+    "route_id": "mw_to_discovery_bay",
+    "route_tc": "梅窩 至 愉景灣",
+    "route_en": "Mui Wo to Discovery Bay",
+    "from_tc": "梅窩",
+    "to_tc": "愉景灣",
+    "from_en": "Mui Wo",
+    "to_en": "Discovery Bay",
+    "from_lat": "22.265069622030296",
+    "from_long": "114.00212335873759",
+    "to_lat": "22.287468951716303",
+    "to_long": "114.16032468805086",
     "schedule": {
       "星期六、日及公眾假期": [
         {
@@ -6333,12 +6532,18 @@
       ]
     }
   },
-  "屯門 至 大澳": {
-    "route": "屯門 至 大澳",
-    "lat1": "",
-    "long1": "",
-    "lat2": "",
-    "long2": "",
+  "tm_to_to": {
+    "route_id": "tm_to_to",
+    "route_tc": "屯門 至 大澳",
+    "route_en": "Tuen Mun to Tai O",
+    "from_tc": "屯門",
+    "to_tc": "大澳",
+    "from_en": "Tuen Mun",
+    "to_en": "Tai O",
+    "from_lat": "22.265069622030296",
+    "from_long": "114.00212335873759",
+    "to_lat": "22.287468951716303",
+    "to_long": "114.16032468805086",
     "schedule": {
       "星期一至五(公眾假期除外)": [
         {
@@ -6452,12 +6657,18 @@
       ]
     }
   },
-  "東涌 至 大澳": {
-    "route": "東涌 至 大澳",
-    "lat1": "",
-    "long1": "",
-    "lat2": "",
-    "long2": "",
+  "tc_to_to": {
+    "route_id": "tc_to_to",
+    "route_tc": "東涌 至 大澳",
+    "route_en": "Tung Chung to Tai O",
+    "from_tc": "東涌",
+    "to_tc": "大澳",
+    "from_en": "Tung Chung",
+    "to_en": "Tai O",
+    "from_lat": "22.265069622030296",
+    "from_long": "114.00212335873759",
+    "to_lat": "22.287468951716303",
+    "to_long": "114.16032468805086",
     "schedule": {
       "星期一至五(公眾假期除外)": [
         {
@@ -6563,12 +6774,18 @@
       ]
     }
   },
-  "沙螺灣 至 大澳": {
-    "route": "沙螺灣 至 大澳",
-    "lat1": "",
-    "long1": "",
-    "lat2": "",
-    "long2": "",
+  "slw_to_to": {
+    "route_id": "slw_to_to",
+    "route_tc": "沙螺灣 至 大澳",
+    "route_en": "Sha Lo Wan to Tai O",
+    "from_tc": "沙螺灣",
+    "to_tc": "大澳",
+    "from_en": "Sha Lo Wan",
+    "to_en": "Tai O",
+    "from_lat": "22.265069622030296",
+    "from_long": "114.00212335873759",
+    "to_lat": "22.287468951716303",
+    "to_long": "114.16032468805086",
     "schedule": {
       "星期一至五(公眾假期除外)": [
         {
@@ -6674,12 +6891,18 @@
       ]
     }
   },
-  "大澳 至 屯門": {
-    "route": "大澳 至 屯門",
-    "lat1": "",
-    "long1": "",
-    "lat2": "",
-    "long2": "",
+  "to_to_tm": {
+    "route_id": "to_to_tm",
+    "route_tc": "大澳 至 屯門",
+    "route_en": "Tai O to Tuen Mun",
+    "from_tc": "大澳",
+    "to_tc": "屯門",
+    "from_en": "Tai O",
+    "to_en": "Tuen Mun",
+    "from_lat": "22.265069622030296",
+    "from_long": "114.00212335873759",
+    "to_lat": "22.287468951716303",
+    "to_long": "114.16032468805086",
     "schedule": {
       "星期一至五(公眾假期除外)": [
         {
@@ -6813,12 +7036,18 @@
       ]
     }
   },
-  "沙螺灣 至 屯門": {
-    "route": "沙螺灣 至 屯門",
-    "lat1": "",
-    "long1": "",
-    "lat2": "",
-    "long2": "",
+  "slw_to_tm": {
+    "route_id": "slw_to_tm",
+    "route_tc": "沙螺灣 至 屯門",
+    "route_en": "Sha Lo Wan to Tuen Mun",
+    "from_tc": "沙螺灣",
+    "to_tc": "屯門",
+    "from_en": "Sha Lo Wan",
+    "to_en": "Tuen Mun",
+    "from_lat": "22.265069622030296",
+    "from_long": "114.00212335873759",
+    "to_lat": "22.287468951716303",
+    "to_long": "114.16032468805086",
     "schedule": {
       "星期一至五(公眾假期除外)": [
         {
@@ -6944,12 +7173,18 @@
       ]
     }
   },
-  "東涌 至 屯門": {
-    "route": "東涌 至 屯門",
-    "lat1": "",
-    "long1": "",
-    "lat2": "",
-    "long2": "",
+  "tc_to_tm": {
+    "route_id": "tc_to_tm",
+    "route_tc": "東涌 至 屯門",
+    "route_en": "Tung Chung to Tuen Mun",
+    "from_tc": "東涌",
+    "to_tc": "屯門",
+    "from_en": "Tung Chung",
+    "to_en": "Tuen Mun",
+    "from_lat": "22.265069622030296",
+    "from_long": "114.00212335873759",
+    "to_lat": "22.287468951716303",
+    "to_long": "114.16032468805086",
     "schedule": {
       "星期一至五(公眾假期除外)": [
         {
@@ -7083,12 +7318,18 @@
       ]
     }
   },
-  "香港仔 至 索罟灣": {
-    "route": "香港仔 至 索罟灣",
-    "lat1": "",
-    "long1": "",
-    "lat2": "",
-    "long2": "",
+  "aberdeen_to_skw": {
+    "route_id": "aberdeen_to_skw",
+    "route_tc": "香港仔 至 索罟灣",
+    "route_en": "Sok Kwu Wan to Aberdeen",
+    "from_tc": "香港仔",
+    "to_tc": "索罟灣",
+    "from_en": "Aberdeen",
+    "to_en": "Sok Kwu Wan",
+    "from_lat": "22.265069622030296",
+    "from_long": "114.00212335873759",
+    "to_lat": "22.287468951716303",
+    "to_long": "114.16032468805086",
     "schedule": {
       "星期一至六(公眾假期除外)": [
         {
@@ -7208,12 +7449,18 @@
       ]
     }
   },
-  "索罟灣 至 香港仔": {
-    "route": "索罟灣 至 香港仔",
-    "lat1": "",
-    "long1": "",
-    "lat2": "",
-    "long2": "",
+  "skw_to_aberdeen": {
+    "route_id": "skw_to_aberdeen",
+    "route_tc": "索罟灣 至 香港仔",
+    "route_en": "Aberdeen to Sok Kwu Wan",
+    "from_tc": "索罟灣",
+    "to_tc": "香港仔",
+    "from_en": "Sok Kwu Wan",
+    "to_en": "Aberdeen",
+    "from_lat": "22.265069622030296",
+    "from_long": "114.00212335873759",
+    "to_lat": "22.287468951716303",
+    "to_long": "114.16032468805086",
     "schedule": {
       "星期一至六(公眾假期除外)": [
         {
@@ -7333,12 +7580,18 @@
       ]
     }
   },
-  "香港仔至 榕樹灣": {
-    "route": "香港仔至 榕樹灣",
-    "lat1": "",
-    "long1": "",
-    "lat2": "",
-    "long2": "",
+  "aberdeen_to_ysw": {
+    "route_id": "aberdeen_to_ysw",
+    "route_tc": "香港仔 至 榕樹灣",
+    "route_en": "Aberdeen to Yung Shue Wan",
+    "from_tc": "香港仔",
+    "to_tc": "榕樹灣",
+    "from_en": "Aberdeen",
+    "to_en": "Yung Shue Wan",
+    "from_lat": "22.265069622030296",
+    "from_long": "114.00212335873759",
+    "to_lat": "22.287468951716303",
+    "to_long": "114.16032468805086",
     "schedule": {
       "星期一至六(公眾假期除外)": [
         {
@@ -7434,12 +7687,18 @@
       ]
     }
   },
-  "北角村 至 榕樹灣": {
-    "route": "北角村 至 榕樹灣",
-    "lat1": "",
-    "long1": "",
-    "lat2": "",
-    "long2": "",
+  "pkt_to_ysw": {
+    "route_id": "pkt_to_ysw",
+    "route_tc": "北角村 至 榕樹灣",
+    "route_en": "Pak Kok Tsuen to Yung Shue Wan",
+    "from_tc": "北角村",
+    "to_tc": "榕樹灣",
+    "from_en": "Pak Kok Tsuen",
+    "to_en": "Yung Shue Wan",
+    "from_lat": "22.265069622030296",
+    "from_long": "114.00212335873759",
+    "to_lat": "22.287468951716303",
+    "to_long": "114.16032468805086",
     "schedule": {
       "星期一至六(公眾假期除外)": [
         {
@@ -7535,12 +7794,18 @@
       ]
     }
   },
-  "榕樹灣 至 香港仔": {
-    "route": "榕樹灣 至 香港仔",
-    "lat1": "",
-    "long1": "",
-    "lat2": "",
-    "long2": "",
+  "ysw_to_aberdeen": {
+    "route_id": "ysw_to_aberdeen",
+    "route_tc": "榕樹灣 至 香港仔",
+    "route_en": "Yung Shue Wan to Aberdeen",
+    "from_tc": "榕樹灣",
+    "to_tc": "香港仔",
+    "from_en": "Yung Shue Wan",
+    "to_en": "Aberdeen",
+    "from_lat": "22.265069622030296",
+    "from_long": "114.00212335873759",
+    "to_lat": "22.287468951716303",
+    "to_long": "114.16032468805086",
     "schedule": {
       "星期一至六(公眾假期除外)": [
         {
@@ -7628,12 +7893,18 @@
       ]
     }
   },
-  "北角村 至 香港仔": {
-    "route": "北角村 至 香港仔",
-    "lat1": "",
-    "long1": "",
-    "lat2": "",
-    "long2": "",
+  "pkt_to_aberdeen": {
+    "route_id": "pkt_to_aberdeen",
+    "route_tc": "北角村 至 香港仔",
+    "route_en": "Pak Kok Tsuen to Aberdeen",
+    "from_tc": "北角村",
+    "to_tc": "香港仔",
+    "from_en": "Pak Kok Tsuen",
+    "to_en": "Aberdeen",
+    "from_lat": "22.265069622030296",
+    "from_long": "114.00212335873759",
+    "to_lat": "22.287468951716303",
+    "to_long": "114.16032468805086",
     "schedule": {
       "星期一至六(公眾假期除外)": [
         {
@@ -7721,12 +7992,18 @@
       ]
     }
   },
-  "紅磡 至 中環": {
-    "route": "紅磡 至 中環",
-    "lat1": "",
-    "long1": "",
-    "lat2": "",
-    "long2": "",
+  "hh_to_central": {
+    "route_id": "hh_to_central",
+    "route_tc": "紅磡 至 中環",
+    "route_en": "Hung Hom to Central",
+    "from_tc": "紅磡",
+    "to_tc": "中環",
+    "from_en": "Hung Hom",
+    "to_en": "Central",
+    "from_lat": "22.265069622030296",
+    "from_long": "114.00212335873759",
+    "to_lat": "22.287468951716303",
+    "to_long": "114.16032468805086",
     "schedule": {
       "星期一至六(公眾假期除外)": [
         {
@@ -7890,12 +8167,18 @@
       ]
     }
   },
-  "中環 至 紅磡": {
-    "route": "中環 至 紅磡",
-    "lat1": "",
-    "long1": "",
-    "lat2": "",
-    "long2": "",
+  "central_to_hh": {
+    "route_id": "central_to_hh",
+    "route_tc": "中環 至 紅磡",
+    "route_en": "Central to Hung Hom",
+    "from_tc": "中環",
+    "to_tc": "紅磡",
+    "from_en": "Central",
+    "to_en": "Hung Hom",
+    "from_lat": "22.265069622030296",
+    "from_long": "114.00212335873759",
+    "to_lat": "22.287468951716303",
+    "to_long": "114.16032468805086",
     "schedule": {
       "星期一至六(公眾假期除外)": [
         {
@@ -8055,12 +8338,18 @@
       ]
     }
   },
-  "馬料水 至 深涌": {
-    "route": "馬料水 至 深涌",
-    "lat1": "",
-    "long1": "",
-    "lat2": "",
-    "long2": "",
+  "mls_to_sc": {
+    "route_id": "mls_to_sc",
+    "route_tc": "馬料水 至 深涌",
+    "route_en": "Ma Liu Shui to Shum Chung",
+    "from_tc": "馬料水",
+    "to_tc": "深涌",
+    "from_en": "Ma Liu Shui",
+    "to_en": "Shum Chung",
+    "from_lat": "22.265069622030296",
+    "from_long": "114.00212335873759",
+    "to_lat": "22.287468951716303",
+    "to_long": "114.16032468805086",
     "schedule": {
       "星期一至星期五(公眾假期除外)": [
         {
@@ -8088,12 +8377,18 @@
       ]
     }
   },
-  "深涌 至 荔枝莊": {
-    "route": "深涌 至 荔枝莊",
-    "lat1": "",
-    "long1": "",
-    "lat2": "",
-    "long2": "",
+  "sc_to_lcc": {
+    "route_id": "sc_to_lcc",
+    "route_tc": "深涌 至 荔枝莊",
+    "route_en": "Shum Chung to Lai Chi Chong",
+    "from_tc": "深涌",
+    "to_tc": "荔枝莊",
+    "from_en": "Shum Chung",
+    "to_en": "Lai Chi Chong",
+    "from_lat": "22.265069622030296",
+    "from_long": "114.00212335873759",
+    "to_lat": "22.287468951716303",
+    "to_long": "114.16032468805086",
     "schedule": {
       "星期一至星期五(公眾假期除外)": [
         {
@@ -8121,12 +8416,18 @@
       ]
     }
   },
-  "荔枝莊 至 塔門": {
-    "route": "荔枝莊 至 塔門",
-    "lat1": "",
-    "long1": "",
-    "lat2": "",
-    "long2": "",
+  "lcc_to_tm_to_": {
+    "route_id": "lcc_to_tm_to_",
+    "route_tc": "荔枝莊 至 塔門",
+    "route_en": "Lai Chi Chong to Tap Mun",
+    "from_tc": "荔枝莊",
+    "to_tc": "塔門",
+    "from_en": "Lai Chi Chong",
+    "to_en": "Tap Mun",
+    "from_lat": "22.265069622030296",
+    "from_long": "114.00212335873759",
+    "to_lat": "22.287468951716303",
+    "to_long": "114.16032468805086",
     "schedule": {
       "星期一至星期五(公眾假期除外)": [
         {
@@ -8154,12 +8455,18 @@
       ]
     }
   },
-  "塔門 至 高流灣": {
-    "route": "塔門 至 高流灣",
-    "lat1": "",
-    "long1": "",
-    "lat2": "",
-    "long2": "",
+  "tm_to_klw": {
+    "route_id": "tm_to_klw",
+    "route_tc": "塔門 至 高流灣",
+    "route_en": "Tap Mun to Ko Lau Wan",
+    "from_tc": "塔門",
+    "to_tc": "高流灣",
+    "from_en": "Tap Mun",
+    "to_en": "Ko Lau Wan",
+    "from_lat": "22.265069622030296",
+    "from_long": "114.00212335873759",
+    "to_lat": "22.287468951716303",
+    "to_long": "114.16032468805086",
     "schedule": {
       "星期一至星期五(公眾假期除外)": [
         {
@@ -8183,12 +8490,18 @@
       ]
     }
   },
-  "高流灣 至 赤徑": {
-    "route": "高流灣 至 赤徑",
-    "lat1": "",
-    "long1": "",
-    "lat2": "",
-    "long2": "",
+  "klw_to_ck": {
+    "route_id": "klw_to_ck",
+    "route_tc": "高流灣 至 赤徑",
+    "route_en": "Ko Lau Wan to Chek Keng",
+    "from_tc": "高流灣",
+    "to_tc": "赤徑",
+    "from_en": "Ko Lau Wan",
+    "to_en": "Chek Keng",
+    "from_lat": "22.265069622030296",
+    "from_long": "114.00212335873759",
+    "to_lat": "22.287468951716303",
+    "to_long": "114.16032468805086",
     "schedule": {
       "星期一至星期五(公眾假期除外)": [
         {
@@ -8212,12 +8525,18 @@
       ]
     }
   },
-  "赤徑 至 黃石碼頭": {
-    "route": "赤徑 至 黃石碼頭",
-    "lat1": "",
-    "long1": "",
-    "lat2": "",
-    "long2": "",
+  "ck_to_ws_pier": {
+    "route_id": "ck_to_ws_pier",
+    "route_tc": "赤徑 至 黃石碼頭",
+    "route_en": "Chek Keng to Wong Shek Pier",
+    "from_tc": "赤徑",
+    "to_tc": "黃石碼頭",
+    "from_en": "Chek Keng",
+    "to_en": "Wong Shek Pier",
+    "from_lat": "22.265069622030296",
+    "from_long": "114.00212335873759",
+    "to_lat": "22.287468951716303",
+    "to_long": "114.16032468805086",
     "schedule": {
       "星期一至星期五(公眾假期除外)": [
         {
@@ -8241,12 +8560,18 @@
       ]
     }
   },
-  "黃石碼頭 至 赤徑": {
-    "route": "黃石碼頭 至 赤徑",
-    "lat1": "",
-    "long1": "",
-    "lat2": "",
-    "long2": "",
+  "ws_pier_to_ck": {
+    "route_id": "ws_pier_to_ck",
+    "route_tc": "黃石碼頭 至 赤徑",
+    "route_en": "Wong Shek Pier to Chek Keng",
+    "from_tc": "黃石碼頭",
+    "to_tc": "赤徑",
+    "from_en": "Wong Shek Pier",
+    "to_en": "Chek Keng",
+    "from_lat": "22.265069622030296",
+    "from_long": "114.00212335873759",
+    "to_lat": "22.287468951716303",
+    "to_long": "114.16032468805086",
     "schedule": {
       "星期一至星期五(公眾假期除外)": [
         {
@@ -8270,12 +8595,18 @@
       ]
     }
   },
-  "赤徑 至 高流灣": {
-    "route": "赤徑 至 高流灣",
-    "lat1": "",
-    "long1": "",
-    "lat2": "",
-    "long2": "",
+  "ck_to_klw": {
+    "route_id": "ck_to_klw",
+    "route_tc": "赤徑 至 高流灣",
+    "route_en": "Chek Keng to Ko Lau Wan",
+    "from_tc": "赤徑",
+    "to_tc": "高流灣",
+    "from_en": "Chek Keng",
+    "to_en": "Ko Lau Wan",
+    "from_lat": "22.265069622030296",
+    "from_long": "114.00212335873759",
+    "to_lat": "22.287468951716303",
+    "to_long": "114.16032468805086",
     "schedule": {
       "星期一至星期五(公眾假期除外)": [
         {
@@ -8299,12 +8630,18 @@
       ]
     }
   },
-  "高流灣 至 塔門": {
-    "route": "高流灣 至 塔門",
-    "lat1": "",
-    "long1": "",
-    "lat2": "",
-    "long2": "",
+  "klw_to_tm": {
+    "route_id": "klw_to_tm",
+    "route_tc": "高流灣 至 塔門",
+    "route_en": "Ko Lau Wan to Tap Mun",
+    "from_tc": "高流灣",
+    "to_tc": "塔門",
+    "from_en": "Ko Lau Wan",
+    "to_en": "Tap Mun",
+    "from_lat": "22.265069622030296",
+    "from_long": "114.00212335873759",
+    "to_lat": "22.287468951716303",
+    "to_long": "114.16032468805086",
     "schedule": {
       "星期一至星期五(公眾假期除外)": [
         {
@@ -8328,12 +8665,18 @@
       ]
     }
   },
-  "塔門 至 荔枝莊": {
-    "route": "塔門 至 荔枝莊",
-    "lat1": "",
-    "long1": "",
-    "lat2": "",
-    "long2": "",
+  "tm_to_lcc": {
+    "route_id": "tm_to_lcc",
+    "route_tc": "塔門 至 荔枝莊",
+    "route_en": "Tap Mun to Lai Chi Chong",
+    "from_tc": "塔門",
+    "to_tc": "荔枝莊",
+    "from_en": "Tap Mun",
+    "to_en": "Lai Chi Chong",
+    "from_lat": "22.265069622030296",
+    "from_long": "114.00212335873759",
+    "to_lat": "22.287468951716303",
+    "to_long": "114.16032468805086",
     "schedule": {
       "星期一至星期五(公眾假期除外)": [
         {
@@ -8361,12 +8704,18 @@
       ]
     }
   },
-  "荔枝莊 至 深涌": {
-    "route": "荔枝莊 至 深涌",
-    "lat1": "",
-    "long1": "",
-    "lat2": "",
-    "long2": "",
+  "lcc_to_sc": {
+    "route_id": "lcc_to_sc",
+    "route_tc": "荔枝莊 至 深涌",
+    "route_en": "Lai Chi Chong to Shum Chung",
+    "from_tc": "荔枝莊",
+    "to_tc": "深涌",
+    "from_en": "Lai Chi Chong",
+    "to_en": "Shum Chung",
+    "from_lat": "22.265069622030296",
+    "from_long": "114.00212335873759",
+    "to_lat": "22.287468951716303",
+    "to_long": "114.16032468805086",
     "schedule": {
       "星期一至星期五(公眾假期除外)": [
         {
@@ -8394,12 +8743,18 @@
       ]
     }
   },
-  "深涌 至 馬料水": {
-    "route": "深涌 至 馬料水",
-    "lat1": "",
-    "long1": "",
-    "lat2": "",
-    "long2": "",
+  "sc_to_mls": {
+    "route_id": "sc_to_mls",
+    "route_tc": "深涌 至 馬料水",
+    "route_en": "Shum Chung to Ma Liu Shui",
+    "from_tc": "深涌",
+    "to_tc": "馬料水",
+    "from_en": "Shum Chung",
+    "to_en": "Ma Liu Shui",
+    "from_lat": "22.265069622030296",
+    "from_long": "114.00212335873759",
+    "to_lat": "22.287468951716303",
+    "to_long": "114.16032468805086",
     "schedule": {
       "星期一至星期五(公眾假期除外)": [
         {
@@ -8427,12 +8782,18 @@
       ]
     }
   },
-  "馬料水 至 東平洲": {
-    "route": "馬料水 至 東平洲",
-    "lat1": "",
-    "long1": "",
-    "lat2": "",
-    "long2": "",
+  "mls_to_tpc": {
+    "route_id": "mls_to_tpc",
+    "route_tc": "馬料水 至 東平洲",
+    "route_en": "Ma Liu Shui to Tung Ping Chau",
+    "from_tc": "馬料水",
+    "to_tc": "東平洲",
+    "from_en": "Ma Liu Shui",
+    "to_en": "Tung Ping Chau",
+    "from_lat": "22.265069622030296",
+    "from_long": "114.00212335873759",
+    "to_lat": "22.287468951716303",
+    "to_long": "114.16032468805086",
     "schedule": {
       "星期六(公眾假期除外)": [
         {
@@ -8452,12 +8813,18 @@
       ]
     }
   },
-  "東平洲 至 馬料水": {
-    "route": "東平洲 至 馬料水",
-    "lat1": "",
-    "long1": "",
-    "lat2": "",
-    "long2": "",
+  "tpc_to_mls": {
+    "route_id": "tpc_to_mls",
+    "route_tc": "東平洲 至 馬料水",
+    "route_en": "Tung Ping Chau to Ma Liu Shui",
+    "from_tc": "東平洲",
+    "to_tc": "馬料水",
+    "from_en": "Tung Ping Chau",
+    "to_en": "Ma Liu Shui",
+    "from_lat": "22.265069622030296",
+    "from_long": "114.00212335873759",
+    "to_lat": "22.287468951716303",
+    "to_long": "114.16032468805086",
     "schedule": {
       "星期六(公眾假期除外)": [
         {
@@ -8473,12 +8840,18 @@
       ]
     }
   },
-  "塔門 至 黃石": {
-    "route": "塔門 至 黃石",
-    "lat1": "",
-    "long1": "",
-    "lat2": "",
-    "long2": "",
+  "tp_to_ws": {
+    "route_id": "tp_to_ws",
+    "route_tc": "塔門 至 黃石",
+    "route_en": "Tap Mun to Wong Shek",
+    "from_tc": "塔門",
+    "to_tc": "黃石",
+    "from_en": "Tap Mun",
+    "to_en": "Wong Shek",
+    "from_lat": "22.265069622030296",
+    "from_long": "114.00212335873759",
+    "to_lat": "22.287468951716303",
+    "to_long": "114.16032468805086",
     "schedule": {
       "星期一至五(公眾假期除外)": [
         {
@@ -8562,12 +8935,18 @@
       ]
     }
   },
-  "黃石 至 塔門": {
-    "route": "黃石 至 塔門",
-    "lat1": "",
-    "long1": "",
-    "lat2": "",
-    "long2": "",
+  "ws_to_tp": {
+    "route_id": "ws_to_tp",
+    "route_tc": "黃石 至 塔門",
+    "route_en": "Wong Shek to Tap Mun",
+    "from_tc": "黃石",
+    "to_tc": "塔門",
+    "from_en": "Wong Shek",
+    "to_en": "Tap Mun",
+    "from_lat": "22.265069622030296",
+    "from_long": "114.00212335873759",
+    "to_lat": "22.287468951716303",
+    "to_long": "114.16032468805086",
     "schedule": {
       "星期一至五(公眾假期除外)": [
         {
