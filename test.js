@@ -16,9 +16,9 @@ function isAfterCurrentTime(timeStr, fakeCurr) {
         compareDate.setHours(hour24, parseInt(minutes), 0, 0);
 
         // If compareDate is earlier than now, it must be for tomorrow
-        if (compareDate <= now) {
-            compareDate.setDate(compareDate.getDate() + 1);
-        }
+        // if (compareDate <= now) {
+        //     compareDate.setDate(compareDate.getDate() + 1);
+        // }
 
         return compareDate > now;
     } catch (error) {
@@ -27,4 +27,4 @@ function isAfterCurrentTime(timeStr, fakeCurr) {
     }
 }
 
-console.log(isAfterCurrentTime('12:00 AM', '2024-01-01 12:02 AM'));
+console.log(isAfterCurrentTime('12:30 AM', '2024-01-01 10:02 PM'));
