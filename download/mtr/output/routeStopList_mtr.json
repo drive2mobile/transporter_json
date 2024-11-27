@@ -2,6 +2,7 @@
   "mtr_AEL": [
     {
       "company": "mtr",
+      "stop_id": "mtr_AEL_AWE_1",
       "id": "mtr_AEL",
       "route": "AEL",
       "route_name_tc": "機場快線",
@@ -15,6 +16,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_AEL_AIR_2",
       "id": "mtr_AEL",
       "route": "AEL",
       "route_name_tc": "機場快線",
@@ -28,6 +30,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_AEL_TSY_3",
       "id": "mtr_AEL",
       "route": "AEL",
       "route_name_tc": "機場快線",
@@ -41,6 +44,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_AEL_KOW_4",
       "id": "mtr_AEL",
       "route": "AEL",
       "route_name_tc": "機場快線",
@@ -54,6 +58,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_AEL_HOK_5",
       "id": "mtr_AEL",
       "route": "AEL",
       "route_name_tc": "機場快線",
@@ -69,6 +74,7 @@
   "mtr_DRL": [
     {
       "company": "mtr",
+      "stop_id": "mtr_DRL_SUN_1",
       "id": "mtr_DRL",
       "route": "DRL",
       "route_name_tc": "迪士尼線",
@@ -82,6 +88,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_DRL_DIS_2",
       "id": "mtr_DRL",
       "route": "DRL",
       "route_name_tc": "迪士尼線",
@@ -97,6 +104,7 @@
   "mtr_EAL": [
     {
       "company": "mtr",
+      "stop_id": "mtr_EAL_LOW_1",
       "id": "mtr_EAL",
       "route": "EAL",
       "route_name_tc": "東鐵線",
@@ -110,6 +118,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_EAL_LMC_1",
       "id": "mtr_EAL",
       "route": "EAL",
       "route_name_tc": "東鐵線",
@@ -123,6 +132,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_EAL_SHS_2",
       "id": "mtr_EAL",
       "route": "EAL",
       "route_name_tc": "東鐵線",
@@ -136,6 +146,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_EAL_FAN_3",
       "id": "mtr_EAL",
       "route": "EAL",
       "route_name_tc": "東鐵線",
@@ -149,6 +160,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_EAL_TWO_4",
       "id": "mtr_EAL",
       "route": "EAL",
       "route_name_tc": "東鐵線",
@@ -162,6 +174,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_EAL_TAP_5",
       "id": "mtr_EAL",
       "route": "EAL",
       "route_name_tc": "東鐵線",
@@ -175,6 +188,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_EAL_UNI_6",
       "id": "mtr_EAL",
       "route": "EAL",
       "route_name_tc": "東鐵線",
@@ -188,6 +202,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_EAL_FOT_7",
       "id": "mtr_EAL",
       "route": "EAL",
       "route_name_tc": "東鐵線",
@@ -201,6 +216,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_EAL_SHT_8",
       "id": "mtr_EAL",
       "route": "EAL",
       "route_name_tc": "東鐵線",
@@ -214,6 +230,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_EAL_TAW_9",
       "id": "mtr_EAL",
       "route": "EAL",
       "route_name_tc": "東鐵線",
@@ -227,6 +244,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_EAL_KOT_10",
       "id": "mtr_EAL",
       "route": "EAL",
       "route_name_tc": "東鐵線",
@@ -240,6 +258,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_EAL_MKK_11",
       "id": "mtr_EAL",
       "route": "EAL",
       "route_name_tc": "東鐵線",
@@ -253,6 +272,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_EAL_HUH_12",
       "id": "mtr_EAL",
       "route": "EAL",
       "route_name_tc": "東鐵線",
@@ -266,6 +286,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_EAL_EXC_13",
       "id": "mtr_EAL",
       "route": "EAL",
       "route_name_tc": "東鐵線",
@@ -279,6 +300,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_EAL_ADM_14",
       "id": "mtr_EAL",
       "route": "EAL",
       "route_name_tc": "東鐵線",
@@ -294,6 +316,7 @@
   "mtr_ISL": [
     {
       "company": "mtr",
+      "stop_id": "mtr_ISL_CHW_1",
       "id": "mtr_ISL",
       "route": "ISL",
       "route_name_tc": "港島線",
@@ -307,6 +330,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_ISL_HFC_2",
       "id": "mtr_ISL",
       "route": "ISL",
       "route_name_tc": "港島線",
@@ -320,6 +344,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_ISL_SKW_3",
       "id": "mtr_ISL",
       "route": "ISL",
       "route_name_tc": "港島線",
@@ -333,6 +358,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_ISL_SWH_4",
       "id": "mtr_ISL",
       "route": "ISL",
       "route_name_tc": "港島線",
@@ -346,6 +372,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_ISL_TAK_5",
       "id": "mtr_ISL",
       "route": "ISL",
       "route_name_tc": "港島線",
@@ -359,6 +386,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_ISL_QUB_6",
       "id": "mtr_ISL",
       "route": "ISL",
       "route_name_tc": "港島線",
@@ -372,6 +400,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_ISL_NOP_7",
       "id": "mtr_ISL",
       "route": "ISL",
       "route_name_tc": "港島線",
@@ -385,6 +414,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_ISL_FOH_8",
       "id": "mtr_ISL",
       "route": "ISL",
       "route_name_tc": "港島線",
@@ -398,6 +428,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_ISL_TIH_9",
       "id": "mtr_ISL",
       "route": "ISL",
       "route_name_tc": "港島線",
@@ -411,6 +442,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_ISL_CAB_10",
       "id": "mtr_ISL",
       "route": "ISL",
       "route_name_tc": "港島線",
@@ -424,6 +456,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_ISL_WAC_11",
       "id": "mtr_ISL",
       "route": "ISL",
       "route_name_tc": "港島線",
@@ -437,6 +470,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_ISL_ADM_12",
       "id": "mtr_ISL",
       "route": "ISL",
       "route_name_tc": "港島線",
@@ -450,6 +484,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_ISL_CEN_13",
       "id": "mtr_ISL",
       "route": "ISL",
       "route_name_tc": "港島線",
@@ -463,6 +498,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_ISL_SHW_14",
       "id": "mtr_ISL",
       "route": "ISL",
       "route_name_tc": "港島線",
@@ -476,6 +512,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_ISL_SYP_15",
       "id": "mtr_ISL",
       "route": "ISL",
       "route_name_tc": "港島線",
@@ -489,6 +526,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_ISL_HKU_16",
       "id": "mtr_ISL",
       "route": "ISL",
       "route_name_tc": "港島線",
@@ -502,6 +540,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_ISL_KET_17",
       "id": "mtr_ISL",
       "route": "ISL",
       "route_name_tc": "港島線",
@@ -517,6 +556,7 @@
   "mtr_KTL": [
     {
       "company": "mtr",
+      "stop_id": "mtr_KTL_TIK_1",
       "id": "mtr_KTL",
       "route": "KTL",
       "route_name_tc": "觀塘線",
@@ -530,6 +570,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_KTL_YAT_2",
       "id": "mtr_KTL",
       "route": "KTL",
       "route_name_tc": "觀塘線",
@@ -543,6 +584,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_KTL_LAT_3",
       "id": "mtr_KTL",
       "route": "KTL",
       "route_name_tc": "觀塘線",
@@ -556,6 +598,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_KTL_KWT_4",
       "id": "mtr_KTL",
       "route": "KTL",
       "route_name_tc": "觀塘線",
@@ -569,6 +612,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_KTL_NTK_5",
       "id": "mtr_KTL",
       "route": "KTL",
       "route_name_tc": "觀塘線",
@@ -582,6 +626,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_KTL_KOB_6",
       "id": "mtr_KTL",
       "route": "KTL",
       "route_name_tc": "觀塘線",
@@ -595,6 +640,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_KTL_CHH_7",
       "id": "mtr_KTL",
       "route": "KTL",
       "route_name_tc": "觀塘線",
@@ -608,6 +654,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_KTL_DIH_8",
       "id": "mtr_KTL",
       "route": "KTL",
       "route_name_tc": "觀塘線",
@@ -621,6 +668,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_KTL_WTS_9",
       "id": "mtr_KTL",
       "route": "KTL",
       "route_name_tc": "觀塘線",
@@ -634,6 +682,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_KTL_LOF_10",
       "id": "mtr_KTL",
       "route": "KTL",
       "route_name_tc": "觀塘線",
@@ -647,6 +696,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_KTL_KOT_11",
       "id": "mtr_KTL",
       "route": "KTL",
       "route_name_tc": "觀塘線",
@@ -660,6 +710,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_KTL_SKM_12",
       "id": "mtr_KTL",
       "route": "KTL",
       "route_name_tc": "觀塘線",
@@ -673,6 +724,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_KTL_PRE_13",
       "id": "mtr_KTL",
       "route": "KTL",
       "route_name_tc": "觀塘線",
@@ -686,6 +738,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_KTL_MOK_14",
       "id": "mtr_KTL",
       "route": "KTL",
       "route_name_tc": "觀塘線",
@@ -699,6 +752,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_KTL_YMT_15",
       "id": "mtr_KTL",
       "route": "KTL",
       "route_name_tc": "觀塘線",
@@ -712,6 +766,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_KTL_HOM_16",
       "id": "mtr_KTL",
       "route": "KTL",
       "route_name_tc": "觀塘線",
@@ -725,6 +780,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_KTL_WHA_17",
       "id": "mtr_KTL",
       "route": "KTL",
       "route_name_tc": "觀塘線",
@@ -740,6 +796,7 @@
   "mtr_TML": [
     {
       "company": "mtr",
+      "stop_id": "mtr_TML_WKS_1",
       "id": "mtr_TML",
       "route": "TML",
       "route_name_tc": "屯馬線",
@@ -753,6 +810,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_TML_MOS_2",
       "id": "mtr_TML",
       "route": "TML",
       "route_name_tc": "屯馬線",
@@ -766,6 +824,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_TML_HEO_3",
       "id": "mtr_TML",
       "route": "TML",
       "route_name_tc": "屯馬線",
@@ -779,6 +838,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_TML_TSH_4",
       "id": "mtr_TML",
       "route": "TML",
       "route_name_tc": "屯馬線",
@@ -792,6 +852,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_TML_SHM_5",
       "id": "mtr_TML",
       "route": "TML",
       "route_name_tc": "屯馬線",
@@ -805,6 +866,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_TML_CIO_6",
       "id": "mtr_TML",
       "route": "TML",
       "route_name_tc": "屯馬線",
@@ -818,6 +880,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_TML_STW_7",
       "id": "mtr_TML",
       "route": "TML",
       "route_name_tc": "屯馬線",
@@ -831,6 +894,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_TML_CKT_8",
       "id": "mtr_TML",
       "route": "TML",
       "route_name_tc": "屯馬線",
@@ -844,6 +908,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_TML_TAW_9",
       "id": "mtr_TML",
       "route": "TML",
       "route_name_tc": "屯馬線",
@@ -857,6 +922,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_TML_HIK_10",
       "id": "mtr_TML",
       "route": "TML",
       "route_name_tc": "屯馬線",
@@ -870,6 +936,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_TML_DIH_11",
       "id": "mtr_TML",
       "route": "TML",
       "route_name_tc": "屯馬線",
@@ -883,6 +950,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_TML_KAT_12",
       "id": "mtr_TML",
       "route": "TML",
       "route_name_tc": "屯馬線",
@@ -896,6 +964,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_TML_SUW_13",
       "id": "mtr_TML",
       "route": "TML",
       "route_name_tc": "屯馬線",
@@ -909,6 +978,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_TML_TKW_14",
       "id": "mtr_TML",
       "route": "TML",
       "route_name_tc": "屯馬線",
@@ -922,6 +992,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_TML_HOM_15",
       "id": "mtr_TML",
       "route": "TML",
       "route_name_tc": "屯馬線",
@@ -935,6 +1006,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_TML_HUH_16",
       "id": "mtr_TML",
       "route": "TML",
       "route_name_tc": "屯馬線",
@@ -948,6 +1020,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_TML_ETS_17",
       "id": "mtr_TML",
       "route": "TML",
       "route_name_tc": "屯馬線",
@@ -961,6 +1034,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_TML_AUS_18",
       "id": "mtr_TML",
       "route": "TML",
       "route_name_tc": "屯馬線",
@@ -974,6 +1048,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_TML_NAC_19",
       "id": "mtr_TML",
       "route": "TML",
       "route_name_tc": "屯馬線",
@@ -987,6 +1062,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_TML_MEF_20",
       "id": "mtr_TML",
       "route": "TML",
       "route_name_tc": "屯馬線",
@@ -1000,6 +1076,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_TML_TWW_21",
       "id": "mtr_TML",
       "route": "TML",
       "route_name_tc": "屯馬線",
@@ -1013,6 +1090,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_TML_KSR_22",
       "id": "mtr_TML",
       "route": "TML",
       "route_name_tc": "屯馬線",
@@ -1026,6 +1104,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_TML_YUL_23",
       "id": "mtr_TML",
       "route": "TML",
       "route_name_tc": "屯馬線",
@@ -1039,6 +1118,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_TML_LOP_24",
       "id": "mtr_TML",
       "route": "TML",
       "route_name_tc": "屯馬線",
@@ -1052,6 +1132,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_TML_TIS_25",
       "id": "mtr_TML",
       "route": "TML",
       "route_name_tc": "屯馬線",
@@ -1065,6 +1146,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_TML_SIH_26",
       "id": "mtr_TML",
       "route": "TML",
       "route_name_tc": "屯馬線",
@@ -1078,6 +1160,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_TML_TUM_27",
       "id": "mtr_TML",
       "route": "TML",
       "route_name_tc": "屯馬線",
@@ -1093,6 +1176,7 @@
   "mtr_TCL": [
     {
       "company": "mtr",
+      "stop_id": "mtr_TCL_TUC_1",
       "id": "mtr_TCL",
       "route": "TCL",
       "route_name_tc": "東涌線",
@@ -1106,6 +1190,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_TCL_SUN_2",
       "id": "mtr_TCL",
       "route": "TCL",
       "route_name_tc": "東涌線",
@@ -1119,6 +1204,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_TCL_TSY_3",
       "id": "mtr_TCL",
       "route": "TCL",
       "route_name_tc": "東涌線",
@@ -1132,6 +1218,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_TCL_LAK_4",
       "id": "mtr_TCL",
       "route": "TCL",
       "route_name_tc": "東涌線",
@@ -1145,6 +1232,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_TCL_NAC_5",
       "id": "mtr_TCL",
       "route": "TCL",
       "route_name_tc": "東涌線",
@@ -1158,6 +1246,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_TCL_OLY_6",
       "id": "mtr_TCL",
       "route": "TCL",
       "route_name_tc": "東涌線",
@@ -1171,6 +1260,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_TCL_KOW_7",
       "id": "mtr_TCL",
       "route": "TCL",
       "route_name_tc": "東涌線",
@@ -1184,6 +1274,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_TCL_HOK_8",
       "id": "mtr_TCL",
       "route": "TCL",
       "route_name_tc": "東涌線",
@@ -1199,6 +1290,7 @@
   "mtr_TKL": [
     {
       "company": "mtr",
+      "stop_id": "mtr_TKL_POA_1",
       "id": "mtr_TKL",
       "route": "TKL",
       "route_name_tc": "將軍澳線",
@@ -1212,6 +1304,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_TKL_LHP_1",
       "id": "mtr_TKL",
       "route": "TKL",
       "route_name_tc": "將軍澳線",
@@ -1225,6 +1318,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_TKL_HAH_2",
       "id": "mtr_TKL",
       "route": "TKL",
       "route_name_tc": "將軍澳線",
@@ -1238,6 +1332,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_TKL_TKO_3",
       "id": "mtr_TKL",
       "route": "TKL",
       "route_name_tc": "將軍澳線",
@@ -1251,6 +1346,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_TKL_TIK_4",
       "id": "mtr_TKL",
       "route": "TKL",
       "route_name_tc": "將軍澳線",
@@ -1264,6 +1360,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_TKL_YAT_5",
       "id": "mtr_TKL",
       "route": "TKL",
       "route_name_tc": "將軍澳線",
@@ -1277,6 +1374,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_TKL_QUB_6",
       "id": "mtr_TKL",
       "route": "TKL",
       "route_name_tc": "將軍澳線",
@@ -1290,6 +1388,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_TKL_NOP_7",
       "id": "mtr_TKL",
       "route": "TKL",
       "route_name_tc": "將軍澳線",
@@ -1305,6 +1404,7 @@
   "mtr_TWL": [
     {
       "company": "mtr",
+      "stop_id": "mtr_TWL_TSW_1",
       "id": "mtr_TWL",
       "route": "TWL",
       "route_name_tc": "荃灣線",
@@ -1318,6 +1418,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_TWL_TWH_2",
       "id": "mtr_TWL",
       "route": "TWL",
       "route_name_tc": "荃灣線",
@@ -1331,6 +1432,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_TWL_KWH_3",
       "id": "mtr_TWL",
       "route": "TWL",
       "route_name_tc": "荃灣線",
@@ -1344,6 +1446,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_TWL_KWF_4",
       "id": "mtr_TWL",
       "route": "TWL",
       "route_name_tc": "荃灣線",
@@ -1357,6 +1460,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_TWL_LAK_5",
       "id": "mtr_TWL",
       "route": "TWL",
       "route_name_tc": "荃灣線",
@@ -1370,6 +1474,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_TWL_MEF_6",
       "id": "mtr_TWL",
       "route": "TWL",
       "route_name_tc": "荃灣線",
@@ -1383,6 +1488,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_TWL_LCK_7",
       "id": "mtr_TWL",
       "route": "TWL",
       "route_name_tc": "荃灣線",
@@ -1396,6 +1502,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_TWL_CSW_8",
       "id": "mtr_TWL",
       "route": "TWL",
       "route_name_tc": "荃灣線",
@@ -1409,6 +1516,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_TWL_SSP_9",
       "id": "mtr_TWL",
       "route": "TWL",
       "route_name_tc": "荃灣線",
@@ -1422,6 +1530,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_TWL_PRE_10",
       "id": "mtr_TWL",
       "route": "TWL",
       "route_name_tc": "荃灣線",
@@ -1435,6 +1544,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_TWL_MOK_11",
       "id": "mtr_TWL",
       "route": "TWL",
       "route_name_tc": "荃灣線",
@@ -1448,6 +1558,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_TWL_YMT_12",
       "id": "mtr_TWL",
       "route": "TWL",
       "route_name_tc": "荃灣線",
@@ -1461,6 +1572,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_TWL_JOR_13",
       "id": "mtr_TWL",
       "route": "TWL",
       "route_name_tc": "荃灣線",
@@ -1474,6 +1586,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_TWL_TST_14",
       "id": "mtr_TWL",
       "route": "TWL",
       "route_name_tc": "荃灣線",
@@ -1487,6 +1600,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_TWL_ADM_15",
       "id": "mtr_TWL",
       "route": "TWL",
       "route_name_tc": "荃灣線",
@@ -1500,6 +1614,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_TWL_CEN_16",
       "id": "mtr_TWL",
       "route": "TWL",
       "route_name_tc": "荃灣線",
@@ -1515,6 +1630,7 @@
   "mtr_SIL": [
     {
       "company": "mtr",
+      "stop_id": "mtr_SIL_ADM_1",
       "id": "mtr_SIL",
       "route": "SIL",
       "route_name_tc": "南港島線",
@@ -1528,6 +1644,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_SIL_OCP_2",
       "id": "mtr_SIL",
       "route": "SIL",
       "route_name_tc": "南港島線",
@@ -1541,6 +1658,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_SIL_WCH_3",
       "id": "mtr_SIL",
       "route": "SIL",
       "route_name_tc": "南港島線",
@@ -1554,6 +1672,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_SIL_LET_4",
       "id": "mtr_SIL",
       "route": "SIL",
       "route_name_tc": "南港島線",
@@ -1567,6 +1686,7 @@
     },
     {
       "company": "mtr",
+      "stop_id": "mtr_SIL_SOH_5",
       "id": "mtr_SIL",
       "route": "SIL",
       "route_name_tc": "南港島線",

@@ -41,6 +41,7 @@ async function createMtrRouteList()
             {
                 insertItem = {
                     "company": "mtr",
+                    "stop_id": `mtr_${currItem['Line Code']}_${currItem['Station Code']}_${currItem['Sequence'].toString().split('.')[0]}`,
                     "id": id_temp,
                     "route": currItem['Line Code'],
                     "route_name_tc": mtrRouteNameTc[currItem['Line Code']],

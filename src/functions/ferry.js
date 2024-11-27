@@ -405,6 +405,7 @@ async function parseRouteStopListFerry()
                     {
                         masterList_tc[route_id] = {
                             route_id: route_id,
+                            stop_id: route_id,
                             route_tc: ferryCoordination?.[direction]?.['route_tc'] || '',
                             route_en: ferryCoordination?.[direction]?.['route_en'] || '',
                             from_tc: ferryCoordination?.[direction]?.['from_tc'] || '',

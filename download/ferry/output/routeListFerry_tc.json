@@ -1,6 +1,7 @@
 {
   "central_to_pc": {
     "route_id": "central_to_pc",
+    "stop_id": "central_to_pc",
     "route_tc": "中環 至 坪洲",
     "route_en": "Central to Peng Chau",
     "from_tc": "中環",
@@ -220,6 +221,7 @@
   },
   "pc_to_central": {
     "route_id": "pc_to_central",
+    "stop_id": "pc_to_central",
     "route_tc": "坪洲 至 中環",
     "route_en": "Peng Chau to Central",
     "from_tc": "坪洲",
@@ -443,6 +445,7 @@
   },
   "pc_to_hlc": {
     "route_id": "pc_to_hlc",
+    "stop_id": "pc_to_hlc",
     "route_tc": "坪洲 至 喜靈洲",
     "route_en": "Peng Chau to Hei Ling Chau",
     "from_tc": "坪洲",
@@ -542,6 +545,7 @@
   },
   "hlc_to_pc": {
     "route_id": "hlc_to_pc",
+    "stop_id": "hlc_to_pc",
     "route_tc": "喜靈洲 至 坪洲",
     "route_en": "Hei Ling Chau to Peng Chau",
     "from_tc": "喜靈洲",
@@ -641,6 +645,7 @@
   },
   "central_to_ysw": {
     "route_id": "central_to_ysw",
+    "stop_id": "central_to_ysw",
     "route_tc": "中環 至 榕樹灣",
     "route_en": "Central to Yung Shue Wan",
     "from_tc": "中環",
@@ -912,6 +917,7 @@
   },
   "ysw_to_central": {
     "route_id": "ysw_to_central",
+    "stop_id": "ysw_to_central",
     "route_tc": "榕樹灣 至 中環",
     "route_en": "Yung Shue Wan to Central",
     "from_tc": "榕樹灣",
@@ -1179,6 +1185,7 @@
   },
   "central_to_skw": {
     "route_id": "central_to_skw",
+    "stop_id": "central_to_skw",
     "route_tc": "中環 至 索罟灣",
     "route_en": "Central to Sok Kwu Wan",
     "from_tc": "中環",
@@ -1306,6 +1313,7 @@
   },
   "skw_to_central": {
     "route_id": "skw_to_central",
+    "stop_id": "skw_to_central",
     "route_tc": "索罟灣 至 中環",
     "route_en": "Sok Kwu Wan to Central",
     "from_tc": "索罟灣",
@@ -1433,6 +1441,7 @@
   },
   "central_to_mw": {
     "route_id": "central_to_mw",
+    "stop_id": "central_to_mw",
     "route_tc": "中環 至 梅窩",
     "route_en": "Central to Mui Wo",
     "from_tc": "中環",
@@ -1996,6 +2005,7 @@
   },
   "mw_to_central": {
     "route_id": "mw_to_central",
+    "stop_id": "mw_to_central",
     "route_tc": "梅窩 至 中環",
     "route_en": "Mui Wo to Central",
     "from_tc": "梅窩",
@@ -2551,6 +2561,7 @@
   },
   "cc_to_mw": {
     "route_id": "cc_to_mw",
+    "stop_id": "cc_to_mw",
     "route_tc": "長洲 至 梅窩",
     "route_en": "Cheung Chau to Mui Wo",
     "from_tc": "長洲",
@@ -2588,6 +2599,7 @@
   },
   "mu_to_pc": {
     "route_id": "mu_to_pc",
+    "stop_id": "mu_to_pc",
     "route_tc": "梅窩 至 坪洲",
     "route_en": "Mui Wo to Peng Chau",
     "from_tc": "梅窩",
@@ -2645,6 +2657,7 @@
   },
   "pc_to_mu": {
     "route_id": "pc_to_mu",
+    "stop_id": "pc_to_mu",
     "route_tc": "坪洲 至 梅窩",
     "route_en": "Peng Chau to Mui Wo",
     "from_tc": "坪洲",
@@ -2708,6 +2721,7 @@
   },
   "mw_to_cmw": {
     "route_id": "mw_to_cmw",
+    "stop_id": "mw_to_cmw",
     "route_tc": "梅窩 至 芝蔴灣",
     "route_en": "Mui Wo to Chi Ma Wan",
     "from_tc": "梅窩",
@@ -2749,6 +2763,7 @@
   },
   "cmw_to_cc": {
     "route_id": "cmw_to_cc",
+    "stop_id": "cmw_to_cc",
     "route_tc": "芝蔴灣 至 長洲",
     "route_en": "Chi Ma Wan to Cheung Chau",
     "from_tc": "芝蔴灣",
@@ -2790,6 +2805,7 @@
   },
   "cc_to_cmw": {
     "route_id": "cc_to_cmw",
+    "stop_id": "cc_to_cmw",
     "route_tc": "長洲 至 芝蔴灣",
     "route_en": "Cheung Chau to Chi Ma Wan",
     "from_tc": "長洲",
@@ -2827,6 +2843,7 @@
   },
   "cmw_to_mw": {
     "route_id": "cmw_to_mw",
+    "stop_id": "cmw_to_mw",
     "route_tc": "芝蔴灣 至 梅窩",
     "route_en": "Chi Ma Wan to Mui Wo",
     "from_tc": "芝蔴灣",
@@ -2864,6 +2881,7 @@
   },
   "mw_to_cc": {
     "route_id": "mw_to_cc",
+    "stop_id": "mw_to_cc",
     "route_tc": "梅窩 至 長洲",
     "route_en": "Mui Wo to Cheung Chau",
     "from_tc": "梅窩",
@@ -2893,6 +2911,7 @@
   },
   "central_to_cc": {
     "route_id": "central_to_cc",
+    "stop_id": "central_to_cc",
     "route_tc": "中環 至 長洲",
     "route_en": "Central to Cheung Chau",
     "from_tc": "中環",
@@ -3236,6 +3255,7 @@
   },
   "cc_to_central": {
     "route_id": "cc_to_central",
+    "stop_id": "cc_to_central",
     "route_tc": "長洲 至 中環",
     "route_en": "Cheung Chau to Central",
     "from_tc": "長洲",
@@ -3579,6 +3599,7 @@
   },
   "central_to_discovery_bay": {
     "route_id": "central_to_discovery_bay",
+    "stop_id": "central_to_discovery_bay",
     "route_tc": "中環 至 愉景灣",
     "route_en": "Central to Discovery Bay",
     "from_tc": "中環",
@@ -4068,6 +4089,7 @@
   },
   "discovery_bay_to_central": {
     "route_id": "discovery_bay_to_central",
+    "stop_id": "discovery_bay_to_central",
     "route_tc": "愉景灣 至 中環",
     "route_en": "Discovery Bay to Central",
     "from_tc": "愉景灣",
@@ -4573,6 +4595,7 @@
   },
   "np_to_hh": {
     "route_id": "np_to_hh",
+    "stop_id": "np_to_hh",
     "route_tc": "北角 至 紅磡",
     "route_en": "North Point to Hung Hom",
     "from_tc": "北角",
@@ -4698,6 +4721,7 @@
   },
   "hh_to_np": {
     "route_id": "hh_to_np",
+    "stop_id": "hh_to_np",
     "route_tc": "紅磡 至 北角",
     "route_en": "Hung Hom to North Point",
     "from_tc": "紅磡",
@@ -4827,6 +4851,7 @@
   },
   "np_to_kowloon_city": {
     "route_id": "np_to_kowloon_city",
+    "stop_id": "np_to_kowloon_city",
     "route_tc": "北角 至 九龍城",
     "route_en": "North Point to Kowloon City",
     "from_tc": "北角",
@@ -4952,6 +4977,7 @@
   },
   "kowloon_city_to_np": {
     "route_id": "kowloon_city_to_np",
+    "stop_id": "kowloon_city_to_np",
     "route_tc": "九龍城 至 北角",
     "route_en": "Kowloon City to North Point",
     "from_tc": "九龍城",
@@ -5081,6 +5107,7 @@
   },
   "np_to_kt": {
     "route_id": "np_to_kt",
+    "stop_id": "np_to_kt",
     "route_tc": "北角 至 觀塘",
     "route_en": "North Point to Kwun Tong",
     "from_tc": "北角",
@@ -5314,6 +5341,7 @@
   },
   "kt_to_np": {
     "route_id": "kt_to_np",
+    "stop_id": "kt_to_np",
     "route_tc": "觀塘 至 北角 ",
     "route_en": "Kwun Tong to North Point",
     "from_tc": "觀塘",
@@ -5551,6 +5579,7 @@
   },
   "": {
     "route_id": "",
+    "stop_id": "",
     "route_tc": "",
     "route_en": "",
     "from_tc": "",
@@ -5572,6 +5601,7 @@
   },
   "kt_to_kt": {
     "route_id": "kt_to_kt",
+    "stop_id": "kt_to_kt",
     "route_tc": "觀塘 至 啟德 ",
     "route_en": "Kai Tak to Kwun Tong",
     "from_tc": "觀塘",
@@ -5783,6 +5813,7 @@
   },
   "swh_to_kt": {
     "route_id": "swh_to_kt",
+    "stop_id": "swh_to_kt",
     "route_tc": "西灣河 至 觀塘",
     "route_en": "Sai Wan Ho to Kwun Tong",
     "from_tc": "西灣河",
@@ -5930,6 +5961,7 @@
   },
   "kt_to_swh": {
     "route_id": "kt_to_swh",
+    "stop_id": "kt_to_swh",
     "route_tc": "觀塘 至 西灣河",
     "route_en": "Kwun Tong to Sai Wan Ho",
     "from_tc": "觀塘",
@@ -6067,6 +6099,7 @@
   },
   "swh_to_skt": {
     "route_id": "swh_to_skt",
+    "stop_id": "swh_to_skt",
     "route_tc": "西灣河 至 三家村",
     "route_en": "Sai Wan Ho to Sam Ka Tsuen",
     "from_tc": "西灣河",
@@ -6216,6 +6249,7 @@
   },
   "skt_to_swh": {
     "route_id": "skt_to_swh",
+    "stop_id": "skt_to_swh",
     "route_tc": "三家村 至 西灣河",
     "route_en": "Sam Ka Tsuen to Sai Wan Ho",
     "from_tc": "三家村",
@@ -6365,6 +6399,7 @@
   },
   "mw_to_discovery_bay_via_pc": {
     "route_id": "mw_to_discovery_bay_via_pc",
+    "stop_id": "mw_to_discovery_bay_via_pc",
     "route_tc": "梅窩 至 愉景灣 經 坪洲",
     "route_en": "Mui Wo to Discovery Bay via Peng Chau",
     "from_tc": "梅窩",
@@ -6386,6 +6421,7 @@
   },
   "pc_to_discovery_bay": {
     "route_id": "pc_to_discovery_bay",
+    "stop_id": "pc_to_discovery_bay",
     "route_tc": "坪洲 至 愉景灣",
     "route_en": "Peng Chau to Discovery Bay",
     "from_tc": "坪洲",
@@ -6407,6 +6443,7 @@
   },
   "discovery_bay_to_mw_via_pc": {
     "route_id": "discovery_bay_to_mw_via_pc",
+    "stop_id": "discovery_bay_to_mw_via_pc",
     "route_tc": "愉景灣 至梅窩 經 坪洲",
     "route_en": "Discovery Bay to Mui Wovia Peng Chau",
     "from_tc": "愉景灣",
@@ -6428,6 +6465,7 @@
   },
   "discovery_bay_to_mw": {
     "route_id": "discovery_bay_to_mw",
+    "stop_id": "discovery_bay_to_mw",
     "route_tc": "愉景灣 至 梅窩",
     "route_en": "Discovery Bay to Mui Wo",
     "from_tc": "愉景灣",
@@ -6481,6 +6519,7 @@
   },
   "mw_to_discovery_bay": {
     "route_id": "mw_to_discovery_bay",
+    "stop_id": "mw_to_discovery_bay",
     "route_tc": "梅窩 至 愉景灣",
     "route_en": "Mui Wo to Discovery Bay",
     "from_tc": "梅窩",
@@ -6534,6 +6573,7 @@
   },
   "tm_to_to": {
     "route_id": "tm_to_to",
+    "stop_id": "tm_to_to",
     "route_tc": "屯門 至 大澳",
     "route_en": "Tuen Mun to Tai O",
     "from_tc": "屯門",
@@ -6659,6 +6699,7 @@
   },
   "tc_to_to": {
     "route_id": "tc_to_to",
+    "stop_id": "tc_to_to",
     "route_tc": "東涌 至 大澳",
     "route_en": "Tung Chung to Tai O",
     "from_tc": "東涌",
@@ -6776,6 +6817,7 @@
   },
   "slw_to_to": {
     "route_id": "slw_to_to",
+    "stop_id": "slw_to_to",
     "route_tc": "沙螺灣 至 大澳",
     "route_en": "Sha Lo Wan to Tai O",
     "from_tc": "沙螺灣",
@@ -6893,6 +6935,7 @@
   },
   "to_to_tm": {
     "route_id": "to_to_tm",
+    "stop_id": "to_to_tm",
     "route_tc": "大澳 至 屯門",
     "route_en": "Tai O to Tuen Mun",
     "from_tc": "大澳",
@@ -7038,6 +7081,7 @@
   },
   "slw_to_tm": {
     "route_id": "slw_to_tm",
+    "stop_id": "slw_to_tm",
     "route_tc": "沙螺灣 至 屯門",
     "route_en": "Sha Lo Wan to Tuen Mun",
     "from_tc": "沙螺灣",
@@ -7175,6 +7219,7 @@
   },
   "tc_to_tm": {
     "route_id": "tc_to_tm",
+    "stop_id": "tc_to_tm",
     "route_tc": "東涌 至 屯門",
     "route_en": "Tung Chung to Tuen Mun",
     "from_tc": "東涌",
@@ -7320,6 +7365,7 @@
   },
   "aberdeen_to_skw": {
     "route_id": "aberdeen_to_skw",
+    "stop_id": "aberdeen_to_skw",
     "route_tc": "香港仔 至 索罟灣",
     "route_en": "Sok Kwu Wan to Aberdeen",
     "from_tc": "香港仔",
@@ -7451,6 +7497,7 @@
   },
   "skw_to_aberdeen": {
     "route_id": "skw_to_aberdeen",
+    "stop_id": "skw_to_aberdeen",
     "route_tc": "索罟灣 至 香港仔",
     "route_en": "Aberdeen to Sok Kwu Wan",
     "from_tc": "索罟灣",
@@ -7582,6 +7629,7 @@
   },
   "aberdeen_to_ysw": {
     "route_id": "aberdeen_to_ysw",
+    "stop_id": "aberdeen_to_ysw",
     "route_tc": "香港仔 至 榕樹灣",
     "route_en": "Aberdeen to Yung Shue Wan",
     "from_tc": "香港仔",
@@ -7689,6 +7737,7 @@
   },
   "pkt_to_ysw": {
     "route_id": "pkt_to_ysw",
+    "stop_id": "pkt_to_ysw",
     "route_tc": "北角村 至 榕樹灣",
     "route_en": "Pak Kok Tsuen to Yung Shue Wan",
     "from_tc": "北角村",
@@ -7796,6 +7845,7 @@
   },
   "ysw_to_aberdeen": {
     "route_id": "ysw_to_aberdeen",
+    "stop_id": "ysw_to_aberdeen",
     "route_tc": "榕樹灣 至 香港仔",
     "route_en": "Yung Shue Wan to Aberdeen",
     "from_tc": "榕樹灣",
@@ -7895,6 +7945,7 @@
   },
   "pkt_to_aberdeen": {
     "route_id": "pkt_to_aberdeen",
+    "stop_id": "pkt_to_aberdeen",
     "route_tc": "北角村 至 香港仔",
     "route_en": "Pak Kok Tsuen to Aberdeen",
     "from_tc": "北角村",
@@ -7994,6 +8045,7 @@
   },
   "hh_to_central": {
     "route_id": "hh_to_central",
+    "stop_id": "hh_to_central",
     "route_tc": "紅磡 至 中環",
     "route_en": "Hung Hom to Central",
     "from_tc": "紅磡",
@@ -8169,6 +8221,7 @@
   },
   "central_to_hh": {
     "route_id": "central_to_hh",
+    "stop_id": "central_to_hh",
     "route_tc": "中環 至 紅磡",
     "route_en": "Central to Hung Hom",
     "from_tc": "中環",
@@ -8340,6 +8393,7 @@
   },
   "mls_to_sc": {
     "route_id": "mls_to_sc",
+    "stop_id": "mls_to_sc",
     "route_tc": "馬料水 至 深涌",
     "route_en": "Ma Liu Shui to Shum Chung",
     "from_tc": "馬料水",
@@ -8379,6 +8433,7 @@
   },
   "sc_to_lcc": {
     "route_id": "sc_to_lcc",
+    "stop_id": "sc_to_lcc",
     "route_tc": "深涌 至 荔枝莊",
     "route_en": "Shum Chung to Lai Chi Chong",
     "from_tc": "深涌",
@@ -8418,6 +8473,7 @@
   },
   "lcc_to_tm_to_": {
     "route_id": "lcc_to_tm_to_",
+    "stop_id": "lcc_to_tm_to_",
     "route_tc": "荔枝莊 至 塔門",
     "route_en": "Lai Chi Chong to Tap Mun",
     "from_tc": "荔枝莊",
@@ -8457,6 +8513,7 @@
   },
   "tm_to_klw": {
     "route_id": "tm_to_klw",
+    "stop_id": "tm_to_klw",
     "route_tc": "塔門 至 高流灣",
     "route_en": "Tap Mun to Ko Lau Wan",
     "from_tc": "塔門",
@@ -8492,6 +8549,7 @@
   },
   "klw_to_ck": {
     "route_id": "klw_to_ck",
+    "stop_id": "klw_to_ck",
     "route_tc": "高流灣 至 赤徑",
     "route_en": "Ko Lau Wan to Chek Keng",
     "from_tc": "高流灣",
@@ -8527,6 +8585,7 @@
   },
   "ck_to_ws_pier": {
     "route_id": "ck_to_ws_pier",
+    "stop_id": "ck_to_ws_pier",
     "route_tc": "赤徑 至 黃石碼頭",
     "route_en": "Chek Keng to Wong Shek Pier",
     "from_tc": "赤徑",
@@ -8562,6 +8621,7 @@
   },
   "ws_pier_to_ck": {
     "route_id": "ws_pier_to_ck",
+    "stop_id": "ws_pier_to_ck",
     "route_tc": "黃石碼頭 至 赤徑",
     "route_en": "Wong Shek Pier to Chek Keng",
     "from_tc": "黃石碼頭",
@@ -8597,6 +8657,7 @@
   },
   "ck_to_klw": {
     "route_id": "ck_to_klw",
+    "stop_id": "ck_to_klw",
     "route_tc": "赤徑 至 高流灣",
     "route_en": "Chek Keng to Ko Lau Wan",
     "from_tc": "赤徑",
@@ -8632,6 +8693,7 @@
   },
   "klw_to_tm": {
     "route_id": "klw_to_tm",
+    "stop_id": "klw_to_tm",
     "route_tc": "高流灣 至 塔門",
     "route_en": "Ko Lau Wan to Tap Mun",
     "from_tc": "高流灣",
@@ -8667,6 +8729,7 @@
   },
   "tm_to_lcc": {
     "route_id": "tm_to_lcc",
+    "stop_id": "tm_to_lcc",
     "route_tc": "塔門 至 荔枝莊",
     "route_en": "Tap Mun to Lai Chi Chong",
     "from_tc": "塔門",
@@ -8706,6 +8769,7 @@
   },
   "lcc_to_sc": {
     "route_id": "lcc_to_sc",
+    "stop_id": "lcc_to_sc",
     "route_tc": "荔枝莊 至 深涌",
     "route_en": "Lai Chi Chong to Shum Chung",
     "from_tc": "荔枝莊",
@@ -8745,6 +8809,7 @@
   },
   "sc_to_mls": {
     "route_id": "sc_to_mls",
+    "stop_id": "sc_to_mls",
     "route_tc": "深涌 至 馬料水",
     "route_en": "Shum Chung to Ma Liu Shui",
     "from_tc": "深涌",
@@ -8784,6 +8849,7 @@
   },
   "mls_to_tpc": {
     "route_id": "mls_to_tpc",
+    "stop_id": "mls_to_tpc",
     "route_tc": "馬料水 至 東平洲",
     "route_en": "Ma Liu Shui to Tung Ping Chau",
     "from_tc": "馬料水",
@@ -8815,6 +8881,7 @@
   },
   "tpc_to_mls": {
     "route_id": "tpc_to_mls",
+    "stop_id": "tpc_to_mls",
     "route_tc": "東平洲 至 馬料水",
     "route_en": "Tung Ping Chau to Ma Liu Shui",
     "from_tc": "東平洲",
@@ -8842,6 +8909,7 @@
   },
   "tp_to_ws": {
     "route_id": "tp_to_ws",
+    "stop_id": "tp_to_ws",
     "route_tc": "塔門 至 黃石",
     "route_en": "Tap Mun to Wong Shek",
     "from_tc": "塔門",
@@ -8937,6 +9005,7 @@
   },
   "ws_to_tp": {
     "route_id": "ws_to_tp",
+    "stop_id": "ws_to_tp",
     "route_tc": "黃石 至 塔門",
     "route_en": "Wong Shek to Tap Mun",
     "from_tc": "黃石",
