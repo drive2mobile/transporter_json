@@ -404,6 +404,7 @@ async function parseRouteStopListFerry()
                     if (route_id in masterList_tc == false) 
                     {
                         masterList_tc[route_id] = {
+                            company: 'ferry',
                             route_id: route_id,
                             stop_id: route_id,
                             route_tc: ferryCoordination?.[direction]?.['route_tc'] || '',

@@ -1,5 +1,6 @@
 {
   "central_to_pc": {
+    "company": "ferry",
     "route_id": "central_to_pc",
     "stop_id": "central_to_pc",
     "route_tc": "中環 至 坪洲",
@@ -220,6 +221,7 @@
     }
   },
   "pc_to_central": {
+    "company": "ferry",
     "route_id": "pc_to_central",
     "stop_id": "pc_to_central",
     "route_tc": "坪洲 至 中環",
@@ -444,6 +446,7 @@
     }
   },
   "pc_to_hlc": {
+    "company": "ferry",
     "route_id": "pc_to_hlc",
     "stop_id": "pc_to_hlc",
     "route_tc": "坪洲 至 喜靈洲",
@@ -544,6 +547,7 @@
     }
   },
   "hlc_to_pc": {
+    "company": "ferry",
     "route_id": "hlc_to_pc",
     "stop_id": "hlc_to_pc",
     "route_tc": "喜靈洲 至 坪洲",
@@ -644,6 +648,7 @@
     }
   },
   "central_to_ysw": {
+    "company": "ferry",
     "route_id": "central_to_ysw",
     "stop_id": "central_to_ysw",
     "route_tc": "中環 至 榕樹灣",
@@ -916,6 +921,7 @@
     }
   },
   "ysw_to_central": {
+    "company": "ferry",
     "route_id": "ysw_to_central",
     "stop_id": "ysw_to_central",
     "route_tc": "榕樹灣 至 中環",
@@ -1184,6 +1190,7 @@
     }
   },
   "central_to_skw": {
+    "company": "ferry",
     "route_id": "central_to_skw",
     "stop_id": "central_to_skw",
     "route_tc": "中環 至 索罟灣",
@@ -1312,6 +1319,7 @@
     }
   },
   "skw_to_central": {
+    "company": "ferry",
     "route_id": "skw_to_central",
     "stop_id": "skw_to_central",
     "route_tc": "索罟灣 至 中環",
@@ -1440,6 +1448,7 @@
     }
   },
   "central_to_mw": {
+    "company": "ferry",
     "route_id": "central_to_mw",
     "stop_id": "central_to_mw",
     "route_tc": "中環 至 梅窩",
@@ -2004,6 +2013,7 @@
     }
   },
   "mw_to_central": {
+    "company": "ferry",
     "route_id": "mw_to_central",
     "stop_id": "mw_to_central",
     "route_tc": "梅窩 至 中環",
@@ -2560,6 +2570,7 @@
     }
   },
   "cc_to_mw": {
+    "company": "ferry",
     "route_id": "cc_to_mw",
     "stop_id": "cc_to_mw",
     "route_tc": "長洲 至 梅窩",
@@ -2598,6 +2609,7 @@
     }
   },
   "mu_to_pc": {
+    "company": "ferry",
     "route_id": "mu_to_pc",
     "stop_id": "mu_to_pc",
     "route_tc": "梅窩 至 坪洲",
@@ -2656,6 +2668,7 @@
     }
   },
   "pc_to_mu": {
+    "company": "ferry",
     "route_id": "pc_to_mu",
     "stop_id": "pc_to_mu",
     "route_tc": "坪洲 至 梅窩",
@@ -2720,6 +2733,7 @@
     }
   },
   "mw_to_cmw": {
+    "company": "ferry",
     "route_id": "mw_to_cmw",
     "stop_id": "mw_to_cmw",
     "route_tc": "梅窩 至 芝蔴灣",
@@ -2762,6 +2776,7 @@
     }
   },
   "cmw_to_cc": {
+    "company": "ferry",
     "route_id": "cmw_to_cc",
     "stop_id": "cmw_to_cc",
     "route_tc": "芝蔴灣 至 長洲",
@@ -2804,6 +2819,7 @@
     }
   },
   "cc_to_cmw": {
+    "company": "ferry",
     "route_id": "cc_to_cmw",
     "stop_id": "cc_to_cmw",
     "route_tc": "長洲 至 芝蔴灣",
@@ -2842,6 +2858,7 @@
     }
   },
   "cmw_to_mw": {
+    "company": "ferry",
     "route_id": "cmw_to_mw",
     "stop_id": "cmw_to_mw",
     "route_tc": "芝蔴灣 至 梅窩",
@@ -2880,6 +2897,7 @@
     }
   },
   "mw_to_cc": {
+    "company": "ferry",
     "route_id": "mw_to_cc",
     "stop_id": "mw_to_cc",
     "route_tc": "梅窩 至 長洲",
@@ -2910,6 +2928,7 @@
     }
   },
   "central_to_cc": {
+    "company": "ferry",
     "route_id": "central_to_cc",
     "stop_id": "central_to_cc",
     "route_tc": "中環 至 長洲",
@@ -3254,6 +3273,7 @@
     }
   },
   "cc_to_central": {
+    "company": "ferry",
     "route_id": "cc_to_central",
     "stop_id": "cc_to_central",
     "route_tc": "長洲 至 中環",
@@ -3598,6 +3618,7 @@
     }
   },
   "central_to_discovery_bay": {
+    "company": "ferry",
     "route_id": "central_to_discovery_bay",
     "stop_id": "central_to_discovery_bay",
     "route_tc": "中環 至 愉景灣",
@@ -4088,6 +4109,7 @@
     }
   },
   "discovery_bay_to_central": {
+    "company": "ferry",
     "route_id": "discovery_bay_to_central",
     "stop_id": "discovery_bay_to_central",
     "route_tc": "愉景灣 至 中環",
@@ -4594,6 +4616,7 @@
     }
   },
   "np_to_hh": {
+    "company": "ferry",
     "route_id": "np_to_hh",
     "stop_id": "np_to_hh",
     "route_tc": "北角 至 紅磡",
@@ -4720,6 +4743,7 @@
     }
   },
   "hh_to_np": {
+    "company": "ferry",
     "route_id": "hh_to_np",
     "stop_id": "hh_to_np",
     "route_tc": "紅磡 至 北角",
@@ -4850,6 +4874,7 @@
     }
   },
   "np_to_kowloon_city": {
+    "company": "ferry",
     "route_id": "np_to_kowloon_city",
     "stop_id": "np_to_kowloon_city",
     "route_tc": "北角 至 九龍城",
@@ -4976,6 +5001,7 @@
     }
   },
   "kowloon_city_to_np": {
+    "company": "ferry",
     "route_id": "kowloon_city_to_np",
     "stop_id": "kowloon_city_to_np",
     "route_tc": "九龍城 至 北角",
@@ -5106,6 +5132,7 @@
     }
   },
   "np_to_kt": {
+    "company": "ferry",
     "route_id": "np_to_kt",
     "stop_id": "np_to_kt",
     "route_tc": "北角 至 觀塘",
@@ -5340,6 +5367,7 @@
     }
   },
   "kt_to_np": {
+    "company": "ferry",
     "route_id": "kt_to_np",
     "stop_id": "kt_to_np",
     "route_tc": "觀塘 至 北角 ",
@@ -5578,6 +5606,7 @@
     }
   },
   "": {
+    "company": "ferry",
     "route_id": "",
     "stop_id": "",
     "route_tc": "",
@@ -5600,6 +5629,7 @@
     }
   },
   "kt_to_kt": {
+    "company": "ferry",
     "route_id": "kt_to_kt",
     "stop_id": "kt_to_kt",
     "route_tc": "觀塘 至 啟德 ",
@@ -5812,6 +5842,7 @@
     }
   },
   "swh_to_kt": {
+    "company": "ferry",
     "route_id": "swh_to_kt",
     "stop_id": "swh_to_kt",
     "route_tc": "西灣河 至 觀塘",
@@ -5960,6 +5991,7 @@
     }
   },
   "kt_to_swh": {
+    "company": "ferry",
     "route_id": "kt_to_swh",
     "stop_id": "kt_to_swh",
     "route_tc": "觀塘 至 西灣河",
@@ -6098,6 +6130,7 @@
     }
   },
   "swh_to_skt": {
+    "company": "ferry",
     "route_id": "swh_to_skt",
     "stop_id": "swh_to_skt",
     "route_tc": "西灣河 至 三家村",
@@ -6248,6 +6281,7 @@
     }
   },
   "skt_to_swh": {
+    "company": "ferry",
     "route_id": "skt_to_swh",
     "stop_id": "skt_to_swh",
     "route_tc": "三家村 至 西灣河",
@@ -6398,6 +6432,7 @@
     }
   },
   "mw_to_discovery_bay_via_pc": {
+    "company": "ferry",
     "route_id": "mw_to_discovery_bay_via_pc",
     "stop_id": "mw_to_discovery_bay_via_pc",
     "route_tc": "梅窩 至 愉景灣 經 坪洲",
@@ -6420,6 +6455,7 @@
     }
   },
   "pc_to_discovery_bay": {
+    "company": "ferry",
     "route_id": "pc_to_discovery_bay",
     "stop_id": "pc_to_discovery_bay",
     "route_tc": "坪洲 至 愉景灣",
@@ -6442,6 +6478,7 @@
     }
   },
   "discovery_bay_to_mw_via_pc": {
+    "company": "ferry",
     "route_id": "discovery_bay_to_mw_via_pc",
     "stop_id": "discovery_bay_to_mw_via_pc",
     "route_tc": "愉景灣 至梅窩 經 坪洲",
@@ -6464,6 +6501,7 @@
     }
   },
   "discovery_bay_to_mw": {
+    "company": "ferry",
     "route_id": "discovery_bay_to_mw",
     "stop_id": "discovery_bay_to_mw",
     "route_tc": "愉景灣 至 梅窩",
@@ -6518,6 +6556,7 @@
     }
   },
   "mw_to_discovery_bay": {
+    "company": "ferry",
     "route_id": "mw_to_discovery_bay",
     "stop_id": "mw_to_discovery_bay",
     "route_tc": "梅窩 至 愉景灣",
@@ -6572,6 +6611,7 @@
     }
   },
   "tm_to_to": {
+    "company": "ferry",
     "route_id": "tm_to_to",
     "stop_id": "tm_to_to",
     "route_tc": "屯門 至 大澳",
@@ -6698,6 +6738,7 @@
     }
   },
   "tc_to_to": {
+    "company": "ferry",
     "route_id": "tc_to_to",
     "stop_id": "tc_to_to",
     "route_tc": "東涌 至 大澳",
@@ -6816,6 +6857,7 @@
     }
   },
   "slw_to_to": {
+    "company": "ferry",
     "route_id": "slw_to_to",
     "stop_id": "slw_to_to",
     "route_tc": "沙螺灣 至 大澳",
@@ -6934,6 +6976,7 @@
     }
   },
   "to_to_tm": {
+    "company": "ferry",
     "route_id": "to_to_tm",
     "stop_id": "to_to_tm",
     "route_tc": "大澳 至 屯門",
@@ -7080,6 +7123,7 @@
     }
   },
   "slw_to_tm": {
+    "company": "ferry",
     "route_id": "slw_to_tm",
     "stop_id": "slw_to_tm",
     "route_tc": "沙螺灣 至 屯門",
@@ -7218,6 +7262,7 @@
     }
   },
   "tc_to_tm": {
+    "company": "ferry",
     "route_id": "tc_to_tm",
     "stop_id": "tc_to_tm",
     "route_tc": "東涌 至 屯門",
@@ -7364,6 +7409,7 @@
     }
   },
   "aberdeen_to_skw": {
+    "company": "ferry",
     "route_id": "aberdeen_to_skw",
     "stop_id": "aberdeen_to_skw",
     "route_tc": "香港仔 至 索罟灣",
@@ -7496,6 +7542,7 @@
     }
   },
   "skw_to_aberdeen": {
+    "company": "ferry",
     "route_id": "skw_to_aberdeen",
     "stop_id": "skw_to_aberdeen",
     "route_tc": "索罟灣 至 香港仔",
@@ -7628,6 +7675,7 @@
     }
   },
   "aberdeen_to_ysw": {
+    "company": "ferry",
     "route_id": "aberdeen_to_ysw",
     "stop_id": "aberdeen_to_ysw",
     "route_tc": "香港仔 至 榕樹灣",
@@ -7736,6 +7784,7 @@
     }
   },
   "pkt_to_ysw": {
+    "company": "ferry",
     "route_id": "pkt_to_ysw",
     "stop_id": "pkt_to_ysw",
     "route_tc": "北角村 至 榕樹灣",
@@ -7844,6 +7893,7 @@
     }
   },
   "ysw_to_aberdeen": {
+    "company": "ferry",
     "route_id": "ysw_to_aberdeen",
     "stop_id": "ysw_to_aberdeen",
     "route_tc": "榕樹灣 至 香港仔",
@@ -7944,6 +7994,7 @@
     }
   },
   "pkt_to_aberdeen": {
+    "company": "ferry",
     "route_id": "pkt_to_aberdeen",
     "stop_id": "pkt_to_aberdeen",
     "route_tc": "北角村 至 香港仔",
@@ -8044,6 +8095,7 @@
     }
   },
   "hh_to_central": {
+    "company": "ferry",
     "route_id": "hh_to_central",
     "stop_id": "hh_to_central",
     "route_tc": "紅磡 至 中環",
@@ -8220,6 +8272,7 @@
     }
   },
   "central_to_hh": {
+    "company": "ferry",
     "route_id": "central_to_hh",
     "stop_id": "central_to_hh",
     "route_tc": "中環 至 紅磡",
@@ -8392,6 +8445,7 @@
     }
   },
   "mls_to_sc": {
+    "company": "ferry",
     "route_id": "mls_to_sc",
     "stop_id": "mls_to_sc",
     "route_tc": "馬料水 至 深涌",
@@ -8432,6 +8486,7 @@
     }
   },
   "sc_to_lcc": {
+    "company": "ferry",
     "route_id": "sc_to_lcc",
     "stop_id": "sc_to_lcc",
     "route_tc": "深涌 至 荔枝莊",
@@ -8472,6 +8527,7 @@
     }
   },
   "lcc_to_tm_to_": {
+    "company": "ferry",
     "route_id": "lcc_to_tm_to_",
     "stop_id": "lcc_to_tm_to_",
     "route_tc": "荔枝莊 至 塔門",
@@ -8512,6 +8568,7 @@
     }
   },
   "tm_to_klw": {
+    "company": "ferry",
     "route_id": "tm_to_klw",
     "stop_id": "tm_to_klw",
     "route_tc": "塔門 至 高流灣",
@@ -8548,6 +8605,7 @@
     }
   },
   "klw_to_ck": {
+    "company": "ferry",
     "route_id": "klw_to_ck",
     "stop_id": "klw_to_ck",
     "route_tc": "高流灣 至 赤徑",
@@ -8584,6 +8642,7 @@
     }
   },
   "ck_to_ws_pier": {
+    "company": "ferry",
     "route_id": "ck_to_ws_pier",
     "stop_id": "ck_to_ws_pier",
     "route_tc": "赤徑 至 黃石碼頭",
@@ -8620,6 +8679,7 @@
     }
   },
   "ws_pier_to_ck": {
+    "company": "ferry",
     "route_id": "ws_pier_to_ck",
     "stop_id": "ws_pier_to_ck",
     "route_tc": "黃石碼頭 至 赤徑",
@@ -8656,6 +8716,7 @@
     }
   },
   "ck_to_klw": {
+    "company": "ferry",
     "route_id": "ck_to_klw",
     "stop_id": "ck_to_klw",
     "route_tc": "赤徑 至 高流灣",
@@ -8692,6 +8753,7 @@
     }
   },
   "klw_to_tm": {
+    "company": "ferry",
     "route_id": "klw_to_tm",
     "stop_id": "klw_to_tm",
     "route_tc": "高流灣 至 塔門",
@@ -8728,6 +8790,7 @@
     }
   },
   "tm_to_lcc": {
+    "company": "ferry",
     "route_id": "tm_to_lcc",
     "stop_id": "tm_to_lcc",
     "route_tc": "塔門 至 荔枝莊",
@@ -8768,6 +8831,7 @@
     }
   },
   "lcc_to_sc": {
+    "company": "ferry",
     "route_id": "lcc_to_sc",
     "stop_id": "lcc_to_sc",
     "route_tc": "荔枝莊 至 深涌",
@@ -8808,6 +8872,7 @@
     }
   },
   "sc_to_mls": {
+    "company": "ferry",
     "route_id": "sc_to_mls",
     "stop_id": "sc_to_mls",
     "route_tc": "深涌 至 馬料水",
@@ -8848,6 +8913,7 @@
     }
   },
   "mls_to_tpc": {
+    "company": "ferry",
     "route_id": "mls_to_tpc",
     "stop_id": "mls_to_tpc",
     "route_tc": "馬料水 至 東平洲",
@@ -8880,6 +8946,7 @@
     }
   },
   "tpc_to_mls": {
+    "company": "ferry",
     "route_id": "tpc_to_mls",
     "stop_id": "tpc_to_mls",
     "route_tc": "東平洲 至 馬料水",
@@ -8908,6 +8975,7 @@
     }
   },
   "tp_to_ws": {
+    "company": "ferry",
     "route_id": "tp_to_ws",
     "stop_id": "tp_to_ws",
     "route_tc": "塔門 至 黃石",
@@ -9004,6 +9072,7 @@
     }
   },
   "ws_to_tp": {
+    "company": "ferry",
     "route_id": "ws_to_tp",
     "stop_id": "ws_to_tp",
     "route_tc": "黃石 至 塔門",
