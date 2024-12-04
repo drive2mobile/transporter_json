@@ -74,8 +74,7 @@ async function mtr()
 {
     // await downloadMtrRoutStopList();
     // await createMtrRouteList();
-    await getAllMtrFirstAndLastTrain('tc');
-    await getAllMtrFirstAndLastTrain('en');
+    await getAllMtrFirstAndLastTrain();
 
     console.log('MTR Finished');
 }

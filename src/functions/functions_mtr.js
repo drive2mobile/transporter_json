@@ -170,7 +170,7 @@ async function getMtrStationFirstAndLastTrain(stopNo, lang)
                     if (station && firstTrain && lastTrain)
                     {
                         trainDataArray.push({
-                            line: currentLineName,
+                            line: currentLineName.replace('綫', '線'),
                             to: station,
                             firstTrain: firstTrain,
                             lastTrain: lastTrain,
@@ -185,7 +185,7 @@ async function getMtrStationFirstAndLastTrain(stopNo, lang)
     }
     catch (error)
     {
-        console.error(`Error fetching page ${stopNo}:`, error);
+        console.error(`Error fetching page ${stopNo} ${lang}:`, error);
         return [];
     }
     finally
@@ -200,9 +200,9 @@ async function getAllMtrFirstAndLastTrain()
 
     try
     {
-        for (let i = 1; i <= 120; i++)
+        for (let i = 1; i <= 5; i++)
         {
-            console.log(`Processing station ${i}...`);
+            console.log(`Processing station ${i} tc...`);
             const schedule_tc = await getMtrStationFirstAndLastTrain(i.toString(), 'tc');
 
             if (schedule_tc && schedule_tc.length > 0)
@@ -210,6 +210,7 @@ async function getAllMtrFirstAndLastTrain()
                 result.push(...schedule_tc);
             }
 
+            console.log(`Processing station ${i} en...`);
             const schedule_en = await getMtrStationFirstAndLastTrain(i.toString(), 'en');
 
             if (schedule_en && schedule_en.length > 0)

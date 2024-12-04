@@ -1,21 +1,21 @@
 {
   "中環": [
     {
-      "line": "荃灣線",
+      "line": "荃灣綫",
       "to": "荃灣",
       "firstTrain": "0606",
       "lastTrain": "0054",
       "station": "中環"
     },
     {
-      "line": "港島線",
+      "line": "港島綫",
       "to": "堅尼地城",
       "firstTrain": "0607",
       "lastTrain": "0104",
       "station": "中環"
     },
     {
-      "line": "港島線",
+      "line": "港島綫",
       "to": "柴灣",
       "firstTrain": "0607",
       "lastTrain": "0058",
@@ -24,56 +24,56 @@
   ],
   "金鐘": [
     {
-      "line": "南港島線",
+      "line": "南港島綫",
       "to": "海怡半島",
       "firstTrain": "0611",
       "lastTrain": "0105",
       "station": "金鐘"
     },
     {
-      "line": "荃灣線",
+      "line": "荃灣綫",
       "to": "中環",
       "firstTrain": "0608",
       "lastTrain": "0057",
       "station": "金鐘"
     },
     {
-      "line": "荃灣線",
+      "line": "荃灣綫",
       "to": "荃灣",
       "firstTrain": "0607",
       "lastTrain": "0056",
       "station": "金鐘"
     },
     {
-      "line": "港島線",
+      "line": "港島綫",
       "to": "堅尼地城",
       "firstTrain": "0605",
       "lastTrain": "0102",
       "station": "金鐘"
     },
     {
-      "line": "港島線",
+      "line": "港島綫",
       "to": "柴灣",
       "firstTrain": "0610",
       "lastTrain": "0100",
       "station": "金鐘"
     },
     {
-      "line": "東鐵線",
+      "line": "東鐵綫",
       "to": "落馬洲",
       "firstTrain": "0610",
       "lastTrain": "2129",
       "station": "金鐘"
     },
     {
-      "line": "東鐵線",
+      "line": "東鐵綫",
       "to": "羅湖",
       "firstTrain": "0604",
       "lastTrain": "2301",
       "station": "金鐘"
     },
     {
-      "line": "東鐵線",
+      "line": "東鐵綫",
       "to": "上水",
       "firstTrain": "0604",
       "lastTrain": "0022",
@@ -82,14 +82,14 @@
   ],
   "尖沙咀": [
     {
-      "line": "荃灣線",
+      "line": "荃灣綫",
       "to": "中環",
       "firstTrain": "0604",
       "lastTrain": "0054",
       "station": "尖沙咀"
     },
     {
-      "line": "荃灣線",
+      "line": "荃灣綫",
       "to": "荃灣",
       "firstTrain": "0611",
       "lastTrain": "0059",
@@ -98,14 +98,14 @@
   ],
   "佐敦": [
     {
-      "line": "荃灣線",
+      "line": "荃灣綫",
       "to": "中環",
       "firstTrain": "0603",
       "lastTrain": "0052",
       "station": "佐敦"
     },
     {
-      "line": "荃灣線",
+      "line": "荃灣綫",
       "to": "荃灣",
       "firstTrain": "0613",
       "lastTrain": "0101",
@@ -114,35 +114,35 @@
   ],
   "油麻地": [
     {
-      "line": "荃灣線",
+      "line": "荃灣綫",
       "to": "中環",
       "firstTrain": "0601",
       "lastTrain": "0050",
       "station": "油麻地"
     },
     {
-      "line": "荃灣線",
+      "line": "荃灣綫",
       "to": "荃灣",
       "firstTrain": "0614",
       "lastTrain": "0103",
       "station": "油麻地"
     },
     {
-      "line": "觀塘線",
+      "line": "觀塘綫",
       "to": "黃埔",
       "firstTrain": "0611",
       "lastTrain": "0050",
       "station": "油麻地"
     },
     {
-      "line": "觀塘線",
+      "line": "觀塘綫",
       "to": "調景嶺",
       "firstTrain": "0614",
       "lastTrain": "0044",
       "station": "油麻地"
     },
     {
-      "line": "觀塘線",
+      "line": "觀塘綫",
       "to": "觀塘",
       "firstTrain": "0614",
       "lastTrain": "0104",
@@ -151,35 +151,35 @@
   ],
   "旺角": [
     {
-      "line": "荃灣線",
+      "line": "荃灣綫",
       "to": "中環",
       "firstTrain": "0610",
       "lastTrain": "0048",
       "station": "旺角"
     },
     {
-      "line": "荃灣線",
+      "line": "荃灣綫",
       "to": "荃灣",
       "firstTrain": "0616",
       "lastTrain": "0105",
       "station": "旺角"
     },
     {
-      "line": "觀塘線",
+      "line": "觀塘綫",
       "to": "黃埔",
       "firstTrain": "0610",
       "lastTrain": "0048",
       "station": "旺角"
     },
     {
-      "line": "觀塘線",
+      "line": "觀塘綫",
       "to": "調景嶺",
       "firstTrain": "0616",
       "lastTrain": "0046",
       "station": "旺角"
     },
     {
-      "line": "觀塘線",
+      "line": "觀塘綫",
       "to": "觀塘",
       "firstTrain": "0616",
       "lastTrain": "0106",
@@ -188,21 +188,21 @@
   ],
   "石硤尾": [
     {
-      "line": "觀塘線",
+      "line": "觀塘綫",
       "to": "黃埔",
       "firstTrain": "0606",
       "lastTrain": "0045",
       "station": "石硤尾"
     },
     {
-      "line": "觀塘線",
+      "line": "觀塘綫",
       "to": "調景嶺",
       "firstTrain": "0619",
       "lastTrain": "0049",
       "station": "石硤尾"
     },
     {
-      "line": "觀塘線",
+      "line": "觀塘綫",
       "to": "觀塘",
       "firstTrain": "0619",
       "lastTrain": "0109",
@@ -211,56 +211,56 @@
   ],
   "九龍塘": [
     {
-      "line": "觀塘線",
+      "line": "觀塘綫",
       "to": "黃埔",
       "firstTrain": "0604",
       "lastTrain": "0042",
       "station": "九龍塘"
     },
     {
-      "line": "觀塘線",
+      "line": "觀塘綫",
       "to": "調景嶺",
       "firstTrain": "0621",
       "lastTrain": "0051",
       "station": "九龍塘"
     },
     {
-      "line": "觀塘線",
+      "line": "觀塘綫",
       "to": "觀塘",
       "firstTrain": "0621",
       "lastTrain": "0111",
       "station": "九龍塘"
     },
     {
-      "line": "東鐵線",
+      "line": "東鐵綫",
       "to": "落馬洲",
       "firstTrain": "0530",
       "lastTrain": "2141",
       "station": "九龍塘"
     },
     {
-      "line": "東鐵線",
+      "line": "東鐵綫",
       "to": "羅湖",
       "firstTrain": "0536",
       "lastTrain": "2313",
       "station": "九龍塘"
     },
     {
-      "line": "東鐵線",
+      "line": "東鐵綫",
       "to": "上水",
       "firstTrain": "0530",
       "lastTrain": "0037",
       "station": "九龍塘"
     },
     {
-      "line": "東鐵線",
+      "line": "東鐵綫",
       "to": "金鐘",
       "firstTrain": "0545",
       "lastTrain": "0036",
       "station": "九龍塘"
     },
     {
-      "line": "東鐵線",
+      "line": "東鐵綫",
       "to": "紅磡",
       "firstTrain": "0545",
       "lastTrain": "0106",
@@ -269,21 +269,21 @@
   ],
   "樂富": [
     {
-      "line": "觀塘線",
+      "line": "觀塘綫",
       "to": "黃埔",
       "firstTrain": "0602",
       "lastTrain": "0041",
       "station": "樂富"
     },
     {
-      "line": "觀塘線",
+      "line": "觀塘綫",
       "to": "調景嶺",
       "firstTrain": "0623",
       "lastTrain": "0053",
       "station": "樂富"
     },
     {
-      "line": "觀塘線",
+      "line": "觀塘綫",
       "to": "觀塘",
       "firstTrain": "0623",
       "lastTrain": "0113",
@@ -292,21 +292,21 @@
   ],
   "黃大仙": [
     {
-      "line": "觀塘線",
+      "line": "觀塘綫",
       "to": "黃埔",
       "firstTrain": "0600",
       "lastTrain": "0039",
       "station": "黃大仙"
     },
     {
-      "line": "觀塘線",
+      "line": "觀塘綫",
       "to": "調景嶺",
       "firstTrain": "0624",
       "lastTrain": "0054",
       "station": "黃大仙"
     },
     {
-      "line": "觀塘線",
+      "line": "觀塘綫",
       "to": "觀塘",
       "firstTrain": "0624",
       "lastTrain": "0114",
@@ -315,42 +315,42 @@
   ],
   "鑽石山": [
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "烏溪沙",
       "firstTrain": "0614",
       "lastTrain": "0058",
       "station": "鑽石山"
     },
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "屯門",
       "firstTrain": "0605",
       "lastTrain": "0021",
       "station": "鑽石山"
     },
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "紅磡",
       "firstTrain": "0605",
       "lastTrain": "0041",
       "station": "鑽石山"
     },
     {
-      "line": "觀塘線",
+      "line": "觀塘綫",
       "to": "黃埔",
       "firstTrain": "0559",
       "lastTrain": "0037",
       "station": "鑽石山"
     },
     {
-      "line": "觀塘線",
+      "line": "觀塘綫",
       "to": "調景嶺",
       "firstTrain": "0626",
       "lastTrain": "0056",
       "station": "鑽石山"
     },
     {
-      "line": "觀塘線",
+      "line": "觀塘綫",
       "to": "觀塘",
       "firstTrain": "0626",
       "lastTrain": "0116",
@@ -359,21 +359,21 @@
   ],
   "彩虹": [
     {
-      "line": "觀塘線",
+      "line": "觀塘綫",
       "to": "黃埔",
       "firstTrain": "0557",
       "lastTrain": "0035",
       "station": "彩虹"
     },
     {
-      "line": "觀塘線",
+      "line": "觀塘綫",
       "to": "調景嶺",
       "firstTrain": "0615",
       "lastTrain": "0058",
       "station": "彩虹"
     },
     {
-      "line": "觀塘線",
+      "line": "觀塘綫",
       "to": "觀塘",
       "firstTrain": "0615",
       "lastTrain": "0118",
@@ -382,28 +382,28 @@
   ],
   "九龍灣": [
     {
-      "line": "觀塘線",
+      "line": "觀塘綫",
       "to": "黃埔",
       "firstTrain": "0603",
       "lastTrain": "0033",
       "station": "九龍灣"
     },
     {
-      "line": "觀塘線",
+      "line": "觀塘綫",
       "to": "彩虹",
       "firstTrain": "0603",
       "lastTrain": "0117",
       "station": "九龍灣"
     },
     {
-      "line": "觀塘線",
+      "line": "觀塘綫",
       "to": "調景嶺",
       "firstTrain": "0616",
       "lastTrain": "0100",
       "station": "九龍灣"
     },
     {
-      "line": "觀塘線",
+      "line": "觀塘綫",
       "to": "觀塘",
       "firstTrain": "0616",
       "lastTrain": "0120",
@@ -412,28 +412,28 @@
   ],
   "牛頭角": [
     {
-      "line": "觀塘線",
+      "line": "觀塘綫",
       "to": "黃埔",
       "firstTrain": "0601",
       "lastTrain": "0031",
       "station": "牛頭角"
     },
     {
-      "line": "觀塘線",
+      "line": "觀塘綫",
       "to": "彩虹",
       "firstTrain": "0601",
       "lastTrain": "0115",
       "station": "牛頭角"
     },
     {
-      "line": "觀塘線",
+      "line": "觀塘綫",
       "to": "調景嶺",
       "firstTrain": "0602",
       "lastTrain": "0102",
       "station": "牛頭角"
     },
     {
-      "line": "觀塘線",
+      "line": "觀塘綫",
       "to": "觀塘",
       "firstTrain": "0602",
       "lastTrain": "0122",
@@ -442,21 +442,21 @@
   ],
   "觀塘": [
     {
-      "line": "觀塘線",
+      "line": "觀塘綫",
       "to": "黃埔",
       "firstTrain": "0600",
       "lastTrain": "0030",
       "station": "觀塘"
     },
     {
-      "line": "觀塘線",
+      "line": "觀塘綫",
       "to": "調景嶺",
       "firstTrain": "0604",
       "lastTrain": "0104",
       "station": "觀塘"
     },
     {
-      "line": "觀塘線",
+      "line": "觀塘綫",
       "to": "彩虹",
       "firstTrain": "0600",
       "lastTrain": "0113",
@@ -465,35 +465,35 @@
   ],
   "太子": [
     {
-      "line": "荃灣線",
+      "line": "荃灣綫",
       "to": "中環",
       "firstTrain": "0608",
       "lastTrain": "0047",
       "station": "太子"
     },
     {
-      "line": "荃灣線",
+      "line": "荃灣綫",
       "to": "荃灣",
       "firstTrain": "0617",
       "lastTrain": "0106",
       "station": "太子"
     },
     {
-      "line": "觀塘線",
+      "line": "觀塘綫",
       "to": "黃埔",
       "firstTrain": "0608",
       "lastTrain": "0046",
       "station": "太子"
     },
     {
-      "line": "觀塘線",
+      "line": "觀塘綫",
       "to": "調景嶺",
       "firstTrain": "0618",
       "lastTrain": "0047",
       "station": "太子"
     },
     {
-      "line": "觀塘線",
+      "line": "觀塘綫",
       "to": "觀塘",
       "firstTrain": "0618",
       "lastTrain": "0107",
@@ -502,14 +502,14 @@
   ],
   "深水埗": [
     {
-      "line": "荃灣線",
+      "line": "荃灣綫",
       "to": "中環",
       "firstTrain": "0614",
       "lastTrain": "0045",
       "station": "深水埗"
     },
     {
-      "line": "荃灣線",
+      "line": "荃灣綫",
       "to": "荃灣",
       "firstTrain": "0620",
       "lastTrain": "0108",
@@ -518,14 +518,14 @@
   ],
   "長沙灣": [
     {
-      "line": "荃灣線",
+      "line": "荃灣綫",
       "to": "中環",
       "firstTrain": "0613",
       "lastTrain": "0043",
       "station": "長沙灣"
     },
     {
-      "line": "荃灣線",
+      "line": "荃灣綫",
       "to": "荃灣",
       "firstTrain": "0622",
       "lastTrain": "0110",
@@ -534,14 +534,14 @@
   ],
   "荔枝角": [
     {
-      "line": "荃灣線",
+      "line": "荃灣綫",
       "to": "中環",
       "firstTrain": "0611",
       "lastTrain": "0041",
       "station": "荔枝角"
     },
     {
-      "line": "荃灣線",
+      "line": "荃灣綫",
       "to": "荃灣",
       "firstTrain": "0624",
       "lastTrain": "0111",
@@ -550,35 +550,35 @@
   ],
   "美孚": [
     {
-      "line": "荃灣線",
+      "line": "荃灣綫",
       "to": "中環",
       "firstTrain": "0610",
       "lastTrain": "0040",
       "station": "美孚"
     },
     {
-      "line": "荃灣線",
+      "line": "荃灣綫",
       "to": "荃灣",
       "firstTrain": "0625",
       "lastTrain": "0113",
       "station": "美孚"
     },
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "烏溪沙",
       "firstTrain": "0612",
       "lastTrain": "0036",
       "station": "美孚"
     },
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "屯門",
       "firstTrain": "0604",
       "lastTrain": "0043",
       "station": "美孚"
     },
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "紅磡",
       "firstTrain": "0612",
       "lastTrain": "0042",
@@ -587,28 +587,28 @@
   ],
   "荔景": [
     {
-      "line": "東涌線",
+      "line": "東涌綫",
       "to": "香港",
       "firstTrain": "0602",
       "lastTrain": "0101",
       "station": "荔景"
     },
     {
-      "line": "東涌線",
+      "line": "東涌綫",
       "to": "東涌",
       "firstTrain": "0613",
       "lastTrain": "0101",
       "station": "荔景"
     },
     {
-      "line": "荃灣線",
+      "line": "荃灣綫",
       "to": "中環",
       "firstTrain": "0607",
       "lastTrain": "0037",
       "station": "荔景"
     },
     {
-      "line": "荃灣線",
+      "line": "荃灣綫",
       "to": "荃灣",
       "firstTrain": "0628",
       "lastTrain": "0116",
@@ -617,14 +617,14 @@
   ],
   "葵芳": [
     {
-      "line": "荃灣線",
+      "line": "荃灣綫",
       "to": "中環",
       "firstTrain": "0605",
       "lastTrain": "0035",
       "station": "葵芳"
     },
     {
-      "line": "荃灣線",
+      "line": "荃灣綫",
       "to": "荃灣",
       "firstTrain": "0630",
       "lastTrain": "0118",
@@ -633,14 +633,14 @@
   ],
   "葵興": [
     {
-      "line": "荃灣線",
+      "line": "荃灣綫",
       "to": "中環",
       "firstTrain": "0604",
       "lastTrain": "0033",
       "station": "葵興"
     },
     {
-      "line": "荃灣線",
+      "line": "荃灣綫",
       "to": "荃灣",
       "firstTrain": "0632",
       "lastTrain": "0120",
@@ -649,14 +649,14 @@
   ],
   "大窩口": [
     {
-      "line": "荃灣線",
+      "line": "荃灣綫",
       "to": "中環",
       "firstTrain": "0601",
       "lastTrain": "0031",
       "station": "大窩口"
     },
     {
-      "line": "荃灣線",
+      "line": "荃灣綫",
       "to": "荃灣",
       "firstTrain": "0634",
       "lastTrain": "0122",
@@ -665,7 +665,7 @@
   ],
   "荃灣": [
     {
-      "line": "荃灣線",
+      "line": "荃灣綫",
       "to": "中環",
       "firstTrain": "0600",
       "lastTrain": "0030",
@@ -674,14 +674,14 @@
   ],
   "上環": [
     {
-      "line": "港島線",
+      "line": "港島綫",
       "to": "堅尼地城",
       "firstTrain": "0609",
       "lastTrain": "0106",
       "station": "上環"
     },
     {
-      "line": "港島線",
+      "line": "港島綫",
       "to": "柴灣",
       "firstTrain": "0605",
       "lastTrain": "0056",
@@ -690,14 +690,14 @@
   ],
   "灣仔": [
     {
-      "line": "港島線",
+      "line": "港島綫",
       "to": "堅尼地城",
       "firstTrain": "0603",
       "lastTrain": "0054",
       "station": "灣仔"
     },
     {
-      "line": "港島線",
+      "line": "港島綫",
       "to": "柴灣",
       "firstTrain": "0611",
       "lastTrain": "0101",
@@ -706,14 +706,14 @@
   ],
   "銅鑼灣": [
     {
-      "line": "港島線",
+      "line": "港島綫",
       "to": "堅尼地城",
       "firstTrain": "0601",
       "lastTrain": "0052",
       "station": "銅鑼灣"
     },
     {
-      "line": "港島線",
+      "line": "港島綫",
       "to": "柴灣",
       "firstTrain": "0613",
       "lastTrain": "0104",
@@ -722,14 +722,14 @@
   ],
   "天后": [
     {
-      "line": "港島線",
+      "line": "港島綫",
       "to": "堅尼地城",
       "firstTrain": "0609",
       "lastTrain": "0050",
       "station": "天后"
     },
     {
-      "line": "港島線",
+      "line": "港島綫",
       "to": "柴灣",
       "firstTrain": "0615",
       "lastTrain": "0106",
@@ -738,14 +738,14 @@
   ],
   "炮台山": [
     {
-      "line": "港島線",
+      "line": "港島綫",
       "to": "堅尼地城",
       "firstTrain": "0608",
       "lastTrain": "0048",
       "station": "炮台山"
     },
     {
-      "line": "港島線",
+      "line": "港島綫",
       "to": "柴灣",
       "firstTrain": "0616",
       "lastTrain": "0107",
@@ -754,28 +754,28 @@
   ],
   "北角": [
     {
-      "line": "將軍澳線",
+      "line": "將軍澳綫",
       "to": "寶琳",
       "firstTrain": "0613",
       "lastTrain": "0112",
       "station": "北角"
     },
     {
-      "line": "將軍澳線",
+      "line": "將軍澳綫",
       "to": "康城",
       "firstTrain": "0613",
       "lastTrain": "0112",
       "station": "北角"
     },
     {
-      "line": "港島線",
+      "line": "港島綫",
       "to": "堅尼地城",
       "firstTrain": "0606",
       "lastTrain": "0047",
       "station": "北角"
     },
     {
-      "line": "港島線",
+      "line": "港島綫",
       "to": "柴灣",
       "firstTrain": "0619",
       "lastTrain": "0109",
@@ -784,35 +784,35 @@
   ],
   "鰂魚涌": [
     {
-      "line": "港島線",
+      "line": "港島綫",
       "to": "堅尼地城",
       "firstTrain": "0604",
       "lastTrain": "0045",
       "station": "鰂魚涌"
     },
     {
-      "line": "港島線",
+      "line": "港島綫",
       "to": "柴灣",
       "firstTrain": "0621",
       "lastTrain": "0111",
       "station": "鰂魚涌"
     },
     {
-      "line": "將軍澳線",
+      "line": "將軍澳綫",
       "to": "北角",
       "firstTrain": "0613",
       "lastTrain": "0103",
       "station": "鰂魚涌"
     },
     {
-      "line": "將軍澳線",
+      "line": "將軍澳綫",
       "to": "寶琳",
       "firstTrain": "0615",
       "lastTrain": "0114",
       "station": "鰂魚涌"
     },
     {
-      "line": "將軍澳線",
+      "line": "將軍澳綫",
       "to": "康城",
       "firstTrain": "0615",
       "lastTrain": "0114",
@@ -821,14 +821,14 @@
   ],
   "太古": [
     {
-      "line": "港島線",
+      "line": "港島綫",
       "to": "堅尼地城",
       "firstTrain": "0603",
       "lastTrain": "0043",
       "station": "太古"
     },
     {
-      "line": "港島線",
+      "line": "港島綫",
       "to": "柴灣",
       "firstTrain": "0622",
       "lastTrain": "0113",
@@ -837,14 +837,14 @@
   ],
   "筲箕灣": [
     {
-      "line": "港島線",
+      "line": "港島綫",
       "to": "堅尼地城",
       "firstTrain": "0559",
       "lastTrain": "0040",
       "station": "筲箕灣"
     },
     {
-      "line": "港島線",
+      "line": "港島綫",
       "to": "柴灣",
       "firstTrain": "0625",
       "lastTrain": "0117",
@@ -853,14 +853,14 @@
   ],
   "杏花邨": [
     {
-      "line": "港島線",
+      "line": "港島綫",
       "to": "堅尼地城",
       "firstTrain": "0558",
       "lastTrain": "0037",
       "station": "杏花邨"
     },
     {
-      "line": "港島線",
+      "line": "港島綫",
       "to": "柴灣",
       "firstTrain": "0629",
       "lastTrain": "0119",
@@ -869,7 +869,7 @@
   ],
   "柴灣": [
     {
-      "line": "港島線",
+      "line": "港島綫",
       "to": "堅尼地城",
       "firstTrain": "0555",
       "lastTrain": "0035",
@@ -878,28 +878,28 @@
   ],
   "藍田": [
     {
-      "line": "觀塘線",
+      "line": "觀塘綫",
       "to": "黃埔",
       "firstTrain": "0612",
       "lastTrain": "0028",
       "station": "藍田"
     },
     {
-      "line": "觀塘線",
+      "line": "觀塘綫",
       "to": "彩虹",
       "firstTrain": "0612",
       "lastTrain": "0111",
       "station": "藍田"
     },
     {
-      "line": "觀塘線",
+      "line": "觀塘綫",
       "to": "調景嶺",
       "firstTrain": "0605",
       "lastTrain": "0105",
       "station": "藍田"
     },
     {
-      "line": "觀塘線",
+      "line": "觀塘綫",
       "to": "觀塘",
       "firstTrain": "0612",
       "lastTrain": "0120",
@@ -908,28 +908,28 @@
   ],
   "香港": [
     {
-      "line": "機場快線",
+      "line": "機場快綫",
       "to": "機場 / 博覽館",
       "firstTrain": "0550",
       "lastTrain": "0048",
       "station": "香港"
     },
     {
-      "line": "東涌線",
+      "line": "東涌綫",
       "to": "東涌",
       "firstTrain": "0601",
       "lastTrain": "0050",
       "station": "香港"
     },
     {
-      "line": "機場快線",
+      "line": "機場快綫",
       "to": "機場 / 博覽館",
       "firstTrain": "0550",
       "lastTrain": "0048",
       "station": "香港"
     },
     {
-      "line": "東涌線",
+      "line": "東涌綫",
       "to": "東涌",
       "firstTrain": "0601",
       "lastTrain": "0050",
@@ -938,42 +938,42 @@
   ],
   "九龍": [
     {
-      "line": "機場快線",
+      "line": "機場快綫",
       "to": "機場 / 博覽館",
       "firstTrain": "0553",
       "lastTrain": "0052",
       "station": "九龍"
     },
     {
-      "line": "東涌線",
+      "line": "東涌綫",
       "to": "香港",
       "firstTrain": "0610",
       "lastTrain": "0109",
       "station": "九龍"
     },
     {
-      "line": "東涌線",
+      "line": "東涌綫",
       "to": "東涌",
       "firstTrain": "0604",
       "lastTrain": "0053",
       "station": "九龍"
     },
     {
-      "line": "機場快線",
+      "line": "機場快綫",
       "to": "機場 / 博覽館",
       "firstTrain": "0553",
       "lastTrain": "0052",
       "station": "九龍"
     },
     {
-      "line": "東涌線",
+      "line": "東涌綫",
       "to": "香港",
       "firstTrain": "0610",
       "lastTrain": "0109",
       "station": "九龍"
     },
     {
-      "line": "東涌線",
+      "line": "東涌綫",
       "to": "東涌",
       "firstTrain": "0604",
       "lastTrain": "0053",
@@ -982,14 +982,14 @@
   ],
   "奧運": [
     {
-      "line": "東涌線",
+      "line": "東涌綫",
       "to": "香港",
       "firstTrain": "0608",
       "lastTrain": "0107",
       "station": "奧運"
     },
     {
-      "line": "東涌線",
+      "line": "東涌綫",
       "to": "東涌",
       "firstTrain": "0607",
       "lastTrain": "0055",
@@ -998,42 +998,42 @@
   ],
   "青衣": [
     {
-      "line": "機場快線",
+      "line": "機場快綫",
       "to": "機場 / 博覽館",
       "firstTrain": "0600",
       "lastTrain": "0059",
       "station": "青衣"
     },
     {
-      "line": "東涌線",
+      "line": "東涌綫",
       "to": "香港",
       "firstTrain": "0559",
       "lastTrain": "0058",
       "station": "青衣"
     },
     {
-      "line": "東涌線",
+      "line": "東涌綫",
       "to": "東涌",
       "firstTrain": "0615",
       "lastTrain": "0104",
       "station": "青衣"
     },
     {
-      "line": "機場快線",
+      "line": "機場快綫",
       "to": "機場 / 博覽館",
       "firstTrain": "0600",
       "lastTrain": "0059",
       "station": "青衣"
     },
     {
-      "line": "東涌線",
+      "line": "東涌綫",
       "to": "香港",
       "firstTrain": "0559",
       "lastTrain": "0058",
       "station": "青衣"
     },
     {
-      "line": "東涌線",
+      "line": "東涌綫",
       "to": "東涌",
       "firstTrain": "0615",
       "lastTrain": "0104",
@@ -1042,7 +1042,7 @@
   ],
   "東涌": [
     {
-      "line": "東涌線",
+      "line": "東涌綫",
       "to": "香港",
       "firstTrain": "0602",
       "lastTrain": "0043",
@@ -1051,14 +1051,14 @@
   ],
   "機場": [
     {
-      "line": "機場快線",
+      "line": "機場快綫",
       "to": "市區",
       "firstTrain": "0554",
       "lastTrain": "0048",
       "station": "機場"
     },
     {
-      "line": "機場快線",
+      "line": "機場快綫",
       "to": "博覽館",
       "firstTrain": "0615",
       "lastTrain": "0113",
@@ -1067,42 +1067,42 @@
   ],
   "調景嶺": [
     {
-      "line": "觀塘線",
+      "line": "觀塘綫",
       "to": "黃埔",
       "firstTrain": "0607",
       "lastTrain": "0022",
       "station": "調景嶺"
     },
     {
-      "line": "觀塘線",
+      "line": "觀塘綫",
       "to": "彩虹",
       "firstTrain": "0607",
       "lastTrain": "0106",
       "station": "調景嶺"
     },
     {
-      "line": "觀塘線",
+      "line": "觀塘綫",
       "to": "觀塘",
       "firstTrain": "0607",
       "lastTrain": "0115",
       "station": "調景嶺"
     },
     {
-      "line": "將軍澳線",
+      "line": "將軍澳綫",
       "to": "北角",
       "firstTrain": "0606",
       "lastTrain": "0056",
       "station": "調景嶺"
     },
     {
-      "line": "將軍澳線",
+      "line": "將軍澳綫",
       "to": "寶琳",
       "firstTrain": "0615",
       "lastTrain": "0121",
       "station": "調景嶺"
     },
     {
-      "line": "將軍澳線",
+      "line": "將軍澳綫",
       "to": "康城",
       "firstTrain": "0618",
       "lastTrain": "0124",
@@ -1111,21 +1111,21 @@
   ],
   "將軍澳": [
     {
-      "line": "將軍澳線",
+      "line": "將軍澳綫",
       "to": "北角",
       "firstTrain": "0604",
       "lastTrain": "0054",
       "station": "將軍澳"
     },
     {
-      "line": "將軍澳線",
+      "line": "將軍澳綫",
       "to": "寶琳",
       "firstTrain": "0617",
       "lastTrain": "0123",
       "station": "將軍澳"
     },
     {
-      "line": "將軍澳線",
+      "line": "將軍澳綫",
       "to": "康城",
       "firstTrain": "0620",
       "lastTrain": "0126",
@@ -1134,21 +1134,21 @@
   ],
   "坑口": [
     {
-      "line": "將軍澳線",
+      "line": "將軍澳綫",
       "to": "北角",
       "firstTrain": "0602",
       "lastTrain": "0052",
       "station": "坑口"
     },
     {
-      "line": "將軍澳線",
+      "line": "將軍澳綫",
       "to": "寶琳",
       "firstTrain": "0619",
       "lastTrain": "0125",
       "station": "坑口"
     },
     {
-      "line": "將軍澳線",
+      "line": "將軍澳綫",
       "to": "康城",
       "firstTrain": "0602",
       "lastTrain": "0052",
@@ -1157,14 +1157,14 @@
   ],
   "寶琳": [
     {
-      "line": "將軍澳線",
+      "line": "將軍澳綫",
       "to": "北角",
       "firstTrain": "0600",
       "lastTrain": "0050",
       "station": "寶琳"
     },
     {
-      "line": "將軍澳線",
+      "line": "將軍澳綫",
       "to": "康城",
       "firstTrain": "0600",
       "lastTrain": "0050",
@@ -1173,35 +1173,35 @@
   ],
   "南昌": [
     {
-      "line": "東涌線",
+      "line": "東涌綫",
       "to": "香港",
       "firstTrain": "0606",
       "lastTrain": "0105",
       "station": "南昌"
     },
     {
-      "line": "東涌線",
+      "line": "東涌綫",
       "to": "東涌",
       "firstTrain": "0609",
       "lastTrain": "0057",
       "station": "南昌"
     },
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "烏溪沙",
       "firstTrain": "0615",
       "lastTrain": "0039",
       "station": "南昌"
     },
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "屯門",
       "firstTrain": "0601",
       "lastTrain": "0040",
       "station": "南昌"
     },
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "紅磡",
       "firstTrain": "0615",
       "lastTrain": "0045",
@@ -1210,21 +1210,21 @@
   ],
   "欣澳": [
     {
-      "line": "迪士尼線",
+      "line": "迪士尼綫",
       "to": "迪士尼",
       "firstTrain": "0615",
       "lastTrain": "0045",
       "station": "欣澳"
     },
     {
-      "line": "東涌線",
+      "line": "東涌綫",
       "to": "香港",
       "firstTrain": "0609",
       "lastTrain": "0050",
       "station": "欣澳"
     },
     {
-      "line": "東涌線",
+      "line": "東涌綫",
       "to": "東涌",
       "firstTrain": "0622",
       "lastTrain": "0110",
@@ -1233,7 +1233,7 @@
   ],
   "迪士尼": [
     {
-      "line": "迪士尼線",
+      "line": "迪士尼綫",
       "to": "欣澳",
       "firstTrain": "0620",
       "lastTrain": "0040",
@@ -1242,7 +1242,7 @@
   ],
   "博覽館": [
     {
-      "line": "機場快線",
+      "line": "機場快綫",
       "to": "市區",
       "firstTrain": "0600",
       "lastTrain": "0045",
@@ -1251,14 +1251,14 @@
   ],
   "康城": [
     {
-      "line": "將軍澳線",
+      "line": "將軍澳綫",
       "to": "北角",
       "firstTrain": "0557",
       "lastTrain": "0048",
       "station": "康城"
     },
     {
-      "line": "將軍澳線",
+      "line": "將軍澳綫",
       "to": "寶琳",
       "firstTrain": "0557",
       "lastTrain": "0048",
@@ -1267,42 +1267,42 @@
   ],
   "紅磡": [
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "烏溪沙",
       "firstTrain": "0604",
       "lastTrain": "0047",
       "station": "紅磡"
     },
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "屯門",
       "firstTrain": "0553",
       "lastTrain": "0032",
       "station": "紅磡"
     },
     {
-      "line": "東鐵線",
+      "line": "東鐵綫",
       "to": "落馬洲",
       "firstTrain": "0535",
       "lastTrain": "2135",
       "station": "紅磡"
     },
     {
-      "line": "東鐵線",
+      "line": "東鐵綫",
       "to": "羅湖",
       "firstTrain": "0530",
       "lastTrain": "2307",
       "station": "紅磡"
     },
     {
-      "line": "東鐵線",
+      "line": "東鐵綫",
       "to": "上水",
       "firstTrain": "0530",
       "lastTrain": "0028",
       "station": "紅磡"
     },
     {
-      "line": "東鐵線",
+      "line": "東鐵綫",
       "to": "金鐘",
       "firstTrain": "0555",
       "lastTrain": "0046",
@@ -1311,35 +1311,35 @@
   ],
   "旺角東": [
     {
-      "line": "東鐵線",
+      "line": "東鐵綫",
       "to": "落馬洲",
       "firstTrain": "0528",
       "lastTrain": "2138",
       "station": "旺角東"
     },
     {
-      "line": "東鐵線",
+      "line": "東鐵綫",
       "to": "羅湖",
       "firstTrain": "0533",
       "lastTrain": "2310",
       "station": "旺角東"
     },
     {
-      "line": "東鐵線",
+      "line": "東鐵綫",
       "to": "上水",
       "firstTrain": "0528",
       "lastTrain": "0033",
       "station": "旺角東"
     },
     {
-      "line": "東鐵線",
+      "line": "東鐵綫",
       "to": "金鐘",
       "firstTrain": "0549",
       "lastTrain": "0039",
       "station": "旺角東"
     },
     {
-      "line": "東鐵線",
+      "line": "東鐵綫",
       "to": "紅磡",
       "firstTrain": "0549",
       "lastTrain": "0109",
@@ -1348,56 +1348,56 @@
   ],
   "大圍": [
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "烏溪沙",
       "firstTrain": "0540",
       "lastTrain": "0105",
       "station": "大圍"
     },
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "屯門",
       "firstTrain": "0558",
       "lastTrain": "0014",
       "station": "大圍"
     },
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "紅磡",
       "firstTrain": "0558",
       "lastTrain": "0034",
       "station": "大圍"
     },
     {
-      "line": "東鐵線",
+      "line": "東鐵綫",
       "to": "落馬洲",
       "firstTrain": "0535",
       "lastTrain": "2145",
       "station": "大圍"
     },
     {
-      "line": "東鐵線",
+      "line": "東鐵綫",
       "to": "羅湖",
       "firstTrain": "0540",
       "lastTrain": "2317",
       "station": "大圍"
     },
     {
-      "line": "東鐵線",
+      "line": "東鐵綫",
       "to": "上水",
       "firstTrain": "0535",
       "lastTrain": "0041",
       "station": "大圍"
     },
     {
-      "line": "東鐵線",
+      "line": "東鐵綫",
       "to": "金鐘",
       "firstTrain": "0540",
       "lastTrain": "0031",
       "station": "大圍"
     },
     {
-      "line": "東鐵線",
+      "line": "東鐵綫",
       "to": "紅磡",
       "firstTrain": "0540",
       "lastTrain": "0101",
@@ -1406,35 +1406,35 @@
   ],
   "沙田": [
     {
-      "line": "東鐵線",
+      "line": "東鐵綫",
       "to": "落馬洲",
       "firstTrain": "0537",
       "lastTrain": "2148",
       "station": "沙田"
     },
     {
-      "line": "東鐵線",
+      "line": "東鐵綫",
       "to": "羅湖",
       "firstTrain": "0535",
       "lastTrain": "2320",
       "station": "沙田"
     },
     {
-      "line": "東鐵線",
+      "line": "東鐵綫",
       "to": "上水",
       "firstTrain": "0535",
       "lastTrain": "0044",
       "station": "沙田"
     },
     {
-      "line": "東鐵線",
+      "line": "東鐵綫",
       "to": "金鐘",
       "firstTrain": "0538",
       "lastTrain": "0028",
       "station": "沙田"
     },
     {
-      "line": "東鐵線",
+      "line": "東鐵綫",
       "to": "紅磡",
       "firstTrain": "0538",
       "lastTrain": "0058",
@@ -1443,35 +1443,35 @@
   ],
   "火炭": [
     {
-      "line": "東鐵線",
+      "line": "東鐵綫",
       "to": "落馬洲",
       "firstTrain": "0540",
       "lastTrain": "2151",
       "station": "火炭"
     },
     {
-      "line": "東鐵線",
+      "line": "東鐵綫",
       "to": "羅湖",
       "firstTrain": "0537",
       "lastTrain": "2323",
       "station": "火炭"
     },
     {
-      "line": "東鐵線",
+      "line": "東鐵綫",
       "to": "上水",
       "firstTrain": "0537",
       "lastTrain": "0047",
       "station": "火炭"
     },
     {
-      "line": "東鐵線",
+      "line": "東鐵綫",
       "to": "金鐘",
       "firstTrain": "0601",
       "lastTrain": "0025",
       "station": "火炭"
     },
     {
-      "line": "東鐵線",
+      "line": "東鐵綫",
       "to": "紅磡",
       "firstTrain": "0601",
       "lastTrain": "0055",
@@ -1480,7 +1480,7 @@
   ],
   "馬場": [
     {
-      "line": "東鐵線",
+      "line": "東鐵綫",
       "to": "-",
       "firstTrain": "-",
       "lastTrain": "-",
@@ -1489,35 +1489,35 @@
   ],
   "大學": [
     {
-      "line": "東鐵線",
+      "line": "東鐵綫",
       "to": "落馬洲",
       "firstTrain": "0544",
       "lastTrain": "2155",
       "station": "大學"
     },
     {
-      "line": "東鐵線",
+      "line": "東鐵綫",
       "to": "羅湖",
       "firstTrain": "0541",
       "lastTrain": "2327",
       "station": "大學"
     },
     {
-      "line": "東鐵線",
+      "line": "東鐵綫",
       "to": "上水",
       "firstTrain": "0541",
       "lastTrain": "0050",
       "station": "大學"
     },
     {
-      "line": "東鐵線",
+      "line": "東鐵綫",
       "to": "金鐘",
       "firstTrain": "0557",
       "lastTrain": "0022",
       "station": "大學"
     },
     {
-      "line": "東鐵線",
+      "line": "東鐵綫",
       "to": "紅磡",
       "firstTrain": "0557",
       "lastTrain": "0052",
@@ -1526,35 +1526,35 @@
   ],
   "大埔墟": [
     {
-      "line": "東鐵線",
+      "line": "東鐵綫",
       "to": "落馬洲",
       "firstTrain": "0550",
       "lastTrain": "2201",
       "station": "大埔墟"
     },
     {
-      "line": "東鐵線",
+      "line": "東鐵綫",
       "to": "羅湖",
       "firstTrain": "0547",
       "lastTrain": "2333",
       "station": "大埔墟"
     },
     {
-      "line": "東鐵線",
+      "line": "東鐵綫",
       "to": "上水",
       "firstTrain": "0547",
       "lastTrain": "0057",
       "station": "大埔墟"
     },
     {
-      "line": "東鐵線",
+      "line": "東鐵綫",
       "to": "金鐘",
       "firstTrain": "0551",
       "lastTrain": "0016",
       "station": "大埔墟"
     },
     {
-      "line": "東鐵線",
+      "line": "東鐵綫",
       "to": "紅磡",
       "firstTrain": "0551",
       "lastTrain": "0046",
@@ -1563,35 +1563,35 @@
   ],
   "太和": [
     {
-      "line": "東鐵線",
+      "line": "東鐵綫",
       "to": "落馬洲",
       "firstTrain": "0552",
       "lastTrain": "2203",
       "station": "太和"
     },
     {
-      "line": "東鐵線",
+      "line": "東鐵綫",
       "to": "羅湖",
       "firstTrain": "0549",
       "lastTrain": "2335",
       "station": "太和"
     },
     {
-      "line": "東鐵線",
+      "line": "東鐵綫",
       "to": "上水",
       "firstTrain": "0549",
       "lastTrain": "0059",
       "station": "太和"
     },
     {
-      "line": "東鐵線",
+      "line": "東鐵綫",
       "to": "金鐘",
       "firstTrain": "0549",
       "lastTrain": "0013",
       "station": "太和"
     },
     {
-      "line": "東鐵線",
+      "line": "東鐵綫",
       "to": "紅磡",
       "firstTrain": "0549",
       "lastTrain": "0043",
@@ -1600,35 +1600,35 @@
   ],
   "粉嶺": [
     {
-      "line": "東鐵線",
+      "line": "東鐵綫",
       "to": "落馬洲",
       "firstTrain": "0558",
       "lastTrain": "2208",
       "station": "粉嶺"
     },
     {
-      "line": "東鐵線",
+      "line": "東鐵綫",
       "to": "羅湖",
       "firstTrain": "0554",
       "lastTrain": "2341",
       "station": "粉嶺"
     },
     {
-      "line": "東鐵線",
+      "line": "東鐵綫",
       "to": "上水",
       "firstTrain": "0554",
       "lastTrain": "0105",
       "station": "粉嶺"
     },
     {
-      "line": "東鐵線",
+      "line": "東鐵綫",
       "to": "金鐘",
       "firstTrain": "0542",
       "lastTrain": "0007",
       "station": "粉嶺"
     },
     {
-      "line": "東鐵線",
+      "line": "東鐵綫",
       "to": "紅磡",
       "firstTrain": "0542",
       "lastTrain": "0037",
@@ -1637,28 +1637,28 @@
   ],
   "上水": [
     {
-      "line": "東鐵線",
+      "line": "東鐵綫",
       "to": "落馬洲",
       "firstTrain": "0600",
       "lastTrain": "2211",
       "station": "上水"
     },
     {
-      "line": "東鐵線",
+      "line": "東鐵綫",
       "to": "羅湖",
       "firstTrain": "0557",
       "lastTrain": "2343",
       "station": "上水"
     },
     {
-      "line": "東鐵線",
+      "line": "東鐵綫",
       "to": "金鐘",
       "firstTrain": "0540",
       "lastTrain": "0004",
       "station": "上水"
     },
     {
-      "line": "東鐵線",
+      "line": "東鐵綫",
       "to": "紅磡",
       "firstTrain": "0540",
       "lastTrain": "0034",
@@ -1667,21 +1667,21 @@
   ],
   "羅湖": [
     {
-      "line": "東鐵線",
+      "line": "東鐵綫",
       "to": "落馬洲",
       "firstTrain": "0555",
       "lastTrain": "2202",
       "station": "羅湖"
     },
     {
-      "line": "東鐵線",
+      "line": "東鐵綫",
       "to": "金鐘",
       "firstTrain": "0555",
       "lastTrain": "0000",
       "station": "羅湖"
     },
     {
-      "line": "東鐵線",
+      "line": "東鐵綫",
       "to": "紅磡",
       "firstTrain": "0555",
       "lastTrain": "0030",
@@ -1690,21 +1690,21 @@
   ],
   "落馬洲": [
     {
-      "line": "東鐵線",
+      "line": "東鐵綫",
       "to": "羅湖",
       "firstTrain": "0638",
       "lastTrain": "2255",
       "station": "落馬洲"
     },
     {
-      "line": "東鐵線",
+      "line": "東鐵綫",
       "to": "金鐘",
       "firstTrain": "0638",
       "lastTrain": "2255",
       "station": "落馬洲"
     },
     {
-      "line": "東鐵線",
+      "line": "東鐵綫",
       "to": "紅磡",
       "firstTrain": "0638",
       "lastTrain": "2255",
@@ -1713,21 +1713,21 @@
   ],
   "尖東": [
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "烏溪沙",
       "firstTrain": "0601",
       "lastTrain": "0045",
       "station": "尖東"
     },
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "屯門",
       "firstTrain": "0555",
       "lastTrain": "0034",
       "station": "尖東"
     },
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "紅磡",
       "firstTrain": "0601",
       "lastTrain": "0050",
@@ -1736,14 +1736,14 @@
   ],
   "西營盤": [
     {
-      "line": "港島線",
+      "line": "港島綫",
       "to": "堅尼地城",
       "firstTrain": "0611",
       "lastTrain": "0108",
       "station": "西營盤"
     },
     {
-      "line": "港島線",
+      "line": "港島綫",
       "to": "柴灣",
       "firstTrain": "0603",
       "lastTrain": "0054",
@@ -1752,14 +1752,14 @@
   ],
   "香港大學": [
     {
-      "line": "港島線",
+      "line": "港島綫",
       "to": "堅尼地城",
       "firstTrain": "0613",
       "lastTrain": "0110",
       "station": "香港大學"
     },
     {
-      "line": "港島線",
+      "line": "港島綫",
       "to": "柴灣",
       "firstTrain": "0601",
       "lastTrain": "0052",
@@ -1768,7 +1768,7 @@
   ],
   "堅尼地城": [
     {
-      "line": "港島線",
+      "line": "港島綫",
       "to": "柴灣",
       "firstTrain": "0600",
       "lastTrain": "0050",
@@ -1777,42 +1777,42 @@
   ],
   "何文田": [
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "烏溪沙",
       "firstTrain": "0606",
       "lastTrain": "0049",
       "station": "何文田"
     },
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "屯門",
       "firstTrain": "0614",
       "lastTrain": "0030",
       "station": "何文田"
     },
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "紅磡",
       "firstTrain": "0614",
       "lastTrain": "0050",
       "station": "何文田"
     },
     {
-      "line": "觀塘線",
+      "line": "觀塘綫",
       "to": "黃埔",
       "firstTrain": "0614",
       "lastTrain": "0052",
       "station": "何文田"
     },
     {
-      "line": "觀塘線",
+      "line": "觀塘綫",
       "to": "調景嶺",
       "firstTrain": "0612",
       "lastTrain": "0042",
       "station": "何文田"
     },
     {
-      "line": "觀塘線",
+      "line": "觀塘綫",
       "to": "觀塘",
       "firstTrain": "0612",
       "lastTrain": "0102",
@@ -1821,14 +1821,14 @@
   ],
   "黃埔": [
     {
-      "line": "觀塘線",
+      "line": "觀塘綫",
       "to": "調景嶺",
       "firstTrain": "0610",
       "lastTrain": "0040",
       "station": "黃埔"
     },
     {
-      "line": "觀塘線",
+      "line": "觀塘綫",
       "to": "觀塘",
       "firstTrain": "0610",
       "lastTrain": "0100",
@@ -1837,14 +1837,14 @@
   ],
   "海洋公園": [
     {
-      "line": "南港島線",
+      "line": "南港島綫",
       "to": "海怡半島",
       "firstTrain": "0616",
       "lastTrain": "0110",
       "station": "海洋公園"
     },
     {
-      "line": "南港島線",
+      "line": "南港島綫",
       "to": "金鐘",
       "firstTrain": "0606",
       "lastTrain": "0048",
@@ -1853,14 +1853,14 @@
   ],
   "黃竹坑": [
     {
-      "line": "南港島線",
+      "line": "南港島綫",
       "to": "海怡半島",
       "firstTrain": "0617",
       "lastTrain": "0112",
       "station": "黃竹坑"
     },
     {
-      "line": "南港島線",
+      "line": "南港島綫",
       "to": "金鐘",
       "firstTrain": "0604",
       "lastTrain": "0046",
@@ -1869,14 +1869,14 @@
   ],
   "利東": [
     {
-      "line": "南港島線",
+      "line": "南港島綫",
       "to": "海怡半島",
       "firstTrain": "0620",
       "lastTrain": "0114",
       "station": "利東"
     },
     {
-      "line": "南港島線",
+      "line": "南港島綫",
       "to": "金鐘",
       "firstTrain": "0602",
       "lastTrain": "0044",
@@ -1885,7 +1885,7 @@
   ],
   "海怡半島": [
     {
-      "line": "南港島線",
+      "line": "南港島綫",
       "to": "金鐘",
       "firstTrain": "0600",
       "lastTrain": "0042",
@@ -1894,21 +1894,21 @@
   ],
   "顯徑": [
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "烏溪沙",
       "firstTrain": "0618",
       "lastTrain": "0102",
       "station": "顯徑"
     },
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "屯門",
       "firstTrain": "0600",
       "lastTrain": "0016",
       "station": "顯徑"
     },
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "紅磡",
       "firstTrain": "0600",
       "lastTrain": "0036",
@@ -1917,21 +1917,21 @@
   ],
   "啟德": [
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "烏溪沙",
       "firstTrain": "0612",
       "lastTrain": "0055",
       "station": "啟德"
     },
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "屯門",
       "firstTrain": "0608",
       "lastTrain": "0023",
       "station": "啟德"
     },
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "紅磡",
       "firstTrain": "0608",
       "lastTrain": "0043",
@@ -1940,21 +1940,21 @@
   ],
   "宋皇臺": [
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "烏溪沙",
       "firstTrain": "0610",
       "lastTrain": "0053",
       "station": "宋皇臺"
     },
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "屯門",
       "firstTrain": "0610",
       "lastTrain": "0025",
       "station": "宋皇臺"
     },
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "紅磡",
       "firstTrain": "0610",
       "lastTrain": "0045",
@@ -1963,21 +1963,21 @@
   ],
   "土瓜灣": [
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "烏溪沙",
       "firstTrain": "0608",
       "lastTrain": "0051",
       "station": "土瓜灣"
     },
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "屯門",
       "firstTrain": "0612",
       "lastTrain": "0027",
       "station": "土瓜灣"
     },
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "紅磡",
       "firstTrain": "0612",
       "lastTrain": "0047",
@@ -1986,28 +1986,28 @@
   ],
   "會展": [
     {
-      "line": "東鐵線",
+      "line": "東鐵綫",
       "to": "落馬洲",
       "firstTrain": "0613",
       "lastTrain": "2131",
       "station": "會展"
     },
     {
-      "line": "東鐵線",
+      "line": "東鐵綫",
       "to": "羅湖",
       "firstTrain": "0607",
       "lastTrain": "2303",
       "station": "會展"
     },
     {
-      "line": "東鐵線",
+      "line": "東鐵綫",
       "to": "上水",
       "firstTrain": "0607",
       "lastTrain": "0024",
       "station": "會展"
     },
     {
-      "line": "東鐵線",
+      "line": "東鐵綫",
       "to": "金鐘",
       "firstTrain": "0558",
       "lastTrain": "0049",
@@ -2016,28 +2016,28 @@
   ],
   "車公廟": [
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "烏溪沙",
       "firstTrain": "0542",
       "lastTrain": "0107",
       "station": "車公廟"
     },
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "屯門",
       "firstTrain": "0556",
       "lastTrain": "0012",
       "station": "車公廟"
     },
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "紅磡",
       "firstTrain": "0556",
       "lastTrain": "0032",
       "station": "車公廟"
     },
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "大圍",
       "firstTrain": "0556",
       "lastTrain": "0057",
@@ -2046,28 +2046,28 @@
   ],
   "沙田圍": [
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "烏溪沙",
       "firstTrain": "0544",
       "lastTrain": "0109",
       "station": "沙田圍"
     },
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "屯門",
       "firstTrain": "0553",
       "lastTrain": "0009",
       "station": "沙田圍"
     },
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "紅磡",
       "firstTrain": "0553",
       "lastTrain": "0029",
       "station": "沙田圍"
     },
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "大圍",
       "firstTrain": "0553",
       "lastTrain": "0054",
@@ -2076,28 +2076,28 @@
   ],
   "第一城": [
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "烏溪沙",
       "firstTrain": "0546",
       "lastTrain": "0112",
       "station": "第一城"
     },
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "屯門",
       "firstTrain": "0551",
       "lastTrain": "0007",
       "station": "第一城"
     },
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "紅磡",
       "firstTrain": "0551",
       "lastTrain": "0027",
       "station": "第一城"
     },
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "大圍",
       "firstTrain": "0551",
       "lastTrain": "0052",
@@ -2106,28 +2106,28 @@
   ],
   "石門": [
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "烏溪沙",
       "firstTrain": "0548",
       "lastTrain": "0114",
       "station": "石門"
     },
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "屯門",
       "firstTrain": "0549",
       "lastTrain": "0005",
       "station": "石門"
     },
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "紅磡",
       "firstTrain": "0549",
       "lastTrain": "0025",
       "station": "石門"
     },
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "大圍",
       "firstTrain": "0549",
       "lastTrain": "0050",
@@ -2136,28 +2136,28 @@
   ],
   "大水坑": [
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "烏溪沙",
       "firstTrain": "0552",
       "lastTrain": "0118",
       "station": "大水坑"
     },
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "屯門",
       "firstTrain": "0545",
       "lastTrain": "0001",
       "station": "大水坑"
     },
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "紅磡",
       "firstTrain": "0545",
       "lastTrain": "0021",
       "station": "大水坑"
     },
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "大圍",
       "firstTrain": "0545",
       "lastTrain": "0046",
@@ -2166,28 +2166,28 @@
   ],
   "恆安": [
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "烏溪沙",
       "firstTrain": "0554",
       "lastTrain": "0120",
       "station": "恆安"
     },
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "屯門",
       "firstTrain": "0543",
       "lastTrain": "2359",
       "station": "恆安"
     },
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "紅磡",
       "firstTrain": "0543",
       "lastTrain": "0019",
       "station": "恆安"
     },
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "大圍",
       "firstTrain": "0543",
       "lastTrain": "0044",
@@ -2196,28 +2196,28 @@
   ],
   "馬鞍山": [
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "烏溪沙",
       "firstTrain": "0556",
       "lastTrain": "0122",
       "station": "馬鞍山"
     },
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "屯門",
       "firstTrain": "0541",
       "lastTrain": "2357",
       "station": "馬鞍山"
     },
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "紅磡",
       "firstTrain": "0541",
       "lastTrain": "0017",
       "station": "馬鞍山"
     },
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "大圍",
       "firstTrain": "0541",
       "lastTrain": "0042",
@@ -2226,21 +2226,21 @@
   ],
   "烏溪沙": [
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "屯門",
       "firstTrain": "0538",
       "lastTrain": "2354",
       "station": "烏溪沙"
     },
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "紅磡",
       "firstTrain": "0538",
       "lastTrain": "0014",
       "station": "烏溪沙"
     },
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "大圍",
       "firstTrain": "0538",
       "lastTrain": "0039",
@@ -2249,21 +2249,21 @@
   ],
   "柯士甸": [
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "烏溪沙",
       "firstTrain": "0618",
       "lastTrain": "0042",
       "station": "柯士甸"
     },
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "屯門",
       "firstTrain": "0558",
       "lastTrain": "0037",
       "station": "柯士甸"
     },
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "紅磡",
       "firstTrain": "0618",
       "lastTrain": "0048",
@@ -2272,21 +2272,21 @@
   ],
   "荃灣西": [
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "烏溪沙",
       "firstTrain": "0607",
       "lastTrain": "0031",
       "station": "荃灣西"
     },
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "屯門",
       "firstTrain": "0609",
       "lastTrain": "0048",
       "station": "荃灣西"
     },
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "紅磡",
       "firstTrain": "0607",
       "lastTrain": "0037",
@@ -2295,21 +2295,21 @@
   ],
   "錦上路": [
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "烏溪沙",
       "firstTrain": "0601",
       "lastTrain": "0025",
       "station": "錦上路"
     },
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "屯門",
       "firstTrain": "0603",
       "lastTrain": "0054",
       "station": "錦上路"
     },
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "紅磡",
       "firstTrain": "0601",
       "lastTrain": "0031",
@@ -2318,21 +2318,21 @@
   ],
   "元朗": [
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "烏溪沙",
       "firstTrain": "0557",
       "lastTrain": "0021",
       "station": "元朗"
     },
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "屯門",
       "firstTrain": "0607",
       "lastTrain": "0058",
       "station": "元朗"
     },
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "紅磡",
       "firstTrain": "0557",
       "lastTrain": "0027",
@@ -2341,21 +2341,21 @@
   ],
   "朗屏": [
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "烏溪沙",
       "firstTrain": "0555",
       "lastTrain": "0019",
       "station": "朗屏"
     },
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "屯門",
       "firstTrain": "0609",
       "lastTrain": "0100",
       "station": "朗屏"
     },
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "紅磡",
       "firstTrain": "0555",
       "lastTrain": "0025",
@@ -2364,21 +2364,21 @@
   ],
   "天水圍": [
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "烏溪沙",
       "firstTrain": "0552",
       "lastTrain": "0016",
       "station": "天水圍"
     },
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "屯門",
       "firstTrain": "0612",
       "lastTrain": "0103",
       "station": "天水圍"
     },
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "紅磡",
       "firstTrain": "0552",
       "lastTrain": "0022",
@@ -2387,21 +2387,21 @@
   ],
   "兆康": [
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "烏溪沙",
       "firstTrain": "0548",
       "lastTrain": "0012",
       "station": "兆康"
     },
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "屯門",
       "firstTrain": "0617",
       "lastTrain": "0107",
       "station": "兆康"
     },
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "紅磡",
       "firstTrain": "0548",
       "lastTrain": "0018",
@@ -2410,14 +2410,14 @@
   ],
   "屯門": [
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "烏溪沙",
       "firstTrain": "0545",
       "lastTrain": "0009",
       "station": "屯門"
     },
     {
-      "line": "屯馬線",
+      "line": "屯馬綫",
       "to": "紅磡",
       "firstTrain": "0545",
       "lastTrain": "0015",
