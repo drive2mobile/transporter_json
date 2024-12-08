@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:24:49.467+08:00",
+  "generated_timestamp": "2024-12-08T22:21:37.377+08:00",
   "data": {
     "route_stops": [
       {
@@ -28,11 +28,11 @@
       {
         "stop_seq": 4,
         "stop_id": 20000218,
-        "name_tc": "南寧街, 海湖閣外",
-        "name_sc": "南宁街, 海湖阁外",
-        "name_en": "Nam Ning Street, outside Hoi Wun Court"
+        "name_tc": "南寧街, 海瑩閣外",
+        "name_sc": "南宁街, 海莹阁外",
+        "name_en": "Nam Ning Street, outside Hoi Ying Court"
       }
     ],
-    "data_timestamp": "2024-11-15T17:33:04.794+08:00"
+    "data_timestamp": "2024-12-06T12:04:51.425+08:00"
   }
 }

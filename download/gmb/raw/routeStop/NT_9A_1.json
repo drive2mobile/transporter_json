@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:28:11.107+08:00",
+  "generated_timestamp": "2024-12-08T22:25:15.081+08:00",
   "data": {
     "route_stops": [
       {
@@ -33,6 +33,6 @@
         "name_en": "The East Dam, High Island Reservoir"
       }
     ],
-    "data_timestamp": "2024-04-05T14:41:14.491+08:00"
+    "data_timestamp": "2024-12-07T00:00:15.556+08:00"
   }
 }

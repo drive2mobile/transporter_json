@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:26:31.497+08:00",
+  "generated_timestamp": "2024-12-08T22:23:32.750+08:00",
   "data": {
     "route_stops": [
       {
@@ -68,6 +68,6 @@
         "name_en": "Lau Fau Shan Minibus Terminus"
       }
     ],
-    "data_timestamp": "2024-11-13T14:47:44.447+08:00"
+    "data_timestamp": "2024-12-06T09:28:52.014+08:00"
   }
 }

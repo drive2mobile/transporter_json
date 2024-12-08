@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:24:43.573+08:00",
+  "generated_timestamp": "2024-12-08T22:21:28.969+08:00",
   "data": {
     "route_stops": [
       {
@@ -68,6 +68,6 @@
         "name_en": "Yue On Court Road, opposite to Choi On House"
       }
     ],
-    "data_timestamp": "2024-11-15T17:33:04.796+08:00"
+    "data_timestamp": "2024-12-06T12:03:13.137+08:00"
   }
 }

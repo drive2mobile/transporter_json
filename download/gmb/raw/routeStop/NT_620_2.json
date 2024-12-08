@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:27:19.366+08:00",
+  "generated_timestamp": "2024-12-08T22:24:20.152+08:00",
   "data": {
     "route_stops": [
       {
@@ -20,12 +20,19 @@
       },
       {
         "stop_seq": 3,
+        "stop_id": 20020533,
+        "name_tc": "錦田公路, 近凹頭巴士站",
+        "name_sc": "锦田公路, 近凹头巴士站",
+        "name_en": "Kam Tin Road Au Tau bus stop "
+      },
+      {
+        "stop_seq": 4,
         "stop_id": 20016915,
         "name_tc": "峻巒交通總匯",
         "name_sc": "峻峦交通总汇",
         "name_en": "Park YOHO Transport Interchange"
       }
     ],
-    "data_timestamp": "2024-11-13T13:56:22.985+08:00"
+    "data_timestamp": "2024-11-22T14:33:12.306+08:00"
   }
 }

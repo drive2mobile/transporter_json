@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:28:09.110+08:00",
+  "generated_timestamp": "2024-12-08T22:25:12.723+08:00",
   "data": {
     "route_stops": [
       {
@@ -13,40 +13,47 @@
       },
       {
         "stop_seq": 2,
+        "stop_id": 20020495,
+        "name_tc": " 青山公路-青龍頭深井公眾碼頭對面停車處",
+        "name_sc": "青山公路-青龙头深井公众码头对面停车处",
+        "name_en": "Castle Peak Road-Tsing Lung Tau at the lay-by opposite to Sham Tseng Public Pier "
+      },
+      {
+        "stop_seq": 3,
         "stop_id": 20016078,
         "name_tc": "青山公路-荃灣段近安育路交界",
         "name_sc": "青山公路-荃湾段近安育路交界",
         "name_en": "Castle Peak Road-Tsuen Wan near junction with On Yuk Road"
       },
       {
-        "stop_seq": 3,
+        "stop_seq": 4,
         "stop_id": 20016079,
         "name_tc": "青山公路-荃灣段荃德花園外",
         "name_sc": "青山公路-荃湾段荃德花园外",
         "name_en": "Castle Peak Road-Tsuen Wan outside Tsuen Tak Garden"
       },
       {
-        "stop_seq": 4,
+        "stop_seq": 5,
         "stop_id": 20001872,
         "name_tc": "青山公路-荃灣段中染大廈外",
         "name_sc": "青山公路-荃湾段中染大厦外",
         "name_en": "Castle Peak Road-Tsuen Wan outside CDW Building"
       },
       {
-        "stop_seq": 5,
+        "stop_seq": 6,
         "stop_id": 20001873,
         "name_tc": "西樓角路南豐中心對面",
         "name_sc": "西楼角路南丰中心对面",
         "name_en": "Sai Lau Kok Road opposite to Nan Fung Centre"
       },
       {
-        "stop_seq": 6,
+        "stop_seq": 7,
         "stop_id": 20016071,
         "name_tc": "荃灣站",
         "name_sc": "荃湾站",
         "name_en": "Tsuen Wan Station"
       }
     ],
-    "data_timestamp": "2024-10-22T19:01:39.354+08:00"
+    "data_timestamp": "2024-11-21T18:08:19.912+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:26:41.783+08:00",
+  "generated_timestamp": "2024-12-08T22:23:41.600+08:00",
   "data": {
     "route_stops": [
       {
@@ -124,6 +124,6 @@
         "name_en": "Hang Mei Street, Near S.K.H. Ho Chak Wan Primary School, Cheung Hang Estate"
       }
     ],
-    "data_timestamp": "2024-11-06T17:51:24.186+08:00"
+    "data_timestamp": "2024-11-21T17:58:46.260+08:00"
   }
 }

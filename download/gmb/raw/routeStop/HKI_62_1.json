@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:24:59.196+08:00",
+  "generated_timestamp": "2024-12-08T22:21:47.938+08:00",
   "data": {
     "route_stops": [
       {
@@ -89,6 +89,6 @@
         "name_en": "Heng Fa Chuen Public Transport Interchange"
       }
     ],
-    "data_timestamp": "2024-10-23T14:47:59.507+08:00"
+    "data_timestamp": "2024-11-19T13:51:33.874+08:00"
   }
 }

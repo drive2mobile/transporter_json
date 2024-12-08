@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:26:50.320+08:00",
+  "generated_timestamp": "2024-12-08T22:23:49.456+08:00",
   "data": {
     "route_stops": [
       {
@@ -41,10 +41,10 @@
       },
       {
         "stop_seq": 6,
-        "stop_id": 20013815,
-        "name_tc": "屯順街, 近屯門市廣場第一期屯門市廣場第四座",
-        "name_sc": "屯顺街, 近屯门市广场第一期屯门市广场第四座",
-        "name_en": "TUEN SHUN STREET, near Tuen Mun Town Plaza Block 4, TUEN MUN TOWN PLAZA PHASE 1"
+        "stop_id": 20020491,
+        "name_tc": "屯順街, 屯門市廣場第4座外",
+        "name_sc": "屯顺街, 屯门市广场第4座外",
+        "name_en": "Tuen Shun Street, outside Block 4 of Tuen Mun Town Plaza"
       },
       {
         "stop_seq": 7,
@@ -75,6 +75,6 @@
         "name_en": "KING FUNG PATH, near Noble Place Block 2"
       }
     ],
-    "data_timestamp": "2024-08-07T09:40:10.896+08:00"
+    "data_timestamp": "2024-11-21T15:34:12.180+08:00"
   }
 }

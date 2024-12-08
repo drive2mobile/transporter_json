@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:25:01.202+08:00",
+  "generated_timestamp": "2024-12-08T22:21:49.876+08:00",
   "data": {
     "route_stops": [
       {
@@ -166,6 +166,6 @@
         "name_en": "Hong Man Street"
       }
     ],
-    "data_timestamp": "2024-07-31T18:02:27.278+08:00"
+    "data_timestamp": "2024-11-22T18:51:38.504+08:00"
   }
 }

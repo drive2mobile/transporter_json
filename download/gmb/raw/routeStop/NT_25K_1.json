@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:26:23.222+08:00",
+  "generated_timestamp": "2024-12-08T22:23:20.198+08:00",
   "data": {
     "route_stops": [
       {
@@ -110,6 +110,6 @@
         "name_en": "Lam Kam Road, near Pak Hgau Shek"
       }
     ],
-    "data_timestamp": "2024-07-31T16:28:25.126+08:00"
+    "data_timestamp": "2024-11-22T17:33:31.408+08:00"
   }
 }

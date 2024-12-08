@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-11-16T19:40:32+08:00",
+  "generated_timestamp": "2024-12-08T18:44:18+08:00",
   "data": {
     "stop": "001346",
     "name_tc": "怡景道",
@@ -9,6 +9,6 @@
     "lat": "22.281825632091",
     "long": "114.19399404053",
     "name_sc": "怡景道",
-    "data_timestamp": "2024-11-16T05:00:03+08:00"
+    "data_timestamp": "2024-12-08T05:00:03+08:00"
   }
 }

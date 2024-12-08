@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:28:09.578+08:00",
+  "generated_timestamp": "2024-12-08T22:25:13.154+08:00",
   "data": {
     "route_stops": [
       {
@@ -47,6 +47,6 @@
         "name_en": "CHEUNG FAT STREET, near Hang Seng Castle Peak Road Building"
       }
     ],
-    "data_timestamp": "2024-10-30T11:11:49.885+08:00"
+    "data_timestamp": "2024-12-01T00:00:13.512+08:00"
   }
 }

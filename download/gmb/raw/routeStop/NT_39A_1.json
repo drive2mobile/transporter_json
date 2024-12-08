@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:26:34.386+08:00",
+  "generated_timestamp": "2024-12-08T22:23:35.726+08:00",
   "data": {
     "route_stops": [
       {
@@ -33,6 +33,6 @@
         "name_en": "Kung Um Road, near Chun Fai Garden Block 10"
       }
     ],
-    "data_timestamp": "2023-06-18T00:00:30.338+08:00"
+    "data_timestamp": "2024-11-22T14:22:35.272+08:00"
   }
 }

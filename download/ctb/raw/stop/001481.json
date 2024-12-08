@@ -1,14 +1,14 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-11-16T19:45:42+08:00",
+  "generated_timestamp": "2024-12-08T18:50:24+08:00",
   "data": {
     "stop": "001481",
-    "name_tc": "吳松街, 佐敦道",
-    "name_en": "Woosung Street, Jordan Road",
+    "name_tc": "廟街, 佐敦道",
+    "name_en": "Temple Street, Jordan Road",
     "lat": "22.305239392091",
     "long": "114.16990756053",
-    "name_sc": "吴松街, 佐敦道",
-    "data_timestamp": "2024-11-16T05:00:03+08:00"
+    "name_sc": "庙街, 佐敦道",
+    "data_timestamp": "2024-12-08T05:00:03+08:00"
   }
 }

@@ -1,14 +1,14 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-11-16T19:37:24+08:00",
+  "generated_timestamp": "2024-12-08T18:41:12+08:00",
   "data": {
     "stop": "001217",
     "name_tc": "鯉魚門公園, 柴灣道",
     "name_en": "Lei Yue Mun Park, Chai Wan Road",
-    "lat": "22.273682822091",
-    "long": "114.23182613053",
+    "lat": "22.273215372091",
+    "long": "114.23242216053",
     "name_sc": "鲤鱼门公园, 柴湾道",
-    "data_timestamp": "2024-11-16T05:00:03+08:00"
+    "data_timestamp": "2024-12-08T05:00:03+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:25:54.642+08:00",
+  "generated_timestamp": "2024-12-08T22:22:47.846+08:00",
   "data": {
     "route_stops": [
       {
@@ -75,6 +75,6 @@
         "name_en": "SHEUNG WO STREET, near Chan Sui Ki (La Salle) College"
       }
     ],
-    "data_timestamp": "2024-10-28T17:29:08.597+08:00"
+    "data_timestamp": "2024-12-06T10:08:12.913+08:00"
   }
 }

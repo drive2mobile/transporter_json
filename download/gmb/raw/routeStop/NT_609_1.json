@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:27:13.634+08:00",
+  "generated_timestamp": "2024-12-08T22:24:13.482+08:00",
   "data": {
     "route_stops": [
       {
@@ -49,9 +49,9 @@
       {
         "stop_seq": 7,
         "stop_id": 20001280,
-        "name_tc": "青山公路, 近凹頭迴旋處",
-        "name_sc": "青山公路, 近凹头回旋处",
-        "name_en": "Castle Peak Road, near Au Tau Interchange"
+        "name_tc": "青山公路元朗段, 近凹頭迴旋處",
+        "name_sc": "青山公路元朗段, 近凹头回旋处",
+        "name_en": "Castle Peak Road-Yuen Long, near Au Tau Interchange"
       },
       {
         "stop_seq": 8,
@@ -63,9 +63,9 @@
       {
         "stop_seq": 9,
         "stop_id": 20001286,
-        "name_tc": "青山公路, 近楊屋村",
-        "name_sc": "青山公路, 近杨屋村",
-        "name_en": "Castle Peak Road, near Yeung Uk Tsuen"
+        "name_tc": "青山公路元朗段, 近楊屋村",
+        "name_sc": "青山公路元朗段, 近杨屋村",
+        "name_en": "Castle Peak Road-Yuen Long, near Yeung Uk Tsuen"
       },
       {
         "stop_seq": 10,
@@ -77,9 +77,9 @@
       {
         "stop_seq": 11,
         "stop_id": 20001289,
-        "name_tc": "青山公路, 大棠路",
-        "name_sc": "青山公路, 大棠路",
-        "name_en": "Castle Peak Road, Tai Tong Road (outside house no.110)"
+        "name_tc": "青山公路元朗段, 大棠路",
+        "name_sc": "青山公路元朗段, 大棠路",
+        "name_en": "Castle Peak Road-Yuen Long, Tai Tong Road (outside house no. 110"
       },
       {
         "stop_seq": 12,
@@ -103,6 +103,6 @@
         "name_en": "Yuen Long Stadium"
       }
     ],
-    "data_timestamp": "2024-11-15T19:17:19.639+08:00"
+    "data_timestamp": "2024-12-06T09:22:06.511+08:00"
   }
 }

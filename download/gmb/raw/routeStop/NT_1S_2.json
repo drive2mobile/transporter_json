@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:26:15.523+08:00",
+  "generated_timestamp": "2024-12-08T22:23:11.319+08:00",
   "data": {
     "route_stops": [
       {
@@ -89,6 +89,6 @@
         "name_en": "Fuk Man Road Public Light Bus Terminus, outside King Wah Building"
       }
     ],
-    "data_timestamp": "2024-11-15T18:16:10.096+08:00"
+    "data_timestamp": "2024-11-18T10:56:34.207+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:25:59.972+08:00",
+  "generated_timestamp": "2024-12-08T22:22:53.255+08:00",
   "data": {
     "route_stops": [
       {
@@ -75,6 +75,6 @@
         "name_en": "Tseung Kwan O Station Public Transport Interchange"
       }
     ],
-    "data_timestamp": "2024-09-09T00:00:14.735+08:00"
+    "data_timestamp": "2024-12-01T01:55:10.129+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:26:57.336+08:00",
+  "generated_timestamp": "2024-12-08T22:23:56.739+08:00",
   "data": {
     "route_stops": [
       {
@@ -173,6 +173,6 @@
         "name_en": "Ching Ho Estate Public Transport Interchange"
       }
     ],
-    "data_timestamp": "2024-07-31T16:25:27.896+08:00"
+    "data_timestamp": "2024-11-22T17:28:45.123+08:00"
   }
 }

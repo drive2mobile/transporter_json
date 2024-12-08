@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:27:19.159+08:00",
+  "generated_timestamp": "2024-12-08T22:24:19.928+08:00",
   "data": {
     "route_stops": [
       {
@@ -13,19 +13,26 @@
       },
       {
         "stop_seq": 2,
+        "stop_id": 20020532,
+        "name_tc": "錦田公路, 近凹頭巴士站",
+        "name_sc": "锦田公路, 近凹头巴士站",
+        "name_en": "Kam Tin Road Au Tau bus stop "
+      },
+      {
+        "stop_seq": 3,
         "stop_id": 20007464,
         "name_tc": "錦田公路, 近下高埔村",
         "name_sc": "锦田公路, 近下高埔村",
         "name_en": "Kam Tin Road, Near Ha Ko Po Tsuen"
       },
       {
-        "stop_seq": 3,
+        "stop_seq": 4,
         "stop_id": 20017687,
         "name_tc": "錦上路站公共運輸交匯處",
         "name_sc": "锦上路站公共运输交汇处",
         "name_en": "Kam Sheung Road Station Public Transport Interchange"
       }
     ],
-    "data_timestamp": "2024-11-13T13:56:22.985+08:00"
+    "data_timestamp": "2024-11-22T14:33:12.306+08:00"
   }
 }

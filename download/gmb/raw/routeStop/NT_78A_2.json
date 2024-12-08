@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:27:33.333+08:00",
+  "generated_timestamp": "2024-12-08T22:24:34.443+08:00",
   "data": {
     "route_stops": [
       {
@@ -19,6 +19,6 @@
         "name_en": "Kam Sheung Road Station Public Transport Interchange"
       }
     ],
-    "data_timestamp": "2024-08-23T14:21:36.497+08:00"
+    "data_timestamp": "2024-11-22T12:35:01.130+08:00"
   }
 }

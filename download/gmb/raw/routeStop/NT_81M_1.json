@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:27:47.593+08:00",
+  "generated_timestamp": "2024-12-08T22:24:50.666+08:00",
   "data": {
     "route_stops": [
       {
@@ -26,6 +26,6 @@
         "name_en": "Shek Wai Kok Estate"
       }
     ],
-    "data_timestamp": "2024-01-14T00:00:39.007+08:00"
+    "data_timestamp": "2024-11-21T18:26:30.848+08:00"
   }
 }

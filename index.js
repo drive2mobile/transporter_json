@@ -72,16 +72,16 @@ async function nlb()
 
 async function mtr()
 {
-    // await downloadMtrRoutStopList();
-    // await createMtrRouteList();
-    await getAllMtrFirstAndLastTrain();
+    await downloadMtrRoutStopList();
+    await createMtrRouteList();
+    // await getAllMtrFirstAndLastTrain();
 
     console.log('MTR Finished');
 }
 
 async function ferry()
 {
-    // await downloadFerryJson();
+    await downloadFerryJson();
     await parseRouteStopListFerry();
     console.log('Ferry Finished');
 }
@@ -123,7 +123,7 @@ async function main()
     if (arg == 'mtr' || arg == 'all')
         await mtr();
 
-    if (arg == 'ferry')
+    if (arg == 'ferry' || arg == 'all')
         await ferry();
 
     if (arg == 'parsefinal' || arg == 'all')

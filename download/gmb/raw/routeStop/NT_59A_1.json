@@ -1,45 +1,66 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:27:08.306+08:00",
+  "generated_timestamp": "2024-12-08T22:24:08.019+08:00",
   "data": {
     "route_stops": [
       {
         "stop_seq": 1,
-        "stop_id": 20017984,
-        "name_tc": "上水鄉小巴總站",
-        "name_sc": "上水乡小巴总站",
-        "name_en": "Sheung Shui Heung Public Light Bus Terminus"
+        "stop_id": 20020788,
+        "name_tc": "上水鄉總站（近上水鄉村公所）",
+        "name_sc": "上水乡总站（近上水乡村公所）",
+        "name_en": "Sheung Shui Heung Terminus (near Sheung Shui Heung Village Office)"
       },
       {
         "stop_seq": 2,
-        "stop_id": 20017983,
-        "name_tc": "新豐路,近石湖墟郵政局",
-        "name_sc": "新丰路,近石湖墟邮政局",
-        "name_en": "SAN FUNG AVENUE, near Shek Wu Hui Post Office"
+        "stop_id": 20020789,
+        "name_tc": "文閣村",
+        "name_sc": "文阁村",
+        "name_en": "Man Kok Village"
       },
       {
         "stop_seq": 3,
-        "stop_id": 20001384,
-        "name_tc": "上水站小巴總站",
-        "name_sc": "上水站小巴总站",
-        "name_en": "Sheung Shui Station Public Light Bus Terminus"
+        "stop_id": 20020790,
+        "name_tc": "新運路（近劍橋廣場）",
+        "name_sc": "新运路（近剑桥广场）",
+        "name_en": "San Wan Road eastbound (near Cambridge Plaza)"
       },
       {
         "stop_seq": 4,
-        "stop_id": 20003205,
-        "name_tc": "新豐路,近石湖墟郵政局",
-        "name_sc": "新丰路,近石湖墟邮政局",
-        "name_en": "San Fung Avenue, near Shek Wu Hui Post Office"
+        "stop_id": 20020791,
+        "name_tc": "新運路（近舊石湖墟車廠）",
+        "name_sc": "新运路（近旧石湖墟车厂）",
+        "name_en": "San Wan Road eastbound (near Former Shek Wu Hui Bus Depot)"
       },
       {
         "stop_seq": 5,
-        "stop_id": 20017984,
-        "name_tc": "上水鄉小巴總站",
-        "name_sc": "上水乡小巴总站",
-        "name_en": "Sheung Shui Heung Public Light Bus Terminus"
+        "stop_id": 20020792,
+        "name_tc": "上水專線小巴總站",
+        "name_sc": "上水专线小巴总站",
+        "name_en": "Sheung Shui Station GMB Terminus"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20020793,
+        "name_tc": "符興街（近石湖墟遊樂場）",
+        "name_sc": "符兴街（近石湖墟游乐场）",
+        "name_en": "Fu Hing Street (near Shek Wu Hui Playground)"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20020794,
+        "name_tc": "新豐路（南行）105號（石湖墟郵政局對面）",
+        "name_sc": "新丰路（南行）105号（石湖墟邮政局对面）",
+        "name_en": "No. 105 San Fung Road southbound (opposite Shek Wu Hui Post Office)"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20020788,
+        "name_tc": "上水鄉總站（近上水鄉村公所）",
+        "name_sc": "上水乡总站（近上水乡村公所）",
+        "name_en": "Sheung Shui Heung Terminus (near Sheung Shui Heung Village Office)"
       }
     ],
-    "data_timestamp": "2024-10-29T22:27:56.717+08:00"
+    "data_timestamp": "2024-12-08T00:00:10.073+08:00"
   }
 }

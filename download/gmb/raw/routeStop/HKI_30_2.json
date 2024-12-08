@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:24:38.467+08:00",
+  "generated_timestamp": "2024-12-08T22:21:24.534+08:00",
   "data": {
     "route_stops": [
       {
@@ -61,6 +61,6 @@
         "name_en": "Lan Fong Road No. 2-16 Terminus"
       }
     ],
-    "data_timestamp": "2024-10-31T10:08:10.012+08:00"
+    "data_timestamp": "2024-11-29T16:35:09.712+08:00"
   }
 }

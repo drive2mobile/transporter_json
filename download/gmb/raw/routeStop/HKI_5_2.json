@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:24:50.136+08:00",
+  "generated_timestamp": "2024-12-08T22:21:38.066+08:00",
   "data": {
     "route_stops": [
       {
@@ -84,9 +84,9 @@
       {
         "stop_seq": 12,
         "stop_id": 20002735,
-        "name_tc": "黃竹坑道40號",
-        "name_sc": "黄竹坑道40号",
-        "name_en": "No.40 Wong Chuk Hang Road\t"
+        "name_tc": "黃竹坑道36號",
+        "name_sc": "黄竹坑道36号",
+        "name_en": "No.36 Wong Chuk Hang Road"
       },
       {
         "stop_seq": 13,
@@ -110,6 +110,6 @@
         "name_en": "Nam Ning Street, outside Hoi Tsing Court"
       }
     ],
-    "data_timestamp": "2024-11-15T17:33:04.796+08:00"
+    "data_timestamp": "2024-12-06T12:04:51.849+08:00"
   }
 }

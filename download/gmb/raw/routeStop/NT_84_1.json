@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:27:49.437+08:00",
+  "generated_timestamp": "2024-12-08T22:24:52.541+08:00",
   "data": {
     "route_stops": [
       {
@@ -54,6 +54,6 @@
         "name_en": "Tsuen Wan Chung On Street"
       }
     ],
-    "data_timestamp": "2024-10-23T13:28:56.876+08:00"
+    "data_timestamp": "2024-11-21T18:08:19.912+08:00"
   }
 }

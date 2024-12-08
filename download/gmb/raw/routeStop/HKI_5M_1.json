@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:24:58.128+08:00",
+  "generated_timestamp": "2024-12-08T22:21:46.762+08:00",
   "data": {
     "route_stops": [
       {
@@ -19,6 +19,6 @@
         "name_en": "Grantham Hospital"
       }
     ],
-    "data_timestamp": "2024-08-22T09:16:29.474+08:00"
+    "data_timestamp": "2024-11-29T17:52:15.716+08:00"
   }
 }

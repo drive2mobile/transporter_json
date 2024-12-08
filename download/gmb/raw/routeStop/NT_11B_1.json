@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:26:08.507+08:00",
+  "generated_timestamp": "2024-12-08T22:23:03.345+08:00",
   "data": {
     "route_stops": [
       {
@@ -82,6 +82,6 @@
         "name_en": "Lung Cheung Road, outside Hung Ngok House, Choi Hung Estate "
       }
     ],
-    "data_timestamp": "2024-11-15T18:15:35.643+08:00"
+    "data_timestamp": "2024-11-18T10:56:34.189+08:00"
   }
 }

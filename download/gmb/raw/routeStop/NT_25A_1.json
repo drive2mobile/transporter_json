@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:26:22.765+08:00",
+  "generated_timestamp": "2024-12-08T22:23:19.603+08:00",
   "data": {
     "route_stops": [
       {
@@ -61,6 +61,6 @@
         "name_en": "Tai Po Market (Tsing Yuen Market) Terminus"
       }
     ],
-    "data_timestamp": "2024-07-31T16:28:25.126+08:00"
+    "data_timestamp": "2024-11-22T17:28:45.124+08:00"
   }
 }

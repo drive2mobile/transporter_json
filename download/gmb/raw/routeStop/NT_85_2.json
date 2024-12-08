@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:27:50.159+08:00",
+  "generated_timestamp": "2024-12-08T22:24:53.205+08:00",
   "data": {
     "route_stops": [
       {
@@ -13,26 +13,33 @@
       },
       {
         "stop_seq": 2,
+        "stop_id": 20016712,
+        "name_tc": "馬閃排路西樓角村外",
+        "name_sc": "馬閃排路西樓角村外",
+        "name_en": "Ma Sim Pai Road outside Sai Lau Kok Village"
+      },
+      {
+        "stop_seq": 3,
         "stop_id": 20015993,
         "name_tc": "青山公路-荃灣段仁濟醫院周卓明護士學校外",
         "name_sc": "青山公路-荃湾段仁济医院周卓明护士学校外",
         "name_en": "Castle Peak Road-Tsuen Wan near Yan Chai Hospital Chau Cheuk Ming School of Nursing"
       },
       {
-        "stop_seq": 3,
+        "stop_seq": 4,
         "stop_id": 20016714,
         "name_tc": "青山公路-荃灣段175號外",
         "name_sc": "青山公路-荃湾段175号外",
         "name_en": "Castle Peak Road-Tsuen Wan outside House No. 175"
       },
       {
-        "stop_seq": 4,
+        "stop_seq": 5,
         "stop_id": 20016711,
         "name_tc": "荃灣(兆和街)",
         "name_sc": "荃湾(兆和街)",
         "name_en": "Tsuen Wan (Shiu Wo Street)"
       }
     ],
-    "data_timestamp": "2023-02-26T00:00:11.313+08:00"
+    "data_timestamp": "2024-11-21T18:25:10.570+08:00"
   }
 }

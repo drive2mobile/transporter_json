@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:27:32.898+08:00",
+  "generated_timestamp": "2024-12-08T22:24:33.888+08:00",
   "data": {
     "route_stops": [
       {
@@ -13,40 +13,54 @@
       },
       {
         "stop_seq": 2,
+        "stop_id": 20016477,
+        "name_tc": "錦上路, 近吳家村",
+        "name_sc": "锦上路, 近吴家村",
+        "name_en": "Kam Sheung Road, near Ng Ka Tsuen"
+      },
+      {
+        "stop_seq": 3,
         "stop_id": 20016894,
         "name_tc": "錦上路站公共運輸交匯處",
         "name_sc": "锦上路站公共运输交汇处",
         "name_en": "Kam Sheung Road Station Public Transport Interchange"
       },
       {
-        "stop_seq": 3,
+        "stop_seq": 4,
+        "stop_id": 20020528,
+        "name_tc": "錦上路, 近錦田波地",
+        "name_sc": "锦上路, 近锦田波地",
+        "name_en": "Kam Sheung Road near Lamp Post No. AD7129"
+      },
+      {
+        "stop_seq": 5,
         "stop_id": 20017488,
         "name_tc": "錦田公路近蒙養公立學校 ",
         "name_sc": "锦田公路近蒙养公立学校",
         "name_en": "Kam Tin Road near Kam Tin Mung Yeung Public School "
       },
       {
-        "stop_seq": 4,
+        "stop_seq": 6,
         "stop_id": 20007107,
         "name_tc": "錦田公路, 近高埔村",
         "name_sc": "锦田公路, 近高埔村",
         "name_en": "Kam Tin Road, Near Ko Po Tsuen"
       },
       {
-        "stop_seq": 5,
+        "stop_seq": 7,
         "stop_id": 20017489,
         "name_tc": "青山公路 - 潭尾段近沙埔村 ",
         "name_sc": "青山公路 - 潭尾段近沙埔村",
         "name_en": "Castle Peak Road - Tam-mi, near Sha Po Tsuen "
       },
       {
-        "stop_seq": 6,
+        "stop_seq": 8,
         "stop_id": 20017719,
         "name_tc": "落馬洲(新田)公共運輸交匯處",
         "name_sc": "落马洲(新田)公共运输交汇处",
         "name_en": "Lok Ma Chau (San Tin) Public Transport Interchange"
       }
     ],
-    "data_timestamp": "2024-11-13T13:56:21.478+08:00"
+    "data_timestamp": "2024-11-22T12:36:14.267+08:00"
   }
 }

@@ -2960,14 +2960,25 @@
   },
   {
     "id": "KLN_47_1",
-    "route_id": 2007101,
+    "route_id": 2010368,
     "region": "KLN",
     "route": "47",
     "route_seq": 1,
     "from_tc": "順利",
     "from_en": "Shun Lee",
-    "to_tc": "翠屏(福塘道)(循環線)",
-    "to_en": "Tsui Ping (Fuk Tong Road) (Circular)"
+    "to_tc": "翠屏(福塘道)",
+    "to_en": "Tsui Ping (Fuk Tong Road)"
+  },
+  {
+    "id": "KLN_47_2",
+    "route_id": 2010368,
+    "region": "KLN",
+    "route": "47",
+    "route_seq": 2,
+    "from_tc": "翠屏(福塘道)",
+    "from_en": "Tsui Ping (Fuk Tong Road)",
+    "to_tc": "順利",
+    "to_en": "Shun Lee"
   },
   {
     "id": "KLN_48_1",
@@ -4246,17 +4257,6 @@
     "to_en": "Hang Hau Village"
   },
   {
-    "id": "NT_110_1",
-    "route_id": 2007631,
-    "region": "NT",
-    "route": "110",
-    "route_seq": 1,
-    "from_tc": "調景嶺站公共運輸交匯處",
-    "from_en": "Tiu Keng Leng Station Public Transport Interchange",
-    "to_tc": "九龍城(循環線)",
-    "to_en": "Kowloon City(Circular)"
-  },
-  {
     "id": "NT_110A_1",
     "route_id": 2007662,
     "region": "NT",
@@ -4264,8 +4264,8 @@
     "route_seq": 1,
     "from_tc": "調景嶺站公共運輸交匯處",
     "from_en": "Tiu Keng Leng Station Public Transport Interchange",
-    "to_tc": "九龍灣(啓祥道)",
-    "to_en": "Kowloon Bay (Kai Cheung Road)"
+    "to_tc": "九龍灣(宏照道)",
+    "to_en": "Kowloon Bay (Wang Chiu Road)"
   },
   {
     "id": "NT_110A_2",
@@ -4273,8 +4273,8 @@
     "region": "NT",
     "route": "110A",
     "route_seq": 2,
-    "from_tc": "九龍灣(啓祥道)",
-    "from_en": "Kowloon Bay (Kai Cheung Road)",
+    "from_tc": "九龍灣(宏照道)",
+    "from_en": "Kowloon Bay (Wang Chiu Road)",
     "to_tc": "調景嶺站公共運輸交匯處",
     "to_en": "Tiu Keng Leng Station Public Transport Interchange"
   },
@@ -5234,6 +5234,28 @@
     "from_en": "Sha Tin (Pai Tau Street)(via University Station)",
     "to_tc": "白石角(天賦海灣)",
     "to_en": "Pak Shek Kok (Providence Bay)"
+  },
+  {
+    "id": "NT_28A_1",
+    "route_id": 2010401,
+    "region": "NT",
+    "route": "28A",
+    "route_seq": 1,
+    "from_tc": "大埔墟站",
+    "from_en": "Tai Po Market Station",
+    "to_tc": "優景里",
+    "to_en": "Yau King Lane"
+  },
+  {
+    "id": "NT_28A_2",
+    "route_id": 2010401,
+    "region": "NT",
+    "route": "28A",
+    "route_seq": 2,
+    "from_tc": "優景里",
+    "from_en": "Yau King Lane",
+    "to_tc": "大埔墟站",
+    "to_en": "Tai Po Market Station"
   },
   {
     "id": "NT_28K_1",
@@ -7415,7 +7437,7 @@
   },
   {
     "id": "NT_618_1",
-    "route_id": 2009906,
+    "route_id": 2007438,
     "region": "NT",
     "route": "618",
     "route_seq": 1,
@@ -7434,6 +7456,28 @@
     "from_en": "Shenzhen Bay Port",
     "to_tc": "天水圍(天恩邨)",
     "to_en": "Tin Shui Wai (Tin Yan Estate)"
+  },
+  {
+    "id": "NT_618A_1",
+    "route_id": 2009906,
+    "region": "NT",
+    "route": "618A",
+    "route_seq": 1,
+    "from_tc": "天水圍(天恩邨)",
+    "from_en": "Tin Shui Wai (Tin Yan Estate)",
+    "to_tc": "深圳灣口岸",
+    "to_en": "Shenzhen Bay Port"
+  },
+  {
+    "id": "NT_618B_1",
+    "route_id": 2010434,
+    "region": "NT",
+    "route": "618B",
+    "route_seq": 1,
+    "from_tc": "天水圍(濕地公園路)",
+    "from_en": "Tin Shui Wai (Wetland Park Road)",
+    "to_tc": "深圳灣口岸",
+    "to_en": "Shenzhen Bay Port"
   },
   {
     "id": "NT_61M_1",

@@ -25,7 +25,7 @@ const ferryCoordination = {
         to_lat: "22.24760283589448",
         to_long: "114.15248225428178",
     },
-
+    
     "香港仔至 榕樹灣": {
         route_id: 'aberdeen_to_ysw',
         route_tc: '香港仔 至 榕樹灣',

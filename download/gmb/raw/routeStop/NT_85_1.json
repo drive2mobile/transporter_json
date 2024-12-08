@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:27:49.944+08:00",
+  "generated_timestamp": "2024-12-08T22:24:52.977+08:00",
   "data": {
     "route_stops": [
       {
@@ -26,6 +26,6 @@
         "name_en": "Fu Yung Shan (Chuk Lam Sim Yuen)"
       }
     ],
-    "data_timestamp": "2023-02-26T00:00:11.313+08:00"
+    "data_timestamp": "2024-11-21T18:25:10.570+08:00"
   }
 }

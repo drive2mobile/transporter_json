@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-11-16T19:48:29+08:00",
+  "generated_timestamp": "2024-12-08T18:51:26+08:00",
   "data": {
     "stop": "001603",
     "name_tc": "維港灣",
@@ -9,6 +9,6 @@
     "lat": "22.318871332091",
     "long": "114.15882688053",
     "name_sc": "维港湾",
-    "data_timestamp": "2024-11-16T05:00:03+08:00"
+    "data_timestamp": "2024-12-08T05:00:03+08:00"
   }
 }

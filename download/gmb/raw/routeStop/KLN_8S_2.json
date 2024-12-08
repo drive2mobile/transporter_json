@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:25:55.110+08:00",
+  "generated_timestamp": "2024-12-08T22:22:48.328+08:00",
   "data": {
     "route_stops": [
       {
@@ -124,6 +124,6 @@
         "name_en": "HANKOW ROAD, near Kai Seng Commercial Centre"
       }
     ],
-    "data_timestamp": "2024-10-28T17:26:57.743+08:00"
+    "data_timestamp": "2024-12-06T10:08:12.925+08:00"
   }
 }

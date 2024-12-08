@@ -1,15 +1,15 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:24:49.697+08:00",
+  "generated_timestamp": "2024-12-08T22:21:37.589+08:00",
   "data": {
     "route_stops": [
       {
         "stop_seq": 1,
         "stop_id": 20012937,
-        "name_tc": "漁光道, 近漁暉苑景暉閣",
-        "name_sc": "渔光道, 近渔晖苑景晖阁 ",
-        "name_en": "YUE KWONG ROAD, near King Fai Court, Yue Fai Court"
+        "name_tc": "石排灣邨公共運輸交匯處",
+        "name_sc": "石排湾邨公共运输交汇处",
+        "name_en": "Shek Pai Wan Estate Public Transport Interchange"
       },
       {
         "stop_seq": 2,
@@ -27,7 +27,7 @@
       },
       {
         "stop_seq": 4,
-        "stop_id": 20011644,
+        "stop_id": 20020658,
         "name_tc": "漁光道, 石排灣邨外",
         "name_sc": "渔光道, 石排湾邨外",
         "name_en": "Yue Kwong Road, outside Shek Pai Wan Estate"
@@ -35,11 +35,11 @@
       {
         "stop_seq": 5,
         "stop_id": 20012937,
-        "name_tc": "漁光道, 近漁暉苑景暉閣",
-        "name_sc": "渔光道, 近渔晖苑景晖阁 ",
-        "name_en": "YUE KWONG ROAD, near King Fai Court, Yue Fai Court"
+        "name_tc": "石排灣邨公共運輸交匯處",
+        "name_sc": "石排湾邨公共运输交汇处",
+        "name_en": "Shek Pai Wan Estate Public Transport Interchange"
       }
     ],
-    "data_timestamp": "2024-05-05T00:00:59.763+08:00"
+    "data_timestamp": "2024-11-29T17:58:10.573+08:00"
   }
 }

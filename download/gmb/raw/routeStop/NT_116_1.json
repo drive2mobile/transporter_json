@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:26:07.798+08:00",
+  "generated_timestamp": "2024-12-08T22:23:02.610+08:00",
   "data": {
     "route_stops": [
       {
@@ -89,6 +89,6 @@
         "name_en": "Pak Shing Kok Road (northbound) "
       }
     ],
-    "data_timestamp": "2024-04-18T17:33:34.805+08:00"
+    "data_timestamp": "2024-11-21T12:10:46.950+08:00"
   }
 }

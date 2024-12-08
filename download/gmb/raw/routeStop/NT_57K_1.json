@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:27:07.388+08:00",
+  "generated_timestamp": "2024-12-08T22:24:07.013+08:00",
   "data": {
     "route_stops": [
       {
@@ -61,6 +61,6 @@
         "name_en": "TSIU KENG ROAD, near Pang Ancestral Hall "
       }
     ],
-    "data_timestamp": "2024-10-29T22:29:14.691+08:00"
+    "data_timestamp": "2024-12-03T10:53:14.210+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:27:11.048+08:00",
+  "generated_timestamp": "2024-12-08T22:24:10.917+08:00",
   "data": {
     "route_stops": [
       {
@@ -26,6 +26,6 @@
         "name_en": "Unnamed Access Road, Near Riva"
       }
     ],
-    "data_timestamp": "2024-03-31T00:00:16.220+08:00"
+    "data_timestamp": "2024-11-22T14:32:08.490+08:00"
   }
 }

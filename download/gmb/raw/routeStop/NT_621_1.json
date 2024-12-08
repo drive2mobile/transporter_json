@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:27:19.604+08:00",
+  "generated_timestamp": "2024-12-08T22:24:20.443+08:00",
   "data": {
     "route_stops": [
       {
@@ -208,6 +208,6 @@
         "name_en": "Hung Shui Kiu (Hung Yuen Road) GMB stop"
       }
     ],
-    "data_timestamp": "2024-11-13T14:47:44.451+08:00"
+    "data_timestamp": "2024-12-06T09:28:52.014+08:00"
   }
 }

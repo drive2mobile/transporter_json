@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-11-16T19:45:52+08:00",
+  "generated_timestamp": "2024-12-08T18:48:57+08:00",
   "data": {
     "stop": "002054",
     "name_tc": "運頭塘",
@@ -9,6 +9,6 @@
     "lat": "22.442110482091",
     "long": "114.16651466053",
     "name_sc": "运头塘",
-    "data_timestamp": "2024-11-16T05:00:03+08:00"
+    "data_timestamp": "2024-12-08T05:00:03+08:00"
   }
 }

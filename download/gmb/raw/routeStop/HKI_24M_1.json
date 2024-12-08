@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:24:33.341+08:00",
+  "generated_timestamp": "2024-12-08T22:21:20.188+08:00",
   "data": {
     "route_stops": [
       {
@@ -14,9 +14,9 @@
       {
         "stop_seq": 2,
         "stop_id": 20003522,
-        "name_tc": "畢拉山道, 渣甸園外",
-        "name_sc": "毕拉山道, 渣甸园外",
-        "name_en": "Mount Bulter Road, outside Jardine Court"
+        "name_tc": "畢拉山道, 近軒德蓀道",
+        "name_sc": "毕拉山道, 近轩德荪道",
+        "name_en": "Near Henderson Road, Mount Bulter Road"
       },
       {
         "stop_seq": 3,
@@ -28,9 +28,9 @@
       {
         "stop_seq": 4,
         "stop_id": 20003524,
-        "name_tc": "司徒拔道, 港安醫院外",
-        "name_sc": "司徒拔道, 港安医院外",
-        "name_en": "Stubbs Road, near Aia Building Access Road"
+        "name_tc": "司徒拔道, 近港安醫院",
+        "name_sc": "司徒拔道, 近港安医院",
+        "name_en": "\tNear Hong Kong Adventist Hospital, Stubbs Road"
       },
       {
         "stop_seq": 5,
@@ -68,6 +68,6 @@
         "name_en": "Drake Street, near MTR exit"
       }
     ],
-    "data_timestamp": "2024-11-15T17:33:04.992+08:00"
+    "data_timestamp": "2024-11-29T16:13:51.585+08:00"
   }
 }

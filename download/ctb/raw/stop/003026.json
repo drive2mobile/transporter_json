@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-11-16T19:38:44+08:00",
+  "generated_timestamp": "2024-12-08T18:42:28+08:00",
   "data": {
     "stop": "003026",
     "name_tc": "九龍城碼頭",
@@ -9,6 +9,6 @@
     "lat": "22.318316762091",
     "long": "114.19361951053",
     "name_sc": "九龙城码头",
-    "data_timestamp": "2024-11-16T05:00:03+08:00"
+    "data_timestamp": "2024-12-08T05:00:03+08:00"
   }
 }

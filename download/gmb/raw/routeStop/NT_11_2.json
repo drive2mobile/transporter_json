@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:26:03.657+08:00",
+  "generated_timestamp": "2024-12-08T22:22:57.314+08:00",
   "data": {
     "route_stops": [
       {
@@ -124,6 +124,6 @@
         "name_en": "Ting Wo Lane, near Hang Hau Village"
       }
     ],
-    "data_timestamp": "2024-11-15T18:15:35.643+08:00"
+    "data_timestamp": "2024-11-18T11:09:18.395+08:00"
   }
 }

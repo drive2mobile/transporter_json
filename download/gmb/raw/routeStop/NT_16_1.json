@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:26:12.930+08:00",
+  "generated_timestamp": "2024-12-08T22:23:08.435+08:00",
   "data": {
     "route_stops": [
       {
@@ -124,6 +124,6 @@
         "name_en": "Clear Water Bay Road, near Tai Au Mun"
       }
     ],
-    "data_timestamp": "2024-11-15T18:03:59.675+08:00"
+    "data_timestamp": "2024-11-18T11:09:18.396+08:00"
   }
 }

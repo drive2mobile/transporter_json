@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:28:07.650+08:00",
+  "generated_timestamp": "2024-12-08T22:25:11.180+08:00",
   "data": {
     "route_stops": [
       {
@@ -13,33 +13,40 @@
       },
       {
         "stop_seq": 2,
+        "stop_id": 20020495,
+        "name_tc": " 青山公路-青龍頭深井公眾碼頭對面停車處",
+        "name_sc": "青山公路-青龙头深井公众码头对面停车处",
+        "name_en": "Castle Peak Road-Tsing Lung Tau at the lay-by opposite to Sham Tseng Public Pier "
+      },
+      {
+        "stop_seq": 3,
         "stop_id": 20016009,
         "name_tc": "沙咀道125號外",
         "name_sc": "沙咀道125号外",
         "name_en": "Sha Tsui Road outside House No. 125"
       },
       {
-        "stop_seq": 3,
+        "stop_seq": 4,
         "stop_id": 20012208,
         "name_tc": "海貴路公共運輸交匯處",
         "name_sc": "海贵路公共运输交汇处",
         "name_en": "Hoi Kwai Road Public Transport Interchange"
       },
       {
-        "stop_seq": 4,
+        "stop_seq": 5,
         "stop_id": 20016002,
         "name_tc": "大河道30號外",
         "name_sc": "大河道30号外",
         "name_en": "Tai Ho Road outside House No. 30"
       },
       {
-        "stop_seq": 5,
+        "stop_seq": 6,
         "stop_id": 20016004,
         "name_tc": "荃灣(海壩街)",
         "name_sc": "荃湾(海坝街)",
         "name_en": "Tsuen Wan (Hoi Pa Street)"
       }
     ],
-    "data_timestamp": "2024-11-06T17:55:13.506+08:00"
+    "data_timestamp": "2024-11-21T18:17:23.215+08:00"
   }
 }

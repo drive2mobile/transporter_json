@@ -1,7 +1,7 @@
 {
   "type": "RouteStop",
   "version": "2.0",
-  "generated_timestamp": "2024-11-16T19:31:59+08:00",
+  "generated_timestamp": "2024-12-08T18:35:45+08:00",
   "data": [
     {
       "co": "CTB",
@@ -9,7 +9,7 @@
       "dir": "I",
       "seq": 1,
       "stop": "002341",
-      "data_timestamp": "2024-11-16T05:00:04+08:00"
+      "data_timestamp": "2024-12-08T05:00:04+08:00"
     },
     {
       "co": "CTB",
@@ -17,7 +17,7 @@
       "dir": "I",
       "seq": 2,
       "stop": "002342",
-      "data_timestamp": "2024-11-16T05:00:04+08:00"
+      "data_timestamp": "2024-12-08T05:00:04+08:00"
     },
     {
       "co": "CTB",
@@ -25,7 +25,7 @@
       "dir": "I",
       "seq": 3,
       "stop": "002388",
-      "data_timestamp": "2024-11-16T05:00:04+08:00"
+      "data_timestamp": "2024-12-08T05:00:04+08:00"
     },
     {
       "co": "CTB",
@@ -33,7 +33,7 @@
       "dir": "I",
       "seq": 4,
       "stop": "002157",
-      "data_timestamp": "2024-11-16T05:00:04+08:00"
+      "data_timestamp": "2024-12-08T05:00:04+08:00"
     },
     {
       "co": "CTB",
@@ -41,7 +41,7 @@
       "dir": "I",
       "seq": 5,
       "stop": "002158",
-      "data_timestamp": "2024-11-16T05:00:04+08:00"
+      "data_timestamp": "2024-12-08T05:00:04+08:00"
     },
     {
       "co": "CTB",
@@ -49,7 +49,7 @@
       "dir": "I",
       "seq": 6,
       "stop": "002159",
-      "data_timestamp": "2024-11-16T05:00:04+08:00"
+      "data_timestamp": "2024-12-08T05:00:04+08:00"
     },
     {
       "co": "CTB",
@@ -57,7 +57,7 @@
       "dir": "I",
       "seq": 7,
       "stop": "002167",
-      "data_timestamp": "2024-11-16T05:00:04+08:00"
+      "data_timestamp": "2024-12-08T05:00:04+08:00"
     },
     {
       "co": "CTB",
@@ -65,7 +65,7 @@
       "dir": "I",
       "seq": 8,
       "stop": "002168",
-      "data_timestamp": "2024-11-16T05:00:04+08:00"
+      "data_timestamp": "2024-12-08T05:00:04+08:00"
     },
     {
       "co": "CTB",
@@ -73,7 +73,7 @@
       "dir": "I",
       "seq": 9,
       "stop": "002166",
-      "data_timestamp": "2024-11-16T05:00:04+08:00"
+      "data_timestamp": "2024-12-08T05:00:04+08:00"
     }
   ]
 }

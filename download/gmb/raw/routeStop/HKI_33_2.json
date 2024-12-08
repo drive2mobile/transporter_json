@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:24:41.229+08:00",
+  "generated_timestamp": "2024-12-08T22:21:26.475+08:00",
   "data": {
     "route_stops": [
       {
@@ -103,6 +103,6 @@
         "name_en": "HONG SHING STREET, near Kornhill Recreation Club"
       }
     ],
-    "data_timestamp": "2024-10-28T14:02:08.493+08:00"
+    "data_timestamp": "2024-11-22T18:51:38.513+08:00"
   }
 }

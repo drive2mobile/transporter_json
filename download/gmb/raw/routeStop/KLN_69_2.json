@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:25:41.449+08:00",
+  "generated_timestamp": "2024-12-08T22:22:31.760+08:00",
   "data": {
     "route_stops": [
       {
@@ -40,6 +40,6 @@
         "name_en": "Laguna City Minibus Terminus"
       }
     ],
-    "data_timestamp": "2024-11-13T15:05:22.072+08:00"
+    "data_timestamp": "2024-11-21T12:10:46.938+08:00"
   }
 }

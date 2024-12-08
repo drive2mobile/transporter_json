@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:25:57.981+08:00",
+  "generated_timestamp": "2024-12-08T22:22:51.122+08:00",
   "data": {
     "route_stops": [
       {
@@ -110,6 +110,6 @@
         "name_en": "HONG KEUNG STREET, near Hong Keung House"
       }
     ],
-    "data_timestamp": "2024-11-15T18:03:59.672+08:00"
+    "data_timestamp": "2024-11-18T11:09:18.398+08:00"
   }
 }

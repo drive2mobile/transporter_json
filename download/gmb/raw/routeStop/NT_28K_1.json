@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:26:25.990+08:00",
+  "generated_timestamp": "2024-12-08T22:23:23.511+08:00",
   "data": {
     "route_stops": [
       {
@@ -96,6 +96,6 @@
         "name_en": "Royal Park Hotel"
       }
     ],
-    "data_timestamp": "2024-07-31T16:58:38.766+08:00"
+    "data_timestamp": "2024-11-22T17:33:31.401+08:00"
   }
 }

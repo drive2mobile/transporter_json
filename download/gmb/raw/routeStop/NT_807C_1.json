@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:27:39.638+08:00",
+  "generated_timestamp": "2024-12-08T22:24:41.716+08:00",
   "data": {
     "route_stops": [
       {
@@ -47,6 +47,6 @@
         "name_en": "University Station Bus Terminus"
       }
     ],
-    "data_timestamp": "2024-08-07T13:55:13.163+08:00"
+    "data_timestamp": "2024-11-28T11:40:41.576+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:26:04.264+08:00",
+  "generated_timestamp": "2024-12-08T22:22:57.592+08:00",
   "data": {
     "route_stops": [
       {
@@ -52,29 +52,8 @@
         "name_tc": "宏照道, 國際交易中心對面",
         "name_sc": "宏照道, 国际交易中心对面",
         "name_en": "Wang Chiu Road, opposite Exchange Tower"
-      },
-      {
-        "stop_seq": 8,
-        "stop_id": 20015604,
-        "name_tc": "常悅道, 近豐隆工業中心",
-        "name_sc": "常悦道, 近丰隆工业中心",
-        "name_en": "Sheung Yuet Road, near Hong Leong Industrial Complex"
-      },
-      {
-        "stop_seq": 9,
-        "stop_id": 20015605,
-        "name_tc": "展貿徑, 國際展貿中心外",
-        "name_sc": "展贸径, 国际展贸中心外",
-        "name_en": "Trademart Drive, outside ITEC"
-      },
-      {
-        "stop_seq": 10,
-        "stop_id": 20015606,
-        "name_tc": "啟祥道, 香港輔助警察總部外",
-        "name_sc": "启祥道, 香港辅助警察总部外",
-        "name_en": "Kai Cheung Road outside Hong Kong Auxiliary Police Headquarters"
       }
     ],
-    "data_timestamp": "2024-11-13T15:05:22.072+08:00"
+    "data_timestamp": "2024-11-25T00:00:15.794+08:00"
   }
 }

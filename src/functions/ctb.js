@@ -44,34 +44,34 @@ async function downloadStopCtb()
     var stopIDArray = [];
     var stopIDObject = {};
 
-    for (var i = 0; i < routeListJson['data'].length; i++)
+    for (var i = 0; i < routeListJson?.['data'].length; i++)
     {
-        const readFilePath_inbound = `./download/ctb/raw/routeStop/${routeListJson['data'][i]['route']}_inbound.json`;
+        const readFilePath_inbound = `./download/ctb/raw/routeStop/${routeListJson?.['data'][i]?.['route']}_inbound.json`;
         const routeStopJson_inbound = await loadJSONFromFile(readFilePath_inbound);
 
-        if (routeStopJson_inbound['data'].length > 0)
+        if (routeStopJson_inbound?.['data'].length > 0)
         {
-            for (var j = 0; j < routeStopJson_inbound['data'].length; j++)
+            for (var j = 0; j < routeStopJson_inbound?.['data'].length; j++)
             {
-                if (routeStopJson_inbound['data'][j]['stop'] in stopIDObject == false)
+                if (routeStopJson_inbound?.['data'][j]?.['stop'] in stopIDObject == false)
                 {
-                    stopIDArray.push(routeStopJson_inbound['data'][j]['stop']);
-                    stopIDObject[routeStopJson_inbound['data'][j]['stop']] = routeStopJson_inbound['data'][j]['stop'];
+                    stopIDArray.push(routeStopJson_inbound?.['data'][j]?.['stop']);
+                    stopIDObject[routeStopJson_inbound?.['data'][j]?.['stop']] = routeStopJson_inbound?.['data'][j]?.['stop'];
                 }
             }
         }
 
-        const readFilePath_outbound = `./download/ctb/raw/routeStop/${routeListJson['data'][i]['route']}_outbound.json`;
+        const readFilePath_outbound = `./download/ctb/raw/routeStop/${routeListJson?.['data'][i]?.['route']}_outbound.json`;
         const routeStopJson_outbound = await loadJSONFromFile(readFilePath_outbound);
 
-        if (routeStopJson_outbound['data'].length > 0)
+        if (routeStopJson_outbound?.['data'].length > 0)
         {
-            for (var k = 0; k < routeStopJson_outbound['data'].length; k++)
+            for (var k = 0; k < routeStopJson_outbound?.['data'].length; k++)
             {
-                if (routeStopJson_outbound['data'][k]['stop'] in stopIDObject == false)
+                if (routeStopJson_outbound?.['data'][k]?.['stop'] in stopIDObject == false)
                 {
-                    stopIDArray.push(routeStopJson_outbound['data'][k]['stop']);
-                    stopIDObject[routeStopJson_outbound['data'][k]['stop']] = routeStopJson_outbound['data'][k]['stop'];
+                    stopIDArray.push(routeStopJson_outbound?.['data'][k]?.['stop']);
+                    stopIDObject[routeStopJson_outbound?.['data'][k]?.['stop']] = routeStopJson_outbound?.['data'][k]?.['stop'];
                 }
             }
         }
@@ -103,61 +103,61 @@ async function parseJsonCtb()
     const routeList = [];
     const routeStopList = {};
 
-    for (var i = 0; i < routeListJson['data'].length; i++)
+    for (var i = 0; i < routeListJson?.['data'].length; i++)
     {
         // if (i == 10) { break ;}
-        const currRoute = routeListJson['data'][i];
+        const currRoute = routeListJson?.['data'][i];
         var company = '';
 
-        if (currRoute['route'] in coopRoutes)
+        if (currRoute?.['route'] in coopRoutes)
             company = 'kmbctb';
         else
             company = 'ctb';
 
-        const readFilePath_inbound = `./download/ctb/raw/routeStop/${currRoute['route']}_inbound.json`;
+        const readFilePath_inbound = `./download/ctb/raw/routeStop/${currRoute?.['route']}_inbound.json`;
         const routeStopJson_inbound = await loadJSONFromFile(readFilePath_inbound);
 
-        if (routeStopJson_inbound['data'] && routeStopJson_inbound['data'].length > 0)
+        if (routeStopJson_inbound?.['data'] && routeStopJson_inbound?.['data'].length > 0)
         {
-            const id = `${company}_${currRoute['route']}_I`;
+            const id = `${company}_${currRoute?.['route']}_I`;
 
             const newRoute = {
                 'id': id,
                 'company': company,
-                'route': currRoute['route'],
-                'from_tc': currRoute[`dest_tc`],
-                'from_en': currRoute[`dest_en`],
-                'to_tc': currRoute[`orig_tc`],
-                'to_en': currRoute[`orig_en`],
+                'route': currRoute?.['route'],
+                'from_tc': currRoute?.[`dest_tc`],
+                'from_en': currRoute?.[`dest_en`],
+                'to_tc': currRoute?.[`orig_tc`],
+                'to_en': currRoute?.[`orig_en`],
                 'dir': 'I'
             }
 
             routeList.push(newRoute);
 
             const currRouteStopList = [];
-            for (var j = 0; j < routeStopJson_inbound['data'].length; j++)
+            for (var j = 0; j < routeStopJson_inbound?.['data'].length; j++)
             {
-                const currStop = routeStopJson_inbound['data'][j];
+                const currStop = routeStopJson_inbound?.['data'][j];
 
-                const readFilePath_stop = `./download/ctb/raw/stop/${currStop['stop']}.json`;
+                const readFilePath_stop = `./download/ctb/raw/stop/${currStop?.['stop']}.json`;
                 const stopJson = await loadJSONFromFile(readFilePath_stop);
 
                 const newStop = {
                     'id': id,
-                    'stop_id': `${company}_${currStop['route']}_${currStop['dir']}_${currStop['stop']}`,
+                    'stop_id': `${company}_${currStop?.['route']}_${currStop?.['dir']}_${currStop?.['stop']}`,
                     'company': company,
-                    'route': currStop['route'],
-                    'from_tc': currRoute[`dest_tc`],
-                    'from_en': currRoute[`dest_en`],
-                    'to_tc': currRoute[`orig_tc`],
-                    'to_en': currRoute[`orig_en`],
-                    'dir': currStop['dir'],
-                    'seq': currStop['seq'],
-                    'stop': currStop['stop'],
-                    'name_tc': stopJson['data'][`name_tc`],
-                    'name_en': stopJson['data'][`name_en`],
-                    'lat': stopJson['data']['lat'],
-                    'long': stopJson['data']['long'],
+                    'route': currStop?.['route'],
+                    'from_tc': currRoute?.[`dest_tc`],
+                    'from_en': currRoute?.[`dest_en`],
+                    'to_tc': currRoute?.[`orig_tc`],
+                    'to_en': currRoute?.[`orig_en`],
+                    'dir': currStop?.['dir'],
+                    'seq': currStop?.['seq'],
+                    'stop': currStop?.['stop'],
+                    'name_tc': stopJson?.['data']?.[`name_tc`],
+                    'name_en': stopJson?.['data']?.[`name_en`],
+                    'lat': stopJson?.['data']?.['lat'],
+                    'long': stopJson?.['data']?.['long'],
                 }
 
                 currRouteStopList.push(newStop);
@@ -166,50 +166,50 @@ async function parseJsonCtb()
             routeStopList[id] = currRouteStopList;
         }
 
-        const readFilePath_outbound = `./download/ctb/raw/routeStop/${currRoute['route']}_outbound.json`;
+        const readFilePath_outbound = `./download/ctb/raw/routeStop/${currRoute?.['route']}_outbound.json`;
         const routeStopJson_outbound = await loadJSONFromFile(readFilePath_outbound);
 
-        if (routeStopJson_outbound['data'] && routeStopJson_outbound['data'].length > 0)
+        if (routeStopJson_outbound?.['data'] && routeStopJson_outbound?.['data'].length > 0)
         {
-            const id = `${company}_${currRoute['route']}_O`;
+            const id = `${company}_${currRoute?.['route']}_O`;
 
             const newRoute = {
                 'id': id,
                 'company': company,
-                'route': currRoute['route'],
-                'from_tc': currRoute[`orig_tc`],
-                'from_en': currRoute[`orig_en`],
-                'to_tc': currRoute[`dest_tc`],
-                'to_en': currRoute[`dest_en`],
+                'route': currRoute?.['route'],
+                'from_tc': currRoute?.[`orig_tc`],
+                'from_en': currRoute?.[`orig_en`],
+                'to_tc': currRoute?.[`dest_tc`],
+                'to_en': currRoute?.[`dest_en`],
                 'dir': 'O'
             }
 
             routeList.push(newRoute);
 
             const currRouteStopList = [];
-            for (var j = 0; j < routeStopJson_outbound['data'].length; j++)
+            for (var j = 0; j < routeStopJson_outbound?.['data'].length; j++)
             {
-                const currStop = routeStopJson_outbound['data'][j];
+                const currStop = routeStopJson_outbound?.['data'][j];
 
-                const readFilePath_stop = `./download/ctb/raw/stop/${currStop['stop']}.json`;
+                const readFilePath_stop = `./download/ctb/raw/stop/${currStop?.['stop']}.json`;
                 const stopJson = await loadJSONFromFile(readFilePath_stop);
 
                 const newStop = {
                     'id': id,
-                    'stop_id': `${company}_${currStop['route']}_${currStop['dir']}_${currStop['stop']}`,
+                    'stop_id': `${company}_${currStop?.['route']}_${currStop?.['dir']}_${currStop?.['stop']}`,
                     'company': company,
-                    'route': currStop['route'],
-                    'from_tc': currRoute[`orig_tc`],
-                    'from_en': currRoute[`orig_en`],
-                    'to_tc': currRoute[`dest_tc`],
-                    'to_en': currRoute[`dest_en`],
-                    'dir': currStop['dir'],
-                    'seq': currStop['seq'],
-                    'stop': currStop['stop'],
-                    'name_tc': stopJson['data'][`name_tc`],
-                    'name_en': stopJson['data'][`name_en`],
-                    'lat': stopJson['data']['lat'],
-                    'long': stopJson['data']['long'],
+                    'route': currStop?.['route'],
+                    'from_tc': currRoute?.[`orig_tc`],
+                    'from_en': currRoute?.[`orig_en`],
+                    'to_tc': currRoute?.[`dest_tc`],
+                    'to_en': currRoute?.[`dest_en`],
+                    'dir': currStop?.['dir'],
+                    'seq': currStop?.['seq'],
+                    'stop': currStop?.['stop'],
+                    'name_tc': stopJson?.['data']?.[`name_tc`],
+                    'name_en': stopJson?.['data']?.[`name_en`],
+                    'lat': stopJson?.['data']?.['lat'],
+                    'long': stopJson?.['data']?.['long'],
                 }
 
                 currRouteStopList.push(newStop);

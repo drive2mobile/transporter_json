@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:27:37.347+08:00",
+  "generated_timestamp": "2024-12-08T22:24:38.680+08:00",
   "data": {
     "route_stops": [
       {
@@ -208,6 +208,6 @@
         "name_en": "Wan Tau Tong Terminus"
       }
     ],
-    "data_timestamp": "2024-08-20T17:28:58.180+08:00"
+    "data_timestamp": "2024-11-28T11:40:41.580+08:00"
   }
 }

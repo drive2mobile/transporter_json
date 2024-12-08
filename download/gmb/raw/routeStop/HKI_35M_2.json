@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:24:41.985+08:00",
+  "generated_timestamp": "2024-12-08T22:21:27.339+08:00",
   "data": {
     "route_stops": [
       {
@@ -37,7 +37,7 @@
         "stop_id": 20011591,
         "name_tc": "灣仔道228號",
         "name_sc": "湾仔道228号",
-        "name_en": "Wan Chai Road, house no. 228"
+        "name_en": "No.228 Wan Chai Road"
       },
       {
         "stop_seq": 6,
@@ -89,6 +89,6 @@
         "name_en": "Shek Pai Wan Estate Public Transport Interchange"
       }
     ],
-    "data_timestamp": "2024-11-15T17:34:11.665+08:00"
+    "data_timestamp": "2024-12-06T12:04:51.849+08:00"
   }
 }

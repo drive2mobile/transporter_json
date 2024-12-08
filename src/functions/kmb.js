@@ -35,81 +35,81 @@ async function parseJsonKmb()
     const stopListJson = await loadJSONFromFile(readFilePath3);
     const stopListObject = {};
 
-    for (var j = 0; j < stopListJson['data'].length; j++)
+    for (var j = 0; j < stopListJson?.['data'].length; j++)
     {
-        const currStop = stopListJson['data'][j];
-        stopListObject[currStop['stop']] = {
-            "name_en": currStop['name_en'],
-            "name_tc": currStop['name_tc'],
-            "name_sc": currStop['name_sc'],
-            "lat": currStop['lat'],
-            "long": currStop['long']
+        const currStop = stopListJson?.['data'][j];
+        stopListObject[currStop?.['stop']] = {
+            "name_en": currStop?.['name_en'],
+            "name_tc": currStop?.['name_tc'],
+            "name_sc": currStop?.['name_sc'],
+            "lat": currStop?.['lat'],
+            "long": currStop?.['long']
         }
     }
 
     const routeList = [];
     const routeStopList = {};
 
-    for (var i = 0; i < routeListJson['data'].length; i++)
+    for (var i = 0; i < routeListJson?.['data'].length; i++)
     {
         // if (i == 10) { break ;}
-        const currRoute = routeListJson['data'][i];
+        const currRoute = routeListJson?.['data'][i];
         var company = '';
 
-        if (currRoute['route'] in coopRoutes)
+        if (currRoute?.['route'] in coopRoutes)
             company = 'kmbctb';
         else
             company = 'kmb';
 
-        const id = `${company}_${currRoute['route']}_${currRoute['bound']}_${currRoute['service_type']}`;
+        const id = `${company}_${currRoute?.['route']}_${currRoute?.['bound']}_${currRoute?.['service_type']}`;
         const newRoute = {
             'id': id,
             'company': company,
-            'route': currRoute['route'],
-            'from_tc': currRoute[`orig_tc`],
-            'from_en': currRoute[`orig_en`],
-            'to_tc': currRoute[`dest_tc`],
-            'to_en': currRoute[`dest_en`],
+            'route': currRoute?.['route'],
+            'from_tc': currRoute?.[`orig_tc`],
+            'from_en': currRoute?.[`orig_en`],
+            'to_tc': currRoute?.[`dest_tc`],
+            'to_en': currRoute?.[`dest_en`],
             'dir': 'I',
-            'serviceType': currRoute['service_type']
+            'serviceType': currRoute?.['service_type']
         }
 
         routeList.push(newRoute);
         routeListObject[id] = newRoute;
     }
 
-    for (var k = 0; k < routeStopListJson['data'].length; k++)
+    for (var k = 0; k < routeStopListJson?.['data'].length; k++)
     {
-        const currStop = routeStopListJson['data'][k];
+        const currStop = routeStopListJson?.['data'][k];
         var company = '';
 
-        if (currStop['route'] in coopRoutes)
+        if (currStop?.['route'] in coopRoutes)
             company = 'kmbctb';
         else
             company = 'kmb';
 
         try
         {
-            const id = `${company}_${currStop['route']}_${currStop['bound']}_${currStop['service_type']}`;
+            const id = `${company}_${currStop?.['route']}_${currStop?.['bound']}_${currStop?.['service_type']}`;
 
 
             const newStop = {
                 'id': id,
-                'stop_id': `${company}_${currStop['route']}_${currStop['bound']}_${currStop['stop']}_${currStop['service_type']}`,
+                'stop_id': `${company}_${currStop?.['route']}_${currStop?.['bound']}_${currStop?.['stop']}_${currStop?.['service_type']}`,
                 'company': company,
-                'route': currStop['route'],
-                'from_tc': routeListObject[id]['from_tc'],
-                'from_en': routeListObject[id]['from_en'],
-                'to_tc': routeListObject[id]['to_tc'],
-                'to_en': routeListObject[id]['to_en'],
-                'dir': currStop['bound'],
-                'seq': currStop['seq'],
-                'stop': currStop['stop'],
-                'serviceType': currStop['service_type'],
-                'name_tc': stopListObject[currStop['stop']][`name_tc`],
-                'name_en': stopListObject[currStop['stop']][`name_en`],
-                'lat': stopListObject[currStop['stop']]['lat'],
-                'long': stopListObject[currStop['stop']]['long'],
+                'route': currStop?.['route'],
+                'from_tc': routeListObject[id]?.['from_tc'],
+                'from_en': routeListObject[id]?.['from_en'],
+                'to_tc': routeListObject[id]?.['to_tc'],
+                'to_en': routeListObject[id]?.['to_en'],
+                'dir': currStop?.['bound'],
+                'seq': currStop?.['seq'],
+                'stop': currStop?.['stop'],
+                'serviceType': currStop?.['service_type'],
+                'name_tc': stopListObject[currStop?.['stop']]?.[`name_tc`],
+                'name_en': stopListObject[currStop?.['stop']]?.[`name_en`],
+                'lat': stopListObject[currStop?.['stop']]?.['lat'],
+                'long': stopListObject[currStop?.['stop']]?.['long'],
             }
 
             if (id in routeStopList == false)

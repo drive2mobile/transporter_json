@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:26:35.450+08:00",
+  "generated_timestamp": "2024-12-08T22:23:36.908+08:00",
   "data": {
     "route_stops": [
       {
@@ -117,6 +117,6 @@
         "name_en": "Siu Hang Tsuen Minibus Terminus"
       }
     ],
-    "data_timestamp": "2024-10-16T17:02:28.670+08:00"
+    "data_timestamp": "2024-11-21T15:33:19.427+08:00"
   }
 }

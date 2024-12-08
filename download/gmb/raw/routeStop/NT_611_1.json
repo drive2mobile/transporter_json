@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:27:16.180+08:00",
+  "generated_timestamp": "2024-12-08T22:24:16.223+08:00",
   "data": {
     "route_stops": [
       {
@@ -13,10 +13,10 @@
       },
       {
         "stop_seq": 2,
-        "stop_id": 20015596,
-        "name_tc": "朗日路, 近元朗站",
-        "name_sc": "朗日路, 近元朗站",
-        "name_en": "Long Yat Road, near Yuen Long Station"
+        "stop_id": 20002436,
+        "name_tc": "朗日路(近元朗站)",
+        "name_sc": "朗日路(近元朗站)",
+        "name_en": "Long Yat Road (near MTR Yuen Long Station)"
       },
       {
         "stop_seq": 3,
@@ -47,6 +47,6 @@
         "name_en": "Shan Pui Road, Near Shan Pui Hung Tin Tsuen"
       }
     ],
-    "data_timestamp": "2024-11-15T19:24:38.827+08:00"
+    "data_timestamp": "2024-12-01T00:00:13.875+08:00"
   }
 }

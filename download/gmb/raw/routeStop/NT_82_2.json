@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:27:48.257+08:00",
+  "generated_timestamp": "2024-12-08T22:24:51.327+08:00",
   "data": {
     "route_stops": [
       {
@@ -40,6 +40,6 @@
         "name_en": "Tsuen Wan (Shiu Wo Street)"
       }
     ],
-    "data_timestamp": "2024-01-14T00:00:46.672+08:00"
+    "data_timestamp": "2024-11-21T18:26:30.853+08:00"
   }
 }

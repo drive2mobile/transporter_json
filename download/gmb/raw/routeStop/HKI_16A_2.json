@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:24:27.223+08:00",
+  "generated_timestamp": "2024-12-08T22:21:13.844+08:00",
   "data": {
     "route_stops": [
       {
@@ -14,9 +14,9 @@
       {
         "stop_seq": 2,
         "stop_id": 20003465,
-        "name_tc": "舂磡角道, 海暉花園外",
-        "name_sc": "舂磡角道, 海晖花园外",
-        "name_en": "Chung Hom Kok Road, outside Pacific View"
+        "name_tc": "舂磡角道, 南埼外",
+        "name_sc": "舂磡角道, 南埼外",
+        "name_en": "Chung Hom Kok Road, outside Scape"
       },
       {
         "stop_seq": 3,
@@ -56,9 +56,9 @@
       {
         "stop_seq": 8,
         "stop_id": 20003065,
-        "name_tc": "大潭道",
-        "name_sc": "大潭道",
-        "name_en": "Tai Tam Road"
+        "name_tc": "大潭道, 曼克頓花園外",
+        "name_sc": "大潭道, 曼克顿花园外",
+        "name_en": "Tai Tam Road, outside The Manhattan"
       },
       {
         "stop_seq": 9,
@@ -110,6 +110,6 @@
         "name_en": "Chai Wan Station Bus Terminus"
       }
     ],
-    "data_timestamp": "2024-10-23T14:47:59.500+08:00"
+    "data_timestamp": "2024-11-19T13:47:06.533+08:00"
   }
 }

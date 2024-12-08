@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:24:29.816+08:00",
+  "generated_timestamp": "2024-12-08T22:21:16.603+08:00",
   "data": {
     "route_stops": [
       {
@@ -96,6 +96,6 @@
         "name_en": "Hing Man Estate, outside Man Fu House"
       }
     ],
-    "data_timestamp": "2024-10-23T14:47:59.510+08:00"
+    "data_timestamp": "2024-11-19T13:51:33.873+08:00"
   }
 }

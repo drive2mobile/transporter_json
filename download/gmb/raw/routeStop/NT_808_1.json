@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:27:41.245+08:00",
+  "generated_timestamp": "2024-12-08T22:24:43.584+08:00",
   "data": {
     "route_stops": [
       {
@@ -96,6 +96,6 @@
         "name_en": "Prince of Wales Hospital"
       }
     ],
-    "data_timestamp": "2024-08-07T13:55:13.582+08:00"
+    "data_timestamp": "2024-12-01T00:00:36.764+08:00"
   }
 }

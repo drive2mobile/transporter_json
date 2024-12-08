@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:27:10.325+08:00",
+  "generated_timestamp": "2024-12-08T22:24:10.190+08:00",
   "data": {
     "route_stops": [
       {
@@ -54,6 +54,6 @@
         "name_en": "Fau Tsoi Street, Outside Kwong Wah Plaza (Outside House No.34)"
       }
     ],
-    "data_timestamp": "2024-11-15T19:24:38.822+08:00"
+    "data_timestamp": "2024-12-06T09:22:06.511+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:24:26.993+08:00",
+  "generated_timestamp": "2024-12-08T22:21:13.476+08:00",
   "data": {
     "route_stops": [
       {
@@ -63,9 +63,9 @@
       {
         "stop_seq": 9,
         "stop_id": 20002413,
-        "name_tc": "大潭道",
-        "name_sc": "大潭道",
-        "name_en": "Tai Tam Road"
+        "name_tc": "大潭道, 美國會外",
+        "name_sc": "大潭道, 美国会外",
+        "name_en": "Tai Tam Road, outside The American Club"
       },
       {
         "stop_seq": 10,
@@ -105,11 +105,11 @@
       {
         "stop_seq": 15,
         "stop_id": 20003397,
-        "name_tc": "舂磡角道, 賽馬會慈氏護養院",
-        "name_sc": "舂磡角道, 赛马会慈氏护养院",
-        "name_en": "Chung Hom Kok Road, Cheshire Home"
+        "name_tc": "舂磡角道, 南埼外",
+        "name_sc": "舂磡角道, 南埼外",
+        "name_en": "Chung Hom Kok Road, outside Scape"
       }
     ],
-    "data_timestamp": "2024-10-23T14:47:59.500+08:00"
+    "data_timestamp": "2024-11-19T13:47:06.533+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:27:14.342+08:00",
+  "generated_timestamp": "2024-12-08T22:24:14.252+08:00",
   "data": {
     "route_stops": [
       {
@@ -82,6 +82,6 @@
         "name_en": "Wong Chuk Yeung Village"
       }
     ],
-    "data_timestamp": "2024-07-31T16:58:38.773+08:00"
+    "data_timestamp": "2024-11-28T11:38:51.795+08:00"
   }
 }

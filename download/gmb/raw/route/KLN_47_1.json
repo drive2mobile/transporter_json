@@ -1,11 +1,11 @@
 {
   "id": "KLN_47_1",
-  "route_id": 2007101,
+  "route_id": 2010368,
   "region": "KLN",
   "route": "47",
   "route_seq": 1,
   "from_tc": "順利",
   "from_en": "Shun Lee",
-  "to_tc": "翠屏(福塘道)(循環線)",
-  "to_en": "Tsui Ping (Fuk Tong Road) (Circular)"
+  "to_tc": "翠屏(福塘道)",
+  "to_en": "Tsui Ping (Fuk Tong Road)"
 }

@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:24:55.972+08:00",
+  "generated_timestamp": "2024-12-08T22:21:44.505+08:00",
   "data": {
     "route_stops": [
       {
@@ -16,7 +16,7 @@
         "stop_id": 20000334,
         "name_tc": "域多利道, 英基學校協會西島中學對面",
         "name_sc": "域多利道, 英基学校协会西岛中学对面",
-        "name_en": "Victoria Road, opposite English School Foundation West Island School"
+        "name_en": "Victoria Road, opposite English Schools Foundation West Island School"
       },
       {
         "stop_seq": 3,
@@ -68,6 +68,6 @@
         "name_en": "Bel-Air on The Peak, Cyberport Road"
       }
     ],
-    "data_timestamp": "2024-11-15T17:08:56.985+08:00"
+    "data_timestamp": "2024-12-06T12:06:46.684+08:00"
   }
 }

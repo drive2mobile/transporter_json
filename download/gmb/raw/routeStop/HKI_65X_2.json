@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:25:01.681+08:00",
+  "generated_timestamp": "2024-12-08T22:21:50.320+08:00",
   "data": {
     "route_stops": [
       {
@@ -33,6 +33,6 @@
         "name_en": "Pamela Youde Nethersole Eastern Hospital, outside Main Block"
       }
     ],
-    "data_timestamp": "2024-07-31T18:02:27.289+08:00"
+    "data_timestamp": "2024-11-22T18:51:38.519+08:00"
   }
 }

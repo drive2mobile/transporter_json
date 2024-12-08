@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:26:30.530+08:00",
+  "generated_timestamp": "2024-12-08T22:23:31.304+08:00",
   "data": {
     "route_stops": [
       {
@@ -27,89 +27,96 @@
       },
       {
         "stop_seq": 4,
+        "stop_id": 20020524,
+        "name_tc": "青山公路元朗段近元朗商會小學",
+        "name_sc": "青山公路元朗段近元朗商会小学",
+        "name_en": "Castle Peak Road (Yuen Long) at the bus stop outside Yuen Long Merchants Association"
+      },
+      {
+        "stop_seq": 5,
         "stop_id": 20001249,
         "name_tc": "朗天苑",
         "name_sc": "朗天苑",
         "name_en": "Long Tin Court"
       },
       {
-        "stop_seq": 5,
+        "stop_seq": 6,
         "stop_id": 20018544,
         "name_tc": "屏山 ",
         "name_sc": "屏山",
         "name_en": "Ping Shan"
       },
       {
-        "stop_seq": 6,
+        "stop_seq": 7,
         "stop_id": 20018545,
         "name_tc": "新起村",
         "name_sc": "新起",
         "name_en": "San Hei Tsuen"
       },
       {
-        "stop_seq": 7,
+        "stop_seq": 8,
         "stop_id": 20018546,
         "name_tc": "灰沙圍",
         "name_sc": "灰沙圍",
         "name_en": "Fui Sha Wai"
       },
       {
-        "stop_seq": 8,
+        "stop_seq": 9,
         "stop_id": 20018547,
         "name_tc": "大道村",
         "name_sc": "大道村",
         "name_en": "Tai Tao Tsuen"
       },
       {
-        "stop_seq": 9,
+        "stop_seq": 10,
         "stop_id": 20018548,
         "name_tc": "尚城 ",
         "name_sc": "尚城",
         "name_en": "Uptown"
       },
       {
-        "stop_seq": 10,
+        "stop_seq": 11,
         "stop_id": 20018549,
         "name_tc": "朗峰園",
         "name_sc": "朗峰園",
         "name_en": "Symphony Garden"
       },
       {
-        "stop_seq": 11,
+        "stop_seq": 12,
         "stop_id": 20018550,
         "name_tc": "盈福街",
         "name_sc": "盈福街",
         "name_en": "Ying Fuk Street"
       },
       {
-        "stop_seq": 12,
+        "stop_seq": 13,
         "stop_id": 20018551,
         "name_tc": "偉景園 ",
         "name_sc": "偉景園",
         "name_en": "Great Garden"
       },
       {
-        "stop_seq": 13,
+        "stop_seq": 14,
         "stop_id": 20018552,
         "name_tc": "尚築",
         "name_sc": "尚築",
         "name_en": "Domus"
       },
       {
-        "stop_seq": 14,
+        "stop_seq": 15,
         "stop_id": 20018553,
         "name_tc": "水庫路 ",
         "name_sc": "水庫路",
         "name_en": "Shui Fu Road"
       },
       {
-        "stop_seq": 15,
+        "stop_seq": 16,
         "stop_id": 20014636,
         "name_tc": "丹桂村總站",
         "name_sc": "丹桂村總站",
         "name_en": "Tan Kwai Tsuen Terminus"
       }
     ],
-    "data_timestamp": "2024-11-13T13:50:45.098+08:00"
+    "data_timestamp": "2024-11-22T11:54:11.816+08:00"
   }
 }

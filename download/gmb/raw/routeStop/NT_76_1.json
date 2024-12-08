@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:27:32.213+08:00",
+  "generated_timestamp": "2024-12-08T22:24:32.986+08:00",
   "data": {
     "route_stops": [
       {
@@ -42,16 +42,16 @@
       {
         "stop_seq": 6,
         "stop_id": 20001286,
-        "name_tc": "青山公路, 近楊屋村",
-        "name_sc": "青山公路, 近杨屋村",
-        "name_en": "Castle Peak Road, near Yeung Uk Tsuen"
+        "name_tc": "青山公路－元朗段, 近楊屋村",
+        "name_sc": "青山公路－元朗段, 近杨屋村",
+        "name_en": "Castle Peak Road  - Yuen Long, near Yeung Uk Tsuen"
       },
       {
         "stop_seq": 7,
         "stop_id": 20001287,
-        "name_tc": "青山公路元朗段, 近 YOHO Midtown",
-        "name_sc": "青山公路元朗段, 近 YOHO Midtown",
-        "name_en": "Castle Peak Road-Yuen Long, near YOHO Midtown"
+        "name_tc": "青山公路－元朗段, 近 YOHO Midtown",
+        "name_sc": "青山公路－元朗段, 近 YOHO Midtown",
+        "name_en": "Castle Peak Road - Yuen Long, near YOHO Midtown"
       },
       {
         "stop_seq": 8,
@@ -61,6 +61,6 @@
         "name_en": "Fook Hong Street, near Kam Bo Building"
       }
     ],
-    "data_timestamp": "2024-11-15T19:17:19.637+08:00"
+    "data_timestamp": "2024-11-29T15:25:11.992+08:00"
   }
 }

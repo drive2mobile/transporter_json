@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:27:41.459+08:00",
+  "generated_timestamp": "2024-12-08T22:24:43.872+08:00",
   "data": {
     "route_stops": [
       {
@@ -33,6 +33,6 @@
         "name_en": "Kam Ying Court Bus Terminus"
       }
     ],
-    "data_timestamp": "2024-10-03T09:25:13.844+08:00"
+    "data_timestamp": "2024-12-01T00:00:36.896+08:00"
   }
 }

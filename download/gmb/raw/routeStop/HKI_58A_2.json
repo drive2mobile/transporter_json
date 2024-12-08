@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:24:55.531+08:00",
+  "generated_timestamp": "2024-12-08T22:21:44.009+08:00",
   "data": {
     "route_stops": [
       {
@@ -16,7 +16,7 @@
         "stop_id": 20000334,
         "name_tc": "域多利道, 英基學校協會西島中學對面",
         "name_sc": "域多利道, 英基学校协会西岛中学对面",
-        "name_en": "Victoria Road, opposite English School Foundation West Island School"
+        "name_en": "Victoria Road, opposite English Schools Foundation West Island School"
       },
       {
         "stop_seq": 3,
@@ -55,10 +55,10 @@
       },
       {
         "stop_seq": 8,
-        "stop_id": 20000273,
-        "name_tc": "石排灣道 53 號",
-        "name_sc": "石排湾道 53 号",
-        "name_en": "No. 53 Shek Pai Wan Road"
+        "stop_id": 20020656,
+        "name_tc": "石排灣道 49 號",
+        "name_sc": "石排湾道 49 号",
+        "name_en": "No. 49 Shek Pai Wan Road"
       },
       {
         "stop_seq": 9,
@@ -75,6 +75,6 @@
         "name_en": "Wu Nam Street, outside On Tai Building"
       }
     ],
-    "data_timestamp": "2024-11-15T17:08:56.993+08:00"
+    "data_timestamp": "2024-12-06T12:07:12.116+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:27:12.657+08:00",
+  "generated_timestamp": "2024-12-08T22:24:12.583+08:00",
   "data": {
     "route_stops": [
       {
@@ -27,26 +27,33 @@
       },
       {
         "stop_seq": 4,
+        "stop_id": 20020530,
+        "name_tc": "屯門公路, 近仁愛堂體育中心",
+        "name_sc": "屯门公路, 近仁爱堂体育中心",
+        "name_en": "Tuen Mun Road at the bus lay-by opposite to Yan Oi Tong Community and Indoor Sports Centre"
+      },
+      {
+        "stop_seq": 5,
         "stop_id": 20016919,
         "name_tc": "長沙灣道, 近荔枝角花園",
         "name_sc": "长沙湾道, 近荔枝角花园",
         "name_en": "Cheung Sha Wan Road, Near Lai Chi Kok Garden"
       },
       {
-        "stop_seq": 5,
+        "stop_seq": 6,
         "stop_id": 20016920,
         "name_tc": "彌敦道, 近永僑大廈",
         "name_sc": "弥敦道, 近永侨大厦",
         "name_en": "Nathan Road, Near Wing Kiu Building"
       },
       {
-        "stop_seq": 6,
+        "stop_seq": 7,
         "stop_id": 20016921,
         "name_tc": "麼地道, 近麼地道花園",
         "name_sc": "么地道, 近么地道花园",
         "name_en": "Mody Road, Near Mody Road Garden"
       }
     ],
-    "data_timestamp": "2024-11-13T13:47:23.613+08:00"
+    "data_timestamp": "2024-11-22T14:29:13.717+08:00"
   }
 }

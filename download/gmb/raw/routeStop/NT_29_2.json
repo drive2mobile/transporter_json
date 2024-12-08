@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:26:26.714+08:00",
+  "generated_timestamp": "2024-12-08T22:23:24.345+08:00",
   "data": {
     "route_stops": [
       {
@@ -82,6 +82,6 @@
         "name_en": "Science Park Road, near Ma Liu Shui Ferry Pier"
       }
     ],
-    "data_timestamp": "2024-07-31T16:30:32.486+08:00"
+    "data_timestamp": "2024-11-22T17:28:45.130+08:00"
   }
 }

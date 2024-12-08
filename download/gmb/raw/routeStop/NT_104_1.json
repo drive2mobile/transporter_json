@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:26:00.283+08:00",
+  "generated_timestamp": "2024-12-08T22:22:53.724+08:00",
   "data": {
     "route_stops": [
       {
@@ -90,82 +90,89 @@
       },
       {
         "stop_seq": 13,
+        "stop_id": 20016736,
+        "name_tc": "牛頭角道, 玉蓮臺外",
+        "name_sc": "牛头角道, 玉莲台外",
+        "name_en": "Ngau Tau Kok Road, outside Lotus Tower"
+      },
+      {
+        "stop_seq": 14,
         "stop_id": 20000633,
         "name_tc": "康寧道, 康寧閣外",
         "name_sc": "康宁道, 康宁阁外",
         "name_en": "Hong Ning Road, outside Hong Ning Court"
       },
       {
-        "stop_seq": 14,
+        "stop_seq": 15,
         "stop_id": 20015229,
         "name_tc": "康寧道, 觀塘平安診所外",
         "name_sc": "康宁道, 观塘平安诊所外",
         "name_en": "Hong Ning Road, outside Kwun Tong Peace Clinic"
       },
       {
-        "stop_seq": 15,
+        "stop_seq": 16,
         "stop_id": 20000946,
         "name_tc": "康寧道, 高雷中學對面",
         "name_sc": "康宁道, 高雷中学对面",
         "name_en": "Hong Ning Road, opposite Ko Lui Secondary School"
       },
       {
-        "stop_seq": 16,
+        "stop_seq": 17,
         "stop_id": 20012476,
         "name_tc": "順利邨道, 迦密梁省德學校對面",
         "name_sc": "顺利邨道, 迦密梁省德学校对面",
         "name_en": "Shun Lee Tsuen Road, opposite Carmel Leung Sing Tak School"
       },
       {
-        "stop_seq": 17,
+        "stop_seq": 18,
         "stop_id": 20012477,
         "name_tc": "順利邨道, 順利邨康樂中心外",
         "name_sc": "顺利邨道, 顺利邨康乐中心外",
         "name_en": "Shun Lee Tsuen Road, outside Shun Lee Tsuen Leisure Centre"
       },
       {
-        "stop_seq": 18,
+        "stop_seq": 19,
         "stop_id": 20015230,
         "name_tc": "清水灣道, 萬景台外",
         "name_sc": "清水湾道, 万景台外",
         "name_en": "Clear Water Bay Road, outside Man King Terrace"
       },
       {
-        "stop_seq": 19,
+        "stop_seq": 20,
         "stop_id": 20015231,
         "name_tc": "清水灣道, 金苑外",
         "name_sc": "清水湾道, 金苑外",
         "name_en": "Clear Water Bay Road, outside Gold Villa"
       },
       {
-        "stop_seq": 20,
+        "stop_seq": 21,
         "stop_id": 20002001,
         "name_tc": "清水灣道, 壁屋懲教所外",
         "name_sc": "清水湾道, 壁屋惩教所外",
         "name_en": "Clear Water Bay Road, outside Pik Uk Correctional Institute"
       },
       {
-        "stop_seq": 21,
+        "stop_seq": 22,
         "stop_id": 20015232,
         "name_tc": "清水灣道, 松濤苑外",
         "name_sc": "清水湾道, 松涛苑外",
         "name_en": "Clear Water Bay Road, outside Las Pinadas"
       },
       {
-        "stop_seq": 22,
+        "stop_seq": 23,
         "stop_id": 20012496,
         "name_tc": "清水灣道, 大埔仔村對面",
         "name_sc": "清水湾道, 大埔仔村对面",
         "name_en": "Clear Water Bay Road, opposite Tai Po Tsai Tsuen"
       },
       {
-        "stop_seq": 23,
+        "stop_seq": 24,
         "stop_id": 20015226,
         "name_tc": "香港科技大學(南站)",
         "name_sc": "香港科技大学(南站)",
         "name_en": "Hong Kong University of Science and Technology (South Station)"
       }
     ],
-    "data_timestamp": "2024-11-15T18:15:35.639+08:00"
+    "data_timestamp": "2024-11-18T10:58:10.181+08:00"
   }
 }

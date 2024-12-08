@@ -1,7 +1,7 @@
 {
   "type": "RouteStop",
   "version": "2.0",
-  "generated_timestamp": "2024-11-16T19:27:17+08:00",
+  "generated_timestamp": "2024-12-08T18:31:22+08:00",
   "data": [
     {
       "co": "CTB",
@@ -9,15 +9,23 @@
       "dir": "O",
       "seq": 1,
       "stop": "003519",
-      "data_timestamp": "2024-11-16T05:00:04+08:00"
+      "data_timestamp": "2024-12-08T05:00:04+08:00"
     },
     {
       "co": "CTB",
       "route": "20R",
       "dir": "O",
       "seq": 2,
-      "stop": "001588",
-      "data_timestamp": "2024-11-16T05:00:04+08:00"
+      "stop": "002630",
+      "data_timestamp": "2024-12-08T05:00:04+08:00"
+    },
+    {
+      "co": "CTB",
+      "route": "20R",
+      "dir": "O",
+      "seq": 3,
+      "stop": "003549",
+      "data_timestamp": "2024-12-08T05:00:04+08:00"
     }
   ]
 }

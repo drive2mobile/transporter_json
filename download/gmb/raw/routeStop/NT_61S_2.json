@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:27:18.957+08:00",
+  "generated_timestamp": "2024-12-08T22:24:19.709+08:00",
   "data": {
     "route_stops": [
       {
@@ -47,6 +47,6 @@
         "name_en": "Tak Hau Street, outside Tak Wo House, Wo Che Estate"
       }
     ],
-    "data_timestamp": "2024-10-22T11:30:45.415+08:00"
+    "data_timestamp": "2024-11-28T11:38:51.792+08:00"
   }
 }

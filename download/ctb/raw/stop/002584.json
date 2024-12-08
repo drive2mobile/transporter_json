@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-11-16T19:43:11+08:00",
+  "generated_timestamp": "2024-12-08T18:46:23+08:00",
   "data": {
     "stop": "002584",
     "name_tc": "牛頭角",
@@ -9,6 +9,6 @@
     "lat": "22.323140442091",
     "long": "114.21678296053",
     "name_sc": "牛头角",
-    "data_timestamp": "2024-11-16T05:00:03+08:00"
+    "data_timestamp": "2024-12-08T05:00:03+08:00"
   }
 }

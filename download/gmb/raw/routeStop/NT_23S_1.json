@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:26:22.039+08:00",
+  "generated_timestamp": "2024-12-08T22:23:18.918+08:00",
   "data": {
     "route_stops": [
       {
@@ -54,6 +54,6 @@
         "name_en": "Ta Tit Yan"
       }
     ],
-    "data_timestamp": "2024-07-31T16:28:25.193+08:00"
+    "data_timestamp": "2024-11-21T16:43:28.641+08:00"
   }
 }

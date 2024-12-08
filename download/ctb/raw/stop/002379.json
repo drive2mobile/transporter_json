@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-11-16T19:40:55+08:00",
+  "generated_timestamp": "2024-12-08T18:44:39+08:00",
   "data": {
     "stop": "002379",
     "name_tc": "赤柱峽道",
@@ -9,6 +9,6 @@
     "lat": "22.225421862091",
     "long": "114.20940971053",
     "name_sc": "赤柱峡道",
-    "data_timestamp": "2024-11-16T05:00:03+08:00"
+    "data_timestamp": "2024-12-08T05:00:03+08:00"
   }
 }

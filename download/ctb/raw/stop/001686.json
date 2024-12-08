@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-11-16T19:43:14+08:00",
+  "generated_timestamp": "2024-12-08T18:46:27+08:00",
   "data": {
     "stop": "001686",
     "name_tc": "啟業邨",
@@ -9,6 +9,6 @@
     "lat": "22.328411032091",
     "long": "114.20864100053",
     "name_sc": "启业邨",
-    "data_timestamp": "2024-11-16T05:00:03+08:00"
+    "data_timestamp": "2024-12-08T05:00:03+08:00"
   }
 }

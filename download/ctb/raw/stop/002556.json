@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-11-16T19:42:47+08:00",
+  "generated_timestamp": "2024-12-08T18:46:03+08:00",
   "data": {
     "stop": "002556",
     "name_tc": "加路連山道",
@@ -9,6 +9,6 @@
     "lat": "22.275647122091",
     "long": "114.18603942053",
     "name_sc": "加路连山道",
-    "data_timestamp": "2024-11-16T05:00:03+08:00"
+    "data_timestamp": "2024-12-08T05:00:03+08:00"
   }
 }

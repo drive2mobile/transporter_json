@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:24:48.953+08:00",
+  "generated_timestamp": "2024-12-08T22:21:36.934+08:00",
   "data": {
     "route_stops": [
       {
@@ -13,40 +13,47 @@
       },
       {
         "stop_seq": 2,
+        "stop_id": 20000057,
+        "name_tc": "黃竹坑道, 黃竹坑遊樂場外",
+        "name_sc": "黄竹坑道, 黄竹坑游乐场外",
+        "name_en": "Wong Chuk Hang Road, outside Wong Chuk Hang Recreation Ground"
+      },
+      {
+        "stop_seq": 3,
         "stop_id": 20011479,
         "name_tc": "黃竹坑道40號",
         "name_sc": "黄竹坑道40号",
         "name_en": "No.40 Wong Chuk Hang Road"
       },
       {
-        "stop_seq": 3,
+        "stop_seq": 4,
         "stop_id": 20000361,
         "name_tc": "香港仔海傍道, 逸港居外",
         "name_sc": "香港仔海傍道, 逸港居外",
         "name_en": "Aberdeen Praya Road, outside Ocean Court"
       },
       {
-        "stop_seq": 4,
+        "stop_seq": 5,
         "stop_id": 20011480,
         "name_tc": "香港仔海傍道, 香港仔巴士站對面",
         "name_sc": "香港仔海傍道, 香港仔巴士站对面",
         "name_en": "Aberdeen Praya Road, opposite Aberdeen Bus Terminus"
       },
       {
-        "stop_seq": 5,
+        "stop_seq": 6,
         "stop_id": 20011481,
         "name_tc": "西安街12號對面",
         "name_sc": "西安街12号对面",
         "name_en": "Sai On Street, opposite No.12"
       },
       {
-        "stop_seq": 6,
+        "stop_seq": 7,
         "stop_id": 20011318,
         "name_tc": "石排灣邨公共運輸交匯處",
         "name_sc": "石排湾邨公共运输交汇处",
         "name_en": "Shek Pai Wan Estate Public Transport Interchange"
       }
     ],
-    "data_timestamp": "2024-11-15T17:33:04.858+08:00"
+    "data_timestamp": "2024-12-06T12:04:51.425+08:00"
   }
 }

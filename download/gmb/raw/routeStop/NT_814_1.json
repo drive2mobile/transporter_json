@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:27:47.366+08:00",
+  "generated_timestamp": "2024-12-08T22:24:50.441+08:00",
   "data": {
     "route_stops": [
       {
@@ -180,6 +180,6 @@
         "name_en": "Lai Ping Road, GMB Terminus near service reservoir"
       }
     ],
-    "data_timestamp": "2024-08-07T13:57:23.935+08:00"
+    "data_timestamp": "2024-11-28T11:38:51.795+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:28:06.328+08:00",
+  "generated_timestamp": "2024-12-08T22:25:09.449+08:00",
   "data": {
     "route_stops": [
       {
@@ -61,6 +61,6 @@
         "name_en": "Tsuen Tak Gardens"
       }
     ],
-    "data_timestamp": "2022-10-27T00:05:39.596+08:00"
+    "data_timestamp": "2024-11-21T18:08:19.912+08:00"
   }
 }

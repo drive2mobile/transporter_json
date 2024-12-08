@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-11-16T19:40:23+08:00",
+  "generated_timestamp": "2024-12-08T18:39:09+08:00",
   "data": {
     "stop": "002630",
     "name_tc": "九龍公園徑",
@@ -9,6 +9,6 @@
     "lat": "22.295957122091",
     "long": "114.17023938053",
     "name_sc": "九龙公园径",
-    "data_timestamp": "2024-11-16T05:00:03+08:00"
+    "data_timestamp": "2024-12-08T05:00:03+08:00"
   }
 }

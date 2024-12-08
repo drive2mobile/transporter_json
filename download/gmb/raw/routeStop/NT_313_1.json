@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:26:29.849+08:00",
+  "generated_timestamp": "2024-12-08T22:23:30.375+08:00",
   "data": {
     "route_stops": [
       {
@@ -103,6 +103,6 @@
         "name_en": "Princess Magaret Hospital"
       }
     ],
-    "data_timestamp": "2024-11-06T17:55:13.496+08:00"
+    "data_timestamp": "2024-11-21T18:22:09.136+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:24:37.006+08:00",
+  "generated_timestamp": "2024-12-08T22:21:23.009+08:00",
   "data": {
     "route_stops": [
       {
@@ -27,26 +27,33 @@
       },
       {
         "stop_seq": 4,
+        "stop_id": 20020557,
+        "name_tc": "鴨脷洲大街, 近鴨脷洲診所",
+        "name_sc": "鸭脷洲大街, 近鸭脷洲诊所",
+        "name_en": "Near Ap Lei Chau Clinic, Main Street, Ap Lei Chau"
+      },
+      {
+        "stop_seq": 5,
         "stop_id": 20012869,
         "name_tc": "黃竹坑道, 甄沾記大廈",
         "name_sc": "黄竹坑道, 甄沾记大厦",
         "name_en": "Yan's Tower, Wong Chuk Hang Road"
       },
       {
-        "stop_seq": 5,
+        "stop_seq": 6,
         "stop_id": 20015516,
         "name_tc": "深灣道, 近南濤閣",
         "name_sc": "深湾道, 近南涛阁",
         "name_en": "Shum Wan Road, near South Wave Court"
       },
       {
-        "stop_seq": 6,
+        "stop_seq": 7,
         "stop_id": 20011727,
         "name_tc": "海洋公園 (水上樂園)",
         "name_sc": "海洋公园 (水上乐园)",
         "name_en": "Ocean Park (Water World)"
       }
     ],
-    "data_timestamp": "2023-08-11T12:17:12.706+08:00"
+    "data_timestamp": "2024-11-29T17:24:51.238+08:00"
   }
 }

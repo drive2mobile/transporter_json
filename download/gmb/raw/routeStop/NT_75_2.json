@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:27:31.987+08:00",
+  "generated_timestamp": "2024-12-08T22:24:32.744+08:00",
   "data": {
     "route_stops": [
       {
@@ -28,11 +28,11 @@
       {
         "stop_seq": 4,
         "stop_id": 20015423,
-        "name_tc": "青山公路－新田段, 近文天祥公園",
-        "name_sc": "青山公路－新田段, 近文天祥公园",
-        "name_en": "Castle Peak Road - San Tin, near Man Tin Cheung Park"
+        "name_tc": "近文天祥公園",
+        "name_sc": "近文天祥公园",
+        "name_en": "Near Man Tin Cheung Park"
       }
     ],
-    "data_timestamp": "2024-11-13T16:52:01.716+08:00"
+    "data_timestamp": "2024-12-01T00:00:36.944+08:00"
   }
 }

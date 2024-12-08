@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:27:12.187+08:00",
+  "generated_timestamp": "2024-12-08T22:24:12.098+08:00",
   "data": {
     "route_stops": [
       {
@@ -40,6 +40,6 @@
         "name_en": "Sheung Shui Station Public Light Bus Terminus"
       }
     ],
-    "data_timestamp": "2024-09-20T13:26:42.434+08:00"
+    "data_timestamp": "2024-12-03T10:48:21.189+08:00"
   }
 }

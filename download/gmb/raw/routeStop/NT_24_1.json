@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:26:22.554+08:00",
+  "generated_timestamp": "2024-12-08T22:23:19.393+08:00",
   "data": {
     "route_stops": [
       {
@@ -76,47 +76,54 @@
       },
       {
         "stop_seq": 11,
+        "stop_id": 20020534,
+        "name_tc": "廣福道, 近廣福球場",
+        "name_sc": "广福道, 近广福球场",
+        "name_en": "Kwong Fuk Road, near Kwong Fuk Football Ground"
+      },
+      {
+        "stop_seq": 12,
         "stop_id": 20019275,
         "name_tc": "南運路, 近廣福球場",
         "name_sc": "南运路, 近广福球场",
         "name_en": "Nam Wan Road, near Kwong Fuk Football Ground"
       },
       {
-        "stop_seq": 12,
+        "stop_seq": 13,
         "stop_id": 20019276,
         "name_tc": "南運路, 近廣南休憩處",
         "name_sc": "南运路, 近广南休憩处",
         "name_en": "Nam Wan Road, near Kwong Nam Sitting-out Area"
       },
       {
-        "stop_seq": 13,
+        "stop_seq": 14,
         "stop_id": 20019277,
         "name_tc": "南運路, 近大埔中心第五期",
         "name_sc": "南运路, 近大埔中心第五期",
         "name_en": "Nam Wan Road, near Tai Po Centre Phase 5"
       },
       {
-        "stop_seq": 14,
+        "stop_seq": 15,
         "stop_id": 20019278,
         "name_tc": "頌雅路, 近天主教聖母聖心小學",
         "name_sc": "颂雅路, 近天主教圣母圣心小学",
         "name_en": "Chung Nga Road, near Sacred Heart Of Mary Catholic Primary School"
       },
       {
-        "stop_seq": 15,
+        "stop_seq": 16,
         "stop_id": 20019279,
         "name_tc": "彩蝶街",
         "name_sc": "彩蝶街",
         "name_en": "Choi Tip Street "
       },
       {
-        "stop_seq": 16,
+        "stop_seq": 17,
         "stop_id": 20019270,
         "name_tc": "富蝶邨",
         "name_sc": "富蝶邨",
         "name_en": "Fu Tip Estate"
       }
     ],
-    "data_timestamp": "2024-10-14T00:00:14.082+08:00"
+    "data_timestamp": "2024-11-22T17:33:31.401+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:27:13.188+08:00",
+  "generated_timestamp": "2024-12-08T22:24:13.040+08:00",
   "data": {
     "route_stops": [
       {
@@ -54,6 +54,6 @@
         "name_en": "Wang Toi Shan Playground"
       }
     ],
-    "data_timestamp": "2024-11-13T13:56:24.285+08:00"
+    "data_timestamp": "2024-11-22T12:06:20.735+08:00"
   }
 }

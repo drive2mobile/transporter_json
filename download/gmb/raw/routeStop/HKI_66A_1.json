@@ -1,15 +1,15 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:25:02.124+08:00",
+  "generated_timestamp": "2024-12-08T22:21:50.757+08:00",
   "data": {
     "route_stops": [
       {
         "stop_seq": 1,
         "stop_id": 20012971,
-        "name_tc": "愛賢街, 愛東商場外",
-        "name_sc": "爱贤街, 爱东商场外",
-        "name_en": "Oi Yin Street, outside Oi Tung Shopping Centre"
+        "name_tc": "愛賢街, 愛蝶灣第8座外",
+        "name_sc": "爱贤街, 爱蝶湾第8座外",
+        "name_en": "Oi Yin Street, outside Block 8, Aldrich Garden"
       },
       {
         "stop_seq": 2,
@@ -70,9 +70,9 @@
       {
         "stop_seq": 10,
         "stop_id": 20000398,
-        "name_tc": "柴灣道, 筲箕灣官立中學",
-        "name_sc": "柴湾道, 筲箕湾官立中学",
-        "name_en": "Chai Wan Road, Shau Kei Wan Primary School"
+        "name_tc": "柴灣道, 筲箕灣官立中學外",
+        "name_sc": "柴湾道, 筲箕湾官立中学外",
+        "name_en": "Chai Wan Road, outside Shau Kei Wan Government Secondary School"
       },
       {
         "stop_seq": 11,
@@ -96,6 +96,6 @@
         "name_en": "Oi Yin Street, outside Block 8, Aldrich Garden"
       }
     ],
-    "data_timestamp": "2024-10-23T14:47:59.512+08:00"
+    "data_timestamp": "2024-11-19T13:59:10.517+08:00"
   }
 }

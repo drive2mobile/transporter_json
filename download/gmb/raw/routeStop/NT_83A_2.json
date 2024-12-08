@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:27:49.194+08:00",
+  "generated_timestamp": "2024-12-08T22:24:52.307+08:00",
   "data": {
     "route_stops": [
       {
@@ -41,26 +41,33 @@
       },
       {
         "stop_seq": 6,
+        "stop_id": 20020500,
+        "name_tc": " 青山公路－荃灣段大窩口站外",
+        "name_sc": "青山公路－荃湾段大窝口站外",
+        "name_en": "Castle Peak Road - Tsuen Wan outside Tai Wo Hau Station"
+      },
+      {
+        "stop_seq": 7,
         "stop_id": 20015943,
         "name_tc": "沙咀道尚翠苑外",
         "name_sc": "沙咀道尚翠苑外",
         "name_en": "Sha Tsui Road outside Sheung Chui Court"
       },
       {
-        "stop_seq": 7,
+        "stop_seq": 8,
         "stop_id": 20001643,
         "name_tc": "沙咀道寶石大廈外",
         "name_sc": "沙咀道宝石大厦外",
         "name_en": "Sha Tsui Road outside Bo Shek Mansion"
       },
       {
-        "stop_seq": 8,
+        "stop_seq": 9,
         "stop_id": 20016696,
         "name_tc": "荃灣(川龍街)",
         "name_sc": "荃湾(川龙街)",
         "name_en": "Tsuen Wan (Chuen Lung Street)"
       }
     ],
-    "data_timestamp": "2024-11-06T17:55:13.496+08:00"
+    "data_timestamp": "2024-11-21T18:23:11.959+08:00"
   }
 }

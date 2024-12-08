@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:25:27.800+08:00",
+  "generated_timestamp": "2024-12-08T22:22:19.063+08:00",
   "data": {
     "route_stops": [
       {
@@ -131,6 +131,6 @@
         "name_en": "Choi Hei Road, outside Choi Yuet House, Choi Ha Estate"
       }
     ],
-    "data_timestamp": "2024-11-07T14:26:37.620+08:00"
+    "data_timestamp": "2024-12-06T10:15:17.246+08:00"
   }
 }

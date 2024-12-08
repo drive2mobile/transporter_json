@@ -1,0 +1,59 @@
+{
+  "type": "Route-Stop",
+  "version": "1.0",
+  "generated_timestamp": "2024-12-08T22:24:18.759+08:00",
+  "data": {
+    "route_stops": [
+      {
+        "stop_seq": 1,
+        "stop_id": 20015447,
+        "name_tc": "濕地公園路, 近俊宏軒第六座",
+        "name_sc": "湿地公园路, 近俊宏轩第六座",
+        "name_en": "Wetland Park Road, near Grandeur Terrace Block 6"
+      },
+      {
+        "stop_seq": 2,
+        "stop_id": 20020623,
+        "name_tc": "天葵路, 慧景軒對面",
+        "name_sc": "天葵路, 慧景轩对面",
+        "name_en": "Tin Kwai Road, opposite to Vianni Cove"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20015448,
+        "name_tc": "天葵路, 近香港青年協會李兆基書院",
+        "name_sc": "天葵路, 近香港青年协会李兆基书院",
+        "name_en": "Tin Kwai Road, near HKFYG Lee Shau Kee College"
+      },
+      {
+        "stop_seq": 4,
+        "stop_id": 20015449,
+        "name_tc": "天葵路, 近嘉湖山莊美湖居激活幼稚園",
+        "name_sc": "天葵路, 近嘉湖山庄美湖居激活幼稚园",
+        "name_en": "Tin Kwai Road, near Gigamind Kindergarten and Children's House, Maywood Court, Kingswood Villas"
+      },
+      {
+        "stop_seq": 5,
+        "stop_id": 20015451,
+        "name_tc": "天華路, 近天頌苑頌棋閣",
+        "name_sc": "天华路, 近天颂苑颂棋阁",
+        "name_en": "Tin Wah Road, near Chung Ki House, Tin Chung Court"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20015452,
+        "name_tc": "屏廈路, 近榮江園",
+        "name_sc": "屏厦路, 近荣江园",
+        "name_en": "Ping Ha Road, near 榮江園"
+      },
+      {
+        "stop_seq": 7,
+        "stop_id": 20020624,
+        "name_tc": "深圳灣口岸",
+        "name_sc": "深圳湾口岸",
+        "name_en": "Shenzhen Bay Port"
+      }
+    ],
+    "data_timestamp": "2024-12-06T09:28:52.008+08:00"
+  }
+}

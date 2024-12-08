@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:25:56.078+08:00",
+  "generated_timestamp": "2024-12-08T22:22:49.374+08:00",
   "data": {
     "route_stops": [
       {
@@ -89,6 +89,6 @@
         "name_en": "Sau Fung Street, near Sau Chi House, Sau Mau Ping Estate"
       }
     ],
-    "data_timestamp": "2024-11-13T15:05:22.057+08:00"
+    "data_timestamp": "2024-11-20T10:08:26.189+08:00"
   }
 }

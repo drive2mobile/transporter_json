@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:27:48.520+08:00",
+  "generated_timestamp": "2024-12-08T22:24:51.551+08:00",
   "data": {
     "route_stops": [
       {
@@ -13,26 +13,33 @@
       },
       {
         "stop_seq": 2,
+        "stop_id": 20020501,
+        "name_tc": "眾安街荃灣千色匯I外停車處",
+        "name_sc": "众安街荃湾千色汇I外停车处",
+        "name_en": "Chung On Street at the lay-by outside Kolour- Tsuen Wan I"
+      },
+      {
+        "stop_seq": 3,
         "stop_id": 20013870,
         "name_tc": "石圍角路石圍角巴士總站外",
         "name_sc": "石围角路石围角巴士总站外",
         "name_en": "Shek Wai Kok Road outside Shek Wai Kok Bus Terminus"
       },
       {
-        "stop_seq": 3,
+        "stop_seq": 4,
         "stop_id": 20013463,
         "name_tc": "二陂圳路近東普陀的停車灣",
         "name_sc": "二陂圳路近东普陀的停车湾",
         "name_en": "Yi Pei Chun Road at the lay-by near Tung Po Tor"
       },
       {
-        "stop_seq": 4,
+        "stop_seq": 5,
         "stop_id": 20013594,
         "name_tc": "象山邨",
         "name_sc": "象山邨",
         "name_en": "Cheung Shan Estate"
       }
     ],
-    "data_timestamp": "2024-01-14T00:00:48.379+08:00"
+    "data_timestamp": "2024-11-21T18:27:10.394+08:00"
   }
 }

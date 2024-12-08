@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:26:56.733+08:00",
+  "generated_timestamp": "2024-12-08T22:23:56.148+08:00",
   "data": {
     "route_stops": [
       {
@@ -103,6 +103,6 @@
         "name_en": "YUE MAN SQUARE, near Yue Man Building"
       }
     ],
-    "data_timestamp": "2024-10-31T12:01:37.462+08:00"
+    "data_timestamp": "2024-12-06T10:15:17.257+08:00"
   }
 }

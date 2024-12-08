@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:27:45.000+08:00",
+  "generated_timestamp": "2024-12-08T22:24:47.954+08:00",
   "data": {
     "route_stops": [
       {
@@ -40,6 +40,6 @@
         "name_en": "Sui Wo Court Bus Terminus"
       }
     ],
-    "data_timestamp": "2024-07-31T16:49:26.645+08:00"
+    "data_timestamp": "2024-11-28T11:40:41.584+08:00"
   }
 }

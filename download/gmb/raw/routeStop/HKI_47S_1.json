@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:24:46.982+08:00",
+  "generated_timestamp": "2024-12-08T22:21:34.625+08:00",
   "data": {
     "route_stops": [
       {
@@ -63,9 +63,9 @@
       {
         "stop_seq": 9,
         "stop_id": 20011163,
-        "name_tc": "永平街近新德樓",
-        "name_sc": "柴湾道近新德楼",
-        "name_en": "Chai Wan Road near Sun Tak House"
+        "name_tc": "永平街, 近新德樓",
+        "name_sc": "永平街, 近新德楼",
+        "name_en": "Wing Ping Street near Sun Tak House"
       },
       {
         "stop_seq": 10,
@@ -96,6 +96,6 @@
         "name_en": "Chai Wan Station Public Transport Interchange"
       }
     ],
-    "data_timestamp": "2024-10-23T14:47:59.507+08:00"
+    "data_timestamp": "2024-11-19T13:51:33.873+08:00"
   }
 }

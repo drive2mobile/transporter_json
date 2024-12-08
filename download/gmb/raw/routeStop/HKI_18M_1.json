@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:24:28.472+08:00",
+  "generated_timestamp": "2024-12-08T22:21:15.379+08:00",
   "data": {
     "route_stops": [
       {
@@ -47,6 +47,6 @@
         "name_en": "Cape Collinson Correctional Institution"
       }
     ],
-    "data_timestamp": "2024-04-04T17:54:14.825+08:00"
+    "data_timestamp": "2024-11-19T13:57:19.529+08:00"
   }
 }

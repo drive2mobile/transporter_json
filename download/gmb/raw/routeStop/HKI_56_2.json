@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:24:53.479+08:00",
+  "generated_timestamp": "2024-12-08T22:21:41.799+08:00",
   "data": {
     "route_stops": [
       {
@@ -166,6 +166,6 @@
         "name_en": "Robinson Road, opposite Serene Court"
       }
     ],
-    "data_timestamp": "2024-11-15T17:33:04.992+08:00"
+    "data_timestamp": "2024-12-06T11:16:39.150+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:27:30.591+08:00",
+  "generated_timestamp": "2024-12-08T22:24:31.146+08:00",
   "data": {
     "route_stops": [
       {
@@ -54,6 +54,6 @@
         "name_en": "Yuen Long (Fook Hong Street) Public Light Bus Terminus"
       }
     ],
-    "data_timestamp": "2024-11-15T19:17:19.637+08:00"
+    "data_timestamp": "2024-11-29T15:24:57.213+08:00"
   }
 }

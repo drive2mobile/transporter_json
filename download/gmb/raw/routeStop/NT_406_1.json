@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:26:39.062+08:00",
+  "generated_timestamp": "2024-12-08T22:23:39.681+08:00",
   "data": {
     "route_stops": [
       {
@@ -110,6 +110,6 @@
         "name_en": "Shek Pai Street, near Shek On House, Shek Lei (I) Estate"
       }
     ],
-    "data_timestamp": "2024-11-06T17:53:05.466+08:00"
+    "data_timestamp": "2024-12-04T12:45:48.712+08:00"
   }
 }

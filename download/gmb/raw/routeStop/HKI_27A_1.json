@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:24:35.486+08:00",
+  "generated_timestamp": "2024-12-08T22:21:21.573+08:00",
   "data": {
     "route_stops": [
       {
@@ -47,6 +47,6 @@
         "name_en": " Sai On Street, near Port Centre"
       }
     ],
-    "data_timestamp": "2023-08-11T12:12:18.860+08:00"
+    "data_timestamp": "2024-11-25T11:00:12.212+08:00"
   }
 }

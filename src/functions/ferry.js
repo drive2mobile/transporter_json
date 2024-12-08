@@ -1,7 +1,6 @@
 import { downloadCsvAndConvertJson, loadJSONFromFile, saveJSONToFile } from "../utilities/file_management.js";
 import { ferryCoordination } from "./ferryMetaData.js";
 
-
 const downloadList = [
     {
         job: '中環 - 坪洲 (英文)',
@@ -360,11 +359,8 @@ async function downloadFerryJson()
 
 async function parseRouteStopListFerry()
 {
-    const masterList_en = {};
-    const masterList_tc = {};
-    const dayObject = {};
+    const masterList = {};
     const timeObject = {};
-    const locationObject = {};
 
     for (var i = 0; i < downloadList.length; i++)
     {
@@ -375,35 +371,18 @@ async function parseRouteStopListFerry()
         {
             for (var j = 0; j < jsonObject.length; j++)
             {
-                const direction = jsonObject[j]['方向'] || '';
-                const serviceDay = serviceDayFormatter(jsonObject[j]['服務日子']) || '';
-                const serviceTime = timeFormatter(jsonObject[j]['服務時段']) || timeFormatter(jsonObject[j]['班次']) || '';
-                const remark = jsonObject[j]['備註'] || ' ';
-
-                // const directionArray = direction.split(' 至 ');
-
-                // timeObject[serviceTime] = serviceTime;
-
-                // locationObject[direction] =
-                // {
-                //     "from_tc": directionArray[0],
-                //     "to_tc": directionArray[1],
-                //     "from_en": "XXX",
-                //     "to_en": "XXX",
-                //     "from_lat": "",
-                //     "from_long": "",
-                //     "to_lat": "",
-                //     "to_long": ""
-                // }
-                // locationObject[directionArray[1]] = directionArray[1];
+                const direction = jsonObject[j]?.['方向'] || '';
+                const serviceDay = serviceDayFormatter(jsonObject[j]?.['服務日子']) || '';
+                const serviceTime = timeFormatter(jsonObject[j]?.['服務時段']) || timeFormatter(jsonObject[j]?.['班次']) || '';
+                const remark = jsonObject[j]?.['備註'] || ' ';
 
                 if (direction && serviceDay && serviceTime && remark)
                 {
                     const route_id = ferryCoordination?.[direction]?.['route_id'] || '';
 
-                    if (route_id in masterList_tc == false) 
+                    if (route_id in masterList == false) 
                     {
-                        masterList_tc[route_id] = {
+                        masterList[route_id] = {
                             company: 'ferry',
                             route_id: route_id,
                             stop_id: route_id,
@@ -421,25 +400,21 @@ async function parseRouteStopListFerry()
                         };
                     }
 
-                    if (serviceDay in masterList_tc[route_id]['schedule'] == false)
+                    if (serviceDay in masterList?.[route_id]?.['schedule'] == false)
                     {
-                        masterList_tc[route_id]['schedule'][serviceDay] = [];
+                        masterList[route_id]['schedule'][serviceDay] = [];
                     }
 
-                    masterList_tc[route_id]['schedule'][serviceDay].push(
+                    masterList?.[route_id]?.['schedule']?.[serviceDay].push(
                         { time: serviceTime, remark: remark }
                     );
                 }
             }
         }
-
     }
 
-    await saveJSONToFile(`./download/ferry/output/routeListFerry_tc.json`, masterList_tc);
-    // await saveJSONToFile(`./download/ferry/output/routeListFerry_en.json`, masterList_en);
-    // await saveJSONToFile(`./download/ferry/output/dayObject.json`, dayObject);
+    await saveJSONToFile(`./download/ferry/output/routeListFerry.json`, masterList);
     await saveJSONToFile(`./download/ferry/output/timeObject.json`, timeObject);
-    // await saveJSONToFile(`./download/ferry/output/locationObject.json`, locationObject);
 }
 
 function serviceDayFormatter(serviceDay_in)
@@ -499,4 +474,5 @@ function timeFormatter(time_in)
     return '';
 
 }
+
 export { downloadFerryJson, parseRouteStopListFerry }

@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:24:42.224+08:00",
+  "generated_timestamp": "2024-12-08T22:21:27.633+08:00",
   "data": {
     "route_stops": [
       {
@@ -20,89 +20,96 @@
       },
       {
         "stop_seq": 3,
+        "stop_id": 20020557,
+        "name_tc": "鴨脷洲大街, 近鴨脷洲診所",
+        "name_sc": "鸭脷洲大街, 近鸭脷洲诊所",
+        "name_en": "Near Ap Lei Chau Clinic, Main Street, Ap Lei Chau"
+      },
+      {
+        "stop_seq": 4,
         "stop_id": 20012946,
         "name_tc": "鴨脷洲大街,近文麗大樓",
         "name_sc": "鸭脷洲大街,近文丽大楼 ",
         "name_en": "Main Street, Ap Lei Chau, near Manly House"
       },
       {
-        "stop_seq": 4,
+        "stop_seq": 5,
         "stop_id": 20000157,
         "name_tc": "利枝道, 近利枝道巴士總站",
         "name_sc": "利枝道, 近利枝道巴士总站 ",
         "name_en": "Lee Chi Road, near Lee Chi Road Bus Terminus"
       },
       {
-        "stop_seq": 5,
+        "stop_seq": 6,
         "stop_id": 20012951,
         "name_tc": "鴨脷洲徑, 近深灣軒第２座",
         "name_sc": "鸭脷洲径, 近深湾轩第２座 ",
         "name_en": "AP LEI CHAU DRIVE, near Sham Wan Towers Tower 2"
       },
       {
-        "stop_seq": 6,
+        "stop_seq": 7,
         "stop_id": 20012952,
         "name_tc": "鴨脷洲海旁道, 近南灣第九座",
         "name_sc": "鸭脷洲海旁道, 近南湾第九座 ",
         "name_en": "AP LEI CHAU PRAYA ROAD, near Larvotto Tower 9"
       },
       {
-        "stop_seq": 7,
+        "stop_seq": 8,
         "stop_id": 20012953,
         "name_tc": "鴨脷洲徑, 近南區左岸",
         "name_sc": "鸭脷洲径, 近南区左岸 ",
         "name_en": "AP LEI CHAU DRIVE, near Marina South "
       },
       {
-        "stop_seq": 8,
+        "stop_seq": 9,
         "stop_id": 20011613,
         "name_tc": "黃竹坑道, 近甄沾記大廈",
         "name_sc": "黄竹坑道, 近甄沾记大厦 ",
         "name_en": "Wong Chuk Hang Road, near Yan's Tower"
       },
       {
-        "stop_seq": 9,
+        "stop_seq": 10,
         "stop_id": 20012954,
         "name_tc": "黃竹坑道, 近南灣如心酒店",
         "name_sc": "黄竹坑道, 近南湾如心酒店 ",
         "name_en": "Wong Chuk Hang Road, near Nina Hotel Island South"
       },
       {
-        "stop_seq": 10,
+        "stop_seq": 11,
         "stop_id": 20002495,
         "name_tc": "香港仔隧道收費廣場",
         "name_sc": "香港仔隧道收费广场",
         "name_en": "Aberdeen Tunnel Toll Plaza"
       },
       {
-        "stop_seq": 11,
+        "stop_seq": 12,
         "stop_id": 20012255,
         "name_tc": "摩理臣山道 84 號",
         "name_sc": "摩理臣山道 84 号",
         "name_en": "No. 84 Morrison Hill Road"
       },
       {
-        "stop_seq": 12,
+        "stop_seq": 13,
         "stop_id": 20012258,
         "name_tc": "禮頓道，近禮頓中心",
         "name_sc": "礼顿道，近礼顿中心 ",
         "name_en": "Leighton Road, near Leighton Centre"
       },
       {
-        "stop_seq": 13,
+        "stop_seq": 14,
         "stop_id": 20003084,
         "name_tc": "禮頓道，近新會道",
         "name_sc": "礼顿道，近新会道 ",
         "name_en": "Leighton Road, near Sun Wui Road"
       },
       {
-        "stop_seq": 14,
+        "stop_seq": 15,
         "stop_id": 20012956,
         "name_tc": "渣甸街, 近燈籠洲街市",
         "name_sc": "渣甸街, 近灯笼洲街市 ",
         "name_en": "Jardine's Bazaar, near Tang Lung Chau Market"
       }
     ],
-    "data_timestamp": "2024-11-15T17:33:04.794+08:00"
+    "data_timestamp": "2024-12-02T10:04:52.803+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:26:46.785+08:00",
+  "generated_timestamp": "2024-12-08T22:23:45.646+08:00",
   "data": {
     "route_stops": [
       {
@@ -75,6 +75,6 @@
         "name_en": "Siu Hing Lane, outside Pok Oi Hospital Tuen Mun Nursing Home"
       }
     ],
-    "data_timestamp": "2024-09-16T13:54:09.320+08:00"
+    "data_timestamp": "2024-11-21T15:33:19.427+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:26:16.427+08:00",
+  "generated_timestamp": "2024-12-08T22:23:12.419+08:00",
   "data": {
     "route_stops": [
       {
@@ -159,6 +159,6 @@
         "name_en": "Tung Tsz Road, outside Tung Tsz Scout Centre"
       }
     ],
-    "data_timestamp": "2024-07-31T16:28:25.193+08:00"
+    "data_timestamp": "2024-11-21T16:43:28.641+08:00"
   }
 }

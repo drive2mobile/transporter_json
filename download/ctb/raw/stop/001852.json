@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-11-16T19:48:33+08:00",
+  "generated_timestamp": "2024-12-08T18:51:29+08:00",
   "data": {
     "stop": "001852",
     "name_tc": "DHL 中亞區樞紐中心, 南環路",
@@ -9,6 +9,6 @@
     "lat": "22.295218092091",
     "long": "113.91729784053",
     "name_sc": "DHL 中亚区枢纽中心, 南环路",
-    "data_timestamp": "2024-11-16T05:00:03+08:00"
+    "data_timestamp": "2024-12-08T05:00:03+08:00"
   }
 }

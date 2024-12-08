@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-11-16T19:41:40+08:00",
+  "generated_timestamp": "2024-12-08T18:41:17+08:00",
   "data": {
     "stop": "002389",
     "name_tc": "深灣",
@@ -9,6 +9,6 @@
     "lat": "22.243326112091",
     "long": "114.16413796053",
     "name_sc": "深湾",
-    "data_timestamp": "2024-11-16T05:00:03+08:00"
+    "data_timestamp": "2024-12-08T05:00:03+08:00"
   }
 }

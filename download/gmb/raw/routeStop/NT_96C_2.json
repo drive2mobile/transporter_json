@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:28:08.615+08:00",
+  "generated_timestamp": "2024-12-08T22:25:12.234+08:00",
   "data": {
     "route_stops": [
       {
@@ -40,6 +40,6 @@
         "name_en": "Tsuen Wan Station"
       }
     ],
-    "data_timestamp": "2022-10-27T00:05:39.899+08:00"
+    "data_timestamp": "2024-11-21T18:08:19.910+08:00"
   }
 }

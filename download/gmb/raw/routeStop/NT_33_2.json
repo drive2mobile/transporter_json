@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:26:31.213+08:00",
+  "generated_timestamp": "2024-12-08T22:23:32.417+08:00",
   "data": {
     "route_stops": [
       {
@@ -96,6 +96,6 @@
         "name_en": "Tai Fung Street, near Tsui Wah House"
       }
     ],
-    "data_timestamp": "2024-11-13T14:31:25.287+08:00"
+    "data_timestamp": "2024-11-21T17:37:27.511+08:00"
   }
 }

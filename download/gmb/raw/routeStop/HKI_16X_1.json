@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:24:27.989+08:00",
+  "generated_timestamp": "2024-12-08T22:21:14.768+08:00",
   "data": {
     "route_stops": [
       {
@@ -63,9 +63,9 @@
       {
         "stop_seq": 9,
         "stop_id": 20002413,
-        "name_tc": "赤柱及石澳,大潭道, 曼克頓花園外",
-        "name_sc": "赤柱及石澳,大潭道, 曼克顿花园外",
-        "name_en": "Tai Tam Road, outside The Manhattan"
+        "name_tc": "大潭道, 美國會外",
+        "name_sc": "大潭道, 美国会外",
+        "name_en": "Tai Tam Road, outside The American Club"
       },
       {
         "stop_seq": 10,
@@ -75,6 +75,6 @@
         "name_en": "Stanley Beach Road, outside Tai Tam Village"
       }
     ],
-    "data_timestamp": "2024-10-23T14:47:59.500+08:00"
+    "data_timestamp": "2024-11-19T13:47:06.533+08:00"
   }
 }

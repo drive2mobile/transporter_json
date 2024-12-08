@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:26:18.330+08:00",
+  "generated_timestamp": "2024-12-08T22:23:14.758+08:00",
   "data": {
     "route_stops": [
       {
@@ -47,6 +47,6 @@
         "name_en": "Fung Yuen"
       }
     ],
-    "data_timestamp": "2024-08-09T09:43:11.362+08:00"
+    "data_timestamp": "2024-11-22T17:33:30.980+08:00"
   }
 }

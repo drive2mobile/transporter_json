@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:26:24.073+08:00",
+  "generated_timestamp": "2024-12-08T22:23:21.063+08:00",
   "data": {
     "route_stops": [
       {
@@ -103,6 +103,6 @@
         "name_en": "The Education University of Hong Kong Minibus Terminus"
       }
     ],
-    "data_timestamp": "2024-08-07T13:55:12.867+08:00"
+    "data_timestamp": "2024-11-28T11:40:41.572+08:00"
   }
 }

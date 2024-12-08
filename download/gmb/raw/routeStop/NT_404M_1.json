@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:26:38.491+08:00",
+  "generated_timestamp": "2024-12-08T22:23:39.115+08:00",
   "data": {
     "route_stops": [
       {
@@ -13,38 +13,38 @@
       },
       {
         "stop_seq": 2,
-        "stop_id": 20001815,
-        "name_tc": "葵福路, 葵涌運動場對面",
-        "name_sc": "葵福路, 葵涌运动场对面",
-        "name_en": "Kwai Fuk Road, opposite Kwai Chung Sport Ground"
-      },
-      {
-        "stop_seq": 3,
         "stop_id": 20001816,
         "name_tc": "葵福路, 葵盛泳池對面",
         "name_sc": "葵福路, 葵盛泳池对面",
-        "name_en": "Kwai Fuk Road, opposite Kwai Shing swimming pool"
+        "name_en": "Kwai Fuk Road, opposite Kwai Shing Swimming Pool"
       },
       {
-        "stop_seq": 4,
+        "stop_seq": 3,
         "stop_id": 20001696,
         "name_tc": "葵福路, 晉昇工廠大廈外",
         "name_sc": "葵福路, 晋昇工厂大厦外",
         "name_en": "Kwai Fuk Road, outside Chun Shing Factory Estate"
       },
       {
-        "stop_seq": 5,
+        "stop_seq": 4,
         "stop_id": 20009117,
         "name_tc": "永基路, 嘉里（荃灣）貨倉對面",
         "name_sc": "永基路, 嘉里（荃湾）货倉对面",
         "name_en": "Wing Kei Road, opposite Kerry Warehouse (Tsuen Wan)"
       },
       {
-        "stop_seq": 6,
+        "stop_seq": 5,
         "stop_id": 20004208,
         "name_tc": "永基路, 好爸爸創科大廈外 ",
         "name_sc": "永基路, 好爸爸创科大厦外",
         "name_en": "Wing Kei Road, outside Good Ba Ba Hitech Building"
+      },
+      {
+        "stop_seq": 6,
+        "stop_id": 20020755,
+        "name_tc": "永基路, 合和建材中心外",
+        "name_sc": "永基路, 合和建材中心外",
+        "name_en": "Wing Kei Road, outside Hopewell Logistics Centre"
       },
       {
         "stop_seq": 7,
@@ -76,31 +76,31 @@
       },
       {
         "stop_seq": 11,
+        "stop_id": 20020758,
+        "name_tc": "永基路, 嘉里溫控貨倉2外",
+        "name_sc": "永基路, 嘉里温控货仓2外",
+        "name_en": "Wing Kei Road, outside Kerry TC Warehouse 2"
+      },
+      {
+        "stop_seq": 12,
         "stop_id": 20009119,
         "name_tc": "永基路, 嘉里（荃灣）貨倉外",
         "name_sc": "永基路, 嘉里（荃湾）货倉外",
         "name_en": "Wing Kei Road, outside Kerry Warehouse (Tsuen Wan)"
       },
       {
-        "stop_seq": 12,
+        "stop_seq": 13,
         "stop_id": 20001690,
         "name_tc": "葵福路, 晉昇工廠大廈對面",
         "name_sc": "葵福路, 晋昇工厂大厦对面",
         "name_en": "Kwai Fuk Road, opposite Chun Shing Factory Estate"
       },
       {
-        "stop_seq": 13,
+        "stop_seq": 14,
         "stop_id": 20001817,
         "name_tc": "葵福路, 葵盛游泳池外",
         "name_sc": "葵福路, 葵盛游泳池外",
         "name_en": "Kwai Fuk Road, outside Kwai Shing Swimming Pool"
-      },
-      {
-        "stop_seq": 14,
-        "stop_id": 20001818,
-        "name_tc": "葵福路, 葵涌運動場外",
-        "name_sc": "葵福路, 葵涌运动场外",
-        "name_en": "Kwai Fuk Road, outside Kwai Chung Sports Ground"
       },
       {
         "stop_seq": 15,
@@ -117,6 +117,6 @@
         "name_en": "Hing Ning Road, outside Metroplaza (Kwai Fong Station) "
       }
     ],
-    "data_timestamp": "2024-11-05T17:32:49.866+08:00"
+    "data_timestamp": "2024-12-04T12:46:10.349+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:27:00.994+08:00",
+  "generated_timestamp": "2024-12-08T22:24:00.521+08:00",
   "data": {
     "route_stops": [
       {
@@ -41,19 +41,26 @@
       },
       {
         "stop_seq": 6,
+        "stop_id": 20020722,
+        "name_tc": "彩園路,近彩蒲苑彩碧閣",
+        "name_sc": "彩园路,近彩蒲苑彩碧阁",
+        "name_en": "Choi Yuen Road near Choi Pik House"
+      },
+      {
+        "stop_seq": 7,
         "stop_id": 20007525,
         "name_tc": "新豐路,近石湖墟郵政局",
         "name_sc": "新丰路,近石湖墟邮政局",
         "name_en": "SAN FUNG AVENUE, near Shek Wu Hui Post Office"
       },
       {
-        "stop_seq": 7,
+        "stop_seq": 8,
         "stop_id": 20001384,
         "name_tc": "上水站小巴總站",
         "name_sc": "上水站小巴总站",
         "name_en": "Sheung Shui Station Public Light Bus Terminus"
       }
     ],
-    "data_timestamp": "2024-10-29T22:27:56.717+08:00"
+    "data_timestamp": "2024-12-03T10:53:14.210+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-11-16T19:41:08+08:00",
+  "generated_timestamp": "2024-12-08T18:44:51+08:00",
   "data": {
     "stop": "002055",
     "name_tc": "富亨邨",
@@ -9,6 +9,6 @@
     "lat": "22.458268022091",
     "long": "114.17187207053",
     "name_sc": "富亨邨",
-    "data_timestamp": "2024-11-16T05:00:03+08:00"
+    "data_timestamp": "2024-12-08T05:00:03+08:00"
   }
 }

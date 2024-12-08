@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:26:20.553+08:00",
+  "generated_timestamp": "2024-12-08T22:23:17.435+08:00",
   "data": {
     "route_stops": [
       {
@@ -40,6 +40,6 @@
         "name_en": "Nam Shing Street GMB Stop"
       }
     ],
-    "data_timestamp": "2024-07-31T16:28:25.126+08:00"
+    "data_timestamp": "2024-11-24T00:00:16.979+08:00"
   }
 }

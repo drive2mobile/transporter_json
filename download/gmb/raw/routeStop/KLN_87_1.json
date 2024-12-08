@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:25:52.434+08:00",
+  "generated_timestamp": "2024-12-08T22:22:45.490+08:00",
   "data": {
     "route_stops": [
       {
@@ -278,6 +278,6 @@
         "name_en": "Lei Yue Mun Estate Public Transport Interchange"
       }
     ],
-    "data_timestamp": "2024-11-13T18:30:25.994+08:00"
+    "data_timestamp": "2024-12-06T10:15:17.245+08:00"
   }
 }

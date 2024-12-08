@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:27:45.692+08:00",
+  "generated_timestamp": "2024-12-08T22:24:48.735+08:00",
   "data": {
     "route_stops": [
       {
@@ -133,9 +133,9 @@
       {
         "stop_seq": 19,
         "stop_id": 20002320,
-        "name_tc": "西沙路近錦鞍苑的巴士停車灣",
-        "name_sc": "西沙路近锦鞍苑的巴士停车湾",
-        "name_en": "Sai Sha Road bus lay-by near Kam On Court"
+        "name_tc": "西沙路, 錦鞍苑外",
+        "name_sc": "西沙路, 锦鞍苑外",
+        "name_en": "Sai Sha Road, outside Kam On Court"
       },
       {
         "stop_seq": 20,
@@ -187,6 +187,6 @@
         "name_en": "Sui Wo Court Bus Terminus"
       }
     ],
-    "data_timestamp": "2024-08-20T17:28:58.177+08:00"
+    "data_timestamp": "2024-11-28T11:41:10.415+08:00"
   }
 }

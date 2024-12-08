@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:24:27.468+08:00",
+  "generated_timestamp": "2024-12-08T22:21:14.166+08:00",
   "data": {
     "route_stops": [
       {
@@ -51,7 +51,7 @@
         "stop_id": 20003438,
         "name_tc": "大潭道, 近大潭水塘道",
         "name_sc": "大潭道, 近大潭水塘道",
-        "name_en": "Tai Tam Road, near \\Tai Tam Reservoir Road"
+        "name_en": "Tai Tam Road, near Tai Tam Reservoir Road"
       },
       {
         "stop_seq": 8,
@@ -63,9 +63,9 @@
       {
         "stop_seq": 9,
         "stop_id": 20002413,
-        "name_tc": "大潭道",
-        "name_sc": "大潭道",
-        "name_en": "Tai Tam Road"
+        "name_tc": "大潭道, 美國會外",
+        "name_sc": "大潭道, 美国会外",
+        "name_en": "Tai Tam Road, outside The American Club"
       },
       {
         "stop_seq": 10,
@@ -98,11 +98,11 @@
       {
         "stop_seq": 14,
         "stop_id": 20000101,
-        "name_tc": "舂磡角道, 海暉花園外",
-        "name_sc": "舂磡角道, 海晖花园外",
-        "name_en": "Chung Hom Kok Road, outside Pacific View"
+        "name_tc": "舂磡角道, 南埼外",
+        "name_sc": "舂磡角道, 南埼外",
+        "name_en": "Chung Hom Kok Road, outside Scape"
       }
     ],
-    "data_timestamp": "2024-10-23T14:47:59.500+08:00"
+    "data_timestamp": "2024-11-19T13:47:06.533+08:00"
   }
 }

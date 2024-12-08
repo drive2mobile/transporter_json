@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:24:55.747+08:00",
+  "generated_timestamp": "2024-12-08T22:21:44.252+08:00",
   "data": {
     "route_stops": [
       {
@@ -58,7 +58,7 @@
         "stop_id": 20000332,
         "name_tc": "域多利道, 英基學校協會西島中學外",
         "name_sc": "域多利道, 英基学校协会西岛中学外",
-        "name_en": "Victoria Road, outside English School Foundation West Island School"
+        "name_en": "Victoria Road, outside English Schools Foundation West Island School"
       },
       {
         "stop_seq": 9,
@@ -75,6 +75,6 @@
         "name_en": "Kennedy Town Station"
       }
     ],
-    "data_timestamp": "2024-11-15T17:08:56.985+08:00"
+    "data_timestamp": "2024-12-06T12:06:46.684+08:00"
   }
 }

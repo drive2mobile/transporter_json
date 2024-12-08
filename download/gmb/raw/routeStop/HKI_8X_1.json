@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:25:03.898+08:00",
+  "generated_timestamp": "2024-12-08T22:21:52.695+08:00",
   "data": {
     "route_stops": [
       {
@@ -26,6 +26,6 @@
         "name_en": "Central (Exchange Square)"
       }
     ],
-    "data_timestamp": "2024-10-25T15:00:51.801+08:00"
+    "data_timestamp": "2024-11-18T10:23:31.259+08:00"
   }
 }

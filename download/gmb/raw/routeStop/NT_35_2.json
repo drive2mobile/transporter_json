@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:26:32.160+08:00",
+  "generated_timestamp": "2024-12-08T22:23:33.471+08:00",
   "data": {
     "route_stops": [
       {
@@ -28,8 +28,8 @@
       {
         "stop_seq": 4,
         "stop_id": 20001272,
-        "name_tc": "屏廈路,近上章圍一號及二號雨水泵房",
-        "name_sc": "屏厦路,近上章围一号及二号雨水泵房",
+        "name_tc": "屏廈路, 近上章圍一號及二號雨水泵房",
+        "name_sc": "屏厦路, 近上章围一号及二号雨水泵房",
         "name_en": "Ping Ha Road, near Sheung Cheung Wai No.1 and No.2 Stormwater Pumping Station"
       },
       {
@@ -68,6 +68,6 @@
         "name_en": "Tai fung Street, Near Tung Sing Building"
       }
     ],
-    "data_timestamp": "2024-11-13T14:31:25.336+08:00"
+    "data_timestamp": "2024-11-21T17:37:27.511+08:00"
   }
 }

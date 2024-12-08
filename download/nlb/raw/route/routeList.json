@@ -46,20 +46,20 @@
       "specialRoute": 0
     },
     {
-      "routeId": "6",
-      "routeNo": "3M",
-      "routeName_c": "東涌站巴士總站 > 梅窩碼頭",
-      "routeName_s": "东涌站巴士总站 > 梅窝码头",
-      "routeName_e": "Tung Chung Station Bus Terminus > Mui Wo Ferry Pier",
-      "overnightRoute": 0,
-      "specialRoute": 0
-    },
-    {
       "routeId": "8",
       "routeNo": "3M",
       "routeName_c": "梅窩 (貝澳開) > 東涌站巴士總站",
       "routeName_s": "梅窝 (贝澳开) > 东涌站巴士总站",
       "routeName_e": "Mui Wo (from Pui O) > Tung Chung Station Bus Terminus",
+      "overnightRoute": 0,
+      "specialRoute": 0
+    },
+    {
+      "routeId": "6",
+      "routeNo": "3M",
+      "routeName_c": "東涌站巴士總站 > 梅窩碼頭",
+      "routeName_s": "东涌站巴士总站 > 梅窝码头",
+      "routeName_e": "Tung Chung Station Bus Terminus > Mui Wo Ferry Pier",
       "overnightRoute": 0,
       "specialRoute": 0
     },
@@ -73,11 +73,11 @@
       "specialRoute": 0
     },
     {
-      "routeId": "9",
+      "routeId": "12",
       "routeNo": "4",
-      "routeName_c": "梅窩碼頭  > 塘福",
-      "routeName_s": "梅窝码头  > 塘福",
-      "routeName_e": "Mui Wo Ferry Pier > Tong Fuk",
+      "routeName_c": "梅窩碼頭  > 塘福 (至水口)",
+      "routeName_s": "梅窝码头  > 塘福 (至水口)",
+      "routeName_e": "Mui Wo Ferry Pier > Tong Fuk (to Shui Hau)",
       "overnightRoute": 0,
       "specialRoute": 0
     },
@@ -91,20 +91,20 @@
       "specialRoute": 0
     },
     {
-      "routeId": "12",
-      "routeNo": "4",
-      "routeName_c": "梅窩碼頭  > 塘福 (至水口)",
-      "routeName_s": "梅窝码头  > 塘福 (至水口)",
-      "routeName_e": "Mui Wo Ferry Pier > Tong Fuk (to Shui Hau)",
-      "overnightRoute": 0,
-      "specialRoute": 0
-    },
-    {
       "routeId": "11",
       "routeNo": "4",
       "routeName_c": "塘福 (水口開) > 梅窩碼頭",
       "routeName_s": "塘福 (水口开) > 梅窝码头",
       "routeName_e": "Tong Fuk (from Shui Hau) > Mui Wo Ferry Pier",
+      "overnightRoute": 0,
+      "specialRoute": 0
+    },
+    {
+      "routeId": "9",
+      "routeNo": "4",
+      "routeName_c": "梅窩碼頭  > 塘福",
+      "routeName_s": "梅窝码头  > 塘福",
+      "routeName_e": "Mui Wo Ferry Pier > Tong Fuk",
       "overnightRoute": 0,
       "specialRoute": 0
     },
@@ -136,20 +136,20 @@
       "specialRoute": 0
     },
     {
-      "routeId": "17",
-      "routeNo": "11",
-      "routeName_c": "大澳 (沙咀開) > 東涌站巴士總站",
-      "routeName_s": "大澳 (沙咀开) > 东涌站巴士总站",
-      "routeName_e": "Tai O (from Sha Tsui) > Tung Chung Station Bus Terminus",
-      "overnightRoute": 0,
-      "specialRoute": 0
-    },
-    {
       "routeId": "13",
       "routeNo": "11",
       "routeName_c": "東涌站巴士總站 > 大澳",
       "routeName_s": "东涌站巴士总站 > 大澳",
       "routeName_e": "Tung Chung Station Bus Terminus > Tai O",
+      "overnightRoute": 0,
+      "specialRoute": 0
+    },
+    {
+      "routeId": "17",
+      "routeNo": "11",
+      "routeName_c": "大澳 (沙咀開) > 東涌站巴士總站",
+      "routeName_s": "大澳 (沙咀开) > 东涌站巴士总站",
+      "routeName_e": "Tai O (from Sha Tsui) > Tung Chung Station Bus Terminus",
       "overnightRoute": 0,
       "specialRoute": 0
     },
@@ -163,20 +163,20 @@
       "specialRoute": 0
     },
     {
-      "routeId": "15",
-      "routeNo": "11A",
-      "routeName_c": "東涌站巴士總站 > 石壁",
-      "routeName_s": "东涌站巴士总站 > 石壁",
-      "routeName_e": "Tung Chung Station Bus Terminus > Shek Pik",
-      "overnightRoute": 0,
-      "specialRoute": 0
-    },
-    {
       "routeId": "16",
       "routeNo": "11A",
       "routeName_c": "石壁 > 東涌站巴士總站",
       "routeName_s": "石壁 > 东涌站巴士总站",
       "routeName_e": "Shek Pik > Tung Chung Station Bus Terminus",
+      "overnightRoute": 0,
+      "specialRoute": 0
+    },
+    {
+      "routeId": "15",
+      "routeNo": "11A",
+      "routeName_c": "東涌站巴士總站 > 石壁",
+      "routeName_s": "东涌站巴士总站 > 石壁",
+      "routeName_e": "Tung Chung Station Bus Terminus > Shek Pik",
       "overnightRoute": 0,
       "specialRoute": 0
     },
@@ -244,20 +244,20 @@
       "specialRoute": 1
     },
     {
-      "routeId": "101",
-      "routeNo": "36",
-      "routeName_c": "東涌達東路巴士總站 > 迪士尼樂園",
-      "routeName_s": "东涌达东路巴士总站 > 迪士尼乐园",
-      "routeName_e": "Tung Chung Tat Tung Road Bus Terminus > Disneyland",
-      "overnightRoute": 0,
-      "specialRoute": 0
-    },
-    {
       "routeId": "102",
       "routeNo": "36",
       "routeName_c": "迪士尼樂園 > 東涌達東路巴士總站",
       "routeName_s": "迪士尼乐园 > 东涌达东路巴士总站",
       "routeName_e": "Disneyland > Tung Chung Tat Tung Road Bus Terminus",
+      "overnightRoute": 0,
+      "specialRoute": 0
+    },
+    {
+      "routeId": "101",
+      "routeNo": "36",
+      "routeName_c": "東涌達東路巴士總站 > 迪士尼樂園",
+      "routeName_s": "东涌达东路巴士总站 > 迪士尼乐园",
+      "routeName_e": "Tung Chung Tat Tung Road Bus Terminus > Disneyland",
       "overnightRoute": 0,
       "specialRoute": 0
     },
@@ -271,20 +271,20 @@
       "specialRoute": 0
     },
     {
-      "routeId": "78",
-      "routeNo": "37",
-      "routeName_c": "逸東邨 > 迎東邨",
-      "routeName_s": "逸东邨 > 迎东邨",
-      "routeName_e": "Yat Tung Estate > Ying Tung Estate",
-      "overnightRoute": 0,
-      "specialRoute": 0
-    },
-    {
       "routeId": "80",
       "routeNo": "37",
       "routeName_c": "迎東邨 > 逸東邨",
       "routeName_s": "迎东邨 > 逸东邨",
       "routeName_e": "Ying Tung Estate > Yat Tung Estate",
+      "overnightRoute": 0,
+      "specialRoute": 0
+    },
+    {
+      "routeId": "78",
+      "routeNo": "37",
+      "routeName_c": "逸東邨 > 迎東邨",
+      "routeName_s": "逸东邨 > 迎东邨",
+      "routeName_e": "Yat Tung Estate > Ying Tung Estate",
       "overnightRoute": 0,
       "specialRoute": 0
     },
@@ -397,20 +397,20 @@
       "specialRoute": 0
     },
     {
-      "routeId": "34",
-      "routeNo": "B2P",
-      "routeName_c": "深圳灣口岸 > 天水圍 (天慈邨)",
-      "routeName_s": "深圳湾口岸 > 天水围 (天慈邨)",
-      "routeName_e": "Shenzhen Bay Port > Tin Shui Wai (Tin Tsz Estate)",
-      "overnightRoute": 0,
-      "specialRoute": 0
-    },
-    {
       "routeId": "33",
       "routeNo": "B2P",
       "routeName_c": "天水圍 (天慈邨) > 深圳灣口岸",
       "routeName_s": "天水围 (天慈邨) > 深圳湾口岸",
       "routeName_e": "Tin Shui Wai (Tin Tsz Estate) > Shenzhen Bay Port",
+      "overnightRoute": 0,
+      "specialRoute": 0
+    },
+    {
+      "routeId": "34",
+      "routeNo": "B2P",
+      "routeName_c": "深圳灣口岸 > 天水圍 (天慈邨)",
+      "routeName_s": "深圳湾口岸 > 天水围 (天慈邨)",
+      "routeName_e": "Shenzhen Bay Port > Tin Shui Wai (Tin Tsz Estate)",
       "overnightRoute": 0,
       "specialRoute": 0
     },
@@ -442,6 +442,15 @@
       "specialRoute": 0
     },
     {
+      "routeId": "89",
+      "routeNo": "B6",
+      "routeName_c": "滿東邨 > 大橋香港口岸",
+      "routeName_s": "满东邨 > 大桥香港口岸",
+      "routeName_e": "Mun Tung Estate > HZMB Hong Kong Port",
+      "overnightRoute": 0,
+      "specialRoute": 0
+    },
+    {
       "routeId": "88",
       "routeNo": "B6",
       "routeName_c": "大橋香港口岸 > 滿東邨",
@@ -451,13 +460,13 @@
       "specialRoute": 0
     },
     {
-      "routeId": "89",
-      "routeNo": "B6",
+      "routeId": "111",
+      "routeNo": "B6S",
       "routeName_c": "滿東邨 > 大橋香港口岸",
       "routeName_s": "满东邨 > 大桥香港口岸",
       "routeName_e": "Mun Tung Estate > HZMB Hong Kong Port",
       "overnightRoute": 0,
-      "specialRoute": 0
+      "specialRoute": 1
     },
     {
       "routeId": "40",
@@ -496,20 +505,20 @@
       "specialRoute": 0
     },
     {
-      "routeId": "44",
-      "routeNo": "N38",
-      "routeName_c": "逸東邨 > 東涌站巴士總站",
-      "routeName_s": "逸东邨 > 东涌站巴士总站",
-      "routeName_e": "Yat Tung Estate > Tung Chung Station Bus Terminus",
-      "overnightRoute": 1,
-      "specialRoute": 0
-    },
-    {
       "routeId": "45",
       "routeNo": "N38",
       "routeName_c": "東涌站巴士總站 > 逸東邨",
       "routeName_s": "东涌站巴士总站 > 逸东邨",
       "routeName_e": "Tung Chung Station Bus Terminus  > Yat Tung Estate",
+      "overnightRoute": 1,
+      "specialRoute": 0
+    },
+    {
+      "routeId": "44",
+      "routeNo": "N38",
+      "routeName_c": "逸東邨 > 東涌站巴士總站",
+      "routeName_s": "逸东邨 > 东涌站巴士总站",
+      "routeName_e": "Yat Tung Estate > Tung Chung Station Bus Terminus",
       "overnightRoute": 1,
       "specialRoute": 0
     },

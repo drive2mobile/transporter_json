@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:26:06.821+08:00",
+  "generated_timestamp": "2024-12-08T22:23:01.499+08:00",
   "data": {
     "route_stops": [
       {
@@ -89,6 +89,6 @@
         "name_en": "Tseung Kwan O MTR Station Minibus Terminus"
       }
     ],
-    "data_timestamp": "2022-06-23T16:38:14.266+08:00"
+    "data_timestamp": "2024-11-21T12:10:46.941+08:00"
   }
 }

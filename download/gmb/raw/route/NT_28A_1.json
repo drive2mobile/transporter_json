@@ -1,0 +1,11 @@
+{
+  "id": "NT_28A_1",
+  "route_id": 2010401,
+  "region": "NT",
+  "route": "28A",
+  "route_seq": 1,
+  "from_tc": "大埔墟站",
+  "from_en": "Tai Po Market Station",
+  "to_tc": "優景里",
+  "to_en": "Yau King Lane"
+}

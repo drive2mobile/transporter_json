@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-11-16T19:36:52+08:00",
+  "generated_timestamp": "2024-12-08T18:37:04+08:00",
   "data": {
     "stop": "001207",
     "name_tc": "筲箕灣",
@@ -9,6 +9,6 @@
     "lat": "22.278421122091",
     "long": "114.22833128053",
     "name_sc": "筲箕湾",
-    "data_timestamp": "2024-11-16T05:00:03+08:00"
+    "data_timestamp": "2024-12-08T05:00:03+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-11-16T19:41:16+08:00",
+  "generated_timestamp": "2024-12-08T18:44:59+08:00",
   "data": {
     "stop": "001138",
     "name_tc": "金鐘站 - D 出口",
@@ -9,6 +9,6 @@
     "lat": "22.278641252091",
     "long": "114.16563501053",
     "name_sc": "金钟站 - D 出口",
-    "data_timestamp": "2024-11-16T05:00:03+08:00"
+    "data_timestamp": "2024-12-08T05:00:03+08:00"
   }
 }

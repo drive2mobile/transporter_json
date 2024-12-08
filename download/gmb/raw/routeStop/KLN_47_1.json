@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:25:34.279+08:00",
+  "generated_timestamp": "2024-12-08T22:22:24.124+08:00",
   "data": {
     "route_stops": [
       {
@@ -59,43 +59,8 @@
         "name_tc": "翠屏 (福塘道)",
         "name_sc": "翠屏 (福塘道)",
         "name_en": "Tsui Ping (Fuk Tong Road)"
-      },
-      {
-        "stop_seq": 9,
-        "stop_id": 20015153,
-        "name_tc": "翠屏道, 近翠屏(北)邨翠樟楼",
-        "name_sc": "翠屏道, 近翠屏(北)村翠樟楼",
-        "name_en": "Tsui Ping Road, near Tsui Cheung House, Tsui Ping (North) Estate"
-      },
-      {
-        "stop_seq": 10,
-        "stop_id": 20015154,
-        "name_tc": "翠屏道, 近翠屏(北)邨翠楠樓",
-        "name_sc": "翠屏道, 近翠屏(北)村翠楠楼",
-        "name_en": "Tsui Ping Road, near Tsui Nam House, Tsui Ping (North) Estate"
-      },
-      {
-        "stop_seq": 11,
-        "stop_id": 20015155,
-        "name_tc": "協和街, 近協威園Ａ座",
-        "name_sc": "协和街, 近协威园Ａ座",
-        "name_en": "Hip Wo Street, near Hipway Towers Block A"
-      },
-      {
-        "stop_seq": 12,
-        "stop_id": 20012436,
-        "name_tc": "順安道, 秀茂坪食水抽水站對面",
-        "name_sc": "顺安道, 秀茂坪食水抽水站对面",
-        "name_en": "Shun On Road, opposite Sau Mau Ping Fresh Water Pumping Station"
-      },
-      {
-        "stop_seq": 13,
-        "stop_id": 20015145,
-        "name_tc": "利安道, 近順利邨利明樓",
-        "name_sc": "利安道, 近顺利村利明楼",
-        "name_en": "Lee On Road, near Lee Ming House, Shun Lee Estate"
       }
     ],
-    "data_timestamp": "2024-11-13T15:05:22.088+08:00"
+    "data_timestamp": "2024-11-20T10:31:10.946+08:00"
   }
 }

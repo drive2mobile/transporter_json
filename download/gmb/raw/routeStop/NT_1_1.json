@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:25:56.808+08:00",
+  "generated_timestamp": "2024-12-08T22:22:50.058+08:00",
   "data": {
     "route_stops": [
       {
@@ -61,6 +61,6 @@
         "name_en": "Telford Plaza Phase IL, Ground Floor"
       }
     ],
-    "data_timestamp": "2024-11-15T18:15:35.643+08:00"
+    "data_timestamp": "2024-11-18T10:56:34.187+08:00"
   }
 }

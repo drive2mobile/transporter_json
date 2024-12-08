@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:26:57.615+08:00",
+  "generated_timestamp": "2024-12-08T22:23:57.083+08:00",
   "data": {
     "route_stops": [
       {
@@ -173,6 +173,6 @@
         "name_en": "Tai Po Nethersole Hospital"
       }
     ],
-    "data_timestamp": "2024-10-25T15:15:07.022+08:00"
+    "data_timestamp": "2024-11-22T17:33:31.409+08:00"
   }
 }

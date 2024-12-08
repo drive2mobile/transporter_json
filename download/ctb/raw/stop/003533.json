@@ -1,14 +1,14 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-11-16T19:41:58+08:00",
+  "generated_timestamp": "2024-12-08T18:45:24+08:00",
   "data": {
     "stop": "003533",
-    "name_tc": "雅翔道",
-    "name_en": "Nga Cheung Road",
+    "name_tc": "環球貿易廣場, 雅翔道",
+    "name_en": "International Commerce Centre, Nga Cheung Road",
     "lat": "22.303575762091",
     "long": "114.15977876053",
-    "name_sc": "雅翔道",
-    "data_timestamp": "2024-11-16T05:00:03+08:00"
+    "name_sc": "环球贸易广场, 雅翔道",
+    "data_timestamp": "2024-12-08T05:00:03+08:00"
   }
 }

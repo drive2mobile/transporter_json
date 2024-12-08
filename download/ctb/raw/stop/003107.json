@@ -1,14 +1,14 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-11-16T19:43:45+08:00",
+  "generated_timestamp": "2024-12-08T18:46:56+08:00",
   "data": {
     "stop": "003107",
     "name_tc": "頌安邨",
     "name_en": "Chung On Estate",
-    "lat": "22.422399722091",
-    "long": "114.22673256053",
+    "lat": "22.422379922091",
+    "long": "114.22666831053",
     "name_sc": "颂安邨",
-    "data_timestamp": "2024-11-16T05:00:03+08:00"
+    "data_timestamp": "2024-12-08T05:00:03+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:24:47.658+08:00",
+  "generated_timestamp": "2024-12-08T22:21:35.564+08:00",
   "data": {
     "route_stops": [
       {
@@ -89,6 +89,6 @@
         "name_en": "Tin Hau Station Bus Terminus"
       }
     ],
-    "data_timestamp": "2024-10-31T10:02:01.947+08:00"
+    "data_timestamp": "2024-11-22T18:51:38.526+08:00"
   }
 }

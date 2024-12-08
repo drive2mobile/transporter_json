@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:27:51.855+08:00",
+  "generated_timestamp": "2024-12-08T22:24:54.904+08:00",
   "data": {
     "route_stops": [
       {
@@ -54,6 +54,6 @@
         "name_en": "SHING FONG STREET, near Hip Tak Building"
       }
     ],
-    "data_timestamp": "2024-11-05T17:33:10.092+08:00"
+    "data_timestamp": "2024-12-04T12:45:48.712+08:00"
   }
 }

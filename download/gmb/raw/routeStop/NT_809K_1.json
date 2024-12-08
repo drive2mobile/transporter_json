@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:27:42.156+08:00",
+  "generated_timestamp": "2024-12-08T22:24:44.838+08:00",
   "data": {
     "route_stops": [
       {
@@ -110,6 +110,6 @@
         "name_en": "Sha Tin Station (Pai Tau Street)"
       }
     ],
-    "data_timestamp": "2024-10-03T09:27:13.344+08:00"
+    "data_timestamp": "2024-12-01T00:00:36.916+08:00"
   }
 }

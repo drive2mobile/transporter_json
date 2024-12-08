@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-11-16T19:41:05+08:00",
+  "generated_timestamp": "2024-12-08T18:44:49+08:00",
   "data": {
     "stop": "002020",
     "name_tc": "安祥路",
@@ -9,6 +9,6 @@
     "lat": "22.451904962091",
     "long": "114.16729553053",
     "name_sc": "安祥路",
-    "data_timestamp": "2024-11-16T05:00:03+08:00"
+    "data_timestamp": "2024-12-08T05:00:03+08:00"
   }
 }

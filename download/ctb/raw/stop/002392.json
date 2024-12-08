@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-11-16T19:37:49+08:00",
+  "generated_timestamp": "2024-12-08T18:41:30+08:00",
   "data": {
     "stop": "002392",
     "name_tc": "數碼港",
@@ -9,6 +9,6 @@
     "lat": "22.261985192091",
     "long": "114.13067185053",
     "name_sc": "数码港",
-    "data_timestamp": "2024-11-16T05:00:03+08:00"
+    "data_timestamp": "2024-12-08T05:00:03+08:00"
   }
 }

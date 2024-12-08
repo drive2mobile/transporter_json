@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:27:51.348+08:00",
+  "generated_timestamp": "2024-12-08T22:24:54.418+08:00",
   "data": {
     "route_stops": [
       {
@@ -68,6 +68,6 @@
         "name_en": "Shek Lei (Lei Pui Street)"
       }
     ],
-    "data_timestamp": "2024-11-06T17:55:13.494+08:00"
+    "data_timestamp": "2024-11-21T18:24:25.807+08:00"
   }
 }

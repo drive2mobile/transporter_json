@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:25:02.778+08:00",
+  "generated_timestamp": "2024-12-08T22:21:51.422+08:00",
   "data": {
     "route_stops": [
       {
@@ -264,6 +264,6 @@
         "name_en": "Cyberport Public Transport Interchange"
       }
     ],
-    "data_timestamp": "2024-11-15T17:08:56.994+08:00"
+    "data_timestamp": "2024-12-06T12:06:46.625+08:00"
   }
 }

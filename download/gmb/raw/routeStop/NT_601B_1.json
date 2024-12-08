@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:27:10.020+08:00",
+  "generated_timestamp": "2024-12-08T22:24:09.854+08:00",
   "data": {
     "route_stops": [
       {
@@ -68,6 +68,6 @@
         "name_en": "Kam Tin (Pak Wai Tsuen) Minibus Terminus"
       }
     ],
-    "data_timestamp": "2024-03-31T00:00:42.283+08:00"
+    "data_timestamp": "2024-11-22T12:38:07.460+08:00"
   }
 }

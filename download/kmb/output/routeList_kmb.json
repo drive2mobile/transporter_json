@@ -2563,6 +2563,17 @@
     "serviceType": "1"
   },
   {
+    "id": "kmb_40P_O_2",
+    "company": "kmb",
+    "route": "40P",
+    "from_tc": "石蔭東邨",
+    "from_en": "SHEK YAM EAST ESTATE",
+    "to_tc": "觀塘碼頭",
+    "to_en": "KWUN TONG FERRY",
+    "dir": "I",
+    "serviceType": "2"
+  },
+  {
     "id": "kmb_40P_I_1",
     "company": "kmb",
     "route": "40P",
@@ -3267,6 +3278,28 @@
     "serviceType": "1"
   },
   {
+    "id": "kmb_49A_O_1",
+    "company": "kmb",
+    "route": "49A",
+    "from_tc": "青富苑",
+    "from_en": "CHING FU COURT",
+    "to_tc": "荃灣西站",
+    "to_en": "TSUEN WAN WEST STATION",
+    "dir": "I",
+    "serviceType": "1"
+  },
+  {
+    "id": "kmb_49A_I_1",
+    "company": "kmb",
+    "route": "49A",
+    "from_tc": "荃灣西站",
+    "from_en": "TSUEN WAN WEST STATION",
+    "to_tc": "青富苑",
+    "to_en": "CHING FU COURT",
+    "dir": "I",
+    "serviceType": "1"
+  },
+  {
     "id": "kmb_49M_O_1",
     "company": "kmb",
     "route": "49M",
@@ -3344,6 +3377,17 @@
     "serviceType": "1"
   },
   {
+    "id": "kmb_52P_O_1",
+    "company": "kmb",
+    "route": "52P",
+    "from_tc": "掃管笏",
+    "from_en": "SO KWUN WAT",
+    "to_tc": "旺角(柏景灣)",
+    "to_en": "MONG KOK (PARK AVENUE)",
+    "dir": "I",
+    "serviceType": "1"
+  },
+  {
     "id": "kmb_52S_O_1",
     "company": "kmb",
     "route": "52S",
@@ -3375,17 +3419,6 @@
     "to_en": "MONG KOK (PARK AVENUE)",
     "dir": "I",
     "serviceType": "1"
-  },
-  {
-    "id": "kmb_52X_O_2",
-    "company": "kmb",
-    "route": "52X",
-    "from_tc": "掃管笏",
-    "from_en": "SO KWUN WAT",
-    "to_tc": "旺角(柏景灣)",
-    "to_en": "MONG KOK (PARK AVENUE)",
-    "dir": "I",
-    "serviceType": "2"
   },
   {
     "id": "kmb_52X_I_1",
@@ -3756,7 +3789,7 @@
     "route": "61A",
     "from_tc": "屯門(友愛南)",
     "from_en": "TUEN MUN (YAU OI SOUTH)",
-    "to_tc": "屯門轉車站- 市區方向",
+    "to_tc": "屯門公路轉車站- 市區方向",
     "to_en": "TUEN MUN ROAD BBI - URBAN BOUND",
     "dir": "I",
     "serviceType": "1"
@@ -4590,8 +4623,8 @@
     "id": "kmb_72X_O_1",
     "company": "kmb",
     "route": "72X",
-    "from_tc": "大埔中心",
-    "from_en": "TAI PO CENTRAL",
+    "from_tc": "富蝶總站",
+    "from_en": "FU TIP BUS TERMINUS",
     "to_tc": "旺角(柏景灣)",
     "to_en": "MONG KOK (PARK AVENUE)",
     "dir": "I",
@@ -4603,8 +4636,8 @@
     "route": "72X",
     "from_tc": "旺角(柏景灣)",
     "from_en": "MONG KOK (PARK AVENUE)",
-    "to_tc": "大埔中心",
-    "to_en": "TAI PO CENTRAL",
+    "to_tc": "富蝶總站",
+    "to_en": "FU TIP BUS TERMINUS",
     "dir": "I",
     "serviceType": "1"
   },
@@ -4926,17 +4959,6 @@
     "to_en": "KWUN TONG FERRY",
     "dir": "I",
     "serviceType": "1"
-  },
-  {
-    "id": "kmb_74C_O_2",
-    "company": "kmb",
-    "route": "74C",
-    "from_tc": "九龍坑",
-    "from_en": "KAU LUNG HANG",
-    "to_tc": "觀塘碼頭",
-    "to_en": "KWUN TONG FERRY",
-    "dir": "I",
-    "serviceType": "2"
   },
   {
     "id": "kmb_74D_O_1",
@@ -6677,6 +6699,17 @@
     "serviceType": "2"
   },
   {
+    "id": "kmb_89P_O_3",
+    "company": "kmb",
+    "route": "89P",
+    "from_tc": "馬鞍山市中心",
+    "from_en": "MA ON SHAN TOWN CENTRE",
+    "to_tc": "藍田站",
+    "to_en": "LAM TIN STATION",
+    "dir": "I",
+    "serviceType": "3"
+  },
+  {
     "id": "kmb_89S_O_1",
     "company": "kmb",
     "route": "89S",
@@ -6840,6 +6873,17 @@
     "to_en": "PING SHEK / CHOI HUNG STATION",
     "dir": "I",
     "serviceType": "1"
+  },
+  {
+    "id": "kmb_91P_I_2",
+    "company": "kmb",
+    "route": "91P",
+    "from_tc": "香港科技大學(南)",
+    "from_en": "H.K.U.S.T. (SOUTH)",
+    "to_tc": "坪石 / 彩虹站",
+    "to_en": "PING SHEK / CHOI HUNG STATION",
+    "dir": "I",
+    "serviceType": "2"
   },
   {
     "id": "kmb_91S_O_1",
@@ -8699,6 +8743,17 @@
     "to_en": "TSUEN WAN WEST STATION",
     "dir": "I",
     "serviceType": "1"
+  },
+  {
+    "id": "kmb_234A_O_2",
+    "company": "kmb",
+    "route": "234A",
+    "from_tc": "青龍頭村",
+    "from_en": "TSING LUNG TAU TSUEN",
+    "to_tc": "荃灣西站",
+    "to_en": "TSUEN WAN WEST STATION",
+    "dir": "I",
+    "serviceType": "2"
   },
   {
     "id": "kmb_234A_I_1",
@@ -11220,17 +11275,6 @@
     "serviceType": "1"
   },
   {
-    "id": "kmb_279X_I_2",
-    "company": "kmb",
-    "route": "279X",
-    "from_tc": "青衣站",
-    "from_en": "TSING YI STATION",
-    "to_tc": "上水站",
-    "to_en": "SHEUNG SHUI STATION",
-    "dir": "I",
-    "serviceType": "2"
-  },
-  {
     "id": "kmb_280X_O_1",
     "company": "kmb",
     "route": "280X",
@@ -11746,6 +11790,17 @@
     "to_en": "MONG KOK",
     "dir": "I",
     "serviceType": "1"
+  },
+  {
+    "id": "kmb_291P_O_2",
+    "company": "kmb",
+    "route": "291P",
+    "from_tc": "香港科技大學(南)",
+    "from_en": "H.K.U.S.T. (SOUTH)",
+    "to_tc": "旺角",
+    "to_en": "MONG KOK",
+    "dir": "I",
+    "serviceType": "2"
   },
   {
     "id": "kmb_292P_O_1",
@@ -13552,6 +13607,17 @@
     "serviceType": "1"
   },
   {
+    "id": "kmb_960R_O_1",
+    "company": "kmb",
+    "route": "960R",
+    "from_tc": "洪水橋(洪元路)",
+    "from_en": "HUNG SHUI KIU (HUNG YUEN ROAD)",
+    "to_tc": "銅鑼灣(維多利亞公園)",
+    "to_en": "CAUSEWAY BAY (VICTORIA PARK)",
+    "dir": "I",
+    "serviceType": "1"
+  },
+  {
     "id": "kmb_960S_O_1",
     "company": "kmb",
     "route": "960S",
@@ -14366,6 +14432,17 @@
     "serviceType": "1"
   },
   {
+    "id": "kmb_A38_O_2",
+    "company": "kmb",
+    "route": "A38",
+    "from_tc": "荃灣(荃威花園)",
+    "from_en": "TSUEN WAN (ALLWAY GARDENS)",
+    "to_tc": "機場(地面運輸中心)",
+    "to_en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
+    "dir": "I",
+    "serviceType": "2"
+  },
+  {
     "id": "kmb_A38_I_1",
     "company": "kmb",
     "route": "A38",
@@ -14375,6 +14452,17 @@
     "to_en": "TSUEN WAN (ALLWAY GARDENS)",
     "dir": "I",
     "serviceType": "1"
+  },
+  {
+    "id": "kmb_A38_I_2",
+    "company": "kmb",
+    "route": "A38",
+    "from_tc": "機場(地面運輸中心)",
+    "from_en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
+    "to_tc": "荃灣(荃威花園)",
+    "to_en": "TSUEN WAN (ALLWAY GARDENS)",
+    "dir": "I",
+    "serviceType": "2"
   },
   {
     "id": "kmb_A41_O_1",
@@ -15246,6 +15334,28 @@
     "serviceType": "1"
   },
   {
+    "id": "kmb_LB1_O_1",
+    "company": "kmb",
+    "route": "LB1",
+    "from_tc": "屯門公路轉車站(屯門方向)",
+    "from_en": "TUEN MUN ROAD BBI (TUEN MUN BOUND)",
+    "to_tc": "下白泥",
+    "to_en": "HA PAK NAI",
+    "dir": "I",
+    "serviceType": "1"
+  },
+  {
+    "id": "kmb_LB1_I_1",
+    "company": "kmb",
+    "route": "LB1",
+    "from_tc": "下白泥",
+    "from_en": "HA PAK NAI",
+    "to_tc": "屯門公路轉車站(九龍方向)",
+    "to_en": "TUEN MUN ROAD BBI (KOWLOON BOUND)",
+    "dir": "I",
+    "serviceType": "1"
+  },
+  {
     "id": "kmb_N3D_O_1",
     "company": "kmb",
     "route": "N3D",
@@ -16104,6 +16214,28 @@
     "serviceType": "1"
   },
   {
+    "id": "kmb_NA30_O_1",
+    "company": "kmb",
+    "route": "NA30",
+    "from_tc": "梨木樹",
+    "from_en": "LEI MUK SHUE",
+    "to_tc": "港珠澳大橋香港口岸",
+    "to_en": "HZMB Hong Kong Port",
+    "dir": "I",
+    "serviceType": "1"
+  },
+  {
+    "id": "kmb_NA30_I_1",
+    "company": "kmb",
+    "route": "NA30",
+    "from_tc": "港珠澳大橋香港口岸",
+    "from_en": "HZMB Hong Kong Port",
+    "to_tc": "梨木樹",
+    "to_en": "LEI MUK SHUE",
+    "dir": "I",
+    "serviceType": "1"
+  },
+  {
     "id": "kmb_NA31_O_1",
     "company": "kmb",
     "route": "NA31",
@@ -16520,6 +16652,28 @@
     "to_en": "Lantau Link BBI (Circular)",
     "dir": "I",
     "serviceType": "2"
+  },
+  {
+    "id": "kmb_R934_O_1",
+    "company": "kmb",
+    "route": "R934",
+    "from_tc": "荃灣(灣景花園)",
+    "from_en": "TSUEN WAN (BAYVIEW GARDEN)",
+    "to_tc": "銅鑼灣(維多利亞公園)",
+    "to_en": "CAUSEWAY BAY (VICTORIA PARK)",
+    "dir": "I",
+    "serviceType": "1"
+  },
+  {
+    "id": "kmb_R948_O_1",
+    "company": "kmb",
+    "route": "R948",
+    "from_tc": "青衣(長宏邨)",
+    "from_en": "TSING YI (CHEUNG WANG ESTATE)",
+    "to_tc": "銅鑼灣(維多利亞公園)",
+    "to_en": "CAUSEWAY BAY (VICTORIA PARK)",
+    "dir": "I",
+    "serviceType": "1"
   },
   {
     "id": "kmb_S1_O_1",

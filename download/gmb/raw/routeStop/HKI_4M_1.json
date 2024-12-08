@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:24:49.233+08:00",
+  "generated_timestamp": "2024-12-08T22:21:37.155+08:00",
   "data": {
     "route_stops": [
       {
@@ -26,6 +26,6 @@
         "name_en": "Wong Chuk Hang Station"
       }
     ],
-    "data_timestamp": "2024-11-15T17:33:04.794+08:00"
+    "data_timestamp": "2024-12-02T10:04:52.803+08:00"
   }
 }

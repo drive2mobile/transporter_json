@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:27:44.191+08:00",
+  "generated_timestamp": "2024-12-08T22:24:47.211+08:00",
   "data": {
     "route_stops": [
       {
@@ -89,6 +89,6 @@
         "name_en": "Pictorial Garden"
       }
     ],
-    "data_timestamp": "2024-11-07T10:33:55.962+08:00"
+    "data_timestamp": "2024-11-28T11:40:41.582+08:00"
   }
 }

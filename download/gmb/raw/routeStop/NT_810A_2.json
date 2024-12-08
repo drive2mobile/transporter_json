@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:27:43.446+08:00",
+  "generated_timestamp": "2024-12-08T22:24:46.268+08:00",
   "data": {
     "route_stops": [
       {
@@ -110,6 +110,6 @@
         "name_en": "Yiu Sha Road, Near St. Barths Maple Court Tower 1"
       }
     ],
-    "data_timestamp": "2024-09-29T00:02:37.028+08:00"
+    "data_timestamp": "2024-11-28T11:40:41.582+08:00"
   }
 }

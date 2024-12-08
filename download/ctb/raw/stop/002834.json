@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-11-16T19:37:13+08:00",
+  "generated_timestamp": "2024-12-08T18:41:01+08:00",
   "data": {
     "stop": "002834",
     "name_tc": "勵德街",
@@ -9,6 +9,6 @@
     "lat": "22.325886452091",
     "long": "114.17632775053",
     "name_sc": "励德街",
-    "data_timestamp": "2024-11-16T05:00:03+08:00"
+    "data_timestamp": "2024-12-08T05:00:03+08:00"
   }
 }

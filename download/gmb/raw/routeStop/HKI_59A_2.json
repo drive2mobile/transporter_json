@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:24:56.913+08:00",
+  "generated_timestamp": "2024-12-08T22:21:45.453+08:00",
   "data": {
     "route_stops": [
       {
@@ -48,12 +48,19 @@
       },
       {
         "stop_seq": 7,
+        "stop_id": 20011599,
+        "name_tc": "香港仔大道, 金豐大廈外",
+        "name_sc": "香港仔大道, 金丰大厦外",
+        "name_en": "Aberdeen Main Road, outside Kam Fung Building"
+      },
+      {
+        "stop_seq": 8,
         "stop_id": 20000341,
-        "name_tc": "東勝道, 裕景中心外 ",
-        "name_sc": "東勝道, 裕景中心外 ",
-        "name_en": "Tung Sing Road, outside Goodview Centre "
+        "name_tc": "東勝道10號對面",
+        "name_sc": "东胜道10号对面",
+        "name_en": "Tung Sing Road, opposite No. 10"
       }
     ],
-    "data_timestamp": "2024-11-15T17:33:04.398+08:00"
+    "data_timestamp": "2024-12-06T12:04:51.849+08:00"
   }
 }

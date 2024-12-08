@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:25:06.441+08:00",
+  "generated_timestamp": "2024-12-08T22:21:55.445+08:00",
   "data": {
     "route_stops": [
       {
@@ -47,6 +47,6 @@
         "name_en": "Shek Pai Wan Estate Public Transport Interchange"
       }
     ],
-    "data_timestamp": "2024-11-15T17:33:04.858+08:00"
+    "data_timestamp": "2024-12-06T12:04:51.425+08:00"
   }
 }

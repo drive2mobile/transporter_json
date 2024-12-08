@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:25:07.442+08:00",
+  "generated_timestamp": "2024-12-08T22:21:56.388+08:00",
   "data": {
     "route_stops": [
       {
@@ -75,6 +75,6 @@
         "name_en": "Cyberport Bus Terminus"
       }
     ],
-    "data_timestamp": "2024-11-15T17:08:56.994+08:00"
+    "data_timestamp": "2024-12-06T12:06:46.625+08:00"
   }
 }

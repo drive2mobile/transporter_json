@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:27:58.172+08:00",
+  "generated_timestamp": "2024-12-08T22:25:01.120+08:00",
   "data": {
     "route_stops": [
       {
@@ -47,6 +47,6 @@
         "name_en": "Kwai Hing Government Offices"
       }
     ],
-    "data_timestamp": "2024-11-05T16:44:51.228+08:00"
+    "data_timestamp": "2024-11-21T18:22:09.135+08:00"
   }
 }

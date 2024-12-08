@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:24:46.467+08:00",
+  "generated_timestamp": "2024-12-08T22:21:34.055+08:00",
   "data": {
     "route_stops": [
       {
@@ -77,9 +77,9 @@
       {
         "stop_seq": 11,
         "stop_id": 20003443,
-        "name_tc": "泰民街, 樂翠臺外",
-        "name_sc": "泰民街, 乐翠台外",
-        "name_en": "Tai Man Street, outside Neptune Terrace"
+        "name_tc": "泰民街, 康翠台外",
+        "name_sc": "泰民街, 康翠台外",
+        "name_en": "Tai Man Street, outside Greenwood Terrace"
       },
       {
         "stop_seq": 12,
@@ -145,6 +145,6 @@
         "name_en": "Siu Sai Wan Phase III"
       }
     ],
-    "data_timestamp": "2024-10-23T14:47:59.506+08:00"
+    "data_timestamp": "2024-11-19T13:52:36.237+08:00"
   }
 }

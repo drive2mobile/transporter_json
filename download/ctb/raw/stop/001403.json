@@ -1,14 +1,14 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-11-16T19:40:22+08:00",
+  "generated_timestamp": "2024-12-08T18:39:11+08:00",
   "data": {
     "stop": "001403",
-    "name_tc": "柯士甸道, 廣東道",
-    "name_en": "Austin Road, Canton Road",
+    "name_tc": "戲曲中心, 廣東道",
+    "name_en": "Xiqu Centre, Canton Road",
     "lat": "22.301518502091",
     "long": "114.16811772053",
-    "name_sc": "柯士甸道, 广东道",
-    "data_timestamp": "2024-11-16T05:00:03+08:00"
+    "name_sc": "戏曲中心, 广东道",
+    "data_timestamp": "2024-12-08T05:00:03+08:00"
   }
 }

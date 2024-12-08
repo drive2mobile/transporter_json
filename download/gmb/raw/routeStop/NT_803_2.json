@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:27:34.777+08:00",
+  "generated_timestamp": "2024-12-08T22:24:35.976+08:00",
   "data": {
     "route_stops": [
       {
@@ -110,6 +110,6 @@
         "name_en": "Hin Tin Street, near Helen Liang Memorial Secondary School (Shatin)"
       }
     ],
-    "data_timestamp": "2024-11-13T18:13:12.895+08:00"
+    "data_timestamp": "2024-11-28T11:40:41.582+08:00"
   }
 }

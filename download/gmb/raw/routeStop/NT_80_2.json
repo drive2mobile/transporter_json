@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:27:34.308+08:00",
+  "generated_timestamp": "2024-12-08T22:24:35.488+08:00",
   "data": {
     "route_stops": [
       {
@@ -27,19 +27,26 @@
       },
       {
         "stop_seq": 4,
+        "stop_id": 20020494,
+        "name_tc": "青山公路-荃灣段千色店外",
+        "name_sc": "青山公路-荃湾段千色店外",
+        "name_en": "Castle Peak Road-Tsuen Wan outside Citistore "
+      },
+      {
+        "stop_seq": 5,
         "stop_id": 20013467,
         "name_tc": "青山公路-荃灣段175號外",
         "name_sc": "青山公路-荃湾段175号外",
         "name_en": "Castle Peak Road-Tsuen Wan outside House No. 175"
       },
       {
-        "stop_seq": 5,
+        "stop_seq": 6,
         "stop_id": 20015988,
         "name_tc": "荃灣(川龍街)",
         "name_sc": "荃湾(川龙街)",
         "name_en": "Tsuen Wan (Chuen Lung Street)"
       }
     ],
-    "data_timestamp": "2022-10-27T00:05:39.574+08:00"
+    "data_timestamp": "2024-11-21T18:24:25.807+08:00"
   }
 }

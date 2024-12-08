@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:27:12.886+08:00",
+  "generated_timestamp": "2024-12-08T22:24:12.828+08:00",
   "data": {
     "route_stops": [
       {
@@ -27,26 +27,33 @@
       },
       {
         "stop_seq": 4,
+        "stop_id": 20020531,
+        "name_tc": "屯門公路, 近仁愛堂體育中心",
+        "name_sc": "屯门公路, 近仁爱堂体育中心",
+        "name_en": "Tuen Mun Road at the bus lay-by opposite to Yan Oi Tong Community and Indoor Sports Centre"
+      },
+      {
+        "stop_seq": 5,
         "stop_id": 20016924,
         "name_tc": "屯門公路, 近新和里遊樂場 San Wo Lane Playground Refuse Collection Chamber",
         "name_sc": "屯门公路, 近新和里游乐场 San Wo Lane Playground Refuse Collection Chamber",
         "name_en": "Tuen Mun Road, Near San Wo Lane Playground Refuse Collection Chamber"
       },
       {
-        "stop_seq": 5,
+        "stop_seq": 6,
         "stop_id": 20016925,
         "name_tc": "屯門公路, 近兆康站",
         "name_sc": "屯门公路, 近兆康站",
         "name_en": "Tuen Mun Road, Near Siu Hong Station"
       },
       {
-        "stop_seq": 6,
+        "stop_seq": 7,
         "stop_id": 20015764,
         "name_tc": "鳳翔路小巴總站",
         "name_sc": "凤翔路小巴总站",
         "name_en": "Fung Cheung Road Minibus Terminus"
       }
     ],
-    "data_timestamp": "2024-11-13T13:47:23.613+08:00"
+    "data_timestamp": "2024-11-22T14:29:13.717+08:00"
   }
 }

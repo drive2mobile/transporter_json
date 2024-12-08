@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:27:42.976+08:00",
+  "generated_timestamp": "2024-12-08T22:24:45.734+08:00",
   "data": {
     "route_stops": [
       {
@@ -163,7 +163,7 @@
         "stop_id": 20002320,
         "name_tc": "西沙路, 錦鞍苑外",
         "name_sc": "西沙路, 锦鞍苑外",
-        "name_en": "Sai Sha Road, Outside Kam On Court"
+        "name_en": "Sai Sha Road, outside Kam On Court"
       },
       {
         "stop_seq": 24,
@@ -243,6 +243,6 @@
         "name_en": "Sha Tin Centre Street, Near Wai Wah Centre Block 2"
       }
     ],
-    "data_timestamp": "2024-09-29T00:02:36.637+08:00"
+    "data_timestamp": "2024-11-28T11:40:41.582+08:00"
   }
 }

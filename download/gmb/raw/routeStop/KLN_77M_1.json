@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:25:47.861+08:00",
+  "generated_timestamp": "2024-12-08T22:22:40.968+08:00",
   "data": {
     "route_stops": [
       {
@@ -75,6 +75,6 @@
         "name_en": "Kowloon Station GMB Terminus"
       }
     ],
-    "data_timestamp": "2024-11-15T19:00:58.774+08:00"
+    "data_timestamp": "2024-12-06T10:08:12.894+08:00"
   }
 }

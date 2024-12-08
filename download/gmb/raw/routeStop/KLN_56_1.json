@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:25:37.754+08:00",
+  "generated_timestamp": "2024-12-08T22:22:27.677+08:00",
   "data": {
     "route_stops": [
       {
@@ -68,6 +68,6 @@
         "name_en": "Shung Yan Street, outside Nam Wah Mansion"
       }
     ],
-    "data_timestamp": "2024-11-13T15:05:22.065+08:00"
+    "data_timestamp": "2024-12-06T10:16:11.784+08:00"
   }
 }

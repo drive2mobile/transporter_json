@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:24:39.903+08:00",
+  "generated_timestamp": "2024-12-08T22:21:25.354+08:00",
   "data": {
     "route_stops": [
       {
@@ -124,6 +124,6 @@
         "name_en": "JAFFE ROAD, near Siu On Plaza"
       }
     ],
-    "data_timestamp": "2024-11-06T16:47:49.208+08:00"
+    "data_timestamp": "2024-12-06T11:16:39.156+08:00"
   }
 }

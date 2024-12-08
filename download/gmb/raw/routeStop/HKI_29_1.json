@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:24:36.822+08:00",
+  "generated_timestamp": "2024-12-08T22:21:22.781+08:00",
   "data": {
     "route_stops": [
       {
@@ -20,40 +20,47 @@
       },
       {
         "stop_seq": 3,
+        "stop_id": 20020558,
+        "name_tc": "黃竹坑道49號",
+        "name_sc": "黄竹坑道49号",
+        "name_en": "49 Wong Chuk Hang Road"
+      },
+      {
+        "stop_seq": 4,
         "stop_id": 20015515,
         "name_tc": "黃竹坑站",
         "name_sc": "黄竹坑站",
         "name_en": "Wong Chuk Hang Station"
       },
       {
-        "stop_seq": 4,
+        "stop_seq": 5,
         "stop_id": 20015516,
         "name_tc": "深灣道, 近南濤閣",
         "name_sc": "深湾道, 近南涛阁",
         "name_en": "Shum Wan Road, near South Wave Court"
       },
       {
-        "stop_seq": 5,
+        "stop_seq": 6,
         "stop_id": 20000160,
         "name_tc": "深灣公共運輸交匯處 ",
         "name_sc": "深湾公共运输交汇处",
         "name_en": "Shum Wan Public Transport Terminus "
       },
       {
-        "stop_seq": 6,
+        "stop_seq": 7,
         "stop_id": 20009809,
         "name_tc": "黃竹坑道, 近貴寶工業大廈",
         "name_sc": "黄竹坑道, 近贵宝工业大厦",
         "name_en": "Wong Chuk Hang Road, near Kwai Bo Industrial Building"
       },
       {
-        "stop_seq": 7,
+        "stop_seq": 8,
         "stop_id": 20012948,
         "name_tc": "鴨脷洲橋道, 近鴨脷洲邨利福樓低座",
         "name_sc": "鸭脷洲桥道, 近鸭脷洲村利福楼低座 ",
         "name_en": "Ap Lei Chau Bridge Road, near Lei Fook House Low Block, Ap Lei Chau Estate"
       }
     ],
-    "data_timestamp": "2024-11-15T17:08:57.000+08:00"
+    "data_timestamp": "2024-12-06T12:04:51.029+08:00"
   }
 }

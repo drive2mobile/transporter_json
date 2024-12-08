@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-11-17T10:26:31.934+08:00",
+  "generated_timestamp": "2024-12-08T22:23:33.210+08:00",
   "data": {
     "route_stops": [
       {
@@ -40,6 +40,6 @@
         "name_en": "Mong Tseng Wai Minibus Terminus"
       }
     ],
-    "data_timestamp": "2024-11-13T14:31:25.336+08:00"
+    "data_timestamp": "2024-11-21T17:37:27.511+08:00"
   }
 }
