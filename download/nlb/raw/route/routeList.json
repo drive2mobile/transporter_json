@@ -46,6 +46,15 @@
       "specialRoute": 0
     },
     {
+      "routeId": "7",
+      "routeNo": "3M",
+      "routeName_c": "梅窩碼頭 > 東涌站巴士總站",
+      "routeName_s": "梅窝码头 > 东涌站巴士总站",
+      "routeName_e": "Mui Wo Ferry Pier > Tung Chung Station Bus Terminus",
+      "overnightRoute": 0,
+      "specialRoute": 0
+    },
+    {
       "routeId": "8",
       "routeNo": "3M",
       "routeName_c": "梅窩 (貝澳開) > 東涌站巴士總站",
@@ -60,24 +69,6 @@
       "routeName_c": "東涌站巴士總站 > 梅窩碼頭",
       "routeName_s": "东涌站巴士总站 > 梅窝码头",
       "routeName_e": "Tung Chung Station Bus Terminus > Mui Wo Ferry Pier",
-      "overnightRoute": 0,
-      "specialRoute": 0
-    },
-    {
-      "routeId": "7",
-      "routeNo": "3M",
-      "routeName_c": "梅窩碼頭 > 東涌站巴士總站",
-      "routeName_s": "梅窝码头 > 东涌站巴士总站",
-      "routeName_e": "Mui Wo Ferry Pier > Tung Chung Station Bus Terminus",
-      "overnightRoute": 0,
-      "specialRoute": 0
-    },
-    {
-      "routeId": "12",
-      "routeNo": "4",
-      "routeName_c": "梅窩碼頭  > 塘福 (至水口)",
-      "routeName_s": "梅窝码头  > 塘福 (至水口)",
-      "routeName_e": "Mui Wo Ferry Pier > Tong Fuk (to Shui Hau)",
       "overnightRoute": 0,
       "specialRoute": 0
     },
@@ -105,6 +96,15 @@
       "routeName_c": "梅窩碼頭  > 塘福",
       "routeName_s": "梅窝码头  > 塘福",
       "routeName_e": "Mui Wo Ferry Pier > Tong Fuk",
+      "overnightRoute": 0,
+      "specialRoute": 0
+    },
+    {
+      "routeId": "12",
+      "routeNo": "4",
+      "routeName_c": "梅窩碼頭  > 塘福 (至水口)",
+      "routeName_s": "梅窝码头  > 塘福 (至水口)",
+      "routeName_e": "Mui Wo Ferry Pier > Tong Fuk (to Shui Hau)",
       "overnightRoute": 0,
       "specialRoute": 0
     },
@@ -163,20 +163,20 @@
       "specialRoute": 0
     },
     {
-      "routeId": "16",
-      "routeNo": "11A",
-      "routeName_c": "石壁 > 東涌站巴士總站",
-      "routeName_s": "石壁 > 东涌站巴士总站",
-      "routeName_e": "Shek Pik > Tung Chung Station Bus Terminus",
-      "overnightRoute": 0,
-      "specialRoute": 0
-    },
-    {
       "routeId": "15",
       "routeNo": "11A",
       "routeName_c": "東涌站巴士總站 > 石壁",
       "routeName_s": "东涌站巴士总站 > 石壁",
       "routeName_e": "Tung Chung Station Bus Terminus > Shek Pik",
+      "overnightRoute": 0,
+      "specialRoute": 0
+    },
+    {
+      "routeId": "16",
+      "routeNo": "11A",
+      "routeName_c": "石壁 > 東涌站巴士總站",
+      "routeName_s": "石壁 > 东涌站巴士总站",
+      "routeName_e": "Shek Pik > Tung Chung Station Bus Terminus",
       "overnightRoute": 0,
       "specialRoute": 0
     },
@@ -271,20 +271,20 @@
       "specialRoute": 0
     },
     {
-      "routeId": "80",
-      "routeNo": "37",
-      "routeName_c": "迎東邨 > 逸東邨",
-      "routeName_s": "迎东邨 > 逸东邨",
-      "routeName_e": "Ying Tung Estate > Yat Tung Estate",
-      "overnightRoute": 0,
-      "specialRoute": 0
-    },
-    {
       "routeId": "78",
       "routeNo": "37",
       "routeName_c": "逸東邨 > 迎東邨",
       "routeName_s": "逸东邨 > 迎东邨",
       "routeName_e": "Yat Tung Estate > Ying Tung Estate",
+      "overnightRoute": 0,
+      "specialRoute": 0
+    },
+    {
+      "routeId": "80",
+      "routeNo": "37",
+      "routeName_c": "迎東邨 > 逸東邨",
+      "routeName_s": "迎东邨 > 逸东邨",
+      "routeName_e": "Ying Tung Estate > Yat Tung Estate",
       "overnightRoute": 0,
       "specialRoute": 0
     },
@@ -379,20 +379,20 @@
       "specialRoute": 0
     },
     {
-      "routeId": "37",
-      "routeNo": "B2",
-      "routeName_c": "元朗港鐵站 > 深圳灣口岸",
-      "routeName_s": "元朗港铁站 > 深圳湾口岸",
-      "routeName_e": "Yuen Long MTR Station > Shenzhen Bay Port",
-      "overnightRoute": 0,
-      "specialRoute": 0
-    },
-    {
       "routeId": "38",
       "routeNo": "B2",
       "routeName_c": "深圳灣口岸 > 元朗港鐵站",
       "routeName_s": "深圳湾口岸 > 元朗港铁站",
       "routeName_e": "Shenzhen Bay Port > Yuen Long MTR Station",
+      "overnightRoute": 0,
+      "specialRoute": 0
+    },
+    {
+      "routeId": "37",
+      "routeNo": "B2",
+      "routeName_c": "元朗港鐵站 > 深圳灣口岸",
+      "routeName_s": "元朗港铁站 > 深圳湾口岸",
+      "routeName_e": "Yuen Long MTR Station > Shenzhen Bay Port",
       "overnightRoute": 0,
       "specialRoute": 0
     },
@@ -442,20 +442,20 @@
       "specialRoute": 0
     },
     {
-      "routeId": "89",
-      "routeNo": "B6",
-      "routeName_c": "滿東邨 > 大橋香港口岸",
-      "routeName_s": "满东邨 > 大桥香港口岸",
-      "routeName_e": "Mun Tung Estate > HZMB Hong Kong Port",
-      "overnightRoute": 0,
-      "specialRoute": 0
-    },
-    {
       "routeId": "88",
       "routeNo": "B6",
       "routeName_c": "大橋香港口岸 > 滿東邨",
       "routeName_s": "大桥香港口岸 > 满东邨",
       "routeName_e": "HZMB Hong Kong Port > Mun Tung Estate",
+      "overnightRoute": 0,
+      "specialRoute": 0
+    },
+    {
+      "routeId": "89",
+      "routeNo": "B6",
+      "routeName_c": "滿東邨 > 大橋香港口岸",
+      "routeName_s": "满东邨 > 大桥香港口岸",
+      "routeName_e": "Mun Tung Estate > HZMB Hong Kong Port",
       "overnightRoute": 0,
       "specialRoute": 0
     },
@@ -532,20 +532,20 @@
       "specialRoute": 1
     },
     {
-      "routeId": "108",
-      "routeNo": "X11R",
-      "routeName_c": "東涌世茂喜來登酒店 > 大澳",
-      "routeName_s": "东涌世茂喜来登酒店 > 大澳",
-      "routeName_e": "Sheraton Hong Kong Tung Chung Hotel > Tai O",
-      "overnightRoute": 0,
-      "specialRoute": 1
-    },
-    {
       "routeId": "109",
       "routeNo": "X11R",
       "routeName_c": "大澳 > 東涌世茂喜來登酒店",
       "routeName_s": "大澳 > 东涌世茂喜来登酒店",
       "routeName_e": "Tai O > Sheraton Hong Kong Tung Chung Hotel",
+      "overnightRoute": 0,
+      "specialRoute": 1
+    },
+    {
+      "routeId": "108",
+      "routeNo": "X11R",
+      "routeName_c": "東涌世茂喜來登酒店 > 大澳",
+      "routeName_s": "东涌世茂喜来登酒店 > 大澳",
+      "routeName_e": "Sheraton Hong Kong Tung Chung Hotel > Tai O",
       "overnightRoute": 0,
       "specialRoute": 1
     }

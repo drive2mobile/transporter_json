@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-08T22:21:36.692+08:00",
+  "generated_timestamp": "2024-12-26T20:55:11.965+08:00",
   "data": {
     "route_stops": [
       {
@@ -61,6 +61,6 @@
         "name_en": "Near President Theatre, Cannon Street"
       }
     ],
-    "data_timestamp": "2024-12-06T12:04:51.425+08:00"
+    "data_timestamp": "2024-12-20T12:34:10.149+08:00"
   }
 }

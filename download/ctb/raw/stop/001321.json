@@ -1,14 +1,14 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-12-08T18:43:03+08:00",
+  "generated_timestamp": "2024-12-26T20:37:50+08:00",
   "data": {
     "stop": "001321",
-    "name_tc": "女童軍訓練中心, 大潭道",
-    "name_en": "Girl Guides Cecilia Mar Venture House, Tai Tam Road",
+    "name_tc": "舊女童軍訓練中心, 大潭道",
+    "name_en": "Old Girl Guides Cecilia Mar Venture House, Tai Tam Road",
     "lat": "22.263971382091",
     "long": "114.23059713053",
-    "name_sc": "女童军训练中心, 大潭道",
-    "data_timestamp": "2024-12-08T05:00:03+08:00"
+    "name_sc": "旧女童军训练中心, 大潭道",
+    "data_timestamp": "2024-12-26T05:00:03+08:00"
   }
 }

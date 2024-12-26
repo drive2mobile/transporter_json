@@ -4,8 +4,8 @@
   "region": "NT",
   "route": "43C",
   "route_seq": 1,
-  "from_tc": "屯門市中心",
-  "from_en": "Tuen Mun Town Centre",
+  "from_tc": "屯門市中心(河傍街) ",
+  "from_en": "Tuen Mun Town Centre (Ho Pong Street) ",
   "to_tc": "兆麟苑",
   "to_en": "Siu Lun Court"
 }

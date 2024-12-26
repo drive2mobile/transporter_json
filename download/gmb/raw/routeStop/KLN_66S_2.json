@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-08T22:22:30.965+08:00",
+  "generated_timestamp": "2024-12-26T20:56:14.701+08:00",
   "data": {
     "route_stops": [
       {
@@ -152,6 +152,6 @@
         "name_en": "Ping Ting Road"
       }
     ],
-    "data_timestamp": "2024-11-15T19:00:58.784+08:00"
+    "data_timestamp": "2024-12-17T17:09:37.510+08:00"
   }
 }

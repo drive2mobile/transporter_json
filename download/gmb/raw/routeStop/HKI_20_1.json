@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-08T22:21:16.351+08:00",
+  "generated_timestamp": "2024-12-26T20:54:52.046+08:00",
   "data": {
     "route_stops": [
       {
@@ -159,6 +159,6 @@
         "name_en": "Sai Wan Ho (Grand Promenade) Public Transport Terminus"
       }
     ],
-    "data_timestamp": "2024-11-19T13:58:48.211+08:00"
+    "data_timestamp": "2024-12-16T09:59:03.961+08:00"
   }
 }

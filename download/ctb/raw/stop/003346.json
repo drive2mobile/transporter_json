@@ -1,14 +1,14 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-12-08T18:45:54+08:00",
+  "generated_timestamp": "2024-12-26T20:37:54+08:00",
   "data": {
     "stop": "003346",
-    "name_tc": "利安邨, 西沙路",
-    "name_en": "Lee On Estate, Sai Sha Road",
+    "name_tc": "利安邨利榮樓, 西沙路",
+    "name_en": "Lee Wing House Lee On Estate, Sai Sha Road",
     "lat": "22.427435212091",
     "long": "114.24060100053",
-    "name_sc": "利安邨, 西沙路",
-    "data_timestamp": "2024-12-08T05:00:03+08:00"
+    "name_sc": "利安邨利荣楼, 西沙路",
+    "data_timestamp": "2024-12-26T05:00:03+08:00"
   }
 }

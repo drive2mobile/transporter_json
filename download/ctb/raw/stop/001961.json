@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-12-08T18:43:22+08:00",
+  "generated_timestamp": "2024-12-26T20:36:44+08:00",
   "data": {
     "stop": "001961",
     "name_tc": "沙田站",
@@ -9,6 +9,6 @@
     "lat": "22.383442502091",
     "long": "114.18809125053",
     "name_sc": "沙田站",
-    "data_timestamp": "2024-12-08T05:00:03+08:00"
+    "data_timestamp": "2024-12-26T05:00:03+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-08T22:23:30.689+08:00",
+  "generated_timestamp": "2024-12-26T20:57:17.121+08:00",
   "data": {
     "route_stops": [
       {
@@ -75,6 +75,6 @@
         "name_en": "Tso Kung Street Public Light Bus (Scheduled) Service Terminus"
       }
     ],
-    "data_timestamp": "2024-11-21T18:22:09.136+08:00"
+    "data_timestamp": "2024-12-17T10:44:23.661+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-12-08T18:50:32+08:00",
+  "generated_timestamp": "2024-12-26T20:46:11+08:00",
   "data": {
     "stop": "003761",
     "name_tc": "沙田圍",
@@ -9,6 +9,6 @@
     "lat": "22.380412232091",
     "long": "114.19640457053",
     "name_sc": "沙田围",
-    "data_timestamp": "2024-12-08T05:00:03+08:00"
+    "data_timestamp": "2024-12-26T05:00:03+08:00"
   }
 }

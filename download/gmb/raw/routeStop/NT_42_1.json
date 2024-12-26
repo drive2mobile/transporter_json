@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-08T22:23:43.921+08:00",
+  "generated_timestamp": "2024-12-26T20:57:32.021+08:00",
   "data": {
     "route_stops": [
       {
@@ -124,6 +124,6 @@
         "name_en": "Tsing Chuen Wai Road, Tsing Chuen Wai"
       }
     ],
-    "data_timestamp": "2024-10-16T17:02:28.670+08:00"
+    "data_timestamp": "2024-12-24T09:30:47.062+08:00"
   }
 }

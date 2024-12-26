@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-08T22:21:36.138+08:00",
+  "generated_timestamp": "2024-12-26T20:55:11.492+08:00",
   "data": {
     "route_stops": [
       {
@@ -42,9 +42,9 @@
       {
         "stop_seq": 6,
         "stop_id": 20011479,
-        "name_tc": "黃竹坑道36號",
-        "name_sc": "黄竹坑道36号",
-        "name_en": "No.36 Wong Chuk Hang Road"
+        "name_tc": "黃竹坑道40號",
+        "name_sc": "黄竹坑道40号",
+        "name_en": "No.40 Wong Chuk Hang Road"
       },
       {
         "stop_seq": 7,
@@ -75,6 +75,6 @@
         "name_en": "Shek Pai Wan Estate Public Transport Interchange"
       }
     ],
-    "data_timestamp": "2024-12-06T12:04:51.425+08:00"
+    "data_timestamp": "2024-12-18T14:17:11.408+08:00"
   }
 }

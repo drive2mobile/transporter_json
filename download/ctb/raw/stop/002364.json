@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-12-08T18:43:33+08:00",
+  "generated_timestamp": "2024-12-26T20:38:23+08:00",
   "data": {
     "stop": "002364",
     "name_tc": "海怡半島",
@@ -9,6 +9,6 @@
     "lat": "22.242733542091",
     "long": "114.14933054053",
     "name_sc": "海怡半岛",
-    "data_timestamp": "2024-12-08T05:00:03+08:00"
+    "data_timestamp": "2024-12-26T05:00:03+08:00"
   }
 }

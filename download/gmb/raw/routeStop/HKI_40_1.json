@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-08T22:21:29.913+08:00",
+  "generated_timestamp": "2024-12-26T20:55:06.043+08:00",
   "data": {
     "route_stops": [
       {
@@ -145,6 +145,6 @@
         "name_en": "Jardine's Bazaar"
       }
     ],
-    "data_timestamp": "2024-11-29T16:13:51.583+08:00"
+    "data_timestamp": "2024-12-24T09:27:34.720+08:00"
   }
 }

@@ -17855,7 +17855,7 @@
       "name_en": "OLD POK FU LAM KENNELS",
       "lat": "22.256078",
       "long": "114.135431",
-      "coopStop": "002317",
+      "coopStop": "002680",
       "coopDir": "I"
     },
     {
@@ -74598,7 +74598,7 @@
       "stop": "AFC36FC71B4E124E",
       "serviceType": "1",
       "name_tc": "青衣轉車站 -長安邨安湄樓 (B1)",
-      "name_en": "TSING YI BBI - ON MEI HOUSE CHEUNG ON ESTATE(B1)",
+      "name_en": "TSING YI BBI - ON MEI HOUSE CHEUNG ON ESTATE (B1)",
       "lat": "22.361152",
       "long": "114.105286",
       "coopStop": "003610",
@@ -75400,7 +75400,7 @@
       "stop": "6E22023A7DF1B381",
       "serviceType": "1",
       "name_tc": "青衣轉車站 –灝景灣 (D1)",
-      "name_en": "TSING YI BBI - VILLA ESPLANADA(D1)",
+      "name_en": "TSING YI BBI - VILLA ESPLANADA (D1)",
       "lat": "22.360898",
       "long": "114.105955",
       "coopStop": "003608",

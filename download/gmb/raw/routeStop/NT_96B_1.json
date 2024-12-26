@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-08T22:25:11.752+08:00",
+  "generated_timestamp": "2024-12-26T20:59:12.884+08:00",
   "data": {
     "route_stops": [
       {
@@ -68,6 +68,6 @@
         "name_en": "Belvedere Garden"
       }
     ],
-    "data_timestamp": "2024-11-21T18:17:23.215+08:00"
+    "data_timestamp": "2024-12-17T10:44:24.135+08:00"
   }
 }

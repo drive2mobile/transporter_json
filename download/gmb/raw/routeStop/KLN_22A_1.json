@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-08T22:22:05.178+08:00",
+  "generated_timestamp": "2024-12-26T20:55:43.365+08:00",
   "data": {
     "route_stops": [
       {
@@ -152,6 +152,6 @@
         "name_en": "Lok Wah Minibus Terminus"
       }
     ],
-    "data_timestamp": "2024-11-07T14:27:10.728+08:00"
+    "data_timestamp": "2024-12-12T12:05:59.336+08:00"
   }
 }

@@ -1,14 +1,14 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-12-08T18:44:03+08:00",
+  "generated_timestamp": "2024-12-26T20:38:52+08:00",
   "data": {
     "stop": "003504",
-    "name_tc": "天寰, 沐安街",
-    "name_en": "Victoria Skye, Muk On Street",
+    "name_tc": "啟德 - 天寰, 沐安街",
+    "name_en": "Kai Tak - Victoria Skye, Muk On Street",
     "lat": "22.328841932091",
     "long": "114.20220607053",
-    "name_sc": "天寰, 沐安街",
-    "data_timestamp": "2024-12-08T05:00:03+08:00"
+    "name_sc": "启德 - 天寰, 沐安街",
+    "data_timestamp": "2024-12-26T05:00:03+08:00"
   }
 }

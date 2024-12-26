@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-08T22:25:16.075+08:00",
+  "generated_timestamp": "2024-12-26T20:59:16.736+08:00",
   "data": {
     "route_stops": [
       {
@@ -187,6 +187,6 @@
         "name_en": "Lok Ma Chau Control Point"
       }
     ],
-    "data_timestamp": "2024-10-21T14:17:06.121+08:00"
+    "data_timestamp": "2024-12-24T09:30:47.062+08:00"
   }
 }

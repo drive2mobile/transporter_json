@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-12-08T18:51:16+08:00",
+  "generated_timestamp": "2024-12-26T20:46:50+08:00",
   "data": {
     "stop": "003714",
     "name_tc": "香園圍口岸",
@@ -9,6 +9,6 @@
     "lat": "22.552058932091",
     "long": "114.15381957053",
     "name_sc": "香园围口岸",
-    "data_timestamp": "2024-12-08T05:00:03+08:00"
+    "data_timestamp": "2024-12-26T05:00:03+08:00"
   }
 }

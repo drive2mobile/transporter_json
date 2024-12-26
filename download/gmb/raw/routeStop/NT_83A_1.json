@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-08T22:24:52.006+08:00",
+  "generated_timestamp": "2024-12-26T20:58:52.495+08:00",
   "data": {
     "route_stops": [
       {
@@ -82,6 +82,6 @@
         "name_en": "On Yam Estate (On Chit Street)"
       }
     ],
-    "data_timestamp": "2024-11-21T18:23:11.959+08:00"
+    "data_timestamp": "2024-12-17T10:44:23.661+08:00"
   }
 }

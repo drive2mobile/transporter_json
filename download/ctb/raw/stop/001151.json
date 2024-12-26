@@ -1,14 +1,14 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-12-08T18:47:50+08:00",
+  "generated_timestamp": "2024-12-26T20:43:33+08:00",
   "data": {
     "stop": "001151",
-    "name_tc": "金鐘站 - 樂禮街",
-    "name_en": "Admiralty Station - Rodney Street",
+    "name_tc": "金鐘 - 樂禮街",
+    "name_en": "Admiralty - Rodney Street",
     "lat": "22.278684232091",
     "long": "114.16592058053",
-    "name_sc": "金钟站 - 乐礼街",
-    "data_timestamp": "2024-12-08T05:00:03+08:00"
+    "name_sc": "金钟 - 乐礼街",
+    "data_timestamp": "2024-12-26T05:00:03+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-08T22:22:23.410+08:00",
+  "generated_timestamp": "2024-12-26T20:56:04.395+08:00",
   "data": {
     "route_stops": [
       {
@@ -83,12 +83,12 @@
       },
       {
         "stop_seq": 12,
-        "stop_id": 20012349,
+        "stop_id": 20002614,
         "name_tc": "海麗邨",
         "name_sc": "海丽邨",
         "name_en": "Hoi Lai Estate"
       }
     ],
-    "data_timestamp": "2024-11-05T10:05:10.716+08:00"
+    "data_timestamp": "2024-12-20T13:43:10.204+08:00"
   }
 }

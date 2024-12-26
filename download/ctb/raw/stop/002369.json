@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-12-08T18:47:34+08:00",
+  "generated_timestamp": "2024-12-26T20:43:21+08:00",
   "data": {
     "stop": "002369",
     "name_tc": "石排灣",
@@ -9,6 +9,6 @@
     "lat": "22.249828512091",
     "long": "114.15721795053",
     "name_sc": "石排湾",
-    "data_timestamp": "2024-12-08T05:00:03+08:00"
+    "data_timestamp": "2024-12-26T05:00:03+08:00"
   }
 }

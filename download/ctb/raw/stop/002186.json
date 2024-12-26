@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-12-08T18:45:02+08:00",
+  "generated_timestamp": "2024-12-26T20:40:00+08:00",
   "data": {
     "stop": "002186",
     "name_tc": "置富",
@@ -9,6 +9,6 @@
     "lat": "22.257522932091",
     "long": "114.13911822053",
     "name_sc": "置富",
-    "data_timestamp": "2024-12-08T05:00:03+08:00"
+    "data_timestamp": "2024-12-26T05:00:03+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-08T22:23:25.905+08:00",
+  "generated_timestamp": "2024-12-26T20:57:14.847+08:00",
   "data": {
     "route_stops": [
       {
@@ -26,6 +26,6 @@
         "name_en": "Tsing Yi Station"
       }
     ],
-    "data_timestamp": "2024-11-05T17:05:39.506+08:00"
+    "data_timestamp": "2024-12-18T12:14:46.714+08:00"
   }
 }

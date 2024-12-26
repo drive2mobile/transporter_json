@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-08T22:21:13.844+08:00",
+  "generated_timestamp": "2024-12-26T20:54:49.873+08:00",
   "data": {
     "route_stops": [
       {
@@ -110,6 +110,6 @@
         "name_en": "Chai Wan Station Bus Terminus"
       }
     ],
-    "data_timestamp": "2024-11-19T13:47:06.533+08:00"
+    "data_timestamp": "2024-12-16T09:59:03.963+08:00"
   }
 }

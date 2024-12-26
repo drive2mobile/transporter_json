@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-08T22:21:23.855+08:00",
+  "generated_timestamp": "2024-12-26T20:54:59.240+08:00",
   "data": {
     "route_stops": [
       {
@@ -82,6 +82,6 @@
         "name_en": "PO SHAN ROAD, near Po Shan Mansions Block A"
       }
     ],
-    "data_timestamp": "2024-11-18T09:56:14.184+08:00"
+    "data_timestamp": "2024-12-24T09:27:34.726+08:00"
   }
 }

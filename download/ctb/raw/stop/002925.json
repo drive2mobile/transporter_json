@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-12-08T18:48:20+08:00",
+  "generated_timestamp": "2024-12-26T20:44:08+08:00",
   "data": {
     "stop": "002925",
     "name_tc": "駿才街",
@@ -9,6 +9,6 @@
     "lat": "22.283543702091",
     "long": "114.27379288053",
     "name_sc": "骏才街",
-    "data_timestamp": "2024-12-08T05:00:03+08:00"
+    "data_timestamp": "2024-12-26T05:00:03+08:00"
   }
 }

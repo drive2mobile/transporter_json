@@ -200,7 +200,7 @@ async function getAllMtrFirstAndLastTrain()
 
     try
     {
-        for (let i = 1; i <= 5; i++)
+        for (let i = 1; i <= 120; i++)
         {
             console.log(`Processing station ${i} tc...`);
             const schedule_tc = await getMtrStationFirstAndLastTrain(i.toString(), 'tc');

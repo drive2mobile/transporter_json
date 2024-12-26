@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-08T22:21:27.633+08:00",
+  "generated_timestamp": "2024-12-26T20:55:03.569+08:00",
   "data": {
     "route_stops": [
       {
@@ -28,16 +28,16 @@
       {
         "stop_seq": 4,
         "stop_id": 20012946,
-        "name_tc": "鴨脷洲大街,近文麗大樓",
-        "name_sc": "鸭脷洲大街,近文丽大楼 ",
-        "name_en": "Main Street, Ap Lei Chau, near Manly House"
+        "name_tc": "利枝道, 近利枝道巴士總站",
+        "name_sc": "利枝道, 近利枝道巴士总站 ",
+        "name_en": "Lee Chi Road, near Lee Chi Road Bus Terminus"
       },
       {
         "stop_seq": 5,
         "stop_id": 20000157,
-        "name_tc": "利枝道, 近利枝道巴士總站",
-        "name_sc": "利枝道, 近利枝道巴士总站 ",
-        "name_en": "Lee Chi Road, near Lee Chi Road Bus Terminus"
+        "name_tc": "鴨脷洲橋道, 近利枝道",
+        "name_sc": "鸭脷洲桥道, 近利枝道",
+        "name_en": "Ap Lei Chau Bridge Road, near Lee Chi Road"
       },
       {
         "stop_seq": 6,
@@ -110,6 +110,6 @@
         "name_en": "Jardine's Bazaar, near Tang Lung Chau Market"
       }
     ],
-    "data_timestamp": "2024-12-02T10:04:52.803+08:00"
+    "data_timestamp": "2024-12-18T14:16:17.525+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-12-08T18:44:19+08:00",
+  "generated_timestamp": "2024-12-26T20:40:40+08:00",
   "data": {
     "stop": "003752",
     "name_tc": "和田邨",
@@ -9,6 +9,6 @@
     "lat": "22.412549252091",
     "long": "113.96862576053",
     "name_sc": "和田邨",
-    "data_timestamp": "2024-12-08T05:00:03+08:00"
+    "data_timestamp": "2024-12-26T05:00:03+08:00"
   }
 }

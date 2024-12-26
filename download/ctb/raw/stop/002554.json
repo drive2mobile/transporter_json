@@ -1,14 +1,14 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-12-08T18:38:04+08:00",
+  "generated_timestamp": "2024-12-26T20:35:47+08:00",
   "data": {
     "stop": "002554",
-    "name_tc": "怡和街",
-    "name_en": "Yee Wo Street",
+    "name_tc": "銅鑼灣 - 怡和街",
+    "name_en": "Causeway Bay - Yee Wo Street",
     "lat": "22.279929702091",
     "long": "114.18500787053",
-    "name_sc": "怡和街",
-    "data_timestamp": "2024-12-08T05:00:03+08:00"
+    "name_sc": "铜锣湾 - 怡和街",
+    "data_timestamp": "2024-12-26T05:00:03+08:00"
   }
 }

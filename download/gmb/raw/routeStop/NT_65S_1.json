@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-08T22:24:25.502+08:00",
+  "generated_timestamp": "2024-12-26T20:58:21.274+08:00",
   "data": {
     "route_stops": [
       {
@@ -166,6 +166,6 @@
         "name_en": "Wong Nai Tau Bus Terminus"
       }
     ],
-    "data_timestamp": "2024-11-15T19:00:58.784+08:00"
+    "data_timestamp": "2024-12-17T17:09:37.509+08:00"
   }
 }

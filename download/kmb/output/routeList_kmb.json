@@ -2915,6 +2915,17 @@
     "serviceType": "1"
   },
   {
+    "id": "kmb_43S_I_1",
+    "company": "kmb",
+    "route": "43S",
+    "from_tc": "香港科學園",
+    "from_en": "HONG KONG SCIENCE PARK",
+    "to_tc": "石蔭",
+    "to_en": "SHEK YAM",
+    "dir": "I",
+    "serviceType": "1"
+  },
+  {
     "id": "kmb_43X_O_1",
     "company": "kmb",
     "route": "43X",
@@ -4264,6 +4275,28 @@
     "from_en": "YUEN LONG (WEST)",
     "to_tc": "荃灣站",
     "to_en": "TSUEN WAN STATION",
+    "dir": "I",
+    "serviceType": "1"
+  },
+  {
+    "id": "kmb_68R_O_1",
+    "company": "kmb",
+    "route": "68R",
+    "from_tc": "元朗 形點",
+    "from_en": "YOHO MALL (YUEN LONG)",
+    "to_tc": "大棠",
+    "to_en": "TAI TONG",
+    "dir": "I",
+    "serviceType": "1"
+  },
+  {
+    "id": "kmb_68R_I_1",
+    "company": "kmb",
+    "route": "68R",
+    "from_tc": "大棠",
+    "from_en": "TAI TONG",
+    "to_tc": "元朗 形點",
+    "to_en": "YOHO MALL (YUEN LONG)",
     "dir": "I",
     "serviceType": "1"
   },
@@ -6713,10 +6746,10 @@
     "id": "kmb_89S_O_1",
     "company": "kmb",
     "route": "89S",
-    "from_tc": "圓洲角",
-    "from_en": "YUEN CHAU KOK",
-    "to_tc": "烏溪沙站(循環線)",
-    "to_en": "WU KAI SHA STATION (CIRCULAR)",
+    "from_tc": "水泉澳",
+    "from_en": "SHUI CHUEN O",
+    "to_tc": "烏溪沙站",
+    "to_en": "WU KAI SHA STATION",
     "dir": "I",
     "serviceType": "1"
   },
@@ -6730,6 +6763,17 @@
     "to_en": "WU KAI SHA STATION",
     "dir": "I",
     "serviceType": "2"
+  },
+  {
+    "id": "kmb_89S_I_1",
+    "company": "kmb",
+    "route": "89S",
+    "from_tc": "烏溪沙站",
+    "from_en": "WU KAI SHA STATION",
+    "to_tc": "水泉澳",
+    "to_en": "SHUI CHUEN O",
+    "dir": "I",
+    "serviceType": "1"
   },
   {
     "id": "kmb_89X_O_1",
@@ -6873,17 +6917,6 @@
     "to_en": "PING SHEK / CHOI HUNG STATION",
     "dir": "I",
     "serviceType": "1"
-  },
-  {
-    "id": "kmb_91P_I_2",
-    "company": "kmb",
-    "route": "91P",
-    "from_tc": "香港科技大學(南)",
-    "from_en": "H.K.U.S.T. (SOUTH)",
-    "to_tc": "坪石 / 彩虹站",
-    "to_en": "PING SHEK / CHOI HUNG STATION",
-    "dir": "I",
-    "serviceType": "2"
   },
   {
     "id": "kmb_91S_O_1",
@@ -9070,7 +9103,7 @@
     "from_tc": "青衣站",
     "from_en": "TSING YI STATION",
     "to_tc": "美景花園(循環線)",
-    "to_en": "MAYFAIR GARDEN (CIRCULAR)",
+    "to_en": "MAYFAIR GARDENS (CIRCULAR)",
     "dir": "I",
     "serviceType": "1"
   },
@@ -11790,17 +11823,6 @@
     "to_en": "MONG KOK",
     "dir": "I",
     "serviceType": "1"
-  },
-  {
-    "id": "kmb_291P_O_2",
-    "company": "kmb",
-    "route": "291P",
-    "from_tc": "香港科技大學(南)",
-    "from_en": "H.K.U.S.T. (SOUTH)",
-    "to_tc": "旺角",
-    "to_en": "MONG KOK",
-    "dir": "I",
-    "serviceType": "2"
   },
   {
     "id": "kmb_292P_O_1",
@@ -15334,28 +15356,6 @@
     "serviceType": "1"
   },
   {
-    "id": "kmb_LB1_O_1",
-    "company": "kmb",
-    "route": "LB1",
-    "from_tc": "屯門公路轉車站(屯門方向)",
-    "from_en": "TUEN MUN ROAD BBI (TUEN MUN BOUND)",
-    "to_tc": "下白泥",
-    "to_en": "HA PAK NAI",
-    "dir": "I",
-    "serviceType": "1"
-  },
-  {
-    "id": "kmb_LB1_I_1",
-    "company": "kmb",
-    "route": "LB1",
-    "from_tc": "下白泥",
-    "from_en": "HA PAK NAI",
-    "to_tc": "屯門公路轉車站(九龍方向)",
-    "to_en": "TUEN MUN ROAD BBI (KOWLOON BOUND)",
-    "dir": "I",
-    "serviceType": "1"
-  },
-  {
     "id": "kmb_N3D_O_1",
     "company": "kmb",
     "route": "N3D",
@@ -15605,6 +15605,17 @@
     "from_en": "TSING YI (CHEUNG WANG ESTATE)",
     "to_tc": "紅磡站",
     "to_en": "HUNG HOM STATION",
+    "dir": "I",
+    "serviceType": "1"
+  },
+  {
+    "id": "kmb_N243_O_1",
+    "company": "kmb",
+    "route": "N243",
+    "from_tc": "青衣站",
+    "from_en": "TSING YI STATION",
+    "to_tc": "長青(循環線)",
+    "to_en": "CHEUNG CHING (CIRCULAR)",
     "dir": "I",
     "serviceType": "1"
   },
@@ -16551,6 +16562,50 @@
     "from_en": "TSEUNG KWAN O (TONG CHUN STREET)",
     "to_tc": "中環(由將軍澳出發循環行走)",
     "to_en": "CENTRAL (From Tseung Kwan O)(Circular)",
+    "dir": "I",
+    "serviceType": "1"
+  },
+  {
+    "id": "kmb_PN17_O_1",
+    "company": "kmb",
+    "route": "PN17",
+    "from_tc": "旺角MOKO",
+    "from_en": "MOKO MONG KOK",
+    "to_tc": "尖東",
+    "to_en": "TSIM SHA TSUI EAST",
+    "dir": "I",
+    "serviceType": "1"
+  },
+  {
+    "id": "kmb_PN18_O_1",
+    "company": "kmb",
+    "route": "PN18",
+    "from_tc": "赤柱佳美道",
+    "from_en": "CARMEL ROAD STANLEY",
+    "to_tc": "灣仔",
+    "to_en": "WAN CHAI",
+    "dir": "I",
+    "serviceType": "1"
+  },
+  {
+    "id": "kmb_PN19_O_1",
+    "company": "kmb",
+    "route": "PN19",
+    "from_tc": "西貢美裕街",
+    "from_en": "SAI KUNG MEI YU STREET",
+    "to_tc": "尖東",
+    "to_en": "TSIM SHA TSUI EAST",
+    "dir": "I",
+    "serviceType": "1"
+  },
+  {
+    "id": "kmb_PN20_O_1",
+    "company": "kmb",
+    "route": "PN20",
+    "from_tc": "葵涌興芳路",
+    "from_en": "KWAI CHUNG HING FONG ROAD",
+    "to_tc": "灣仔金紫荊廣場",
+    "to_en": "WAN CHAI GOLDEN BAUHINIA SQUARE",
     "dir": "I",
     "serviceType": "1"
   },

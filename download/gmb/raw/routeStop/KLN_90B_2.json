@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-08T22:22:49.374+08:00",
+  "generated_timestamp": "2024-12-26T20:56:36.217+08:00",
   "data": {
     "route_stops": [
       {
@@ -69,26 +69,33 @@
       },
       {
         "stop_seq": 10,
+        "stop_id": 20020823,
+        "name_tc": "康寧道, 近聯合醫院",
+        "name_sc": "康宁道, 近联合医院",
+        "name_en": "Hong Ning Road, near United Christian Hospital"
+      },
+      {
+        "stop_seq": 11,
         "stop_id": 20002030,
         "name_tc": "秀茂坪道, 寧波第二中學外",
         "name_sc": "秀茂坪道, 宁波第二中学外",
         "name_en": "Sau Mau Ping Road, Outside Ning Po No.2 College"
       },
       {
-        "stop_seq": 11,
+        "stop_seq": 12,
         "stop_id": 20002031,
         "name_tc": "秀茂坪道, 秀義樓對面",
         "name_sc": "秀茂坪道, 秀义楼对面",
         "name_en": "Sau Mau Ping Road, Opposite Sau Yee House"
       },
       {
-        "stop_seq": 12,
+        "stop_seq": 13,
         "stop_id": 20016402,
         "name_tc": "秀豐街, 近秀茂坪邨秀緻樓",
         "name_sc": "秀丰街, 近秀茂坪村秀致楼",
         "name_en": "Sau Fung Street, near Sau Chi House, Sau Mau Ping Estate"
       }
     ],
-    "data_timestamp": "2024-11-20T10:08:26.189+08:00"
+    "data_timestamp": "2024-12-12T12:06:12.404+08:00"
   }
 }

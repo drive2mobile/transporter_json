@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-12-08T18:46:49+08:00",
+  "generated_timestamp": "2024-12-26T20:42:34+08:00",
   "data": {
     "stop": "001951",
     "name_tc": "上水",
@@ -9,6 +9,6 @@
     "lat": "22.502382012091",
     "long": "114.12817437053",
     "name_sc": "上水",
-    "data_timestamp": "2024-12-08T05:00:03+08:00"
+    "data_timestamp": "2024-12-26T05:00:03+08:00"
   }
 }

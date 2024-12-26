@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-08T22:22:33.887+08:00",
+  "generated_timestamp": "2024-12-26T20:56:20.308+08:00",
   "data": {
     "route_stops": [
       {
@@ -19,6 +19,6 @@
         "name_en": "Lei Yue Mun Road outside Lam Tin Public Transport Interchange"
       }
     ],
-    "data_timestamp": "2024-10-29T16:57:33.250+08:00"
+    "data_timestamp": "2024-12-12T12:05:59.343+08:00"
   }
 }

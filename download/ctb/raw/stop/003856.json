@@ -1,14 +1,14 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-12-08T18:48:28+08:00",
+  "generated_timestamp": "2024-12-26T20:44:19+08:00",
   "data": {
     "stop": "003856",
-    "name_tc": "天璽．天, 協調道",
-    "name_en": "Cullinan Sky, Concorde Road",
+    "name_tc": "啟德 - 天璽．天, 協調道",
+    "name_en": "Kai Tak - Cullinan Sky, Concorde Road",
     "lat": "22.332340132091",
     "long": "114.19914745053",
-    "name_sc": "天玺．天, 协调道",
-    "data_timestamp": "2024-12-08T05:00:03+08:00"
+    "name_sc": "启德 - 天玺．天, 协调道",
+    "data_timestamp": "2024-12-26T05:00:03+08:00"
   }
 }

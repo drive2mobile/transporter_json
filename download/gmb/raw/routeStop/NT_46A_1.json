@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-08T22:23:49.456+08:00",
+  "generated_timestamp": "2024-12-26T20:57:36.959+08:00",
   "data": {
     "route_stops": [
       {
@@ -75,6 +75,6 @@
         "name_en": "KING FUNG PATH, near Noble Place Block 2"
       }
     ],
-    "data_timestamp": "2024-11-21T15:34:12.180+08:00"
+    "data_timestamp": "2024-12-24T09:30:46.782+08:00"
   }
 }

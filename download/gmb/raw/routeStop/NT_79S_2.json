@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-08T22:24:34.986+08:00",
+  "generated_timestamp": "2024-12-26T20:58:32.253+08:00",
   "data": {
     "route_stops": [
       {
@@ -152,6 +152,6 @@
         "name_en": "Tin Shiu Wai North (Grandeur Terrace) Minibus Terminus"
       }
     ],
-    "data_timestamp": "2024-12-06T09:29:10.023+08:00"
+    "data_timestamp": "2024-12-20T13:46:14.514+08:00"
   }
 }

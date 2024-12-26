@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-08T22:21:48.881+08:00",
+  "generated_timestamp": "2024-12-26T20:55:23.625+08:00",
   "data": {
     "route_stops": [
       {
@@ -89,6 +89,6 @@
         "name_en": "South Horizons Bus Terminus"
       }
     ],
-    "data_timestamp": "2024-12-06T12:06:46.625+08:00"
+    "data_timestamp": "2024-12-20T12:44:03.525+08:00"
   }
 }

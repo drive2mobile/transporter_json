@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-08T22:25:09.980+08:00",
+  "generated_timestamp": "2024-12-26T20:59:11.282+08:00",
   "data": {
     "route_stops": [
       {
@@ -26,6 +26,6 @@
         "name_en": "Hoi Kwai Road Public Transport Interchange"
       }
     ],
-    "data_timestamp": "2024-11-21T18:08:19.910+08:00"
+    "data_timestamp": "2024-12-24T09:34:06.946+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-08T22:23:46.212+08:00",
+  "generated_timestamp": "2024-12-26T20:57:33.852+08:00",
   "data": {
     "route_stops": [
       {
@@ -13,10 +13,10 @@
       },
       {
         "stop_seq": 2,
-        "stop_id": 20001413,
-        "name_tc": "屯門鄉事會路, 泰興大樓外",
-        "name_sc": "屯门乡事会路, 泰兴大楼外",
-        "name_en": "Tuen Mun Heung Sze Wui Road, outside Tai Hing Building"
+        "stop_id": 20001312,
+        "name_tc": "屯門鄉事會路, 德政圍外",
+        "name_sc": "屯门乡事会路, 德政围外",
+        "name_en": "Tuen Mun Heung Sze Wui Road, outside Tak Ching Court"
       },
       {
         "stop_seq": 3,
@@ -48,166 +48,159 @@
       },
       {
         "stop_seq": 7,
-        "stop_id": 20001348,
-        "name_tc": "青山公路青山灣段, 恆順園第9座外",
-        "name_sc": "青山公路青山湾段, 恒顺园第9座外",
-        "name_en": "Castle Peak Road-Castle Peak Bay, outside Block 9, Handsome Court"
-      },
-      {
-        "stop_seq": 8,
         "stop_id": 20002430,
         "name_tc": "青山公路青山灣段, 恆豐園外",
         "name_sc": "青山公路青山湾段, 恒丰园外",
         "name_en": "Castle Peak Road-Castle Peak Bay, outside Harvest Garden"
       },
       {
-        "stop_seq": 9,
+        "stop_seq": 8,
         "stop_id": 20001349,
         "name_tc": "青山公路青山灣段, 三聖邨進漁樓對面",
         "name_sc": "青山公路青山湾段, 三圣邨进渔楼对面",
         "name_en": "Castle Peak Road-Castle Peak Bay, opposite Chun Yu House Sam Shing Estate"
       },
       {
-        "stop_seq": 10,
+        "stop_seq": 9,
         "stop_id": 20002034,
         "name_tc": "青山公路青山灣段, 青山灣花園外",
         "name_sc": "青山公路青山湾段, 青山湾花园外",
         "name_en": "Castle Peal Road-outside Castle Peak Bay Garden"
       },
       {
-        "stop_seq": 11,
+        "stop_seq": 10,
         "stop_id": 20008711,
         "name_tc": "青山公路青山灣段, 海景花園外",
         "name_sc": "青山公路青山湾段, 海景花园外",
         "name_en": "Castle Peak Road-Castle Peak Bay, outside Seaview Garden"
       },
       {
-        "stop_seq": 12,
+        "stop_seq": 11,
         "stop_id": 20002036,
-        "name_tc": "青山公路青山灣段, 咖啡灣",
-        "name_sc": "青山公路青山湾段, 咖啡湾",
-        "name_en": "Castle Peak Road-Castle Peak Bay, Cafeteria Beach"
+        "name_tc": "青山公路青山灣段, 香港珠海學院外",
+        "name_sc": "青山公路青山湾段, 香港珠海学院外",
+        "name_en": "Castle Peak Road-Castle Peak Bay, outside Hong Kong Chu Hai College"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20002037,
+        "name_tc": "青山公路青山灣段, 黃金泳灘對面",
+        "name_sc": "青山公路青山湾段, 黄金泳滩对面",
+        "name_en": "Castle Peak Road-Castle Peak Bay, opposite Golden Beach"
       },
       {
         "stop_seq": 13,
-        "stop_id": 20002037,
-        "name_tc": "青山公路青山灣段, 黃金泳灘",
-        "name_sc": "青山公路青山湾段, 黄金泳滩",
-        "name_en": "Castle Peak Road-Castle Peak Bay, Golden Beach"
+        "stop_id": 20009273,
+        "name_tc": "青山公路掃管笏段, 黃金海岸商場",
+        "name_sc": "青山公路扫管笏段, 黄金海岸商场",
+        "name_en": "Castle Peak Road- So Kwun Wat, Hong Kong Gold Coast Piazza"
       },
       {
         "stop_seq": 14,
-        "stop_id": 20006914,
-        "name_tc": "青山公路-掃管笏段, 黃金海岸商場",
-        "name_sc": "青山公路-扫管笏段, 黄金海岸商场",
-        "name_en": "Castle Peak Road- So Kwun Wat, HK Gold Coast Marina Magic Shopping Mall"
-      },
-      {
-        "stop_seq": 15,
         "stop_id": 20004504,
         "name_tc": "嘉和里山路, 屯門稔灣村",
         "name_sc": "嘉和里山路, 屯门稔湾村",
         "name_en": "Ka Wo Li Hill Road, Tuen Mun Nim Wan Tsuen"
       },
       {
-        "stop_seq": 16,
+        "stop_seq": 15,
         "stop_id": 20001352,
         "name_tc": "青山公路掃管笏段, 黃金海岸商場外",
         "name_sc": "青山公路扫管笏段, 黄金海岸商场外",
-        "name_en": "Castle Peak Road- So Kwun Wat, outside HK Gold Coast Marina Magic Shopping Mall"
+        "name_en": "Castle Peak Road- So Kwun Wat, outside Hong Kong Gold Coast Piazza"
+      },
+      {
+        "stop_seq": 16,
+        "stop_id": 20002053,
+        "name_tc": "青山公路青山灣段, 黃金泳灘外",
+        "name_sc": "青山公路青山湾段, 黄金泳滩外",
+        "name_en": "Castle Peak Road-Castle Peak Bay, outside Golden Beach"
       },
       {
         "stop_seq": 17,
-        "stop_id": 20002053,
-        "name_tc": "青山公路青山灣段, 黃金海岸第1期外",
-        "name_sc": "青山公路青山湾段, 黄金海岸第1期外",
-        "name_en": "Castle Peak Road-Castle Peak Bay, outside Hong Kong Gold Coast Phase 1"
+        "stop_id": 20001353,
+        "name_tc": "青山公路青山灣段, 珠海學院對面",
+        "name_sc": "青山公路青山湾段, 珠海学院对面",
+        "name_en": "Castle Peak Road-Castle Peak Bay, opposite Chu Hai College"
       },
       {
         "stop_seq": 18,
-        "stop_id": 20001353,
-        "name_tc": "青山公路青山灣段, 舊咖啡灣泳灘停車場外",
-        "name_sc": "青山公路青山湾段, 旧咖啡湾泳滩停车场外",
-        "name_en": "Castle Peak Road-Castle Peak Bay, outside Cafeteria Old Beach Car Park"
+        "stop_id": 20002054,
+        "name_tc": "青山公路青山灣段, 碧翠花園外",
+        "name_sc": "青山公路青山湾段, 碧翠花园外",
+        "name_en": "Castle Peak Road-Castle Peak Bay, outside Bayview Terrace"
       },
       {
         "stop_seq": 19,
-        "stop_id": 20002054,
-        "name_tc": "青山公路青山灣段, 海景花園對面",
-        "name_sc": "青山公路青山湾段, 海景花园对面",
-        "name_en": "Castle Peak Road-Castle Peak Bay, opposite Seaview Garden"
+        "stop_id": 20001354,
+        "name_tc": "青山公路青山灣段, 青山灣泳灘外",
+        "name_sc": "青山公路青山湾段, 青山湾泳滩外",
+        "name_en": "Castle Peak Road-Castle Peak Bay, outside Castle Peak Beach"
       },
       {
         "stop_seq": 20,
-        "stop_id": 20001354,
-        "name_tc": "青山公路青山灣段, 青山灣花園對面",
-        "name_sc": "青山公路青山湾段, 青山湾花园对面",
-        "name_en": "Castle Peak Road-Castle Peak Bay, opposite Castle Peak Bay Garden"
-      },
-      {
-        "stop_seq": 21,
         "stop_id": 20004505,
         "name_tc": "青山公路青山灣段, 三聖邨滿漁樓外",
         "name_sc": "青山公路青山湾段, 三圣邨满渔楼外",
         "name_en": "Castle Peak Road-Castle Peak Bay, outside Moon Yu House of Sam Shing Estate"
       },
       {
-        "stop_seq": 22,
+        "stop_seq": 21,
         "stop_id": 20001355,
-        "name_tc": "青山公路青山灣段, 鐘聲慈善社胡陳金枝中學外",
-        "name_sc": "青山公路青山湾段, 钟声慈善社胡陈金枝中学外",
-        "name_en": "Castle Peak Road - Castle Peak Bay, outside CSBS Mrs. Aw Boon Haw Secondary School"
+        "name_tc": "青山公路青山灣段, 屯門兆麟政府綜合大樓外",
+        "name_sc": "青山公路青山湾段, 屯门兆麟政府综合大楼外",
+        "name_en": "Castle Peak Road - Castle Peak Bay, outside Tuen Mun Siu Lun Government Complex"
       },
       {
-        "stop_seq": 23,
+        "stop_seq": 22,
         "stop_id": 20001356,
         "name_tc": "青山公路青山灣段, 青善遊樂場外",
         "name_sc": "青山公路青山湾段, 青善游乐场外",
         "name_en": "Castle Peak Road - Castle Peak Bay, outside Tsing Sin Playground"
       },
       {
-        "stop_seq": 24,
+        "stop_seq": 23,
         "stop_id": 20001357,
         "name_tc": "青山公路青山灣段, 置樂花園8座外",
         "name_sc": "青山公路青山湾段, 置乐花园8座外",
         "name_en": "Castle Peak Road-Castle Peak Bay, outside Block 8, Chi Lok Fa Yuen"
       },
       {
-        "stop_seq": 25,
+        "stop_seq": 24,
         "stop_id": 20001358,
         "name_tc": "青山公路青山灣段, 金安大廈外",
         "name_sc": "青山公路青山湾段, 金安大厦外",
         "name_en": "Castle Peak Road-Castle Peak Bay, outside Come On Building"
       },
       {
-        "stop_seq": 26,
+        "stop_seq": 25,
         "stop_id": 20001359,
         "name_tc": "屯興路, 屯門官立中學外",
         "name_sc": "屯兴路, 屯门官立中学外",
         "name_en": "Tuen Hing Road, outside Tuen Mun Government Secondary School"
       },
       {
-        "stop_seq": 27,
+        "stop_seq": 26,
         "stop_id": 20001319,
         "name_tc": "屯門鄉事會路, 市中心輕鐵站外",
         "name_sc": "屯门乡事会路, 市中心轻铁站外",
         "name_en": "Tuen Mun Heung Sze Wui Road, outside Town Centre Light Rail Station"
       },
       {
-        "stop_seq": 28,
+        "stop_seq": 27,
         "stop_id": 20001311,
         "name_tc": "屯門站公共運輸交匯處",
         "name_sc": "屯门站公共运输交汇处",
         "name_en": "Tuen Mun Station Public Transport Interchange"
       },
       {
-        "stop_seq": 29,
+        "stop_seq": 28,
         "stop_id": 20001344,
         "name_tc": "河傍街, 屯門新墟街市外",
         "name_sc": "河傍街, 屯门新墟街市外",
         "name_en": "Ho Pong Street, outside Tuen Mun San Hui Market"
       }
     ],
-    "data_timestamp": "2024-10-16T17:02:28.670+08:00"
+    "data_timestamp": "2024-12-24T09:31:10.687+08:00"
   }
 }

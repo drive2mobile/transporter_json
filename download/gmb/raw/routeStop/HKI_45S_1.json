@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-08T22:21:32.255+08:00",
+  "generated_timestamp": "2024-12-26T20:55:09.391+08:00",
   "data": {
     "route_stops": [
       {
@@ -103,6 +103,6 @@
         "name_en": "First Street, near Centre Street Market"
       }
     ],
-    "data_timestamp": "2024-10-31T18:50:31.564+08:00"
+    "data_timestamp": "2024-12-24T09:27:34.732+08:00"
   }
 }

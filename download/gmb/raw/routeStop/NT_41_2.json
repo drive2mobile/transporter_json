@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-08T22:23:42.341+08:00",
+  "generated_timestamp": "2024-12-26T20:57:30.375+08:00",
   "data": {
     "route_stops": [
       {
@@ -68,6 +68,6 @@
         "name_en": "Lung Mun Oasis PTI"
       }
     ],
-    "data_timestamp": "2024-10-16T17:02:28.675+08:00"
+    "data_timestamp": "2024-12-24T09:30:46.889+08:00"
   }
 }

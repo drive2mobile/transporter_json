@@ -1,14 +1,14 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-12-08T18:42:47+08:00",
+  "generated_timestamp": "2024-12-26T20:37:33+08:00",
   "data": {
     "stop": "001157",
-    "name_tc": "金鐘站 - 添馬街",
-    "name_en": "Admiralty Station - Tamar Street",
+    "name_tc": "金鐘 - 添馬街",
+    "name_en": "Admiralty - Tamar Street",
     "lat": "22.279161072091",
     "long": "114.16399066053",
-    "name_sc": "金钟站 - 添马街",
-    "data_timestamp": "2024-12-08T05:00:03+08:00"
+    "name_sc": "金钟 - 添马街",
+    "data_timestamp": "2024-12-26T05:00:03+08:00"
   }
 }

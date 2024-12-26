@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-12-08T18:45:38+08:00",
+  "generated_timestamp": "2024-12-26T20:40:53+08:00",
   "data": {
     "stop": "002837",
     "name_tc": "香港體育館",
@@ -9,6 +9,6 @@
     "lat": "22.302319802091",
     "long": "114.18272304053",
     "name_sc": "香港体育馆",
-    "data_timestamp": "2024-12-08T05:00:03+08:00"
+    "data_timestamp": "2024-12-26T05:00:03+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-08T22:22:35.341+08:00",
+  "generated_timestamp": "2024-12-26T20:56:21.714+08:00",
   "data": {
     "route_stops": [
       {
@@ -222,6 +222,6 @@
         "name_en": "Kowloon Station"
       }
     ],
-    "data_timestamp": "2024-11-15T19:00:58.799+08:00"
+    "data_timestamp": "2024-12-17T17:09:37.509+08:00"
   }
 }

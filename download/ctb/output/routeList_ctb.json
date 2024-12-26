@@ -900,13 +900,23 @@
     "dir": "O"
   },
   {
+    "id": "ctb_20R_I",
+    "company": "ctb",
+    "route": "20R",
+    "from_tc": "尖沙咀／高鐵西九龍站",
+    "from_en": "Tsim Sha Tsui / High Speed Rail West Kowloon Station",
+    "to_tc": "啟德郵輪碼頭",
+    "to_en": "Kai Tak Cruise Terminal",
+    "dir": "I"
+  },
+  {
     "id": "ctb_20R_O",
     "company": "ctb",
     "route": "20R",
     "from_tc": "啟德郵輪碼頭",
     "from_en": "Kai Tak Cruise Terminal",
-    "to_tc": "高鐵西九龍站 (經:尖沙咀)",
-    "to_en": "High Speed Rail West Kowloon Station (via: Tsim Sha Tsui)",
+    "to_tc": "尖沙咀／高鐵西九龍站",
+    "to_en": "Tsim Sha Tsui / High Speed Rail West Kowloon Station",
     "dir": "O"
   },
   {
@@ -1253,8 +1263,8 @@
     "id": "kmbctb_307P_I",
     "company": "kmbctb",
     "route": "307P",
-    "from_tc": "大埔 (汀太路/ 富蝶)",
-    "from_en": "Tai Po (Ting Tai Road/ Fu Tip)",
+    "from_tc": "大埔 (汀太路／富蝶)",
+    "from_en": "Tai Po (Ting Tai Road / Fu Tip)",
     "to_tc": "天后站",
     "to_en": "Tin Hau Station",
     "dir": "I"
@@ -1265,8 +1275,8 @@
     "route": "307P",
     "from_tc": "天后站",
     "from_en": "Tin Hau Station",
-    "to_tc": "大埔 (汀太路/ 富蝶)",
-    "to_en": "Tai Po (Ting Tai Road/ Fu Tip)",
+    "to_tc": "大埔 (汀太路／富蝶)",
+    "to_en": "Tai Po (Ting Tai Road / Fu Tip)",
     "dir": "O"
   },
   {
@@ -4740,6 +4750,16 @@
     "dir": "O"
   },
   {
+    "id": "ctb_976S_O",
+    "company": "ctb",
+    "route": "976S",
+    "from_tc": "銅鑼灣 (摩頓台)",
+    "from_en": "Causeway Bay (Moreton Terrace)",
+    "to_tc": "落馬洲 (新田)",
+    "to_en": "Lok Ma Chau (San Tin)",
+    "dir": "O"
+  },
+  {
     "id": "ctb_979_I",
     "company": "ctb",
     "route": "979",
@@ -6106,7 +6126,7 @@
     "from_tc": "旺角 (經尖沙咀)",
     "from_en": "Mongkok (via Tsim Sha Tsui)",
     "to_tc": "日出康城",
-    "to_en": "Lohas Park",
+    "to_en": "LOHAS Park",
     "dir": "I"
   },
   {
@@ -6114,7 +6134,7 @@
     "company": "ctb",
     "route": "N796",
     "from_tc": "日出康城",
-    "from_en": "Lohas Park",
+    "from_en": "LOHAS Park",
     "to_tc": "旺角 (經尖沙咀)",
     "to_en": "Mongkok (via Tsim Sha Tsui)",
     "dir": "O"
@@ -6390,13 +6410,23 @@
     "dir": "O"
   },
   {
-    "id": "ctb_R11_O",
+    "id": "ctb_NB3_I",
     "company": "ctb",
-    "route": "R11",
-    "from_tc": "迪士尼樂園",
-    "from_en": "Disneyland",
-    "to_tc": "北角碼頭",
-    "to_en": "North Point Ferry Pier",
+    "route": "NB3",
+    "from_tc": "深圳灣口岸",
+    "from_en": "Shenzhen Bay Port",
+    "to_tc": "屯門碼頭",
+    "to_en": "Tuen Mun Pier Head",
+    "dir": "I"
+  },
+  {
+    "id": "ctb_NB3_O",
+    "company": "ctb",
+    "route": "NB3",
+    "from_tc": "屯門碼頭",
+    "from_en": "Tuen Mun Pier Head",
+    "to_tc": "深圳灣口岸",
+    "to_en": "Shenzhen Bay Port",
     "dir": "O"
   },
   {

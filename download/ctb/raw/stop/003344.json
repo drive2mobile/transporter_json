@@ -1,14 +1,14 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-12-08T18:45:50+08:00",
+  "generated_timestamp": "2024-12-26T20:41:13+08:00",
   "data": {
     "stop": "003344",
-    "name_tc": "利安邨, 西沙路",
-    "name_en": "Lee On Estate, Sai Sha Road",
+    "name_tc": "烏溪沙村, 西沙路",
+    "name_en": "Wu Kai Sha Village, Sai Sha Road",
     "lat": "22.427591282091",
     "long": "114.24030170053",
-    "name_sc": "利安邨, 西沙路",
-    "data_timestamp": "2024-12-08T05:00:03+08:00"
+    "name_sc": "乌溪沙村, 西沙路",
+    "data_timestamp": "2024-12-26T05:00:03+08:00"
   }
 }

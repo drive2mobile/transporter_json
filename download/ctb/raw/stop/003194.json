@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-12-08T18:51:10+08:00",
+  "generated_timestamp": "2024-12-26T20:46:46+08:00",
   "data": {
     "stop": "003194",
     "name_tc": "屯門碼頭",
@@ -9,6 +9,6 @@
     "lat": "22.372591222091",
     "long": "113.96708965053",
     "name_sc": "屯门码头",
-    "data_timestamp": "2024-12-08T05:00:03+08:00"
+    "data_timestamp": "2024-12-26T05:00:03+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-08T22:22:36.197+08:00",
+  "generated_timestamp": "2024-12-26T20:56:22.583+08:00",
   "data": {
     "route_stops": [
       {
@@ -47,6 +47,6 @@
         "name_en": "Fu Cheong Estate"
       }
     ],
-    "data_timestamp": "2024-10-25T12:44:11.598+08:00"
+    "data_timestamp": "2024-12-24T09:29:19.184+08:00"
   }
 }

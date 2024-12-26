@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-12-08T18:51:09+08:00",
+  "generated_timestamp": "2024-12-26T20:43:10+08:00",
   "data": {
     "stop": "003208",
     "name_tc": "深圳灣口岸",
@@ -9,6 +9,6 @@
     "lat": "22.501662252091",
     "long": "113.94518812053",
     "name_sc": "深圳湾口岸",
-    "data_timestamp": "2024-12-08T05:00:03+08:00"
+    "data_timestamp": "2024-12-26T05:00:03+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-08T22:25:09.233+08:00",
+  "generated_timestamp": "2024-12-26T20:59:10.574+08:00",
   "data": {
     "route_stops": [
       {
@@ -40,6 +40,6 @@
         "name_en": "Tsuen Wan Centre"
       }
     ],
-    "data_timestamp": "2024-11-21T18:08:19.912+08:00"
+    "data_timestamp": "2024-12-24T09:34:06.946+08:00"
   }
 }

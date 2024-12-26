@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-08T22:25:01.646+08:00",
+  "generated_timestamp": "2024-12-26T20:59:02.565+08:00",
   "data": {
     "route_stops": [
       {
@@ -103,6 +103,6 @@
         "name_en": "Kwai Shing (Kwai Hau Street) Minibus Terminus"
       }
     ],
-    "data_timestamp": "2024-11-21T18:22:09.135+08:00"
+    "data_timestamp": "2024-12-24T09:35:11.143+08:00"
   }
 }

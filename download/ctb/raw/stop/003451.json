@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-12-08T18:41:17+08:00",
+  "generated_timestamp": "2024-12-26T20:40:31+08:00",
   "data": {
     "stop": "003451",
     "name_tc": "黃竹坑站",
@@ -9,6 +9,6 @@
     "lat": "22.248175452091",
     "long": "114.16834820053",
     "name_sc": "黄竹坑站",
-    "data_timestamp": "2024-12-08T05:00:03+08:00"
+    "data_timestamp": "2024-12-26T05:00:03+08:00"
   }
 }

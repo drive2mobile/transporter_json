@@ -1,14 +1,14 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-12-08T18:41:38+08:00",
+  "generated_timestamp": "2024-12-26T20:36:32+08:00",
   "data": {
     "stop": "001141",
-    "name_tc": "金鐘站 - 高等法院, 金鐘道",
-    "name_en": "Admiralty Station - High Court, Queensway",
+    "name_tc": "金鐘 - 高等法院, 金鐘道",
+    "name_en": "Admiralty - High Court, Queensway",
     "lat": "22.278413762091",
     "long": "114.16387262053",
-    "name_sc": "金钟站 - 高等法院, 金钟道",
-    "data_timestamp": "2024-12-08T05:00:03+08:00"
+    "name_sc": "金钟 - 高等法院, 金钟道",
+    "data_timestamp": "2024-12-26T05:00:03+08:00"
   }
 }

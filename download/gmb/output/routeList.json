@@ -6011,8 +6011,8 @@
     "region": "NT",
     "route": "43",
     "route_seq": 1,
-    "from_tc": "屯門市中心",
-    "from_en": "Tuen Mun Town Centre",
+    "from_tc": "屯門市中心(河傍街) ",
+    "from_en": "Tuen Mun Town Centre (Ho Pong Street) ",
     "to_tc": "掃管笏 (循環線)",
     "to_en": "So Kwun Wat"
   },
@@ -6022,8 +6022,8 @@
     "region": "NT",
     "route": "43A",
     "route_seq": 1,
-    "from_tc": "屯門市中心",
-    "from_en": "Tuen Mun Town Centre",
+    "from_tc": "屯門市中心(河傍街) ",
+    "from_en": "Tuen Mun Town Centre (Ho Pong Street) ",
     "to_tc": "青榕街",
     "to_en": "Tsing Yung Street"
   },
@@ -6035,8 +6035,8 @@
     "route_seq": 2,
     "from_tc": "青榕街",
     "from_en": "Tsing Yung Street",
-    "to_tc": "屯門市中心",
-    "to_en": "Tuen Mun Town Centre"
+    "to_tc": "屯門市中心(河傍街) ",
+    "to_en": "Tuen Mun Town Centre (Ho Pong Street) "
   },
   {
     "id": "NT_43B_1",
@@ -6044,8 +6044,8 @@
     "region": "NT",
     "route": "43B",
     "route_seq": 1,
-    "from_tc": "屯門市中心",
-    "from_en": "Tuen Mun Town Centre",
+    "from_tc": "屯門市中心(河傍街) ",
+    "from_en": "Tuen Mun Town Centre (Ho Pong Street) ",
     "to_tc": "大欖涌 (循環線)",
     "to_en": "Tai Lam Chung (Circular)"
   },
@@ -6055,8 +6055,8 @@
     "region": "NT",
     "route": "43C",
     "route_seq": 1,
-    "from_tc": "屯門市中心",
-    "from_en": "Tuen Mun Town Centre",
+    "from_tc": "屯門市中心(河傍街) ",
+    "from_en": "Tuen Mun Town Centre (Ho Pong Street) ",
     "to_tc": "兆麟苑",
     "to_en": "Siu Lun Court"
   },
@@ -6068,8 +6068,8 @@
     "route_seq": 2,
     "from_tc": "兆麟苑",
     "from_en": "Siu Lun Court",
-    "to_tc": "屯門市中心",
-    "to_en": "Tuen Mun Town Centre"
+    "to_tc": "屯門市中心(河傍街) ",
+    "to_en": "Tuen Mun Town Centre (Ho Pong Street) "
   },
   {
     "id": "NT_43S_1",
@@ -6077,8 +6077,8 @@
     "region": "NT",
     "route": "43S",
     "route_seq": 1,
-    "from_tc": "屯門市中心",
-    "from_en": "Tuen Mun Town Centre",
+    "from_tc": "屯門市中心(河傍街) ",
+    "from_en": "Tuen Mun Town Centre (Ho Pong Street) ",
     "to_tc": "掃管笏 (循環線)",
     "to_en": "So Kwun Wat (Circular)"
   },

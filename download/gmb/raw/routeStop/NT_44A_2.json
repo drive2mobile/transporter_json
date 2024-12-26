@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-08T22:23:47.347+08:00",
+  "generated_timestamp": "2024-12-26T20:57:35.026+08:00",
   "data": {
     "route_stops": [
       {
@@ -103,6 +103,6 @@
         "name_en": "Tuen Mun Station Public Transport Interchange"
       }
     ],
-    "data_timestamp": "2024-12-03T10:53:14.207+08:00"
+    "data_timestamp": "2024-12-24T09:30:47.062+08:00"
   }
 }

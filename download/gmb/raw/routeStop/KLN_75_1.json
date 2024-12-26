@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-08T22:22:35.978+08:00",
+  "generated_timestamp": "2024-12-26T20:56:22.341+08:00",
   "data": {
     "route_stops": [
       {
@@ -152,6 +152,6 @@
         "name_en": "Sai Chuen Road, outside Fu Wong House, Fu Cheong Estate"
       }
     ],
-    "data_timestamp": "2024-10-25T12:43:48.452+08:00"
+    "data_timestamp": "2024-12-24T09:30:10.182+08:00"
   }
 }

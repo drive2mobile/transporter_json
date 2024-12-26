@@ -1,14 +1,14 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-12-08T18:35:33+08:00",
+  "generated_timestamp": "2024-12-26T20:34:32+08:00",
   "data": {
     "stop": "001140",
-    "name_tc": "金鐘站 - 太古廣場, 金鐘道",
-    "name_en": "Admiralty Station - Pacific Place, Queensway",
+    "name_tc": "金鐘 - 太古廣場, 金鐘道",
+    "name_en": "Admiralty - Pacific Place, Queensway",
     "lat": "22.278070732091",
     "long": "114.16486695053",
-    "name_sc": "金钟站 - 太古广场, 金钟道",
-    "data_timestamp": "2024-12-08T05:00:03+08:00"
+    "name_sc": "金钟 - 太古广场, 金钟道",
+    "data_timestamp": "2024-12-26T05:00:03+08:00"
   }
 }

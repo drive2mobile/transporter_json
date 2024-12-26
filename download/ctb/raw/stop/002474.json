@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-12-08T18:40:11+08:00",
+  "generated_timestamp": "2024-12-26T20:34:46+08:00",
   "data": {
     "stop": "002474",
     "name_tc": "邊寧頓街",
@@ -9,6 +9,6 @@
     "lat": "22.278458822091",
     "long": "114.18603081053",
     "name_sc": "边宁顿街",
-    "data_timestamp": "2024-12-08T05:00:03+08:00"
+    "data_timestamp": "2024-12-26T05:00:03+08:00"
   }
 }

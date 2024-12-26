@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-08T22:25:02.719+08:00",
+  "generated_timestamp": "2024-12-26T20:59:03.630+08:00",
   "data": {
     "route_stops": [
       {
@@ -54,6 +54,6 @@
         "name_en": "Hing Ning Road, Near Metroplaza"
       }
     ],
-    "data_timestamp": "2024-11-21T18:17:22.855+08:00"
+    "data_timestamp": "2024-12-24T09:34:06.978+08:00"
   }
 }

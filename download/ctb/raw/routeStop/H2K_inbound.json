@@ -1,95 +1,87 @@
 {
   "type": "RouteStop",
   "version": "2.0",
-  "generated_timestamp": "2024-12-08T18:38:20+08:00",
+  "generated_timestamp": "2024-12-26T20:33:01+08:00",
   "data": [
     {
       "co": "CTB",
       "route": "H2K",
       "dir": "I",
       "seq": 1,
-      "stop": "001475",
-      "data_timestamp": "2024-12-08T05:00:04+08:00"
+      "stop": "001481",
+      "data_timestamp": "2024-12-26T05:00:04+08:00"
     },
     {
       "co": "CTB",
       "route": "H2K",
       "dir": "I",
       "seq": 2,
-      "stop": "001481",
-      "data_timestamp": "2024-12-08T05:00:04+08:00"
+      "stop": "003533",
+      "data_timestamp": "2024-12-26T05:00:04+08:00"
     },
     {
       "co": "CTB",
       "route": "H2K",
       "dir": "I",
       "seq": 3,
-      "stop": "003533",
-      "data_timestamp": "2024-12-08T05:00:04+08:00"
+      "stop": "003772",
+      "data_timestamp": "2024-12-26T05:00:04+08:00"
     },
     {
       "co": "CTB",
       "route": "H2K",
       "dir": "I",
       "seq": 4,
-      "stop": "003772",
-      "data_timestamp": "2024-12-08T05:00:04+08:00"
+      "stop": "001570",
+      "data_timestamp": "2024-12-26T05:00:04+08:00"
     },
     {
       "co": "CTB",
       "route": "H2K",
       "dir": "I",
       "seq": 5,
-      "stop": "001570",
-      "data_timestamp": "2024-12-08T05:00:04+08:00"
+      "stop": "001588",
+      "data_timestamp": "2024-12-26T05:00:04+08:00"
     },
     {
       "co": "CTB",
       "route": "H2K",
       "dir": "I",
       "seq": 6,
-      "stop": "001588",
-      "data_timestamp": "2024-12-08T05:00:04+08:00"
+      "stop": "001587",
+      "data_timestamp": "2024-12-26T05:00:04+08:00"
     },
     {
       "co": "CTB",
       "route": "H2K",
       "dir": "I",
       "seq": 7,
-      "stop": "001587",
-      "data_timestamp": "2024-12-08T05:00:04+08:00"
+      "stop": "001476",
+      "data_timestamp": "2024-12-26T05:00:04+08:00"
     },
     {
       "co": "CTB",
       "route": "H2K",
       "dir": "I",
       "seq": 8,
-      "stop": "001476",
-      "data_timestamp": "2024-12-08T05:00:04+08:00"
+      "stop": "002570",
+      "data_timestamp": "2024-12-26T05:00:04+08:00"
     },
     {
       "co": "CTB",
       "route": "H2K",
       "dir": "I",
       "seq": 9,
-      "stop": "002570",
-      "data_timestamp": "2024-12-08T05:00:04+08:00"
+      "stop": "001033",
+      "data_timestamp": "2024-12-26T05:00:04+08:00"
     },
     {
       "co": "CTB",
       "route": "H2K",
       "dir": "I",
       "seq": 10,
-      "stop": "001033",
-      "data_timestamp": "2024-12-08T05:00:04+08:00"
-    },
-    {
-      "co": "CTB",
-      "route": "H2K",
-      "dir": "I",
-      "seq": 11,
       "stop": "001171",
-      "data_timestamp": "2024-12-08T05:00:04+08:00"
+      "data_timestamp": "2024-12-26T05:00:04+08:00"
     }
   ]
 }

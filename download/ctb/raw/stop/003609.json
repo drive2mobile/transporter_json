@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-12-08T18:49:29+08:00",
+  "generated_timestamp": "2024-12-26T20:45:20+08:00",
   "data": {
     "stop": "003609",
     "name_tc": "青衣站",
@@ -9,6 +9,6 @@
     "lat": "22.359835522091",
     "long": "114.10699087053",
     "name_sc": "青衣站",
-    "data_timestamp": "2024-12-08T05:00:03+08:00"
+    "data_timestamp": "2024-12-26T05:00:03+08:00"
   }
 }

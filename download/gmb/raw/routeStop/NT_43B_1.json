@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-08T22:23:45.239+08:00",
+  "generated_timestamp": "2024-12-26T20:57:33.091+08:00",
   "data": {
     "route_stops": [
       {
@@ -13,299 +13,292 @@
       },
       {
         "stop_seq": 2,
-        "stop_id": 20001413,
-        "name_tc": "屯門鄉事會路, 泰興大樓外",
-        "name_sc": "屯门乡事会路, 泰兴大楼外",
-        "name_en": "Tuen Mun Heung Sze Wui Road, outside Tai Hing Building"
-      },
-      {
-        "stop_seq": 3,
         "stop_id": 20001312,
         "name_tc": "屯門鄉事會路, 德政圍外",
         "name_sc": "屯门乡事会路, 德政围外",
         "name_en": "Tuen Mun Heung Sze Wui Road, outside Tak Ching Court"
       },
       {
-        "stop_seq": 4,
+        "stop_seq": 3,
         "stop_id": 20001313,
         "name_tc": "屯門鄉事會路, 時代廣場外",
         "name_sc": "屯门乡事会路, 时代广场外",
         "name_en": "Tuen Mun Heung Sze Wui Road, outside Tuen Mun Trend Plaza"
       },
       {
-        "stop_seq": 5,
+        "stop_seq": 4,
         "stop_id": 20001314,
         "name_tc": "屯門鄉事會路, 屯門市中心巴士總站外",
         "name_sc": "屯门乡事会路, 屯门市中心巴士总站外",
         "name_en": "Tuen Mun Heung Sze Wui Road, outside Tuen Mun Central Bus Terminus"
       },
       {
-        "stop_seq": 6,
+        "stop_seq": 5,
         "stop_id": 20001346,
         "name_tc": "屯興路, 仁愛分科診所外",
         "name_sc": "屯兴路, 仁爱分科诊所外",
         "name_en": "Tuen Hing Road, outside Yan Oi Polyclinic"
       },
       {
-        "stop_seq": 7,
+        "stop_seq": 6,
         "stop_id": 20001347,
         "name_tc": "青山公路青山灣段, 恆順園第1座外",
         "name_sc": "青山公路青山湾段, 恒顺园第1座外",
         "name_en": "Castle Peak Road-Castle Peak Bay, outside Block 1, Handsome Court"
       },
       {
-        "stop_seq": 8,
+        "stop_seq": 7,
         "stop_id": 20002430,
         "name_tc": "青山公路青山灣段, 恆豐園外",
         "name_sc": "青山公路青山湾段, 恒丰园外",
         "name_en": "Castle Peak Road-Castle Peak Bay, outside Harvest Garden"
       },
       {
-        "stop_seq": 9,
+        "stop_seq": 8,
         "stop_id": 20001349,
         "name_tc": "青山公路青山灣段, 三聖邨進漁樓對面",
         "name_sc": "青山公路青山湾段, 三圣邨进渔楼对面",
         "name_en": "Castle Peak Road-Castle Peak Bay, opposite Chun Yu House Sam Shing Estate"
       },
       {
-        "stop_seq": 10,
+        "stop_seq": 9,
         "stop_id": 20002034,
         "name_tc": "青山公路青山灣段, 青山灣花園外",
         "name_sc": "青山公路青山湾段, 青山湾花园外",
         "name_en": "Castle Peal Road-outside Castle Peak Bay Garden"
       },
       {
-        "stop_seq": 11,
+        "stop_seq": 10,
         "stop_id": 20008711,
         "name_tc": "青山公路青山灣段, 海景花園外",
         "name_sc": "青山公路青山湾段, 海景花园外",
         "name_en": "Castle Peak Road-Castle Peak Bay, outside Seaview Garden"
       },
       {
-        "stop_seq": 12,
+        "stop_seq": 11,
         "stop_id": 20002036,
-        "name_tc": "青山公路青山灣段, 咖啡灣",
-        "name_sc": "青山公路青山湾段, 咖啡湾",
-        "name_en": "Castle Peak Road-Castle Peak Bay, Cafeteria Beach"
+        "name_tc": "青山公路青山灣段, 香港珠海學院外",
+        "name_sc": "青山公路青山湾段, 香港珠海学院外",
+        "name_en": "Castle Peak Road-Castle Peak Bay, outside Hong Kong Chu Hai College"
+      },
+      {
+        "stop_seq": 12,
+        "stop_id": 20002037,
+        "name_tc": "青山公路青山灣段, 黃金泳灘對面",
+        "name_sc": "青山公路青山湾段, 黄金泳滩对面",
+        "name_en": "Castle Peak Road-Castle Peak Bay, opposite Golden Beach"
       },
       {
         "stop_seq": 13,
-        "stop_id": 20002037,
-        "name_tc": "青山公路青山灣段, 黃金泳灘",
-        "name_sc": "青山公路青山湾段, 黄金泳滩",
-        "name_en": "Castle Peak Road-Castle Peak Bay, Golden Beach"
+        "stop_id": 20006914,
+        "name_tc": "青山公路掃管笏段, 黃金海岸商場對面",
+        "name_sc": "青山公路扫管笏段, 黄金海岸商场对面",
+        "name_en": "Castle Peak Road- So Kwun Wat, opposite Hong Kong Gold Coast Piazza"
       },
       {
         "stop_seq": 14,
-        "stop_id": 20006914,
-        "name_tc": "青山公路-掃管笏段, 黃金海岸商場",
-        "name_sc": "青山公路-扫管笏段, 黄金海岸商场",
-        "name_en": "Castle Peak Road- So Kwun Wat, HK Gold Coast Marina Magic Shopping Mall"
+        "stop_id": 20002057,
+        "name_tc": "青山公路掃管笏段, 嘉和里村外",
+        "name_sc": "青山公路扫管笏段, 嘉和里村外",
+        "name_en": "Castle Peak Road- So Kwun Wat, outside Kar Wo Lei Tsuen"
       },
       {
         "stop_seq": 15,
-        "stop_id": 20002057,
-        "name_tc": "青山公路-掃管笏段, 嘉和海景別墅外",
-        "name_sc": "青山公路-扫管笏段, 嘉和海景别墅外",
-        "name_en": "Castle Peak Road- So Kwun Wat, outside Kar Wo Seaview Garden"
-      },
-      {
-        "stop_seq": 16,
         "stop_id": 20002040,
         "name_tc": "青山公路大欖段, 小秀外",
         "name_sc": "青山公路大榄段, 小秀外",
         "name_en": "Castle Peak Road-Tai Lam, outside Siu Sau"
       },
       {
-        "stop_seq": 17,
+        "stop_seq": 16,
         "stop_id": 20002058,
         "name_tc": "青山公路大欖段,文豪別墅對面",
         "name_sc": "青山公路大榄段,文豪别墅对面",
         "name_en": "Castle Peak Road-Tai Lam, opposite Ivanhoe Villa"
       },
       {
-        "stop_seq": 18,
+        "stop_seq": 17,
         "stop_id": 20002043,
         "name_tc": "青山公路大欖段, 懲教署已婚宿舍對面",
         "name_sc": "青山公路大榄段, 惩教署已婚宿舍对面",
         "name_en": "Castle Peak Road-Tai Lam, opposite CSD Married Staff Quarters"
       },
       {
-        "stop_seq": 19,
+        "stop_seq": 18,
         "stop_id": 20005041,
         "name_tc": "小欖路, 帝濤灣",
         "name_sc": "小榄路, 帝涛湾",
         "name_en": "Siu Lam Road, Palatial Coast"
       },
       {
-        "stop_seq": 20,
+        "stop_seq": 19,
         "stop_id": 20001363,
         "name_tc": "小欖精神病治療中心",
         "name_sc": "小榄精神病治疗中心",
         "name_en": "Siu Lam Psychiatric Centre"
       },
       {
-        "stop_seq": 21,
-        "stop_id": 20005042,
-        "name_tc": "大欖涌道, 近聯康里",
-        "name_sc": "大榄涌道, 近联康里",
-        "name_en": "Tai Lam Chung Road, near Luen Hong Lane"
-      },
-      {
-        "stop_seq": 22,
+        "stop_seq": 20,
         "stop_id": 20001365,
         "name_tc": "大欖涌道, 近大欖涌村",
         "name_sc": "大榄涌道, 近大榄涌村",
         "name_en": "Tai Lam Chung Road, near Tai Tam Chung"
       },
       {
-        "stop_seq": 23,
+        "stop_seq": 21,
+        "stop_id": 20020887,
+        "name_tc": "青山公路大欖段, 大欖涌",
+        "name_sc": "青山公路大榄段, 大榄涌",
+        "name_en": "Castle Peak Road-Tai Lam Tai Lam Chung"
+      },
+      {
+        "stop_seq": 22,
         "stop_id": 20007079,
         "name_tc": "屯門公路轉乘站(九龍方向)",
         "name_sc": "屯门公路转乘站(九龙方向)",
         "name_en": "Tuen Mun Road Interchange (Kowloon Bound)"
       },
       {
-        "stop_seq": 24,
+        "stop_seq": 23,
         "stop_id": 20005041,
         "name_tc": "小欖路, 帝濤灣",
         "name_sc": "小榄路, 帝涛湾",
         "name_en": "Siu Lam Road, Palatial Coast"
       },
       {
-        "stop_seq": 25,
+        "stop_seq": 24,
         "stop_id": 20001363,
         "name_tc": "小欖精神病治療中心",
         "name_sc": "小榄精神病治疗中心",
         "name_en": "Siu Lam Psychiatric Centre"
       },
       {
-        "stop_seq": 26,
+        "stop_seq": 25,
         "stop_id": 20001368,
         "name_tc": "青山公路大欖段, 鄰近懲教署已婚職員宿舍",
         "name_sc": "青山公路大榄段, 邻近惩教署已婚职员宿舍",
         "name_en": "Castle Peak Road-Tai Lam, near CSD Married Staff Quarters"
       },
       {
-        "stop_seq": 27,
+        "stop_seq": 26,
         "stop_id": 20001369,
         "name_tc": "青山公路大欖段, 近青發街",
         "name_sc": "青山公路大榄段, 近青发街",
         "name_en": "Castle Peak Road-Tai Lam, near Tsing Fat Street"
       },
       {
-        "stop_seq": 28,
+        "stop_seq": 27,
         "stop_id": 20001370,
         "name_tc": "青山公路大欖段, 瑜翠園外",
         "name_sc": "青山公路大榄段, 瑜翠园外",
         "name_en": "Castle Peak Road-Tai Lam, outside Peridot Court"
       },
       {
-        "stop_seq": 29,
-        "stop_id": 20001371,
-        "name_tc": "青山公路掃管芴段, 黃金海岸第6座外",
-        "name_sc": "青山公路扫管芴段, 黄金海岸第6座外",
-        "name_en": "Castle Peak Road-So Kwun Wat, outside Tower 6, Hong Kong Gold Coast"
+        "stop_seq": 28,
+        "stop_id": 20020888,
+        "name_tc": "青山公路掃管芴段, 近青龍路",
+        "name_sc": "青山公路扫管笏段, 近青龙路",
+        "name_en": "Castle Peak Road-So Kwun Wat, near Tsing Lung Road"
       },
       {
-        "stop_seq": 30,
+        "stop_seq": 29,
         "stop_id": 20001352,
         "name_tc": "青山公路掃管笏段, 黃金海岸商場外",
         "name_sc": "青山公路扫管笏段, 黄金海岸商场外",
-        "name_en": "Castle Peak Road- So Kwun Wat, outside HK Gold Coast Marina Magic Shopping Mall"
+        "name_en": "Castle Peak Road- So Kwun Wat, outside Hong Kong Gold Coast Piazza"
+      },
+      {
+        "stop_seq": 30,
+        "stop_id": 20002053,
+        "name_tc": "青山公路青山灣段, 黃金泳灘外",
+        "name_sc": "青山公路青山湾段, 黄金泳滩外",
+        "name_en": "Castle Peak Road-Castle Peak Bay, outside Golden Beach"
       },
       {
         "stop_seq": 31,
-        "stop_id": 20002053,
-        "name_tc": "青山公路青山灣段, 黃金海岸第1期外",
-        "name_sc": "青山公路青山湾段, 黄金海岸第1期外",
-        "name_en": "Castle Peak Road-Castle Peak Bay, outside Hong Kong Gold Coast Phase 1"
+        "stop_id": 20001353,
+        "name_tc": "青山公路青山灣段, 珠海學院對面",
+        "name_sc": "青山公路青山湾段, 珠海学院对面",
+        "name_en": "Castle Peak Road-Castle Peak Bay, opposite Chu Hai College"
       },
       {
         "stop_seq": 32,
-        "stop_id": 20001353,
-        "name_tc": "青山公路青山灣段, 舊咖啡灣泳灘停車場外",
-        "name_sc": "青山公路青山湾段, 旧咖啡湾泳滩停车场外",
-        "name_en": "Castle Peak Road-Castle Peak Bay, outside Cafeteria Old Beach Car Park"
+        "stop_id": 20002054,
+        "name_tc": "青山公路青山灣段, 碧翠花園外",
+        "name_sc": "青山公路青山湾段, 碧翠花园外",
+        "name_en": "Castle Peak Road-Castle Peak Bay, outside Bayview Terrace"
       },
       {
         "stop_seq": 33,
-        "stop_id": 20002054,
-        "name_tc": "青山公路青山灣段, 海景花園對面",
-        "name_sc": "青山公路青山湾段, 海景花园对面",
-        "name_en": "Castle Peak Road-Castle Peak Bay, opposite Seaview Garden"
+        "stop_id": 20001354,
+        "name_tc": "青山公路青山灣段, 青山灣泳灘外",
+        "name_sc": "青山公路青山湾段, 青山湾泳滩外",
+        "name_en": "Castle Peak Road-Castle Peak Bay, outside Castle Peak Beach"
       },
       {
         "stop_seq": 34,
-        "stop_id": 20001354,
-        "name_tc": "青山公路青山灣段, 青山灣花園對面",
-        "name_sc": "青山公路青山湾段, 青山湾花园对面",
-        "name_en": "Castle Peak Road-Castle Peak Bay, opposite Castle Peak Bay Garden"
-      },
-      {
-        "stop_seq": 35,
         "stop_id": 20004505,
         "name_tc": "青山公路青山灣段, 三聖邨滿漁樓外",
         "name_sc": "青山公路青山湾段, 三圣邨满渔楼外",
         "name_en": "Castle Peak Road-Castle Peak Bay, outside Moon Yu House of Sam Shing Estate"
       },
       {
-        "stop_seq": 36,
+        "stop_seq": 35,
         "stop_id": 20001355,
-        "name_tc": "青山公路青山灣段, 三聖廟對面",
-        "name_sc": "青山公路青山湾段, 三圣庙对面",
-        "name_en": "Castle Peak Road-Castle Peak Bay, opposite Sam Shing TempleCastle Peak Road-Castle Peak Bay, opposite Sam Shing Temple"
+        "name_tc": "青山公路青山灣段, 屯門兆麟政府綜合大樓外",
+        "name_sc": "青山公路青山湾段, 屯门兆麟政府综合大楼外",
+        "name_en": "Castle Peak Road - Castle Peak Bay, outside Tuen Mun Siu Lun Government Complex"
+      },
+      {
+        "stop_seq": 36,
+        "stop_id": 20001356,
+        "name_tc": "青山公路青山灣段, 青善遊樂場外",
+        "name_sc": "青山公路青山湾段, 青善游乐场外",
+        "name_en": "Castle Peak Road - Castle Peak Bay, outside Tsing Sin Playground"
       },
       {
         "stop_seq": 37,
-        "stop_id": 20001356,
-        "name_tc": "青山公路青山灣段, 龍成花園1座外",
-        "name_sc": "青山公路青山湾段, 龙成花园1座外",
-        "name_en": "Castle Peak Road-Castle Peak Bay, outside Tower 1, Jc Place"
-      },
-      {
-        "stop_seq": 38,
         "stop_id": 20001357,
         "name_tc": "青山公路青山灣段, 置樂花園8座外",
         "name_sc": "青山公路青山湾段, 置乐花园8座外",
         "name_en": "Castle Peak Road-Castle Peak Bay, outside Block 8, Chi Lok Fa Yuen"
       },
       {
-        "stop_seq": 39,
+        "stop_seq": 38,
         "stop_id": 20001358,
         "name_tc": "青山公路青山灣段, 金安大廈外",
         "name_sc": "青山公路青山湾段, 金安大厦外",
         "name_en": "Castle Peak Road-Castle Peak Bay, outside Come On Building"
       },
       {
-        "stop_seq": 40,
+        "stop_seq": 39,
         "stop_id": 20001359,
         "name_tc": "屯興路, 屯門官立中學外",
         "name_sc": "屯兴路, 屯门官立中学外",
         "name_en": "Tuen Hing Road, outside Tuen Mun Government Secondary School"
       },
       {
-        "stop_seq": 41,
+        "stop_seq": 40,
         "stop_id": 20001319,
-        "name_tc": "屯門鄉事會路, 時代廣場對面",
-        "name_sc": "屯门乡事会路, 时代广场对面",
-        "name_en": "Tuen Mun Heung Sze Wui Road, opposite Tuen Mun Trend Plaza"
+        "name_tc": "屯門鄉事會路, 市中心輕鐵站外",
+        "name_sc": "屯门乡事会路, 市中心轻铁站外",
+        "name_en": "Tuen Mun Heung Sze Wui Road, outside Town Centre Light Rail Station"
       },
       {
-        "stop_seq": 42,
+        "stop_seq": 41,
         "stop_id": 20011812,
         "name_tc": "屯門站公共運輸交匯處",
         "name_sc": "屯门站公共运输交汇处",
         "name_en": "Tuen Mun Station Public Transport Interchange"
       },
       {
-        "stop_seq": 43,
+        "stop_seq": 42,
         "stop_id": 20001344,
         "name_tc": "河傍街, 屯門新墟街市外",
         "name_sc": "河傍街, 屯门新墟街市外",
         "name_en": "Ho Pong Street, outside Tuen Mun San Hui Market"
       }
     ],
-    "data_timestamp": "2024-11-21T15:33:19.427+08:00"
+    "data_timestamp": "2024-12-24T09:30:47.107+08:00"
   }
 }

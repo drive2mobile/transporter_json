@@ -1,14 +1,14 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-12-08T18:40:54+08:00",
+  "generated_timestamp": "2024-12-26T20:35:45+08:00",
   "data": {
     "stop": "001137",
-    "name_tc": "金鐘站 - 統一中心, 金鐘道",
-    "name_en": "Admiralty Station - United Centre, Queensway",
+    "name_tc": "金鐘 - 統一中心, 金鐘道",
+    "name_en": "Admiralty - United Centre, Queensway",
     "lat": "22.278348592091",
     "long": "114.16493918053",
-    "name_sc": "金钟站 - 统一中心, 金钟道",
-    "data_timestamp": "2024-12-08T05:00:03+08:00"
+    "name_sc": "金钟 - 统一中心, 金钟道",
+    "data_timestamp": "2024-12-26T05:00:03+08:00"
   }
 }

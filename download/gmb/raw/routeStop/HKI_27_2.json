@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-08T22:21:21.357+08:00",
+  "generated_timestamp": "2024-12-26T20:54:56.757+08:00",
   "data": {
     "route_stops": [
       {
@@ -33,6 +33,6 @@
         "name_en": "Wai Fung Street, near Shun Lee Building"
       }
     ],
-    "data_timestamp": "2024-11-25T11:00:12.208+08:00"
+    "data_timestamp": "2024-12-17T10:11:40.143+08:00"
   }
 }

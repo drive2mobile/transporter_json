@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-08T22:23:43.649+08:00",
+  "generated_timestamp": "2024-12-26T20:57:31.735+08:00",
   "data": {
     "route_stops": [
       {
@@ -103,6 +103,6 @@
         "name_en": "Tsing Yi Ferry Pier Terminus"
       }
     ],
-    "data_timestamp": "2024-12-04T12:43:23.216+08:00"
+    "data_timestamp": "2024-12-18T12:07:44.567+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-12-08T18:46:49+08:00",
+  "generated_timestamp": "2024-12-26T20:43:04+08:00",
   "data": {
     "stop": "001700",
     "name_tc": "寶琳站",
@@ -9,6 +9,6 @@
     "lat": "22.322835922091",
     "long": "114.25822088053",
     "name_sc": "宝琳站",
-    "data_timestamp": "2024-12-08T05:00:03+08:00"
+    "data_timestamp": "2024-12-26T05:00:03+08:00"
   }
 }

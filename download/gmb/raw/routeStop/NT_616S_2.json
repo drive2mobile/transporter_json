@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-08T22:24:17.706+08:00",
+  "generated_timestamp": "2024-12-26T20:58:13.142+08:00",
   "data": {
     "route_stops": [
       {
@@ -47,6 +47,6 @@
         "name_en": "Sai Yeung Choi Street South, near Pioneer Centre"
       }
     ],
-    "data_timestamp": "2024-11-15T19:00:58.784+08:00"
+    "data_timestamp": "2024-12-17T17:09:37.509+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-12-08T18:38:34+08:00",
+  "generated_timestamp": "2024-12-26T20:36:18+08:00",
   "data": {
     "stop": "002363",
     "name_tc": "香港仔",
@@ -9,6 +9,6 @@
     "lat": "22.247404462091",
     "long": "114.15549585053",
     "name_sc": "香港仔",
-    "data_timestamp": "2024-12-08T05:00:03+08:00"
+    "data_timestamp": "2024-12-26T05:00:03+08:00"
   }
 }

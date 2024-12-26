@@ -1,7 +1,7 @@
 {
   "type": "StopList",
   "version": "1.0",
-  "generated_timestamp": "2024-12-08T18:29:55+08:00",
+  "generated_timestamp": "2024-12-26T20:24:29+08:00",
   "data": [
     {
       "stop": "18492910339410B1",
@@ -7012,6 +7012,14 @@
       "long": "114.187471"
     },
     {
+      "stop": "CB341BEEABF66D6E",
+      "name_en": "KWUN TONG STATION (E3)",
+      "name_tc": "觀塘站 (E3)",
+      "name_sc": "观塘站 (E3)",
+      "lat": "22.311151",
+      "long": "114.227669"
+    },
+    {
       "stop": "6530130BE25E909C",
       "name_en": "WO LOK ESTATE",
       "name_tc": "和樂邨",
@@ -7037,9 +7045,9 @@
     },
     {
       "stop": "466BC4C1908A1A06",
-      "name_en": "PO TAT ESTATE BBI (N2)",
-      "name_tc": "寶達邨轉車站 (N2)",
-      "name_sc": "宝达邨转车站 (N2)",
+      "name_en": "PO TAT ESTATE BBI (N1)",
+      "name_tc": "寶達邨轉車站 (N1)",
+      "name_sc": "宝达邨转车站 (N1)",
       "lat": "22.318565",
       "long": "114.236118"
     },
@@ -7058,6 +7066,14 @@
       "name_sc": "爱达楼",
       "lat": "22.321967",
       "long": "114.232500"
+    },
+    {
+      "stop": "FF68304E8C1FF0B1",
+      "name_en": "KAM TAI HOUSE",
+      "name_tc": "錦泰樓",
+      "name_sc": "锦泰楼",
+      "lat": "22.324236",
+      "long": "114.230703"
     },
     {
       "stop": "A6A1C99BF11EE56C",
@@ -10241,7 +10257,7 @@
       "name_tc": "葵涌邨秋葵樓",
       "name_sc": "葵涌邨秋葵楼",
       "lat": "22.368256",
-      "long": "114.129965"
+      "long": "114.130388"
     },
     {
       "stop": "0393E099E78BEB94",
@@ -15461,7 +15477,7 @@
     },
     {
       "stop": "6E22023A7DF1B381",
-      "name_en": "TSING YI BBI - VILLA ESPLANADA(D1)",
+      "name_en": "TSING YI BBI - VILLA ESPLANADA (D1)",
       "name_tc": "青衣轉車站 –灝景灣 (D1)",
       "name_sc": "青衣转车站 –灏景湾 (D1)",
       "lat": "22.360898",
@@ -21645,7 +21661,7 @@
     },
     {
       "stop": "AFC36FC71B4E124E",
-      "name_en": "TSING YI BBI - ON MEI HOUSE CHEUNG ON ESTATE(B1)",
+      "name_en": "TSING YI BBI - ON MEI HOUSE CHEUNG ON ESTATE (B1)",
       "name_tc": "青衣轉車站 -長安邨安湄樓 (B1)",
       "name_sc": "青衣转车站 -长安邨安湄楼 (B1)",
       "lat": "22.361152",
@@ -21964,6 +21980,14 @@
       "long": "114.064395"
     },
     {
+      "stop": "DC81D1176824125F",
+      "name_en": "TAI TONG",
+      "name_tc": "大棠",
+      "name_sc": "大棠",
+      "lat": "22.413548",
+      "long": "114.027760"
+    },
+    {
       "stop": "6D66CBA494DECB08",
       "name_en": "HUNG SHUI KIU (HUNG FUK ESTATE) BUS TERMINUS",
       "name_tc": "洪水橋(洪福邨)總站",
@@ -22226,14 +22250,6 @@
       "name_sc": "湿地公园路",
       "lat": "22.465603",
       "long": "114.006451"
-    },
-    {
-      "stop": "BA9166F11C8D446E",
-      "name_en": "YAT TAM HOUSE TIN YAT ESTATE",
-      "name_tc": "天逸邨逸潭樓",
-      "name_sc": "天逸邨逸潭楼",
-      "lat": "22.468468",
-      "long": "113.999554"
     },
     {
       "stop": "63DF37D89C356A04",
@@ -29940,6 +29956,14 @@
       "long": "114.165486"
     },
     {
+      "stop": "CEE44B3D4CC3E847",
+      "name_en": "TAI WAI STATION BUS TERMINUS (G3)",
+      "name_tc": "大圍站總站 (G3)",
+      "name_sc": "大围站总站 (G3)",
+      "lat": "22.373074",
+      "long": "114.180370"
+    },
+    {
       "stop": "453ABA7E5B17D60A",
       "name_en": "CHE KUNG TEMPLE",
       "name_tc": "車公廟",
@@ -30514,6 +30538,14 @@
       "name_sc": "乌溪沙站",
       "lat": "22.428420",
       "long": "114.243873"
+    },
+    {
+      "stop": "7FD05121B0A4A750",
+      "name_en": "YIU HIM HOUSE YIU ON ESTATE",
+      "name_tc": "耀安邨耀謙樓",
+      "name_sc": "耀安邨耀谦楼",
+      "lat": "22.418087",
+      "long": "114.230731"
     },
     {
       "stop": "F3333DDE2FFE3AB4",
@@ -31308,14 +31340,6 @@
       "long": "114.240619"
     },
     {
-      "stop": "CB341BEEABF66D6E",
-      "name_en": "KWUN TONG STATION (E3)",
-      "name_tc": "觀塘站 (E3)",
-      "name_sc": "观塘站 (E3)",
-      "lat": "22.311151",
-      "long": "114.227669"
-    },
-    {
       "stop": "0306B53F46955E3E",
       "name_en": "KWUN TONG BBI - MILLENNIUM CITY (B3)",
       "name_tc": "觀塘轉車站 - 創紀之城 (B3)",
@@ -31701,9 +31725,9 @@
     },
     {
       "stop": "03C3F537C41E4986",
-      "name_en": "PO TAT ESTATE BBI (N1)",
-      "name_tc": "寶達邨轉車站 (N1)",
-      "name_sc": "宝达邨转车站 (N1)",
+      "name_en": "PO TAT ESTATE BBI (N2)",
+      "name_tc": "寶達邨轉車站 (N2)",
+      "name_sc": "宝达邨转车站 (N2)",
       "lat": "22.318565",
       "long": "114.236118"
     },
@@ -32378,14 +32402,6 @@
       "name_sc": "乌溪沙站",
       "lat": "22.428333",
       "long": "114.243275"
-    },
-    {
-      "stop": "7FD05121B0A4A750",
-      "name_en": "YIU HIM HOUSE YIU ON ESTATE",
-      "name_tc": "耀安邨耀謙樓",
-      "name_sc": "耀安邨耀谦楼",
-      "lat": "22.418087",
-      "long": "114.230731"
     },
     {
       "stop": "336FF66D1F0AC4A0",
@@ -37620,14 +37636,6 @@
       "long": "114.232593"
     },
     {
-      "stop": "FF68304E8C1FF0B1",
-      "name_en": "KAM TAI HOUSE",
-      "name_tc": "錦泰樓",
-      "name_sc": "锦泰楼",
-      "lat": "22.324236",
-      "long": "114.230703"
-    },
-    {
       "stop": "E7FFA1939B4F8EB6",
       "name_en": "ON TAI BUS TERMINUS",
       "name_tc": "安泰總站",
@@ -39962,14 +39970,6 @@
       "name_sc": "青沙公路转车站 (B2)",
       "lat": "22.360716",
       "long": "114.162966"
-    },
-    {
-      "stop": "CEE44B3D4CC3E847",
-      "name_en": "TAI WAI STATION BUS TERMINUS (G3)",
-      "name_tc": "大圍站總站 (G3)",
-      "name_sc": "大围站总站 (G3)",
-      "lat": "22.373074",
-      "long": "114.180370"
     },
     {
       "stop": "EAA44CDBC231DB8C",
@@ -47692,14 +47692,6 @@
       "long": "113.947582"
     },
     {
-      "stop": "020B06374E07A1B9",
-      "name_en": "SHEK PO TSUEN",
-      "name_tc": "石埗村",
-      "name_sc": "石埗村",
-      "lat": "22.440095",
-      "long": "113.998348"
-    },
-    {
       "stop": "CEDD8C935E63648C",
       "name_en": "TIN SHUI WAI STATION",
       "name_tc": "天水圍站",
@@ -51340,54 +51332,6 @@
       "long": "114.177000"
     },
     {
-      "stop": "A33D2929C5F3B7E0",
-      "name_en": "TUEN MUN ROAD BBI",
-      "name_tc": "屯門公路轉車站",
-      "name_sc": "屯门公路转车站",
-      "lat": "22.358492",
-      "long": "114.019106"
-    },
-    {
-      "stop": "3359572AE1765132",
-      "name_en": "LAU FAU SHAN MAIN STREET ROUNDABOUT",
-      "name_tc": "流浮山正大街",
-      "name_sc": "流浮山正大街",
-      "lat": "22.467285",
-      "long": "113.983965"
-    },
-    {
-      "stop": "80CE46D61881DC6A",
-      "name_en": "AP TSAI HANG",
-      "name_tc": "鴨仔坑",
-      "name_sc": "鸭仔坑",
-      "lat": "22.438641",
-      "long": "113.949096"
-    },
-    {
-      "stop": "497320292297256C",
-      "name_en": "HA PAK NAI",
-      "name_tc": "下白泥",
-      "name_sc": "下白泥",
-      "lat": "22.426797",
-      "long": "113.942990"
-    },
-    {
-      "stop": "E107486C465320C4",
-      "name_en": "AP TSAI HANG",
-      "name_tc": "鴨仔坑",
-      "name_sc": "鸭仔坑",
-      "lat": "22.438684",
-      "long": "113.949043"
-    },
-    {
-      "stop": "66BAE0730AA9044A",
-      "name_en": "TUEN MUN ROAD BBI (KOWLOON BOUND)",
-      "name_tc": "屯門公路轉車站(九龍方向)",
-      "name_sc": "屯门公路转车站(九龙方向)",
-      "lat": "22.362716",
-      "long": "114.015918"
-    },
-    {
       "stop": "137E4ABB3A5D28F0",
       "name_en": "CAUSEWAY BAY TYPHOON SHELTER",
       "name_tc": "銅鑼灣避風塘",
@@ -52570,6 +52514,86 @@
       "name_sc": "北角汇",
       "lat": "22.292777",
       "long": "114.202044"
+    },
+    {
+      "stop": "D807FB5CE82945A2",
+      "name_en": "MOKO Mong Kok",
+      "name_tc": "旺角MOKO",
+      "name_sc": "旺角MOKO",
+      "lat": "22.324613",
+      "long": "114.172570"
+    },
+    {
+      "stop": "2A346426D6FD612E",
+      "name_en": "SHUNG KING STREET HUNG HOM",
+      "name_tc": "紅磡船景街",
+      "name_sc": "红磡船景街",
+      "lat": "22.304140",
+      "long": "114.189701"
+    },
+    {
+      "stop": "85A65BCDD35803A8",
+      "name_en": "TSIM SHA TSUI EAST",
+      "name_tc": "尖東",
+      "name_sc": "尖东",
+      "lat": "22.296416",
+      "long": "114.177000"
+    },
+    {
+      "stop": "827EF65321F2479D",
+      "name_en": "CARMEL ROAD STANLEY",
+      "name_tc": "赤柱佳美道",
+      "name_sc": "赤柱佳美道",
+      "lat": "22.219777",
+      "long": "114.209799"
+    },
+    {
+      "stop": "B8F77BDDFE7BD6DF",
+      "name_en": "REPULSE BAY",
+      "name_tc": "淺水灣",
+      "name_sc": "浅水湾",
+      "lat": "22.236053",
+      "long": "114.198050"
+    },
+    {
+      "stop": "23EC94A5FAA1E5A3",
+      "name_en": "CENTRAL HARBOURFRONT",
+      "name_tc": "中環海濱",
+      "name_sc": "中环海滨",
+      "lat": "22.286032",
+      "long": "114.161172"
+    },
+    {
+      "stop": "6F4C27D4E845432E",
+      "name_en": "GOLDEN BAUHINIA SQUARE WAN CHAI",
+      "name_tc": "灣仔金紫荊廣場",
+      "name_sc": "湾仔金紫荆广场",
+      "lat": "22.284272",
+      "long": "114.173972"
+    },
+    {
+      "stop": "E33098F43CF205B8",
+      "name_en": "MUK YUEN STREET KAI TAK",
+      "name_tc": "啟德沐元街",
+      "name_sc": "启德沐元街",
+      "lat": "22.331823",
+      "long": "114.198511"
+    },
+    {
+      "stop": "EB3F46E0040B4960",
+      "name_en": "HING FONG ROAD KWAI CHUNG",
+      "name_tc": "葵涌興芳路",
+      "name_sc": "葵涌兴芳路",
+      "lat": "22.360441",
+      "long": "114.128999"
+    },
+    {
+      "stop": "9ADF943CA573C631",
+      "name_en": "MEI LAI ROAD MEI FOO",
+      "name_tc": "美孚美荔道",
+      "name_sc": "美孚美荔道",
+      "lat": "22.339406",
+      "long": "114.140330"
     },
     {
       "stop": "E3E26EC8322AC889",

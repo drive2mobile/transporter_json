@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-08T22:24:23.348+08:00",
+  "generated_timestamp": "2024-12-26T20:58:19.000+08:00",
   "data": {
     "route_stops": [
       {
@@ -110,6 +110,6 @@
         "name_en": "Mei Tin Shopping Centre, Mei Tin Estate"
       }
     ],
-    "data_timestamp": "2024-11-15T19:00:58.784+08:00"
+    "data_timestamp": "2024-12-17T17:09:37.509+08:00"
   }
 }

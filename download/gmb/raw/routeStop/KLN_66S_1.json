@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-08T22:22:30.623+08:00",
+  "generated_timestamp": "2024-12-26T20:56:14.019+08:00",
   "data": {
     "route_stops": [
       {
@@ -145,6 +145,6 @@
         "name_en": "MONG KOK ROAD, Chip Lee Building"
       }
     ],
-    "data_timestamp": "2024-11-15T19:00:58.784+08:00"
+    "data_timestamp": "2024-12-17T17:09:37.510+08:00"
   }
 }

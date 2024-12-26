@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-08T22:25:15.332+08:00",
+  "generated_timestamp": "2024-12-26T20:59:16.062+08:00",
   "data": {
     "route_stops": [
       {
@@ -33,6 +33,6 @@
         "name_en": "Pak Tam Chung Bus Terminus"
       }
     ],
-    "data_timestamp": "2024-12-07T00:00:15.556+08:00"
+    "data_timestamp": "2024-12-14T00:00:20.431+08:00"
   }
 }

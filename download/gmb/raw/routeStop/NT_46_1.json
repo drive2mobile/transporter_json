@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-08T22:23:49.142+08:00",
+  "generated_timestamp": "2024-12-26T20:57:36.726+08:00",
   "data": {
     "route_stops": [
       {
@@ -103,6 +103,6 @@
         "name_en": "FU TAI ESTATE"
       }
     ],
-    "data_timestamp": "2024-11-21T15:33:19.427+08:00"
+    "data_timestamp": "2024-12-24T09:30:46.782+08:00"
   }
 }

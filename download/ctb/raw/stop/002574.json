@@ -1,14 +1,14 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-12-08T18:39:42+08:00",
+  "generated_timestamp": "2024-12-26T20:36:44+08:00",
   "data": {
     "stop": "002574",
-    "name_tc": "百德新街, 怡和街",
-    "name_en": "Paterson Street, Yee Wo Street",
+    "name_tc": "銅鑼灣 - 百德新街, 怡和街",
+    "name_en": "Causeway Bay - Paterson Street, Yee Wo Street",
     "lat": "22.279778702091",
     "long": "114.18607065053",
-    "name_sc": "百德新街, 怡和街",
-    "data_timestamp": "2024-12-08T05:00:03+08:00"
+    "name_sc": "铜锣湾 - 百德新街, 怡和街",
+    "data_timestamp": "2024-12-26T05:00:03+08:00"
   }
 }

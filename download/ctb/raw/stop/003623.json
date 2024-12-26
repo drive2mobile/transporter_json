@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-12-08T18:50:20+08:00",
+  "generated_timestamp": "2024-12-26T20:46:02+08:00",
   "data": {
     "stop": "003623",
     "name_tc": "新田",
@@ -9,6 +9,6 @@
     "lat": "22.503013232091",
     "long": "114.08237315053",
     "name_sc": "新田",
-    "data_timestamp": "2024-12-08T05:00:03+08:00"
+    "data_timestamp": "2024-12-26T05:00:03+08:00"
   }
 }

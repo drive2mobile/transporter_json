@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-12-08T18:46:25+08:00",
+  "generated_timestamp": "2024-12-26T20:41:58+08:00",
   "data": {
     "stop": "001647",
     "name_tc": "裕民坊",
@@ -9,6 +9,6 @@
     "lat": "22.313588222091",
     "long": "114.22464493053",
     "name_sc": "裕民坊",
-    "data_timestamp": "2024-12-08T05:00:03+08:00"
+    "data_timestamp": "2024-12-26T05:00:03+08:00"
   }
 }

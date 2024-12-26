@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-08T22:21:15.864+08:00",
+  "generated_timestamp": "2024-12-26T20:54:51.580+08:00",
   "data": {
     "route_stops": [
       {
@@ -75,6 +75,6 @@
         "name_en": "Hong Kong Station Minibus Terminus"
       }
     ],
-    "data_timestamp": "2024-11-18T09:56:14.184+08:00"
+    "data_timestamp": "2024-12-24T09:27:34.725+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-12-08T18:51:46+08:00",
+  "generated_timestamp": "2024-12-26T20:47:26+08:00",
   "data": {
     "stop": "001860",
     "name_tc": "東涌站",
@@ -9,6 +9,6 @@
     "lat": "22.289530742091",
     "long": "113.94050290053",
     "name_sc": "东涌站",
-    "data_timestamp": "2024-12-08T05:00:03+08:00"
+    "data_timestamp": "2024-12-26T05:00:03+08:00"
   }
 }

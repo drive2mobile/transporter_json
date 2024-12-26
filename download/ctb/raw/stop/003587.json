@@ -1,14 +1,14 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-12-08T18:44:17+08:00",
+  "generated_timestamp": "2024-12-26T20:39:11+08:00",
   "data": {
     "stop": "003587",
-    "name_tc": "啟德站, 沐安街",
-    "name_en": "Kai Tak Station, Muk On Street",
+    "name_tc": "啟德 - 港鐵 A 出口, 沐安街",
+    "name_en": "Kai Tak - MTR Exit A, Muk On Street",
     "lat": "22.329759172091",
     "long": "114.20116182053",
-    "name_sc": "启德站, 沐安街",
-    "data_timestamp": "2024-12-08T05:00:03+08:00"
+    "name_sc": "启德 - 港铁 A 出口, 沐安街",
+    "data_timestamp": "2024-12-26T05:00:03+08:00"
   }
 }

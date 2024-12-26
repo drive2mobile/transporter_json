@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-08T22:22:41.668+08:00",
+  "generated_timestamp": "2024-12-26T20:56:25.972+08:00",
   "data": {
     "route_stops": [
       {
@@ -89,6 +89,6 @@
         "name_en": "Mong Kok (Park Avenue) Terminus"
       }
     ],
-    "data_timestamp": "2024-11-15T18:57:11.805+08:00"
+    "data_timestamp": "2024-12-17T17:09:37.508+08:00"
   }
 }

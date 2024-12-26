@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-12-08T18:51:15+08:00",
+  "generated_timestamp": "2024-12-26T20:46:49+08:00",
   "data": {
     "stop": "003502",
     "name_tc": "欣澳站",
@@ -9,6 +9,6 @@
     "lat": "22.332822722091",
     "long": "114.02822974053",
     "name_sc": "欣澳站",
-    "data_timestamp": "2024-12-08T05:00:03+08:00"
+    "data_timestamp": "2024-12-26T05:00:03+08:00"
   }
 }

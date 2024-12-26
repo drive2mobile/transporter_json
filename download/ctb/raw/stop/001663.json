@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-12-08T18:43:21+08:00",
+  "generated_timestamp": "2024-12-26T20:42:04+08:00",
   "data": {
     "stop": "001663",
     "name_tc": "順天邨",
@@ -9,6 +9,6 @@
     "lat": "22.326370052091",
     "long": "114.22674623053",
     "name_sc": "顺天邨",
-    "data_timestamp": "2024-12-08T05:00:03+08:00"
+    "data_timestamp": "2024-12-26T05:00:03+08:00"
   }
 }

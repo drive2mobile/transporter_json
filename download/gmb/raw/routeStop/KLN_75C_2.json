@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-08T22:22:36.749+08:00",
+  "generated_timestamp": "2024-12-26T20:56:23.081+08:00",
   "data": {
     "route_stops": [
       {
@@ -33,6 +33,6 @@
         "name_en": "Hoi Tat Public Transport Interchange"
       }
     ],
-    "data_timestamp": "2024-10-25T12:43:48.450+08:00"
+    "data_timestamp": "2024-12-24T09:29:19.181+08:00"
   }
 }

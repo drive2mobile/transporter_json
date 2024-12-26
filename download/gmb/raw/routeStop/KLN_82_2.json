@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-08T22:22:43.873+08:00",
+  "generated_timestamp": "2024-12-26T20:56:30.766+08:00",
   "data": {
     "route_stops": [
       {
@@ -61,6 +61,6 @@
         "name_en": "Caritas Mother Teresa School"
       }
     ],
-    "data_timestamp": "2024-11-15T18:46:11.466+08:00"
+    "data_timestamp": "2024-12-17T17:09:37.519+08:00"
   }
 }

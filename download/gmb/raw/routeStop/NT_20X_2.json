@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-08T22:23:17.208+08:00",
+  "generated_timestamp": "2024-12-26T20:57:05.044+08:00",
   "data": {
     "route_stops": [
       {
@@ -33,6 +33,6 @@
         "name_en": "Tai Po Market Station Minibus Terminus"
       }
     ],
-    "data_timestamp": "2024-11-22T17:33:31.392+08:00"
+    "data_timestamp": "2024-12-22T00:00:14.392+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-08T22:24:04.543+08:00",
+  "generated_timestamp": "2024-12-26T20:57:55.715+08:00",
   "data": {
     "route_stops": [
       {
@@ -54,6 +54,6 @@
         "name_en": "Ta Kwu Ling (Tsung Yuen Ha)"
       }
     ],
-    "data_timestamp": "2024-10-31T17:26:10.187+08:00"
+    "data_timestamp": "2024-12-14T00:00:12.935+08:00"
   }
 }

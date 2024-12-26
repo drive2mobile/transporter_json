@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-08T22:23:28.270+08:00",
+  "generated_timestamp": "2024-12-26T20:57:16.487+08:00",
   "data": {
     "route_stops": [
       {
@@ -40,6 +40,6 @@
         "name_en": "Lei Muk Shue Estate Public Transport Interchange"
       }
     ],
-    "data_timestamp": "2024-11-21T18:17:22.730+08:00"
+    "data_timestamp": "2024-12-18T12:14:46.714+08:00"
   }
 }

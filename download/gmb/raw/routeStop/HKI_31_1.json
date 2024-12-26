@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-08T22:21:24.799+08:00",
+  "generated_timestamp": "2024-12-26T20:55:00.477+08:00",
   "data": {
     "route_stops": [
       {
@@ -13,17 +13,17 @@
       },
       {
         "stop_seq": 2,
-        "stop_id": 20014886,
-        "name_tc": "華景街, 近華景樓",
-        "name_sc": "华景街, 近华景楼 ",
-        "name_en": "WAH KING STREET, near Wah King House"
-      },
-      {
-        "stop_seq": 3,
         "stop_id": 20014887,
         "name_tc": "華景街, 近華翠樓",
         "name_sc": "华景街, 近华翠楼 ",
         "name_en": "WAH KING STREET, near Wah Chui House"
+      },
+      {
+        "stop_seq": 3,
+        "stop_id": 20014886,
+        "name_tc": "華景街, 近華景樓",
+        "name_sc": "华景街, 近华景楼 ",
+        "name_en": "WAH KING STREET, near Wah King House"
       },
       {
         "stop_seq": 4,
@@ -194,6 +194,6 @@
         "name_en": "JAFFE ROAD, near Siu On Plaza"
       }
     ],
-    "data_timestamp": "2024-12-06T11:16:39.156+08:00"
+    "data_timestamp": "2024-12-24T09:27:34.724+08:00"
   }
 }

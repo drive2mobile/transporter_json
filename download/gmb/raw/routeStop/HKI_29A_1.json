@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-08T22:21:23.009+08:00",
+  "generated_timestamp": "2024-12-26T20:54:58.511+08:00",
   "data": {
     "route_stops": [
       {
@@ -54,6 +54,6 @@
         "name_en": "Ocean Park (Water World)"
       }
     ],
-    "data_timestamp": "2024-11-29T17:24:51.238+08:00"
+    "data_timestamp": "2024-12-17T10:11:40.143+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-08T22:23:45.977+08:00",
+  "generated_timestamp": "2024-12-26T20:57:33.588+08:00",
   "data": {
     "route_stops": [
       {
@@ -14,9 +14,9 @@
       {
         "stop_seq": 2,
         "stop_id": 20001355,
-        "name_tc": "青山公路青山灣段, 鐘聲慈善社胡陳金枝中學外",
-        "name_sc": "青山公路青山湾段, 钟声慈善社胡陈金枝中学外",
-        "name_en": "Castle Peak Road - Castle Peak Bay, outside CSBS Mrs. Aw Boon Haw Secondary School"
+        "name_tc": "青山公路青山灣段, 屯門兆麟政府綜合大樓外\t",
+        "name_sc": "青山公路青山湾段, 屯门兆麟政府综合大楼外",
+        "name_en": "Castle Peak Road - Castle Peak Bay, outside Tuen Mun Siu Lun Government Complex"
       },
       {
         "stop_seq": 3,
@@ -68,6 +68,6 @@
         "name_en": "Ho Pong Street, outside Tuen Mun San Hui Market"
       }
     ],
-    "data_timestamp": "2024-11-21T15:33:19.427+08:00"
+    "data_timestamp": "2024-12-24T09:30:47.107+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-12-08T18:50:47+08:00",
+  "generated_timestamp": "2024-12-26T20:46:23+08:00",
   "data": {
     "stop": "003816",
     "name_tc": "航天城",
@@ -9,6 +9,6 @@
     "lat": "22.316600562091",
     "long": "113.94067946053",
     "name_sc": "航天城",
-    "data_timestamp": "2024-12-08T05:00:03+08:00"
+    "data_timestamp": "2024-12-26T05:00:03+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-08T22:21:34.055+08:00",
+  "generated_timestamp": "2024-12-26T20:55:09.734+08:00",
   "data": {
     "route_stops": [
       {
@@ -145,6 +145,6 @@
         "name_en": "Siu Sai Wan Phase III"
       }
     ],
-    "data_timestamp": "2024-11-19T13:52:36.237+08:00"
+    "data_timestamp": "2024-12-16T10:01:26.024+08:00"
   }
 }

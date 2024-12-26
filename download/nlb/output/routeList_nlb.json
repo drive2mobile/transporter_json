@@ -45,6 +45,15 @@
     "to_en": "Ngong Ping"
   },
   {
+    "id": "nlb_3M_7",
+    "company": "nlb",
+    "route": "3M",
+    "from_tc": "梅窩碼頭",
+    "from_en": "Mui Wo Ferry Pier",
+    "to_tc": "東涌站巴士總站",
+    "to_en": "Tung Chung Station Bus Terminus"
+  },
+  {
     "id": "nlb_3M_8",
     "company": "nlb",
     "route": "3M",
@@ -61,24 +70,6 @@
     "from_en": "Tung Chung Station Bus Terminus",
     "to_tc": "梅窩碼頭",
     "to_en": "Mui Wo Ferry Pier"
-  },
-  {
-    "id": "nlb_3M_7",
-    "company": "nlb",
-    "route": "3M",
-    "from_tc": "梅窩碼頭",
-    "from_en": "Mui Wo Ferry Pier",
-    "to_tc": "東涌站巴士總站",
-    "to_en": "Tung Chung Station Bus Terminus"
-  },
-  {
-    "id": "nlb_4_12",
-    "company": "nlb",
-    "route": "4",
-    "from_tc": "梅窩碼頭",
-    "from_en": "Mui Wo Ferry Pier",
-    "to_tc": "塘福 (至水口)",
-    "to_en": "Tong Fuk (to Shui Hau)"
   },
   {
     "id": "nlb_4_10",
@@ -106,6 +97,15 @@
     "from_en": "Mui Wo Ferry Pier",
     "to_tc": "塘福",
     "to_en": "Tong Fuk"
+  },
+  {
+    "id": "nlb_4_12",
+    "company": "nlb",
+    "route": "4",
+    "from_tc": "梅窩碼頭",
+    "from_en": "Mui Wo Ferry Pier",
+    "to_tc": "塘福 (至水口)",
+    "to_en": "Tong Fuk (to Shui Hau)"
   },
   {
     "id": "nlb_7S_70",
@@ -162,15 +162,6 @@
     "to_en": "Tung Chung Station Bus Terminus"
   },
   {
-    "id": "nlb_11A_16",
-    "company": "nlb",
-    "route": "11A",
-    "from_tc": "石壁",
-    "from_en": "Shek Pik",
-    "to_tc": "東涌站巴士總站",
-    "to_en": "Tung Chung Station Bus Terminus"
-  },
-  {
     "id": "nlb_11A_15",
     "company": "nlb",
     "route": "11A",
@@ -178,6 +169,15 @@
     "from_en": "Tung Chung Station Bus Terminus",
     "to_tc": "石壁",
     "to_en": "Shek Pik"
+  },
+  {
+    "id": "nlb_11A_16",
+    "company": "nlb",
+    "route": "11A",
+    "from_tc": "石壁",
+    "from_en": "Shek Pik",
+    "to_tc": "東涌站巴士總站",
+    "to_en": "Tung Chung Station Bus Terminus"
   },
   {
     "id": "nlb_21_19",
@@ -270,15 +270,6 @@
     "to_en": "Disneyland"
   },
   {
-    "id": "nlb_37_80",
-    "company": "nlb",
-    "route": "37",
-    "from_tc": "迎東邨",
-    "from_en": "Ying Tung Estate",
-    "to_tc": "逸東邨",
-    "to_en": "Yat Tung Estate"
-  },
-  {
     "id": "nlb_37_78",
     "company": "nlb",
     "route": "37",
@@ -286,6 +277,15 @@
     "from_en": "Yat Tung Estate",
     "to_tc": "迎東邨",
     "to_en": "Ying Tung Estate"
+  },
+  {
+    "id": "nlb_37_80",
+    "company": "nlb",
+    "route": "37",
+    "from_tc": "迎東邨",
+    "from_en": "Ying Tung Estate",
+    "to_tc": "逸東邨",
+    "to_en": "Yat Tung Estate"
   },
   {
     "id": "nlb_37A_104",
@@ -378,15 +378,6 @@
     "to_en": "Mui Wo Ferry Pier"
   },
   {
-    "id": "nlb_B2_37",
-    "company": "nlb",
-    "route": "B2",
-    "from_tc": "元朗港鐵站",
-    "from_en": "Yuen Long MTR Station",
-    "to_tc": "深圳灣口岸",
-    "to_en": "Shenzhen Bay Port"
-  },
-  {
     "id": "nlb_B2_38",
     "company": "nlb",
     "route": "B2",
@@ -394,6 +385,15 @@
     "from_en": "Shenzhen Bay Port",
     "to_tc": "元朗港鐵站",
     "to_en": "Yuen Long MTR Station"
+  },
+  {
+    "id": "nlb_B2_37",
+    "company": "nlb",
+    "route": "B2",
+    "from_tc": "元朗港鐵站",
+    "from_en": "Yuen Long MTR Station",
+    "to_tc": "深圳灣口岸",
+    "to_en": "Shenzhen Bay Port"
   },
   {
     "id": "nlb_B2P_33",
@@ -441,15 +441,6 @@
     "to_en": "Airport (Passenger Terminal Building) (Circular)"
   },
   {
-    "id": "nlb_B6_89",
-    "company": "nlb",
-    "route": "B6",
-    "from_tc": "滿東邨",
-    "from_en": "Mun Tung Estate",
-    "to_tc": "大橋香港口岸",
-    "to_en": "HZMB Hong Kong Port"
-  },
-  {
     "id": "nlb_B6_88",
     "company": "nlb",
     "route": "B6",
@@ -457,6 +448,15 @@
     "from_en": "HZMB Hong Kong Port",
     "to_tc": "滿東邨",
     "to_en": "Mun Tung Estate"
+  },
+  {
+    "id": "nlb_B6_89",
+    "company": "nlb",
+    "route": "B6",
+    "from_tc": "滿東邨",
+    "from_en": "Mun Tung Estate",
+    "to_tc": "大橋香港口岸",
+    "to_en": "HZMB Hong Kong Port"
   },
   {
     "id": "nlb_B6S_111",
@@ -531,15 +531,6 @@
     "to_en": "Yuen Long MTR Station (Circular)"
   },
   {
-    "id": "nlb_X11R_108",
-    "company": "nlb",
-    "route": "X11R",
-    "from_tc": "東涌世茂喜來登酒店",
-    "from_en": "Sheraton Hong Kong Tung Chung Hotel",
-    "to_tc": "大澳",
-    "to_en": "Tai O"
-  },
-  {
     "id": "nlb_X11R_109",
     "company": "nlb",
     "route": "X11R",
@@ -547,5 +538,14 @@
     "from_en": "Tai O",
     "to_tc": "東涌世茂喜來登酒店",
     "to_en": "Sheraton Hong Kong Tung Chung Hotel"
+  },
+  {
+    "id": "nlb_X11R_108",
+    "company": "nlb",
+    "route": "X11R",
+    "from_tc": "東涌世茂喜來登酒店",
+    "from_en": "Sheraton Hong Kong Tung Chung Hotel",
+    "to_tc": "大澳",
+    "to_en": "Tai O"
   }
 ]

@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-08T22:22:02.852+08:00",
+  "generated_timestamp": "2024-12-26T20:55:39.088+08:00",
   "data": {
     "route_stops": [
       {
@@ -54,6 +54,6 @@
         "name_en": "Tsz Wan Shan Road, outside Wo Tin House, Shatin Pass Estate"
       }
     ],
-    "data_timestamp": "2024-11-05T17:44:41.134+08:00"
+    "data_timestamp": "2024-12-25T03:19:10.288+08:00"
   }
 }

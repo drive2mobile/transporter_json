@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-08T22:38:13.263+08:00",
+  "generated_timestamp": "2024-12-26T21:15:02.505+08:00",
   "data": {
     "coordinates": {
       "wgs84": {
@@ -17,6 +17,6 @@
     "remarks_tc": null,
     "remarks_sc": null,
     "remarks_en": null,
-    "data_timestamp": "2024-09-16T13:55:15.710+08:00"
+    "data_timestamp": "2024-12-24T09:31:10.687+08:00"
   }
 }

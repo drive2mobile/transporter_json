@@ -1,22 +1,22 @@
 {
   "type": "Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-08T22:28:00.369+08:00",
+  "generated_timestamp": "2024-12-26T21:03:00.460+08:00",
   "data": {
     "coordinates": {
       "wgs84": {
-        "latitude": 22.2489678289557,
-        "longitude": 114.149138869605
+        "latitude": 22.249357164135926,
+        "longitude": 114.1485580801964
       },
       "hk80": {
-        "latitude": 812244.9998230537,
-        "longitude": 833409.0004517268
+        "latitude": 812288.1234319236,
+        "longitude": 833349.1401440187
       }
     },
     "enabled": true,
     "remarks_tc": null,
     "remarks_sc": null,
     "remarks_en": null,
-    "data_timestamp": "2024-12-06T12:04:11.468+08:00"
+    "data_timestamp": "2024-12-20T12:45:13.841+08:00"
   }
 }

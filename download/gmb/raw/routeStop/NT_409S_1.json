@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-08T22:23:41.861+08:00",
+  "generated_timestamp": "2024-12-26T20:57:29.846+08:00",
   "data": {
     "route_stops": [
       {
@@ -117,6 +117,6 @@
         "name_en": "Hang Mei Street Public Light Bus (GMB) Terminus"
       }
     ],
-    "data_timestamp": "2024-11-21T18:17:22.730+08:00"
+    "data_timestamp": "2024-12-18T12:14:46.713+08:00"
   }
 }

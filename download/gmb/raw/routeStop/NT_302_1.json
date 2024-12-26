@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-08T22:23:25.647+08:00",
+  "generated_timestamp": "2024-12-26T20:57:14.582+08:00",
   "data": {
     "route_stops": [
       {
@@ -49,9 +49,9 @@
       {
         "stop_seq": 7,
         "stop_id": 20001445,
-        "name_tc": "青山公路-葵涌段港鐵大窩口站外",
-        "name_sc": "青山公路-葵涌段港铁大窝口站外",
-        "name_en": "Castle Peak Road-Kwai Chung outside Tai Wo Hau MTR Station"
+        "name_tc": "青山公路-荃灣段港鐵大窩口站外",
+        "name_sc": "青山公路-荃湾段港铁大窝口站外",
+        "name_en": "Castle Peak Road - Tsuen Wan outside Tai Wo Hau MTR Station"
       },
       {
         "stop_seq": 8,
@@ -159,6 +159,6 @@
         "name_en": "Bellagio"
       }
     ],
-    "data_timestamp": "2024-11-21T18:22:09.136+08:00"
+    "data_timestamp": "2024-12-17T10:45:11.249+08:00"
   }
 }

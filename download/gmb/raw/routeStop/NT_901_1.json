@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-08T22:25:03.449+08:00",
+  "generated_timestamp": "2024-12-26T20:59:04.359+08:00",
   "data": {
     "route_stops": [
       {
@@ -131,6 +131,6 @@
         "name_en": "First floor, Departure Deck, HZMB Hong Kong Port Passenger Clearance Building"
       }
     ],
-    "data_timestamp": "2023-01-29T00:00:24.998+08:00"
+    "data_timestamp": "2024-12-16T00:00:13.474+08:00"
   }
 }

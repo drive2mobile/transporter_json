@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-08T22:24:08.019+08:00",
+  "generated_timestamp": "2024-12-26T20:57:59.239+08:00",
   "data": {
     "route_stops": [
       {
@@ -34,7 +34,7 @@
       },
       {
         "stop_seq": 5,
-        "stop_id": 20020792,
+        "stop_id": 20020821,
         "name_tc": "上水專線小巴總站",
         "name_sc": "上水专线小巴总站",
         "name_en": "Sheung Shui Station GMB Terminus"
@@ -61,6 +61,6 @@
         "name_en": "Sheung Shui Heung Terminus (near Sheung Shui Heung Village Office)"
       }
     ],
-    "data_timestamp": "2024-12-08T00:00:10.073+08:00"
+    "data_timestamp": "2024-12-12T11:36:13.589+08:00"
   }
 }

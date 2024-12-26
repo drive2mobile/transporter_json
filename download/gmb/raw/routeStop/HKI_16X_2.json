@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-08T22:21:15.089+08:00",
+  "generated_timestamp": "2024-12-26T20:54:50.893+08:00",
   "data": {
     "route_stops": [
       {
@@ -21,9 +21,9 @@
       {
         "stop_seq": 3,
         "stop_id": 20003065,
-        "name_tc": "大潭道, 美國會外",
-        "name_sc": "大潭道, 美国会外",
-        "name_en": "Tai Tam Road, outside The American Club"
+        "name_tc": "大潭道, 曼克頓花園外",
+        "name_sc": "大潭道, 曼克顿花园外",
+        "name_en": "Tai Tam Road, outside The Manhattan"
       },
       {
         "stop_seq": 4,
@@ -75,6 +75,6 @@
         "name_en": "Chai Wan Station Bus Terminus"
       }
     ],
-    "data_timestamp": "2024-11-19T13:47:06.533+08:00"
+    "data_timestamp": "2024-12-16T10:00:10.796+08:00"
   }
 }

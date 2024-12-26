@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-12-08T18:46:04+08:00",
+  "generated_timestamp": "2024-12-26T20:41:27+08:00",
   "data": {
     "stop": "001190",
     "name_tc": "水街",
@@ -9,6 +9,6 @@
     "lat": "22.287790952091",
     "long": "114.13863698053",
     "name_sc": "水街",
-    "data_timestamp": "2024-12-08T05:00:03+08:00"
+    "data_timestamp": "2024-12-26T05:00:03+08:00"
   }
 }

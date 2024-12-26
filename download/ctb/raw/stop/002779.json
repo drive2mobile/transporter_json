@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-12-08T18:44:27+08:00",
+  "generated_timestamp": "2024-12-26T20:39:22+08:00",
   "data": {
     "stop": "002779",
     "name_tc": "銀幕街",
@@ -9,6 +9,6 @@
     "lat": "22.283913092091",
     "long": "114.19220922053",
     "name_sc": "银幕街",
-    "data_timestamp": "2024-12-08T05:00:03+08:00"
+    "data_timestamp": "2024-12-26T05:00:03+08:00"
   }
 }

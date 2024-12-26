@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-08T22:22:09.742+08:00",
+  "generated_timestamp": "2024-12-26T20:55:49.813+08:00",
   "data": {
     "route_stops": [
       {
@@ -96,6 +96,6 @@
         "name_en": "San Po Kong (The Latitude) Minibus Terminus"
       }
     ],
-    "data_timestamp": "2024-11-15T19:03:38.009+08:00"
+    "data_timestamp": "2024-12-17T17:09:37.516+08:00"
   }
 }

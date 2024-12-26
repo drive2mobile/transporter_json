@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-08T22:22:24.124+08:00",
+  "generated_timestamp": "2024-12-26T20:56:05.359+08:00",
   "data": {
     "route_stops": [
       {
@@ -61,6 +61,6 @@
         "name_en": "Tsui Ping (Fuk Tong Road)"
       }
     ],
-    "data_timestamp": "2024-11-20T10:31:10.946+08:00"
+    "data_timestamp": "2024-12-12T12:04:14.699+08:00"
   }
 }

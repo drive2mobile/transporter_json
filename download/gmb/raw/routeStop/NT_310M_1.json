@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-08T22:23:27.540+08:00",
+  "generated_timestamp": "2024-12-26T20:57:15.963+08:00",
   "data": {
     "route_stops": [
       {
@@ -54,6 +54,6 @@
         "name_en": "Tsing Yi Station GMB Terminus"
       }
     ],
-    "data_timestamp": "2024-10-23T13:27:38.840+08:00"
+    "data_timestamp": "2024-12-18T12:14:46.714+08:00"
   }
 }
