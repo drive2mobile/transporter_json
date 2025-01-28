@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:59:06.820+08:00",
+  "generated_timestamp": "2025-01-28T19:35:24.251+08:00",
   "data": {
     "route_stops": [
       {
@@ -33,6 +33,6 @@
         "name_en": "LAI KONG STREET, near Princess Margaret Hospital Lai King Building"
       }
     ],
-    "data_timestamp": "2024-11-05T15:49:25.372+08:00"
+    "data_timestamp": "2025-01-03T18:31:42.306+08:00"
   }
 }

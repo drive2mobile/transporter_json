@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:57:49.587+08:00",
+  "generated_timestamp": "2025-01-28T19:34:19.668+08:00",
   "data": {
     "route_stops": [
       {
@@ -40,6 +40,6 @@
         "name_en": "Chi Cheong Road, near Sheung Shui Centre Block No. 6"
       }
     ],
-    "data_timestamp": "2024-06-28T17:43:11.437+08:00"
+    "data_timestamp": "2025-01-21T10:29:36.170+08:00"
   }
 }

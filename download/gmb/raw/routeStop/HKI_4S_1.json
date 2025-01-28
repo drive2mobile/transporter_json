@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:55:13.017+08:00",
+  "generated_timestamp": "2025-01-28T19:31:54.089+08:00",
   "data": {
     "route_stops": [
       {
@@ -21,9 +21,9 @@
       {
         "stop_seq": 3,
         "stop_id": 20011642,
-        "name_tc": "西安街, 利港中心外",
-        "name_sc": "西安街, 利港中心外",
-        "name_en": "Sai On Street, outside Port Centre"
+        "name_tc": "西安街12號對面, 利港中心外",
+        "name_sc": "西安街12号对面, 利港中心外",
+        "name_en": "Opposite to 12 Sai On Street , outside Port Centre"
       },
       {
         "stop_seq": 4,
@@ -40,6 +40,6 @@
         "name_en": "Shek Pai Wan Estate Public Transport Interchange"
       }
     ],
-    "data_timestamp": "2024-11-29T17:58:10.573+08:00"
+    "data_timestamp": "2025-01-20T11:17:11.993+08:00"
   }
 }

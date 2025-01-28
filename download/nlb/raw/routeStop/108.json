@@ -10,8 +10,8 @@
       "stopLocation_e": "Yi Tung Road",
       "latitude": "22.29542800",
       "longitude": "113.94673200",
-      "fare": "28.9",
-      "fareHoliday": "40.3",
+      "fare": "31.5",
+      "fareHoliday": "43.9",
       "someDepartureObserveOnly": 0
     },
     {
@@ -24,8 +24,8 @@
       "stopLocation_e": "Shun Tung Road",
       "latitude": "22.28603000",
       "longitude": "113.94105700",
-      "fare": "28.9",
-      "fareHoliday": "40.3",
+      "fare": "31.5",
+      "fareHoliday": "43.9",
       "someDepartureObserveOnly": 0
     },
     {
@@ -38,8 +38,8 @@
       "stopLocation_e": "Tung Chung Road",
       "latitude": "22.24893900",
       "longitude": "113.94259700",
-      "fare": "28.9",
-      "fareHoliday": "40.3",
+      "fare": "31.5",
+      "fareHoliday": "43.9",
       "someDepartureObserveOnly": 0
     },
     {
@@ -52,8 +52,8 @@
       "stopLocation_e": "South Lantau Road",
       "latitude": "22.23087700",
       "longitude": "113.94152500",
-      "fare": "28.9",
-      "fareHoliday": "40.3",
+      "fare": "31.5",
+      "fareHoliday": "43.9",
       "someDepartureObserveOnly": 0
     },
     {
@@ -66,8 +66,8 @@
       "stopLocation_e": "Keung Shan Road",
       "latitude": "22.22832800",
       "longitude": "113.89060000",
-      "fare": "28.9",
-      "fareHoliday": "40.3",
+      "fare": "31.5",
+      "fareHoliday": "43.9",
       "someDepartureObserveOnly": 0
     },
     {
@@ -80,8 +80,8 @@
       "stopLocation_e": "Tai O Road",
       "latitude": "22.25278300",
       "longitude": "113.86216000",
-      "fare": "28.9",
-      "fareHoliday": "40.3",
+      "fare": "31.5",
+      "fareHoliday": "43.9",
       "someDepartureObserveOnly": 0
     }
   ]

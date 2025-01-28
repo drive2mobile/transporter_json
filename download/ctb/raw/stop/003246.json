@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-12-26T20:39:48+08:00",
+  "generated_timestamp": "2025-01-28T19:21:44+08:00",
   "data": {
     "stop": "003246",
     "name_tc": "汀太路",
@@ -9,6 +9,6 @@
     "lat": "22.453741102091",
     "long": "114.16289250053",
     "name_sc": "汀太路",
-    "data_timestamp": "2024-12-26T05:00:03+08:00"
+    "data_timestamp": "2025-01-28T05:00:02+08:00"
   }
 }

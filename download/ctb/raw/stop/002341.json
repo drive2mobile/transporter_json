@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-12-26T20:40:05+08:00",
+  "generated_timestamp": "2025-01-28T19:21:59+08:00",
   "data": {
     "stop": "002341",
     "name_tc": "華富 (南)",
@@ -9,6 +9,6 @@
     "lat": "22.251167732091",
     "long": "114.13648455053",
     "name_sc": "华富 (南)",
-    "data_timestamp": "2024-12-26T05:00:03+08:00"
+    "data_timestamp": "2025-01-28T05:00:02+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:58:09.657+08:00",
+  "generated_timestamp": "2025-01-28T19:34:37.166+08:00",
   "data": {
     "route_stops": [
       {
@@ -21,8 +21,8 @@
       {
         "stop_seq": 3,
         "stop_id": 20001308,
-        "name_tc": "震寰路,大興政府合署外",
-        "name_sc": "震寰路,大兴政府合署外",
+        "name_tc": "震寰路, 大興政府合署外",
+        "name_sc": "震寰路, 大兴政府合署外",
         "name_en": "Tsun Wen Road, outside Tai Hing Government Offices"
       },
       {
@@ -40,6 +40,6 @@
         "name_en": "Haiphong Road, Junction With Lock Road"
       }
     ],
-    "data_timestamp": "2024-12-24T09:30:47.062+08:00"
+    "data_timestamp": "2025-01-16T17:53:25.274+08:00"
   }
 }

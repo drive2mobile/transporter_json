@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:54:55.057+08:00",
+  "generated_timestamp": "2025-01-28T19:31:38.606+08:00",
   "data": {
     "route_stops": [
       {
@@ -89,6 +89,6 @@
         "name_en": "Kennedy Town Station"
       }
     ],
-    "data_timestamp": "2024-12-20T12:44:03.512+08:00"
+    "data_timestamp": "2025-01-21T12:23:29.768+08:00"
   }
 }

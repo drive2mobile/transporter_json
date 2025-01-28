@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2025-01-28T19:28:41+08:00",
+  "data": {
+    "stop": "003874",
+    "name_tc": "啟德體育園, 宋皇臺道",
+    "name_en": "Kai Tak Sports Park, Sung Wong Toi Road",
+    "lat": "22.323282892091",
+    "long": "114.19270136053",
+    "name_sc": "启德体育园, 宋皇台道",
+    "data_timestamp": "2025-01-28T05:00:02+08:00"
+  }
+}

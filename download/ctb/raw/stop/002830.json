@@ -1,14 +1,14 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-12-26T20:35:52+08:00",
+  "generated_timestamp": "2025-01-28T19:18:24+08:00",
   "data": {
     "stop": "002830",
     "name_tc": "石硤尾站, 窩仔街",
     "name_en": "Shek Kip Mei Station, Woh Chai Street",
-    "lat": "22.331874642091",
-    "long": "114.16785551053",
+    "lat": "22.332111242091",
+    "long": "114.16754886053",
     "name_sc": "石硖尾站, 窝仔街",
-    "data_timestamp": "2024-12-26T05:00:03+08:00"
+    "data_timestamp": "2025-01-28T05:00:02+08:00"
   }
 }

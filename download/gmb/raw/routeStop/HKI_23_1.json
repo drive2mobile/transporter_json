@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:54:54.565+08:00",
+  "generated_timestamp": "2025-01-28T19:31:38.166+08:00",
   "data": {
     "route_stops": [
       {
@@ -168,9 +168,9 @@
       {
         "stop_seq": 24,
         "stop_id": 20003279,
-        "name_tc": "科士街臨時遊樂場",
-        "name_sc": "科士街临时游乐场 ",
-        "name_en": "Forbes Street Temporary Playground"
+        "name_tc": "科士街遊樂場",
+        "name_sc": "科士街游乐场",
+        "name_en": "Forbes Street Playground"
       },
       {
         "stop_seq": 25,
@@ -194,6 +194,6 @@
         "name_en": "Kennedy Town Station"
       }
     ],
-    "data_timestamp": "2024-12-20T12:44:03.512+08:00"
+    "data_timestamp": "2025-01-21T12:24:13.370+08:00"
   }
 }

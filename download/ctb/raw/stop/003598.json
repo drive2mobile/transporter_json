@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-12-26T20:40:15+08:00",
+  "generated_timestamp": "2025-01-28T19:25:57+08:00",
   "data": {
     "stop": "003598",
     "name_tc": "如心廣場",
@@ -9,6 +9,6 @@
     "lat": "22.368072142091",
     "long": "114.11232162053",
     "name_sc": "如心广场",
-    "data_timestamp": "2024-12-26T05:00:03+08:00"
+    "data_timestamp": "2025-01-28T05:00:02+08:00"
   }
 }

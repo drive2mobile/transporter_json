@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:57:34.488+08:00",
+  "generated_timestamp": "2025-01-28T19:34:07.096+08:00",
   "data": {
     "route_stops": [
       {
@@ -117,6 +117,6 @@
         "name_en": "Tuen Mun Ferry Pier (Public Light Bus (Scheduled Services) Terminus on Wu Shan Road)"
       }
     ],
-    "data_timestamp": "2024-12-24T09:30:46.908+08:00"
+    "data_timestamp": "2025-01-21T10:29:36.171+08:00"
   }
 }

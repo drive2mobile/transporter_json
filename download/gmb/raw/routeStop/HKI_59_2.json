@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:55:19.833+08:00",
+  "generated_timestamp": "2025-01-28T19:32:07.312+08:00",
   "data": {
     "route_stops": [
       {
@@ -62,68 +62,75 @@
       },
       {
         "stop_seq": 9,
+        "stop_id": 20020954,
+        "name_tc": "域多利道, 華富邨(上)",
+        "name_sc": "域多利道, 华富邨(上)",
+        "name_en": "Wah Fu Estate(Upper), Victoria Road"
+      },
+      {
+        "stop_seq": 10,
         "stop_id": 20009810,
         "name_tc": "域多利道, 碧瑤灣",
         "name_sc": "域多利道, 碧瑶湾",
         "name_en": "Baguio Villa, Victoria Road"
       },
       {
-        "stop_seq": 10,
+        "stop_seq": 11,
         "stop_id": 20006900,
         "name_tc": "域多利道, 近沙宣道",
         "name_sc": "域多利道, 近沙宣道",
         "name_en": "Victoria Road near Sassoon Road"
       },
       {
-        "stop_seq": 11,
+        "stop_seq": 12,
         "stop_id": 20004549,
         "name_tc": "沙灣徑",
         "name_sc": "沙湾径",
         "name_en": "Sha Wan Drive"
       },
       {
-        "stop_seq": 12,
+        "stop_seq": 13,
         "stop_id": 20000349,
         "name_tc": "大口環道, 甘迺迪中心對面",
         "name_sc": "大口环道, 甘乃迪中心对面",
         "name_en": "Sandy Bay Road, opposite The John F. Kennedy Centre"
       },
       {
-        "stop_seq": 13,
+        "stop_seq": 14,
         "stop_id": 20009766,
         "name_tc": "大口環道, 東華三院馮堯敬醫院對面",
         "name_sc": "大口环道, 东华三院冯尧敬医院对面",
         "name_en": "Sandy Bay Road, opposite Fung Yiu King Hospital"
       },
       {
-        "stop_seq": 14,
+        "stop_seq": 15,
         "stop_id": 20000347,
         "name_tc": "大口環道, 近英基學校協會西島中學",
         "name_sc": "大口环道, 近英基学校协会西岛中学",
         "name_en": "Sandy Bay Road, near English Schools Foundation West Island School"
       },
       {
-        "stop_seq": 15,
+        "stop_seq": 16,
         "stop_id": 20006905,
         "name_tc": "域多利道, 近摩星嶺道",
         "name_sc": "域多利道, 近摩星岭道",
         "name_en": "Victoria Road near Mount Davis Road"
       },
       {
-        "stop_seq": 16,
+        "stop_seq": 17,
         "stop_id": 20007022,
         "name_tc": "吉席街近泓都",
         "name_sc": "吉席街近泓都",
         "name_en": "Catchick Street near the Merton"
       },
       {
-        "stop_seq": 17,
+        "stop_seq": 18,
         "stop_id": 20009733,
         "name_tc": "堅尼地城站",
         "name_sc": "坚尼地城站",
         "name_en": "Kennedy Town Station"
       }
     ],
-    "data_timestamp": "2024-12-20T12:44:03.525+08:00"
+    "data_timestamp": "2025-01-21T12:23:29.768+08:00"
   }
 }

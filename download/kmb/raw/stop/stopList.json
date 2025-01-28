@@ -1,7 +1,7 @@
 {
   "type": "StopList",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:24:29+08:00",
+  "generated_timestamp": "2025-01-28T19:28:49+08:00",
   "data": [
     {
       "stop": "18492910339410B1",
@@ -621,9 +621,9 @@
     },
     {
       "stop": "8C09B3648DCDAF3C",
-      "name_en": "KOWLOON BAY STATION",
-      "name_tc": "九龍灣站",
-      "name_sc": "九龙湾站",
+      "name_en": "KOWLOON BAY STATION (EKCC)",
+      "name_tc": "九龍灣站(東九文化中心)",
+      "name_sc": "九龙湾站(东九文化中心)",
       "lat": "22.325547",
       "long": "114.214339"
     },
@@ -1856,8 +1856,8 @@
       "name_en": "KOWLOON CITY FERRY BUS TERMINUS",
       "name_tc": "九龍城碼頭巴士總站",
       "name_sc": "九龙城码头巴士总站",
-      "lat": "22.318413",
-      "long": "114.193434"
+      "lat": "22.318226",
+      "long": "114.193132"
     },
     {
       "stop": "F8D1049558163BE6",
@@ -2186,6 +2186,14 @@
       "name_sc": "落山道",
       "lat": "22.317154",
       "long": "114.190345"
+    },
+    {
+      "stop": "1D0E096C4E9766C6",
+      "name_en": "KOWLOON CITY FERRY BUS TERMINUS",
+      "name_tc": "九龍城碼頭巴士總站",
+      "name_sc": "九龙城码头巴士总站",
+      "lat": "22.318413",
+      "long": "114.193434"
     },
     {
       "stop": "76A2633F9A463E9C",
@@ -4245,9 +4253,9 @@
     },
     {
       "stop": "BC7C325EE59235E4",
-      "name_en": "KOWLOON BAY STATION",
-      "name_tc": "九龍灣站",
-      "name_sc": "九龙湾站",
+      "name_en": "KOWLOON BAY STATION (EKCC)",
+      "name_tc": "九龍灣站(東九文化中心)",
+      "name_sc": "九龙湾站(东九文化中心)",
       "lat": "22.324048",
       "long": "114.214410"
     },
@@ -4917,9 +4925,9 @@
     },
     {
       "stop": "4BD5CE5106BB0697",
-      "name_en": "KOWLOON BAY STATION",
-      "name_tc": "九龍灣站",
-      "name_sc": "九龙湾站",
+      "name_en": "KOWLOON BAY STATION (EKCC)",
+      "name_tc": "九龍灣站(東九文化中心)",
+      "name_sc": "九龙湾站(东九文化中心)",
       "lat": "22.325601",
       "long": "114.214336"
     },
@@ -6460,7 +6468,7 @@
       "long": "114.193156"
     },
     {
-      "stop": "8EA2D34406C216D3",
+      "stop": "6098480103C44C62",
       "name_en": "KOWLOON CITY FERRY BUS TERMINUS",
       "name_tc": "九龍城碼頭巴士總站",
       "name_sc": "九龙城码头巴士总站",
@@ -6493,9 +6501,9 @@
     },
     {
       "stop": "66B78B49B8E626C9",
-      "name_en": "KOWLOON BAY STATION",
-      "name_tc": "九龍灣站",
-      "name_sc": "九龙湾站",
+      "name_en": "KOWLOON BAY STATION (EKCC)",
+      "name_tc": "九龍灣站(東九文化中心)",
+      "name_sc": "九龙湾站(东九文化中心)",
       "lat": "22.325485",
       "long": "114.214337"
     },
@@ -11725,9 +11733,9 @@
     },
     {
       "stop": "D0F8772D043C207E",
-      "name_en": "KOWLOON BAY STATION",
-      "name_tc": "九龍灣站",
-      "name_sc": "九龙湾站",
+      "name_en": "KOWLOON BAY STATION (EKCC)",
+      "name_tc": "九龍灣站(東九文化中心)",
+      "name_sc": "九龙湾站(东九文化中心)",
       "lat": "22.323713",
       "long": "114.214493"
     },
@@ -15492,12 +15500,12 @@
       "long": "114.107953"
     },
     {
-      "stop": "6098480103C44C62",
-      "name_en": "KOWLOON CITY FERRY BUS TERMINUS",
-      "name_tc": "九龍城碼頭巴士總站",
-      "name_sc": "九龙城码头巴士总站",
-      "lat": "22.318413",
-      "long": "114.193434"
+      "stop": "D6BE89205CDC6645",
+      "name_en": "KOWLOON CITY FERRY B/T",
+      "name_tc": "九龍城碼頭",
+      "name_sc": "九龙城码头",
+      "lat": "22.318225",
+      "long": "114.193566"
     },
     {
       "stop": "E24537CF3879CD25",
@@ -21564,6 +21572,14 @@
       "long": "114.049498"
     },
     {
+      "stop": "7917E395940F86AF",
+      "name_en": "YOHO MALL I",
+      "name_tc": "形點 I",
+      "name_sc": "形点 I",
+      "lat": "22.445282",
+      "long": "114.036500"
+    },
+    {
       "stop": "65F77C74AB618A8D",
       "name_en": "HUNG MO KIU",
       "name_tc": "紅毛橋",
@@ -21804,7 +21820,7 @@
       "long": "114.035043"
     },
     {
-      "stop": "AB0F79ED382081D0",
+      "stop": "445A166A348A82DB",
       "name_en": "YOHO MALL I",
       "name_tc": "形點 I",
       "name_sc": "形点 I",
@@ -21970,6 +21986,14 @@
       "name_sc": "元朗谷亭街 (N16)",
       "lat": "22.444575",
       "long": "114.031020"
+    },
+    {
+      "stop": "AB0F79ED382081D0",
+      "name_en": "YOHO MALL I",
+      "name_tc": "形點 I",
+      "name_sc": "形点 I",
+      "lat": "22.445065",
+      "long": "114.036445"
     },
     {
       "stop": "7E2E1F1269E520DE",
@@ -25725,9 +25749,9 @@
     },
     {
       "stop": "060699911C9E300F",
-      "name_en": "KOWLOON BAY STATION",
-      "name_tc": "九龍灣站",
-      "name_sc": "九龙湾站",
+      "name_en": "KOWLOON BAY STATION (EKCC)",
+      "name_tc": "九龍灣站(東九文化中心)",
+      "name_sc": "九龙湾站(东九文化中心)",
       "lat": "22.325434",
       "long": "114.214338"
     },
@@ -26020,12 +26044,12 @@
       "long": "114.187859"
     },
     {
-      "stop": "CCD8857C4DC718BF",
-      "name_en": "KOWLOON CITY FERRY BUS TERMINUS",
-      "name_tc": "九龍城碼頭巴士總站",
-      "name_sc": "九龙城码头巴士总站",
-      "lat": "22.318562",
-      "long": "114.193579"
+      "stop": "60C1F7910C07C52B",
+      "name_en": "KOWLOON CITY FERRY B/T",
+      "name_tc": "九龍城碼頭",
+      "name_sc": "九龙城码头",
+      "lat": "22.318413",
+      "long": "114.193434"
     },
     {
       "stop": "AD78D43BCE88067A",
@@ -27058,6 +27082,14 @@
       "name_sc": "龙跃头",
       "lat": "22.503821",
       "long": "114.149324"
+    },
+    {
+      "stop": "C6DEF1AF70EC3375",
+      "name_en": "LUNG MA ROAD",
+      "name_tc": "龍馬路",
+      "name_sc": "龙马路",
+      "lat": "22.504838",
+      "long": "114.154525"
     },
     {
       "stop": "91E946260F8BCBE8",
@@ -29276,12 +29308,12 @@
       "long": "114.189159"
     },
     {
-      "stop": "1D0E096C4E9766C6",
-      "name_en": "KOWLOON CITY FERRY BUS TERMINUS",
+      "stop": "A678D9D2809B3BE4",
+      "name_en": "KOWLOON CITY FERRY B/T",
       "name_tc": "九龍城碼頭巴士總站",
       "name_sc": "九龙城码头巴士总站",
-      "lat": "22.318413",
-      "long": "114.193434"
+      "lat": "22.318298",
+      "long": "114.193894"
     },
     {
       "stop": "300E167052866624",
@@ -32698,6 +32730,14 @@
       "name_sc": "西贡总站",
       "lat": "22.382044",
       "long": "114.273822"
+    },
+    {
+      "stop": "9F542D4B6CF41651",
+      "name_en": "UNIVERSITY STATION",
+      "name_tc": "大學站",
+      "name_sc": "大学站",
+      "lat": "22.412678",
+      "long": "114.210665"
     },
     {
       "stop": "DAFAF65DCEA183D8",
@@ -36172,12 +36212,12 @@
       "long": "114.130788"
     },
     {
-      "stop": "9F4A6557F20F676D",
-      "name_en": "KOWLOON CITY FERRY BUS TERMINUS",
-      "name_tc": "九龍城碼頭巴士總站",
-      "name_sc": "九龙城码头巴士总站",
-      "lat": "22.318259",
-      "long": "114.193882"
+      "stop": "F088E9BC1B13B13D",
+      "name_en": "KOWLOON CITY FERRY B/T",
+      "name_tc": "九龍城碼頭",
+      "name_sc": "九龙城码头",
+      "lat": "22.318413",
+      "long": "114.193434"
     },
     {
       "stop": "7055FEADC58CB1F1",
@@ -38932,6 +38972,14 @@
       "long": "114.171272"
     },
     {
+      "stop": "39B46EEDBF9E5988",
+      "name_en": "TAI PO INDUSTRIAL ESTATE",
+      "name_tc": "大埔工業邨",
+      "name_sc": "大埔工业邨",
+      "lat": "22.457661",
+      "long": "114.187931"
+    },
+    {
       "stop": "33D5CDFE9FBE56A1",
       "name_en": "SIU HONG COURT BUS TERMINUS",
       "name_tc": "兆康苑總站",
@@ -39412,14 +39460,6 @@
       "long": "114.171834"
     },
     {
-      "stop": "9F542D4B6CF41651",
-      "name_en": "UNIVERSITY STATION",
-      "name_tc": "大學站",
-      "name_sc": "大学站",
-      "lat": "22.412678",
-      "long": "114.210665"
-    },
-    {
       "stop": "F8F0E91589F099CD",
       "name_en": "PAK SHEK KOK",
       "name_tc": "白石角",
@@ -39444,20 +39484,20 @@
       "long": "114.214179"
     },
     {
-      "stop": "878A6FDD75689A2D",
-      "name_en": "UNIVERSITY STATION",
-      "name_tc": "大學站",
-      "name_sc": "大学站",
-      "lat": "22.412923",
-      "long": "114.210274"
-    },
-    {
       "stop": "A9459D38A4A41F36",
       "name_en": "HONG KONG SCIENCE PARK PHASE 3",
       "name_tc": "香港科學園第三期",
       "name_sc": "香港科学园第三期",
       "lat": "22.426589",
       "long": "114.209304"
+    },
+    {
+      "stop": "878A6FDD75689A2D",
+      "name_en": "UNIVERSITY STATION",
+      "name_tc": "大學站",
+      "name_sc": "大学站",
+      "lat": "22.412923",
+      "long": "114.210274"
     },
     {
       "stop": "BB1C1EFC7B243D7A",
@@ -43300,7 +43340,7 @@
       "long": "114.156894"
     },
     {
-      "stop": "1D8A902219897402",
+      "stop": "98FEDCA813462C77",
       "name_en": "WING KUT STREET",
       "name_tc": "永吉街",
       "name_sc": "永吉街",
@@ -45194,6 +45234,14 @@
       "name_sc": "太古广场 (A3)",
       "lat": "22.278005",
       "long": "114.165408"
+    },
+    {
+      "stop": "1D8A902219897402",
+      "name_en": "WING KUT STREET",
+      "name_tc": "永吉街",
+      "name_sc": "永吉街",
+      "lat": "22.285430",
+      "long": "114.154473"
     },
     {
       "stop": "AD97EA183A25102C",
@@ -49780,14 +49828,6 @@
       "long": "114.153911"
     },
     {
-      "stop": "445A166A348A82DB",
-      "name_en": "YOHO MALL I",
-      "name_tc": "形點 I",
-      "name_sc": "形点 I",
-      "lat": "22.445065",
-      "long": "114.036445"
-    },
-    {
       "stop": "B02B0B9F73E50D93",
       "name_en": "YUEN LONG PLAZA (N3)",
       "name_tc": "元朗廣場 (N3)",
@@ -50700,6 +50740,46 @@
       "long": "114.002031"
     },
     {
+      "stop": "266DC8A29740F280",
+      "name_en": "DHL's Central Asia Hub",
+      "name_tc": "DHL 中亞區樞紐中心",
+      "name_sc": "DHL 中亚区枢纽中心",
+      "lat": "22.295258",
+      "long": "113.917109"
+    },
+    {
+      "stop": "3CBEDBBD1EE6AC99",
+      "name_en": "Government Flying Service",
+      "name_tc": "政府飛行服務隊",
+      "name_sc": "政府飞行服务队",
+      "lat": "22.295441",
+      "long": "113.910580"
+    },
+    {
+      "stop": "89E740AB604B8270",
+      "name_en": "AIRCRAFT MAINTENANCE AREA",
+      "name_tc": "飛機維修區",
+      "name_sc": "飞机维修区",
+      "lat": "22.304161",
+      "long": "113.899179"
+    },
+    {
+      "stop": "49CBE0A640F1DA3E",
+      "name_en": "Government Flying Service",
+      "name_tc": "政府飛行服務隊",
+      "name_sc": "政府飞行服务队",
+      "lat": "22.295484",
+      "long": "113.911200"
+    },
+    {
+      "stop": "4AFA4F918F96CD58",
+      "name_en": "DHL's Central Asia Hub",
+      "name_tc": "DHL 中亞區樞紐中心",
+      "name_sc": "DHL 中亚区枢纽中心",
+      "lat": "22.295269",
+      "long": "113.917628"
+    },
+    {
       "stop": "A33E576A3F6DDCA9",
       "name_en": "SHEUNG TSUEN BUS TERMINUS",
       "name_tc": "上村總站",
@@ -50868,44 +50948,12 @@
       "long": "114.005541"
     },
     {
-      "stop": "266DC8A29740F280",
-      "name_en": "DHL's Central Asia Hub",
-      "name_tc": "DHL 中亞區樞紐中心",
-      "name_sc": "DHL 中亚区枢纽中心",
-      "lat": "22.295258",
-      "long": "113.917109"
-    },
-    {
-      "stop": "3CBEDBBD1EE6AC99",
-      "name_en": "Government Flying Service",
-      "name_tc": "政府飛行服務隊",
-      "name_sc": "政府飞行服务队",
-      "lat": "22.295441",
-      "long": "113.910580"
-    },
-    {
       "stop": "A08B5AB2B8253F5C",
       "name_en": "AIRCRAFT MAINTENANCE AREA",
       "name_tc": "飛機維修區",
       "name_sc": "飞机维修区",
       "lat": "22.304038",
       "long": "113.898775"
-    },
-    {
-      "stop": "49CBE0A640F1DA3E",
-      "name_en": "Government Flying Service",
-      "name_tc": "政府飛行服務隊",
-      "name_sc": "政府飞行服务队",
-      "lat": "22.295484",
-      "long": "113.911200"
-    },
-    {
-      "stop": "4AFA4F918F96CD58",
-      "name_en": "DHL's Central Asia Hub",
-      "name_tc": "DHL 中亞區樞紐中心",
-      "name_sc": "DHL 中亚区枢纽中心",
-      "lat": "22.295269",
-      "long": "113.917628"
     },
     {
       "stop": "9DD63D93684C27D6",
@@ -51140,14 +51188,6 @@
       "long": "114.136631"
     },
     {
-      "stop": "C172F76BCC18FC4E",
-      "name_en": "TIN PING ESTATE",
-      "name_tc": "天平邨",
-      "name_sc": "天平邨",
-      "lat": "22.503533",
-      "long": "114.133850"
-    },
-    {
       "stop": "966759977BCD51B4",
       "name_en": "CHING HO ESTATE",
       "name_tc": "清河邨",
@@ -51178,14 +51218,6 @@
       "name_sc": "御景峰",
       "lat": "22.495680",
       "long": "114.128132"
-    },
-    {
-      "stop": "4D06ED7B22D4DF59",
-      "name_en": "TIN PING ESTATE",
-      "name_tc": "天平邨",
-      "name_sc": "天平邨",
-      "lat": "22.503533",
-      "long": "114.133850"
     },
     {
       "stop": "A57300FE17F39989",
@@ -51330,6 +51362,22 @@
       "name_sc": "永安广场",
       "lat": "22.296416",
       "long": "114.177000"
+    },
+    {
+      "stop": "41EF38A42AC3C3D2",
+      "name_en": "SAN TIN PUBLIC TRANSPORT INTERCHANGE",
+      "name_tc": "新田運輸交匯處",
+      "name_sc": "新田运输交汇处",
+      "lat": "22.502820",
+      "long": "114.081342"
+    },
+    {
+      "stop": "FFB9E8929671D06E",
+      "name_en": "SAI KUNG NORTH (SAI KUNG POLICE STATION)",
+      "name_tc": "西貢北(西貢警署)",
+      "name_sc": "西贡北(西贡警署)",
+      "lat": "22.384029",
+      "long": "114.272477"
     },
     {
       "stop": "137E4ABB3A5D28F0",
@@ -52476,14 +52524,6 @@
       "long": "114.265792"
     },
     {
-      "stop": "FFB9E8929671D06E",
-      "name_en": "SAI KUNG NORTH (SAI KUNG POLICE STATION)",
-      "name_tc": "西貢北(西貢警署)",
-      "name_sc": "西贡北(西贡警署)",
-      "lat": "22.384029",
-      "long": "114.272477"
-    },
-    {
       "stop": "06CC6423AA236B72",
       "name_en": "TONG CHUN STREET",
       "name_tc": "唐俊街",
@@ -52764,12 +52804,52 @@
       "long": "113.940360"
     },
     {
-      "stop": "AC8828CF13B8AA49",
-      "name_en": "WEST KOWLOON STATION",
-      "name_tc": "西九龍站",
-      "name_sc": "西九龙站",
-      "lat": "22.304014",
-      "long": "114.166620"
+      "stop": "3F5763699F3D5DD6",
+      "name_en": "KAI TAK SPORTS PARK BUS TERMINUS",
+      "name_tc": "啟德體育園巴士總站",
+      "name_sc": "启德体育园巴士总站",
+      "lat": "22.322875",
+      "long": "114.193579"
+    },
+    {
+      "stop": "A4260736CBC94F30",
+      "name_en": "KAI TAK SPORTS PARK BUS TERMINUS",
+      "name_tc": "啟德體育園巴士總站",
+      "name_sc": "启德体育园巴士总站",
+      "lat": "22.322875",
+      "long": "114.193579"
+    },
+    {
+      "stop": "CF2AA9B99A043548",
+      "name_en": "KAI TAK SPORTS PARK BUS TERMINUS",
+      "name_tc": "啟德體育園巴士總站",
+      "name_sc": "启德体育园巴士总站",
+      "lat": "22.322875",
+      "long": "114.193579"
+    },
+    {
+      "stop": "414AD39F5040C30F",
+      "name_en": "KAI TAK SPORTS PARK BUS TERMINUS",
+      "name_tc": "啟德體育園巴士總站",
+      "name_sc": "启德体育园巴士总站",
+      "lat": "22.322875",
+      "long": "114.193579"
+    },
+    {
+      "stop": "5453C5D010F3D53A",
+      "name_en": "KAI TAK SPORTS PARK BUS TERMINUS",
+      "name_tc": "啟德體育園巴士總站",
+      "name_sc": "启德体育园巴士总站",
+      "lat": "22.322875",
+      "long": "114.193579"
+    },
+    {
+      "stop": "6F9ED75E419D6BAA",
+      "name_en": "KAI TAK SPORTS PARK BUS TERMINUS",
+      "name_tc": "啟德體育園巴士總站",
+      "name_sc": "启德体育园巴士总站",
+      "lat": "22.322875",
+      "long": "114.193579"
     },
     {
       "stop": "A7CE931D8AA9E7F6",
@@ -52778,6 +52858,14 @@
       "name_sc": "上水转车站 - 上水总站(A1)",
       "lat": "22.502529",
       "long": "114.127680"
+    },
+    {
+      "stop": "AC8828CF13B8AA49",
+      "name_en": "WEST KOWLOON STATION",
+      "name_tc": "西九龍站",
+      "name_sc": "西九龙站",
+      "lat": "22.304014",
+      "long": "114.166620"
     },
     {
       "stop": "041A140AD24C1ADB",
@@ -52810,6 +52898,14 @@
       "name_sc": "M+",
       "lat": "22.301510",
       "long": "114.158190"
+    },
+    {
+      "stop": "0EAA1DC8345202C3",
+      "name_en": "LAM TSUEN WISHING TREE",
+      "name_tc": "林村許願樹",
+      "name_sc": "林村许愿树",
+      "lat": "22.457656",
+      "long": "114.142927"
     },
     {
       "stop": "181140364F4E7566",

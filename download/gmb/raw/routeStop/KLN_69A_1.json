@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:56:17.303+08:00",
+  "generated_timestamp": "2025-01-28T19:32:52.489+08:00",
   "data": {
     "route_stops": [
       {
@@ -103,6 +103,6 @@
         "name_en": "Tung Choi Street, outside Mong Kok Police Station"
       }
     ],
-    "data_timestamp": "2024-10-31T15:37:33.197+08:00"
+    "data_timestamp": "2025-01-14T09:38:25.780+08:00"
   }
 }

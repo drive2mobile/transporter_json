@@ -1,7 +1,7 @@
 {
   "type": "RouteList",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:24:23+08:00",
+  "generated_timestamp": "2025-01-28T19:28:43+08:00",
   "data": [
     {
       "route": "1",
@@ -574,6 +574,28 @@
       "dest_en": "KAI TAK CRUISE TERMINAL",
       "dest_tc": "啟德郵輪碼頭",
       "dest_sc": "启德邮轮码头"
+    },
+    {
+      "route": "5R",
+      "bound": "O",
+      "service_type": "4",
+      "orig_en": "NGAU TAU KOK STATION",
+      "orig_tc": "牛頭角站",
+      "orig_sc": "牛头角站",
+      "dest_en": "SHING FUNG ROAD",
+      "dest_tc": "承豐道",
+      "dest_sc": "承丰道"
+    },
+    {
+      "route": "5R",
+      "bound": "O",
+      "service_type": "5",
+      "orig_en": "KAI TAK (SHENG KING STREET)",
+      "orig_tc": "啟德(承景街)",
+      "orig_sc": "启德(承景街)",
+      "dest_en": "KWUN TONG (apm)",
+      "dest_tc": "觀塘 (apm)",
+      "dest_sc": "观塘 (apm)"
     },
     {
       "route": "6",
@@ -10388,6 +10410,17 @@
       "dest_sc": "上水"
     },
     {
+      "route": "270B",
+      "bound": "I",
+      "service_type": "3",
+      "orig_en": "OLYMPIC STATION",
+      "orig_tc": "奧運站",
+      "orig_sc": "奥运站",
+      "dest_en": "SHEUNG SHUI",
+      "dest_tc": "上水",
+      "dest_sc": "上水"
+    },
+    {
       "route": "270C",
       "bound": "O",
       "service_type": "1",
@@ -10606,6 +10639,17 @@
       "dest_en": "UNIVERSITY STATION",
       "dest_tc": "大學站",
       "dest_sc": "大学站"
+    },
+    {
+      "route": "272A",
+      "bound": "O",
+      "service_type": "4",
+      "orig_en": "UNIVERSITY STATION",
+      "orig_tc": "大學站",
+      "orig_sc": "大学站",
+      "dest_en": "PAK SHEK KOK (CIRCULAR)",
+      "dest_tc": "白石角(循環線)",
+      "dest_sc": "白石角(循环线)"
     },
     {
       "route": "272E",
@@ -11549,9 +11593,9 @@
       "orig_en": "HIN KENG",
       "orig_tc": "顯徑",
       "orig_sc": "显径",
-      "dest_en": "SHAM SHUI PO",
-      "dest_tc": "深水埗",
-      "dest_sc": "深水埗"
+      "dest_en": "SHAM SHUI PO (CIRCULAR)",
+      "dest_tc": "深水埗(循環線)",
+      "dest_sc": "深水埗(循环线)"
     },
     {
       "route": "287",
@@ -15129,6 +15173,28 @@
       "dest_sc": "元朗(德业街)"
     },
     {
+      "route": "E36C",
+      "bound": "O",
+      "service_type": "1",
+      "orig_en": "YUEN LONG (TAK YIP STREET)",
+      "orig_tc": "元朗(德業街)",
+      "orig_sc": "元朗(德业街)",
+      "dest_en": "AIRCRAFT MAINTENANCE AREA",
+      "dest_tc": "飛機維修區",
+      "dest_sc": "飞机维修区"
+    },
+    {
+      "route": "E36C",
+      "bound": "I",
+      "service_type": "1",
+      "orig_en": "AIRCRAFT MAINTENANCE AREA",
+      "orig_tc": "飛機維修區",
+      "orig_sc": "飞机维修区",
+      "dest_en": "YUEN LONG (TAK YIP STREET)",
+      "dest_tc": "元朗(德業街)",
+      "dest_sc": "元朗(德业街)"
+    },
+    {
       "route": "E36P",
       "bound": "O",
       "service_type": "1",
@@ -15358,6 +15424,28 @@
       "dest_en": "STAR FERRY(CIRCULAR)",
       "dest_tc": "尖沙咀碼頭(循環線)",
       "dest_sc": "尖沙咀码头(循环线)"
+    },
+    {
+      "route": "LB2",
+      "bound": "O",
+      "service_type": "1",
+      "orig_en": "SAN TIN PUBLIC TRANSPORT INTERCHANGE",
+      "orig_tc": "新田運輸交匯處",
+      "orig_sc": "新田运输交汇处",
+      "dest_en": "SAI KUNG",
+      "dest_tc": "西貢",
+      "dest_sc": "西贡"
+    },
+    {
+      "route": "LB2",
+      "bound": "I",
+      "service_type": "1",
+      "orig_en": "SAI KUNG",
+      "orig_tc": "西貢",
+      "orig_sc": "西贡",
+      "dest_en": "SAN TIN PUBLIC TRANSPORT INTERCHANGE",
+      "dest_tc": "新田運輸交匯處",
+      "dest_sc": "新田运输交汇处"
     },
     {
       "route": "N3D",
@@ -16031,6 +16119,17 @@
       "dest_sc": "粉岭(联和墟)"
     },
     {
+      "route": "N43",
+      "bound": "O",
+      "service_type": "1",
+      "orig_en": "TSUEN WAN STATION",
+      "orig_tc": "荃灣站",
+      "orig_sc": "荃湾站",
+      "dest_en": "TSING YI (CHEUNG WANG ESTATE)",
+      "dest_tc": "青衣(長宏邨)",
+      "dest_sc": "青衣(长宏邨)"
+    },
+    {
       "route": "N48",
       "bound": "O",
       "service_type": "1",
@@ -16614,6 +16713,39 @@
       "dest_sc": "湾仔金紫荆广场"
     },
     {
+      "route": "R260",
+      "bound": "O",
+      "service_type": "1",
+      "orig_en": "TUEN MUN PIER HEAD",
+      "orig_tc": "屯門碼頭",
+      "orig_sc": "屯门码头",
+      "dest_en": "TSIM SHA TSUI EAST (MODY ROAD)",
+      "dest_tc": "尖沙咀東(麼地道)",
+      "dest_sc": "尖沙咀东(么地道)"
+    },
+    {
+      "route": "R261",
+      "bound": "O",
+      "service_type": "1",
+      "orig_en": "TUEN MUN (SAM SHING ESTATE)",
+      "orig_tc": "屯門(三聖邨)",
+      "orig_sc": "屯门(三圣邨)",
+      "dest_en": "TSIM SHA TSUI EAST (MODY ROAD)",
+      "dest_tc": "尖沙咀東(麼地道)",
+      "dest_sc": "尖沙咀东(么地道)"
+    },
+    {
+      "route": "R269",
+      "bound": "O",
+      "service_type": "1",
+      "orig_en": "TIN TSZ",
+      "orig_tc": "天慈",
+      "orig_sc": "天慈",
+      "dest_en": "TSIM SHA TSUI EAST (MODY ROAD)",
+      "dest_tc": "尖沙咀東(麼地道)",
+      "dest_sc": "尖沙咀东(么地道)"
+    },
+    {
       "route": "R33",
       "bound": "O",
       "service_type": "1",
@@ -16735,6 +16867,17 @@
       "dest_sc": "铜锣湾(维多利亚公园)"
     },
     {
+      "route": "R968",
+      "bound": "O",
+      "service_type": "1",
+      "orig_en": "YUEN LONG (FUNG CHEUNG ROAD)",
+      "orig_tc": "元朗(鳳翔路)",
+      "orig_sc": "元朗(凤翔路)",
+      "dest_en": "CAUSEWAY BAY (VICTORIA PARK)",
+      "dest_tc": "銅鑼灣(維多利亞公園)",
+      "dest_sc": "铜锣湾(维多利亚公园)"
+    },
+    {
       "route": "S1",
       "bound": "O",
       "service_type": "1",
@@ -16821,6 +16964,72 @@
       "dest_en": "Airport(Circular)",
       "dest_tc": "機場(循環線)",
       "dest_sc": "机场(循环线)"
+    },
+    {
+      "route": "SP1",
+      "bound": "O",
+      "service_type": "1",
+      "orig_en": "KAI TAK SPORTS PARK BUS TERMINUS",
+      "orig_tc": "啟德體育園巴士總站",
+      "orig_sc": "启德体育园巴士总站",
+      "dest_en": "HANG HAU (NORTH) (TSEUNG KWAN O HOSPITAL)",
+      "dest_tc": "坑口(北)(將軍澳醫院)",
+      "dest_sc": "坑口(北)(将军澳医院)"
+    },
+    {
+      "route": "SP10",
+      "bound": "O",
+      "service_type": "1",
+      "orig_en": "KAI TAK SPORTS PARK BUS TERMINUS",
+      "orig_tc": "啟德體育園巴士總站",
+      "orig_sc": "启德体育园巴士总站",
+      "dest_en": "CENTRAL (MACAU FERRY)",
+      "dest_tc": "中環(港澳碼頭)",
+      "dest_sc": "中环(港澳码头)"
+    },
+    {
+      "route": "SP3",
+      "bound": "O",
+      "service_type": "1",
+      "orig_en": "KAI TAK SPORTS PARK BUS TERMINUS",
+      "orig_tc": "啟德體育園巴士總站",
+      "orig_sc": "启德体育园巴士总站",
+      "dest_en": "CHING FU COURT",
+      "dest_tc": "青富苑",
+      "dest_sc": "青富苑"
+    },
+    {
+      "route": "SP5A",
+      "bound": "O",
+      "service_type": "1",
+      "orig_en": "KAI TAK SPORTS PARK BUS TERMINUS",
+      "orig_tc": "啟德體育園巴士總站",
+      "orig_sc": "启德体育园巴士总站",
+      "dest_en": "TUEN MUN PIER HEAD",
+      "dest_tc": "屯門碼頭",
+      "dest_sc": "屯门码头"
+    },
+    {
+      "route": "SP6",
+      "bound": "O",
+      "service_type": "1",
+      "orig_en": "KAI TAK SPORTS PARK BUS TERMINUS",
+      "orig_tc": "啟德體育園巴士總站",
+      "orig_sc": "启德体育园巴士总站",
+      "dest_en": "TIN HENG ESTATE",
+      "dest_tc": "天恆邨",
+      "dest_sc": "天恒邨"
+    },
+    {
+      "route": "SP7",
+      "bound": "O",
+      "service_type": "1",
+      "orig_en": "KAI TAK SPORTS PARK BUS TERMINUS",
+      "orig_tc": "啟德體育園巴士總站",
+      "orig_sc": "启德体育园巴士总站",
+      "dest_en": "SHEUNG SHUI",
+      "dest_tc": "上水",
+      "dest_sc": "上水"
     },
     {
       "route": "T270",
@@ -16942,6 +17151,17 @@
       "dest_en": "HONG KONG PALACE MUSEUM (CIRCULAR)",
       "dest_tc": "香港故宮文化博物館(循環線)",
       "dest_sc": "香港故宫文化博物馆(循环线)"
+    },
+    {
+      "route": "WB1",
+      "bound": "O",
+      "service_type": "1",
+      "orig_en": "TUEN MUN STATION",
+      "orig_tc": "屯門站",
+      "orig_sc": "屯门站",
+      "dest_en": "LAM TSUEN WISHING TREE (From Tuen Mun) (Circular)",
+      "dest_tc": "林村許願樹 (由屯門出發 循環行走)",
+      "dest_sc": "林村许愿树 (由屯门出发 循环行走)"
     },
     {
       "route": "X1",

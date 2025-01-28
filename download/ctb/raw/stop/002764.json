@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-12-26T20:37:11+08:00",
+  "generated_timestamp": "2025-01-28T19:19:29+08:00",
   "data": {
     "stop": "002764",
     "name_tc": "荷蘭街",
@@ -9,6 +9,6 @@
     "lat": "22.284460442091",
     "long": "114.13077129053",
     "name_sc": "荷兰街",
-    "data_timestamp": "2024-12-26T05:00:03+08:00"
+    "data_timestamp": "2025-01-28T05:00:02+08:00"
   }
 }

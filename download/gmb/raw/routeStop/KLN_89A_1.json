@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:56:32.820+08:00",
+  "generated_timestamp": "2025-01-28T19:33:06.163+08:00",
   "data": {
     "route_stops": [
       {
@@ -103,6 +103,6 @@
         "name_en": "Ngau Tau Kok Bus Terminus"
       }
     ],
-    "data_timestamp": "2024-12-12T12:05:59.342+08:00"
+    "data_timestamp": "2024-12-31T16:57:10.281+08:00"
   }
 }

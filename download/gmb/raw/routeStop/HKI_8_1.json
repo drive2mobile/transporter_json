@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:55:29.413+08:00",
+  "generated_timestamp": "2025-01-28T19:32:16.576+08:00",
   "data": {
     "route_stops": [
       {
@@ -41,33 +41,54 @@
       },
       {
         "stop_seq": 6,
+        "stop_id": 20020957,
+        "name_tc": "般咸道, 戴麟趾康復中心外",
+        "name_sc": "般咸道, 戴麟趾康复中心外",
+        "name_en": "Bonham Road, outside David Trench Rehabilitation Centre"
+      },
+      {
+        "stop_seq": 7,
         "stop_id": 20000173,
         "name_tc": "般咸道, 醫院道",
         "name_sc": "般咸道, 医院道",
         "name_en": "Bonham Road, Hospital Road"
       },
       {
-        "stop_seq": 7,
-        "stop_id": 20000019,
-        "name_tc": "堅道, 卑利街",
-        "name_sc": "坚道, 卑利街",
-        "name_en": "Caine Road, Peel Street"
+        "stop_seq": 8,
+        "stop_id": 20020958,
+        "name_tc": "堅道144號",
+        "name_sc": "坚道144号",
+        "name_en": "144 Caine Road"
       },
       {
-        "stop_seq": 8,
+        "stop_seq": 9,
+        "stop_id": 20020959,
+        "name_tc": "堅道119-125號",
+        "name_sc": "坚道119-125号",
+        "name_en": "119-125 Caine Road"
+      },
+      {
+        "stop_seq": 10,
+        "stop_id": 20000019,
+        "name_tc": "堅道79號, 近卑利街",
+        "name_sc": "坚道79号, 近卑利街",
+        "name_en": "79 Caine Road, near Peel Street"
+      },
+      {
+        "stop_seq": 11,
         "stop_id": 20000024,
         "name_tc": "畢打街, 近中環站 D1 出口",
         "name_sc": "毕打街, 近中环站 D1 出口",
         "name_en": "Pedder Street, near Central Station Exit D1"
       },
       {
-        "stop_seq": 9,
+        "stop_seq": 12,
         "stop_id": 20006979,
         "name_tc": "中環(交易廣場)",
         "name_sc": "中环(交易广场)",
         "name_en": "Central (Exchange Square)"
       }
     ],
-    "data_timestamp": "2024-12-24T09:25:42.314+08:00"
+    "data_timestamp": "2025-01-20T11:38:10.781+08:00"
   }
 }

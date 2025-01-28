@@ -1,14 +1,14 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-12-26T20:42:20+08:00",
+  "generated_timestamp": "2025-01-28T19:23:41+08:00",
   "data": {
     "stop": "001139",
-    "name_tc": "金鐘 - 港鐡 B 出口",
+    "name_tc": "金鐘 - 港鐵 B 出口",
     "name_en": "Admiralty - MTR Exit B",
     "lat": "22.279678602091",
     "long": "114.16378945053",
-    "name_sc": "金钟 - 港鐡 B 出口",
-    "data_timestamp": "2024-12-26T05:00:03+08:00"
+    "name_sc": "金钟 - 港铁 B 出口",
+    "data_timestamp": "2025-01-28T05:00:02+08:00"
   }
 }

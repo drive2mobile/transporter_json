@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:57:57.934+08:00",
+  "generated_timestamp": "2025-01-28T19:34:27.452+08:00",
   "data": {
     "route_stops": [
       {
@@ -82,6 +82,6 @@
         "name_en": "Fanling Station Public Light Bus (Scheduled) Service Terminus"
       }
     ],
-    "data_timestamp": "2024-10-25T15:41:12.984+08:00"
+    "data_timestamp": "2025-01-26T00:01:16.938+08:00"
   }
 }

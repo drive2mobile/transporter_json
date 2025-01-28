@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:55:13.268+08:00",
+  "generated_timestamp": "2025-01-28T19:31:54.505+08:00",
   "data": {
     "route_stops": [
       {
@@ -103,6 +103,6 @@
         "name_en": "Jaffe Road,Percival Street"
       }
     ],
-    "data_timestamp": "2024-12-18T14:16:19.522+08:00"
+    "data_timestamp": "2025-01-20T11:47:33.628+08:00"
   }
 }

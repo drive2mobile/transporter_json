@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:57:16.723+08:00",
+  "generated_timestamp": "2025-01-28T19:33:47.485+08:00",
   "data": {
     "route_stops": [
       {
@@ -49,9 +49,9 @@
       {
         "stop_seq": 7,
         "stop_id": 20011956,
-        "name_tc": "大窩口邨第一商場",
-        "name_sc": "大窝口邨第一商场",
-        "name_en": "Tai Wo Hau Estate Commercial Centre 1"
+        "name_tc": "大窩口商場",
+        "name_sc": "大窝口商场",
+        "name_en": "Tai Wo Hau Shopping Centre"
       },
       {
         "stop_seq": 8,
@@ -103,6 +103,6 @@
         "name_en": "Princess Magaret Hospital"
       }
     ],
-    "data_timestamp": "2024-12-17T10:44:23.661+08:00"
+    "data_timestamp": "2025-01-03T18:32:13.921+08:00"
   }
 }

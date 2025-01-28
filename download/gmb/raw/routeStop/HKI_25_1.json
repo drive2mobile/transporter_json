@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:54:56.035+08:00",
+  "generated_timestamp": "2025-01-28T19:31:39.559+08:00",
   "data": {
     "route_stops": [
       {
@@ -21,7 +21,7 @@
       {
         "stop_seq": 3,
         "stop_id": 20009182,
-        "name_tc": "雲景道,近峯景",
+        "name_tc": "雲景道, 近峯景",
         "name_sc": "云景道,近峰景",
         "name_en": "Near Hilltop, Cloud View Road"
       },
@@ -42,7 +42,7 @@
       {
         "stop_seq": 6,
         "stop_id": 20000123,
-        "name_tc": "勵德邨道,邨榮樓外",
+        "name_tc": "勵德邨道, 邨榮樓外",
         "name_sc": "励德邨道,邨荣楼外",
         "name_en": "Lai Tak Tsuen Road, outside Tsuen Wing Lau"
       },
@@ -103,6 +103,6 @@
         "name_en": "Upper Braemar Hill Bus Terminus"
       }
     ],
-    "data_timestamp": "2024-11-05T17:54:40.192+08:00"
+    "data_timestamp": "2025-01-24T11:52:10.711+08:00"
   }
 }

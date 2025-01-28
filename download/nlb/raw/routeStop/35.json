@@ -10,8 +10,8 @@
       "stopLocation_e": "Tin Yiu Road",
       "latitude": "22.45053000",
       "longitude": "114.00302900",
-      "fare": "10.3",
-      "fareHoliday": "10.3",
+      "fare": "11.3",
+      "fareHoliday": "11.3",
       "someDepartureObserveOnly": 0
     },
     {
@@ -24,8 +24,8 @@
       "stopLocation_e": "Tin Yiu Road",
       "latitude": "22.44955000",
       "longitude": "114.00317400",
-      "fare": "10.3",
-      "fareHoliday": "10.3",
+      "fare": "11.3",
+      "fareHoliday": "11.3",
       "someDepartureObserveOnly": 0
     },
     {
@@ -38,8 +38,8 @@
       "stopLocation_e": "Ping Ha Road",
       "latitude": "22.44669700",
       "longitude": "114.00300000",
-      "fare": "10.3",
-      "fareHoliday": "10.3",
+      "fare": "11.3",
+      "fareHoliday": "11.3",
       "someDepartureObserveOnly": 0
     },
     {

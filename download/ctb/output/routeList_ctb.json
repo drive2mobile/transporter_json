@@ -633,20 +633,20 @@
     "id": "ctb_15C_I",
     "company": "ctb",
     "route": "15C",
-    "from_tc": "花園道 (山頂纜車總站)",
-    "from_en": "Garden Road (Lower Peak Tram Station)",
-    "to_tc": "中環 (天星碼頭)",
-    "to_en": "Central (Star Ferry)",
+    "from_tc": "花園道",
+    "from_en": "Garden Road",
+    "to_tc": "中環 (香港摩天輪)",
+    "to_en": "Central (Hong Kong Observation Wheel)",
     "dir": "I"
   },
   {
     "id": "ctb_15C_O",
     "company": "ctb",
     "route": "15C",
-    "from_tc": "中環 (天星碼頭)",
-    "from_en": "Central (Star Ferry)",
-    "to_tc": "花園道 (山頂纜車總站)",
-    "to_en": "Garden Road (Lower Peak Tram Station)",
+    "from_tc": "中環 (香港摩天輪)",
+    "from_en": "Central (Hong Kong Observation Wheel)",
+    "to_tc": "花園道",
+    "to_en": "Garden Road",
     "dir": "O"
   },
   {
@@ -884,7 +884,7 @@
     "company": "ctb",
     "route": "20A",
     "from_tc": "高鐵西九龍站 (經:旺角)",
-    "from_en": "High Speed Rail West Kowloon Station (via: Mong Kok)",
+    "from_en": "HSR West Kowloon Station (via: Mong Kok)",
     "to_tc": "啟德郵輪碼頭 (經:旺角)",
     "to_en": "Kai Tak Cruise Terminal (via: Mong Kok)",
     "dir": "I"
@@ -896,7 +896,7 @@
     "from_tc": "啟德郵輪碼頭 (經:旺角)",
     "from_en": "Kai Tak Cruise Terminal (via: Mong Kok)",
     "to_tc": "高鐵西九龍站 (經:旺角)",
-    "to_en": "High Speed Rail West Kowloon Station (via: Mong Kok)",
+    "to_en": "HSR West Kowloon Station (via: Mong Kok)",
     "dir": "O"
   },
   {
@@ -1388,6 +1388,16 @@
     "to_tc": "柴灣墳場／歌連臣角",
     "to_en": "Chai Wan Cemeteries / Cape Collinson",
     "dir": "O"
+  },
+  {
+    "id": "ctb_38S_I",
+    "company": "ctb",
+    "route": "38S",
+    "from_tc": "銅鑼灣 (中央圖書館)",
+    "from_en": "Causeway Bay (Central Library)",
+    "to_tc": "置富花園",
+    "to_en": "Chi Fu Fa Yuen",
+    "dir": "I"
   },
   {
     "id": "ctb_3A_I",
@@ -4750,16 +4760,6 @@
     "dir": "O"
   },
   {
-    "id": "ctb_976S_O",
-    "company": "ctb",
-    "route": "976S",
-    "from_tc": "銅鑼灣 (摩頓台)",
-    "from_en": "Causeway Bay (Moreton Terrace)",
-    "to_tc": "落馬洲 (新田)",
-    "to_en": "Lok Ma Chau (San Tin)",
-    "dir": "O"
-  },
-  {
     "id": "ctb_979_I",
     "company": "ctb",
     "route": "979",
@@ -5770,6 +5770,16 @@
     "dir": "O"
   },
   {
+    "id": "ctb_N116_O",
+    "company": "ctb",
+    "route": "N116",
+    "from_tc": "北角",
+    "from_en": "North Point",
+    "to_tc": "慈雲山 (中)",
+    "to_en": "Tsz Wan Shan (Central)",
+    "dir": "O"
+  },
+  {
     "id": "ctb_N118_I",
     "company": "ctb",
     "route": "N118",
@@ -6037,6 +6047,16 @@
     "from_en": "Tuen Mun (Ching Tin and Wo Tin)",
     "to_tc": "尖沙咀 (九龍站)",
     "to_en": "Tsim Sha Tsui (Kowloon Station)",
+    "dir": "O"
+  },
+  {
+    "id": "ctb_N601_O",
+    "company": "ctb",
+    "route": "N601",
+    "from_tc": "金鐘 (東)",
+    "from_en": "Admiralty (East)",
+    "to_tc": "寶達邨",
+    "to_en": "Po Tat Estate",
     "dir": "O"
   },
   {
@@ -6410,23 +6430,13 @@
     "dir": "O"
   },
   {
-    "id": "ctb_NB3_I",
+    "id": "ctb_R11_O",
     "company": "ctb",
-    "route": "NB3",
-    "from_tc": "深圳灣口岸",
-    "from_en": "Shenzhen Bay Port",
-    "to_tc": "屯門碼頭",
-    "to_en": "Tuen Mun Pier Head",
-    "dir": "I"
-  },
-  {
-    "id": "ctb_NB3_O",
-    "company": "ctb",
-    "route": "NB3",
-    "from_tc": "屯門碼頭",
-    "from_en": "Tuen Mun Pier Head",
-    "to_tc": "深圳灣口岸",
-    "to_en": "Shenzhen Bay Port",
+    "route": "R11",
+    "from_tc": "迪士尼樂園",
+    "from_en": "Disneyland",
+    "to_tc": "北角碼頭",
+    "to_en": "North Point Ferry Pier",
     "dir": "O"
   },
   {
@@ -6507,6 +6517,56 @@
     "from_en": "Tung Chung Station",
     "to_tc": "機場 (一號客運大樓)",
     "to_en": "Airport (Passenger Terminal 1)",
+    "dir": "O"
+  },
+  {
+    "id": "ctb_SP10_O",
+    "company": "ctb",
+    "route": "SP10",
+    "from_tc": "啟德體育園",
+    "from_en": "Kai Tak Sports Park",
+    "to_tc": "中環 (港澳碼頭)",
+    "to_en": "Central (Macau Ferry)",
+    "dir": "O"
+  },
+  {
+    "id": "ctb_SP11_O",
+    "company": "ctb",
+    "route": "SP11",
+    "from_tc": "啟德體育園",
+    "from_en": "Kai Tak Sports Park",
+    "to_tc": "小西灣 (藍灣半島)",
+    "to_en": "Siu Sai Wan (Island Resort)",
+    "dir": "O"
+  },
+  {
+    "id": "ctb_SP2_O",
+    "company": "ctb",
+    "route": "SP2",
+    "from_tc": "啟德體育園",
+    "from_en": "Kai Tak Sports Park",
+    "to_tc": "旺角",
+    "to_en": "Mong Kok",
+    "dir": "O"
+  },
+  {
+    "id": "ctb_SP5B_O",
+    "company": "ctb",
+    "route": "SP5B",
+    "from_tc": "啟德體育園",
+    "from_en": "Kai Tak Sports Park",
+    "to_tc": "屯門 (菁田及和田)",
+    "to_en": "Tuen Mun (Ching Tin and Wo Tin)",
+    "dir": "O"
+  },
+  {
+    "id": "ctb_SP9_O",
+    "company": "ctb",
+    "route": "SP9",
+    "from_tc": "啟德體育園",
+    "from_en": "Kai Tak Sports Park",
+    "to_tc": "日出康城",
+    "to_en": "LOHAS Park",
     "dir": "O"
   },
   {

@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:58:13.377+08:00",
+  "generated_timestamp": "2025-01-28T19:34:39.308+08:00",
   "data": {
     "route_stops": [
       {
@@ -68,6 +68,6 @@
         "name_en": "Shenzhen Bay Port"
       }
     ],
-    "data_timestamp": "2024-12-06T09:28:52.008+08:00"
+    "data_timestamp": "2025-01-01T06:36:12.497+08:00"
   }
 }

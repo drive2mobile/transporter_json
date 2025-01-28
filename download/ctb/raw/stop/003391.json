@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-12-26T20:38:34+08:00",
+  "generated_timestamp": "2025-01-28T19:20:42+08:00",
   "data": {
     "stop": "003391",
     "name_tc": "水泉澳邨",
@@ -9,6 +9,6 @@
     "lat": "22.374454022091",
     "long": "114.19741724053",
     "name_sc": "水泉澳邨",
-    "data_timestamp": "2024-12-26T05:00:03+08:00"
+    "data_timestamp": "2025-01-28T05:00:02+08:00"
   }
 }

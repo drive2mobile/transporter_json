@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-12-26T20:38:30+08:00",
+  "generated_timestamp": "2025-01-28T19:20:38+08:00",
   "data": {
     "stop": "002052",
     "name_tc": "愉翠苑",
@@ -9,6 +9,6 @@
     "lat": "22.382175142091",
     "long": "114.20517003053",
     "name_sc": "愉翠苑",
-    "data_timestamp": "2024-12-26T05:00:03+08:00"
+    "data_timestamp": "2025-01-28T05:00:02+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:57:43.190+08:00",
+  "generated_timestamp": "2025-01-28T19:34:15.756+08:00",
   "data": {
     "route_stops": [
       {
@@ -110,6 +110,6 @@
         "name_en": "Lockhart Road, outside The Broadway"
       }
     ],
-    "data_timestamp": "2024-12-24T09:30:47.062+08:00"
+    "data_timestamp": "2025-01-16T17:53:25.274+08:00"
   }
 }

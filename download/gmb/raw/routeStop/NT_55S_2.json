@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:57:55.967+08:00",
+  "generated_timestamp": "2025-01-28T19:34:25.661+08:00",
   "data": {
     "route_stops": [
       {
@@ -54,6 +54,6 @@
         "name_en": "Sha Tau Kok Public Transport Interchange"
       }
     ],
-    "data_timestamp": "2024-12-14T00:00:12.935+08:00"
+    "data_timestamp": "2025-01-21T10:29:36.157+08:00"
   }
 }

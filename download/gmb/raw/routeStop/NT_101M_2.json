@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:56:37.629+08:00",
+  "generated_timestamp": "2025-01-28T19:33:10.552+08:00",
   "data": {
     "route_stops": [
       {
@@ -68,6 +68,6 @@
         "name_en": "Hang Hau Station Public Transport Interchange"
       }
     ],
-    "data_timestamp": "2024-12-25T03:14:11.249+08:00"
+    "data_timestamp": "2025-01-01T06:21:14.338+08:00"
   }
 }

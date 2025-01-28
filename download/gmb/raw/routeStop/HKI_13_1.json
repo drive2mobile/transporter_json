@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:54:49.152+08:00",
+  "generated_timestamp": "2025-01-28T19:31:32.469+08:00",
   "data": {
     "route_stops": [
       {
@@ -131,6 +131,6 @@
         "name_en": "Ka Wai Man Road, near Sai Wan Estate"
       }
     ],
-    "data_timestamp": "2024-12-20T12:26:49.842+08:00"
+    "data_timestamp": "2025-01-21T12:23:29.745+08:00"
   }
 }

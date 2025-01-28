@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:59:08.994+08:00",
+  "generated_timestamp": "2025-01-28T19:35:26.230+08:00",
   "data": {
     "route_stops": [
       {
@@ -145,6 +145,6 @@
         "name_en": "Shek Tau Kok Estate"
       }
     ],
-    "data_timestamp": "2024-12-17T10:44:23.428+08:00"
+    "data_timestamp": "2025-01-26T00:00:11.792+08:00"
   }
 }

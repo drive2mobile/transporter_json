@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:54:58.029+08:00",
+  "generated_timestamp": "2025-01-28T19:31:41.516+08:00",
   "data": {
     "route_stops": [
       {
@@ -159,6 +159,6 @@
         "name_en": "Sun Wui Road, near Capital Building"
       }
     ],
-    "data_timestamp": "2024-12-24T09:25:42.316+08:00"
+    "data_timestamp": "2025-01-20T11:37:05.576+08:00"
   }
 }

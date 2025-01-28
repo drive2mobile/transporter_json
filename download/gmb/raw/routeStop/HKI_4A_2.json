@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:55:11.492+08:00",
+  "generated_timestamp": "2025-01-28T19:31:52.622+08:00",
   "data": {
     "route_stops": [
       {
@@ -41,10 +41,10 @@
       },
       {
         "stop_seq": 6,
-        "stop_id": 20011479,
-        "name_tc": "黃竹坑道40號",
-        "name_sc": "黄竹坑道40号",
-        "name_en": "No.40 Wong Chuk Hang Road"
+        "stop_id": 20020955,
+        "name_tc": "黃竹坑道36號",
+        "name_sc": "黄竹坑道36号",
+        "name_en": "No.36 Wong Chuk Hang Road"
       },
       {
         "stop_seq": 7,
@@ -55,10 +55,10 @@
       },
       {
         "stop_seq": 8,
-        "stop_id": 20011480,
-        "name_tc": "香港仔海傍道, 香港仔巴士站對面",
-        "name_sc": "香港仔海傍道, 香港仔巴士站对面",
-        "name_en": "Aberdeen Praya Road, opposite Aberdeen Bus Terminus"
+        "stop_id": 20000169,
+        "name_tc": "香港仔海傍道, 香港仔海濱公園外",
+        "name_sc": "香港仔海傍道, 香港仔海滨公园外",
+        "name_en": "Aberdeen Praya Road, outside Aberdeen Promenade"
       },
       {
         "stop_seq": 9,
@@ -75,6 +75,6 @@
         "name_en": "Shek Pai Wan Estate Public Transport Interchange"
       }
     ],
-    "data_timestamp": "2024-12-18T14:17:11.408+08:00"
+    "data_timestamp": "2025-01-20T11:47:33.634+08:00"
   }
 }

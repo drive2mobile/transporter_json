@@ -1,14 +1,14 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-12-26T20:45:40+08:00",
+  "generated_timestamp": "2025-01-28T19:26:30+08:00",
   "data": {
     "stop": "003542",
-    "name_tc": "掃管笏路 88 號, 掃管笏路",
-    "name_en": "88 So Kwun Wat Road, So Kwun Wat Road",
+    "name_tc": "上源, 掃管笏路",
+    "name_en": "LEPONT, So Kwun Wat Road",
     "lat": "22.373795842091",
     "long": "114.00277027053",
-    "name_sc": "扫管笏路 88 号, 扫管笏路",
-    "data_timestamp": "2024-12-26T05:00:03+08:00"
+    "name_sc": "上源, 扫管笏路",
+    "data_timestamp": "2025-01-28T05:00:02+08:00"
   }
 }

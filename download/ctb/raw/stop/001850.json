@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-12-26T20:47:08+08:00",
+  "generated_timestamp": "2025-01-28T19:28:06+08:00",
   "data": {
     "stop": "001850",
     "name_tc": "飛機維修區",
@@ -9,6 +9,6 @@
     "lat": "22.304293352091",
     "long": "113.89929240053",
     "name_sc": "飞机维修区",
-    "data_timestamp": "2024-12-26T05:00:03+08:00"
+    "data_timestamp": "2025-01-28T05:00:02+08:00"
   }
 }

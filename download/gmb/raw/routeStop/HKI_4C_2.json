@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:55:12.191+08:00",
+  "generated_timestamp": "2025-01-28T19:31:53.443+08:00",
   "data": {
     "route_stops": [
       {
@@ -34,10 +34,10 @@
       },
       {
         "stop_seq": 5,
-        "stop_id": 20011480,
-        "name_tc": "香港仔海傍道, 香港仔巴士站對面",
-        "name_sc": "香港仔海傍道, 香港仔巴士站对面",
-        "name_en": "Aberdeen Praya Road, opposite Aberdeen Bus Terminus"
+        "stop_id": 20000169,
+        "name_tc": "香港仔海傍道, 香港仔海濱公園外",
+        "name_sc": "香港仔海傍道, 香港仔海滨公园外",
+        "name_en": "Aberdeen Praya Road, outside Aberdeen Promenade"
       },
       {
         "stop_seq": 6,
@@ -54,6 +54,6 @@
         "name_en": "Shek Pai Wan Estate Public Transport Interchange"
       }
     ],
-    "data_timestamp": "2024-12-20T12:34:10.149+08:00"
+    "data_timestamp": "2025-01-20T11:47:33.634+08:00"
   }
 }

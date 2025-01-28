@@ -1,14 +1,14 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-12-26T20:39:05+08:00",
+  "generated_timestamp": "2025-01-28T19:21:09+08:00",
   "data": {
     "stop": "003520",
-    "name_tc": "承豐道",
-    "name_en": "Shing Fung Road",
+    "name_tc": "天璽．海, 承豐道",
+    "name_en": "Cullinan Harbour, Shing Fung Road",
     "lat": "22.311739462091",
     "long": "114.20778315053",
-    "name_sc": "承丰道",
-    "data_timestamp": "2024-12-26T05:00:03+08:00"
+    "name_sc": "天玺．海, 承丰道",
+    "data_timestamp": "2025-01-28T05:00:02+08:00"
   }
 }

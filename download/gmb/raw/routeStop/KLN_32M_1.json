@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:55:56.262+08:00",
+  "generated_timestamp": "2025-01-28T19:32:39.158+08:00",
   "data": {
     "route_stops": [
       {
@@ -54,6 +54,6 @@
         "name_en": "Lung Ping Road, outside Beacon Heights"
       }
     ],
-    "data_timestamp": "2024-10-22T14:46:14.757+08:00"
+    "data_timestamp": "2025-01-14T09:36:02.001+08:00"
   }
 }

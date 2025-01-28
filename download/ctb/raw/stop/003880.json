@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2025-01-28T19:21:15+08:00",
+  "data": {
+    "stop": "003880",
+    "name_tc": "啟德 - 港鐵 A 出口, 沐安街",
+    "name_en": "Kai Tak - MTR Exit A, Muk On Street",
+    "lat": "22.329728532091",
+    "long": "114.20110098053",
+    "name_sc": "启德 - 港铁 A 出口, 沐安街",
+    "data_timestamp": "2025-01-28T05:00:02+08:00"
+  }
+}

@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:55:56.041+08:00",
+  "generated_timestamp": "2025-01-28T19:32:38.957+08:00",
   "data": {
     "route_stops": [
       {
@@ -47,6 +47,6 @@
         "name_en": "Chak On Road, outside Lai Chak House, Chak On Estate"
       }
     ],
-    "data_timestamp": "2024-10-25T12:34:29.272+08:00"
+    "data_timestamp": "2025-01-14T09:36:02.001+08:00"
   }
 }

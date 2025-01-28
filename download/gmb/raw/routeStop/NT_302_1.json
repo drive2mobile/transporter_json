@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:57:14.582+08:00",
+  "generated_timestamp": "2025-01-28T19:33:45.628+08:00",
   "data": {
     "route_stops": [
       {
@@ -159,6 +159,6 @@
         "name_en": "Bellagio"
       }
     ],
-    "data_timestamp": "2024-12-17T10:45:11.249+08:00"
+    "data_timestamp": "2025-01-03T18:31:42.303+08:00"
   }
 }

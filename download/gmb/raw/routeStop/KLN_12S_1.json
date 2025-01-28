@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:55:34.744+08:00",
+  "generated_timestamp": "2025-01-28T19:32:21.622+08:00",
   "data": {
     "route_stops": [
       {
@@ -131,6 +131,6 @@
         "name_en": "Tai Kok Tsui (Cherry Street) GMB Terminus"
       }
     ],
-    "data_timestamp": "2024-12-17T17:09:37.503+08:00"
+    "data_timestamp": "2025-01-14T09:38:25.776+08:00"
   }
 }

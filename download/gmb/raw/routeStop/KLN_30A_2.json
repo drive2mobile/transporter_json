@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:55:55.803+08:00",
+  "generated_timestamp": "2025-01-28T19:32:38.750+08:00",
   "data": {
     "route_stops": [
       {
@@ -21,9 +21,9 @@
       {
         "stop_seq": 3,
         "stop_id": 20006961,
-        "name_tc": "洗衣街177號",
-        "name_sc": "洗衣街177号",
-        "name_en": "No.177 Sai Yee Street"
+        "name_tc": "洗衣街171號",
+        "name_sc": "洗衣街171号",
+        "name_en": "No.171 Sai Yee Street"
       },
       {
         "stop_seq": 4,
@@ -61,6 +61,6 @@
         "name_en": "Chak On Road, outside Fu Chak House, Chak On Estate"
       }
     ],
-    "data_timestamp": "2024-10-28T17:29:08.605+08:00"
+    "data_timestamp": "2025-01-14T09:38:25.777+08:00"
   }
 }

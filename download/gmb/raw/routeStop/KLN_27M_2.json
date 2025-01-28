@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:55:52.752+08:00",
+  "generated_timestamp": "2025-01-28T19:32:35.929+08:00",
   "data": {
     "route_stops": [
       {
@@ -82,6 +82,6 @@
         "name_en": "Maidstaone Road, North Of Lok Shan Road"
       }
     ],
-    "data_timestamp": "2024-12-17T17:09:37.509+08:00"
+    "data_timestamp": "2025-01-14T18:36:15.727+08:00"
   }
 }

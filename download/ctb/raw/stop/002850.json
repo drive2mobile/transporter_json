@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-12-26T20:44:27+08:00",
+  "generated_timestamp": "2025-01-28T19:25:18+08:00",
   "data": {
     "stop": "002850",
     "name_tc": "櫸樹街",
@@ -9,6 +9,6 @@
     "lat": "22.319509422091",
     "long": "114.16287064053",
     "name_sc": "榉树街",
-    "data_timestamp": "2024-12-26T05:00:03+08:00"
+    "data_timestamp": "2025-01-28T05:00:02+08:00"
   }
 }

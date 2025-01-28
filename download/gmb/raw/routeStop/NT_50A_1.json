@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:57:51.133+08:00",
+  "generated_timestamp": "2025-01-28T19:34:21.217+08:00",
   "data": {
     "route_stops": [
       {
@@ -61,6 +61,6 @@
         "name_en": "KWU TUNG ROAD, near LADY HO TUNG WELFARE CENTRE"
       }
     ],
-    "data_timestamp": "2024-12-03T10:53:14.210+08:00"
+    "data_timestamp": "2025-01-21T10:29:36.171+08:00"
   }
 }

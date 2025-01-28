@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:55:19.575+08:00",
+  "generated_timestamp": "2025-01-28T19:32:07.044+08:00",
   "data": {
     "route_stops": [
       {
@@ -48,54 +48,68 @@
       },
       {
         "stop_seq": 7,
+        "stop_id": 20009805,
+        "name_tc": "域多利道, 域多利道分區電力站對面",
+        "name_sc": "域多利道, 域多利道分区电力站对面",
+        "name_en": "Victoria Road, opposite Victoria Road Zone Sub-station"
+      },
+      {
+        "stop_seq": 8,
+        "stop_id": 20020953,
+        "name_tc": "石排灣道, 興和街",
+        "name_sc": "石排湾道, 兴和街",
+        "name_en": "Hing Wo Street, Shek Pai Wan Road"
+      },
+      {
+        "stop_seq": 9,
         "stop_id": 20000370,
         "name_tc": "石排灣道, 田灣街",
         "name_sc": "石排湾道, 田湾街",
         "name_en": "Tin Wan Street, Shek Pai Wan Road"
       },
       {
-        "stop_seq": 8,
+        "stop_seq": 10,
         "stop_id": 20002494,
-        "name_tc": "香港仔海傍道",
-        "name_sc": "香港仔海傍道",
-        "name_en": "Aberdeen Praya Road"
+        "name_tc": "香港仔海傍道, 香港仔巴士總站外",
+        "name_sc": "香港仔海傍道, 香港仔巴士总站外",
+        "name_en": "Aberdeen Praya Road outtside Aberdeen Bus Terminus"
       },
       {
-        "stop_seq": 9,
+        "stop_seq": 11,
         "stop_id": 20000239,
         "name_tc": "黃竹坑道, 甄沾記大廈",
         "name_sc": "黄竹坑道, 甄沾记大厦",
         "name_en": "Yan's Tower, Wong Chuk Hang Road"
       },
       {
-        "stop_seq": 10,
+        "stop_seq": 12,
         "stop_id": 20009804,
         "name_tc": "南朗山道, 南朗山道熟食市場",
         "name_sc": "南朗山道, 南朗山道熟食市场",
         "name_en": "Nam Long Shan Road Cooked Food Market, Nam Long Shan Road"
       },
       {
-        "stop_seq": 11,
+        "stop_seq": 13,
         "stop_id": 20000342,
         "name_tc": "南朗山道, 新會商會陳白沙紀念中學外",
         "name_sc": "南朗山道, 新会商会陈白沙纪念中学外",
         "name_en": "Nam Long Shan Road, outside San Wui Commercial Society Of Hong Kong Chan Pak Sha School"
       },
       {
-        "stop_seq": 12,
+        "stop_seq": 14,
         "stop_id": 20000343,
         "name_tc": "深灣道, 南濤閣第3座外",
         "name_sc": "深湾道, 南涛阁第3座外",
         "name_en": "Shum Wan Road, outside Block 3, South Wave Court"
       },
       {
-        "stop_seq": 13,
+        "stop_seq": 15,
         "stop_id": 20000160,
         "name_tc": "深灣道公共交通總站",
         "name_sc": "深湾道公共交通总站",
         "name_en": "Shum Wan Road Public Transport Terminus"
       }
     ],
-    "data_timestamp": "2024-12-20T12:44:03.525+08:00"
+    "data_timestamp": "2025-01-21T12:23:29.768+08:00"
   }
 }

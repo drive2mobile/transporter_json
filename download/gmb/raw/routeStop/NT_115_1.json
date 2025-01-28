@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:56:50.275+08:00",
+  "generated_timestamp": "2025-01-28T19:33:21.805+08:00",
   "data": {
     "route_stops": [
       {
@@ -89,6 +89,6 @@
         "name_en": "Tseung Kwan O Industrial Estate (Chun Cheong Street) Terminus"
       }
     ],
-    "data_timestamp": "2024-11-18T11:09:18.401+08:00"
+    "data_timestamp": "2024-12-30T15:26:54.160+08:00"
   }
 }

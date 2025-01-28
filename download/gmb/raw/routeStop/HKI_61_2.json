@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:55:22.422+08:00",
+  "generated_timestamp": "2025-01-28T19:32:09.727+08:00",
   "data": {
     "route_stops": [
       {
@@ -110,6 +110,6 @@
         "name_en": "Siu Sai Wan Road, outside Tower 3, Island Resort"
       }
     ],
-    "data_timestamp": "2024-11-22T18:51:38.517+08:00"
+    "data_timestamp": "2025-01-03T12:20:29.697+08:00"
   }
 }

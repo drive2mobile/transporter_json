@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:55:27.983+08:00",
+  "generated_timestamp": "2025-01-28T19:32:15.030+08:00",
   "data": {
     "route_stops": [
       {
@@ -89,6 +89,6 @@
         "name_en": "Aldrich Garden, outside Block 10"
       }
     ],
-    "data_timestamp": "2024-11-22T18:51:38.505+08:00"
+    "data_timestamp": "2025-01-03T12:20:29.689+08:00"
   }
 }

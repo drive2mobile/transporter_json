@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:59:09.832+08:00",
+  "generated_timestamp": "2025-01-28T19:35:26.964+08:00",
   "data": {
     "route_stops": [
       {
@@ -19,6 +19,6 @@
         "name_en": "Shing Mun Reservoir"
       }
     ],
-    "data_timestamp": "2024-12-24T09:34:06.946+08:00"
+    "data_timestamp": "2025-01-26T00:00:35.588+08:00"
   }
 }

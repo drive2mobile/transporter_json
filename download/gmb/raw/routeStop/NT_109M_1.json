@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:56:42.465+08:00",
+  "generated_timestamp": "2025-01-28T19:33:16.928+08:00",
   "data": {
     "route_stops": [
       {
@@ -40,6 +40,6 @@
         "name_en": "Ming Shing Street, opposite East Point City"
       }
     ],
-    "data_timestamp": "2024-11-18T11:09:18.395+08:00"
+    "data_timestamp": "2024-12-29T00:00:42.367+08:00"
   }
 }

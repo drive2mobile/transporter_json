@@ -1,14 +1,14 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-12-26T20:38:10+08:00",
+  "generated_timestamp": "2025-01-28T19:20:24+08:00",
   "data": {
     "stop": "002761",
-    "name_tc": "花園道山頂纜車站",
-    "name_en": "Garden Road Peak Tram Station",
+    "name_tc": "花園道",
+    "name_en": "Garden Road",
     "lat": "22.277791942091",
     "long": "114.15959654053",
-    "name_sc": "花园道山顶缆车站",
-    "data_timestamp": "2024-12-26T05:00:03+08:00"
+    "name_sc": "花园道",
+    "data_timestamp": "2025-01-28T05:00:02+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-12-26T20:35:40+08:00",
+  "generated_timestamp": "2025-01-28T19:17:12+08:00",
   "data": {
     "stop": "001115",
     "name_tc": "蒲飛路",
@@ -9,6 +9,6 @@
     "lat": "22.281620582091",
     "long": "114.13225102053",
     "name_sc": "蒲飞路",
-    "data_timestamp": "2024-12-26T05:00:03+08:00"
+    "data_timestamp": "2025-01-28T05:00:02+08:00"
   }
 }

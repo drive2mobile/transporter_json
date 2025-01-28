@@ -10,8 +10,8 @@
       "stopLocation_e": "Shenzhen Bay Port",
       "latitude": "22.49743300",
       "longitude": "113.95050900",
-      "fare": "10.3",
-      "fareHoliday": "10.3",
+      "fare": "11.3",
+      "fareHoliday": "11.3",
       "someDepartureObserveOnly": 0
     },
     {
@@ -24,8 +24,8 @@
       "stopLocation_e": "Ping Ha Road",
       "latitude": "22.44698800",
       "longitude": "114.00279400",
-      "fare": "4.2",
-      "fareHoliday": "4.2",
+      "fare": "4.6",
+      "fareHoliday": "4.6",
       "someDepartureObserveOnly": 0
     },
     {

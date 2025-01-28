@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:56:59.725+08:00",
+  "generated_timestamp": "2025-01-28T19:33:29.901+08:00",
   "data": {
     "route_stops": [
       {
@@ -47,6 +47,6 @@
         "name_en": "Yi Chun Street, opposite Sai Kung Market"
       }
     ],
-    "data_timestamp": "2024-11-15T18:14:31.458+08:00"
+    "data_timestamp": "2024-12-29T00:00:41.810+08:00"
   }
 }

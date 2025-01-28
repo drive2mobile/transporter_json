@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:56:33.326+08:00",
+  "generated_timestamp": "2025-01-28T19:33:06.664+08:00",
   "data": {
     "route_stops": [
       {
@@ -138,6 +138,6 @@
         "name_en": "Sheung Yee Road, near Zero Carbon Building"
       }
     ],
-    "data_timestamp": "2024-12-12T12:05:59.342+08:00"
+    "data_timestamp": "2024-12-31T16:56:41.758+08:00"
   }
 }

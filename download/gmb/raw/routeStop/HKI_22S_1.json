@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:54:53.615+08:00",
+  "generated_timestamp": "2025-01-28T19:31:37.176+08:00",
   "data": {
     "route_stops": [
       {
@@ -152,6 +152,6 @@
         "name_en": "Chi Fu Road, outside block no. 14"
       }
     ],
-    "data_timestamp": "2024-12-24T09:27:34.725+08:00"
+    "data_timestamp": "2025-01-21T12:23:29.758+08:00"
   }
 }

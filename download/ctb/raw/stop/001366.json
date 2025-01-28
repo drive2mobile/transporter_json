@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-12-26T20:40:32+08:00",
+  "generated_timestamp": "2025-01-28T19:18:23+08:00",
   "data": {
     "stop": "001366",
     "name_tc": "小西灣邨",
@@ -9,6 +9,6 @@
     "lat": "22.262691022091",
     "long": "114.24914783053",
     "name_sc": "小西湾邨",
-    "data_timestamp": "2024-12-26T05:00:03+08:00"
+    "data_timestamp": "2025-01-28T05:00:02+08:00"
   }
 }

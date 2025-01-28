@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:57:08.438+08:00",
+  "generated_timestamp": "2025-01-28T19:33:37.715+08:00",
   "data": {
     "route_stops": [
       {
@@ -124,6 +124,6 @@
         "name_en": "Fu Tip Estate"
       }
     ],
-    "data_timestamp": "2024-11-22T17:33:31.401+08:00"
+    "data_timestamp": "2025-01-26T00:01:35.845+08:00"
   }
 }

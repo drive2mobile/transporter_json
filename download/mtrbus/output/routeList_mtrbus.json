@@ -191,21 +191,41 @@
   },
   {
     "company": "mtrbus",
+    "id": "mtrbus_K54A_O",
+    "route": "K54A",
+    "dir": "O",
+    "from_tc": "和田邨",
+    "from_en": "Wo Tin Estate",
+    "to_tc": "港鐵兆康站 (北) (輕鐵兆康站)",
+    "to_en": "MTR Siu Hong Station (North) (LR Siu Hong Stop)"
+  },
+  {
+    "company": "mtrbus",
+    "id": "mtrbus_K54A_I",
+    "route": "K54A",
+    "dir": "I",
+    "from_tc": "港鐵兆康站 (北) (輕鐵兆康站)",
+    "from_en": "MTR Siu Hong Station (North) (LR Siu Hong Stop)",
+    "to_tc": "和田邨",
+    "to_en": "Wo Tin Estate"
+  },
+  {
+    "company": "mtrbus",
     "id": "mtrbus_K58_O",
     "route": "K58",
     "dir": "O",
     "from_tc": "富泰",
     "from_en": "Fu Tai",
-    "to_tc": "青山灣",
-    "to_en": "Castle Peak Bay"
+    "to_tc": "管翠路",
+    "to_en": "Kwun Chui Road"
   },
   {
     "company": "mtrbus",
     "id": "mtrbus_K58_I",
     "route": "K58",
     "dir": "I",
-    "from_tc": "青山灣",
-    "from_en": "Castle Peak Bay",
+    "from_tc": "掃管笏村",
+    "from_en": "So Kwun Wat Tsuen",
     "to_tc": "富泰",
     "to_en": "Fu Tai"
   },

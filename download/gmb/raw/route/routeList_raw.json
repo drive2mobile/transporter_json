@@ -1,7 +1,7 @@
 {
   "type": "Routes-All",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:51:57.572+08:00",
+  "generated_timestamp": "2025-01-28T19:28:50.324+08:00",
   "data": {
     "routes": {
       "HKI": [
@@ -113,8 +113,7 @@
         "N4A",
         "N4C",
         "N4X",
-        "N51S",
-        "N69X"
+        "N51S"
       ],
       "KLN": [
         "12",
@@ -572,6 +571,6 @@
         "N44B"
       ]
     },
-    "data_timestamp": "2024-12-02T00:00:14.910+08:00"
+    "data_timestamp": "2025-01-26T00:00:42.615+08:00"
   }
 }

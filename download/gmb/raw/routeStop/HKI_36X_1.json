@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:55:03.569+08:00",
+  "generated_timestamp": "2025-01-28T19:31:46.942+08:00",
   "data": {
     "route_stops": [
       {
@@ -110,6 +110,6 @@
         "name_en": "Jardine's Bazaar, near Tang Lung Chau Market"
       }
     ],
-    "data_timestamp": "2024-12-18T14:16:17.525+08:00"
+    "data_timestamp": "2025-01-20T11:41:35.180+08:00"
   }
 }

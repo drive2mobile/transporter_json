@@ -1,7 +1,7 @@
 {
   "type": "RouteStop",
   "version": "2.0",
-  "generated_timestamp": "2024-12-26T20:34:16+08:00",
+  "generated_timestamp": "2025-01-28T19:17:17+08:00",
   "data": [
     {
       "co": "CTB",
@@ -9,7 +9,7 @@
       "dir": "O",
       "seq": 1,
       "stop": "002658",
-      "data_timestamp": "2024-12-26T05:00:04+08:00"
+      "data_timestamp": "2025-01-28T05:00:04+08:00"
     },
     {
       "co": "CTB",
@@ -17,7 +17,7 @@
       "dir": "O",
       "seq": 2,
       "stop": "002664",
-      "data_timestamp": "2024-12-26T05:00:04+08:00"
+      "data_timestamp": "2025-01-28T05:00:04+08:00"
     },
     {
       "co": "CTB",
@@ -25,7 +25,7 @@
       "dir": "O",
       "seq": 3,
       "stop": "001854",
-      "data_timestamp": "2024-12-26T05:00:04+08:00"
+      "data_timestamp": "2025-01-28T05:00:04+08:00"
     },
     {
       "co": "CTB",
@@ -33,7 +33,7 @@
       "dir": "O",
       "seq": 4,
       "stop": "001853",
-      "data_timestamp": "2024-12-26T05:00:04+08:00"
+      "data_timestamp": "2025-01-28T05:00:04+08:00"
     },
     {
       "co": "CTB",
@@ -41,7 +41,7 @@
       "dir": "O",
       "seq": 5,
       "stop": "002664",
-      "data_timestamp": "2024-12-26T05:00:04+08:00"
+      "data_timestamp": "2025-01-28T05:00:04+08:00"
     },
     {
       "co": "CTB",
@@ -49,7 +49,7 @@
       "dir": "O",
       "seq": 6,
       "stop": "002658",
-      "data_timestamp": "2024-12-26T05:00:04+08:00"
+      "data_timestamp": "2025-01-28T05:00:04+08:00"
     }
   ]
 }

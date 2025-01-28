@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:57:38.355+08:00",
+  "generated_timestamp": "2025-01-28T19:34:10.856+08:00",
   "data": {
     "route_stops": [
       {
@@ -47,6 +47,6 @@
         "name_en": "Wu Chui Road, Near Wu Boon House, Wu King Estate"
       }
     ],
-    "data_timestamp": "2024-10-16T17:02:28.675+08:00"
+    "data_timestamp": "2025-01-16T17:53:25.245+08:00"
   }
 }

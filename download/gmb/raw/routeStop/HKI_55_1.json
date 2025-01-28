@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:55:16.128+08:00",
+  "generated_timestamp": "2025-01-28T19:32:02.380+08:00",
   "data": {
     "route_stops": [
       {
@@ -124,6 +124,6 @@
         "name_en": "Queen Mary Hospital"
       }
     ],
-    "data_timestamp": "2024-11-22T18:44:01.482+08:00"
+    "data_timestamp": "2025-01-21T12:23:29.746+08:00"
   }
 }

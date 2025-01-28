@@ -572,6 +572,28 @@
     "serviceType": "3"
   },
   {
+    "id": "kmb_5R_O_4",
+    "company": "kmb",
+    "route": "5R",
+    "from_tc": "牛頭角站",
+    "from_en": "NGAU TAU KOK STATION",
+    "to_tc": "承豐道",
+    "to_en": "SHING FUNG ROAD",
+    "dir": "I",
+    "serviceType": "4"
+  },
+  {
+    "id": "kmb_5R_O_5",
+    "company": "kmb",
+    "route": "5R",
+    "from_tc": "啟德(承景街)",
+    "from_en": "KAI TAK (SHENG KING STREET)",
+    "to_tc": "觀塘 (apm)",
+    "to_en": "KWUN TONG (apm)",
+    "dir": "I",
+    "serviceType": "5"
+  },
+  {
     "id": "kmb_6_O_1",
     "company": "kmb",
     "route": "6",
@@ -10384,6 +10406,17 @@
     "serviceType": "2"
   },
   {
+    "id": "kmb_270B_I_3",
+    "company": "kmb",
+    "route": "270B",
+    "from_tc": "奧運站",
+    "from_en": "OLYMPIC STATION",
+    "to_tc": "上水",
+    "to_en": "SHEUNG SHUI",
+    "dir": "I",
+    "serviceType": "3"
+  },
+  {
     "id": "kmb_270C_O_1",
     "company": "kmb",
     "route": "270C",
@@ -10602,6 +10635,17 @@
     "to_en": "UNIVERSITY STATION",
     "dir": "I",
     "serviceType": "3"
+  },
+  {
+    "id": "kmb_272A_O_4",
+    "company": "kmb",
+    "route": "272A",
+    "from_tc": "大學站",
+    "from_en": "UNIVERSITY STATION",
+    "to_tc": "白石角(循環線)",
+    "to_en": "PAK SHEK KOK (CIRCULAR)",
+    "dir": "I",
+    "serviceType": "4"
   },
   {
     "id": "kmb_272E_O_1",
@@ -11544,8 +11588,8 @@
     "route": "286X",
     "from_tc": "顯徑",
     "from_en": "HIN KENG",
-    "to_tc": "深水埗",
-    "to_en": "SHAM SHUI PO",
+    "to_tc": "深水埗(循環線)",
+    "to_en": "SHAM SHUI PO (CIRCULAR)",
     "dir": "I",
     "serviceType": "2"
   },
@@ -15125,6 +15169,28 @@
     "serviceType": "1"
   },
   {
+    "id": "kmb_E36C_O_1",
+    "company": "kmb",
+    "route": "E36C",
+    "from_tc": "元朗(德業街)",
+    "from_en": "YUEN LONG (TAK YIP STREET)",
+    "to_tc": "飛機維修區",
+    "to_en": "AIRCRAFT MAINTENANCE AREA",
+    "dir": "I",
+    "serviceType": "1"
+  },
+  {
+    "id": "kmb_E36C_I_1",
+    "company": "kmb",
+    "route": "E36C",
+    "from_tc": "飛機維修區",
+    "from_en": "AIRCRAFT MAINTENANCE AREA",
+    "to_tc": "元朗(德業街)",
+    "to_en": "YUEN LONG (TAK YIP STREET)",
+    "dir": "I",
+    "serviceType": "1"
+  },
+  {
     "id": "kmb_E36P_O_1",
     "company": "kmb",
     "route": "E36P",
@@ -15352,6 +15418,28 @@
     "from_en": "STAR FERRY",
     "to_tc": "尖沙咀碼頭(循環線)",
     "to_en": "STAR FERRY(CIRCULAR)",
+    "dir": "I",
+    "serviceType": "1"
+  },
+  {
+    "id": "kmb_LB2_O_1",
+    "company": "kmb",
+    "route": "LB2",
+    "from_tc": "新田運輸交匯處",
+    "from_en": "SAN TIN PUBLIC TRANSPORT INTERCHANGE",
+    "to_tc": "西貢",
+    "to_en": "SAI KUNG",
+    "dir": "I",
+    "serviceType": "1"
+  },
+  {
+    "id": "kmb_LB2_I_1",
+    "company": "kmb",
+    "route": "LB2",
+    "from_tc": "西貢",
+    "from_en": "SAI KUNG",
+    "to_tc": "新田運輸交匯處",
+    "to_en": "SAN TIN PUBLIC TRANSPORT INTERCHANGE",
     "dir": "I",
     "serviceType": "1"
   },
@@ -16027,6 +16115,17 @@
     "serviceType": "1"
   },
   {
+    "id": "kmb_N43_O_1",
+    "company": "kmb",
+    "route": "N43",
+    "from_tc": "荃灣站",
+    "from_en": "TSUEN WAN STATION",
+    "to_tc": "青衣(長宏邨)",
+    "to_en": "TSING YI (CHEUNG WANG ESTATE)",
+    "dir": "I",
+    "serviceType": "1"
+  },
+  {
     "id": "kmb_N48_O_1",
     "company": "kmb",
     "route": "N48",
@@ -16610,6 +16709,39 @@
     "serviceType": "1"
   },
   {
+    "id": "kmb_R260_O_1",
+    "company": "kmb",
+    "route": "R260",
+    "from_tc": "屯門碼頭",
+    "from_en": "TUEN MUN PIER HEAD",
+    "to_tc": "尖沙咀東(麼地道)",
+    "to_en": "TSIM SHA TSUI EAST (MODY ROAD)",
+    "dir": "I",
+    "serviceType": "1"
+  },
+  {
+    "id": "kmb_R261_O_1",
+    "company": "kmb",
+    "route": "R261",
+    "from_tc": "屯門(三聖邨)",
+    "from_en": "TUEN MUN (SAM SHING ESTATE)",
+    "to_tc": "尖沙咀東(麼地道)",
+    "to_en": "TSIM SHA TSUI EAST (MODY ROAD)",
+    "dir": "I",
+    "serviceType": "1"
+  },
+  {
+    "id": "kmb_R269_O_1",
+    "company": "kmb",
+    "route": "R269",
+    "from_tc": "天慈",
+    "from_en": "TIN TSZ",
+    "to_tc": "尖沙咀東(麼地道)",
+    "to_en": "TSIM SHA TSUI EAST (MODY ROAD)",
+    "dir": "I",
+    "serviceType": "1"
+  },
+  {
     "id": "kmb_R33_O_1",
     "company": "kmb",
     "route": "R33",
@@ -16731,6 +16863,17 @@
     "serviceType": "1"
   },
   {
+    "id": "kmb_R968_O_1",
+    "company": "kmb",
+    "route": "R968",
+    "from_tc": "元朗(鳳翔路)",
+    "from_en": "YUEN LONG (FUNG CHEUNG ROAD)",
+    "to_tc": "銅鑼灣(維多利亞公園)",
+    "to_en": "CAUSEWAY BAY (VICTORIA PARK)",
+    "dir": "I",
+    "serviceType": "1"
+  },
+  {
     "id": "kmb_S1_O_1",
     "company": "kmb",
     "route": "S1",
@@ -16817,6 +16960,72 @@
     "to_en": "Airport(Circular)",
     "dir": "I",
     "serviceType": "3"
+  },
+  {
+    "id": "kmb_SP1_O_1",
+    "company": "kmb",
+    "route": "SP1",
+    "from_tc": "啟德體育園巴士總站",
+    "from_en": "KAI TAK SPORTS PARK BUS TERMINUS",
+    "to_tc": "坑口(北)(將軍澳醫院)",
+    "to_en": "HANG HAU (NORTH) (TSEUNG KWAN O HOSPITAL)",
+    "dir": "I",
+    "serviceType": "1"
+  },
+  {
+    "id": "kmb_SP10_O_1",
+    "company": "kmb",
+    "route": "SP10",
+    "from_tc": "啟德體育園巴士總站",
+    "from_en": "KAI TAK SPORTS PARK BUS TERMINUS",
+    "to_tc": "中環(港澳碼頭)",
+    "to_en": "CENTRAL (MACAU FERRY)",
+    "dir": "I",
+    "serviceType": "1"
+  },
+  {
+    "id": "kmb_SP3_O_1",
+    "company": "kmb",
+    "route": "SP3",
+    "from_tc": "啟德體育園巴士總站",
+    "from_en": "KAI TAK SPORTS PARK BUS TERMINUS",
+    "to_tc": "青富苑",
+    "to_en": "CHING FU COURT",
+    "dir": "I",
+    "serviceType": "1"
+  },
+  {
+    "id": "kmb_SP5A_O_1",
+    "company": "kmb",
+    "route": "SP5A",
+    "from_tc": "啟德體育園巴士總站",
+    "from_en": "KAI TAK SPORTS PARK BUS TERMINUS",
+    "to_tc": "屯門碼頭",
+    "to_en": "TUEN MUN PIER HEAD",
+    "dir": "I",
+    "serviceType": "1"
+  },
+  {
+    "id": "kmb_SP6_O_1",
+    "company": "kmb",
+    "route": "SP6",
+    "from_tc": "啟德體育園巴士總站",
+    "from_en": "KAI TAK SPORTS PARK BUS TERMINUS",
+    "to_tc": "天恆邨",
+    "to_en": "TIN HENG ESTATE",
+    "dir": "I",
+    "serviceType": "1"
+  },
+  {
+    "id": "kmb_SP7_O_1",
+    "company": "kmb",
+    "route": "SP7",
+    "from_tc": "啟德體育園巴士總站",
+    "from_en": "KAI TAK SPORTS PARK BUS TERMINUS",
+    "to_tc": "上水",
+    "to_en": "SHEUNG SHUI",
+    "dir": "I",
+    "serviceType": "1"
   },
   {
     "id": "kmb_T270_O_1",
@@ -16936,6 +17145,17 @@
     "from_en": "HIGH SPEED RAIL (WEST KOWLOON STATION)",
     "to_tc": "香港故宮文化博物館(循環線)",
     "to_en": "HONG KONG PALACE MUSEUM (CIRCULAR)",
+    "dir": "I",
+    "serviceType": "1"
+  },
+  {
+    "id": "kmb_WB1_O_1",
+    "company": "kmb",
+    "route": "WB1",
+    "from_tc": "屯門站",
+    "from_en": "TUEN MUN STATION",
+    "to_tc": "林村許願樹 (由屯門出發 循環行走)",
+    "to_en": "LAM TSUEN WISHING TREE (From Tuen Mun) (Circular)",
     "dir": "I",
     "serviceType": "1"
   },

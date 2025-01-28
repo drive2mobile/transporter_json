@@ -3010,6 +3010,106 @@
     "STATION_NAME_ENG": "Wo Tin Estate"
   },
   {
+    "ROUTE_ID": "K54A",
+    "DIRECTION": "O",
+    "STATION_SEQNO": "1",
+    "STATION_ID": "K54A-U010",
+    "STATION_LATITUDE": "22.41295362",
+    "STATION_LONGITUDE": "113.9686386",
+    "STATION_NAME_CHI": "和田邨",
+    "STATION_NAME_ENG": "Wo Tin Estate"
+  },
+  {
+    "ROUTE_ID": "K54A",
+    "DIRECTION": "O",
+    "STATION_SEQNO": "2",
+    "STATION_ID": "K54A-U020",
+    "STATION_LATITUDE": "22.41229368",
+    "STATION_LONGITUDE": "113.9705794",
+    "STATION_NAME_CHI": "菁田邨",
+    "STATION_NAME_ENG": "Ching Tin Estate"
+  },
+  {
+    "ROUTE_ID": "K54A",
+    "DIRECTION": "O",
+    "STATION_SEQNO": "3",
+    "STATION_ID": "K54A-U030",
+    "STATION_LATITUDE": "22.41439481",
+    "STATION_LONGITUDE": "113.9738808",
+    "STATION_NAME_CHI": "紫田村",
+    "STATION_NAME_ENG": "Tsz Tin Tsuen"
+  },
+  {
+    "ROUTE_ID": "K54A",
+    "DIRECTION": "O",
+    "STATION_SEQNO": "4",
+    "STATION_ID": "K54A-U040",
+    "STATION_LATITUDE": "22.41435",
+    "STATION_LONGITUDE": "113.97701",
+    "STATION_NAME_CHI": "欣田邨",
+    "STATION_NAME_ENG": "Yan Tin Estate"
+  },
+  {
+    "ROUTE_ID": "K54A",
+    "DIRECTION": "O",
+    "STATION_SEQNO": "5",
+    "STATION_ID": "K54A-U050",
+    "STATION_LATITUDE": "22.4134",
+    "STATION_LONGITUDE": "113.97902",
+    "STATION_NAME_CHI": "港鐵兆康站 (北) (輕鐵兆康站)",
+    "STATION_NAME_ENG": "MTR Siu Hong Station (North) (LR Siu Hong Stop)"
+  },
+  {
+    "ROUTE_ID": "K54A",
+    "DIRECTION": "I",
+    "STATION_SEQNO": "1",
+    "STATION_ID": "K54A-D010",
+    "STATION_LATITUDE": "22.4134",
+    "STATION_LONGITUDE": "113.97902",
+    "STATION_NAME_CHI": "港鐵兆康站 (北) (輕鐵兆康站)",
+    "STATION_NAME_ENG": "MTR Siu Hong Station (North) (LR Siu Hong Stop)"
+  },
+  {
+    "ROUTE_ID": "K54A",
+    "DIRECTION": "I",
+    "STATION_SEQNO": "2",
+    "STATION_ID": "K54A-D020",
+    "STATION_LATITUDE": "22.414907",
+    "STATION_LONGITUDE": "113.977412",
+    "STATION_NAME_CHI": "兆康苑",
+    "STATION_NAME_ENG": "Siu Hong Court"
+  },
+  {
+    "ROUTE_ID": "K54A",
+    "DIRECTION": "I",
+    "STATION_SEQNO": "3",
+    "STATION_ID": "K54A-D030",
+    "STATION_LATITUDE": "22.41309916",
+    "STATION_LONGITUDE": "113.9723357",
+    "STATION_NAME_CHI": "欣寶路公共運輸交匯處",
+    "STATION_NAME_ENG": "Yan Po Road Public Transport Interchange"
+  },
+  {
+    "ROUTE_ID": "K54A",
+    "DIRECTION": "I",
+    "STATION_SEQNO": "4",
+    "STATION_ID": "K54A-D040",
+    "STATION_LATITUDE": "22.41197411",
+    "STATION_LONGITUDE": "113.9703303",
+    "STATION_NAME_CHI": "菁田邨",
+    "STATION_NAME_ENG": "Ching Tin Estate"
+  },
+  {
+    "ROUTE_ID": "K54A",
+    "DIRECTION": "I",
+    "STATION_SEQNO": "5",
+    "STATION_ID": "K54A-D050",
+    "STATION_LATITUDE": "22.41295362",
+    "STATION_LONGITUDE": "113.9686386",
+    "STATION_NAME_CHI": "和田邨",
+    "STATION_NAME_ENG": "Wo Tin Estate"
+  },
+  {
     "ROUTE_ID": "K58",
     "DIRECTION": "O",
     "STATION_SEQNO": "1",
@@ -3233,26 +3333,236 @@
     "ROUTE_ID": "K58",
     "DIRECTION": "O",
     "STATION_SEQNO": "23",
-    "STATION_ID": "K58-U210",
-    "STATION_LATITUDE": "22.379752",
-    "STATION_LONGITUDE": "113.980639",
+    "STATION_ID": "K58-U215",
+    "STATION_LATITUDE": "22.378923",
+    "STATION_LONGITUDE": "113.980763",
     "STATION_NAME_CHI": "青山灣",
-    "STATION_NAME_ENG": "Castle Peak Bay"
+    "STATION_NAME_ENG": "Castle Peak Beach"
+  },
+  {
+    "ROUTE_ID": "K58",
+    "DIRECTION": "O",
+    "STATION_SEQNO": "24",
+    "STATION_ID": "K58-U220",
+    "STATION_LATITUDE": "22.377877",
+    "STATION_LONGITUDE": "113.983564",
+    "STATION_NAME_CHI": "海景花園",
+    "STATION_NAME_ENG": "Seaview Garden"
+  },
+  {
+    "ROUTE_ID": "K58",
+    "DIRECTION": "O",
+    "STATION_SEQNO": "25",
+    "STATION_ID": "K58-U230",
+    "STATION_LATITUDE": "22.374926",
+    "STATION_LONGITUDE": "113.986745",
+    "STATION_NAME_CHI": "咖啡灣",
+    "STATION_NAME_ENG": "Cafeteria Beach"
+  },
+  {
+    "ROUTE_ID": "K58",
+    "DIRECTION": "O",
+    "STATION_SEQNO": "26",
+    "STATION_ID": "K58-U240",
+    "STATION_LATITUDE": "22.373785",
+    "STATION_LONGITUDE": "113.990848",
+    "STATION_NAME_CHI": "黃金泳灘",
+    "STATION_NAME_ENG": "Golden Beach"
+  },
+  {
+    "ROUTE_ID": "K58",
+    "DIRECTION": "O",
+    "STATION_SEQNO": "27",
+    "STATION_ID": "K58-U250",
+    "STATION_LATITUDE": "22.372048",
+    "STATION_LONGITUDE": "113.993608",
+    "STATION_NAME_CHI": "香港黃金海岸",
+    "STATION_NAME_ENG": "Hong Kong Gold Coast"
+  },
+  {
+    "ROUTE_ID": "K58",
+    "DIRECTION": "O",
+    "STATION_SEQNO": "28",
+    "STATION_ID": "K58-U260",
+    "STATION_LATITUDE": "22.371605",
+    "STATION_LONGITUDE": "113.9954",
+    "STATION_NAME_CHI": "愛琴海岸",
+    "STATION_NAME_ENG": "Aegean Coast"
+  },
+  {
+    "ROUTE_ID": "K58",
+    "DIRECTION": "O",
+    "STATION_SEQNO": "29",
+    "STATION_ID": "K58-U270",
+    "STATION_LATITUDE": "22.373878",
+    "STATION_LONGITUDE": "113.996144",
+    "STATION_NAME_CHI": "掃管笏變電站",
+    "STATION_NAME_ENG": "So Kwun Wat Sub-station"
+  },
+  {
+    "ROUTE_ID": "K58",
+    "DIRECTION": "O",
+    "STATION_SEQNO": "30",
+    "STATION_ID": "K58-U280",
+    "STATION_LATITUDE": "22.375743",
+    "STATION_LONGITUDE": "113.999829",
+    "STATION_NAME_CHI": "掃管笏村",
+    "STATION_NAME_ENG": "So Kwun Wat Tsuen"
+  },
+  {
+    "ROUTE_ID": "K58",
+    "DIRECTION": "O",
+    "STATION_SEQNO": "31",
+    "STATION_ID": "K58-U290",
+    "STATION_LATITUDE": "22.372023",
+    "STATION_LONGITUDE": "114.003593",
+    "STATION_NAME_CHI": "掃管笏 (鄭任安夫人千禧小學)",
+    "STATION_NAME_ENG": "So Kwun Wat (Mrs. Cheng Yam On Millennium School)"
+  },
+  {
+    "ROUTE_ID": "K58",
+    "DIRECTION": "O",
+    "STATION_SEQNO": "32",
+    "STATION_ID": "K58-U300",
+    "STATION_LATITUDE": "22.374216",
+    "STATION_LONGITUDE": "114.002295",
+    "STATION_NAME_CHI": "掃管笏路",
+    "STATION_NAME_ENG": "So Kwun Wat Road"
+  },
+  {
+    "ROUTE_ID": "K58",
+    "DIRECTION": "O",
+    "STATION_SEQNO": "33",
+    "STATION_ID": "K58-U310",
+    "STATION_LATITUDE": "22.373866",
+    "STATION_LONGITUDE": "114.001024",
+    "STATION_NAME_CHI": "管翠路18號",
+    "STATION_NAME_ENG": "18 Kwun Chui Road"
+  },
+  {
+    "ROUTE_ID": "K58",
+    "DIRECTION": "O",
+    "STATION_SEQNO": "34",
+    "STATION_ID": "K58-U320",
+    "STATION_LATITUDE": "22.375123",
+    "STATION_LONGITUDE": "113.997707",
+    "STATION_NAME_CHI": "管翠路",
+    "STATION_NAME_ENG": "Kwun Chui Road"
   },
   {
     "ROUTE_ID": "K58",
     "DIRECTION": "I",
     "STATION_SEQNO": "1",
-    "STATION_ID": "K58-D010",
-    "STATION_LATITUDE": "22.379752",
-    "STATION_LONGITUDE": "113.980639",
-    "STATION_NAME_CHI": "青山灣",
-    "STATION_NAME_ENG": "Castle Peak Bay"
+    "STATION_ID": "K58-D001",
+    "STATION_LATITUDE": "22.375743",
+    "STATION_LONGITUDE": "113.999829",
+    "STATION_NAME_CHI": "掃管笏村",
+    "STATION_NAME_ENG": "So Kwun Wat Tsuen"
   },
   {
     "ROUTE_ID": "K58",
     "DIRECTION": "I",
     "STATION_SEQNO": "2",
+    "STATION_ID": "K58-D002",
+    "STATION_LATITUDE": "22.372023",
+    "STATION_LONGITUDE": "114.003593",
+    "STATION_NAME_CHI": "掃管笏  (鄭任安夫人千禧小學)",
+    "STATION_NAME_ENG": "So Kwun Wat (Mrs. Cheng Yam On Millennium School)"
+  },
+  {
+    "ROUTE_ID": "K58",
+    "DIRECTION": "I",
+    "STATION_SEQNO": "3",
+    "STATION_ID": "K58-D003",
+    "STATION_LATITUDE": "22.374216",
+    "STATION_LONGITUDE": "114.002295",
+    "STATION_NAME_CHI": "掃管笏路",
+    "STATION_NAME_ENG": "So Kwun Wat Road"
+  },
+  {
+    "ROUTE_ID": "K58",
+    "DIRECTION": "I",
+    "STATION_SEQNO": "4",
+    "STATION_ID": "K58-D004",
+    "STATION_LATITUDE": "22.373866",
+    "STATION_LONGITUDE": "114.001024",
+    "STATION_NAME_CHI": "管翠路18號",
+    "STATION_NAME_ENG": "18 Kwun Chui Road"
+  },
+  {
+    "ROUTE_ID": "K58",
+    "DIRECTION": "I",
+    "STATION_SEQNO": "5",
+    "STATION_ID": "K58-D005",
+    "STATION_LATITUDE": "22.375123",
+    "STATION_LONGITUDE": "113.997707",
+    "STATION_NAME_CHI": "管翠路",
+    "STATION_NAME_ENG": "Kwun Chui Road"
+  },
+  {
+    "ROUTE_ID": "K58",
+    "DIRECTION": "I",
+    "STATION_SEQNO": "6",
+    "STATION_ID": "K58-D006",
+    "STATION_LATITUDE": "22.371473",
+    "STATION_LONGITUDE": "113.995381",
+    "STATION_NAME_CHI": "愛琴海岸",
+    "STATION_NAME_ENG": "Aegean Coast"
+  },
+  {
+    "ROUTE_ID": "K58",
+    "DIRECTION": "I",
+    "STATION_SEQNO": "7",
+    "STATION_ID": "K58-D007",
+    "STATION_LATITUDE": "22.371294",
+    "STATION_LONGITUDE": "113.993906",
+    "STATION_NAME_CHI": "香港黃金海岸",
+    "STATION_NAME_ENG": "Hong Kong Gold Coast"
+  },
+  {
+    "ROUTE_ID": "K58",
+    "DIRECTION": "I",
+    "STATION_SEQNO": "8",
+    "STATION_ID": "K58-D008",
+    "STATION_LATITUDE": "22.373653",
+    "STATION_LONGITUDE": "113.991237",
+    "STATION_NAME_CHI": "黃金泳灘",
+    "STATION_NAME_ENG": "Golden Beach"
+  },
+  {
+    "ROUTE_ID": "K58",
+    "DIRECTION": "I",
+    "STATION_SEQNO": "9",
+    "STATION_ID": "K58-D009",
+    "STATION_LATITUDE": "22.375924",
+    "STATION_LONGITUDE": "113.985662",
+    "STATION_NAME_CHI": "咖啡灣",
+    "STATION_NAME_ENG": "Cafeteria Beach"
+  },
+  {
+    "ROUTE_ID": "K58",
+    "DIRECTION": "I",
+    "STATION_SEQNO": "10",
+    "STATION_ID": "K58-D011",
+    "STATION_LATITUDE": "22.377941",
+    "STATION_LONGITUDE": "113.983293",
+    "STATION_NAME_CHI": "碧翠花園",
+    "STATION_NAME_ENG": "Bayview Terrace"
+  },
+  {
+    "ROUTE_ID": "K58",
+    "DIRECTION": "I",
+    "STATION_SEQNO": "11",
+    "STATION_ID": "K58-D012",
+    "STATION_LATITUDE": "22.378954",
+    "STATION_LONGITUDE": "113.980609",
+    "STATION_NAME_CHI": "青山灣碼頭",
+    "STATION_NAME_ENG": "Castle Peak Bay Pier"
+  },
+  {
+    "ROUTE_ID": "K58",
+    "DIRECTION": "I",
+    "STATION_SEQNO": "12",
     "STATION_ID": "K58-D020",
     "STATION_LATITUDE": "22.381189",
     "STATION_LONGITUDE": "113.979146",
@@ -3262,7 +3572,7 @@
   {
     "ROUTE_ID": "K58",
     "DIRECTION": "I",
-    "STATION_SEQNO": "3",
+    "STATION_SEQNO": "13",
     "STATION_ID": "K58-D030",
     "STATION_LATITUDE": "22.383774",
     "STATION_LONGITUDE": "113.97939",
@@ -3272,7 +3582,7 @@
   {
     "ROUTE_ID": "K58",
     "DIRECTION": "I",
-    "STATION_SEQNO": "4",
+    "STATION_SEQNO": "14",
     "STATION_ID": "K58-D040",
     "STATION_LATITUDE": "22.38458",
     "STATION_LONGITUDE": "113.980659",
@@ -3282,7 +3592,7 @@
   {
     "ROUTE_ID": "K58",
     "DIRECTION": "I",
-    "STATION_SEQNO": "5",
+    "STATION_SEQNO": "15",
     "STATION_ID": "K58-D050",
     "STATION_LATITUDE": "22.387305",
     "STATION_LONGITUDE": "113.980672",
@@ -3292,7 +3602,7 @@
   {
     "ROUTE_ID": "K58",
     "DIRECTION": "I",
-    "STATION_SEQNO": "6",
+    "STATION_SEQNO": "16",
     "STATION_ID": "K58-D060",
     "STATION_LATITUDE": "22.39043",
     "STATION_LONGITUDE": "113.978867",
@@ -3302,7 +3612,7 @@
   {
     "ROUTE_ID": "K58",
     "DIRECTION": "I",
-    "STATION_SEQNO": "7",
+    "STATION_SEQNO": "17",
     "STATION_ID": "K58-D070",
     "STATION_LATITUDE": "22.392096",
     "STATION_LONGITUDE": "113.97512",
@@ -3312,7 +3622,7 @@
   {
     "ROUTE_ID": "K58",
     "DIRECTION": "I",
-    "STATION_SEQNO": "8",
+    "STATION_SEQNO": "18",
     "STATION_ID": "K58-D080",
     "STATION_LATITUDE": "22.39395",
     "STATION_LONGITUDE": "113.9737",
@@ -3322,7 +3632,7 @@
   {
     "ROUTE_ID": "K58",
     "DIRECTION": "I",
-    "STATION_SEQNO": "9",
+    "STATION_SEQNO": "19",
     "STATION_ID": "K58-D090",
     "STATION_LATITUDE": "22.394699",
     "STATION_LONGITUDE": "113.970762",
@@ -3332,7 +3642,7 @@
   {
     "ROUTE_ID": "K58",
     "DIRECTION": "I",
-    "STATION_SEQNO": "10",
+    "STATION_SEQNO": "20",
     "STATION_ID": "K58-D100",
     "STATION_LATITUDE": "22.396769",
     "STATION_LONGITUDE": "113.967425",
@@ -3342,7 +3652,7 @@
   {
     "ROUTE_ID": "K58",
     "DIRECTION": "I",
-    "STATION_SEQNO": "11",
+    "STATION_SEQNO": "21",
     "STATION_ID": "K58-D110",
     "STATION_LATITUDE": "22.401983",
     "STATION_LONGITUDE": "113.967883",
@@ -3352,7 +3662,7 @@
   {
     "ROUTE_ID": "K58",
     "DIRECTION": "I",
-    "STATION_SEQNO": "12",
+    "STATION_SEQNO": "22",
     "STATION_ID": "K58-D120",
     "STATION_LATITUDE": "22.405404",
     "STATION_LONGITUDE": "113.963966",
@@ -3362,7 +3672,7 @@
   {
     "ROUTE_ID": "K58",
     "DIRECTION": "I",
-    "STATION_SEQNO": "13",
+    "STATION_SEQNO": "23",
     "STATION_ID": "K58-D130",
     "STATION_LATITUDE": "22.407716",
     "STATION_LONGITUDE": "113.96598",
@@ -3372,7 +3682,7 @@
   {
     "ROUTE_ID": "K58",
     "DIRECTION": "I",
-    "STATION_SEQNO": "14",
+    "STATION_SEQNO": "24",
     "STATION_ID": "K58-D140",
     "STATION_LATITUDE": "22.405974",
     "STATION_LONGITUDE": "113.967207",
@@ -3382,7 +3692,7 @@
   {
     "ROUTE_ID": "K58",
     "DIRECTION": "I",
-    "STATION_SEQNO": "15",
+    "STATION_SEQNO": "25",
     "STATION_ID": "K58-D150",
     "STATION_LATITUDE": "22.405169",
     "STATION_LONGITUDE": "113.968901",
@@ -3392,7 +3702,7 @@
   {
     "ROUTE_ID": "K58",
     "DIRECTION": "I",
-    "STATION_SEQNO": "16",
+    "STATION_SEQNO": "26",
     "STATION_ID": "K58-D160",
     "STATION_LATITUDE": "22.406394",
     "STATION_LONGITUDE": "113.971667",
@@ -3402,7 +3712,7 @@
   {
     "ROUTE_ID": "K58",
     "DIRECTION": "I",
-    "STATION_SEQNO": "17",
+    "STATION_SEQNO": "27",
     "STATION_ID": "K58-D170",
     "STATION_LATITUDE": "22.411042",
     "STATION_LONGITUDE": "113.97648",
@@ -3412,7 +3722,7 @@
   {
     "ROUTE_ID": "K58",
     "DIRECTION": "I",
-    "STATION_SEQNO": "18",
+    "STATION_SEQNO": "28",
     "STATION_ID": "K58-D180",
     "STATION_LATITUDE": "22.414291",
     "STATION_LONGITUDE": "113.977143",
@@ -3422,7 +3732,7 @@
   {
     "ROUTE_ID": "K58",
     "DIRECTION": "I",
-    "STATION_SEQNO": "19",
+    "STATION_SEQNO": "29",
     "STATION_ID": "K58-D190",
     "STATION_LATITUDE": "22.410378",
     "STATION_LONGITUDE": "113.978607",
@@ -3432,7 +3742,7 @@
   {
     "ROUTE_ID": "K58",
     "DIRECTION": "I",
-    "STATION_SEQNO": "20",
+    "STATION_SEQNO": "30",
     "STATION_ID": "K58-D193",
     "STATION_LATITUDE": "22.408779",
     "STATION_LONGITUDE": "113.980397",
@@ -3442,7 +3752,7 @@
   {
     "ROUTE_ID": "K58",
     "DIRECTION": "I",
-    "STATION_SEQNO": "21",
+    "STATION_SEQNO": "31",
     "STATION_ID": "K58-D196",
     "STATION_LATITUDE": "22.410694",
     "STATION_LONGITUDE": "113.982212",
@@ -3452,7 +3762,7 @@
   {
     "ROUTE_ID": "K58",
     "DIRECTION": "I",
-    "STATION_SEQNO": "22",
+    "STATION_SEQNO": "32",
     "STATION_ID": "K58-D200",
     "STATION_LATITUDE": "22.411915",
     "STATION_LONGITUDE": "113.983238",
@@ -3462,7 +3772,7 @@
   {
     "ROUTE_ID": "K58",
     "DIRECTION": "I",
-    "STATION_SEQNO": "23",
+    "STATION_SEQNO": "33",
     "STATION_ID": "K58-D210",
     "STATION_LATITUDE": "22.412815",
     "STATION_LONGITUDE": "113.982949",

@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:59:07.927+08:00",
+  "generated_timestamp": "2025-01-28T19:35:25.476+08:00",
   "data": {
     "route_stops": [
       {
@@ -96,6 +96,6 @@
         "name_en": "Ham Tin Street, near Bo Shek Mansion Block 3"
       }
     ],
-    "data_timestamp": "2024-12-04T12:45:48.713+08:00"
+    "data_timestamp": "2025-01-03T18:31:42.306+08:00"
   }
 }

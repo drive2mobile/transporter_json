@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:54:54.077+08:00",
+  "generated_timestamp": "2025-01-28T19:31:37.678+08:00",
   "data": {
     "route_stops": [
       {
@@ -75,6 +75,6 @@
         "name_en": "Central (Central Ferry Piers)"
       }
     ],
-    "data_timestamp": "2024-12-20T12:26:49.842+08:00"
+    "data_timestamp": "2025-01-21T12:23:29.762+08:00"
   }
 }

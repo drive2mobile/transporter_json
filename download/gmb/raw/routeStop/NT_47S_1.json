@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:57:38.007+08:00",
+  "generated_timestamp": "2025-01-28T19:34:10.625+08:00",
   "data": {
     "route_stops": [
       {
@@ -68,6 +68,6 @@
         "name_en": "Bute Street, Near Mongkok Exchange"
       }
     ],
-    "data_timestamp": "2024-10-16T17:02:28.675+08:00"
+    "data_timestamp": "2025-01-16T17:53:25.245+08:00"
   }
 }

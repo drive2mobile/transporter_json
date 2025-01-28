@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:57:35.504+08:00",
+  "generated_timestamp": "2025-01-28T19:34:08.177+08:00",
   "data": {
     "route_stops": [
       {
@@ -84,8 +84,8 @@
       {
         "stop_seq": 12,
         "stop_id": 20001308,
-        "name_tc": "震寰路,大興政府合署外",
-        "name_sc": "震寰路,大兴政府合署外",
+        "name_tc": "震寰路, 大興政府合署外",
+        "name_sc": "震寰路, 大兴政府合署外",
         "name_en": "Tsun Wen Road, outside Tai Hing Government Offices"
       },
       {
@@ -110,6 +110,6 @@
         "name_en": "Tuen Mun Station Public Transport Interchange"
       }
     ],
-    "data_timestamp": "2024-12-24T09:30:47.062+08:00"
+    "data_timestamp": "2025-01-16T17:53:25.274+08:00"
   }
 }

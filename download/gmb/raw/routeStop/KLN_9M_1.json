@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:56:36.448+08:00",
+  "generated_timestamp": "2025-01-28T19:33:09.408+08:00",
   "data": {
     "route_stops": [
       {
@@ -68,6 +68,6 @@
         "name_en": "Pak Wan Street "
       }
     ],
-    "data_timestamp": "2024-10-22T14:46:14.697+08:00"
+    "data_timestamp": "2025-01-14T09:36:01.999+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:55:52.054+08:00",
+  "generated_timestamp": "2025-01-28T19:32:34.359+08:00",
   "data": {
     "route_stops": [
       {
@@ -82,6 +82,6 @@
         "name_en": "Laguna Verde Bus Terminus"
       }
     ],
-    "data_timestamp": "2024-12-06T10:08:12.896+08:00"
+    "data_timestamp": "2025-01-14T18:14:20.314+08:00"
   }
 }

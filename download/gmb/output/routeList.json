@@ -1585,7 +1585,7 @@
   },
   {
     "id": "HKI_69_1",
-    "route_id": 2000963,
+    "route_id": 2000410,
     "region": "HKI",
     "route": "69",
     "route_seq": 1,
@@ -1602,8 +1602,19 @@
     "route_seq": 1,
     "from_tc": "數碼港",
     "from_en": "Cyberport",
-    "to_tc": "香港仔(循環線)",
-    "to_en": "Aberdeen(Circular)"
+    "to_tc": "黃竹坑站",
+    "to_en": "Wong Chuk Hang Station"
+  },
+  {
+    "id": "HKI_69A_2",
+    "route_id": 2000819,
+    "region": "HKI",
+    "route": "69A",
+    "route_seq": 2,
+    "from_tc": "黃竹坑站",
+    "from_en": "Wong Chuk Hang Station",
+    "to_tc": "數碼港",
+    "to_en": "Cyberport"
   },
   {
     "id": "HKI_69X_1",
@@ -1780,28 +1791,6 @@
     "from_en": "Wah Kwai Estate",
     "to_tc": "香港仔(循環線)",
     "to_en": "Aberdeen (Circular)"
-  },
-  {
-    "id": "HKI_N69X_1",
-    "route_id": 2000802,
-    "region": "HKI",
-    "route": "N69X",
-    "route_seq": 1,
-    "from_tc": "數碼港",
-    "from_en": "Cyberport",
-    "to_tc": "銅鑼灣(駱克道)",
-    "to_en": "Causeway Bay (Lockhart Road)"
-  },
-  {
-    "id": "HKI_N69X_2",
-    "route_id": 2000802,
-    "region": "HKI",
-    "route": "N69X",
-    "route_seq": 2,
-    "from_tc": "銅鑼灣(駱克道)",
-    "from_en": "Causeway Bay (Lockhart Road)",
-    "to_tc": "數碼港",
-    "to_en": "Cyberport"
   },
   {
     "id": "KLN_12_1",
@@ -4423,7 +4412,7 @@
   },
   {
     "id": "NT_116_1",
-    "route_id": 2009609,
+    "route_id": 2010467,
     "region": "NT",
     "route": "116",
     "route_seq": 1,
@@ -6821,12 +6810,12 @@
   },
   {
     "id": "NT_55K_1",
-    "route_id": 2001019,
+    "route_id": 2010501,
     "region": "NT",
     "route": "55K",
     "route_seq": 1,
-    "from_tc": "沙頭角公共運輸交匯處",
-    "from_en": "Sha Tau Kok Public Transport Interchange",
+    "from_tc": "擔水坑",
+    "from_en": "Tam Shui Hang",
     "to_tc": "上水站小巴總站",
     "to_en": "Sheung Shui Station Public Light Bus Terminus"
   },

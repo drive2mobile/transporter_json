@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:57:30.071+08:00",
+  "generated_timestamp": "2025-01-28T19:34:03.132+08:00",
   "data": {
     "route_stops": [
       {
@@ -89,6 +89,6 @@
         "name_en": "Tuen Mun Town Centre (Tuen Fat Road)"
       }
     ],
-    "data_timestamp": "2024-12-24T09:30:46.889+08:00"
+    "data_timestamp": "2025-01-06T00:00:13.432+08:00"
   }
 }

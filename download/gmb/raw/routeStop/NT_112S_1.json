@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:56:46.896+08:00",
+  "generated_timestamp": "2025-01-28T19:33:20.643+08:00",
   "data": {
     "route_stops": [
       {
@@ -75,6 +75,6 @@
         "name_en": "Tseung Kwan O Industrial Estate"
       }
     ],
-    "data_timestamp": "2024-11-18T10:34:38.281+08:00"
+    "data_timestamp": "2024-12-30T15:26:54.160+08:00"
   }
 }

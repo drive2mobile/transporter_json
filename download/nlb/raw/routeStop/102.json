@@ -10,8 +10,8 @@
       "stopLocation_e": "Fantasy Road",
       "latitude": "22.31635600",
       "longitude": "114.04573200",
-      "fare": "10.2",
-      "fareHoliday": "10.2",
+      "fare": "10.7",
+      "fareHoliday": "10.7",
       "someDepartureObserveOnly": 0
     },
     {
@@ -24,8 +24,8 @@
       "stopLocation_e": "Shum Fung Road",
       "latitude": "22.31551900",
       "longitude": "113.99797500",
-      "fare": "4.9",
-      "fareHoliday": "4.9",
+      "fare": "5.1",
+      "fareHoliday": "5.1",
       "someDepartureObserveOnly": 0
     },
     {
@@ -38,8 +38,8 @@
       "stopLocation_e": "Cheung Tung Road",
       "latitude": "22.31359500",
       "longitude": "113.99573400",
-      "fare": "4.9",
-      "fareHoliday": "4.9",
+      "fare": "5.1",
+      "fareHoliday": "5.1",
       "someDepartureObserveOnly": 0
     },
     {
@@ -52,8 +52,8 @@
       "stopLocation_e": "Cheung Tung Road",
       "latitude": "22.31002200",
       "longitude": "113.99058400",
-      "fare": "4.9",
-      "fareHoliday": "4.9",
+      "fare": "5.1",
+      "fareHoliday": "5.1",
       "someDepartureObserveOnly": 0
     },
     {
@@ -66,8 +66,8 @@
       "stopLocation_e": "Cheung Tung Road",
       "latitude": "22.30928300",
       "longitude": "113.98925400",
-      "fare": "4.9",
-      "fareHoliday": "4.9",
+      "fare": "5.1",
+      "fareHoliday": "5.1",
       "someDepartureObserveOnly": 0
     },
     {
@@ -80,8 +80,8 @@
       "stopLocation_e": "Cheung Tung Road",
       "latitude": "22.29796400",
       "longitude": "113.96758000",
-      "fare": "4.9",
-      "fareHoliday": "4.9",
+      "fare": "5.1",
+      "fareHoliday": "5.1",
       "someDepartureObserveOnly": 0
     },
     {
@@ -94,8 +94,8 @@
       "stopLocation_e": "Tat Tung Road",
       "latitude": "22.28887000",
       "longitude": "113.94210500",
-      "fare": "4.9",
-      "fareHoliday": "4.9",
+      "fare": "5.1",
+      "fareHoliday": "5.1",
       "someDepartureObserveOnly": 0
     },
     {
@@ -108,8 +108,8 @@
       "stopLocation_e": "Tat Tung Road",
       "latitude": "22.28930100",
       "longitude": "113.93873300",
-      "fare": "4.9",
-      "fareHoliday": "4.9",
+      "fare": "5.1",
+      "fareHoliday": "5.1",
       "someDepartureObserveOnly": 0
     },
     {

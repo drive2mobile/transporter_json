@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:57:33.852+08:00",
+  "generated_timestamp": "2025-01-28T19:34:06.593+08:00",
   "data": {
     "route_stops": [
       {
@@ -201,6 +201,6 @@
         "name_en": "Ho Pong Street, outside Tuen Mun San Hui Market"
       }
     ],
-    "data_timestamp": "2024-12-24T09:31:10.687+08:00"
+    "data_timestamp": "2025-01-16T17:53:25.274+08:00"
   }
 }

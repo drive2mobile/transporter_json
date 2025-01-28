@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:55:53.062+08:00",
+  "generated_timestamp": "2025-01-28T19:32:36.136+08:00",
   "data": {
     "route_stops": [
       {
@@ -152,6 +152,6 @@
         "name_en": "Fife Street, outside Yau Shing Building"
       }
     ],
-    "data_timestamp": "2024-12-17T17:09:37.509+08:00"
+    "data_timestamp": "2025-01-14T18:36:15.721+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-12-26T20:44:52+08:00",
+  "generated_timestamp": "2025-01-28T19:25:40+08:00",
   "data": {
     "stop": "002174",
     "name_tc": "鴨脷洲大街",
@@ -9,6 +9,6 @@
     "lat": "22.243798472091",
     "long": "114.15325017053",
     "name_sc": "鸭脷洲大街",
-    "data_timestamp": "2024-12-26T05:00:03+08:00"
+    "data_timestamp": "2025-01-28T05:00:02+08:00"
   }
 }

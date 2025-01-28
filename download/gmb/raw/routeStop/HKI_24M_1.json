@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:54:55.522+08:00",
+  "generated_timestamp": "2025-01-28T19:31:39.043+08:00",
   "data": {
     "route_stops": [
       {
@@ -68,6 +68,6 @@
         "name_en": "Drake Street, near MTR exit"
       }
     ],
-    "data_timestamp": "2024-12-24T09:27:34.721+08:00"
+    "data_timestamp": "2025-01-20T11:41:35.188+08:00"
   }
 }

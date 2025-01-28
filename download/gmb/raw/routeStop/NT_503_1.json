@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:57:46.609+08:00",
+  "generated_timestamp": "2025-01-28T19:34:18.733+08:00",
   "data": {
     "route_stops": [
       {
@@ -82,6 +82,6 @@
         "name_en": "North District Hospital"
       }
     ],
-    "data_timestamp": "2024-12-03T10:53:14.210+08:00"
+    "data_timestamp": "2025-01-21T10:29:36.170+08:00"
   }
 }

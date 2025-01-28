@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:55:03.069+08:00",
+  "generated_timestamp": "2025-01-28T19:31:46.505+08:00",
   "data": {
     "route_stops": [
       {
@@ -56,9 +56,9 @@
       {
         "stop_seq": 8,
         "stop_id": 20011569,
-        "name_tc": "皇后大道東, 伊利沙伯體育館對面",
-        "name_sc": "皇后大道东, 伊利沙伯体育馆对面",
-        "name_en": "Queen's Road East, opposite Queen Elizabeth Stadium"
+        "name_tc": "皇后大道東381號, 伊利沙伯體育館對面",
+        "name_sc": "皇后大道东381号, 伊利沙伯体育馆对面",
+        "name_en": "381 Queen's Road East, opposite Queen Elizabeth Stadium"
       },
       {
         "stop_seq": 9,
@@ -70,9 +70,9 @@
       {
         "stop_seq": 10,
         "stop_id": 20020359,
-        "name_tc": "皇后大道東, 近循道衛理聯合教會",
-        "name_sc": "皇后大道东, 近循道卫理联合教会",
-        "name_en": "Queen's Road East, near Methodist Church"
+        "name_tc": "皇后大道東271號, 近循道衛理聯合教會",
+        "name_sc": "皇后大道东271号, 近循道卫理联合教会",
+        "name_en": "271 Queen's Road East, near Methodist Church"
       },
       {
         "stop_seq": 11,
@@ -103,6 +103,6 @@
         "name_en": "Johnston Road, outside Methodist House"
       }
     ],
-    "data_timestamp": "2024-12-24T09:27:34.721+08:00"
+    "data_timestamp": "2025-01-20T11:47:33.634+08:00"
   }
 }

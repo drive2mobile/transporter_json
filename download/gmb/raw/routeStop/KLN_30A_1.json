@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:55:55.561+08:00",
+  "generated_timestamp": "2025-01-28T19:32:38.538+08:00",
   "data": {
     "route_stops": [
       {
@@ -54,6 +54,6 @@
         "name_en": "Fife Street near Sai Yeung Choi Street South"
       }
     ],
-    "data_timestamp": "2024-10-28T17:29:08.605+08:00"
+    "data_timestamp": "2025-01-14T09:38:25.777+08:00"
   }
 }

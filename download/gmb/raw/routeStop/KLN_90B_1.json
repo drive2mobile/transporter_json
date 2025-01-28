@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:56:35.992+08:00",
+  "generated_timestamp": "2025-01-28T19:33:08.909+08:00",
   "data": {
     "route_stops": [
       {
@@ -103,6 +103,6 @@
         "name_en": "Shing Cheong Road, Near Training & Research Tower (Tower B), Hong Kong Children's Hospital"
       }
     ],
-    "data_timestamp": "2024-12-12T12:06:12.404+08:00"
+    "data_timestamp": "2024-12-31T16:56:41.746+08:00"
   }
 }

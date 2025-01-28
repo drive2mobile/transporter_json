@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-12-26T20:40:32+08:00",
+  "generated_timestamp": "2025-01-28T19:22:22+08:00",
   "data": {
     "stop": "003288",
     "name_tc": "九龍站",
@@ -9,6 +9,6 @@
     "lat": "22.304454172091",
     "long": "114.16307477053",
     "name_sc": "九龙站",
-    "data_timestamp": "2024-12-26T05:00:03+08:00"
+    "data_timestamp": "2025-01-28T05:00:02+08:00"
   }
 }

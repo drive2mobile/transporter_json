@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:57:36.498+08:00",
+  "generated_timestamp": "2025-01-28T19:34:09.122+08:00",
   "data": {
     "route_stops": [
       {
@@ -61,6 +61,6 @@
         "name_en": "Ho Wong Street, outside Tai Hing Gardens Phase I"
       }
     ],
-    "data_timestamp": "2024-12-24T09:30:47.062+08:00"
+    "data_timestamp": "2025-01-16T17:53:25.274+08:00"
   }
 }

@@ -10,8 +10,8 @@
       "stopLocation_e": "Mui Wo Ferry Pier",
       "latitude": "22.26466400",
       "longitude": "114.00155400",
-      "fare": "12.0",
-      "fareHoliday": "18.8",
+      "fare": "12.5",
+      "fareHoliday": "19.6",
       "someDepartureObserveOnly": 0
     },
     {
@@ -24,8 +24,8 @@
       "stopLocation_e": "Ngan Kwong Wan Road",
       "latitude": "22.26614300",
       "longitude": "114.00004900",
-      "fare": "12.0",
-      "fareHoliday": "18.8",
+      "fare": "12.5",
+      "fareHoliday": "19.6",
       "someDepartureObserveOnly": 0
     },
     {
@@ -38,8 +38,8 @@
       "stopLocation_e": "Ngan Kwong Wan Road",
       "latitude": "22.26540600",
       "longitude": "113.99707400",
-      "fare": "12.0",
-      "fareHoliday": "18.8",
+      "fare": "12.5",
+      "fareHoliday": "19.6",
       "someDepartureObserveOnly": 0
     },
     {
@@ -52,8 +52,8 @@
       "stopLocation_e": "Ngan Shek Street",
       "latitude": "22.26675900",
       "longitude": "113.99699900",
-      "fare": "12.0",
-      "fareHoliday": "18.8",
+      "fare": "12.5",
+      "fareHoliday": "19.6",
       "someDepartureObserveOnly": 0
     },
     {
@@ -66,8 +66,8 @@
       "stopLocation_e": "Ngan Kwong Wan Road",
       "latitude": "22.26553700",
       "longitude": "113.99696500",
-      "fare": "12.0",
-      "fareHoliday": "18.8",
+      "fare": "12.5",
+      "fareHoliday": "19.6",
       "someDepartureObserveOnly": 0
     },
     {
@@ -80,8 +80,8 @@
       "stopLocation_e": "South Lantau Road",
       "latitude": "22.26296600",
       "longitude": "113.99782600",
-      "fare": "12.0",
-      "fareHoliday": "18.8",
+      "fare": "12.5",
+      "fareHoliday": "19.6",
       "someDepartureObserveOnly": 0
     },
     {
@@ -94,8 +94,8 @@
       "stopLocation_e": "South Lantau Road",
       "latitude": "22.26075800",
       "longitude": "113.99647700",
-      "fare": "12.0",
-      "fareHoliday": "18.8",
+      "fare": "12.5",
+      "fareHoliday": "19.6",
       "someDepartureObserveOnly": 0
     },
     {
@@ -108,8 +108,8 @@
       "stopLocation_e": "South Lantau Road",
       "latitude": "22.25707200",
       "longitude": "113.99010800",
-      "fare": "12.0",
-      "fareHoliday": "18.8",
+      "fare": "12.5",
+      "fareHoliday": "19.6",
       "someDepartureObserveOnly": 0
     },
     {
@@ -122,8 +122,8 @@
       "stopLocation_e": "South Lantau Road",
       "latitude": "22.25545100",
       "longitude": "113.98681100",
-      "fare": "12.0",
-      "fareHoliday": "18.8",
+      "fare": "12.5",
+      "fareHoliday": "19.6",
       "someDepartureObserveOnly": 0
     },
     {
@@ -136,8 +136,8 @@
       "stopLocation_e": "South Lantau Road",
       "latitude": "22.25191800",
       "longitude": "113.98488700",
-      "fare": "12.0",
-      "fareHoliday": "18.8",
+      "fare": "12.5",
+      "fareHoliday": "19.6",
       "someDepartureObserveOnly": 0
     },
     {
@@ -150,8 +150,8 @@
       "stopLocation_e": "South Lantau Road",
       "latitude": "22.24731100",
       "longitude": "113.98098500",
-      "fare": "9.8",
-      "fareHoliday": "16.2",
+      "fare": "10.2",
+      "fareHoliday": "16.9",
       "someDepartureObserveOnly": 0
     },
     {
@@ -164,8 +164,8 @@
       "stopLocation_e": "South Lantau Road",
       "latitude": "22.24425200",
       "longitude": "113.97923600",
-      "fare": "9.8",
-      "fareHoliday": "16.2",
+      "fare": "10.2",
+      "fareHoliday": "16.9",
       "someDepartureObserveOnly": 0
     },
     {
@@ -178,8 +178,8 @@
       "stopLocation_e": "South Lantau Road",
       "latitude": "22.24347600",
       "longitude": "113.97817800",
-      "fare": "9.8",
-      "fareHoliday": "16.2",
+      "fare": "10.2",
+      "fareHoliday": "16.9",
       "someDepartureObserveOnly": 0
     },
     {
@@ -192,8 +192,8 @@
       "stopLocation_e": "South Lantau Road",
       "latitude": "22.24319200",
       "longitude": "113.97488500",
-      "fare": "9.8",
-      "fareHoliday": "16.2",
+      "fare": "10.2",
+      "fareHoliday": "16.9",
       "someDepartureObserveOnly": 0
     },
     {
@@ -206,8 +206,8 @@
       "stopLocation_e": "South Lantau Road",
       "latitude": "22.24304100",
       "longitude": "113.97254500",
-      "fare": "9.8",
-      "fareHoliday": "16.2",
+      "fare": "10.2",
+      "fareHoliday": "16.9",
       "someDepartureObserveOnly": 0
     },
     {
@@ -220,8 +220,8 @@
       "stopLocation_e": "South Lantau Road",
       "latitude": "22.24124400",
       "longitude": "113.96910500",
-      "fare": "6.8",
-      "fareHoliday": "13.6",
+      "fare": "7.1",
+      "fareHoliday": "14.2",
       "someDepartureObserveOnly": 0
     },
     {
@@ -234,8 +234,8 @@
       "stopLocation_e": "South Lantau Road",
       "latitude": "22.23892800",
       "longitude": "113.96677200",
-      "fare": "6.8",
-      "fareHoliday": "13.6",
+      "fare": "7.1",
+      "fareHoliday": "14.2",
       "someDepartureObserveOnly": 0
     },
     {
@@ -248,8 +248,8 @@
       "stopLocation_e": "South Lantau Road",
       "latitude": "22.23748400",
       "longitude": "113.96400100",
-      "fare": "6.8",
-      "fareHoliday": "13.6",
+      "fare": "7.1",
+      "fareHoliday": "14.2",
       "someDepartureObserveOnly": 0
     },
     {
@@ -262,8 +262,8 @@
       "stopLocation_e": "South Lantau Road",
       "latitude": "22.23791800",
       "longitude": "113.96292000",
-      "fare": "6.8",
-      "fareHoliday": "13.6",
+      "fare": "7.1",
+      "fareHoliday": "14.2",
       "someDepartureObserveOnly": 0
     },
     {
@@ -276,8 +276,8 @@
       "stopLocation_e": "Tung Chung Road",
       "latitude": "22.23981400",
       "longitude": "113.95721600",
-      "fare": "6.8",
-      "fareHoliday": "13.6",
+      "fare": "7.1",
+      "fareHoliday": "14.2",
       "someDepartureObserveOnly": 0
     },
     {
@@ -290,8 +290,8 @@
       "stopLocation_e": "Tung Chung Road",
       "latitude": "22.24805400",
       "longitude": "113.94313900",
-      "fare": "6.8",
-      "fareHoliday": "13.6",
+      "fare": "7.1",
+      "fareHoliday": "14.2",
       "someDepartureObserveOnly": 0
     },
     {
@@ -304,8 +304,8 @@
       "stopLocation_e": "Tung Chung Road",
       "latitude": "22.26400600",
       "longitude": "113.93715500",
-      "fare": "6.8",
-      "fareHoliday": "13.6",
+      "fare": "7.1",
+      "fareHoliday": "14.2",
       "someDepartureObserveOnly": 0
     },
     {
@@ -318,8 +318,8 @@
       "stopLocation_e": "Tung Chung Road",
       "latitude": "22.26546600",
       "longitude": "113.93646300",
-      "fare": "6.8",
-      "fareHoliday": "13.6",
+      "fare": "7.1",
+      "fareHoliday": "14.2",
       "someDepartureObserveOnly": 0
     },
     {
@@ -332,8 +332,8 @@
       "stopLocation_e": "Tung Chung Road",
       "latitude": "22.26991800",
       "longitude": "113.93424300",
-      "fare": "2.7",
-      "fareHoliday": "5.4",
+      "fare": "2.8",
+      "fareHoliday": "5.6",
       "someDepartureObserveOnly": 0
     },
     {
@@ -346,8 +346,8 @@
       "stopLocation_e": "Tung Chung Road",
       "latitude": "22.27597500",
       "longitude": "113.93337700",
-      "fare": "2.7",
-      "fareHoliday": "5.4",
+      "fare": "2.8",
+      "fareHoliday": "5.6",
       "someDepartureObserveOnly": 0
     },
     {
@@ -360,8 +360,8 @@
       "stopLocation_e": "Tung Chung Road",
       "latitude": "22.27716200",
       "longitude": "113.93381200",
-      "fare": "2.7",
-      "fareHoliday": "5.4",
+      "fare": "2.8",
+      "fareHoliday": "5.6",
       "someDepartureObserveOnly": 0
     },
     {
@@ -374,8 +374,8 @@
       "stopLocation_e": "Tung Chung Road",
       "latitude": "22.27873100",
       "longitude": "113.93547500",
-      "fare": "2.7",
-      "fareHoliday": "5.4",
+      "fare": "2.8",
+      "fareHoliday": "5.6",
       "someDepartureObserveOnly": 0
     },
     {
@@ -388,8 +388,8 @@
       "stopLocation_e": "Tung Chung Road",
       "latitude": "22.27891200",
       "longitude": "113.93685600",
-      "fare": "2.7",
-      "fareHoliday": "5.4",
+      "fare": "2.8",
+      "fareHoliday": "5.6",
       "someDepartureObserveOnly": 0
     },
     {
@@ -402,8 +402,8 @@
       "stopLocation_e": "Tung Chung Road",
       "latitude": "22.27913800",
       "longitude": "113.93929900",
-      "fare": "2.7",
-      "fareHoliday": "5.4",
+      "fare": "2.8",
+      "fareHoliday": "5.6",
       "someDepartureObserveOnly": 0
     },
     {
@@ -416,8 +416,8 @@
       "stopLocation_e": "Chung Yan Road",
       "latitude": "22.27986500",
       "longitude": "113.94024300",
-      "fare": "2.7",
-      "fareHoliday": "5.4",
+      "fare": "2.8",
+      "fareHoliday": "5.6",
       "someDepartureObserveOnly": 0
     },
     {
@@ -430,8 +430,8 @@
       "stopLocation_e": "Chung Yan Road",
       "latitude": "22.28129500",
       "longitude": "113.93882200",
-      "fare": "2.7",
-      "fareHoliday": "5.4",
+      "fare": "2.8",
+      "fareHoliday": "5.6",
       "someDepartureObserveOnly": 1
     },
     {
@@ -444,8 +444,8 @@
       "stopLocation_e": "Chung Yan Road",
       "latitude": "22.28186100",
       "longitude": "113.93880300",
-      "fare": "2.7",
-      "fareHoliday": "5.4",
+      "fare": "2.8",
+      "fareHoliday": "5.6",
       "someDepartureObserveOnly": 1
     },
     {
@@ -458,8 +458,8 @@
       "stopLocation_e": "Shun Tung Road",
       "latitude": "22.28603000",
       "longitude": "113.94105700",
-      "fare": "2.7",
-      "fareHoliday": "5.4",
+      "fare": "2.8",
+      "fareHoliday": "5.6",
       "someDepartureObserveOnly": 0
     },
     {
@@ -472,8 +472,8 @@
       "stopLocation_e": "Tat Tung Road",
       "latitude": "22.28930100",
       "longitude": "113.93873300",
-      "fare": "2.7",
-      "fareHoliday": "5.4",
+      "fare": "2.8",
+      "fareHoliday": "5.6",
       "someDepartureObserveOnly": 0
     },
     {

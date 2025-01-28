@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:55:12.724+08:00",
+  "generated_timestamp": "2025-01-28T19:31:53.860+08:00",
   "data": {
     "route_stops": [
       {
@@ -13,26 +13,33 @@
       },
       {
         "stop_seq": 2,
+        "stop_id": 20000057,
+        "name_tc": "黃竹坑道, 黃竹坑遊樂場外",
+        "name_sc": "黄竹坑道, 黄竹坑游乐场外",
+        "name_en": "Wong Chuk Hang Road, outside Wong Chuk Hang Recreation Ground"
+      },
+      {
+        "stop_seq": 3,
         "stop_id": 20000361,
         "name_tc": "香港仔海傍道, 逸港居外",
         "name_sc": "香港仔海傍道, 逸港居外",
         "name_en": "Aberdeen Praya Road, outside Ocean Court"
       },
       {
-        "stop_seq": 3,
-        "stop_id": 20011480,
-        "name_tc": "香港仔海傍道, 香港仔巴士站對面",
-        "name_sc": "香港仔海傍道, 香港仔巴士站对面",
-        "name_en": "Aberdeen Praya Road, opposite Aberdeen Bus Terminus"
+        "stop_seq": 4,
+        "stop_id": 20000169,
+        "name_tc": "香港仔海傍道, 香港仔海濱公園外",
+        "name_sc": "香港仔海傍道, 香港仔海滨公园外",
+        "name_en": "Aberdeen Praya Road, outside Aberdeen Promenade"
       },
       {
-        "stop_seq": 4,
+        "stop_seq": 5,
         "stop_id": 20000218,
         "name_tc": "南寧街, 海瑩閣外",
         "name_sc": "南宁街, 海莹阁外",
         "name_en": "Nam Ning Street, outside Hoi Ying Court"
       }
     ],
-    "data_timestamp": "2024-12-18T14:16:20.176+08:00"
+    "data_timestamp": "2025-01-20T11:47:33.628+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:56:34.328+08:00",
+  "generated_timestamp": "2025-01-28T19:33:07.542+08:00",
   "data": {
     "route_stops": [
       {
@@ -75,6 +75,6 @@
         "name_en": "CHUNG HAU STREET, near Ho Man Tin Station"
       }
     ],
-    "data_timestamp": "2024-12-06T10:08:12.913+08:00"
+    "data_timestamp": "2025-01-14T18:36:15.722+08:00"
   }
 }

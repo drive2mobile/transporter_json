@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2025-01-28T19:19:53+08:00",
+  "data": {
+    "stop": "003878",
+    "name_tc": "皇后山一號, 龍馬路",
+    "name_en": "One Queens Hill, Lung Ma Road",
+    "lat": "22.504838532091",
+    "long": "114.15441677053",
+    "name_sc": "皇后山一号, 龙马路",
+    "data_timestamp": "2025-01-28T05:00:02+08:00"
+  }
+}

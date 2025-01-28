@@ -1,11 +1,11 @@
 {
   "id": "NT_55K_1",
-  "route_id": 2001019,
+  "route_id": 2010501,
   "region": "NT",
   "route": "55K",
   "route_seq": 1,
-  "from_tc": "沙頭角公共運輸交匯處",
-  "from_en": "Sha Tau Kok Public Transport Interchange",
+  "from_tc": "擔水坑",
+  "from_en": "Tam Shui Hang",
   "to_tc": "上水站小巴總站",
   "to_en": "Sheung Shui Station Public Light Bus Terminus"
 }

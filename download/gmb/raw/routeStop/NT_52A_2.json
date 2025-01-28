@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:57:53.417+08:00",
+  "generated_timestamp": "2025-01-28T19:34:23.338+08:00",
   "data": {
     "route_stops": [
       {
@@ -33,6 +33,6 @@
         "name_en": "Fanling Station Road, outside Fanling Station"
       }
     ],
-    "data_timestamp": "2024-11-07T10:33:55.976+08:00"
+    "data_timestamp": "2025-01-21T10:29:36.160+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:59:04.117+08:00",
+  "generated_timestamp": "2025-01-28T19:35:21.895+08:00",
   "data": {
     "route_stops": [
       {
@@ -26,6 +26,6 @@
         "name_en": "Lady MacLehose Holiday Village"
       }
     ],
-    "data_timestamp": "2024-11-15T18:15:35.623+08:00"
+    "data_timestamp": "2024-12-29T00:00:42.040+08:00"
   }
 }

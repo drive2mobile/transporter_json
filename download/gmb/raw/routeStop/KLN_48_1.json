@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:56:07.792+08:00",
+  "generated_timestamp": "2025-01-28T19:32:46.134+08:00",
   "data": {
     "route_stops": [
       {
@@ -82,6 +82,6 @@
         "name_en": "Shun On Road, near Shun Tin Estate"
       }
     ],
-    "data_timestamp": "2024-12-12T12:04:14.699+08:00"
+    "data_timestamp": "2024-12-31T16:56:41.744+08:00"
   }
 }

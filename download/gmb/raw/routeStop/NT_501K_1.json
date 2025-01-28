@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:57:45.261+08:00",
+  "generated_timestamp": "2025-01-28T19:34:17.447+08:00",
   "data": {
     "route_stops": [
       {
@@ -117,6 +117,6 @@
         "name_en": "Wai Ming Street, opposite Flora Plaza"
       }
     ],
-    "data_timestamp": "2024-10-25T15:45:55.520+08:00"
+    "data_timestamp": "2025-01-21T10:29:36.160+08:00"
   }
 }

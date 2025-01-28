@@ -1,14 +1,14 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-12-26T20:45:42+08:00",
+  "generated_timestamp": "2025-01-28T19:26:31+08:00",
   "data": {
     "stop": "003793",
-    "name_tc": "管翠路18號, 管翠路",
-    "name_en": "18 Kwun Chui Road, Kwun Chui Road",
+    "name_tc": "凱和山, 管翠路",
+    "name_en": "MORI, Kwun Chui Road",
     "lat": "22.373471572091",
     "long": "114.00023074053",
-    "name_sc": "管翠路18号, 管翠路",
-    "data_timestamp": "2024-12-26T05:00:03+08:00"
+    "name_sc": "凯和山, 管翠路",
+    "data_timestamp": "2025-01-28T05:00:02+08:00"
   }
 }

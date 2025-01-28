@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:55:53.798+08:00",
+  "generated_timestamp": "2025-01-28T19:32:36.808+08:00",
   "data": {
     "route_stops": [
       {
@@ -90,10 +90,10 @@
       },
       {
         "stop_seq": 13,
-        "stop_id": 20007345,
+        "stop_id": 20014327,
         "name_tc": "忠孝街, 近何文田站",
-        "name_sc": " 忠孝街, 近何文田站",
-        "name_en": " CHUNG HAU STREET, near Ho Man Tin Station"
+        "name_sc": "忠孝街, 近何文田站",
+        "name_en": "CHUNG HAU STREET, near Ho Man Tin Station"
       },
       {
         "stop_seq": 14,
@@ -201,6 +201,6 @@
         "name_en": "Wai King Street, outside Block A, Wei Chien Court"
       }
     ],
-    "data_timestamp": "2024-12-06T10:08:12.925+08:00"
+    "data_timestamp": "2025-01-14T18:37:10.026+08:00"
   }
 }

@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:56:02.208+08:00",
+  "generated_timestamp": "2025-01-28T19:32:43.418+08:00",
   "data": {
     "route_stops": [
       {
@@ -54,6 +54,6 @@
         "name_en": "YU CHAU WEST STREET, near Hang Fat Industrial Building"
       }
     ],
-    "data_timestamp": "2024-10-25T12:35:11.206+08:00"
+    "data_timestamp": "2025-01-14T09:38:25.787+08:00"
   }
 }

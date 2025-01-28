@@ -1,0 +1,11 @@
+{
+  "id": "HKI_69A_2",
+  "route_id": 2000819,
+  "region": "HKI",
+  "route": "69A",
+  "route_seq": 2,
+  "from_tc": "黃竹坑站",
+  "from_en": "Wong Chuk Hang Station",
+  "to_tc": "數碼港",
+  "to_en": "Cyberport"
+}

@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-12-26T20:40:46+08:00",
+  "generated_timestamp": "2025-01-28T19:22:32+08:00",
   "data": {
     "stop": "003361",
     "name_tc": "屯門站",
@@ -9,6 +9,6 @@
     "lat": "22.395505672091",
     "long": "113.97368690053",
     "name_sc": "屯门站",
-    "data_timestamp": "2024-12-26T05:00:03+08:00"
+    "data_timestamp": "2025-01-28T05:00:02+08:00"
   }
 }

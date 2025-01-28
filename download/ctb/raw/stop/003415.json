@@ -1,7 +1,7 @@
 {
   "type": "Stop",
   "version": "2.0",
-  "generated_timestamp": "2024-12-26T20:38:41+08:00",
+  "generated_timestamp": "2025-01-28T19:18:23+08:00",
   "data": {
     "stop": "003415",
     "name_tc": "會展站",
@@ -9,6 +9,6 @@
     "lat": "22.281692412091",
     "long": "114.17584606053",
     "name_sc": "会展站",
-    "data_timestamp": "2024-12-26T05:00:03+08:00"
+    "data_timestamp": "2025-01-28T05:00:02+08:00"
   }
 }

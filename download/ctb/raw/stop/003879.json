@@ -1,0 +1,14 @@
+{
+  "type": "Stop",
+  "version": "2.0",
+  "generated_timestamp": "2025-01-28T19:27:28+08:00",
+  "data": {
+    "stop": "003879",
+    "name_tc": "K11人文購物藝術館, 梳士巴利道",
+    "name_en": "K11 MUSEA, Salisbury Road",
+    "lat": "22.294422052091",
+    "long": "114.17282336053",
+    "name_sc": "K11人文购物艺术馆, 梳士巴利道",
+    "data_timestamp": "2025-01-28T05:00:02+08:00"
+  }
+}

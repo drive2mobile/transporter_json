@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:55:24.823+08:00",
+  "generated_timestamp": "2025-01-28T19:32:14.032+08:00",
   "data": {
     "route_stops": [
       {
@@ -33,6 +33,6 @@
         "name_en": "North Point Ferry Pier Public Transport Interchange"
       }
     ],
-    "data_timestamp": "2024-12-16T10:01:26.024+08:00"
+    "data_timestamp": "2025-01-03T12:20:29.701+08:00"
   }
 }

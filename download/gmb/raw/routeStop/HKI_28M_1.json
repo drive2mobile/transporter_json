@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:54:57.720+08:00",
+  "generated_timestamp": "2025-01-28T19:31:41.123+08:00",
   "data": {
     "route_stops": [
       {
@@ -75,6 +75,6 @@
         "name_en": "Baguio Villa (Upper) Minibus Terminus"
       }
     ],
-    "data_timestamp": "2024-12-20T12:26:49.842+08:00"
+    "data_timestamp": "2025-01-20T11:37:05.558+08:00"
   }
 }

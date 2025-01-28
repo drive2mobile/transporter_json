@@ -140,10 +140,11 @@ async function getMtrStationFirstAndLastTrain(stopNo, lang)
         }
 
         // Now wait for the station name element
-        await page.waitForSelector('#stnName');
+        // await page.waitForSelector('#stnName');
 
         // Get the page content
         const content = await page.content();
+        console.log(content);
 
         // Parse with cheerio
         const $ = cheerio.load(content);
@@ -202,13 +203,13 @@ async function getAllMtrFirstAndLastTrain()
     {
         for (let i = 1; i <= 120; i++)
         {
-            console.log(`Processing station ${i} tc...`);
-            const schedule_tc = await getMtrStationFirstAndLastTrain(i.toString(), 'tc');
+            // console.log(`Processing station ${i} tc...`);
+            // const schedule_tc = await getMtrStationFirstAndLastTrain(i.toString(), 'tc');
 
-            if (schedule_tc && schedule_tc.length > 0)
-            {
-                result.push(...schedule_tc);
-            }
+            // if (schedule_tc && schedule_tc.length > 0)
+            // {
+            //     result.push(...schedule_tc);
+            // }
 
             console.log(`Processing station ${i} en...`);
             const schedule_en = await getMtrStationFirstAndLastTrain(i.toString(), 'en');

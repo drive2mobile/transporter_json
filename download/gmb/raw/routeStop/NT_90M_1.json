@@ -1,7 +1,7 @@
 {
   "type": "Route-Stop",
   "version": "1.0",
-  "generated_timestamp": "2024-12-26T20:59:05.158+08:00",
+  "generated_timestamp": "2025-01-28T19:35:22.901+08:00",
   "data": {
     "route_stops": [
       {
@@ -117,6 +117,6 @@
         "name_en": "Lai Kong Street, near Highland Park Block 4"
       }
     ],
-    "data_timestamp": "2024-10-30T11:55:43.673+08:00"
+    "data_timestamp": "2025-01-03T18:31:42.306+08:00"
   }
 }
